@@ -1,4 +1,4 @@
 GrampsDynamicWebReport
 ======================
 
-Add-on for GRAMPS: Produces dynamic (based on Javascript) Web Pages for your family tree
+Add-on for GRAMPS: Produces dynamic (based on Javascript) web pages for your family tree
