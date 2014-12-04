@@ -1,0 +1,596 @@
+/* Gramps - a GTK+/GNOME based genealogy program
+
+Copyright (C) 2014 Pierre Bélissent
+
+This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+You should have received a copy of the GNU General Public License along with this program; if not, write to the Free Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA
+*/
+
+/*===================================================== Body */
+
+body
+{
+	font-family: Georgia, serif;
+	font-size: 90%;
+	color: #7D5925;
+	background: url(Web_Mainz_Bkgd.png) black repeat;
+	margin: 8px;
+}
+body > div
+{
+	width: 950px;
+	margin: 0px auto;
+	background: url(Web_Mainz_Mid.png) #FFF2C6 repeat;
+}
+.fullscreen
+{
+	width: auto;
+	margin: 0px;
+	padding: 0px;
+	overflow: hidden;
+}
+.hidden
+{
+	visibility: hidden;
+}
+.centered
+{
+	text-align: center;
+}
+a, a:visited, a img, a:visited img
+{
+	color: #7D5925;
+	border-color: #7D5925;
+	text-decoration: none;
+}
+a:hover, a:hover img
+{
+	background-color: #FFFFE7;
+}
+img
+{
+	border-style: none;
+}
+li p
+{
+	margin: 0px;
+}
+h1
+{
+	font-size: x-large;
+	font-weight: normal;
+	font-style: italic;
+	color: black;
+	text-align: center;
+	border-bottom: dashed 1px #7D5925;
+	padding-bottom: 0.5ex;
+	margin: 0.5em 0px 0.5em 0px;
+}
+h2
+{
+	color: #000000;
+	font-size: 20px;
+}
+h3
+{
+	color: #000000;
+	font-size: 16px;
+}
+h4
+{
+	color: #000000;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+/*===================================================== Main divs */
+#header
+{
+	padding: 0px 20px;
+	padding-top: 5em;
+	background: url(Web_Mainz_Header.png) repeat-x top left;
+	/*background-size: cover;*/
+	/*display: inline-block;*/
+}
+#header_inner
+{
+	display: block;
+	padding: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	display: inline-block;
+}
+#body_page
+{
+	padding: 0px 20px;
+	display: table;
+/*	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0px;
+	margin-bottom: 0px;*/
+}
+#body_page_inner
+{
+	/*min-width: 950px;*/
+	padding: 5px;
+	display: block;
+}
+#body_tree
+{
+	padding: 0px 20px;
+	display: table;
+	/* padding: 0px;*/
+	/*width: auto;
+	display: inline-block;*/
+}
+#body_tree_inner
+{
+	/*min-width: 950px;*/
+	padding: 5px;
+	display: block;
+	/*position: relative;*/
+	/*display: inline-block;*/
+	/*background: url(Web_Mainz_Mid.png) #FFF2C6 repeat; */
+}
+#footer
+{
+	padding: 0px 20px;
+	background: url(Web_Mainz_MidLight.png) #FFF2C6;
+	border-top: dashed 1px #7D5925;
+}
+#footer_inner
+{
+	font-family: sans-serif;
+	font-size: smaller;
+	overflow-y: hidden;
+}
+
+/*===================================================== Menu */
+div.menu
+{
+	background: url(Web_Mainz_MidLight.png) #FFF2C6 repeat;
+	padding: 0px 20px;
+}
+div.form
+{
+	background: url(Web_Mainz_Mid.png) #FFF2C6 repeat;
+	padding: 0px 20px;
+}
+div.menu_inner, div.form_inner
+{
+	white-space: nowrap;
+	display: block;
+	font-family: sans-serif;
+}
+.embed_search
+{
+	background: url(Web_Mainz_Mid.png) #FFF2C6 repeat;
+	white-space: nowrap;
+	font-family: sans-serif;
+	display: table;
+	margin: auto;
+}
+.menu_form
+{
+	margin: 0px;
+	padding: 0px;
+	display:table;
+}
+.menu_item, .menu_button, .menu_button:visited, .menu_item_tree, .menu_item_tree_control
+{
+	padding: 0.4em 0.8em 0.3em 0.8em;
+	font-size: smaller;
+	display:inline-block;
+}
+a.menu_button:hover, .menu_button_on
+{
+	background-color: #FFFFE7;
+}
+.menu_button_sel
+{
+	background-image: url(Web_Mainz_Mid.png);
+}
+#menu_form_tree_buttons
+{
+	padding: 0px 0px 0px 20px;
+	display: table-cell;
+}
+.menu_search
+{
+	display: none;
+}
+.menu_item_current
+{
+	background-image: url(Web_Mainz_Mid.png);
+	font-weight: bold;
+	font-style: italic;
+	border-style: dashed;
+	border-width: 1px 1px 0px 1px;
+	border-color: #7D5925;
+}
+.FsearchTxt, .FsearchGen
+{
+	font-family: sans-serif;
+	color: #7D5925;
+	background-color: #FFF9E3;
+	border: 0px;
+	border-radius:5px;
+	box-shadow:1px 1px 2px inset;
+	padding: 2px;
+	display:inline-block;
+}
+.FsearchTxt
+{
+	width: 400px;
+}
+.FsearchTxt_init
+{
+	color: #808080;
+	font-style: italic;
+}
+
+/*===================================================== Media buttons */
+.media_buttons
+{
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+.media_button, .media_button:visited, .media_button_num, .media_button_num:hover
+{
+	background: url(Web_Mainz_MidLight.png) #FFF2C6 repeat;
+	font-weight: normal;
+	font-size: smaller;
+	font-family: sans-serif;
+	margin: 0px;
+	padding: 0.4em 0.8em 0.3em 0.8em;
+}
+.media_button:hover
+{
+	background-color: #FFFFE7;
+}
+
+
+/*===================================================== Page contents */
+.contents_title
+{
+	font-size: xx-large;
+	font-weight: normal;
+	font-style: italic;
+	color: #767D25;
+	text-align: center;
+	border-bottom: double 4px #7D5925;
+	padding-bottom: 1ex;
+	margin: 0.5em 0px 0.5em 0px;
+}
+.attribute_section
+{
+	font-size: 10pt;
+	font-weight: bold;
+	font-style: italic;
+}
+.attribute_title
+{
+	font-size: 14px;
+	font-weight: bold;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.attribute_value
+{
+	font-size: 14px;
+	font-weight: normal;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.attribute_header
+{
+	color: #000000;
+	font-size: 12px;
+	font-weight: normal;
+	font-style: italic;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.ref_parent, .ref_brother, .ref_spouse, .ref_child
+{
+	font-weight: bold;
+	margin-top: 2px;
+	margin-bottom: 2px;
+}
+.ref_parent_detailed, .ref_brother_detailed, .ref_spouse_detailed, .ref_child_detailed
+{
+	font-size: 12pt;
+	font-weight: bold;
+	margin-top: 4px;
+	margin-bottom: 4px;
+}
+.citation_ref, .citation_ref:visited
+{
+	vertical-align: super;
+	font-style: italic;
+	text-decoration: none;
+	color: #000000;
+}
+table.events, table.attrs, table.index, table.place, table.names, table.urls, table.assocs, table.addrs, table.index
+{
+	border-color: #808080;
+	border-width: 1px;
+	border-style: solid;
+	border-top-style: none;
+	border-left-style: none;
+	border-spacing: 0px;
+	border-collapse: collapse;
+	-webkit-margin-before: 1em;
+	-webkit-margin-after: 1em;
+	-webkit-margin-start: 0px;
+	-webkit-margin-end: 0px;
+}
+table.events td, table.events th, table.attrs td, table.attrs th, table.index td, table.index th, table.place td, table.place th, table.names th, table.names td, table.urls th, table.urls td, table.assocs th, table.assocs td, table.addrs th, table.addrs td
+{
+	vertical-align: top;
+	border-color: #808080;
+	border-width: 1px;
+	border-style: solid;
+	border-bottom-style: none;
+	border-right-style: none;
+}
+td.empty
+{
+	border-style: none;
+}
+a.index_title
+{
+	font-weight: normal;
+	font-style: italic;
+	display: block;
+}
+table.index td
+{
+	white-space: nowrap;
+}
+a.index
+{
+}
+ul.citations ul.backrefs
+{
+	list-style-type: none;
+}
+
+/*===================================================== Page collapsible titles */
+.tree_title
+{
+}
+.tree_sec1
+{
+	padding-left: 20px;
+}
+.tree_sec2
+{
+	padding-left: 5px;
+}
+.tree_sec3
+{
+	padding-left: 5px;
+}
+.title_hide
+{
+}
+.title_hover
+{
+}
+
+/*===================================================== Map */
+.map_div1
+{
+	overflow: hidden;
+	margin-left: auto;
+	margin-right: auto;
+	width: 750px;
+	height: 350px;
+	padding: 10px;
+}
+.map_div2
+{
+	box-shadow: 0 0 10px #999;
+	width: 750px;
+	height: 350px;
+}
+.map_div1_expanded
+{
+	overflow: hidden;
+}
+.map_div2_expanded
+{
+	width: 750px;
+	height: 350px;
+}
+.mapinfo
+{
+	font-size: smaller;
+	margin: 0px;
+}
+
+/*===================================================== Simple tree */
+.in0
+{
+	font-family: sans-serif;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.in1
+{
+	font-weight: bold;
+	font-family: sans-serif;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.simpletree_link, .simpletree_link:visited, .simpletree_link:hover 
+{
+	color: #000000;
+	text-decoration: none;
+	background-color: inherit;
+	display: block;
+}
+.simpletree_details, .simpletree_details:visited, .simpletree_details:hover 
+{
+	font-weight: normal;
+	font-style: italic;
+	vertical-align: super;
+	font-size: smaller;
+	font-family: sans-serif;
+	color: #000000;
+	text-decoration: none;
+	background-color: inherit;
+}
+
+.gen0 {color: #000000; background-color: #FFC0C0; fill: #FFC0C0;}
+.gen1 {color: #000000; background-color: #C0FFC0; fill: #C0FFC0;}
+.gen2 {color: #000000; background-color: #C0C0FF; fill: #C0C0FF;}
+.gen3 {color: #000000; background-color: #FFC0FF; fill: #FFC0FF;}
+.gen4 {color: #000000; background-color: #FFFFC0; fill: #FFFFC0;}
+.gen5 {color: #000000; background-color: #C0FFFF; fill: #C0FFFF;}
+.gen6 {color: #000000; background-color: #FFC0C0; fill: #FFC0C0;}
+.gen7 {color: #000000; background-color: #C0FFC0; fill: #C0FFC0;}
+.gen8 {color: #000000; background-color: #C0C0FF; fill: #C0C0FF;}
+.gen9 {color: #000000; background-color: #FFC0FF; fill: #FFC0FF;}
+.gen10 {color: #000000; background-color: #FFFFC0; fill: #FFFFC0;}
+.gen11 {color: #000000; background-color: #C0FFFF; fill: #C0FFFF;}
+.gen12 {color: #000000; background-color: #FFC0C0; fill: #FFC0C0;}
+.gen13 {color: #000000; background-color: #C0FFC0; fill: #C0FFC0;}
+.gen14 {color: #000000; background-color: #C0C0FF; fill: #C0C0FF;}
+.gen15 {color: #000000; background-color: #FFC0FF; fill: #FFC0FF;}
+.gen16 {color: #000000; background-color: #FFFFC0; fill: #FFFFC0;}
+.gen17 {color: #000000; background-color: #C0FFFF; fill: #C0FFFF;}
+.gen18 {color: #000000; background-color: #FFC0C0; fill: #FFC0C0;}
+.gen19 {color: #000000; background-color: #C0FFC0; fill: #C0FFC0;}
+.gen20 {color: #000000; background-color: #C0C0FF; fill: #C0C0FF;}
+.gen21 {color: #000000; background-color: #FFC0FF; fill: #FFC0FF;}
+.gen22 {color: #000000; background-color: #FFFFC0; fill: #FFFFC0;}
+.gen23 {color: #000000; background-color: #C0FFFF; fill: #C0FFFF;}
+.gen24 {color: #000000; background-color: #FFC0C0; fill: #FFC0C0;}
+.gen25 {color: #000000; background-color: #C0FFC0; fill: #C0FFC0;}
+.gen26 {color: #000000; background-color: #C0C0FF; fill: #C0C0FF;}
+.gen27 {color: #000000; background-color: #FFC0FF; fill: #FFC0FF;}
+.gen28 {color: #000000; background-color: #FFFFC0; fill: #FFFFC0;}
+.gen29 {color: #000000; background-color: #C0FFFF; fill: #C0FFFF;}
+.gen30 {color: #000000; background-color: #FFC0C0; fill: #FFC0C0;}
+
+.simpletree
+{
+	border-width: 1px;
+	border-color: #000000;
+	border-style: solid;
+}
+
+.implex  {background-color: #FF0000;}
+.male {}
+.female {font-style: italic;}
+.unknown {}
+
+
+/*===================================================== SVG tree */
+
+.svgDrawing
+{
+	background: #FFFFFF;
+	position: relative;
+	overflow: hidden;
+	margin-left: auto;
+	margin-right: auto;
+	box-shadow: 0 0 10px #999;
+	margin: 10px;
+	text-align: center;
+}
+.svgDrawingExpand
+{
+	background: #FFFFFF;
+	position: relative;
+	overflow: hidden;
+	margin: 0px;
+	width: auto;
+}
+.svgDrawing svg
+{
+	display: block;
+}
+.svgDrawingType
+{
+	position: absolute;
+	top: 5px;
+	left: 5px;
+	opacity: 0.6;
+}
+.svgTypeSelector
+{
+	width: 150px;
+}
+.svgPopup
+{
+	position: absolute;
+	top: 5px;
+	left: 5px;
+	opacity: 0.9;
+	background: #FFFFFF;
+	color: #000000;
+	border-radius: 5px;
+	border-width: 1px;
+	border-color: #000000;
+	border-style: solid;
+	padding: 5px;
+}
+.svgPopup p
+{
+	margin: 0px;
+	text-align: center;
+}
+
+.SVGtree
+{
+	stroke: #000000;
+	stroke-width: 3px;
+	/*fill: none;*/
+	/*fill: #FFFFFF;*/
+}
+.SVGcenter {fill: #D0D0D0;}
+.SVGimplex {fill: #FF0000;}
+.SVGmale {}
+.SVGfemale {}
+.SVGunknown {}
+.SVGhover {fill: #FFA500;}
+
+.SVGtext
+{
+	stroke: none;
+	fill: #000000;
+}
+.SVGtextcenter {font-weight: bold;}
+.SVGtextimplex {}
+.SVGtextmale {}
+.SVGtextfemale {font-style: italic;}
+.SVGtextunknown {}
+.SVGline
+{
+	stroke: #000000;
+	stroke-width: 3px;
+}
+
+.SVGbutton
+{
+	cursor: pointer;
+	stroke: #000000;
+	stroke-width: 2px;
+	fill: #FFFFFF;
+	opacity: 0.6;
+}
+
+.SVGbuttontext
+{
+	cursor: pointer;
+	stroke: #000000;
+	stroke-width: 2px;
+	stroke-linecap: round;
+	opacity: 0.6;
+}
