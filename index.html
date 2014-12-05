@@ -37,28 +37,22 @@
 <h2>
 <a id="description" class="anchor" href="#description" aria-hidden="true"><span class="octicon octicon-link"></span></a>Description</h2>
 
-<p>This add-on for GRAMPS is an alternative to the Narrative Web Report.
+<p>This add-on for GRAMPS is an alternative to the <a href="https://gramps-project.org/wiki/index.php?title=Gramps_4.0_Wiki_Manual_-_Reports_-_part_7">Narrative Web Report</a>.<br>
 It exports the database as web pages.</p>
 
 <h2>
 <a id="features" class="anchor" href="#features" aria-hidden="true"><span class="octicon octicon-link"></span></a>Features</h2>
 
-<p>Compared to the Narrative Web Report, the Dynamic Web Report has the following differences:</p>
-
 <ul>
-<li>The web pages could include a <strong>browsable</strong> family tree.<br>
-This graphical family tree is printed using the SVG format.<br>
-It could be zoomed (like google map) in order to print 30 generations or more (depends on your hardware).<br>
-It show descendants or ancestry (or both), as a tree or as concentric circles.<br>
-The center of the graphical family tree changes when clicking on a person.<br>
+<li>
+<strong>Browsable</strong> and zoomable bi-directional family tree view <a href="test_000/tree_svg.html?idx=784&amp;FsearchAsc=9&amp;FsearchDsc=9">[demo]</a>.<br>
 </li>
-<li>The web pages include a <strong>search form</strong>, in order to search for an individual.</li>
-<li>The web pages include index pages that could be sorted by any column.</li>
-<li>The pictures are clickable<br>
-(the clickable regions correspond to the GRAMPS database media references regions)</li>
-<li>The web pages generated are based on <strong>client-side Javascript</strong>.<br>
-Hence, the generated site is smaller, and contains much less files.<br>
-The web pages could be browsed in a regular web site or on the local machine.</li>
+<li>
+<strong>Search</strong> by individual.</li>
+<li>Clickable pictures <a href="test_001/media.html?mdx=1">[demo]</a><br>
+</li>
+<li>Based on client-side <strong>Javascript</strong>.<br>
+</li>
 </ul>
 
 <h2>
@@ -71,10 +65,33 @@ The web pages could be browsed in a regular web site or on the local machine.</l
 <a href="test_004/indi.html?FsearchTxt=Garner%20von%20Zieli%u0144ski%2C%20Lewis%20Anderson%20Sr">Example with minimal features (without private data, notes, sources, addresses, gallery, places, families, events)</a></p>
 
 <h2>
+<a id="features-details" class="anchor" href="#features-details" aria-hidden="true"><span class="octicon octicon-link"></span></a>Features details</h2>
+
+<ul>
+<li>
+<strong>browsable</strong> family tree:
+This graphical family tree is printed using the SVG format.<br>
+It could be zoomed (like google map) in order to print 30 generations or more (depends on your hardware).<br>
+It show descendants or ancestry (or both), as a tree or as concentric circles.<br>
+The center of the graphical family tree changes when clicking on a person.<br>
+</li>
+<li>
+<strong>Indexes</strong> could be sorted by any column.<br>
+</li>
+<li>Clickable pictures:<br>
+The clickable regions correspond to the GRAMPS database media references regions</li>
+<li>Client-side <strong>Javascript</strong>:<br>
+No impact on server resources
+The generated site is smaller, and contains much less files.<br>
+The web pages could be browsed in a regular web site or on the local machine.</li>
+</ul>
+
+<h2>
 <a id="development-status" class="anchor" href="#development-status" aria-hidden="true"><span class="octicon octicon-link"></span></a>Development status</h2>
 
 <p>This report is only a <strong>prototype</strong> for evaluation.<br>
 This prototype is based on GRAMPS version 4.0.4<br>
+No code nor installation available yet:<br>
 The code is not ready for coming out (not commented, poor architecture, etc.)</p>
       </section>
     </div>
