@@ -1,0 +1,667 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-15 10:07+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.gpr.py:15
+msgid "Dynamic Web Report"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.gpr.py:16
+msgid "Produces dynamic web pages for the database"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:193
+msgid "Person page"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:194
+msgid "Surnames index page"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:195
+msgid "Individuals index page"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:196
+msgid "Families index page"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:197
+msgid "Sources index page"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:198
+msgid "Media index page"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:199
+msgid "Places index page"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:200
+msgid "Addresses page"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:201
+msgid "Repositories index page"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:202
+msgid "SVG graphical tree"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:202
+msgid "Tree"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:204
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:3280
+#, python-format
+msgid "Custom page %(index)i"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:223
+msgid "Ascending tree"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:224
+msgid "Ascending tree (circle)"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:225
+msgid "Ascending tree (circle, proportional size)"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:226
+msgid "Ascending tree (half-circle, fixed size)"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:227
+msgid "Ascending tree (half-circle, proportional size)"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:228
+msgid "Descending tree"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:229
+msgid "Descending tree (with spouses)"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:230
+msgid "Descending tree (circle)"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:231
+msgid "Descending tree (circle, with spouses)"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:232
+msgid "Descending tree (half-circle)"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:233
+msgid "Descending tree (half-circle, with spouses)"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:234
+msgid "Ascending and descending tree"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:235
+msgid "Ascending and descending tree (with spouses)"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:236
+msgid "Ascending and descending tree (circle)"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:237
+msgid "Ascending and descending tree (circle, with spouses)"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:238
+msgid "Ascending and descending tree (circle, proportional size)"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:239
+msgid "Ascending and descending tree (circle, proportional size, with spouses)"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:248
+msgid "Default template"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:249
+msgid "Mayence"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:482
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:487
+#, python-format
+msgid "Could not create the directory: %(path)s"
+msgstr ""
+
+#. ################################################
+#. Pass 2 Generate the web pages
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:508
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:2578
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:2584
+msgid "Dynamic Web Site Report"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:508
+msgid "Exporting family tree data ..."
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:1544
+#, python-format
+msgid "Impossible to copy \"%(src)s\" to \"%(dst)s\""
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:1553
+#, python-format
+msgid "Impossible to convert \"%(path)s\" to a relative path."
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:1810
+msgid ""
+"The pages configuration is not valid: several pages have the same content"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:1946
+msgid "(filtered from _MAX_ total entries)"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:1947
+msgid "(sort by name)"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:1948
+msgid "(sort by quantity)"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:1949
+msgid ": activate to sort column ascending"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:1950
+msgid ": activate to sort column descending"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:1951
+msgid ""
+"<p>Click on a person to center the graph on this person.<br>When clicking on "
+"the center person, the person page is shown.<p>The type of graph could be "
+"selected in the list (on the top left side of the graph)<p>The number of "
+"ascending end descending generations could also be adjusted.<p>Use the mouse "
+"wheel or the buttons to zoom in and out.<p>The graph could also be shown "
+"fullscreen."
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:1955
+msgid "Alternate Name"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:1956
+msgid "Ancestry"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:1961
+msgid "Brothers and Sisters"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:1969
+msgid "Click on the map to show it fullscreen"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:1978
+msgid "Families Index"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:1979
+msgid "Family Nick Name"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:1983
+msgid "Graph help"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:1993
+msgid "Maximize"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:1994
+msgid "Media found:"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:1995
+msgid "Media Index"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:1996
+msgid "Media Type"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:2001
+msgid "No data available in table"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:2002
+msgid "No matching records found"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:2003
+msgid "No matching surname."
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:2004
+msgid "None."
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:2008
+msgid "Person to search for"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:2010
+msgid "Persons found:"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:2011
+msgid "Persons Index"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:2013
+msgid "Places found:"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:2014
+msgid "Places Index"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:2018
+msgid "Relationship to Father"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:2019
+msgid "Relationship to Mother"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:2023
+msgid "Search:"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:2024
+msgid "Select the number of ascending generations"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:2025
+msgid "Select the number of descending generations"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:2026
+msgid "Select the type of graph"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:2027
+msgid "Several matches.<br>Precise your search or choose in the lists below."
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:2028
+msgid "Show _MENU_ entries"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:2029
+msgid "Showing 0 to 0 of 0 entries"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:2030
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:2032
+msgid "Sources found:"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:2033
+msgid "Sources Index"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:2038
+msgid "Surnames Index"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:2040
+msgid "There is no matching name."
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:2044
+msgid ""
+"Use the search box above in order to find a person.<br>Women are listed with "
+"their maiden name."
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:2045
+msgid "Used for family"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:2046
+msgid "Used for media"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:2047
+msgid "Used for person"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:2048
+msgid "Used for place"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:2049
+msgid "Used for source"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:2051
+msgid "Web Link"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:2053
+msgid "Without surname"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:2278
+#, python-format
+msgid "Copying error: %(error)s"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:2309
+#, python-format
+msgid "Unable to copy web site template files from \"%(path)s\""
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:2344
+#, python-format
+msgid "Keeping \"%(dst)s\" (newer than \"%(src)s\")"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:2347
+#, python-format
+msgid "Copying \"%(src)s\" to \"%(dst)s\""
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:2371
+#, python-format
+msgid "Unable to overwrite archive file \"%(path)s\""
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:2380
+#, python-format
+msgid "Unable to add file \"%(file)s\" to archive \"%(archive)s\""
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:2431
+#, python-format
+msgid "DynamicWebReport ignoring link type '%(class)s'"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:2719
+#, python-format
+msgid "Family of %(father)s and %(mother)s"
+msgstr ""
+
+#. Only the name of the husband is known
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:2725
+#, python-format
+msgid "Family of %(father)s"
+msgstr ""
+
+#. Only the name of the wife is known
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:2729
+#, python-format
+msgid "Family of %(mother)s"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:2944
+msgid ""
+"In this note, the following special words are processed:\n"
+"__SEARCH_FORM__ is replaced by a search form.\n"
+"__NB_INDIVIDUALS__ is replaced by the number of persons.\n"
+"__NB_FAMILIES__ is replaced by the number of families.\n"
+"__NB_MEDIA__ is replaced by the number of media objects.\n"
+"__NB_SOURCES__ is replaced by the number of sources.\n"
+"__NB_REPOSITORIES__ is replaced by the number of repositories.\n"
+"__NB_PLACES__ is replaced by the number of places.\n"
+"__MEDIA_<gid>__ is replaced by the media with gramps ID <gid>.\n"
+"__THUMB_<gid>__ is replaced by the thumbnail of the media with gramps ID "
+"<gid>.\n"
+"__EXPORT_DATE__ is replaced by the current date.\n"
+"__GRAMPS_VERSION__ is replaced by the GRAMPS version.\n"
+"__GRAMPS_HOMEPAGE__ is replaced by the GRAMPS homepage link.\n"
+"URL starting with \"relative://relative.<link>\" are replaced by the "
+"relative URL \"<link>\".\n"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:2993
+msgid "Store web pages in archive"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:2994
+msgid ""
+"Whether to create an archive file (in ZIP or TGZ format) containing the web "
+"site"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:2998
+msgid "Archive file"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:3000
+msgid "The archive file name (with \".zip\" or \".tgz\" extension)"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:3034
+msgid "Select the format to display the complete names"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:3036
+msgid "Name format (short)"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:3039
+msgid "Select the format to display a shorter version of the names"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:3042
+msgid "Web site template"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:3045
+msgid "Select the template of the web site"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:3066
+msgid "Export notes"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:3067
+msgid "Whether to export notes in the web pages"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:3070
+msgid "Export sources"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:3071
+msgid "Whether to export sources and citations in the web pages"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:3074
+msgid "Export addresses"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:3075
+msgid "Whether to export addresses in the web pages"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:3112
+msgid "Whether to include a media objects in the web pages"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:3115
+msgid "Copy images and media objects"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:3116
+msgid ""
+"Whether to make a copy of the media objects. When the objects are not "
+"copied, they are referenced by their relative path name"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:3120
+msgid "Print the notes type"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:3121
+msgid "Whether to print the notes type in the notes text"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:3124
+msgid "Print place pages"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:3125
+msgid "Whether to show pages for the places"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:3188
+msgid "Include a column for marriage dates on the index pages"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:3189
+msgid "Whether to include a marriage column"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:3208
+msgid "Include references in indexes"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:3209
+msgid ""
+"Whether to include the references to the items in the index pages. For "
+"example, in the media index page, the names of the individuals, families, "
+"places, sources that reference the media."
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:3219
+msgid "Trees"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:3222
+msgid "Maximum number of  generations"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:3223
+msgid ""
+"The maximum number of generations to include in the ancestor and descendant "
+"trees and graphs"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:3232
+#, python-format
+msgid "Title for the tree \"%(name)s\""
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:3233
+#, python-format
+msgid "Name for the page that shows the tree \"%(name)s\""
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:3236
+msgid "SVG tree graph type"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:3239
+msgid "Choose the default SVG tree graph type."
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:3244
+msgid "Pages"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:3269
+#, python-format
+msgid "Title for the page \"%(name)s\""
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:3270
+#, python-format
+msgid "Name for the page \"%(name)s\""
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:3275
+msgid "Custom pages"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:3280
+#, python-format
+msgid "Title for the custom page %(index)i"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:3281
+#, python-format
+msgid "Name for the custom page %(index)i"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:3284
+#, python-format
+msgid "Note for custom page %(index)i"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:3285
+msgid "A note to be used for the custom page content.\n"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:3288
+#, python-format
+msgid "Menu for the custom page %(index)i"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:3289
+msgid "Whether to print a menu for the custom page"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:3294
+msgid "Pages selection"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:3297
+msgid "Number of pages"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:3298
+msgid "Number pages in the web site."
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:3320
+#, python-format
+msgid "Contents of page %(index)i"
+msgstr ""
+
+#: D:\gramps-4.0.4\gramps-addons\branches\gramps40\contrib\dynamicweb\po\..\dynamicweb.py:3323
+msgid "Contents of the page"
+msgstr ""
