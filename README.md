@@ -1,4 +1,4 @@
-GrampsDynamicWebReport
-======================
+GRAMPS dynamic web report examples
+==================================
 
-Add-on for GRAMPS: Produces dynamic (based on Javascript) web pages for your family tree
+Example for the GRAMPS dynamic web report (client-side Javascript web pages for GRAMPS)
