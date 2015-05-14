@@ -6,7 +6,7 @@
     <title>GRAMPS dynamic web report examples by belissent</title>
 
     <link rel="stylesheet" href="stylesheets/styles.css">
-    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+    <link rel="stylesheet" href="stylesheets/github-light.css">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -42,12 +42,12 @@ It exports the database as web pages.</p>
 
 <ul>
 <li>
-<strong>Browsable</strong> and zoomable bi-directional family tree view <a href="test_results/test_000/tree_svg.html?idx=783&amp;sasc=9&amp;sdsc=9">[demo]</a>.<br>
+<strong>Browsable</strong> and zoomable bi-directional family tree view <a href="test_results/test_000/tree_svg.html?igid=I0044">[demo]</a>.<br>
 </li>
 <li>
 <strong>Search</strong> by individual.<br>
 </li>
-<li>Clickable pictures <a href="test_results/test_001/media.html?mdx=0">[demo]</a><br>
+<li>Clickable pictures <a href="test_results/test_001/media.html?mgid=O0010">[demo]</a><br>
 </li>
 <li>Based on client-side <strong>Javascript</strong>.<br>
 </li>
@@ -56,11 +56,13 @@ It exports the database as web pages.</p>
 <h2>
 <a id="demos" class="anchor" href="#demos" aria-hidden="true"><span class="octicon octicon-link"></span></a>Demos</h2>
 
-<p><a href="test_results/test_000/person.html?stxt=Garner%20von%20ski">Example using the default style</a><br>
-<a href="test_results/test_000/tree_svg.html?stxt=Garner%20von%20ski&amp;idx=783&amp;sasc=9&amp;sdsc=9&amp;svgtype=12">Example of graphical family tree</a><br>
-<a href="test_results/test_001/person.html?stxt=Garner%20von%20ski">Example using another style ('Mainz' style of the narrative web report)</a><br>
-<a href="test_results/test_001/media.html?mdx=0">Example of clickable picture</a><br>
-<a href="test_results/test_004/person.html?stxt=Garner%20von%20ski">Example with minimal features (without private data, notes, sources, addresses, gallery, places, families, events)</a></p>
+<p><a href="test_results/test_000/person.html?igid=I0044">Example using the default style</a><br>
+<a href="test_results/test_000/tree_svg.html?igid=I0044">Example of graphical family tree</a> - 
+<a href="test_results/test_000/tree_svg.html?igid=I0044&amp;svgshape=4&amp;svgbk=0">example bis</a> - 
+<a href="test_results/test_000/tree_svg.html?igid=I0044&amp;svgshape=0&amp;svgbk=7">example ter</a><br>
+<a href="test_results/test_001/person.html?igid=I0044">Example using another style ('Mainz' style of the narrative web report)</a><br>
+<a href="test_results/test_001/media.html?mgid=O0010">Example of clickable picture</a><br>
+<a href="test_results/test_004/person.html?igid=I0044">Example with minimal features (without private data, notes, sources, addresses, gallery, places, families, events)</a></p>
 
 <h2>
 <a id="features-details" class="anchor" href="#features-details" aria-hidden="true"><span class="octicon octicon-link"></span></a>Features details</h2>
@@ -69,7 +71,7 @@ It exports the database as web pages.</p>
 <li>
 <strong>browsable</strong> family tree:
 This graphical family tree is printed using the SVG format.<br>
-It could be zoomed (like google map) in order to print 30 generations or more (depends on your hardware).<br>
+It could be zoomed (like google map) in order to print 20 generations or more.<br>
 It show descendants or ancestry (or both), as a tree or as concentric circles.<br>
 The center of the graphical family tree changes when clicking on a person.<br>
 </li>
