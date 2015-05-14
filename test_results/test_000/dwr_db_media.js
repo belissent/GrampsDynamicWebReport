@@ -1,8 +1,10 @@
 // This file is generated
 
+// 'M' is sorted by media title
 // 'M' gives for each media object:
+//   - Gramps ID
 //   - The media title
-//   - The media path in GRAMPS
+//   - The media path in Gramps
 //   - The media path were the media is really located
 //   - The media MIME type
 //   - The media date
@@ -37,22 +39,7 @@
 //       - notes of the media reference
 //       - list of the media reference source citations index (in table 'C')
 M = [
-["1897_expeditionsmannschaft_rio_a",
-"1897_expeditionsmannschaft_rio_a.jpg",
-"image/238cgq939hg18ss5mg.jpg",
-"image/jpeg",
-"",
-"",
-"",
-[],
-[],
-"thumb/238CGQ939HG18SS5MG.png",
-[[172,"thumb/238CGQ939HG18SS5MG-15,27-25,43.png",[15,27,25,43],"",[]],[783,"thumb/238CGQ939HG18SS5MG-51,19-59,33.png",[51,19,59,33],"",[]]],
-[],
-[],
-[[68,"thumb/238CGQ939HG18SS5MG.png",[0,0,100,100],"<div>\n<p>\n<b>Nickname</b>: Fred\n</p>\n</div>",[141,142,142]]]
-],
-["1855-06-25 scanned birth record",
+["O0000","1855-06-25 scanned birth record",
 "scanned_microfilm.png",
 "image/b39fe1cfc1305ac4a21.png",
 "image/png",
@@ -62,12 +49,27 @@ M = [
 [],
 [],
 "thumb/b39fe1cfc1305ac4a21.png",
-[[783,"thumb/b39fe1cfc1305ac4a21.png",[0,0,100,100],"<div>\n<p>\n<b>Father\'s Age</b>: 25\n</p>\n</div>",[1231,1232,1232]]],
+[[657,"thumb/b39fe1cfc1305ac4a21.png",[0,0,100,100],"<div>\n<p>\n<b>Father\'s Age</b>: 25\n</p>\n</div>",[1973,1974,1974]]],
 [],
-[[2,"thumb/b39fe1cfc1305ac4a21.png",[0,0,100,100],"",[]]],
+[[1,"thumb/b39fe1cfc1305ac4a21.png",[0,0,100,100],"",[]]],
 []
 ],
-["Alimehemet",
+["O0008","654px-Aksel_Andersson",
+"654px-Aksel_Andersson.jpg",
+"image/b1aufqv7h8r9nr4szm.jpg",
+"image/jpeg",
+"",
+"",
+"",
+[1984],
+[["Description","This seems to be a photo of a relative","",[1985]]],
+"thumb/B1AUFQV7H8R9NR4SZM.png",
+[[657,"thumb/B1AUFQV7H8R9NR4SZM.png",[0,0,100,100],"<div>\n<p>\n<b>Age</b>: 50\n</p>\n</div>",[1982,1983,1983]]],
+[],
+[],
+[]
+],
+["O0006","Alimehemet",
 "Alimehemet.jpg",
 "image/f0qigqft275jfj75e8.jpg",
 "image/jpeg",
@@ -78,26 +80,11 @@ M = [
 [],
 "thumb/F0QIGQFT275JFJ75E8.png",
 [],
-[[440,"thumb/F0QIGQFT275JFJ75E8.png",[0,0,100,100],"<div>\n<p>\n<b>Identification Number</b>: 12345\n</p>\n</div>",[1247,1248,1248]]],
+[[246,"thumb/F0QIGQFT275JFJ75E8.png",[0,0,100,100],"<div>\n<p>\n<b>Identification Number</b>: 12345\n</p>\n</div>",[1598,1599,1599]]],
 [],
 []
 ],
-["654px-Aksel_Andersson",
-"654px-Aksel_Andersson.jpg",
-"image/b1aufqv7h8r9nr4szm.jpg",
-"image/jpeg",
-"",
-"",
-"",
-[1251],
-[["Description","This seems to be a photo of a relative","",[1252]]],
-"thumb/B1AUFQV7H8R9NR4SZM.png",
-[[783,"thumb/B1AUFQV7H8R9NR4SZM.png",[0,0,100,100],"<div>\n<p>\n<b>Age</b>: 50\n</p>\n</div>",[1249,1250,1250]]],
-[],
-[],
-[]
-],
-["Yawn",
+["O0009","Yawn",
 "Gunnlaugur_Larusson_-_Yawn.jpg",
 "image/78v2gqx2fknsyq3ohe.jpg",
 "image/jpeg",
@@ -107,12 +94,12 @@ M = [
 [],
 [],
 "thumb/78V2GQX2FKNSYQ3OHE.png",
-[[1048,"thumb/78V2GQX2FKNSYQ3OHE.png",[0,0,100,100],"",[]]],
+[[640,"thumb/78V2GQX2FKNSYQ3OHE.png",[0,0,100,100],"",[]]],
 [],
 [],
 []
 ],
-["E_W_Dahlgren",
+["O0007","E_W_Dahlgren",
 "E_W_Dahlgren.jpg",
 "image/f8jygqfl2pklsyh79x.jpg",
 "image/jpeg",
@@ -122,12 +109,27 @@ M = [
 [],
 [],
 "thumb/F8JYGQFL2PKLSYH79X.png",
-[[1098,"thumb/F8JYGQFL2PKLSYH79X.png",[0,0,100,100],"",[]]],
+[[651,"thumb/F8JYGQFL2PKLSYH79X.png",[0,0,100,100],"",[]]],
 [],
 [],
 []
 ],
-["AntoineClaudet",
+["O0010","1897_expeditionsmannschaft_rio_a",
+"1897_expeditionsmannschaft_rio_a.jpg",
+"image/238cgq939hg18ss5mg.jpg",
+"image/jpeg",
+"1897",
+"1897",
+"",
+[],
+[],
+"thumb/238CGQ939HG18SS5MG.png",
+[[657,"thumb/238CGQ939HG18SS5MG-51,19-59,33.png",[51,19,59,33],"",[]],[679,"thumb/238CGQ939HG18SS5MG-15,27-25,43.png",[15,27,25,43],"",[]]],
+[],
+[],
+[[782,"thumb/238CGQ939HG18SS5MG.png",[0,0,100,100],"<div>\n<p>\n<b>Nickname</b>: Fred\n</p>\n</div>",[694,695,695]]]
+],
+["O0011","AntoineClaudet",
 "AntoineClaudet.png",
 "image/y3argqwe088eqrttdh.png",
 "image/png",
@@ -137,7 +139,7 @@ M = [
 [],
 [],
 "thumb/Y3ARGQWE088EQRTTDH.png",
-[[2004,"thumb/Y3ARGQWE088EQRTTDH.png",[0,0,100,100],"",[]]],
+[[1098,"thumb/Y3ARGQWE088EQRTTDH.png",[0,0,100,100],"",[]]],
 [],
 [],
 []

@@ -4,7 +4,7 @@
 //
 // This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
 // This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
-// You should have received a copy of the GNU General Public License along with this program; if not, write to the Free Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA
+// You should have received a copy of the GNU General Public License along with this program; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
 
 // This script is part of the GRAMPS dynamic web report
 // See 'dynamicweb.py'
@@ -46,11 +46,13 @@ function BodyDecorate()
 	// Check if the current page needs a menu
 	var menuless = false;
 	if ($('.dwr-menuless').length > 0) menuless = true;
+	if (search.SvgExpanded) menuless = true;
+	if (search.MapExpanded) menuless = true;
 	
 	// Build the div for the body content
 	$('body').wrapInner('<div id="body-page" class="container"></div>');
 	
-	// Buid menu if any
+	// Build menu if any
 	if (!menuless)
 	{
 		BuildMenu();
@@ -84,9 +86,9 @@ function BodyContentsMaxSize()
 	// The size is return as an object with 'width' and 'height' attributes
 	var w = $(window).width();
 	var h = $(window).height();
-	if ($('#dwr-header').length > 0) h -= $('#dwr-header').outerHeight();
-	if ($('#dwr-footer').length > 0) h -= $('#dwr-footer').outerHeight();
-	if ($('#dwr-menu').length > 0) h -= $('#dwr-menu').outerHeight();
+	if ($('#dwr-header').is(':visible')) h -= $('#dwr-header').outerHeight(true);
+	if ($('#dwr-footer').is(':visible')) h -= $('#dwr-footer').outerHeight(true);
+	if ($('#dwr-menu').is(':visible')) h -= $('#dwr-menu').outerHeight(true);
 	var size = {'width': w, 'height': h}
 	size = innerDivNetSize(size, $('body'));
 	size = innerDivNetSize(size, $('#body-page'));
@@ -122,8 +124,6 @@ function innerDivNetSize(size, div)
 
 var search = {
 	//Txt; // Test of the search input form (in the navbar or embedded in the page)
-	//Asc; // Number of ascending generations
-	//Dsc; // Number of descending generations
 	//Idx; // Index of the current person (in table "I")
 	//Fdx; // Index of the current family (in table "F")
 	//Mdx; // Index of the current media object (in table "M")
@@ -131,17 +131,24 @@ var search = {
 	//Pdx; // Index of the current place (in table "P")
 	//Rdx; // Index of the current repository (in table "R")
 	//SNdx; // Index of the current surname (in table "SN")
-	//SvgType; // Type of SVG graph used (the number is the index in graphsInitialize)
+	//Igid; // Gramps ID of the current person
+	//Fgid; // Gramps ID of the current family
+	//Mgid; // Gramps ID of the current media object
+	//Sgid; // Gramps ID of the current source
+	//Pgid; // Gramps ID of the current place
+	//Rgid; // Gramps ID of the current repository
+	//SvgType; // Type of SVG graph used
+	//SvgShape; // The SVG graph shape
+	//Asc; // Number of ascending generations
+	//Dsc; // Number of descending generations
+	//SvgDistribAsc; // The SVG graph parents distribution
+	//SvgDistribDsc; // The SVG graph children distribution
+	//SvgBackground; // The SVG graph color scheme
+	//SvgExpanded; // Whether the SVG tree should be expanded to full screen
 	//ImgList; // List of media index (in table "M") for the slideshow
-	//mapExpanded; // Whether the map should be expanded to full screen
+	//MapExpanded; // Whether the map should be expanded to full screen
 };
 
-
-// Was the search input control submitted ?
-// 0: for the search input in the navbar
-// 1: for the search input embedded in the page
-// -1: search input control not submitted
-var searchTxtSubmit = -1;
 
 // Does the page contain an embedded search input ?
 var searchEmbedded = false;
@@ -156,8 +163,6 @@ function ParseSearchString()
 	if (searchInitialized) return;
 	searchInitialized = true;
 	search.Txt = GetURLParameter('stxt', '');
-	search.Asc = GetURLParameter('sasc', 4);
-	search.Dsc = GetURLParameter('sdsc', 4);
 	search.Idx = GetURLParameter('idx', -1);
 	search.Fdx = GetURLParameter('fdx', -1);
 	search.Mdx = GetURLParameter('mdx', -1);
@@ -165,10 +170,23 @@ function ParseSearchString()
 	search.Pdx = GetURLParameter('pdx', -1);
 	search.Rdx = GetURLParameter('rdx', -1);
 	search.SNdx = GetURLParameter('sndx', -1);
+	search.Igid = GetURLParameter('igid', '');
+	search.Fgid = GetURLParameter('fgid', '');
+	search.Mgid = GetURLParameter('mgid', '');
+	search.Sgid = GetURLParameter('sgid', '');
+	search.Pgid = GetURLParameter('pgid', '');
+	search.Rgid = GetURLParameter('rgid', '');
+	search.Asc = GetURLParameter('sasc', 4);
+	search.Dsc = GetURLParameter('sdsc', 4);
 	search.SvgType = GetURLParameter('svgtype', SVG_TREE_TYPE);
+	search.SvgShape = GetURLParameter('svgshape', SVG_TREE_SHAPE);
+	search.SvgDistribAsc = GetURLParameter('svgdasc', SVG_TREE_DISTRIB_ASC);
+	search.SvgDistribDsc = GetURLParameter('svgddsc', SVG_TREE_DISTRIB_DSC);
+	search.SvgBackground = GetURLParameter('svgbk', SVG_TREE_BACKGROUND);
+	search.SvgExpanded = GetURLParameter('svgx', false);
 	search.ImgList = GetURLParameter('simg', []);
 	if (search.Mdx != -1 && search.ImgList.length == 0) search.ImgList = [search.Mdx];
-	search.mapExpanded = GetURLParameter('mexp', false);
+	search.MapExpanded = GetURLParameter('mexp', false);
 }
 
 function GetURLParameter(sParam, def)
@@ -200,37 +218,37 @@ function GetURLParameter(sParam, def)
 }
 
 
-function BuildSearchString(new_idx, new_fdx, new_mdx, new_sdx, new_pdx, new_rdx, new_surn)
+function BuildSearchString(params)
 {
 	// Builds the URL search string from the global parameters values ("search")
-	// and from the optional function parameters new_***
+	// and from the optional parameter of the function "params"
+	// "params" has the same structure as "search"
+	params = (typeof(params) !== 'undefined') ? params : {};
 	var s = '';
-	s = SetURLParameter(s, 'idx', new_idx, search.Idx, -1);
-	s = SetURLParameter(s, 'fdx', new_fdx, search.Fdx, -1);
-	s = SetURLParameter(s, 'mdx', new_mdx, search.Mdx, -1);
-	s = SetURLParameter(s, 'sdx', new_sdx, search.Sdx, -1);
-	s = SetURLParameter(s, 'pdx', new_pdx, search.Pdx, -1);
-	s = SetURLParameter(s, 'rdx', new_rdx, search.Rdx, -1);
-	s = SetURLParameter(s, 'sndx', new_surn, search.SNdx, -1);
-	
-	var txt = search.Txt;
-	if (searchTxtSubmit == 0) txt = $('#dwr-search-txt').val();
-	if (searchTxtSubmit == 1) txt = $('#dwr-search2-txt').val();
-	s = SetURLParameter(s, 'stxt', txt, '', '');
-	
-	s = SetURLParameter(s, 'sasc', $('#svg-asc').val(), search.Asc, 4);
-	s = SetURLParameter(s, 'sdsc', $('#svg-dsc').val(), search.Dsc, 4);
-	s = SetURLParameter(s, 'svgtype', $('#svg-type').val(), search.SvgType, SVG_TREE_TYPE);
-	s = SetURLParameter(s, 'simg', null, search.ImgList, []);
-	s = SetURLParameter(s, 'mexp', null, search.mapExpanded, false);
-	
-// test for search string compression: result is not satisfactory
-// toto = $.base64.encode(RawDeflate.deflate(unescape(encodeURIComponent(s))));
-// titi = decodeURIComponent(escape(RawDeflate.inflate($.base64.decode(toto))));
-// console.log(s);
-// console.log(toto);
-// console.log(titi);
-// console.log(titi == s);
+	s = SetURLParameter(s, 'stxt', params.Txt, search.Txt, '');
+	s = SetURLParameter(s, 'idx', params.Idx, search.Idx, -1);
+	s = SetURLParameter(s, 'fdx', params.Fdx, search.Fdx, -1);
+	s = SetURLParameter(s, 'mdx', params.Mdx, search.Mdx, -1);
+	s = SetURLParameter(s, 'sdx', params.Sdx, search.Sdx, -1);
+	s = SetURLParameter(s, 'pdx', params.Pdx, search.Pdx, -1);
+	s = SetURLParameter(s, 'rdx', params.Rdx, search.Rdx, -1);
+	s = SetURLParameter(s, 'sndx', params.SNdx, search.SNdx, -1);
+	s = SetURLParameter(s, 'igid', params.Igid, search.Igid, '');
+	s = SetURLParameter(s, 'fgid', params.Fgid, search.Fgid, '');
+	s = SetURLParameter(s, 'mgid', params.Mgid, search.Mgid, '');
+	s = SetURLParameter(s, 'sgid', params.Sgid, search.Sgid, '');
+	s = SetURLParameter(s, 'pgid', params.Pgid, search.Pgid, '');
+	s = SetURLParameter(s, 'rgid', params.Rgid, search.Rgid, '');
+	s = SetURLParameter(s, 'sasc', params.Asc, search.Asc, 4);
+	s = SetURLParameter(s, 'sdsc', params.Dsc, search.Dsc, 4);
+	s = SetURLParameter(s, 'svgtype', params.SvgType, search.SvgType, SVG_TREE_TYPE);
+	s = SetURLParameter(s, 'svgshape', params.SvgShape, search.SvgShape, SVG_TREE_SHAPE);
+	s = SetURLParameter(s, 'svgdasc', params.SvgDistribAsc, search.SvgDistribAsc, SVG_TREE_DISTRIB_ASC);
+	s = SetURLParameter(s, 'svgddsc', params.SvgDistribDsc, search.SvgDistribDsc, SVG_TREE_DISTRIB_DSC);
+	s = SetURLParameter(s, 'svgbk', params.SvgBackground, search.SvgBackground, SVG_TREE_BACKGROUND);
+	s = SetURLParameter(s, 'svgx', params.SvgExpanded, search.SvgExpanded, false);
+	s = SetURLParameter(s, 'simg', params.ImgList, search.ImgList, []);
+	s = SetURLParameter(s, 'mexp', params.MapExpanded, search.MapExpanded, false);
 	return(s);
 }
 
@@ -249,11 +267,11 @@ function SetURLParameter(sString, sParam, new_val, val, def)
 	{
 		val = parseInt(val);
 	}
-	else if (typeof(def) == 'string')
-	{
-		val = (val == '') ? def : val;
-		val = (new_val == '') ? val : new_val;
-	}
+	// else if (typeof(def) == 'string')
+	// {
+		// val = (val == '') ? def : val;
+		// val = (new_val == '') ? val : new_val;
+	// }
 	else if (def instanceof Array)
 	{
 		val = (val == null || typeof(val) == 'undefined' || val.length == 0) ? def : val;
@@ -297,14 +315,16 @@ function FsearchExec(n)
 {
 	// Search input submission
 	// n: 0 = search input in the navbar, 1 = search input embedded in page
-	searchTxtSubmit = n;
+	if (n == 0) search.Txt = $('#dwr-search-txt').val();
+	if (n == 1) search.Txt = $('#dwr-search2-txt').val();
 	search.Idx = -1;
 	search.Fdx = -1;
 	search.Mdx = -1;
 	search.Sdx = -1;
 	search.Pdx = -1;
 	search.Rdx = -1;
-	treeRef();
+	// Redirect to the search page
+	window.location.href = searchHref();
 	return(false);
 }
 
@@ -383,7 +403,7 @@ function BuildMenu()
 	{
 		var addclass = '';
 		if (i == i_current) addclass = ' class="active"';
-		txt_menu += '<li' + addclass + '><a href="javascript:Redirect(\'' + toRoot + PAGES_FILE[i] + '\')">' + PAGES_TITLE[i] + '</a></li>';
+		txt_menu += '<li' + addclass + '><a href="' + toRoot + PAGES_FILE[i] + '?' +  BuildSearchString() + '">' + PAGES_TITLE[i] + '</a></li>';
 	}
 	txt_menu += '</ul>';
 	txt_menu += '</div><!-- /.navbar-collapse -->';

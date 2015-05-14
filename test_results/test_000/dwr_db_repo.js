@@ -1,6 +1,8 @@
 // This file is generated
 
+// 'R' is sorted by repository name
 // 'R' gives for each repository:
+//   - Gramps ID
 //   - The repository name
 //   - The repository type
 //   - A list of addresses, with for each address:
@@ -19,25 +21,7 @@
 //       - call number
 //       - notes of the repository reference
 R = [
-["New York Public Library",
-"Library",
-[
-	["","",["5th Ave at 42 street","","","New York","New York","","11111","USA",""],"",[1]]
-],
-"",
-[],
-[[3,"Photo","what-321-ever",""],[0,"Film","CA-123-LL-456_Num/ber",""]]
-],
-["Public Library Great Falls",
-"Library",
-[
-	["","",["Bookstore street 5","","","Great Falls","MT","","","USA",""],"",[]]
-],
-"<div>\n<i class=\"NoteType\">\nRepository Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nAsk librarian for key to the microfilm closet of <a href=\"javascript:placeRef(459)\">Great Falls</a> church, it is closed normally\n</p>\n</div>\n</div>",
-[["Web Home","http://great-falls.org",""]],
-[[2,"Microfilm","32Z-345",""]]
-],
-["Aunt Martha\'s Attic",
+["R0003","Aunt Martha\'s Attic",
 "Collection",
 [
 	["","",["123 Main St","","","Someville","ST","","","USA",""],"",[]]
@@ -45,5 +29,23 @@ R = [
 "<div>\n<i class=\"NoteType\">\nRepository Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nSome note on the repo\n</p>\n</div>\n</div>",
 [["Web Home","http://library.gramps-project.org",""]],
 [[3,"Manuscript","nothing-0",""]]
+],
+["R0002","New York Public Library",
+"Library",
+[
+	["","",["5th Ave at 42 street","","","New York","New York","","11111","USA",""],"",[1]]
+],
+"",
+[],
+[[2,"Film","CA-123-LL-456_Num/ber",""],[3,"Photo","what-321-ever",""]]
+],
+["R0000","Public Library Great Falls",
+"Library",
+[
+	["","",["Bookstore street 5","","","Great Falls","MT","","","USA",""],"",[]]
+],
+"<div>\n<i class=\"NoteType\">\nRepository Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nAsk librarian for key to the microfilm closet of <a href=\"place.html?pdx=312\">Great Falls</a> church, it is closed normally\n</p>\n</div>\n</div>",
+[["Web Home","http://great-falls.org",""]],
+[[1,"Microfilm","32Z-345",""]]
 ]
 ];

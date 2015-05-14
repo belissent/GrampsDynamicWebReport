@@ -4,7 +4,7 @@
 //
 // This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
 // This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
-// You should have received a copy of the GNU General Public License along with this program; if not, write to the Free Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA
+// You should have received a copy of the GNU General Public License along with this program; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
 
 
 // Get current path
@@ -16,33 +16,34 @@ var toRoot = scriptFolder.substr(0, scriptFolder.lastIndexOf('/') + 1);
 scriptFolder += '/';
 
 // Load jQuery
-loadjsfile(scriptFolder + 'jquery.min.js');
-loadjsfile(scriptFolder + 'jquery.sizes.js');
-loadjsfile(scriptFolder + 'jquery.mousewheel.min.js');
-// loadjsfile(scriptFolder + 'jquery.base64.js');
+loadjsfile(scriptFolder + 'jquery/jquery.min.js');
+loadjsfile(scriptFolder + 'jquery/jquery.sizes.js');
+loadjsfile(scriptFolder + 'jquery/jquery.mousewheel.min.js');
 
 // Load bootstrap
 loadcssfile(scriptFolder + 'bootstrap/css/bootstrap.min.css');
 loadjsfile(scriptFolder + 'bootstrap/js/bootstrap.min.js');
 
 // Load Raphael
-loadjsfile(scriptFolder + 'raphael-min.js');
+loadjsfile(scriptFolder + 'raphael/raphael-min.js');
 
 // Load Data Tables
-// loadcssfile(scriptFolder + 'datatables/media/css/jquery.dataTables.min.css');
 loadcssfile(scriptFolder + 'datatables/media/css/dataTables.bootstrap.css');
 loadcssfile(scriptFolder + 'datatables/media/css/dataTables.responsive.css');
 loadjsfile(scriptFolder + 'datatables/media/js/jquery.dataTables.min.js');
 loadjsfile(scriptFolder + 'datatables/media/js/dataTables.bootstrap.js');
 loadjsfile(scriptFolder + 'datatables/media/js/dataTables.responsive.min.js');
 
+// Load context menu lugin
+loadcssfile(scriptFolder + 'context/context.css');
+loadjsfile(scriptFolder + 'context/dwr_context.js');
+
+// Load internationalization
+loadjsfile(scriptFolder + 'unorm/unorm.js');
+
 // Load styles
 loadcssfile(scriptFolder + 'dwr_styles.css');
 loadcssfile(scriptFolder + 'dwr_template.css');
-
-// Load ZIP library
-// loadjsfile(scriptFolder + 'rawdeflate.js');
-// loadjsfile(scriptFolder + 'rawinflate.js');
 
 // Load configuration and language file
 loadjsfile('dwr_conf.js');
@@ -51,25 +52,6 @@ loadjsfile('dwr_conf.js');
 loadjsfile(scriptFolder + 'dwr.js');
 loadjsfile(scriptFolder + 'dwr_svg.js');
 loadjsfile(scriptFolder + 'dwr_body.js');
-
-
-
-//============================================ browser specific
-
-var ua = navigator.userAgent.toLowerCase();
-var brsDom = (document.getElementById) ? true : false;
-var brsNet = (ua.indexOf('mozilla') != -1 && ua.indexOf('compatible') == -1);
-var brsMie = (ua.indexOf('msie') != -1);
-var brsNet4 = (brsNet && !brsDom && document.layers);
-var brsMie4 = (brsMie && !brsDom && document.all);
-
-function getYear(date)
-{
-	var y=date.getYear();
-	if (brsNet) y += 1900;
-	if (brsMie && y<100) y = parseInt('19' + y);
-	return(y);
-}
 
 
 //============================================
