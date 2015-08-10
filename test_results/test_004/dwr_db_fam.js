@@ -46,7 +46,7 @@ F = [
 [],
 [],
 [0,4],
-[[7,"Birth","Birth","",[]]]
+[[8,"Birth","Birth","",[]]]
 ],
 ["F0745","Family of , أحمد and الفضل, العباسة",
 "Married",
@@ -74,7 +74,7 @@ F = [
 [],
 [],
 [9,3],
-[[2,"Birth","Birth","",[]],[8,"Birth","Birth","",[]],[1,"Birth","Birth","",[]]]
+[[2,"Birth","Birth","",[]],[7,"Birth","Birth","",[]],[1,"Birth","Birth","",[]]]
 ],
 ["F0743","Family of , محمد and , عائشة",
 "Married",
@@ -95,7 +95,7 @@ F = [
 "?",
 "Loveland, Larimer, CO, USA",
 [
-	["E2853","Marriage","","",680,"Marriage of Adams, William and Aguilar, Eleanor","",[],[]]
+	["E2853","Marriage","","",461,"Marriage of Adams, William and Aguilar, Eleanor","",[],[]]
 ],
 "",
 [],
@@ -151,7 +151,7 @@ F = [
 "?",
 "Topeka, Shawnee, KS, USA",
 [
-	["E3332","Marriage","about 1729","ABT 1729",1156,"Marriage of Allen, Benjamin and Griffith, Experience","",[],[]]
+	["E3332","Marriage","about 1729","ABT 1729",773,"Marriage of Allen, Benjamin and Griffith, Experience","",[],[]]
 ],
 "",
 [],
@@ -165,7 +165,7 @@ F = [
 "?",
 "Topeka, Shawnee, KS, USA",
 [
-	["E3335","Marriage","about 1705","ABT 1705",1156,"Marriage of Allen, Gershom and Kennedy, Ann","",[],[]]
+	["E3335","Marriage","about 1705","ABT 1705",773,"Marriage of Allen, Gershom and Kennedy, Ann","",[],[]]
 ],
 "",
 [],
@@ -179,7 +179,7 @@ F = [
 "?",
 "Topeka, Shawnee, KS, USA",
 [
-	["E3326","Marriage","about 1695","ABT 1695",1156,"Marriage of Allen, John and Dennis, Mary (Hannah?)","",[],[]]
+	["E3326","Marriage","about 1695","ABT 1695",773,"Marriage of Allen, John and Dennis, Mary (Hannah?)","",[],[]]
 ],
 "",
 [],
@@ -193,7 +193,7 @@ F = [
 "?",
 "Sikeston, MO, USA",
 [
-	["E3329","Marriage","about 1713","ABT 1713",1070,"Marriage of Allen, Joseph and Barker, Mary","",[],[]]
+	["E3329","Marriage","about 1713","ABT 1713",718,"Marriage of Allen, Joseph and Barker, Mary","",[],[]]
 ],
 "",
 [],
@@ -207,7 +207,7 @@ F = [
 "?",
 "Somerset, PA, USA",
 [
-	["E2908","Marriage","","",1078,"Marriage of Alonso, Joseph and Hansen, Monica","",[],[]]
+	["E2908","Marriage","","",724,"Marriage of Alonso, Joseph and Hansen, Monica","",[],[]]
 ],
 "",
 [],
@@ -221,7 +221,7 @@ F = [
 "?",
 "Austin, MN, USA",
 [
-	["E2819","Marriage","","",65,"Marriage of Alvarado, Cadwallader and Mendez, Martha","",[],[]]
+	["E2819","Marriage","","",51,"Marriage of Alvarado, Cadwallader and Mendez, Martha","",[],[]]
 ],
 "",
 [],
@@ -235,7 +235,7 @@ F = [
 "?",
 "Orlando, Orange, FL, USA",
 [
-	["E2748","Marriage","","",888,"Marriage of Alvarado, Col. Charles and Parent, Eleanor","",[],[]]
+	["E2748","Marriage","","",583,"Marriage of Alvarado, Col. Charles and Parent, Eleanor","",[],[]]
 ],
 "",
 [],
@@ -277,7 +277,7 @@ F = [
 "1995",
 "Utica-Rome, NY, USA",
 [
-	["E3026","Marriage","1995-03-11","11 MAR 1995",1181,"Marriage of Alvarado, Jeffery and Cruz, Patti Jo","",[],[]]
+	["E3026","Marriage","1995-03-11","11 MAR 1995",788,"Marriage of Alvarado, Jeffery and Cruz, Patti Jo","",[],[]]
 ],
 "",
 [],
@@ -395,7 +395,7 @@ F = [
 [],
 [],
 [],
-[68,1155],
+[68,1154],
 [[65,"Birth","Birth","",[]],[69,"Birth","Birth","",[]],[70,"Birth","Birth","",[]],[66,"Birth","Birth","",[]]]
 ],
 ["F0197","Family of Anderson, Rev. John and Christiansen, Martha",
@@ -403,7 +403,7 @@ F = [
 "1712",
 "Poplar Bluff, MO, USA",
 [
-	["E2844","Marriage","1712-05-17","17 MAY 1712",947,"Marriage of Anderson, Rev. John and Christiansen, Martha","",[],[]]
+	["E2844","Marriage","1712-05-17","17 MAY 1712",625,"Marriage of Anderson, Rev. John and Christiansen, Martha","",[],[]]
 ],
 "",
 [],
@@ -459,7 +459,7 @@ F = [
 "1946",
 "Grand Forks, ND, USA",
 [
-	["E3143","Marriage","1946-03-02","2 MAR 1946",443,"Marriage of Armstrong, Teddy C. and Cross, Gertrude","",[],[]]
+	["E3143","Marriage","1946-03-02","2 MAR 1946",307,"Marriage of Armstrong, Teddy C. and Cross, Gertrude","",[],[]]
 ],
 "",
 [],
@@ -529,7 +529,7 @@ F = [
 "1727",
 "Mooresville, NC, USA",
 [
-	["E3020","Marriage","1727","1727",800,"Marriage of Ball, Ezekiel and Reese","",[],[]]
+	["E3020","Marriage","1727","1727",528,"Marriage of Ball, Ezekiel and Reese","",[],[]]
 ],
 "",
 [],
@@ -543,7 +543,7 @@ F = [
 "1868",
 "Oxnard, Ventura, CA, USA",
 [
-	["E2739","Marriage","1868-01-01","1 JAN 1868",900,"Marriage of Ball, Jasper and Зыков, Angeline","",[],[]]
+	["E2739","Marriage","1868-01-01","1 JAN 1868",591,"Marriage of Ball, Jasper and Зыков, Angeline","",[],[]]
 ],
 "",
 [],
@@ -557,7 +557,7 @@ F = [
 "?",
 "Glasgow, Barren, KY, USA",
 [
-	["E2790","Marriage","","",437,"Marriage of Ball, Matthias Sr. and Maxwell, Ann","",[],[]]
+	["E2790","Marriage","","",302,"Marriage of Ball, Matthias Sr. and Maxwell, Ann","",[],[]]
 ],
 "",
 [],
@@ -578,14 +578,14 @@ F = [
 [],
 [],
 [100,730],
-[[105,"Birth","Birth","",[]],[92,"Birth","Birth","",[]],[97,"Birth","Birth","",[]],[102,"Birth","Birth","",[]],[89,"Birth","Birth","",[]]]
+[[106,"Birth","Birth","",[]],[92,"Birth","Birth","",[]],[97,"Birth","Birth","",[]],[102,"Birth","Birth","",[]],[89,"Birth","Birth","",[]]]
 ],
 ["F0007","Family of Ball, Matthias, Jr. and Moreno, Abigail Chapman",
 "Married",
 "1843",
 "McPherson, McPherson, KS, USA",
 [
-	["E3370","Marriage","1843-11-14","14 NOV 1843",743,"Marriage of Ball, Matthias, Jr. and Moreno, Abigail Chapman","",[],[]]
+	["E3370","Marriage","1843-11-14","14 NOV 1843",497,"Marriage of Ball, Matthias, Jr. and Moreno, Abigail Chapman","",[],[]]
 ],
 "",
 [],
@@ -633,7 +633,7 @@ F = [
 [],
 [],
 [],
-[106,1176],
+[105,1176],
 []
 ],
 ["F0057","Family of Bates, William Robert and Данилов, Elaine Suzanne",
@@ -641,7 +641,7 @@ F = [
 "1972",
 "Ottawa, La Salle, IL, USA",
 [
-	["E3252","Marriage","1972-07-08","8 JUL 1972",893,"Marriage of Bates, William Robert and Данилов, Elaine Suzanne","",[],[]]
+	["E3252","Marriage","1972-07-08","8 JUL 1972",586,"Marriage of Bates, William Robert and Данилов, Elaine Suzanne","",[],[]]
 ],
 "",
 [],
@@ -661,7 +661,7 @@ F = [
 [],
 [],
 [],
-[127,1131],
+[126,1131],
 []
 ],
 ["F0432","Family of Beaulieu, Johann Franciskus and Barnett, Anna Gertrude",
@@ -690,7 +690,7 @@ F = [
 [],
 [],
 [129,1061],
-[[131,"Birth","Birth","",[]],[126,"Birth","Birth","",[]],[134,"Birth","Birth","",[]],[128,"Birth","Birth","",[]],[124,"Birth","Birth","",[]],[833,"Birth","Birth","",[]],[121,"Birth","Birth","",[]]]
+[[130,"Birth","Birth","",[]],[127,"Birth","Birth","",[]],[134,"Birth","Birth","",[]],[128,"Birth","Birth","",[]],[124,"Birth","Birth","",[]],[833,"Birth","Birth","",[]],[121,"Birth","Birth","",[]]]
 ],
 ["F0418","Family of Beaulieu, Johann Simon and Holland, Anna Margaretha",
 "Married",
@@ -703,8 +703,8 @@ F = [
 [],
 [],
 [],
-[132,842],
-[[129,"Birth","Birth","",[]],[119,"Birth","Birth","",[]],[135,"Birth","Birth","",[]],[118,"Birth","Birth","",[]],[123,"Birth","Birth","",[]],[127,"Birth","Birth","",[]],[133,"Birth","Birth","",[]],[125,"Birth","Birth","",[]],[120,"Birth","Birth","",[]],[122,"Birth","Birth","",[]],[130,"Birth","Birth","",[]]]
+[131,842],
+[[129,"Birth","Birth","",[]],[119,"Birth","Birth","",[]],[135,"Birth","Birth","",[]],[118,"Birth","Birth","",[]],[123,"Birth","Birth","",[]],[126,"Birth","Birth","",[]],[133,"Birth","Birth","",[]],[125,"Birth","Birth","",[]],[120,"Birth","Birth","",[]],[122,"Birth","Birth","",[]],[132,"Birth","Birth","",[]]]
 ],
 ["F0443","Family of Beaulieu, Johann Simon and Александров, Anna Margaretha",
 "Married",
@@ -717,7 +717,7 @@ F = [
 [],
 [],
 [],
-[130,1920],
+[132,1920],
 []
 ],
 ["F0416","Family of Beaulieu, Johann Simon and Григорьев, Anna Maria",
@@ -731,8 +731,8 @@ F = [
 [],
 [],
 [],
-[131,1951],
-[[547,"Birth","Birth","",[]],[558,"Birth","Birth","",[]],[546,"Birth","Birth","",[]],[556,"Birth","Birth","",[]],[536,"Birth","Birth","",[]],[553,"Birth","Birth","",[]],[542,"Birth","Birth","",[]],[544,"Birth","Birth","",[]],[539,"Birth","Birth","",[]],[551,"Birth","Birth","",[]]]
+[130,1951],
+[[547,"Birth","Birth","",[]],[558,"Birth","Birth","",[]],[546,"Birth","Birth","",[]],[556,"Birth","Birth","",[]],[536,"Birth","Birth","",[]],[553,"Birth","Birth","",[]],[541,"Birth","Birth","",[]],[544,"Birth","Birth","",[]],[539,"Birth","Birth","",[]],[551,"Birth","Birth","",[]]]
 ],
 ["F0439","Family of Beaulieu, Johann Theobald and Sutton, Anna Maria",
 "Married",
@@ -823,7 +823,7 @@ F = [
 "1938",
 "Mankato, MN, USA",
 [
-	["E3152","Marriage","1938-12-03","3 DEC 1938",708,"Marriage of Bélanger, Adrian and Neal, Helen M.","",[],[]]
+	["E3152","Marriage","1938-12-03","3 DEC 1938",475,"Marriage of Bélanger, Adrian and Neal, Helen M.","",[],[]]
 ],
 "",
 [],
@@ -837,7 +837,7 @@ F = [
 "1965",
 "Point Pleasant, WV, USA",
 [
-	["E3153","Marriage","1965-04-10","10 APR 1965",939,"Marriage of Bélanger, Donald and Pierce, Joanne","",[],[]]
+	["E3153","Marriage","1965-04-10","10 APR 1965",621,"Marriage of Bélanger, Donald and Pierce, Joanne","",[],[]]
 ],
 "",
 [],
@@ -886,7 +886,7 @@ F = [
 [],
 [],
 [152],
-[[161,"Birth","Birth","",[]]]
+[[160,"Birth","Birth","",[]]]
 ],
 ["F0514","Family of Benson, Hugh and Ouellet, Rebecca",
 "Married",
@@ -913,7 +913,7 @@ F = [
 [],
 [],
 [],
-[161],
+[160],
 [[150,"Birth","Birth","",[]]]
 ],
 ["F0212","Family of Benson, Joseph Louis(Jr.) and Richard, Jeanne",
@@ -935,14 +935,14 @@ F = [
 "?",
 "Sweetwater, Nolan, TX, USA",
 [
-	["E2882","Marriage","","",1127,"Marriage of Benson, Joseph Louis(Sr.) and Simard, Sarah","",[],[]]
+	["E2882","Marriage","","",756,"Marriage of Benson, Joseph Louis(Sr.) and Simard, Sarah","",[],[]]
 ],
 "",
 [],
 [],
 [],
 [163,1596],
-[[162,"Birth","Birth","",[]],[175,"Birth","Birth","",[]],[173,"Birth","Birth","",[]],[160,"Birth","Birth","",[]],[158,"Birth","Birth","",[]],[159,"Birth","Birth","",[]],[155,"Birth","Birth","",[]],[165,"Birth","Birth","",[]],[148,"Birth","Birth","",[]],[149,"Birth","Birth","",[]]]
+[[162,"Birth","Birth","",[]],[175,"Birth","Birth","",[]],[173,"Birth","Birth","",[]],[161,"Birth","Birth","",[]],[158,"Birth","Birth","",[]],[159,"Birth","Birth","",[]],[154,"Birth","Birth","",[]],[165,"Birth","Birth","",[]],[148,"Birth","Birth","",[]],[149,"Birth","Birth","",[]]]
 ],
 ["F0515","Family of Benson, Samuel Sr. and Wong, Jane",
 "Married",
@@ -1011,7 +1011,7 @@ F = [
 [],
 [],
 [],
-[179,1414],
+[179,1415],
 []
 ],
 ["F0397","Family of Bishop, Quirinus and Simmons, Maria",
@@ -1019,7 +1019,7 @@ F = [
 "?",
 "Akron, OH, USA",
 [
-	["E3065","Marriage","about 1640","ABT 1640",10,"Marriage of Bishop, Quirinus and Simmons, Maria","",[],[]]
+	["E3065","Marriage","about 1640","ABT 1640",6,"Marriage of Bishop, Quirinus and Simmons, Maria","",[],[]]
 ],
 "",
 [],
@@ -1033,7 +1033,7 @@ F = [
 "?",
 "Reno-Sparks, NV, USA",
 [
-	["E3124","Marriage","","",979,"Marriage of Blais, ?? and Lévesque, Mary","",[],[]]
+	["E3124","Marriage","","",649,"Marriage of Blais, ?? and Lévesque, Mary","",[],[]]
 ],
 "",
 [],
@@ -1047,7 +1047,7 @@ F = [
 "?",
 "Lock Haven, PA, USA",
 [
-	["E2743","Marriage","","",669,"Marriage of Blake, Conrad and Ruiz, Catherine","",[],[]]
+	["E2743","Marriage","","",454,"Marriage of Blake, Conrad and Ruiz, Catherine","",[],[]]
 ],
 "",
 [],
@@ -1082,7 +1082,7 @@ F = [
 [],
 [],
 [191,566],
-[[198,"Birth","Birth","",[]]]
+[[197,"Birth","Birth","",[]]]
 ],
 ["F0283","Family of Blanco, Gerhard and Белоусов, Catharine",
 "Married",
@@ -1109,7 +1109,7 @@ F = [
 [],
 [],
 [],
-[198,331],
+[197,331],
 [[200,"Birth","Birth","",[]]]
 ],
 ["F0287","Family of Blanco, Hans(Johannes) and Sullivan, Anna",
@@ -1117,7 +1117,7 @@ F = [
 "?",
 "Watertown-Fort Drum, NY, USA",
 [
-	["E2944","Marriage","","",1227,"Marriage of Blanco, Hans(Johannes) and Sullivan, Anna","",[],[]]
+	["E2944","Marriage","","",815,"Marriage of Blanco, Hans(Johannes) and Sullivan, Anna","",[],[]]
 ],
 "",
 [],
@@ -1131,7 +1131,7 @@ F = [
 "1676",
 "Watertown-Fort Drum, NY, USA",
 [
-	["E2945","Marriage","1676-06-15","15 JUN 1676",1227,"Marriage of Blanco, Heinrich and Schmidt, Barbli","",[],[]]
+	["E2945","Marriage","1676-06-15","15 JUN 1676",815,"Marriage of Blanco, Heinrich and Schmidt, Barbli","",[],[]]
 ],
 "",
 [],
@@ -1159,7 +1159,7 @@ F = [
 "1799",
 "Cambridge, MD, USA",
 [
-	["E2942","Marriage","1799-07-04","4 JUL 1799",163,"Marriage of Blanco, John Sr. and Lucas, Christina","",[],[]]
+	["E2942","Marriage","1799-07-04","4 JUL 1799",119,"Marriage of Blanco, John Sr. and Lucas, Christina","",[],[]]
 ],
 "",
 [],
@@ -1173,7 +1173,7 @@ F = [
 "1771",
 "Joplin, MO, USA",
 [
-	["E2941","Marriage","1771-12-31","31 DEC 1771",572,"Marriage of Blanco, Peter and Glover, Elizabeth","",[],[]]
+	["E2941","Marriage","1771-12-31","31 DEC 1771",387,"Marriage of Blanco, Peter and Glover, Elizabeth","",[],[]]
 ],
 "",
 [],
@@ -1201,7 +1201,7 @@ F = [
 "1836",
 "Asheville, NC, USA",
 [
-	["E2808","Marriage","1836-01-07","7 JAN 1836",52,"Marriage of Blanco, Rufus and Rodriquez, Mariam","",[],[]]
+	["E2808","Marriage","1836-01-07","7 JAN 1836",39,"Marriage of Blanco, Rufus and Rodriquez, Mariam","",[],[]]
 ],
 "",
 [],
@@ -1215,14 +1215,14 @@ F = [
 "1810",
 "Loveland, Larimer, CO, USA",
 [
-	["E2896","Marriage","1810","1810",680,"Marriage of Boucher, David and Morrison, Nancy","",[],[]]
+	["E2896","Marriage","1810","1810",461,"Marriage of Boucher, David and Morrison, Nancy","",[],[]]
 ],
 "",
 [],
 [],
 [],
 [231,1192],
-[[259,"Birth","Birth","",[]],[226,"Birth","Birth","",[]],[269,"Birth","Birth","",[]],[224,"Birth","Birth","",[]],[286,"Birth","Birth","",[]]]
+[[258,"Birth","Birth","",[]],[227,"Birth","Birth","",[]],[270,"Birth","Birth","",[]],[223,"Birth","Birth","",[]],[289,"Birth","Birth","",[]]]
 ],
 ["F0114","Family of Boucher, James and Dubé, Rose",
 "Married",
@@ -1236,7 +1236,7 @@ F = [
 [],
 [],
 [243,518],
-[[296,"Birth","Birth","",[]]]
+[[295,"Birth","Birth","",[]]]
 ],
 ["F0732","Family of Boucher, John",
 "Married",
@@ -1249,7 +1249,7 @@ F = [
 [],
 [],
 [],
-[246],
+[245],
 [[297,"Birth","Birth","",[]]]
 ],
 ["F0248","Family of Boucher, John and Никитин, Monica",
@@ -1257,14 +1257,14 @@ F = [
 "1960",
 "Fort Wayne, Allen, IN, USA",
 [
-	["E2901","Marriage","1960","1960",404,"Marriage of Boucher, John and Никитин, Monica","",[],[]]
+	["E2901","Marriage","1960","1960",281,"Marriage of Boucher, John and Никитин, Monica","",[],[]]
 ],
 "",
 [],
 [],
 [],
-[245,2031],
-[[235,"Birth","Birth","",[]],[265,"Birth","Birth","",[]],[220,"Birth","Birth","",[]],[253,"Birth","Birth","",[]],[249,"Birth","Birth","",[]],[222,"Birth","Birth","",[]],[219,"Birth","Birth","",[]],[268,"Birth","Birth","",[]]]
+[246,2031],
+[[235,"Birth","Birth","",[]],[265,"Birth","Birth","",[]],[220,"Birth","Birth","",[]],[253,"Birth","Birth","",[]],[249,"Birth","Birth","",[]],[224,"Birth","Birth","",[]],[219,"Birth","Birth","",[]],[268,"Birth","Birth","",[]]]
 ],
 ["F0573","Family of Boucher, Michael and Boucher, Anne",
 "Married",
@@ -1277,43 +1277,43 @@ F = [
 [],
 [],
 [],
-[260,220],
-[[264,"Birth","Birth","",[]],[284,"Birth","Birth","",[]],[251,"Birth","Birth","",[]],[285,"Birth","Birth","",[]]]
+[261,220],
+[[264,"Birth","Birth","",[]],[284,"Birth","Birth","",[]],[250,"Birth","Birth","",[]],[285,"Birth","Birth","",[]]]
 ],
 ["F0038","Family of Boucher, Michael and Boucher, Honora",
 "Married",
 "?",
 "Buffalo, Erie, NY, USA",
 [
-	["E3046","Marriage","","",147,"Marriage of Boucher, Michael and Boucher, Honora","",[],[]]
+	["E3046","Marriage","","",109,"Marriage of Boucher, Michael and Boucher, Honora","",[],[]]
 ],
 "",
 [],
 [],
 [],
-[259,241],
-[[291,"Birth","Birth","",[]],[281,"Birth","Birth","",[]],[261,"Birth","Birth","",[]],[223,"Birth","Birth","",[]],[228,"Birth","Birth","",[]],[229,"Birth","Birth","",[]]]
+[258,242],
+[[291,"Birth","Birth","",[]],[282,"Birth","Birth","",[]],[257,"Birth","Birth","",[]],[222,"Birth","Birth","",[]],[225,"Birth","Birth","",[]],[229,"Birth","Birth","",[]]]
 ],
 ["F0247","Family of Boucher, Michael and Gil, Nora",
 "Married",
 "?",
 "Del Rio, Val Verde, TX, USA",
 [
-	["E2900","Marriage","","",298,"Marriage of Boucher, Michael and Gil, Nora","",[],[]]
+	["E2900","Marriage","","",206,"Marriage of Boucher, Michael and Gil, Nora","",[],[]]
 ],
 "",
 [],
 [],
 [],
-[257,716],
-[[245,"Birth","Birth","",[]]]
+[260,716],
+[[246,"Birth","Birth","",[]]]
 ],
 ["F0566","Family of Boucher, Michael Shannon and Iglesias, Kate",
 "Married",
 "?",
 "Owosso, MI, USA",
 [
-	["E3248","Marriage","","",898,"Marriage of Boucher, Michael Shannon and Iglesias, Kate","",[],[]]
+	["E3248","Marriage","","",589,"Marriage of Boucher, Michael Shannon and Iglesias, Kate","",[],[]]
 ],
 "",
 [],
@@ -1333,22 +1333,22 @@ F = [
 [],
 [],
 [],
-[269],
-[[263,"Birth","Birth","",[]],[246,"Birth","Birth","",[]]]
+[270],
+[[263,"Birth","Birth","",[]],[245,"Birth","Birth","",[]]]
 ],
 ["F0564","Family of Boucher, Patrick and Dennis, Susan",
 "Married",
 "1873",
 "Marysville, Yuba, CA, USA",
 [
-	["E3246","Marriage","1873-02-18","18 FEB 1873",728,"Marriage of Boucher, Patrick and Dennis, Susan","",[],[]]
+	["E3246","Marriage","1873-02-18","18 FEB 1873",488,"Marriage of Boucher, Patrick and Dennis, Susan","",[],[]]
 ],
 "",
 [],
 [],
 [],
-[270,453],
-[[289,"Birth","Birth","",[]],[282,"Birth","Birth","",[]],[252,"Birth","Birth","",[]],[250,"Birth","Birth","",[]]]
+[269,453],
+[[290,"Birth","Birth","",[]],[281,"Birth","Birth","",[]],[252,"Birth","Birth","",[]],[251,"Birth","Birth","",[]]]
 ],
 ["F0274","Family of Boucher, Roger Joseph and Page, Sylvia Louise",
 "Married",
@@ -1369,21 +1369,21 @@ F = [
 "?",
 "Del Rio, Val Verde, TX, USA",
 [
-	["E2899","Marriage","","",298,"Marriage of Boucher, Sean and Gardner, Mary","",[],[]]
+	["E2899","Marriage","","",206,"Marriage of Boucher, Sean and Gardner, Mary","",[],[]]
 ],
 "",
 [],
 [],
 [],
 [274,613],
-[[257,"Birth","Birth","",[]]]
+[[260,"Birth","Birth","",[]]]
 ],
 ["F0267","Family of Boucher, Stephen Francis and Gardner, Mary Jane",
 "Married",
 "1924",
 "Winfield, Cowley, KS, USA",
 [
-	["E2922","Marriage","1924-03-04","4 MAR 1924",1263,"Marriage of Boucher, Stephen Francis and Gardner, Mary Jane","",[],[]]
+	["E2922","Marriage","1924-03-04","4 MAR 1924",836,"Marriage of Boucher, Stephen Francis and Gardner, Mary Jane","",[],[]]
 ],
 "",
 [],
@@ -1411,7 +1411,7 @@ F = [
 "?",
 "Del Rio, Val Verde, TX, USA",
 [
-	["E2898","Marriage","","",298,"Marriage of Boucher, Thomas and Thompson, Bridget","",[],[]]
+	["E2898","Marriage","","",206,"Marriage of Boucher, Thomas and Thompson, Bridget","",[],[]]
 ],
 "",
 [],
@@ -1439,41 +1439,41 @@ F = [
 "?",
 "Loveland, Larimer, CO, USA",
 [
-	["E2897","Marriage","","",680,"Marriage of Boucher, William and Fields, Bridget M.","",[],[]]
+	["E2897","Marriage","","",461,"Marriage of Boucher, William and Fields, Bridget M.","",[],[]]
 ],
 "",
 [],
 [],
 [],
-[286,565],
-[[280,"Birth","Birth","",[]],[290,"Birth","Birth","",[]]]
+[289,565],
+[[280,"Birth","Birth","",[]],[287,"Birth","Birth","",[]]]
 ],
 ["F0249","Family of Boucher, William and Savard, Honora",
 "Married",
 "?",
 "Del Rio, Val Verde, TX, USA",
 [
-	["E2902","Marriage","","",298,"Marriage of Boucher, William and Savard, Honora","",[],[]]
+	["E2902","Marriage","","",206,"Marriage of Boucher, William and Savard, Honora","",[],[]]
 ],
 "",
 [],
 [],
 [],
-[290,1575],
-[[287,"Birth","Birth","",[]],[225,"Birth","Birth","",[]],[248,"Birth","Birth","",[]],[270,"Birth","Birth","",[]]]
+[287,1575],
+[[286,"Birth","Birth","",[]],[226,"Birth","Birth","",[]],[248,"Birth","Birth","",[]],[269,"Birth","Birth","",[]]]
 ],
 ["F0268","Family of Boucher, William and Walters, Mary",
 "Married",
 "1880",
 "Greensburg, Decatur, IN, USA",
 [
-	["E2923","Marriage","1880-02-10","10 FEB 1880",457,"Marriage of Boucher, William and Walters, Mary","",[],[]]
+	["E2923","Marriage","1880-02-10","10 FEB 1880",317,"Marriage of Boucher, William and Walters, Mary","",[],[]]
 ],
 "",
 [],
 [],
 [],
-[287,1682],
+[286,1682],
 [[276,"Birth","Birth","",[]],[237,"Birth","Birth","",[]],[236,"Birth","Birth","",[]],[271,"Birth","Birth","",[]],[255,"Birth","Birth","",[]],[234,"Birth","Birth","",[]]]
 ],
 ["F0037","Family of Boucher, William Bernard and Reeves, Maria",
@@ -1481,7 +1481,7 @@ F = [
 "1875",
 "Rochester, MN, USA",
 [
-	["E3035","Marriage","1875-04-11","11 APR 1875",992,"Marriage of Boucher, William Bernard and Reeves, Maria","",[],[]]
+	["E3035","Marriage","1875-04-11","11 APR 1875",659,"Marriage of Boucher, William Bernard and Reeves, Maria","",[],[]]
 ],
 "",
 [],
@@ -1501,8 +1501,8 @@ F = [
 [],
 [],
 [],
-[296,854],
-[[294,"Birth","Birth","",[]],[275,"Birth","Birth","",[]]]
+[295,854],
+[[296,"Birth","Birth","",[]],[275,"Birth","Birth","",[]]]
 ],
 ["F0674","Family of Boucher, woman",
 "Married",
@@ -1551,7 +1551,7 @@ F = [
 "1895",
 "Lincoln, NE, USA",
 [
-	["E3120","Marriage","1895-05-01","1 MAY 1895",664,"Marriage of Boyd, Charles Newton and Lessard, Izora","",[],[]]
+	["E3120","Marriage","1895-05-01","1 MAY 1895",451,"Marriage of Boyd, Charles Newton and Lessard, Izora","",[],[]]
 ],
 "",
 [],
@@ -1585,7 +1585,7 @@ F = [
 [],
 [],
 [],
-[311,222],
+[311,224],
 [[309,"Birth","Birth","",[]],[304,"Birth","Birth","",[]],[307,"Birth","Birth","",[]]]
 ],
 ["F0261","Family of Brock, Stephen and Welch, Annabelle Elaine",
@@ -1593,7 +1593,7 @@ F = [
 "1969",
 "Alexandria, MN, USA",
 [
-	["E2916","Marriage","1969-05-19","19 MAY 1969",24,"Marriage of Brock, Stephen and Welch, Annabelle Elaine","",[],[]]
+	["E2916","Marriage","1969-05-19","19 MAY 1969",16,"Marriage of Brock, Stephen and Welch, Annabelle Elaine","",[],[]]
 ],
 "",
 [],
@@ -1621,7 +1621,7 @@ F = [
 "1725",
 "Laredo, Webb, TX, USA",
 [
-	["E2961","Marriage","1725","1725",628,"Marriage of Brooks, Major Marquis II and Rubio, Winifred","",[],[]]
+	["E2961","Marriage","1725","1725",428,"Marriage of Brooks, Major Marquis II and Rubio, Winifred","",[],[]]
 ],
 "",
 [],
@@ -1705,13 +1705,13 @@ F = [
 "1876",
 "Marysville, Yuba, CA, USA",
 [
-	["E3247","Marriage","1876-02-28","28 FEB 1876",728,"Marriage of Bush, James and Boucher, Catherine","",[],[]]
+	["E3247","Marriage","1876-02-28","28 FEB 1876",488,"Marriage of Bush, James and Boucher, Catherine","",[],[]]
 ],
 "",
 [],
 [],
 [],
-[339,225],
+[339,226],
 [[342,"Birth","Birth","",[]],[340,"Birth","Birth","",[]],[338,"Birth","Birth","",[]],[341,"Birth","Birth","",[]],[336,"Birth","Birth","",[]],[337,"Birth","Birth","",[]],[343,"Birth","Birth","",[]]]
 ],
 ["F0428","Family of Butler, George and Farmer, Eva",
@@ -1803,7 +1803,7 @@ F = [
 "1514",
 "Greenville, OH, USA",
 [
-	["E3000","Marriage","1514","1514",460,"Marriage of Christiansen, Christopher and Gomez, Jane Joane","",[],[]]
+	["E3000","Marriage","1514","1514",320,"Marriage of Christiansen, Christopher and Gomez, Jane Joane","",[],[]]
 ],
 "",
 [],
@@ -1817,14 +1817,14 @@ F = [
 "?",
 "Hilo, HI, USA",
 [
-	["E2987","Marriage","","",502,"Marriage of Christiansen, Christopher and Jones, Ann","",[],[]]
+	["E2987","Marriage","","",348,"Marriage of Christiansen, Christopher and Jones, Ann","",[],[]]
 ],
 "",
 [],
 [],
 [],
 [362,937],
-[[363,"Birth","Birth","",[]]]
+[[364,"Birth","Birth","",[]]]
 ],
 ["F0681","Family of Christiansen, Edward",
 "Married",
@@ -1837,8 +1837,8 @@ F = [
 [],
 [],
 [],
-[363],
-[[364,"Birth","Birth","",[]]]
+[364],
+[[363,"Birth","Birth","",[]]]
 ],
 ["F0323","Family of Christiansen, Edward and Abbott, Frances",
 "Married",
@@ -1851,7 +1851,7 @@ F = [
 [],
 [],
 [],
-[363,10],
+[364,10],
 []
 ],
 ["F0126","Family of Christiansen, Edward and Thomas, Elizabeth",
@@ -1859,13 +1859,13 @@ F = [
 "1637",
 "Wilmington, NC, USA",
 [
-	["E2768","Marriage","1637-05-10","10 MAY 1637",1259,"Marriage of Christiansen, Edward and Thomas, Elizabeth","",[],[]]
+	["E2768","Marriage","1637-05-10","10 MAY 1637",833,"Marriage of Christiansen, Edward and Thomas, Elizabeth","",[],[]]
 ],
 "",
 [],
 [],
 [],
-[364,1634],
+[363,1634],
 [[372,"Birth","Birth","",[]],[370,"Birth","Birth","",[]]]
 ],
 ["F0707","Family of Christiansen, John",
@@ -1879,7 +1879,7 @@ F = [
 [],
 [],
 [],
-[368],
+[367],
 [[361,"Birth","Birth","",[]]]
 ],
 ["F0221","Family of Christiansen, John and Harmon, Martha",
@@ -1887,13 +1887,13 @@ F = [
 "1681",
 "Poplar Bluff, MO, USA",
 [
-	["E2872","Marriage","1681","1681",947,"Marriage of Christiansen, John and Harmon, Martha","",[],[]]
+	["E2872","Marriage","1681","1681",625,"Marriage of Christiansen, John and Harmon, Martha","",[],[]]
 ],
 "",
 [],
 [],
 [],
-[367,790],
+[368,790],
 [[371,"Birth","Birth","",[]]]
 ],
 ["F0195","Family of Christiansen, Joseph and Allen, Joanna",
@@ -1901,7 +1901,7 @@ F = [
 "1687",
 "Poplar Bluff, MO, USA",
 [
-	["E2842","Marriage","1687-01-16","16 JAN 1687",947,"Marriage of Christiansen, Joseph and Allen, Joanna","",[],[]]
+	["E2842","Marriage","1687-01-16","16 JAN 1687",625,"Marriage of Christiansen, Joseph and Allen, Joanna","",[],[]]
 ],
 "",
 [],
@@ -1929,21 +1929,21 @@ F = [
 "1662",
 "Yankton, SD, USA",
 [
-	["E2769","Marriage","1662-03-11","11 MAR 1662",1279,"Marriage of Christiansen, Nathaniel and Grenier, Mary","",[],[]]
+	["E2769","Marriage","1662-03-11","11 MAR 1662",845,"Marriage of Christiansen, Nathaniel and Grenier, Mary","",[],[]]
 ],
 "",
 [],
 [],
 [],
 [372,758],
-[[373,"Birth","Birth","",[]],[367,"Birth","Birth","",[]]]
+[[373,"Birth","Birth","",[]],[368,"Birth","Birth","",[]]]
 ],
 ["F0128","Family of Christiansen, Samuel and Alvarado, Mary",
 "Married",
 "1693",
 "Poplar Bluff, MO, USA",
 [
-	["E2770","Marriage","1693-06-08","8 JUN 1693",947,"Marriage of Christiansen, Samuel and Alvarado, Mary","",[],[]]
+	["E2770","Marriage","1693-06-08","8 JUN 1693",625,"Marriage of Christiansen, Samuel and Alvarado, Mary","",[],[]]
 ],
 "",
 [],
@@ -2013,7 +2013,7 @@ F = [
 "1798",
 "Duluth, MN, USA",
 [
-	["E3239","Marriage","1798-05-31","31 MAY 1798",322,"Marriage of Cook, John and Rodriquez, Mary","",[],[]]
+	["E3239","Marriage","1798-05-31","31 MAY 1798",221,"Marriage of Cook, John and Rodriquez, Mary","",[],[]]
 ],
 "",
 [],
@@ -2041,7 +2041,7 @@ F = [
 "1991",
 "Salt Lake City, UT, USA",
 [
-	["E2803","Marriage","1991-08-24","24 AUG 1991",1013,"Marriage of Côté, Raymond Patrick and Russell, Beth Ann","",[],[]]
+	["E2803","Marriage","1991-08-24","24 AUG 1991",678,"Marriage of Côté, Raymond Patrick and Russell, Beth Ann","",[],[]]
 ],
 "",
 [],
@@ -2083,7 +2083,7 @@ F = [
 "1943",
 "Crawfordsville, Montgomery, IN, USA",
 [
-	["E3330","Marriage","1943-02-14","14 FEB 1943",266,"Marriage of Cruz, Arthur Ray and Robbins, Myrabel","",[],[]]
+	["E3330","Marriage","1943-02-14","14 FEB 1943",188,"Marriage of Cruz, Arthur Ray and Robbins, Myrabel","",[],[]]
 ],
 "",
 [],
@@ -2153,7 +2153,7 @@ F = [
 "1944",
 "Fostoria, OH, USA",
 [
-	["E3286","Marriage","1944-12-24","24 DEC 1944",406,"Marriage of Cruz, Ivan Wayne and Gagnon, Bettie Lou","",[],[]]
+	["E3286","Marriage","1944-12-24","24 DEC 1944",283,"Marriage of Cruz, Ivan Wayne and Gagnon, Bettie Lou","",[],[]]
 ],
 "",
 [],
@@ -2181,7 +2181,7 @@ F = [
 "1939",
 "Ottawa, La Salle, IL, USA",
 [
-	["E3297","Marriage","1939-11-23","23 NOV 1939",893,"Marriage of Cruz, Paul Eugene and Lambert, Marguerite","",[],[]]
+	["E3297","Marriage","1939-11-23","23 NOV 1939",586,"Marriage of Cruz, Paul Eugene and Lambert, Marguerite","",[],[]]
 ],
 "",
 [],
@@ -2209,7 +2209,7 @@ F = [
 "1947",
 "Morehead City, NC, USA",
 [
-	["E3133","Marriage","1947-12-28","28 DEC 1947",801,"Marriage of Cruz, William Everett and Hawkins, Ellen Marie","",[],[]]
+	["E3133","Marriage","1947-12-28","28 DEC 1947",529,"Marriage of Cruz, William Everett and Hawkins, Ellen Marie","",[],[]]
 ],
 "",
 [],
@@ -2265,7 +2265,7 @@ F = [
 "?",
 "Deming, NM, USA",
 [
-	["E3050","Marriage","","",301,"Marriage of Curtis, John and Gibbs, Margaret","",[],[]]
+	["E3050","Marriage","","",208,"Marriage of Curtis, John and Gibbs, Margaret","",[],[]]
 ],
 "",
 [],
@@ -2369,7 +2369,7 @@ F = [
 [],
 [],
 [],
-[446,1416],
+[446,1418],
 []
 ],
 ["F0317","Family of Delgado and Tyler, Mary A.",
@@ -2397,7 +2397,7 @@ F = [
 [],
 [],
 [],
-[451,2047],
+[450,2047],
 []
 ],
 ["F0623","Family of Desjardins, J. and Reeves, Catherine",
@@ -2419,13 +2419,13 @@ F = [
 "1791",
 "Seymour, Jackson, IN, USA",
 [
-	["E3294","Marriage","1791-12-19","19 DEC 1791",1057,"Marriage of Diaz, James and Woods, Nancy","",[],[]]
+	["E3294","Marriage","1791-12-19","19 DEC 1791",707,"Marriage of Diaz, James and Woods, Nancy","",[],[]]
 ],
 "",
 [],
 [],
 [],
-[460,1912],
+[459,1912],
 []
 ],
 ["F0313","Family of Diaz, William and Baldwin, Anne",
@@ -2440,7 +2440,7 @@ F = [
 [],
 [],
 [466,84],
-[[1963,"Birth","Birth","",[]],[465,"Birth","Birth","",[]],[462,"Birth","Birth","",[]],[459,"Birth","Birth","",[]],[455,"Birth","Birth","",[]]]
+[[1963,"Birth","Birth","",[]],[465,"Birth","Birth","",[]],[462,"Birth","Birth","",[]],[460,"Birth","Birth","",[]],[455,"Birth","Birth","",[]]]
 ],
 ["F0401","Family of Diaz, William and Комаров, Jane",
 "Married",
@@ -2503,7 +2503,7 @@ F = [
 "1835",
 "Alamogordo, NM, USA",
 [
-	["E2927","Marriage","1835-05-13","13 MAY 1835",14,"Marriage of Domínguez, George and Максимов, Nancy","",[],[]]
+	["E2927","Marriage","1835-05-13","13 MAY 1835",7,"Marriage of Domínguez, George and Максимов, Nancy","",[],[]]
 ],
 "",
 [],
@@ -2523,8 +2523,8 @@ F = [
 [],
 [],
 [],
-[478,57],
-[[489,"Birth","Birth","",[]],[513,"Birth","Birth","",[]],[487,"Birth","Birth","",[]],[485,"Birth","Birth","",[]],[499,"Birth","Birth","",[]]]
+[477,57],
+[[488,"Birth","Birth","",[]],[514,"Birth","Birth","",[]],[487,"Birth","Birth","",[]],[485,"Birth","Birth","",[]],[500,"Birth","Birth","",[]]]
 ],
 ["F0482","Family of Douglas, Abraham and Greer, Mary Wein",
 "Married",
@@ -2537,8 +2537,8 @@ F = [
 [],
 [],
 [],
-[478,755],
-[[514,"Birth","Birth","",[]],[492,"Birth","Birth","",[]],[481,"Birth","Birth","",[]]]
+[477,755],
+[[513,"Birth","Birth","",[]],[492,"Birth","Birth","",[]],[481,"Birth","Birth","",[]]]
 ],
 ["F0725","Family of Douglas, Alfred",
 "Married",
@@ -2587,28 +2587,28 @@ F = [
 "1739",
 "Colorado Springs, El Paso, CO, USA",
 [
-	["E2812","Marriage","1739-04-30","30 APR 1739",234,"Marriage of Douglas, Hans Peter and Howard, Juliana","",[],[]]
+	["E2812","Marriage","1739-04-30","30 APR 1739",165,"Marriage of Douglas, Hans Peter and Howard, Juliana","",[],[]]
 ],
 "",
 [],
 [],
 [],
 [496,850],
-[[504,"Birth","Birth","",[]],[493,"Birth","Birth","",[]],[497,"Birth","Birth","",[]],[480,"Birth","Birth","",[]]]
+[[504,"Birth","Birth","",[]],[494,"Birth","Birth","",[]],[497,"Birth","Birth","",[]],[480,"Birth","Birth","",[]]]
 ],
 ["F0170","Family of Douglas, John Jr. and Johnson, Elizabeth",
 "Married",
 "1787",
 "Lock Haven, PA, USA",
 [
-	["E2816","Marriage","1787-04-09","9 APR 1787",669,"Marriage of Douglas, John Jr. and Johnson, Elizabeth","",[],[]]
+	["E2816","Marriage","1787-04-09","9 APR 1787",454,"Marriage of Douglas, John Jr. and Johnson, Elizabeth","",[],[]]
 ],
 "",
 [],
 [],
 [],
 [503,933],
-[[506,"Birth","Birth","",[]],[477,"Birth","Birth","",[]],[498,"Birth","Birth","",[]],[510,"Birth","Birth","",[]],[501,"Birth","Birth","",[]],[476,"Birth","Birth","",[]]]
+[[506,"Birth","Birth","",[]],[478,"Birth","Birth","",[]],[498,"Birth","Birth","",[]],[510,"Birth","Birth","",[]],[501,"Birth","Birth","",[]],[476,"Birth","Birth","",[]]]
 ],
 ["F0489","Family of Douglas, John Jr. and Rogers, Barbara",
 "Married",
@@ -2629,7 +2629,7 @@ F = [
 "1806",
 "Sterling, Logan, CO, USA",
 [
-	["E3171","Marriage","1806-07-28","28 JUL 1806",1107,"Marriage of Douglas, John Sr. and Larson, Christena Wiseman","",[],[]]
+	["E3171","Marriage","1806-07-28","28 JUL 1806",745,"Marriage of Douglas, John Sr. and Larson, Christena Wiseman","",[],[]]
 ],
 "",
 [],
@@ -2650,28 +2650,28 @@ F = [
 [],
 [],
 [504,1143],
-[[503,"Birth","Birth","",[]],[484,"Birth","Birth","",[]],[505,"Birth","Birth","",[]],[494,"Birth","Birth","",[]],[488,"Birth","Birth","",[]],[482,"Birth","Birth","",[]],[509,"Birth","Birth","",[]]]
+[[503,"Birth","Birth","",[]],[483,"Birth","Birth","",[]],[505,"Birth","Birth","",[]],[493,"Birth","Birth","",[]],[489,"Birth","Birth","",[]],[482,"Birth","Birth","",[]],[509,"Birth","Birth","",[]]]
 ],
 ["F0172","Family of Douglas, Joseph and Carroll, Grace",
 "Married",
 "1807",
 "Rome, Floyd, GA, USA",
 [
-	["E2818","Marriage","1807-10-15","15 OCT 1807",1000,"Marriage of Douglas, Joseph and Carroll, Grace","",[],[]]
+	["E2818","Marriage","1807-10-15","15 OCT 1807",667,"Marriage of Douglas, Joseph and Carroll, Grace","",[],[]]
 ],
 "",
 [],
 [],
 [],
 [506,353],
-[[478,"Birth","Birth","",[]],[490,"Birth","Birth","",[]],[696,"Birth","Birth","",[]],[500,"Birth","Birth","",[]],[483,"Birth","Birth","",[]],[479,"Birth","Birth","",[]],[491,"Birth","Birth","",[]],[507,"Birth","Birth","",[]],[511,"Birth","Birth","",[]],[512,"Birth","Birth","",[]],[502,"Birth","Birth","",[]]]
+[[477,"Birth","Birth","",[]],[490,"Birth","Birth","",[]],[696,"Birth","Birth","",[]],[499,"Birth","Birth","",[]],[484,"Birth","Birth","",[]],[479,"Birth","Birth","",[]],[491,"Birth","Birth","",[]],[507,"Birth","Birth","",[]],[511,"Birth","Birth","",[]],[512,"Birth","Birth","",[]],[502,"Birth","Birth","",[]]]
 ],
 ["F0615","Family of Doyle, Robert Gove and Diaz, Mary Polly",
 "Married",
 "1796",
 "Union City, TN, USA",
 [
-	["E3303","Marriage","1796-03-14","14 MAR 1796",1174,"Marriage of Doyle, Robert Gove and Diaz, Mary Polly","",[],[]]
+	["E3303","Marriage","1796-03-14","14 MAR 1796",785,"Marriage of Doyle, Robert Gove and Diaz, Mary Polly","",[],[]]
 ],
 "",
 [],
@@ -2769,7 +2769,7 @@ F = [
 "1839",
 "Athens, OH, USA",
 [
-	["E3091","Marriage","1839-04-11","11 APR 1839",59,"Marriage of Farmer, Benjamin H. and Mills, Isabella","",[],[]]
+	["E3091","Marriage","1839-04-11","11 APR 1839",45,"Marriage of Farmer, Benjamin H. and Mills, Isabella","",[],[]]
 ],
 "",
 [],
@@ -2804,7 +2804,7 @@ F = [
 [],
 [],
 [547,2030],
-[[537,"Birth","Birth","",[]],[555,"Birth","Birth","",[]],[538,"Birth","Birth","",[]],[541,"Birth","Birth","",[]],[549,"Birth","Birth","",[]]]
+[[537,"Birth","Birth","",[]],[555,"Birth","Birth","",[]],[538,"Birth","Birth","",[]],[542,"Birth","Birth","",[]],[549,"Birth","Birth","",[]]]
 ],
 ["F0430","Family of Farmer, Michael and Dubé, Elizabeth",
 "Married",
@@ -2887,7 +2887,7 @@ F = [
 [],
 [],
 [],
-[564,387],
+[563,387],
 [[1001,"Birth","Birth","",[]],[562,"Birth","Birth","",[]]]
 ],
 ["F0353","Family of Fernandez, Thomas and Holloway, Sarah",
@@ -2895,27 +2895,27 @@ F = [
 "1820",
 "Batesville, Independence, AR, USA",
 [
-	["E3018","Marriage","1820-02-13","13 FEB 1820",79,"Marriage of Fernandez, Thomas and Holloway, Sarah","",[],[]]
+	["E3018","Marriage","1820-02-13","13 FEB 1820",59,"Marriage of Fernandez, Thomas and Holloway, Sarah","",[],[]]
 ],
 "",
 [],
 [],
 [],
-[563,845],
-[[564,"Birth","Birth","",[]]]
+[564,845],
+[[563,"Birth","Birth","",[]]]
 ],
 ["F0079","Family of Fernandez, Thomas and Ortega, Catherine",
 "Married",
 "1863",
 "Wabash, Wabash, IN, USA",
 [
-	["E3380","Marriage","1863-04-27","27 APR 1863",1204,"Marriage of Fernandez, Thomas and Ortega, Catherine","",[],[]]
+	["E3380","Marriage","1863-04-27","27 APR 1863",801,"Marriage of Fernandez, Thomas and Ortega, Catherine","",[],[]]
 ],
 "",
 [],
 [],
 [],
-[564,1252],
+[563,1252],
 [[988,"Birth","Birth","",[]],[999,"Birth","Birth","",[]],[994,"Birth","Birth","",[]]]
 ],
 ["F0234","Family of Fitzgerald, David Lee and Лопатин, Donna Elaine",
@@ -2923,7 +2923,7 @@ F = [
 "?",
 "Fairmont, MN, USA",
 [
-	["E2886","Marriage","","",369,"Marriage of Fitzgerald, David Lee and Лопатин, Donna Elaine","",[],[]]
+	["E2886","Marriage","","",253,"Marriage of Fitzgerald, David Lee and Лопатин, Donna Elaine","",[],[]]
 ],
 "",
 [],
@@ -2951,7 +2951,7 @@ F = [
 "1875",
 "Denver-Aurora, CO, USA",
 [
-	["E3032","Marriage","1875-02-04","4 FEB 1875",302,"Marriage of Floyd, John Morgan and Carr, Zelpha Josephine","",[],[]]
+	["E3032","Marriage","1875-02-04","4 FEB 1875",209,"Marriage of Floyd, John Morgan and Carr, Zelpha Josephine","",[],[]]
 ],
 "",
 [],
@@ -2965,7 +2965,7 @@ F = [
 "1830",
 "Coeur d'Alene, Kootenai, ID, USA",
 [
-	["E2809","Marriage","1830-12-10","10 DEC 1830",227,"Marriage of Floyd, John S. and Coleman, Mary","",[],[]]
+	["E2809","Marriage","1830-12-10","10 DEC 1830",161,"Marriage of Floyd, John S. and Coleman, Mary","",[],[]]
 ],
 "",
 [],
@@ -3007,7 +3007,7 @@ F = [
 "1993",
 "Southern Pines, NC, USA",
 [
-	["E3234","Marriage","1993-02-06","6 FEB 1993",1080,"Marriage of Ford, Phillip D. and Webb, Joan Lorinda","",[],[]]
+	["E3234","Marriage","1993-02-06","6 FEB 1993",726,"Marriage of Ford, Phillip D. and Webb, Joan Lorinda","",[],[]]
 ],
 "",
 [],
@@ -3035,7 +3035,7 @@ F = [
 "1879",
 "Vernal, UT, USA",
 [
-	["E3033","Marriage","1879-09-17","17 SEP 1879",1193,"Marriage of Ford, Stephen Jacob and Garner, Iola Elizabeth Betty","",[],[]]
+	["E3033","Marriage","1879-09-17","17 SEP 1879",794,"Marriage of Ford, Stephen Jacob and Garner, Iola Elizabeth Betty","",[],[]]
 ],
 "",
 [],
@@ -3049,7 +3049,7 @@ F = [
 "?",
 "De Ridder, LA, USA",
 [
-	["E3290","Marriage","","",288,"Marriage of Ford, William and Payne, Winifred","",[],[]]
+	["E3290","Marriage","","",201,"Marriage of Ford, William and Payne, Winifred","",[],[]]
 ],
 "",
 [],
@@ -3077,13 +3077,13 @@ F = [
 "1577",
 "Wilmington, OH, USA",
 [
-	["E3314","Marriage","1577-08-28","28 AUG 1577",1260,"Marriage of Foster, John and Ryan, Elizabeth","",[],[]]
+	["E3314","Marriage","1577-08-28","28 AUG 1577",834,"Marriage of Foster, John and Ryan, Elizabeth","",[],[]]
 ],
 "",
 [],
 [],
 [],
-[591,1556],
+[590,1557],
 [[592,"Birth","Birth","",[]]]
 ],
 ["F0332","Family of Foster, John and Ryan, Elizabeth",
@@ -3097,7 +3097,7 @@ F = [
 [],
 [],
 [],
-[590,1557],
+[591,1556],
 [[593,"Birth","Birth","",[]]]
 ],
 ["F0338","Family of Foster, Thomas and Kozłowski, Margret",
@@ -3105,21 +3105,21 @@ F = [
 "1551",
 "Wilmington, OH, USA",
 [
-	["E3001","Marriage","1551","1551",1260,"Marriage of Foster, Thomas and Kozłowski, Margret","",[],[]]
+	["E3001","Marriage","1551","1551",834,"Marriage of Foster, Thomas and Kozłowski, Margret","",[],[]]
 ],
 "",
 [],
 [],
 [],
 [593,972],
-[[591,"Birth","Birth","",[]]]
+[[590,"Birth","Birth","",[]]]
 ],
 ["F0321","Family of Foster, Thomas and Spencer, Ann",
 "Married",
 "1615",
 "Allegan, MI, USA",
 [
-	["E2983","Marriage","1615","1615",26,"Marriage of Foster, Thomas and Spencer, Ann","",[],[]]
+	["E2983","Marriage","1615","1615",18,"Marriage of Foster, Thomas and Spencer, Ann","",[],[]]
 ],
 "",
 [],
@@ -3133,7 +3133,7 @@ F = [
 "?",
 "Chillicothe, OH, USA",
 [
-	["E2841","Marriage","","",203,"Marriage of Foster, William and Sanders, Mary","",[],[]]
+	["E2841","Marriage","","",148,"Marriage of Foster, William and Sanders, Mary","",[],[]]
 ],
 "",
 [],
@@ -3181,7 +3181,7 @@ F = [
 [],
 [],
 [],
-[598,1313],
+[598,1314],
 [[597,"Birth","Birth","",[]]]
 ],
 ["F0199","Family of Fox, Samuel and Mason, Susannah",
@@ -3245,7 +3245,7 @@ F = [
 "1970",
 "Gaithersburg, MD, USA",
 [
-	["E3368","Marriage","1970-01-01","1 JAN 1970",425,"Marriage of French, Jimmy Michael and Warner, Martha Ellen","",[],[]]
+	["E3368","Marriage","1970-01-01","1 JAN 1970",294,"Marriage of French, Jimmy Michael and Warner, Martha Ellen","",[],[]]
 ],
 "",
 [],
@@ -3273,7 +3273,7 @@ F = [
 "?",
 "Green Bay, WI, USA",
 [
-	["E2906","Marriage","","",453,"Marriage of Gardner, Michael and Hansen, Nula","",[],[]]
+	["E2906","Marriage","","",314,"Marriage of Gardner, Michael and Hansen, Nula","",[],[]]
 ],
 "",
 [],
@@ -3301,7 +3301,7 @@ F = [
 "1992",
 "Greeneville, TN, USA",
 [
-	["E2921","Marriage","1992-11-07","7 NOV 1992",455,"Marriage of Garner, Barry Joseph and Vázquez, April Lynn","",[],[]]
+	["E2921","Marriage","1992-11-07","7 NOV 1992",315,"Marriage of Garner, Barry Joseph and Vázquez, April Lynn","",[],[]]
 ],
 "",
 [],
@@ -3321,7 +3321,7 @@ F = [
 [],
 [],
 [],
-[636,867],
+[636,866],
 []
 ],
 ["F0016","Family of Garner, Eugene Stanley and Reed, Frances Lucille (Babe)",
@@ -3329,7 +3329,7 @@ F = [
 "1921",
 "Edison, NJ, USA",
 [
-	["E2804","Marriage","1921-01-03","3 JAN 1921",339,"Marriage of Garner, Eugene Stanley and Reed, Frances Lucille (Babe)","",[],[]]
+	["E2804","Marriage","1921-01-03","3 JAN 1921",234,"Marriage of Garner, Eugene Stanley and Reed, Frances Lucille (Babe)","",[],[]]
 ],
 "",
 [],
@@ -3385,7 +3385,7 @@ F = [
 "1979",
 "Farmington, MO, USA",
 [
-	["E2992","Marriage","1979-01-06","6 JAN 1979",375,"Marriage of Garner, Gerard Stephen and George, Elizabeth","",[],[]]
+	["E2992","Marriage","1979-01-06","6 JAN 1979",259,"Marriage of Garner, Gerard Stephen and George, Elizabeth","",[],[]]
 ],
 "",
 [],
@@ -3399,7 +3399,7 @@ F = [
 "1948",
 "Worthington, MN, USA",
 [
-	["E2847","Marriage","1948-02-02","2 FEB 1948",1273,"Marriage of Garner, Howard Lane and Marín, Mary Anne","",[],[]]
+	["E2847","Marriage","1948-02-02","2 FEB 1948",843,"Marriage of Garner, Howard Lane and Marín, Mary Anne","",[],[]]
 ],
 "",
 [],
@@ -3455,7 +3455,7 @@ F = [
 "1961",
 "Ottawa, La Salle, IL, USA",
 [
-	["E2857","Marriage","1961-10-07","7 OCT 1961",893,"Marriage of Garner, John Roger and Брюханов, Violet Louise","",[],[]]
+	["E2857","Marriage","1961-10-07","7 OCT 1961",586,"Marriage of Garner, John Roger and Брюханов, Violet Louise","",[],[]]
 ],
 "",
 [],
@@ -3469,7 +3469,7 @@ F = [
 "1823",
 "Picayune, MS, USA",
 [
-	["E2836","Marriage","1823-01-03","3 JAN 1823",927,"Marriage of Garner, Joseph and Edwards, Lucy","",[],[]]
+	["E2836","Marriage","1823-01-03","3 JAN 1823",612,"Marriage of Garner, Joseph and Edwards, Lucy","",[],[]]
 ],
 "",
 [],
@@ -3483,7 +3483,7 @@ F = [
 "1875",
 "Paragould, Greene, AR, USA",
 [
-	["E2815","Marriage","1875-04-01","1 APR 1875",912,"Marriage of Garner, Lewis Anderson and Martel, Luella Jacques","",[],[]]
+	["E2815","Marriage","1875-04-01","1 APR 1875",600,"Marriage of Garner, Lewis Anderson and Martel, Luella Jacques","",[],[]]
 ],
 "",
 [],
@@ -3553,7 +3553,7 @@ F = [
 "1942",
 "Gillette, WY, USA",
 [
-	["E2837","Marriage","1942-04-05","5 APR 1942",436,"Marriage of Garner, Raymond Webster and Bryant, Kathryn Ladon","",[],[]]
+	["E2837","Marriage","1942-04-05","5 APR 1942",301,"Marriage of Garner, Raymond Webster and Bryant, Kathryn Ladon","",[],[]]
 ],
 "",
 [],
@@ -3581,7 +3581,7 @@ F = [
 "1880",
 "Paragould, Greene, AR, USA",
 [
-	["E3034","Marriage","1880-11-25","25 NOV 1880",912,"Marriage of Garner, Robert F. and Cannon, Mary Jane","",[],[]]
+	["E3034","Marriage","1880-11-25","25 NOV 1880",600,"Marriage of Garner, Robert F. and Cannon, Mary Jane","",[],[]]
 ],
 "",
 [],
@@ -3595,7 +3595,7 @@ F = [
 "1849",
 "Paragould, Greene, AR, USA",
 [
-	["E2825","Marriage","1849-10-04","4 OCT 1849",912,"Marriage of Garner, Robert W. and Zieliński, Phoebe Emily","",[],[]]
+	["E2825","Marriage","1849-10-04","4 OCT 1849",600,"Marriage of Garner, Robert W. and Zieliński, Phoebe Emily","",[],[]]
 ],
 "",
 [],
@@ -3609,7 +3609,7 @@ F = [
 "1997",
 "Blacksburg, VA, USA",
 [
-	["E3076","Marriage","1997-07-07","7 JUL 1997",111,"Marriage of Garner, Thomas James and Сорокин, Holly Ruth","",[],[]]
+	["E3076","Marriage","1997-07-07","7 JUL 1997",83,"Marriage of Garner, Thomas James and Сорокин, Holly Ruth","",[],[]]
 ],
 "",
 [],
@@ -3637,7 +3637,7 @@ F = [
 "1978",
 "Americus, Sumter, GA, USA",
 [
-	["E2887","Marriage","1978-11-18","18 NOV 1978",34,"Marriage of Garrett, Terry Lee and Holloway, Gail","",[],[]]
+	["E2887","Marriage","1978-11-18","18 NOV 1978",25,"Marriage of Garrett, Terry Lee and Holloway, Gail","",[],[]]
 ],
 "",
 [],
@@ -3707,7 +3707,7 @@ F = [
 "?",
 "Reno-Sparks, NV, USA",
 [
-	["E3121","Marriage","","",979,"Marriage of Gilbert, ?? and Lévesque, Wilma","",[],[]]
+	["E3121","Marriage","","",649,"Marriage of Gilbert, ?? and Lévesque, Wilma","",[],[]]
 ],
 "",
 [],
@@ -3735,7 +3735,7 @@ F = [
 "?",
 "Ottawa, La Salle, IL, USA",
 [
-	["E3388","Marriage","before 1967","BEF 1967",893,"Marriage of Gill, Lawrence and Webb, Joan Lorinda","",[],[]]
+	["E3388","Marriage","before 1967","BEF 1967",586,"Marriage of Gill, Lawrence and Webb, Joan Lorinda","",[],[]]
 ],
 "",
 [],
@@ -3777,7 +3777,7 @@ F = [
 "1590",
 "Milwaukee, WI, USA",
 [
-	["E3060","Marriage","1590-11-01","1 NOV 1590",771,"Marriage of Goodman, Ralph and Powell, Martha","",[],[]]
+	["E3060","Marriage","1590-11-01","1 NOV 1590",513,"Marriage of Goodman, Ralph and Powell, Martha","",[],[]]
 ],
 "",
 [],
@@ -3805,7 +3805,7 @@ F = [
 "1980",
 "Statesboro, Bulloch, GA, USA",
 [
-	["E2848","Marriage","1980-12-27","27 DEC 1980",1103,"Marriage of Gosselin, Martin Kelly and Warner, Marcia Jane","",[],[]]
+	["E2848","Marriage","1980-12-27","27 DEC 1980",742,"Marriage of Gosselin, Martin Kelly and Warner, Marcia Jane","",[],[]]
 ],
 "",
 [],
@@ -3833,7 +3833,7 @@ F = [
 "1996",
 "Lafayette, Tippecanoe, IN, USA",
 [
-	["E3022","Marriage","1996-08-10","10 AUG 1996",611,"Marriage of Graham, Steve and Cruz, Laura Joy","",[],[]]
+	["E3022","Marriage","1996-08-10","10 AUG 1996",415,"Marriage of Graham, Steve and Cruz, Laura Joy","",[],[]]
 ],
 "",
 [],
@@ -3847,7 +3847,7 @@ F = [
 "1674",
 "Plainview, Houston, TX, USA",
 [
-	["E2773","Marriage","1674-01-16","16 JAN 1674",935,"Marriage of Green, Edward and Lefebvre, Mary","",[],[]]
+	["E2773","Marriage","1674-01-16","16 JAN 1674",617,"Marriage of Green, Edward and Lefebvre, Mary","",[],[]]
 ],
 "",
 [],
@@ -3889,7 +3889,7 @@ F = [
 "1787",
 "Chillicothe, OH, USA",
 [
-	["E2779","Marriage","1787-02-10","10 FEB 1787",203,"Marriage of Green, Randolph and Davis, Sabra","",[],[]]
+	["E2779","Marriage","1787-02-10","10 FEB 1787",148,"Marriage of Green, Randolph and Davis, Sabra","",[],[]]
 ],
 "",
 [],
@@ -3917,7 +3917,7 @@ F = [
 "1628",
 "Minneapolis, MN, USA",
 [
-	["E2874","Marriage","1628","1628",774,"Marriage of Grenier, Joseph and Peters, Rose","",[],[]]
+	["E2874","Marriage","1628","1628",516,"Marriage of Grenier, Joseph and Peters, Rose","",[],[]]
 ],
 "",
 [],
@@ -3940,20 +3940,6 @@ F = [
 [760,1359],
 []
 ],
-["F0714","Family of Guerrero, Robert",
-"Married",
-"",
-"",
-[
-
-],
-"",
-[],
-[],
-[],
-[762],
-[[761,"Birth","Birth","",[]]]
-],
 ["F0713","Family of Guerrero, Robert",
 "Married",
 "",
@@ -3965,10 +3951,10 @@ F = [
 [],
 [],
 [],
-[761],
+[762],
 [[1137,"Birth","Birth","",[]]]
 ],
-["F0715","Family of Guerrero, Walter",
+["F0714","Family of Guerrero, Robert",
 "Married",
 "",
 "",
@@ -3979,10 +3965,10 @@ F = [
 [],
 [],
 [],
-[764],
+[761],
 [[762,"Birth","Birth","",[]]]
 ],
-["F0717","Family of Guerrero, Walter",
+["F0716","Family of Guerrero, Walter",
 "Married",
 "",
 "",
@@ -3996,7 +3982,7 @@ F = [
 [765],
 [[763,"Birth","Birth","",[]]]
 ],
-["F0716","Family of Guerrero, Walter",
+["F0715","Family of Guerrero, Walter",
 "Married",
 "",
 "",
@@ -4008,7 +3994,21 @@ F = [
 [],
 [],
 [763],
-[[764,"Birth","Birth","",[]]]
+[[761,"Birth","Birth","",[]]]
+],
+["F0717","Family of Guerrero, Walter",
+"Married",
+"",
+"",
+[
+
+],
+"",
+[],
+[],
+[],
+[764],
+[[765,"Birth","Birth","",[]]]
 ],
 ["F0117","Family of Gutierrez, Thomas and Boucher, Nora A.",
 "Married",
@@ -4043,7 +4043,7 @@ F = [
 "1973",
 "Ottawa, La Salle, IL, USA",
 [
-	["E2981","Marriage","1973-09-15","15 SEP 1973",893,"Marriage of Hale, Lawrence Paul and Garner, Anne Therese","",[],[]]
+	["E2981","Marriage","1973-09-15","15 SEP 1973",586,"Marriage of Hale, Lawrence Paul and Garner, Anne Therese","",[],[]]
 ],
 "",
 [],
@@ -4057,7 +4057,7 @@ F = [
 "1995",
 "Montgomery, Montgomery, AL, USA",
 [
-	["E3249","Marriage","1995-04-16","16 APR 1995",791,"Marriage of Hamilton, John and Boucher, Miread","",[],[]]
+	["E3249","Marriage","1995-04-16","16 APR 1995",526,"Marriage of Hamilton, John and Boucher, Miread","",[],[]]
 ],
 "",
 [],
@@ -4085,7 +4085,7 @@ F = [
 "?",
 "Loveland, Larimer, CO, USA",
 [
-	["E2905","Marriage","","",680,"Marriage of Hansen, Noel and Ramirez, Helen","",[],[]]
+	["E2905","Marriage","","",461,"Marriage of Hansen, Noel and Ramirez, Helen","",[],[]]
 ],
 "",
 [],
@@ -4099,7 +4099,7 @@ F = [
 "1952",
 "Walterboro, SC, USA",
 [
-	["E2904","Marriage","1952","1952",1209,"Marriage of Hansen, Thomas and Boucher, Rose Mary","",[],[]]
+	["E2904","Marriage","1952","1952",804,"Marriage of Hansen, Thomas and Boucher, Rose Mary","",[],[]]
 ],
 "",
 [],
@@ -4155,7 +4155,7 @@ F = [
 "1692",
 "Topeka, Shawnee, KS, USA",
 [
-	["E3325","Marriage","1692-12-28","28 DEC 1692",1156,"Marriage of Harrison, Edward and Allen, Sarah","",[],[]]
+	["E3325","Marriage","1692-12-28","28 DEC 1692",773,"Marriage of Harrison, Edward and Allen, Sarah","",[],[]]
 ],
 "",
 [],
@@ -4267,7 +4267,7 @@ F = [
 "1971",
 "Gaithersburg, MD, USA",
 [
-	["E3113","Marriage","1971-09-05","5 SEP 1971",425,"Marriage of Haynes, Marc W. and Warner, Laura Gail","",[],[]]
+	["E3113","Marriage","1971-09-05","5 SEP 1971",294,"Marriage of Haynes, Marc W. and Warner, Laura Gail","",[],[]]
 ],
 "",
 [],
@@ -4309,7 +4309,7 @@ F = [
 "?",
 "Garden City, Finney, KS, USA",
 [
-	["E3334","Marriage","","",427,"Marriage of Hernandez, John and Norris, Elizabeth","",[],[]]
+	["E3334","Marriage","","",296,"Marriage of Hernandez, John and Norris, Elizabeth","",[],[]]
 ],
 "",
 [],
@@ -4393,7 +4393,7 @@ F = [
 "?",
 "Del Rio, Val Verde, TX, USA",
 [
-	["E2976","Marriage","","",298,"Marriage of Howell, John and Yates, Sarah","",[],[]]
+	["E2976","Marriage","","",206,"Marriage of Howell, John and Yates, Sarah","",[],[]]
 ],
 "",
 [],
@@ -4449,14 +4449,14 @@ F = [
 "1726",
 "Auburn, Cayuga, NY, USA",
 [
-	["E2752","Marriage","1726","1726",63,"Marriage of James, Hugh Sr. and Serrano, Caroline","",[],[]]
+	["E2752","Marriage","1726","1726",49,"Marriage of James, Hugh Sr. and Serrano, Caroline","",[],[]]
 ],
 "",
 [],
 [],
 [],
 [872,1586],
-[[888,"Birth","Birth","",[]],[870,"Birth","Birth","",[]],[885,"Birth","Birth","",[]],[878,"Birth","Birth","",[]],[890,"Birth","Birth","",[]],[881,"Birth","Birth","",[]],[880,"Birth","Birth","",[]],[876,"Birth","Birth","",[]],[877,"Birth","Birth","",[]],[869,"Birth","Birth","",[]]]
+[[888,"Birth","Birth","",[]],[870,"Birth","Birth","",[]],[886,"Birth","Birth","",[]],[878,"Birth","Birth","",[]],[890,"Birth","Birth","",[]],[881,"Birth","Birth","",[]],[880,"Birth","Birth","",[]],[875,"Birth","Birth","",[]],[877,"Birth","Birth","",[]],[869,"Birth","Birth","",[]]]
 ],
 ["F0532","Family of James, Isaac and Andersen, Martha",
 "Married",
@@ -4484,7 +4484,7 @@ F = [
 [],
 [],
 [874],
-[[886,"Birth","Birth","",[]]]
+[[885,"Birth","Birth","",[]]]
 ],
 ["F0531","Family of James, Joseph and Floyd, Nancy",
 "Married",
@@ -4511,7 +4511,7 @@ F = [
 [],
 [],
 [],
-[886,1397],
+[885,1397],
 [[872,"Birth","Birth","",[]]]
 ],
 ["F0534","Family of James, Thomas and Marshall, Kate Teel",
@@ -4547,14 +4547,14 @@ F = [
 "1767",
 "Mayfield, Graves, KY, USA",
 [
-	["E2751","Marriage","1767","1767",734,"Marriage of James, Thomas Sr. and Benson, Martha Ellen M.","",[],[]]
+	["E2751","Marriage","1767","1767",491,"Marriage of James, Thomas Sr. and Benson, Martha Ellen M.","",[],[]]
 ],
 "",
 [],
 [],
 [],
 [888,166],
-[[875,"Birth","Birth","",[]],[871,"Birth","Birth","",[]],[882,"Birth","Birth","",[]],[879,"Birth","Birth","",[]],[887,"Birth","Birth","",[]],[873,"Birth","Birth","",[]],[889,"Birth","Birth","",[]],[884,"Birth","Birth","",[]]]
+[[876,"Birth","Birth","",[]],[871,"Birth","Birth","",[]],[882,"Birth","Birth","",[]],[879,"Birth","Birth","",[]],[887,"Birth","Birth","",[]],[873,"Birth","Birth","",[]],[889,"Birth","Birth","",[]],[884,"Birth","Birth","",[]]]
 ],
 ["F0536","Family of James, Walter Crockett and Hernández, Nancy",
 "Married",
@@ -4589,13 +4589,13 @@ F = [
 "1871",
 "Binghamton, Broome, NY, USA",
 [
-	["E3128","Marriage","1871-03-22","22 MAR 1871",106,"Marriage of Jankowski, George and Page, Margaret","",[],[]]
+	["E3128","Marriage","1871-03-22","22 MAR 1871",78,"Marriage of Jankowski, George and Page, Margaret","",[],[]]
 ],
 "",
 [],
 [],
 [],
-[892,1292],
+[892,1293],
 [[899,"Birth","Birth","",[]],[900,"Birth","Birth","",[]],[901,"Birth","Birth","",[]],[895,"Birth","Birth","",[]],[894,"Birth","Birth","",[]],[893,"Birth","Birth","",[]],[897,"Birth","Birth","",[]],[891,"Birth","Birth","",[]],[896,"Birth","Birth","",[]],[898,"Birth","Birth","",[]]]
 ],
 ["F0292","Family of Jenkins, Peter and Marsh, Margaret",
@@ -4637,7 +4637,7 @@ F = [
 [],
 [],
 [],
-[907,1314],
+[907,1313],
 []
 ],
 ["F0525","Family of Jiménez, Cornelius and Blair, Jane",
@@ -4659,28 +4659,28 @@ F = [
 "1851",
 "San Diego, San Diego, CA, USA",
 [
-	["E2793","Marriage","1851-06-05","5 JUN 1851",1016,"Marriage of Jiménez, George Henry, III and Blake, M. Susannah","",[],[]]
+	["E2793","Marriage","1851-06-05","5 JUN 1851",681,"Marriage of Jiménez, George Henry, III and Blake, M. Susannah","",[],[]]
 ],
 "",
 [],
 [],
 [],
 [912,188],
-[[920,"Birth","Birth","",[]],[930,"Birth","Birth","",[]],[921,"Birth","Birth","",[]],[908,"Birth","Birth","",[]],[931,"Birth","Birth","",[]],[918,"Birth","Birth","",[]],[925,"Birth","Birth","",[]],[911,"Birth","Birth","",[]]]
+[[920,"Birth","Birth","",[]],[930,"Birth","Birth","",[]],[922,"Birth","Birth","",[]],[908,"Birth","Birth","",[]],[931,"Birth","Birth","",[]],[918,"Birth","Birth","",[]],[925,"Birth","Birth","",[]],[911,"Birth","Birth","",[]]]
 ],
 ["F0106","Family of Jiménez, George Henry, Jr. and Silva, Mildred",
 "Married",
 "?",
 "Davenport, Scott, IA, USA",
 [
-	["E2746","Marriage","","",282,"Marriage of Jiménez, George Henry, Jr. and Silva, Mildred","",[],[]]
+	["E2746","Marriage","","",199,"Marriage of Jiménez, George Henry, Jr. and Silva, Mildred","",[],[]]
 ],
 "",
 [],
 [],
 [],
 [913,1595],
-[[912,"Birth","Birth","",[]],[906,"Birth","Birth","",[]],[924,"Birth","Birth","",[]],[915,"Birth","Birth","",[]],[917,"Birth","Birth","",[]],[922,"Birth","Birth","",[]],[923,"Birth","Birth","",[]],[928,"Birth","Birth","",[]],[919,"Birth","Birth","",[]]]
+[[912,"Birth","Birth","",[]],[906,"Birth","Birth","",[]],[924,"Birth","Birth","",[]],[915,"Birth","Birth","",[]],[917,"Birth","Birth","",[]],[921,"Birth","Birth","",[]],[923,"Birth","Birth","",[]],[928,"Birth","Birth","",[]],[919,"Birth","Birth","",[]]]
 ],
 ["F0241","Family of Jiménez, George, Sr. and Henry, Elizabeth",
 "Married",
@@ -4729,7 +4729,7 @@ F = [
 "1940",
 "Tupelo, MS, USA",
 [
-	["E2828","Marriage","1940-06-17","17 JUN 1940",1164,"Marriage of Johnson, Richard F. and Garner, Betty Jane","",[],[]]
+	["E2828","Marriage","1940-06-17","17 JUN 1940",779,"Marriage of Johnson, Richard F. and Garner, Betty Jane","",[],[]]
 ],
 "",
 [],
@@ -4785,7 +4785,7 @@ F = [
 "1989",
 "Morehead City, NC, USA",
 [
-	["E3391","Marriage","1989-06-10","10 JUN 1989",801,"Marriage of Jørgensen, Jeffrey and Osborne, Julia Marie","",[],[]]
+	["E3391","Marriage","1989-06-10","10 JUN 1989",529,"Marriage of Jørgensen, Jeffrey and Osborne, Julia Marie","",[],[]]
 ],
 "",
 [],
@@ -4806,20 +4806,20 @@ F = [
 [],
 [],
 [949,1174],
-[[944,"Birth","Birth","",[]],[946,"Birth","Birth","",[]],[948,"Birth","Birth","",[]],[947,"Birth","Birth","",[]],[945,"Birth","Birth","",[]]]
+[[945,"Birth","Birth","",[]],[946,"Birth","Birth","",[]],[944,"Birth","Birth","",[]],[948,"Birth","Birth","",[]],[947,"Birth","Birth","",[]]]
 ],
 ["F0593","Family of Kamiński and Reed, Jane",
 "Married",
 "?",
 "Oil City, PA, USA",
 [
-	["E3278","Marriage","","",873,"Marriage of Kamiński and Reed, Jane","",[],[]]
+	["E3278","Marriage","","",575,"Marriage of Kamiński and Reed, Jane","",[],[]]
 ],
 "",
 [],
 [],
 [],
-[951,1427],
+[951,1428],
 []
 ],
 ["F0688","Family of Keller, Mathew",
@@ -4847,7 +4847,7 @@ F = [
 [],
 [],
 [],
-[955,483],
+[955,484],
 []
 ],
 ["F0149","Family of Kim, Frank and Kristensen, Catherine Virginia",
@@ -4953,7 +4953,7 @@ F = [
 "?",
 "McAlester, OK, USA",
 [
-	["E3047","Marriage","","",736,"Marriage of Kowalski, John and Wells, Alice","",[],[]]
+	["E3047","Marriage","","",493,"Marriage of Kowalski, John and Wells, Alice","",[],[]]
 ],
 "",
 [],
@@ -4967,7 +4967,7 @@ F = [
 "?",
 "Decatur, Morgan, AL, USA",
 [
-	["E3048","Marriage","","",292,"Marriage of Kowalski, Thomas and Santos, Alice","",[],[]]
+	["E3048","Marriage","","",202,"Marriage of Kowalski, Thomas and Santos, Alice","",[],[]]
 ],
 "",
 [],
@@ -5065,7 +5065,7 @@ F = [
 "1968",
 "Midland, MI, USA",
 [
-	["E2754","Marriage","1968-06-08","8 JUN 1968",766,"Marriage of Lane, Joseph Edward and Козлов, Linda Mae","",[],[]]
+	["E2754","Marriage","1968-06-08","8 JUN 1968",510,"Marriage of Lane, Joseph Edward and Козлов, Linda Mae","",[],[]]
 ],
 "",
 [],
@@ -5079,7 +5079,7 @@ F = [
 "1937",
 "Midland, MI, USA",
 [
-	["E3165","Marriage","1937-09-11","11 SEP 1937",766,"Marriage of Lane, Joseph Robert and Thornton, Dorothy Eleanor","",[],[]]
+	["E3165","Marriage","1937-09-11","11 SEP 1937",510,"Marriage of Lane, Joseph Robert and Thornton, Dorothy Eleanor","",[],[]]
 ],
 "",
 [],
@@ -5093,7 +5093,7 @@ F = [
 "?",
 "Barnstable Town, MA, USA",
 [
-	["E2891","Marriage","","",74,"Marriage of Lane, Remo and Barnes, Ernestina","",[],[]]
+	["E2891","Marriage","","",56,"Marriage of Lane, Remo and Barnes, Ernestina","",[],[]]
 ],
 "",
 [],
@@ -5177,7 +5177,7 @@ F = [
 "1650",
 "Plainview, Houston, TX, USA",
 [
-	["E2771","Marriage","1650-12-11","11 DEC 1650",935,"Marriage of Lefebvre, Joseph and Gregory, Mary","",[],[]]
+	["E2771","Marriage","1650-12-11","11 DEC 1650",617,"Marriage of Lefebvre, Joseph and Gregory, Mary","",[],[]]
 ],
 "",
 [],
@@ -5205,7 +5205,7 @@ F = [
 "1610",
 "Burlington, Des Moines, IA, USA",
 [
-	["E3045","Marriage","1610-10-10","10 OCT 1610",150,"Marriage of Lefebvre, Rev. John L. and Kowalski, Hannah","",[],[]]
+	["E3045","Marriage","1610-10-10","10 OCT 1610",111,"Marriage of Lefebvre, Rev. John L. and Kowalski, Hannah","",[],[]]
 ],
 "",
 [],
@@ -5219,7 +5219,7 @@ F = [
 "?",
 "Durant, OK, USA",
 [
-	["E2875","Marriage","","",327,"Marriage of Lefebvre, Robert and Гончаров, Ellen","",[],[]]
+	["E2875","Marriage","","",226,"Marriage of Lefebvre, Robert and Гончаров, Ellen","",[],[]]
 ],
 "",
 [],
@@ -5261,7 +5261,7 @@ F = [
 "1925",
 "Worthington, MN, USA",
 [
-	["E2772","Marriage","1925-09-16","16 SEP 1925",1273,"Marriage of Lessard, Carl Tolbert and Webb, Luella Florence","",[],[]]
+	["E2772","Marriage","1925-09-16","16 SEP 1925",843,"Marriage of Lessard, Carl Tolbert and Webb, Luella Florence","",[],[]]
 ],
 "",
 [],
@@ -5275,7 +5275,7 @@ F = [
 "1894",
 "Sulphur Springs, Rusk, TX, USA",
 [
-	["E2783","Marriage","1894-10-17","17 OCT 1894",1119,"Marriage of Lessard, Ira Willis and Jiménez, Lucinda Ellen","",[],[]]
+	["E2783","Marriage","1894-10-17","17 OCT 1894",753,"Marriage of Lessard, Ira Willis and Jiménez, Lucinda Ellen","",[],[]]
 ],
 "",
 [],
@@ -5289,7 +5289,7 @@ F = [
 "1868",
 "Key West-Marathon, FL, USA",
 [
-	["E3393","Marriage","1868-03-24","24 MAR 1868",588,"Marriage of Lessard, Isaac and Domínguez, Mary E.","",[],[]]
+	["E3393","Marriage","1868-03-24","24 MAR 1868",401,"Marriage of Lessard, Isaac and Domínguez, Mary E.","",[],[]]
 ],
 "",
 [],
@@ -5331,7 +5331,7 @@ F = [
 "1888",
 "Sulphur Springs, Rusk, TX, USA",
 [
-	["E3119","Marriage","1888-12-19","19 DEC 1888",1119,"Marriage of Lévesque, James W. and Lessard, Emma Jane","",[],[]]
+	["E3119","Marriage","1888-12-19","19 DEC 1888",753,"Marriage of Lévesque, James W. and Lessard, Emma Jane","",[],[]]
 ],
 "",
 [],
@@ -5359,7 +5359,7 @@ F = [
 "?",
 "Troy, Pike, AL, USA",
 [
-	["E3257","Marriage","","",1159,"Marriage of Lindsey, John and Warner, Martha Ellen","",[],[]]
+	["E3257","Marriage","","",776,"Marriage of Lindsey, John and Warner, Martha Ellen","",[],[]]
 ],
 "",
 [],
@@ -5421,7 +5421,7 @@ F = [
 [],
 [],
 [],
-[1065,1415],
+[1065,1414],
 []
 ],
 ["F0450","Family of Mack, ?? and Lévesque, Elsie",
@@ -5429,7 +5429,7 @@ F = [
 "?",
 "Reno-Sparks, NV, USA",
 [
-	["E3123","Marriage","","",979,"Marriage of Mack, ?? and Lévesque, Elsie","",[],[]]
+	["E3123","Marriage","","",649,"Marriage of Mack, ?? and Lévesque, Elsie","",[],[]]
 ],
 "",
 [],
@@ -5457,7 +5457,7 @@ F = [
 "1860",
 "Bennington, VT, USA",
 [
-	["E3025","Marriage","1860-10-00","OCT 1860",96,"Marriage of Marín, Alfred Franklin(Frank) and Floyd, Martha Frances &#8220;Fannie&#8221;","",[],[]]
+	["E3025","Marriage","1860-10-00","OCT 1860",72,"Marriage of Marín, Alfred Franklin(Frank) and Floyd, Martha Frances &#8220;Fannie&#8221;","",[],[]]
 ],
 "",
 [],
@@ -5471,7 +5471,7 @@ F = [
 "1885",
 "Worthington, MN, USA",
 [
-	["E3014","Marriage","1885-10-15","15 OCT 1885",1273,"Marriage of Marín, Moses Wallace and Landry, Eleanor (Nellie) Therese","",[],[]]
+	["E3014","Marriage","1885-10-15","15 OCT 1885",843,"Marriage of Marín, Moses Wallace and Landry, Eleanor (Nellie) Therese","",[],[]]
 ],
 "",
 [],
@@ -5485,7 +5485,7 @@ F = [
 "1920",
 "Worthington, MN, USA",
 [
-	["E3003","Marriage","1920-06-23","23 JUN 1920",1273,"Marriage of Marín, Walter Matthew and Boucher, Mary Cecilia","",[],[]]
+	["E3003","Marriage","1920-06-23","23 JUN 1920",843,"Marriage of Marín, Walter Matthew and Boucher, Mary Cecilia","",[],[]]
 ],
 "",
 [],
@@ -5499,7 +5499,7 @@ F = [
 "?",
 "Ocean Pines, MD, USA",
 [
-	["E2956","Marriage","","",869,"Marriage of Marín, William and Francis, Elizabeth","",[],[]]
+	["E2956","Marriage","","",572,"Marriage of Marín, William and Francis, Elizabeth","",[],[]]
 ],
 "",
 [],
@@ -5575,7 +5575,7 @@ F = [
 [],
 [],
 [],
-[1102,1417],
+[1102,1416],
 []
 ],
 ["F0562","Family of Martínez and Serrano, Reh Dawn",
@@ -5604,14 +5604,14 @@ F = [
 [],
 [],
 [1106,2025],
-[[368,"Birth","Birth","",[]]]
+[[367,"Birth","Birth","",[]]]
 ],
 ["F0265","Family of Matthews, Mark John and Warner, Andrea Susan",
 "Married",
 "1992",
 "Dayton, OH, USA",
 [
-	["E2920","Marriage","1992-09-05","5 SEP 1992",286,"Marriage of Matthews, Mark John and Warner, Andrea Susan","",[],[]]
+	["E2920","Marriage","1992-09-05","5 SEP 1992",200,"Marriage of Matthews, Mark John and Warner, Andrea Susan","",[],[]]
 ],
 "",
 [],
@@ -5653,7 +5653,7 @@ F = [
 "1988",
 "Morehead City, NC, USA",
 [
-	["E3389","Marriage","1988-09-17","17 SEP 1988",801,"Marriage of Mcbride, Paul and Данилов, Barbara Joanne","",[],[]]
+	["E3389","Marriage","1988-09-17","17 SEP 1988",529,"Marriage of Mcbride, Paul and Данилов, Barbara Joanne","",[],[]]
 ],
 "",
 [],
@@ -5695,21 +5695,21 @@ F = [
 "?",
 "Lima, OH, USA",
 [
-	["E3260","Marriage","about 1939","ABT 1939",660,"Marriage of McCoy, Francis and Reed, Sarah","",[],[]]
+	["E3260","Marriage","about 1939","ABT 1939",449,"Marriage of McCoy, Francis and Reed, Sarah","",[],[]]
 ],
 "",
 [],
 [],
 [],
-[1120,1456],
-[[1124,"Birth","Birth","",[]],[1117,"Birth","Birth","",[]],[1121,"Birth","Birth","",[]]]
+[1121,1456],
+[[1124,"Birth","Birth","",[]],[1117,"Birth","Birth","",[]],[1120,"Birth","Birth","",[]]]
 ],
 ["F0575","Family of McCoy, Thomas Michael and Howell, Mary",
 "Married",
 "1969",
 "Oneonta, Otsego, NY, USA",
 [
-	["E3258","Marriage","1969-09-09","9 SEP 1969",880,"Marriage of McCoy, Thomas Michael and Howell, Mary","",[],[]]
+	["E3258","Marriage","1969-09-09","9 SEP 1969",580,"Marriage of McCoy, Thomas Michael and Howell, Mary","",[],[]]
 ],
 "",
 [],
@@ -5737,7 +5737,7 @@ F = [
 "?",
 "Topeka, Shawnee, KS, USA",
 [
-	["E3328","Marriage","about 1725","ABT 1725",1156,"Marriage of Mendoza, James and Allen, Abigail","",[],[]]
+	["E3328","Marriage","about 1725","ABT 1725",773,"Marriage of Mendoza, James and Allen, Abigail","",[],[]]
 ],
 "",
 [],
@@ -5779,7 +5779,7 @@ F = [
 "?",
 "McAlester, OK, USA",
 [
-	["E3051","Marriage","","",736,"Marriage of Molina, Robert","",[],[]]
+	["E3051","Marriage","","",493,"Marriage of Molina, Robert","",[],[]]
 ],
 "",
 [],
@@ -5842,7 +5842,7 @@ F = [
 [],
 [],
 [1147,1987],
-[[1148,"Birth","Birth","",[]],[1179,"Birth","Birth","",[]],[1166,"Birth","Birth","",[]],[1153,"Birth","Birth","",[]],[1155,"Birth","Birth","",[]],[1173,"Birth","Birth","",[]],[1152,"Birth","Birth","",[]],[1174,"Birth","Birth","",[]],[1178,"Birth","Birth","",[]]]
+[[1148,"Birth","Birth","",[]],[1179,"Birth","Birth","",[]],[1166,"Birth","Birth","",[]],[1153,"Birth","Birth","",[]],[1154,"Birth","Birth","",[]],[1173,"Birth","Birth","",[]],[1152,"Birth","Birth","",[]],[1174,"Birth","Birth","",[]],[1178,"Birth","Birth","",[]]]
 ],
 ["F0668","Family of Moreno, Christian and Price, Mary",
 "Married",
@@ -5919,7 +5919,7 @@ F = [
 "1749",
 "Clarksburg, WV, USA",
 [
-	["E2856","Marriage","1749-04-02","2 APR 1749",210,"Marriage of Moreno, Johann Christian II and Матвеев, Elizabeth","",[],[]]
+	["E2856","Marriage","1749-04-02","2 APR 1749",151,"Marriage of Moreno, Johann Christian II and Матвеев, Elizabeth","",[],[]]
 ],
 "",
 [],
@@ -5954,7 +5954,7 @@ F = [
 [],
 [],
 [1170,113],
-[[1147,"Birth","Birth","",[]],[1150,"Birth","Birth","",[]],[1156,"Birth","Birth","",[]],[1177,"Birth","Birth","",[]],[1165,"Birth","Birth","",[]],[1149,"Birth","Birth","",[]],[1175,"Birth","Birth","",[]],[1157,"Birth","Birth","",[]],[1167,"Birth","Birth","",[]],[1154,"Birth","Birth","",[]],[1159,"Birth","Birth","",[]],[1158,"Birth","Birth","",[]]]
+[[1147,"Birth","Birth","",[]],[1150,"Birth","Birth","",[]],[1156,"Birth","Birth","",[]],[1177,"Birth","Birth","",[]],[1165,"Birth","Birth","",[]],[1149,"Birth","Birth","",[]],[1175,"Birth","Birth","",[]],[1157,"Birth","Birth","",[]],[1167,"Birth","Birth","",[]],[1155,"Birth","Birth","",[]],[1159,"Birth","Birth","",[]],[1158,"Birth","Birth","",[]]]
 ],
 ["F0664","Family of Moreno, Solon and Perkins, Lydia",
 "Married",
@@ -5975,7 +5975,7 @@ F = [
 "1840",
 "Fort Polk South, LA, USA",
 [
-	["E3351","Marriage","1840-11-05","5 NOV 1840",400,"Marriage of Moreno, Thomas H. and Dąbrowski, Letitia C.","",[],[]]
+	["E3351","Marriage","1840-11-05","5 NOV 1840",277,"Marriage of Moreno, Thomas H. and Dąbrowski, Letitia C.","",[],[]]
 ],
 "",
 [],
@@ -6003,7 +6003,7 @@ F = [
 "?",
 "Lock Haven, PA, USA",
 [
-	["E2864","Marriage","","",669,"Marriage of Morris, Adam and Oliver, Elizabeth","",[],[]]
+	["E2864","Marriage","","",454,"Marriage of Morris, Adam and Oliver, Elizabeth","",[],[]]
 ],
 "",
 [],
@@ -6017,7 +6017,7 @@ F = [
 "1818",
 "Greenville, NC, USA",
 [
-	["E2820","Marriage","1818-09-22","22 SEP 1818",459,"Marriage of Morris, Cyrus and Graves, Martha","",[],[]]
+	["E2820","Marriage","1818-09-22","22 SEP 1818",319,"Marriage of Morris, Cyrus and Graves, Martha","",[],[]]
 ],
 "",
 [],
@@ -6031,7 +6031,7 @@ F = [
 "1975",
 "Lafayette, Tippecanoe, IN, USA",
 [
-	["E3241","Marriage","1975-06-01","1 JUN 1975",611,"Marriage of Mortensen, Daniel and Warner, Sarah Jane","",[],[]]
+	["E3241","Marriage","1975-06-01","1 JUN 1975",415,"Marriage of Mortensen, Daniel and Warner, Sarah Jane","",[],[]]
 ],
 "",
 [],
@@ -6045,13 +6045,13 @@ F = [
 "?",
 "Warner Robins, Houston, GA, USA",
 [
-	["E3146","Marriage","","",1212,"Marriage of Moss, Christy and Page, Matilda","",[],[]]
+	["E3146","Marriage","","",805,"Marriage of Moss, Christy and Page, Matilda","",[],[]]
 ],
 "",
 [],
 [],
 [],
-[1197,1296],
+[1197,1297],
 [[1199,"Birth","Birth","",[]],[1203,"Birth","Birth","",[]],[1200,"Birth","Birth","",[]],[1201,"Birth","Birth","",[]],[1198,"Birth","Birth","",[]],[1202,"Birth","Birth","",[]]]
 ],
 ["F0350","Family of Mullins, Robert? and Houston, Ellender",
@@ -6073,7 +6073,7 @@ F = [
 "?",
 "Marietta, WV, USA",
 [
-	["E3324","Marriage","","",710,"Marriage of Munoz, Shadrach M. and Marín, Nancy H.","",[],[]]
+	["E3324","Marriage","","",476,"Marriage of Munoz, Shadrach M. and Marín, Nancy H.","",[],[]]
 ],
 "",
 [],
@@ -6101,13 +6101,13 @@ F = [
 "?",
 "Spartanburg, SC, USA",
 [
-	["E2924","Marriage","","",1081,"Marriage of Myers, James and Boucher, Catherine","",[],[]]
+	["E2924","Marriage","","",727,"Marriage of Myers, James and Boucher, Catherine","",[],[]]
 ],
 "",
 [],
 [],
 [],
-[1214,226],
+[1214,227],
 [[1215,"Birth","Birth","",[]]]
 ],
 ["F0452","Family of Neal, James and Page, Elizabeth",
@@ -6115,21 +6115,21 @@ F = [
 "?",
 "Palm Coast, Flagler, FL, USA",
 [
-	["E3125","Marriage","","",908,"Marriage of Neal, James and Page, Elizabeth","",[],[]]
+	["E3125","Marriage","","",597,"Marriage of Neal, James and Page, Elizabeth","",[],[]]
 ],
 "",
 [],
 [],
 [],
-[1224,1281],
-[[1219,"Birth","Birth","",[]],[1220,"Birth","Birth","",[]],[1223,"Birth","Birth","",[]],[1225,"Birth","Birth","",[]],[1226,"Birth","Birth","",[]],[1227,"Birth","Birth","",[]],[1221,"Birth","Birth","",[]]]
+[1223,1281],
+[[1219,"Birth","Birth","",[]],[1220,"Birth","Birth","",[]],[1224,"Birth","Birth","",[]],[1225,"Birth","Birth","",[]],[1226,"Birth","Birth","",[]],[1227,"Birth","Birth","",[]],[1221,"Birth","Birth","",[]]]
 ],
 ["F0476","Family of Neal, John and Schneider, Belle Irene",
 "Married",
 "1904",
 "Farmington, NM, USA",
 [
-	["E3151","Marriage","1904-02-17","17 FEB 1904",376,"Marriage of Neal, John and Schneider, Belle Irene","",[],[]]
+	["E3151","Marriage","1904-02-17","17 FEB 1904",260,"Marriage of Neal, John and Schneider, Belle Irene","",[],[]]
 ],
 "",
 [],
@@ -6157,7 +6157,7 @@ F = [
 "1666",
 "Beeville, Bee, TX, USA",
 [
-	["E2873","Marriage","1666-01-12","12 JAN 1666",90,"Marriage of Norris, John and Howell, Mary (Sarah)","",[],[]]
+	["E2873","Marriage","1666-01-12","12 JAN 1666",68,"Marriage of Norris, John and Howell, Mary (Sarah)","",[],[]]
 ],
 "",
 [],
@@ -6171,7 +6171,7 @@ F = [
 "?",
 "Topeka, Shawnee, KS, USA",
 [
-	["E3333","Marriage","about 1689","ABT 1689",1156,"Marriage of Norris, John and Новиков, Sarah","",[],[]]
+	["E3333","Marriage","about 1689","ABT 1689",773,"Marriage of Norris, John and Новиков, Sarah","",[],[]]
 ],
 "",
 [],
@@ -6241,7 +6241,7 @@ F = [
 "?",
 "Texarkana, Miller, AR, USA",
 [
-	["E2865","Marriage","","",1144,"Marriage of Oliver, Harmonas II and Harvey, Lydia","",[],[]]
+	["E2865","Marriage","","",766,"Marriage of Oliver, Harmonas II and Harvey, Lydia","",[],[]]
 ],
 "",
 [],
@@ -6297,7 +6297,7 @@ F = [
 "1959",
 "Morehead City, NC, USA",
 [
-	["E2947","Marriage","1959-09-13","13 SEP 1959",801,"Marriage of Osborne, Dwight Billington and Lessard, Mary Alice","",[],[]]
+	["E2947","Marriage","1959-09-13","13 SEP 1959",529,"Marriage of Osborne, Dwight Billington and Lessard, Mary Alice","",[],[]]
 ],
 "",
 [],
@@ -6311,7 +6311,7 @@ F = [
 "1992",
 "Blackfoot, Bingham, ID, USA",
 [
-	["E2918","Marriage","1992-09-19","19 SEP 1992",110,"Marriage of Osborne, Paul Daniel and Hawkins, Jennifer Leigh","",[],[]]
+	["E2918","Marriage","1992-09-19","19 SEP 1992",82,"Marriage of Osborne, Paul Daniel and Hawkins, Jennifer Leigh","",[],[]]
 ],
 "",
 [],
@@ -6339,7 +6339,7 @@ F = [
 "1984",
 "Bay City, Matagorda, TX, USA",
 [
-	["E2912","Marriage","1984-10-13","13 OCT 1984",83,"Marriage of Padilla, Otis Earl and Page, Eleanor Irene","",[],[]]
+	["E2912","Marriage","1984-10-13","13 OCT 1984",63,"Marriage of Padilla, Otis Earl and Page, Eleanor Irene","",[],[]]
 ],
 "",
 [],
@@ -6353,27 +6353,27 @@ F = [
 "1908",
 "Kokomo, Howard, IN, USA",
 [
-	["E2919","Marriage","1908-09-01","1 SEP 1908",598,"Marriage of Page, Andrew Vincent and Zimmerman, Edith Irene","",[],[]]
+	["E2919","Marriage","1908-09-01","1 SEP 1908",410,"Marriage of Page, Andrew Vincent and Zimmerman, Edith Irene","",[],[]]
 ],
 "",
 [],
 [],
 [],
 [1266,1918],
-[[1310,"Birth","Birth","",[]],[1279,"Birth","Birth","",[]],[1273,"Birth","Birth","",[]],[1306,"Birth","Birth","",[]]]
+[[1310,"Birth","Birth","",[]],[1279,"Birth","Birth","",[]],[1272,"Birth","Birth","",[]],[1306,"Birth","Birth","",[]]]
 ],
 ["F0045","Family of Page, David and Douglas, Elizabeth",
 "Married",
 "1882",
 "Columbia, SC, USA",
 [
-	["E3122","Marriage","1882-12-26","26 DEC 1882",240,"Marriage of Page, David and Douglas, Elizabeth","",[],[]]
+	["E3122","Marriage","1882-12-26","26 DEC 1882",167,"Marriage of Page, David and Douglas, Elizabeth","",[],[]]
 ],
 "",
 [],
 [],
 [],
-[1272,489],
+[1273,488],
 [[1270,"Birth","Birth","",[]],[1266,"Birth","Birth","",[]],[1280,"Birth","Birth","",[]],[1278,"Birth","Birth","",[]]]
 ],
 ["F0273","Family of Page, Dwayne Alan and Scott, Cheryl Lee",
@@ -6381,7 +6381,7 @@ F = [
 "1976",
 "Santa Rosa-Petaluma, CA, USA",
 [
-	["E2929","Marriage","1976-08-09","9 AUG 1976",1036,"Marriage of Page, Dwayne Alan and Scott, Cheryl Lee","",[],[]]
+	["E2929","Marriage","1976-08-09","9 AUG 1976",693,"Marriage of Page, Dwayne Alan and Scott, Cheryl Lee","",[],[]]
 ],
 "",
 [],
@@ -6395,21 +6395,21 @@ F = [
 "?",
 "Charleston, WV, USA",
 [
-	["E2880","Marriage","","",191,"Marriage of Page, John and Kaczmarek, Isabella","",[],[]]
+	["E2880","Marriage","","",141,"Marriage of Page, John and Kaczmarek, Isabella","",[],[]]
 ],
 "",
 [],
 [],
 [],
 [1289,950],
-[[1272,"Birth","Birth","",[]],[1281,"Birth","Birth","",[]],[1304,"Birth","Birth","",[]],[1292,"Birth","Birth","",[]],[1290,"Birth","Birth","",[]],[1267,"Birth","Birth","",[]],[1295,"Birth","Birth","",[]],[1302,"Birth","Birth","",[]],[1268,"Birth","Birth","",[]],[1296,"Birth","Birth","",[]]]
+[[1273,"Birth","Birth","",[]],[1281,"Birth","Birth","",[]],[1304,"Birth","Birth","",[]],[1293,"Birth","Birth","",[]],[1290,"Birth","Birth","",[]],[1267,"Birth","Birth","",[]],[1295,"Birth","Birth","",[]],[1302,"Birth","Birth","",[]],[1268,"Birth","Birth","",[]],[1297,"Birth","Birth","",[]]]
 ],
 ["F0462","Family of Page, John James and Adkins, Minnie",
 "Married",
 "1908",
 "Palm Coast, Flagler, FL, USA",
 [
-	["E3136","Marriage","1908","1908",908,"Marriage of Page, John James and Adkins, Minnie","",[],[]]
+	["E3136","Marriage","1908","1908",597,"Marriage of Page, John James and Adkins, Minnie","",[],[]]
 ],
 "",
 [],
@@ -6437,7 +6437,7 @@ F = [
 "1978",
 "Blytheville, Mississippi, AR, USA",
 [
-	["E3223","Marriage","1978-04-08","8 APR 1978",115,"Marriage of Page, Kenneth Fritz and Pittman, June Christine","",[],[]]
+	["E3223","Marriage","1978-04-08","8 APR 1978",87,"Marriage of Page, Kenneth Fritz and Pittman, June Christine","",[],[]]
 ],
 "",
 [],
@@ -6451,7 +6451,7 @@ F = [
 "?",
 "Muscatine, Muscatine, IA, USA",
 [
-	["E2931","Marriage","","",822,"Marriage of Page, Marvin Ray and Morton, Gail Darlene","",[],[]]
+	["E2931","Marriage","","",544,"Marriage of Page, Marvin Ray and Morton, Gail Darlene","",[],[]]
 ],
 "",
 [],
@@ -6493,21 +6493,21 @@ F = [
 "?",
 "Orlando, Orange, FL, USA",
 [
-	["E3206","Marriage","","",888,"Marriage of Page, Robert and Neal, Belle","",[],[]]
+	["E3206","Marriage","","",583,"Marriage of Page, Robert and Neal, Belle","",[],[]]
 ],
 "",
 [],
 [],
 [],
 [1304,1220],
-[[1293,"Birth","Birth","",[]],[1297,"Birth","Birth","",[]],[1287,"Birth","Birth","",[]]]
+[[1292,"Birth","Birth","",[]],[1296,"Birth","Birth","",[]],[1287,"Birth","Birth","",[]]]
 ],
 ["F0272","Family of Page, Vernett Gail and Norman, Dorothy Louise",
 "Married",
 "1936",
 "Kansas City, MO, USA",
 [
-	["E2928","Marriage","1936-12-16","16 DEC 1936",576,"Marriage of Page, Vernett Gail and Norman, Dorothy Louise","",[],[]]
+	["E2928","Marriage","1936-12-16","16 DEC 1936",391,"Marriage of Page, Vernett Gail and Norman, Dorothy Louise","",[],[]]
 ],
 "",
 [],
@@ -6528,20 +6528,20 @@ F = [
 [],
 [],
 [1312,2043],
-[[1313,"Birth","Birth","",[]]]
+[[1314,"Birth","Birth","",[]]]
 ],
 ["F0109","Family of Parent, Capt.Jacob C. and James, Jane",
 "Married",
 "?",
 "Davenport, Scott, IA, USA",
 [
-	["E2749","Marriage","","",282,"Marriage of Parent, Capt.Jacob C. and James, Jane","",[],[]]
+	["E2749","Marriage","","",199,"Marriage of Parent, Capt.Jacob C. and James, Jane","",[],[]]
 ],
 "",
 [],
 [],
 [],
-[1316,875],
+[1316,876],
 [[1317,"Birth","Birth","",[]],[1323,"Birth","Birth","",[]],[1324,"Birth","Birth","",[]],[1321,"Birth","Birth","",[]],[1318,"Birth","Birth","",[]],[1320,"Birth","Birth","",[]],[1325,"Birth","Birth","",[]]]
 ],
 ["F0689","Family of Parent, John Sr.",
@@ -6591,7 +6591,7 @@ F = [
 "1888",
 "Centralia, WA, USA",
 [
-	["E3036","Marriage","1888-08-23","23 AUG 1888",186,"Marriage of Parker, Frank R. and Garner, Anetta","",[],[]]
+	["E3036","Marriage","1888-08-23","23 AUG 1888",138,"Marriage of Parker, Frank R. and Garner, Anetta","",[],[]]
 ],
 "",
 [],
@@ -6605,7 +6605,7 @@ F = [
 "1987",
 "Southern Pines, NC, USA",
 [
-	["E3236","Marriage","1987-11-28","28 NOV 1987",1080,"Marriage of Parks, Cliff and Gill, Lorie Ann","",[],[]]
+	["E3236","Marriage","1987-11-28","28 NOV 1987",726,"Marriage of Parks, Cliff and Gill, Lorie Ann","",[],[]]
 ],
 "",
 [],
@@ -6653,7 +6653,7 @@ F = [
 [],
 [],
 [],
-[1334,542],
+[1334,541],
 []
 ],
 ["F0667","Family of Patton, Adolph and Moreno, Lelia L.",
@@ -6689,7 +6689,7 @@ F = [
 "1818",
 "Guymon, OK, USA",
 [
-	["E3291","Marriage","1818-10-20","20 OCT 1818",469,"Marriage of Payne, Alexander and Salazar, Catherine","",[],[]]
+	["E3291","Marriage","1818-10-20","20 OCT 1818",328,"Marriage of Payne, Alexander and Salazar, Catherine","",[],[]]
 ],
 "",
 [],
@@ -6717,14 +6717,14 @@ F = [
 "1783",
 "De Ridder, LA, USA",
 [
-	["E2965","Marriage","1783-12-15","15 DEC 1783",288,"Marriage of Payne, George and Diaz, Frances","",[],[]]
+	["E2965","Marriage","1783-12-15","15 DEC 1783",201,"Marriage of Payne, George and Diaz, Frances","",[],[]]
 ],
 "",
 [],
 [],
 [],
-[1340,458],
-[[1342,"Birth","Birth","",[]],[1339,"Birth","Birth","",[]],[1338,"Birth","Birth","",[]],[1349,"Birth","Birth","",[]],[1347,"Birth","Birth","",[]],[1345,"Birth","Birth","",[]],[1346,"Birth","Birth","",[]],[1341,"Birth","Birth","",[]],[1348,"Birth","Birth","",[]],[1336,"Birth","Birth","",[]]]
+[1339,458],
+[[1342,"Birth","Birth","",[]],[1340,"Birth","Birth","",[]],[1338,"Birth","Birth","",[]],[1349,"Birth","Birth","",[]],[1347,"Birth","Birth","",[]],[1345,"Birth","Birth","",[]],[1346,"Birth","Birth","",[]],[1341,"Birth","Birth","",[]],[1348,"Birth","Birth","",[]],[1336,"Birth","Birth","",[]]]
 ],
 ["F0302","Family of Payne, Leonard and Hall, Elizabeth",
 "Married",
@@ -6745,14 +6745,14 @@ F = [
 "46",
 "Georgetown, SC, USA",
 [
-	["E2963","Marriage","46","46",433,"Marriage of Payne, Leonard? and Brooks, Elizabeth&#8220;Betty&#8221;","",[],[]]
+	["E2963","Marriage","46","46",299,"Marriage of Payne, Leonard? and Brooks, Elizabeth&#8220;Betty&#8221;","",[],[]]
 ],
 "",
 [],
 [],
 [],
 [1344,316],
-[[1340,"Birth","Birth","",[]]]
+[[1339,"Birth","Birth","",[]]]
 ],
 ["F0517","Family of Pedersen, William and Benson, Elizabeth",
 "Married",
@@ -6801,7 +6801,7 @@ F = [
 "1919",
 "Brenham, Washington, TX, USA",
 [
-	["E3142","Marriage","1919-08-14","14 AUG 1919",133,"Marriage of Peters, Frank O. and Cross, Alta M.","",[],[]]
+	["E3142","Marriage","1919-08-14","14 AUG 1919",99,"Marriage of Peters, Frank O. and Cross, Alta M.","",[],[]]
 ],
 "",
 [],
@@ -6815,7 +6815,7 @@ F = [
 "1596",
 "Hilton Head Island-Beaufort, SC, USA",
 [
-	["E2910","Marriage","1596","1596",503,"Marriage of Peters, George Sr. and Ramsey, Joan","",[],[]]
+	["E2910","Marriage","1596","1596",349,"Marriage of Peters, George Sr. and Ramsey, Joan","",[],[]]
 ],
 "",
 [],
@@ -6857,7 +6857,7 @@ F = [
 "1803",
 "Steubenville, OH, USA",
 [
-	["E3301","Marriage","1803-02-19","19 FEB 1803",1111,"Marriage of Petersen, William and Дмитриев, Margaret Jane","",[],[]]
+	["E3301","Marriage","1803-02-19","19 FEB 1803",747,"Marriage of Petersen, William and Дмитриев, Margaret Jane","",[],[]]
 ],
 "",
 [],
@@ -6919,7 +6919,7 @@ F = [
 [],
 [],
 [],
-[1379,875],
+[1379,876],
 [[1380,"Birth","Birth","",[]],[1381,"Birth","Birth","",[]],[1382,"Birth","Birth","",[]]]
 ],
 ["F0148","Family of Pope, John and Kristensen, Mary Elizabeth",
@@ -6997,7 +6997,7 @@ F = [
 "1875",
 "Paragould, Greene, AR, USA",
 [
-	["E3031","Marriage","1875-10-07","7 OCT 1875",912,"Marriage of Ramírez, John B. and Garner, Rebecca Catharine","",[],[]]
+	["E3031","Marriage","1875-10-07","7 OCT 1875",600,"Marriage of Ramírez, John B. and Garner, Rebecca Catharine","",[],[]]
 ],
 "",
 [],
@@ -7032,14 +7032,14 @@ F = [
 [],
 [],
 [1419],
-[[1427,"Birth","Birth","",[]],[1459,"Birth","Birth","",[]],[1440,"Birth","Birth","",[]]]
+[[1428,"Birth","Birth","",[]],[1459,"Birth","Birth","",[]],[1440,"Birth","Birth","",[]]]
 ],
 ["F0372","Family of Reed, Edward and Reed, Ellen",
 "Married",
 "1879",
 "Greensboro, NC, USA",
 [
-	["E3038","Marriage","1879-07-25","25 JUL 1879",456,"Marriage of Reed, Edward and Reed, Ellen","",[],[]]
+	["E3038","Marriage","1879-07-25","25 JUL 1879",316,"Marriage of Reed, Edward and Reed, Ellen","",[],[]]
 ],
 "",
 [],
@@ -7067,7 +7067,7 @@ F = [
 "1883",
 "Ottawa, La Salle, IL, USA",
 [
-	["E3102","Marriage","1883-09-12","12 SEP 1883",893,"Marriage of Reed, Francis Vincent and Тихонов, Catherine Virginia","",[],[]]
+	["E3102","Marriage","1883-09-12","12 SEP 1883",586,"Marriage of Reed, Francis Vincent and Тихонов, Catherine Virginia","",[],[]]
 ],
 "",
 [],
@@ -7095,14 +7095,14 @@ F = [
 "1835",
 "North Platte, NE, USA",
 [
-	["E2854","Marriage","1835-02-10","10 FEB 1835",859,"Marriage of Reed, John and Goodwin, Sarah","",[],[]]
+	["E2854","Marriage","1835-02-10","10 FEB 1835",565,"Marriage of Reed, John and Goodwin, Sarah","",[],[]]
 ],
 "",
 [],
 [],
 [],
 [1432,736],
-[[1423,"Birth","Birth","",[]],[1425,"Birth","Birth","",[]],[1431,"Birth","Birth","",[]],[1413,"Birth","Birth","",[]],[1436,"Birth","Birth","",[]],[1420,"Birth","Birth","",[]],[1416,"Birth","Birth","",[]],[1448,"Birth","Birth","",[]]]
+[[1423,"Birth","Birth","",[]],[1425,"Birth","Birth","",[]],[1431,"Birth","Birth","",[]],[1413,"Birth","Birth","",[]],[1435,"Birth","Birth","",[]],[1420,"Birth","Birth","",[]],[1418,"Birth","Birth","",[]],[1449,"Birth","Birth","",[]]]
 ],
 ["F0578","Family of Reed, Matthew and Gibbs, Mary",
 "Married",
@@ -7115,8 +7115,8 @@ F = [
 [],
 [],
 [],
-[1438,710],
-[[1456,"Birth","Birth","",[]],[1441,"Birth","Birth","",[]],[1451,"Birth","Birth","",[]],[1449,"Birth","Birth","",[]],[1409,"Birth","Birth","",[]],[1417,"Birth","Birth","",[]],[1454,"Birth","Birth","",[]],[1411,"Birth","Birth","",[]],[1437,"Birth","Birth","",[]],[1428,"Birth","Birth","",[]]]
+[1438,709],
+[[1456,"Birth","Birth","",[]],[1443,"Birth","Birth","",[]],[1451,"Birth","Birth","",[]],[1448,"Birth","Birth","",[]],[1409,"Birth","Birth","",[]],[1416,"Birth","Birth","",[]],[1454,"Birth","Birth","",[]],[1411,"Birth","Birth","",[]],[1437,"Birth","Birth","",[]],[1427,"Birth","Birth","",[]]]
 ],
 ["F0599","Family of Reed, Michael and Gibbs, Mary",
 "Married",
@@ -7129,7 +7129,7 @@ F = [
 [],
 [],
 [],
-[1443,709],
+[1441,710],
 [[1461,"Birth","Birth","",[]]]
 ],
 ["F0594","Family of Reed, Michael and Goodwin, Alice",
@@ -7171,7 +7171,7 @@ F = [
 [],
 [],
 [],
-[1449,702],
+[1448,702],
 []
 ],
 ["F0579","Family of Reed, Peter and Кузнецов, Hanora",
@@ -7186,7 +7186,7 @@ F = [
 [],
 [],
 [1451,2008],
-[[1458,"Birth","Birth","",[]],[1430,"Birth","Birth","",[]],[1450,"Birth","Birth","",[]],[1414,"Birth","Birth","",[]],[1446,"Birth","Birth","",[]]]
+[[1458,"Birth","Birth","",[]],[1430,"Birth","Birth","",[]],[1450,"Birth","Birth","",[]],[1415,"Birth","Birth","",[]],[1446,"Birth","Birth","",[]]]
 ],
 ["F0592","Family of Reed, Peter James? and Reed, Catherine",
 "Married",
@@ -7199,8 +7199,8 @@ F = [
 [],
 [],
 [],
-[1453,1418],
-[[1447,"Birth","Birth","",[]],[1412,"Birth","Birth","",[]],[1457,"Birth","Birth","",[]],[1452,"Birth","Birth","",[]],[1435,"Birth","Birth","",[]],[1408,"Birth","Birth","",[]]]
+[1453,1417],
+[[1447,"Birth","Birth","",[]],[1412,"Birth","Birth","",[]],[1457,"Birth","Birth","",[]],[1452,"Birth","Birth","",[]],[1436,"Birth","Birth","",[]],[1408,"Birth","Birth","",[]]]
 ],
 ["F0584","Family of Reed, Terrence and Gibbs, Maria",
 "Married",
@@ -7242,21 +7242,21 @@ F = [
 [],
 [],
 [1461],
-[[1415,"Birth","Birth","",[]],[1439,"Birth","Birth","",[]],[1433,"Birth","Birth","",[]],[1460,"Birth","Birth","",[]],[1410,"Birth","Birth","",[]]]
+[[1414,"Birth","Birth","",[]],[1439,"Birth","Birth","",[]],[1433,"Birth","Birth","",[]],[1460,"Birth","Birth","",[]],[1410,"Birth","Birth","",[]]]
 ],
 ["F0165","Family of Reeves, James and Meyer, Catherine",
 "Married",
 "1847",
 "Spirit Lake, Dickinson, IA, USA",
 [
-	["E2810","Marriage","1847-08-15","15 AUG 1847",1084,"Marriage of Reeves, James and Meyer, Catherine","",[],[]]
+	["E2810","Marriage","1847-08-15","15 AUG 1847",730,"Marriage of Reeves, James and Meyer, Catherine","",[],[]]
 ],
 "",
 [],
 [],
 [],
 [1469,1129],
-[[1476,"Birth","Birth","",[]],[1479,"Birth","Birth","",[]],[1473,"Birth","Birth","",[]]]
+[[1476,"Birth","Birth","",[]],[1478,"Birth","Birth","",[]],[1474,"Birth","Birth","",[]]]
 ],
 ["F0624","Family of Reeves, John and Flowers, Mary A.",
 "Married",
@@ -7269,7 +7269,7 @@ F = [
 [],
 [],
 [],
-[1473,569],
+[1474,569],
 []
 ],
 ["F0166","Family of Reeves, John and McCarthy, Mary",
@@ -7277,14 +7277,14 @@ F = [
 "?",
 "Loveland, Larimer, CO, USA",
 [
-	["E2811","Marriage","","",680,"Marriage of Reeves, John and McCarthy, Mary","",[],[]]
+	["E2811","Marriage","","",461,"Marriage of Reeves, John and McCarthy, Mary","",[],[]]
 ],
 "",
 [],
 [],
 [],
-[1474,1114],
-[[1469,"Birth","Birth","",[]],[1472,"Birth","Birth","",[]],[1478,"Birth","Birth","",[]],[1481,"Birth","Birth","",[]],[1467,"Birth","Birth","",[]],[1464,"Birth","Birth","",[]],[1463,"Birth","Birth","",[]],[1466,"Birth","Birth","",[]]]
+[1472,1114],
+[[1469,"Birth","Birth","",[]],[1473,"Birth","Birth","",[]],[1480,"Birth","Birth","",[]],[1481,"Birth","Birth","",[]],[1467,"Birth","Birth","",[]],[1464,"Birth","Birth","",[]],[1463,"Birth","Birth","",[]],[1466,"Birth","Birth","",[]]]
 ],
 ["F0294","Family of Reid, Hans and Семенов, Cathern",
 "Married",
@@ -7319,7 +7319,7 @@ F = [
 "1663",
 "Greenville, SC, USA",
 [
-	["E3055","Marriage","1663","1663",461,"Marriage of Reynolds, Col. John and Mazur, Elizabeth","",[],[]]
+	["E3055","Marriage","1663","1663",321,"Marriage of Reynolds, Col. John and Mazur, Elizabeth","",[],[]]
 ],
 "",
 [],
@@ -7353,7 +7353,7 @@ F = [
 [],
 [],
 [],
-[1489,1229],
+[1488,1229],
 [[1490,"Birth","Birth","",[]]]
 ],
 ["F0393","Family of Reynolds, John and Stevens, Elizabeth",
@@ -7367,8 +7367,8 @@ F = [
 [],
 [],
 [],
-[1488,1609],
-[[1487,"Birth","Birth","",[]]]
+[1487,1609],
+[[1489,"Birth","Birth","",[]]]
 ],
 ["F0390","Family of Reynolds, John and Ковалев, Sarah",
 "Married",
@@ -7381,7 +7381,7 @@ F = [
 [],
 [],
 [],
-[1487,2003],
+[1489,2003],
 [[1485,"Birth","Birth","",[]]]
 ],
 ["F0387","Family of Reynolds, Nicholas and Murray, Susannah",
@@ -7410,7 +7410,7 @@ F = [
 [],
 [],
 [1493],
-[[1489,"Birth","Birth","",[]],[1492,"Birth","Birth","",[]]]
+[[1488,"Birth","Birth","",[]],[1492,"Birth","Birth","",[]]]
 ],
 ["F0151","Family of Rhodes, William Sr. and Kristensen, Anna June",
 "Married",
@@ -7431,7 +7431,7 @@ F = [
 "1834",
 "Winston-Salem, NC, USA",
 [
-	["E3029","Marriage","1834-06-08","8 JUN 1834",1266,"Marriage of Riley, Thomas and Edwards, Lucy","",[],[]]
+	["E3029","Marriage","1834-06-08","8 JUN 1834",838,"Marriage of Riley, Thomas and Edwards, Lucy","",[],[]]
 ],
 "",
 [],
@@ -7445,7 +7445,7 @@ F = [
 "1907",
 "Columbus, Bartholomew, IN, USA",
 [
-	["E2834","Marriage","1907-11-16","16 NOV 1907",243,"Marriage of Robinson, Clarence and Garner, Bertha P.","",[],[]]
+	["E2834","Marriage","1907-11-16","16 NOV 1907",170,"Marriage of Robinson, Clarence and Garner, Bertha P.","",[],[]]
 ],
 "",
 [],
@@ -7459,7 +7459,7 @@ F = [
 "?",
 "Ottawa, La Salle, IL, USA",
 [
-	["E2888","Marriage","","",893,"Marriage of Rodgers, John and Garrett, Doris Mae","",[],[]]
+	["E2888","Marriage","","",586,"Marriage of Rodgers, John and Garrett, Doris Mae","",[],[]]
 ],
 "",
 [],
@@ -7480,14 +7480,14 @@ F = [
 [],
 [],
 [1517],
-[[1539,"Birth","Birth","",[]],[1525,"Birth","Birth","",[]],[1534,"Birth","Birth","",[]],[1529,"Birth","Birth","",[]],[1532,"Birth","Birth","",[]],[1520,"Birth","Birth","",[]],[1523,"Birth","Birth","",[]],[1535,"Birth","Birth","",[]],[1526,"Birth","Birth","",[]],[1536,"Birth","Birth","",[]],[1521,"Birth","Birth","",[]]]
+[[1538,"Birth","Birth","",[]],[1525,"Birth","Birth","",[]],[1534,"Birth","Birth","",[]],[1529,"Birth","Birth","",[]],[1532,"Birth","Birth","",[]],[1520,"Birth","Birth","",[]],[1523,"Birth","Birth","",[]],[1535,"Birth","Birth","",[]],[1526,"Birth","Birth","",[]],[1536,"Birth","Birth","",[]],[1521,"Birth","Birth","",[]]]
 ],
 ["F0557","Family of Rodriquez, John and Поляков, Eve",
 "Married",
 "1789",
 "Moultrie, Colquitt, GA, USA",
 [
-	["E3238","Marriage","1789-10-27","27 OCT 1789",809,"Marriage of Rodriquez, John and Поляков, Eve","",[],[]]
+	["E3238","Marriage","1789-10-27","27 OCT 1789",535,"Marriage of Rodriquez, John and Поляков, Eve","",[],[]]
 ],
 "",
 [],
@@ -7501,7 +7501,7 @@ F = [
 "1849",
 "Augusta, ME, USA",
 [
-	["E3242","Marriage","1849-02-02","2 FEB 1849",64,"Marriage of Rodriquez, Mordica and Воронов, Katherine","",[],[]]
+	["E3242","Marriage","1849-02-02","2 FEB 1849",50,"Marriage of Rodriquez, Mordica and Воронов, Katherine","",[],[]]
 ],
 "",
 [],
@@ -7529,7 +7529,7 @@ F = [
 "1806",
 "Huntsville, Walker, TX, USA",
 [
-	["E3243","Marriage","1806-10-17","17 OCT 1806",525,"Marriage of Rodriquez, Richard and Жуков, Hannah","",[],[]]
+	["E3243","Marriage","1806-10-17","17 OCT 1806",362,"Marriage of Rodriquez, Richard and Жуков, Hannah","",[],[]]
 ],
 "",
 [],
@@ -7543,14 +7543,14 @@ F = [
 "1804",
 "Manhattan, Riley, KS, USA",
 [
-	["E2943","Marriage","1804-08-00","AUG 1804",706,"Marriage of Rodriquez, William M. and Douglas, Mary&#8220;Polly&#8221;","",[],[]]
+	["E2943","Marriage","1804-08-00","AUG 1804",473,"Marriage of Rodriquez, William M. and Douglas, Mary&#8220;Polly&#8221;","",[],[]]
 ],
 "",
 [],
 [],
 [],
-[1539,508],
-[[1528,"Birth","Birth","",[]],[1537,"Birth","Birth","",[]],[1524,"Birth","Birth","",[]],[1518,"Birth","Birth","",[]],[1522,"Birth","Birth","",[]],[1538,"Birth","Birth","",[]],[1519,"Birth","Birth","",[]],[1533,"Birth","Birth","",[]],[1530,"Birth","Birth","",[]],[1527,"Birth","Birth","",[]],[1531,"Birth","Birth","",[]]]
+[1538,508],
+[[1528,"Birth","Birth","",[]],[1537,"Birth","Birth","",[]],[1524,"Birth","Birth","",[]],[1518,"Birth","Birth","",[]],[1522,"Birth","Birth","",[]],[1539,"Birth","Birth","",[]],[1519,"Birth","Birth","",[]],[1533,"Birth","Birth","",[]],[1530,"Birth","Birth","",[]],[1527,"Birth","Birth","",[]],[1531,"Birth","Birth","",[]]]
 ],
 ["F0460","Family of Romero, Ernest and Jankowski, Minnie",
 "Married",
@@ -7571,7 +7571,7 @@ F = [
 "1833",
 "De Ridder, LA, USA",
 [
-	["E3323","Marriage","1833-09-19","19 SEP 1833",288,"Marriage of Roy, Prince Alfred and Marín, Frances Coppage","",[],[]]
+	["E3323","Marriage","1833-09-19","19 SEP 1833",201,"Marriage of Roy, Prince Alfred and Marín, Frances Coppage","",[],[]]
 ],
 "",
 [],
@@ -7599,7 +7599,7 @@ F = [
 "1985",
 "Kendallville, Noble, IN, USA",
 [
-	["E2821","Marriage","1985-06-22","22 JUN 1985",580,"Marriage of Russell, Bruce Lynn and Henderson, Cathy Sue","",[],[]]
+	["E2821","Marriage","1985-06-22","22 JUN 1985",395,"Marriage of Russell, Bruce Lynn and Henderson, Cathy Sue","",[],[]]
 ],
 "",
 [],
@@ -7613,7 +7613,7 @@ F = [
 "1963",
 "North Vernon, Jennings, IN, USA",
 [
-	["E2802","Marriage","1963-07-21","21 JUL 1963",860,"Marriage of Russell, Melvin Glen and Manning, Judith Ann","",[],[]]
+	["E2802","Marriage","1963-07-21","21 JUL 1963",566,"Marriage of Russell, Melvin Glen and Manning, Judith Ann","",[],[]]
 ],
 "",
 [],
@@ -7627,7 +7627,7 @@ F = [
 "1928",
 "Ottawa, La Salle, IL, USA",
 [
-	["E3069","Marriage","1928-01-21","21 JAN 1928",893,"Marriage of Russell, Norman and Lessard, Helen Belle","",[],[]]
+	["E3069","Marriage","1928-01-21","21 JAN 1928",586,"Marriage of Russell, Norman and Lessard, Helen Belle","",[],[]]
 ],
 "",
 [],
@@ -7641,7 +7641,7 @@ F = [
 "1977",
 "Alexandria, MN, USA",
 [
-	["E2917","Marriage","1977-07-31","31 JUL 1977",24,"Marriage of Sánchez, David Andrew and Welch, Rosalie Jane","",[],[]]
+	["E2917","Marriage","1977-07-31","31 JUL 1977",16,"Marriage of Sánchez, David Andrew and Welch, Rosalie Jane","",[],[]]
 ],
 "",
 [],
@@ -7655,7 +7655,7 @@ F = [
 "?",
 "Deming, NM, USA",
 [
-	["E3049","Marriage","","",301,"Marriage of Sanchez, John and Curtis, Margaret","",[],[]]
+	["E3049","Marriage","","",208,"Marriage of Sanchez, John and Curtis, Margaret","",[],[]]
 ],
 "",
 [],
@@ -7711,7 +7711,7 @@ F = [
 "?",
 "Orlando, Orange, FL, USA",
 [
-	["E3178","Marriage","","",888,"Marriage of Santiago, Mathias and James, Molly","",[],[]]
+	["E3178","Marriage","","",583,"Marriage of Santiago, Mathias and James, Molly","",[],[]]
 ],
 "",
 [],
@@ -7725,7 +7725,7 @@ F = [
 "?",
 "Troy, Pike, AL, USA",
 [
-	["E3129","Marriage","","",1159,"Marriage of Sanz, John and Jankowski, Sarah","",[],[]]
+	["E3129","Marriage","","",776,"Marriage of Sanz, John and Jankowski, Sarah","",[],[]]
 ],
 "",
 [],
@@ -7767,7 +7767,7 @@ F = [
 "1811",
 "De Ridder, LA, USA",
 [
-	["E2960","Marriage","1811-06-21","21 JUN 1811",288,"Marriage of Schultz, John and Payne, Jane Coppage","",[],[]]
+	["E2960","Marriage","1811-06-21","21 JUN 1811",201,"Marriage of Schultz, John and Payne, Jane Coppage","",[],[]]
 ],
 "",
 [],
@@ -7781,7 +7781,7 @@ F = [
 "5",
 "Peru, Miami, IN, USA",
 [
-	["E2957","Marriage","5","5",921,"Marriage of Schultz, Rev.Isaac and Turner, Mary","",[],[]]
+	["E2957","Marriage","5","5",607,"Marriage of Schultz, Rev.Isaac and Turner, Mary","",[],[]]
 ],
 "",
 [],
@@ -7809,7 +7809,7 @@ F = [
 "1829",
 "Pullman, WA, USA",
 [
-	["E3224","Marriage","1829-11-19","19 NOV 1829",966,"Marriage of Serrano, Archibald and Delgado, Catherine","",[],[]]
+	["E3224","Marriage","1829-11-19","19 NOV 1829",639,"Marriage of Serrano, Archibald and Delgado, Catherine","",[],[]]
 ],
 "",
 [],
@@ -7977,7 +7977,7 @@ F = [
 "1605",
 "Seattle, WA, USA",
 [
-	["E3073","Marriage","1605-05-27","27 MAY 1605",1048,"Marriage of Swanson, Richard and El Fernández, Avis Fernandez III","",[],[]]
+	["E3073","Marriage","1605-05-27","27 MAY 1605",701,"Marriage of Swanson, Richard and El Fernández, Avis Fernandez III","",[],[]]
 ],
 "",
 [],
@@ -8061,7 +8061,7 @@ F = [
 "1605",
 "Houma, Terrebonne, LA, USA",
 [
-	["E2767","Marriage","1605-11-10","10 NOV 1605",515,"Marriage of Thomas, Elder Thomas and Barrett, Anne","",[],[]]
+	["E2767","Marriage","1605-11-10","10 NOV 1605",358,"Marriage of Thomas, Elder Thomas and Barrett, Anne","",[],[]]
 ],
 "",
 [],
@@ -8081,7 +8081,7 @@ F = [
 [],
 [],
 [],
-[1636,541],
+[1638,542],
 []
 ],
 ["F0054","Family of Thornton, Arthur Otto and Marín, Lilla Estella",
@@ -8117,7 +8117,7 @@ F = [
 "?",
 "Providence, RI, USA",
 [
-	["E2884","Marriage","","",959,"Marriage of Thornton, Phillip James and Белов, Katherine","",[],[]]
+	["E2884","Marriage","","",635,"Marriage of Thornton, Phillip James and Белов, Katherine","",[],[]]
 ],
 "",
 [],
@@ -8152,14 +8152,14 @@ F = [
 [],
 [],
 [1646,376],
-[[1655,"Birth","Birth","",[]]]
+[[1656,"Birth","Birth","",[]]]
 ],
 ["F0153","Family of Todd, George W. and Morris, Jane",
 "Married",
 "1843",
 "Kendallville, Noble, IN, USA",
 [
-	["E2797","Marriage","1843-09-20","20 SEP 1843",580,"Marriage of Todd, George W. and Morris, Jane","",[],[]]
+	["E2797","Marriage","1843-09-20","20 SEP 1843",395,"Marriage of Todd, George W. and Morris, Jane","",[],[]]
 ],
 "",
 [],
@@ -8193,7 +8193,7 @@ F = [
 [],
 [],
 [],
-[1656,1722],
+[1655,1721],
 [[1652,"Birth","Birth","",[]]]
 ],
 ["F0152","Family of Todd, John and Лалетин, Elizabeth",
@@ -8207,7 +8207,7 @@ F = [
 [],
 [],
 [],
-[1655,2010],
+[1656,2010],
 [[1665,"Birth","Birth","",[]]]
 ],
 ["F0154","Family of Todd, John M. and Farmer, Elizabeth Ellen",
@@ -8215,7 +8215,7 @@ F = [
 "1871",
 "Kingsville, Kleberg, TX, USA",
 [
-	["E2798","Marriage","1871-09-21","21 SEP 1871",593,"Marriage of Todd, John M. and Farmer, Elizabeth Ellen","",[],[]]
+	["E2798","Marriage","1871-09-21","21 SEP 1871",406,"Marriage of Todd, John M. and Farmer, Elizabeth Ellen","",[],[]]
 ],
 "",
 [],
@@ -8229,7 +8229,7 @@ F = [
 "1819",
 "Pocatello, Bannock, ID, USA",
 [
-	["E2801","Marriage","1819","1819",938,"Marriage of Todd, William and 渡辺, Mary (Polly)","",[],[]]
+	["E2801","Marriage","1819","1819",620,"Marriage of Todd, William and 渡辺, Mary (Polly)","",[],[]]
 ],
 "",
 [],
@@ -8257,7 +8257,7 @@ F = [
 "1995",
 "Harrison, Boone, AR, USA",
 [
-	["E3023","Marriage","1995-06-24","24 JUN 1995",482,"Marriage of Townsend, Mark and Максимов, Heather Michelle","",[],[]]
+	["E3023","Marriage","1995-06-24","24 JUN 1995",336,"Marriage of Townsend, Mark and Максимов, Heather Michelle","",[],[]]
 ],
 "",
 [],
@@ -8285,7 +8285,7 @@ F = [
 "1950",
 "Medford, OR, USA",
 [
-	["E2925","Marriage","1950-08-13","13 AUG 1950",747,"Marriage of Walker, Andrew Vincent and Pearson, Eileen Ruth","",[],[]]
+	["E2925","Marriage","1950-08-13","13 AUG 1950",498,"Marriage of Walker, Andrew Vincent and Pearson, Eileen Ruth","",[],[]]
 ],
 "",
 [],
@@ -8327,7 +8327,7 @@ F = [
 "1974",
 "Gaithersburg, MD, USA",
 [
-	["E3231","Marriage","1974-07-02","2 JUL 1974",425,"Marriage of Ward, David J. and Warner, Margaret Ruth","",[],[]]
+	["E3231","Marriage","1974-07-02","2 JUL 1974",294,"Marriage of Ward, David J. and Warner, Margaret Ruth","",[],[]]
 ],
 "",
 [],
@@ -8341,7 +8341,7 @@ F = [
 "1974",
 "Worthington, MN, USA",
 [
-	["E2738","Marriage","1974-08-10","10 AUG 1974",1273,"Marriage of Warner, Allen Carl and Garner, Rita Marie","",[],[]]
+	["E2738","Marriage","1974-08-10","10 AUG 1974",843,"Marriage of Warner, Allen Carl and Garner, Rita Marie","",[],[]]
 ],
 "",
 [],
@@ -8369,7 +8369,7 @@ F = [
 "1981",
 "Macomb, McDonough, IL, USA",
 [
-	["E2870","Marriage","1981-02-14","14 FEB 1981",688,"Marriage of Warner, Arthur Maurice and Phillips, Anita Irene","",[],[]]
+	["E2870","Marriage","1981-02-14","14 FEB 1981",465,"Marriage of Warner, Arthur Maurice and Phillips, Anita Irene","",[],[]]
 ],
 "",
 [],
@@ -8383,14 +8383,14 @@ F = [
 "1705",
 "Lake County, IL, USA",
 [
-	["E2843","Marriage","1705-05-22","22 MAY 1705",617,"Marriage of Warner, Capt. Andrew and Christiansen, Hannah","",[],[]]
+	["E2843","Marriage","1705-05-22","22 MAY 1705",420,"Marriage of Warner, Capt. Andrew and Christiansen, Hannah","",[],[]]
 ],
 "",
 [],
 [],
 [],
 [1697,366],
-[[1717,"Birth","Birth","",[]],[1738,"Birth","Birth","",[]],[1727,"Birth","Birth","",[]]]
+[[1717,"Birth","Birth","",[]],[1738,"Birth","Birth","",[]],[1728,"Birth","Birth","",[]]]
 ],
 ["F0217","Family of Warner, Capt. Francis and Ingram, Mary",
 "Married",
@@ -8411,14 +8411,14 @@ F = [
 "1677",
 "Livonia, MI, USA",
 [
-	["E2763","Marriage","1677-11-13","13 NOV 1677",667,"Marriage of Warner, Capt. George and Alvarez, Mary","",[],[]]
+	["E2763","Marriage","1677-11-13","13 NOV 1677",453,"Marriage of Warner, Capt. George and Alvarez, Mary","",[],[]]
 ],
 "",
 [],
 [],
 [],
 [1699,64],
-[[1697,"Birth","Birth","",[]],[1728,"Birth","Birth","",[]],[1757,"Birth","Birth","",[]],[1731,"Birth","Birth","",[]],[1706,"Birth","Birth","",[]],[1721,"Birth","Birth","",[]],[1746,"Birth","Birth","",[]]]
+[[1697,"Birth","Birth","",[]],[1727,"Birth","Birth","",[]],[1757,"Birth","Birth","",[]],[1731,"Birth","Birth","",[]],[1706,"Birth","Birth","",[]],[1722,"Birth","Birth","",[]],[1746,"Birth","Birth","",[]]]
 ],
 ["F0627","Family of Warner, Daniel and Higgins, Charity",
 "Married",
@@ -8439,7 +8439,7 @@ F = [
 "1943",
 "Crawfordsville, Montgomery, IN, USA",
 [
-	["E2881","Marriage","1943-11-06","6 NOV 1943",266,"Marriage of Warner, David Luther and Robbins, Merida Lorene","",[],[]]
+	["E2881","Marriage","1943-11-06","6 NOV 1943",188,"Marriage of Warner, David Luther and Robbins, Merida Lorene","",[],[]]
 ],
 "",
 [],
@@ -8453,7 +8453,7 @@ F = [
 "1968",
 "Santa Rosa-Petaluma, CA, USA",
 [
-	["E3057","Marriage","1968-11-16","16 NOV 1968",1036,"Marriage of Warner, David Warren and Simpson, Geraldine Ann","",[],[]]
+	["E3057","Marriage","1968-11-16","16 NOV 1968",693,"Marriage of Warner, David Warren and Simpson, Geraldine Ann","",[],[]]
 ],
 "",
 [],
@@ -8481,7 +8481,7 @@ F = [
 "1981",
 "Salina, Saline, KS, USA",
 [
-	["E2859","Marriage","1981-07-25","25 JUL 1981",1009,"Marriage of Warner, Fred Loren and Flores, Jamie Lee","",[],[]]
+	["E2859","Marriage","1981-07-25","25 JUL 1981",675,"Marriage of Warner, Fred Loren and Flores, Jamie Lee","",[],[]]
 ],
 "",
 [],
@@ -8501,7 +8501,7 @@ F = [
 [],
 [],
 [],
-[1727,1233],
+[1728,1233],
 []
 ],
 ["F0003","Family of Warner, George Edward and Lessard, Elinor Jane",
@@ -8509,7 +8509,7 @@ F = [
 "1950",
 "Rockingham County, NH, USA",
 [
-	["E2958","Marriage","1950-04-16","16 APR 1950",995,"Marriage of Warner, George Edward and Lessard, Elinor Jane","",[],[]]
+	["E2958","Marriage","1950-04-16","16 APR 1950",662,"Marriage of Warner, George Edward and Lessard, Elinor Jane","",[],[]]
 ],
 "",
 [],
@@ -8523,7 +8523,7 @@ F = [
 "1971",
 "Gainesville, Hall, GA, USA",
 [
-	["E3341","Marriage","1971-06-26","26 JUN 1971",423,"Marriage of Warner, Harold Lowell and Powers, Nancy Lou","",[],[]]
+	["E3341","Marriage","1971-06-26","26 JUN 1971",292,"Marriage of Warner, Harold Lowell and Powers, Nancy Lou","",[],[]]
 ],
 "",
 [],
@@ -8579,7 +8579,7 @@ F = [
 "1911",
 "Henderson, NC, USA",
 [
-	["E2761","Marriage","1911-04-25","25 APR 1911",494,"Marriage of Warner, Martin Bogarte and Klein, Alma Katherine","",[],[]]
+	["E2761","Marriage","1911-04-25","25 APR 1911",345,"Marriage of Warner, Martin Bogarte and Klein, Alma Katherine","",[],[]]
 ],
 "",
 [],
@@ -8593,7 +8593,7 @@ F = [
 "1920",
 "Oskaloosa, Mahaska, IA, USA",
 [
-	["E2750","Marriage","1920-02-22","22 FEB 1920",891,"Marriage of Warner, Martin Bogarte and Page, Clara Belle","",[],[]]
+	["E2750","Marriage","1920-02-22","22 FEB 1920",585,"Marriage of Warner, Martin Bogarte and Page, Clara Belle","",[],[]]
 ],
 "",
 [],
@@ -8621,7 +8621,7 @@ F = [
 "1936",
 "Ottawa, La Salle, IL, USA",
 [
-	["E2892","Marriage","1936-02-19","19 FEB 1936",893,"Marriage of Warner, Michael Warren and Черных, Mary Helen","",[],[]]
+	["E2892","Marriage","1936-02-19","19 FEB 1936",586,"Marriage of Warner, Michael Warren and Черных, Mary Helen","",[],[]]
 ],
 "",
 [],
@@ -8635,7 +8635,7 @@ F = [
 "?",
 "Huron, SD, USA",
 [
-	["E3176","Marriage","","",526,"Marriage of Warner, Noah and Burns, Margaret","",[],[]]
+	["E3176","Marriage","","",363,"Marriage of Warner, Noah and Burns, Margaret","",[],[]]
 ],
 "",
 [],
@@ -8649,7 +8649,7 @@ F = [
 "1845",
 "Palestine, Hopkins, TX, USA",
 [
-	["E3392","Marriage","1845-01-01","1 JAN 1845",905,"Marriage of Warner, Piatt D. and Fox, Julia Colville","",[],[]]
+	["E3392","Marriage","1845-01-01","1 JAN 1845",595,"Marriage of Warner, Piatt D. and Fox, Julia Colville","",[],[]]
 ],
 "",
 [],
@@ -8691,7 +8691,7 @@ F = [
 "1949",
 "Laurinburg, NC, USA",
 [
-	["E2914","Marriage","1949-06-05","5 JUN 1949",638,"Marriage of Warner, Richard Kenneth and Мельников, Marylou","",[],[]]
+	["E2914","Marriage","1949-06-05","5 JUN 1949",433,"Marriage of Warner, Richard Kenneth and Мельников, Marylou","",[],[]]
 ],
 "",
 [],
@@ -8733,7 +8733,7 @@ F = [
 "1948",
 "Porterville, Tulare, CA, USA",
 [
-	["E2903","Marriage","1948-07-18","18 JUL 1948",951,"Marriage of Warner, Robert Eugene and Barber, Mary Elizabeth","",[],[]]
+	["E2903","Marriage","1948-07-18","18 JUL 1948",629,"Marriage of Warner, Robert Eugene and Barber, Mary Elizabeth","",[],[]]
 ],
 "",
 [],
@@ -8747,7 +8747,7 @@ F = [
 "1977",
 "Statesboro, Bulloch, GA, USA",
 [
-	["E2973","Marriage","1977-06-04","4 JUN 1977",1103,"Marriage of Warner, Stephen Paul and Худоногов, Patricia","",[],[]]
+	["E2973","Marriage","1977-06-04","4 JUN 1977",742,"Marriage of Warner, Stephen Paul and Худоногов, Patricia","",[],[]]
 ],
 "",
 [],
@@ -8761,7 +8761,7 @@ F = [
 "1983",
 "Madison, WI, USA",
 [
-	["E3080","Marriage","1983-04-09","9 APR 1983",701,"Marriage of Warner, Stuart Bogarte and Richards, Diana","",[],[]]
+	["E3080","Marriage","1983-04-09","9 APR 1983",469,"Marriage of Warner, Stuart Bogarte and Richards, Diana","",[],[]]
 ],
 "",
 [],
@@ -8803,7 +8803,7 @@ F = [
 "1888",
 "Springfield, Sangamon, IL, USA",
 [
-	["E3068","Marriage","1888-08-09","9 AUG 1888",1086,"Marriage of Warner, Warren W. and Ball, Abigail","",[],[]]
+	["E3068","Marriage","1888-08-09","9 AUG 1888",732,"Marriage of Warner, Warren W. and Ball, Abigail","",[],[]]
 ],
 "",
 [],
@@ -8873,7 +8873,7 @@ F = [
 "1901",
 "Palatka, Putnam, FL, USA",
 [
-	["E3127","Marriage","1901-12-12","12 DEC 1901",904,"Marriage of Waters, William and Neal, Matilda","",[],[]]
+	["E3127","Marriage","1901-12-12","12 DEC 1901",594,"Marriage of Waters, William and Neal, Matilda","",[],[]]
 ],
 "",
 [],
@@ -8887,7 +8887,7 @@ F = [
 "1975",
 "Gaithersburg, MD, USA",
 [
-	["E3177","Marriage","1975-05-24","24 MAY 1975",425,"Marriage of Watkins, Bruce Edward and Warner, Mary Christine","",[],[]]
+	["E3177","Marriage","1975-05-24","24 MAY 1975",294,"Marriage of Watkins, Bruce Edward and Warner, Mary Christine","",[],[]]
 ],
 "",
 [],
@@ -8915,7 +8915,7 @@ F = [
 "1996",
 "Gainesville, Alachua, FL, USA",
 [
-	["E3019","Marriage","1996-05-11","11 MAY 1996",422,"Marriage of Weaver, Steven Matthew and Warner, JenniferMae(Ganoe)","",[],[]]
+	["E3019","Marriage","1996-05-11","11 MAY 1996",291,"Marriage of Weaver, Steven Matthew and Warner, JenniferMae(Ganoe)","",[],[]]
 ],
 "",
 [],
@@ -8929,7 +8929,7 @@ F = [
 "?",
 "Canton, Fulton, IL, USA",
 [
-	["E3079","Marriage","before 1800","BEF 1800",170,"Marriage of Webb, Alex and Макаров, Nancy","",[],[]]
+	["E3079","Marriage","before 1800","BEF 1800",125,"Marriage of Webb, Alex and Макаров, Nancy","",[],[]]
 ],
 "",
 [],
@@ -8943,7 +8943,7 @@ F = [
 "1845",
 "Charleston, SC, USA",
 [
-	["E2979","Marriage","1845-01-23","23 JAN 1845",190,"Marriage of Webb, Alexander and Delgado, Mary Ann","",[],[]]
+	["E2979","Marriage","1845-01-23","23 JAN 1845",140,"Marriage of Webb, Alexander and Delgado, Mary Ann","",[],[]]
 ],
 "",
 [],
@@ -8957,7 +8957,7 @@ F = [
 "?",
 "Del Rio, Val Verde, TX, USA",
 [
-	["E2977","Marriage","","",298,"Marriage of Webb, Andrew and Webb, Margaret Margarite?","",[],[]]
+	["E2977","Marriage","","",206,"Marriage of Webb, Andrew and Webb, Margaret Margarite?","",[],[]]
 ],
 "",
 [],
@@ -8999,7 +8999,7 @@ F = [
 "1896",
 "Marinette, WI-MI, USA",
 [
-	["E3371","Marriage","1896-03-05","5 MAR 1896",711,"Marriage of Webb, Francis Irvin and Todd, Louella Jane","",[],[]]
+	["E3371","Marriage","1896-03-05","5 MAR 1896",477,"Marriage of Webb, Francis Irvin and Todd, Louella Jane","",[],[]]
 ],
 "",
 [],
@@ -9027,7 +9027,7 @@ F = [
 "1940",
 "Oklahoma City, OK, USA",
 [
-	["E3386","Marriage","1940-09-25","25 SEP 1940",876,"Marriage of Webb, John Raymond and Ford, Lorinda Catherine","",[],[]]
+	["E3386","Marriage","1940-09-25","25 SEP 1940",576,"Marriage of Webb, John Raymond and Ford, Lorinda Catherine","",[],[]]
 ],
 "",
 [],
@@ -9111,7 +9111,7 @@ F = [
 "1703",
 "Pittsfield, Berkshire, MA, USA",
 [
-	["E2877","Marriage","1703-11-06","6 NOV 1703",934,"Marriage of Webster, Johanne(John) and Saunders, Ursula","",[],[]]
+	["E2877","Marriage","1703-11-06","6 NOV 1703",616,"Marriage of Webster, Johanne(John) and Saunders, Ursula","",[],[]]
 ],
 "",
 [],
@@ -9125,7 +9125,7 @@ F = [
 "1989",
 "Dothan, Houston, AL, USA",
 [
-	["E3021","Marriage","1989-08-05","5 AUG 1989",312,"Marriage of Welch, Christopher Paul and Hayes, LeAnn","",[],[]]
+	["E3021","Marriage","1989-08-05","5 AUG 1989",215,"Marriage of Welch, Christopher Paul and Hayes, LeAnn","",[],[]]
 ],
 "",
 [],
@@ -9139,7 +9139,7 @@ F = [
 "1945",
 "Adjuntas, PR, USA",
 [
-	["E2911","Marriage","1945-08-25","25 AUG 1945",6,"Marriage of Welch, Irwin Arthur and Page, Eleanor Irene","",[],[]]
+	["E2911","Marriage","1945-08-25","25 AUG 1945",3,"Marriage of Welch, Irwin Arthur and Page, Eleanor Irene","",[],[]]
 ],
 "",
 [],
@@ -9153,7 +9153,7 @@ F = [
 "1979",
 "Kendallville, Noble, IN, USA",
 [
-	["E3372","Marriage","1979-06-23","23 JUN 1979",580,"Marriage of Welch, Michael and Osborne, Anita June","",[],[]]
+	["E3372","Marriage","1979-06-23","23 JUN 1979",395,"Marriage of Welch, Michael and Osborne, Anita June","",[],[]]
 ],
 "",
 [],
@@ -9181,7 +9181,7 @@ F = [
 "1970",
 "Bedford, Lawrence, IN, USA",
 [
-	["E2913","Marriage","1970-08-15","15 AUG 1970",88,"Marriage of Welch, Russell Eugene and Norton, Dorothy","",[],[]]
+	["E2913","Marriage","1970-08-15","15 AUG 1970",67,"Marriage of Welch, Russell Eugene and Norton, Dorothy","",[],[]]
 ],
 "",
 [],
@@ -9195,7 +9195,7 @@ F = [
 "1982",
 "Marion, Grant, IN, USA",
 [
-	["E2915","Marriage","1982-05-16","16 MAY 1982",715,"Marriage of Welch, Russell Eugene and Walsh, Penelope","",[],[]]
+	["E2915","Marriage","1982-05-16","16 MAY 1982",479,"Marriage of Welch, Russell Eugene and Walsh, Penelope","",[],[]]
 ],
 "",
 [],
@@ -9223,7 +9223,7 @@ F = [
 "?",
 "Midland, Midland, TX, USA",
 [
-	["E3037","Marriage","","",767,"Marriage of Wheeler, Don and Лопатин, Carmen Diana","",[],[]]
+	["E3037","Marriage","","",511,"Marriage of Wheeler, Don and Лопатин, Carmen Diana","",[],[]]
 ],
 "",
 [],
@@ -9237,7 +9237,7 @@ F = [
 "?",
 "Blackfoot, Bingham, ID, USA",
 [
-	["E2885","Marriage","","",110,"Marriage of Wheeler, Jacob Earl and Лопатин, Carmen Diana","",[],[]]
+	["E2885","Marriage","","",82,"Marriage of Wheeler, Jacob Earl and Лопатин, Carmen Diana","",[],[]]
 ],
 "",
 [],
@@ -9279,7 +9279,7 @@ F = [
 "1993",
 "Owensboro, Daviess, KY, USA",
 [
-	["E2969","Marriage","1993","1993",897,"Marriage of Willis, Corey and Poirier, Janelle Marie","",[],[]]
+	["E2969","Marriage","1993","1993",588,"Marriage of Willis, Corey and Poirier, Janelle Marie","",[],[]]
 ],
 "",
 [],
@@ -9293,7 +9293,7 @@ F = [
 "1990",
 "Wheeling, WV-OH, USA",
 [
-	["E3024","Marriage","1990","1990",1244,"Marriage of Wilson, Douglas and Cruz, Marsha Ann","",[],[]]
+	["E3024","Marriage","1990","1990",825,"Marriage of Wilson, Douglas and Cruz, Marsha Ann","",[],[]]
 ],
 "",
 [],
@@ -9307,7 +9307,7 @@ F = [
 "1575",
 "Caguas, PR, USA",
 [
-	["E2876","Marriage","1575-09-02","2 SEP 1575",159,"Marriage of Wise, Thomas and Ramos, Mary","",[],[]]
+	["E2876","Marriage","1575-09-02","2 SEP 1575",117,"Marriage of Wise, Thomas and Ramos, Mary","",[],[]]
 ],
 "",
 [],
@@ -9489,7 +9489,7 @@ F = [
 "1997",
 "Gainesville, Llano, TX, USA",
 [
-	["E3085","Marriage","1997-06-07","7 JUN 1997",424,"Marriage of Богданов, Dr. Brent and Cruz, Ann Lynn","",[],[]]
+	["E3085","Marriage","1997-06-07","7 JUN 1997",293,"Marriage of Богданов, Dr. Brent and Cruz, Ann Lynn","",[],[]]
 ],
 "",
 [],
@@ -9559,7 +9559,7 @@ F = [
 "1877",
 "Crowley, Acadia, LA, USA",
 [
-	["E3118","Marriage","1877-09-26","26 SEP 1877",270,"Marriage of Власов, John and Floyd, Martha Frances &#8220;Fannie&#8221;","",[],[]]
+	["E3118","Marriage","1877-09-26","26 SEP 1877",191,"Marriage of Власов, John and Floyd, Martha Frances &#8220;Fannie&#8221;","",[],[]]
 ],
 "",
 [],
@@ -9587,7 +9587,7 @@ F = [
 "1988",
 "Santa Rosa-Petaluma, CA, USA",
 [
-	["E2889","Marriage","1988-10-01","1 OCT 1988",1036,"Marriage of Герасимов, John and Garrett, Doris Mae","",[],[]]
+	["E2889","Marriage","1988-10-01","1 OCT 1988",693,"Marriage of Герасимов, John and Garrett, Doris Mae","",[],[]]
 ],
 "",
 [],
@@ -9643,7 +9643,7 @@ F = [
 "1982",
 "Cleveland, TN, USA",
 [
-	["E3390","Marriage","1982-04-24","24 APR 1982",217,"Marriage of Данилов, Darrell Edwin and Ross, Evelyn Almazon","",[],[]]
+	["E3390","Marriage","1982-04-24","24 APR 1982",157,"Marriage of Данилов, Darrell Edwin and Ross, Evelyn Almazon","",[],[]]
 ],
 "",
 [],
@@ -9657,7 +9657,7 @@ F = [
 "1948",
 "Rockingham County, NH, USA",
 [
-	["E2936","Marriage","1948-09-07","7 SEP 1948",995,"Marriage of Данилов, Earl William and Lessard, Dorothy Louise","",[],[]]
+	["E2936","Marriage","1948-09-07","7 SEP 1948",662,"Marriage of Данилов, Earl William and Lessard, Dorothy Louise","",[],[]]
 ],
 "",
 [],
@@ -9671,7 +9671,7 @@ F = [
 "1803",
 "Union City, TN, USA",
 [
-	["E3302","Marriage","1803-01-31","31 JAN 1803",1174,"Marriage of Дмитриев, Alexander Carroll Sr. and Woods, Mary Polly","",[],[]]
+	["E3302","Marriage","1803-01-31","31 JAN 1803",785,"Marriage of Дмитриев, Alexander Carroll Sr. and Woods, Mary Polly","",[],[]]
 ],
 "",
 [],
@@ -9692,21 +9692,21 @@ F = [
 [],
 [],
 [1963,1009],
-[[1971,"Birth","Birth","",[]],[1974,"Birth","Birth","",[]],[1962,"Birth","Birth","",[]],[1970,"Birth","Birth","",[]],[1968,"Birth","Birth","",[]],[1965,"Birth","Birth","",[]],[1967,"Birth","Birth","",[]],[1966,"Birth","Birth","",[]]]
+[[1971,"Birth","Birth","",[]],[1975,"Birth","Birth","",[]],[1962,"Birth","Birth","",[]],[1970,"Birth","Birth","",[]],[1968,"Birth","Birth","",[]],[1965,"Birth","Birth","",[]],[1967,"Birth","Birth","",[]],[1966,"Birth","Birth","",[]]]
 ],
 ["F0304","Family of Дмитриев, Moses Aaron and Reynolds, Mary Jane",
 "Married",
 "1759",
 "Carson City, NV, USA",
 [
-	["E2964","Marriage","1759","1759",176,"Marriage of Дмитриев, Moses Aaron and Reynolds, Mary Jane","",[],[]]
+	["E2964","Marriage","1759","1759",131,"Marriage of Дмитриев, Moses Aaron and Reynolds, Mary Jane","",[],[]]
 ],
 "",
 [],
 [],
 [],
 [1971,1490],
-[[458,"Birth","Birth","",[]],[1964,"Birth","Birth","",[]],[460,"Birth","Birth","",[]],[1972,"Birth","Birth","",[]],[1973,"Birth","Birth","",[]],[1975,"Birth","Birth","",[]],[1969,"Birth","Birth","",[]],[1961,"Birth","Birth","",[]],[463,"Birth","Birth","",[]]]
+[[458,"Birth","Birth","",[]],[1964,"Birth","Birth","",[]],[459,"Birth","Birth","",[]],[1972,"Birth","Birth","",[]],[1973,"Birth","Birth","",[]],[1974,"Birth","Birth","",[]],[1969,"Birth","Birth","",[]],[1961,"Birth","Birth","",[]],[463,"Birth","Birth","",[]]]
 ],
 ["F0610","Family of Дмитриев, Travis and Payne, Elizabeth",
 "Married",
@@ -9727,13 +9727,13 @@ F = [
 "?",
 "Coldwater, MI, USA",
 [
-	["E3062","Marriage","","",231,"Marriage of Дмитриев, William and Page, Sarah","",[],[]]
+	["E3062","Marriage","","",163,"Marriage of Дмитриев, William and Page, Sarah","",[],[]]
 ],
 "",
 [],
 [],
 [],
-[1974,1307],
+[1975,1307],
 []
 ],
 ["F0611","Family of Дмитриев, William and Wood, Polly",
@@ -9747,7 +9747,7 @@ F = [
 [],
 [],
 [],
-[1975,1909],
+[1974,1909],
 []
 ],
 ["F0529","Family of Егоров, Dr. Charles J. and Page, Edith Mae",
@@ -9755,7 +9755,7 @@ F = [
 "?",
 "Palatka, Putnam, FL, USA",
 [
-	["E3208","Marriage","","",904,"Marriage of Егоров, Dr. Charles J. and Page, Edith Mae","",[],[]]
+	["E3208","Marriage","","",594,"Marriage of Егоров, Dr. Charles J. and Page, Edith Mae","",[],[]]
 ],
 "",
 [],
@@ -9769,7 +9769,7 @@ F = [
 "1993",
 "Merrill, WI, USA",
 [
-	["E2968","Marriage","1993-11-27","27 NOV 1993",754,"Marriage of Жуков, Curtis Dale and Gordon, Heather Kathleen","",[],[]]
+	["E2968","Marriage","1993-11-27","27 NOV 1993",503,"Marriage of Жуков, Curtis Dale and Gordon, Heather Kathleen","",[],[]]
 ],
 "",
 [],
@@ -9797,7 +9797,7 @@ F = [
 "1740",
 "Yuba City, Sutter, CA, USA",
 [
-	["E2784","Marriage","1740","1740",1284,"Marriage of Злобин, Col. Joseph and Rice, Virginia Margaret","",[],[]]
+	["E2784","Marriage","1740","1740",850,"Marriage of Злобин, Col. Joseph and Rice, Virginia Margaret","",[],[]]
 ],
 "",
 [],
@@ -9853,7 +9853,7 @@ F = [
 "?",
 "Kendallville, Noble, IN, USA",
 [
-	["E3387","Marriage","","",580,"Marriage of Ильин, Gary and Webb, Marilyn Jean","",[],[]]
+	["E3387","Marriage","","",395,"Marriage of Ильин, Gary and Webb, Marilyn Jean","",[],[]]
 ],
 "",
 [],
@@ -9867,7 +9867,7 @@ F = [
 "?",
 "Green Bay, WI, USA",
 [
-	["E2907","Marriage","","",453,"Marriage of Карпов, Damian and Hansen, Irene","",[],[]]
+	["E2907","Marriage","","",314,"Marriage of Карпов, Damian and Hansen, Irene","",[],[]]
 ],
 "",
 [],
@@ -9881,7 +9881,7 @@ F = [
 "1978",
 "Gaithersburg, MD, USA",
 [
-	["E3144","Marriage","1978-06-24","24 JUN 1978",425,"Marriage of Киселев, Dennis John and Warner, Nancy Elizabeth","",[],[]]
+	["E3144","Marriage","1978-06-24","24 JUN 1978",294,"Marriage of Киселев, Dennis John and Warner, Nancy Elizabeth","",[],[]]
 ],
 "",
 [],
@@ -9937,7 +9937,7 @@ F = [
 "1944",
 "DuBois, PA, USA",
 [
-	["E3155","Marriage","1944-04-21","21 APR 1944",319,"Marriage of Лопатин, Raymond A. and Garrett, Carmen Eloise","",[],[]]
+	["E3155","Marriage","1944-04-21","21 APR 1944",219,"Marriage of Лопатин, Raymond A. and Garrett, Carmen Eloise","",[],[]]
 ],
 "",
 [],
@@ -9951,7 +9951,7 @@ F = [
 "?",
 "Canton, Fulton, IL, USA",
 [
-	["E3082","Marriage","","",170,"Marriage of Макаров, Joseph","",[],[]]
+	["E3082","Marriage","","",125,"Marriage of Макаров, Joseph","",[],[]]
 ],
 "",
 [],
@@ -9965,7 +9965,7 @@ F = [
 "?",
 "Topeka, Shawnee, KS, USA",
 [
-	["E3327","Marriage","","",1156,"Marriage of Максимов and Allen, Abigail","",[],[]]
+	["E3327","Marriage","","",773,"Marriage of Максимов and Allen, Abigail","",[],[]]
 ],
 "",
 [],
@@ -10013,7 +10013,7 @@ F = [
 [],
 [],
 [],
-[2026,1428],
+[2026,1427],
 []
 ],
 ["F0719","Family of Николаев, Veltin",
@@ -10035,7 +10035,7 @@ F = [
 "?",
 "Topeka, Shawnee, KS, USA",
 [
-	["E3331","Marriage","about 1715","ABT 1715",1156,"Marriage of Новиков, Thomas and Allen, Rachel","",[],[]]
+	["E3331","Marriage","about 1715","ABT 1715",773,"Marriage of Новиков, Thomas and Allen, Rachel","",[],[]]
 ],
 "",
 [],
@@ -10097,7 +10097,7 @@ F = [
 [],
 [],
 [],
-[2045,1154],
+[2045,1155],
 []
 ],
 ["F0282","Family of Сергеев, Dennis and Garner, Kathryn Mary",
@@ -10105,7 +10105,7 @@ F = [
 "1975",
 "Ottawa, La Salle, IL, USA",
 [
-	["E2939","Marriage","1975-02-08","8 FEB 1975",893,"Marriage of Сергеев, Dennis and Garner, Kathryn Mary","",[],[]]
+	["E2939","Marriage","1975-02-08","8 FEB 1975",586,"Marriage of Сергеев, Dennis and Garner, Kathryn Mary","",[],[]]
 ],
 "",
 [],
@@ -10175,7 +10175,7 @@ F = [
 "?",
 "Lansing, MI, USA",
 [
-	["E2868","Marriage","","",625,"Marriage of Тихонов, Miles? and Smith, Anastasia?","",[],[]]
+	["E2868","Marriage","","",426,"Marriage of Тихонов, Miles? and Smith, Anastasia?","",[],[]]
 ],
 "",
 [],
@@ -10189,7 +10189,7 @@ F = [
 "1854",
 "Ottawa, La Salle, IL, USA",
 [
-	["E2863","Marriage","1854-02-04","4 FEB 1854",893,"Marriage of Тихонов, Moses and Holt, Bridget","",[],[]]
+	["E2863","Marriage","1854-02-04","4 FEB 1854",586,"Marriage of Тихонов, Moses and Holt, Bridget","",[],[]]
 ],
 "",
 [],
@@ -10209,7 +10209,7 @@ F = [
 [],
 [],
 [],
-[2073,1411],
+[2072,1411],
 [[2074,"Birth","Birth","",[]]]
 ],
 ["F0733","Family of Федоров, Patrick",
@@ -10224,7 +10224,7 @@ F = [
 [],
 [],
 [2074],
-[[2070,"Birth","Birth","",[]],[2071,"Birth","Birth","",[]],[2072,"Birth","Birth","",[]]]
+[[2073,"Birth","Birth","",[]],[2070,"Birth","Birth","",[]],[2071,"Birth","Birth","",[]]]
 ],
 ["F0459","Family of Черкашин, Thomas and Jankowski, Margaret Jane \"Maggie\"",
 "Married",
@@ -10308,7 +10308,7 @@ F = [
 [],
 [],
 [2094,2054],
-[[163,"Birth","Birth","",[]],[157,"Birth","Birth","",[]],[171,"Birth","Birth","",[]],[164,"Birth","Birth","",[]],[168,"Birth","Birth","",[]],[154,"Birth","Birth","",[]],[2095,"Birth","Birth","",[]]]
+[[163,"Birth","Birth","",[]],[157,"Birth","Birth","",[]],[171,"Birth","Birth","",[]],[164,"Birth","Birth","",[]],[168,"Birth","Birth","",[]],[155,"Birth","Birth","",[]],[2095,"Birth","Birth","",[]]]
 ],
 ["F0723","Family of 山本, Gabriel Gustave",
 "Married",
@@ -10329,7 +10329,7 @@ F = [
 "1701",
 "Houston, Harris, TX, USA",
 [
-	["E2878","Marriage","1701-03-05","5 MAR 1701",518,"Marriage of 斎藤, Zariakius Cyriacus and Bishop, Anna Barbara","",[],[]]
+	["E2878","Marriage","1701-03-05","5 MAR 1701",359,"Marriage of 斎藤, Zariakius Cyriacus and Bishop, Anna Barbara","",[],[]]
 ],
 "",
 [],
