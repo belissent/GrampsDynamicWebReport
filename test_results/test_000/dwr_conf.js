@@ -30,18 +30,11 @@ GRAMPS_PREFERENCES['color-gender-male-alive'] = "#b8cee6";
 GRAMPS_PREFERENCES['color-gender-male-death'] = "#b8cee6";
 GRAMPS_PREFERENCES['color-gender-unknown-alive'] = "#f3dbb6";
 GRAMPS_PREFERENCES['color-gender-unknown-death'] = "#f3dbb6";
-SVG_BACKGROUND_GEN_COLORS = ["#ef2828", "#ee822a", "#edd92c", "#abed2d", "#56ec2f", "#30eb5d", "#32ebb1", "#33d1ea", "#3580e9", "#3c36e9"];
-SVG_BACKGROUND_GRAD_COLORS = ["#ef2828", "#ee8d2a", "#ebed2c", "#8bec2e", "#30ec33", "#31eb92", "#33e5ea", "#358ae9", "#3c36e9"];
-MIN_AGE = 0;
-MAX_AGE = 110;
-MIN_PERIOD = 5;
-MAX_PERIOD = 1999;
 SVG_TREE_COLOR_SCHEME0 = ["#ffffff", "#ffffff"];
 SVG_TREE_COLOR_SCHEME1 = ["#ff3f00", "#ffaf0f", "#ffdf57", "#ffff6f", "#9fff9f", "#6fd7ff", "#4f97ff", "#e717ff", "#e71779", "#d2aa7c", "#bd9970"];
 SVG_TREE_COLOR_SCHEME2 = ["#e5bffc", "#bfbffc", "#bfdefc", "#b7dbc5", "#cef6d1"];
-SVG_GENDER_K = 0.9;
-FOOTER="<div class=\"grampsstylednote\">\n<p>\nFooter: exported by  <a href=\'http://gramps-project.org/\' class=\'gramps_homepage\'>Gramps</a> on 2015-05-14\n</p>\n</div>";
-HEADER="<div class=\"grampsstylednote\">\n<p>\n<span style=\"color:#ef2929;\"></span><span style=\"text-decoration:underline;\"><span style=\"color:#ef2929;\"></span></span><span style=\"font-family:\'Serif\';\"><span style=\"text-decoration:underline;\"><span style=\"color:#ef2929;\"></span></span></span><strong><span style=\"font-family:\'Serif\';\"><span style=\"text-decoration:underline;\"><span style=\"color:#ef2929;\"></span></span></span></strong><span style=\"font-size:8px;\"><strong><span style=\"font-family:\'Serif\';\"><span style=\"text-decoration:underline;\"><span style=\"color:#ef2929;\">Title for the example pages</span></span></span></strong></span><strong><span style=\"font-family:\'Serif\';\"><span style=\"text-decoration:underline;\"><span style=\"color:#ef2929;\"></span></span></span></strong><span style=\"font-family:\'Serif\';\"><span style=\"text-decoration:underline;\"><span style=\"color:#ef2929;\"></span></span></span><span style=\"text-decoration:underline;\"><span style=\"color:#ef2929;\"></span></span><span style=\"color:#ef2929;\"></span>\n</p>\n</div>";
+FOOTER="<div class=\"grampsstylednote\">\n<p>\nFooter: exported by  <a href=\'http://gramps-project.org/\' class=\'gramps_homepage\'>Gramps</a> on 2015-08-10\n</p>\n</div>";
+HEADER="<div class=\"grampsstylednote\">\n<p>\n<span style=\"color:#ef2929;\"></span><span style=\"font-family:\'Serif\';\"><span style=\"color:#ef2929;\"></span></span><span style=\"font-size:8px;\"><span style=\"font-family:\'Serif\';\"><span style=\"color:#ef2929;\">Title for the example pages</span></span></span><span style=\"font-family:\'Serif\';\"><span style=\"color:#ef2929;\"></span></span><span style=\"color:#ef2929;\"></span>\n</p>\n</div>";
 COPYRIGHT="";
 INDEX_SHOW_BIRTH=true;
 INDEX_SHOW_DEATH=true;
@@ -79,7 +72,6 @@ __ = {
 "Attribute": "Attribute",
 "Attributes": "Attributes",
 "Background": "Background",
-"Birth": "Birth",
 "Call Name": "Call Name",
 "Call Number": "Call Number",
 "Children": "Children",
@@ -92,7 +84,6 @@ __ = {
 "Country": "Country",
 "County": "County",
 "Date": "Date",
-"Death": "Death",
 "Descendants": "Descendants",
 "Description": "Description",
 "Event": "Event",
@@ -113,7 +104,6 @@ __ = {
 "Longitude": "Longitude",
 "Male": "Male",
 "Map": "Map",
-"Marriage": "Marriage",
 "Maximize": "Maximize",
 "Media found:": "Media found:",
 "Media Index": "Media Index",
@@ -160,6 +150,7 @@ __ = {
 "Select the type of graph": "Select the type of graph",
 "Several matches.<br>Precise your search or choose in the lists below.": "Several matches.<br>Precise your search or choose in the lists below.",
 "Show _MENU_ entries": "Show _MENU_ entries",
+"Show duplicates": "Show duplicates",
 "Showing 0 to 0 of 0 entries": "Showing 0 to 0 of 0 entries",
 "Showing _START_ to _END_ of _TOTAL_ entries": "Showing _START_ to _END_ of _TOTAL_ entries",
 "Siblings": "Siblings",
@@ -188,9 +179,56 @@ __ = {
 "Value": "Value",
 "Web Link": "Web Link",
 "Web Links": "Web Links",
+"Whether to use a special color for the persons that appear several times in the SVG tree": "Whether to use a special color for the persons that appear several times in the SVG tree",
 "Without surname": "Without surname",
 "Zoom in": "Zoom in",
-"Zoom out": "Zoom out"
+"Zoom out": "Zoom out",
+"Unknown": "Unknown",
+"Custom": "Custom",
+"Adopted": "Adopted",
+"Birth": "Birth",
+"Death": "Death",
+"Adult Christening": "Adult Christening",
+"Baptism": "Baptism",
+"Bar Mitzvah": "Bar Mitzvah",
+"Bas Mitzvah": "Bat Mitzvah",
+"Blessing": "Blessing",
+"Burial": "Burial",
+"Cause Of Death": "Cause Of Death",
+"Census": "Census",
+"Christening": "Christening",
+"Confirmation": "Confirmation",
+"Cremation": "Cremation",
+"Degree": "Degree",
+"Education": "Education",
+"Elected": "Elected",
+"Emigration": "Emigration",
+"First Communion": "First Communion",
+"Immigration": "Immigration",
+"Graduation": "Graduation",
+"Medical Information": "Medical Information",
+"Military Service": "Military Service",
+"Naturalization": "Naturalization",
+"Nobility Title": "Nobility Title",
+"Number of Marriages": "Number of Marriages",
+"Occupation": "Occupation",
+"Ordination": "Ordination",
+"Probate": "Probate",
+"Property": "Property",
+"Religion": "Religion",
+"Residence": "Residence",
+"Retirement": "Retirement",
+"Will": "Will",
+"Marriage": "Marriage",
+"Marriage Settlement": "Marriage Settlement",
+"Marriage License": "Marriage License",
+"Marriage Contract": "Marriage Contract",
+"Marriage Banns": "Marriage Banns",
+"Engagement": "Engagement",
+"Divorce": "Divorce",
+"Divorce Filing": "Divorce Filing",
+"Annulment": "Annulment",
+"Alternate Marriage": "Alternate Marriage"
 };
 URLTYPE_UNKNOWN = -1;
 URLTYPE_CUSTOM = 0;

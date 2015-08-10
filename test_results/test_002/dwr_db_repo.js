@@ -28,7 +28,16 @@ R = [
 ],
 "<div>\n<i class=\"NoteType\">\nNote sur le dépôt\n</i>\n<div class=\"grampsstylednote\">\n<p>\nSome note on the repo\n</p>\n</div>\n</div>",
 [["Site internet","http://library.gramps-project.org",""]],
-[[3,"Manuscrit","nothing-0",""]]
+[[6,"Manuscrit","nothing-0",""],[7,"Manuscrit","nothing-0",""]]
+],
+["R0003","Aunt Martha\'s Attic",
+"Collection",
+[
+	["","",["123 Main St","","","Someville","ST","","","USA",""],"",[]]
+],
+"<div>\n<i class=\"NoteType\">\nNote sur le dépôt\n</i>\n<div class=\"grampsstylednote\">\n<p>\nSome note on the repo\n</p>\n</div>\n</div>",
+[["Site internet","http://library.gramps-project.org",""]],
+[[6,"Manuscrit","nothing-0",""],[7,"Manuscrit","nothing-0",""]]
 ],
 ["R0002","New York Public Library",
 "Bibliothèque",
@@ -37,15 +46,33 @@ R = [
 ],
 "",
 [],
-[[2,"Film","CA-123-LL-456_Num/ber",""],[3,"Photo","what-321-ever",""]]
+[[5,"Film","CA-123-LL-456_Num/ber",""],[7,"Photo","what-321-ever",""],[4,"Film","CA-123-LL-456_Num/ber",""],[6,"Photo","what-321-ever",""]]
+],
+["R0002","New York Public Library",
+"Bibliothèque",
+[
+	["","",["5th Ave at 42 street","","","New York","New York","","11111","USA",""],"",[1]]
+],
+"",
+[],
+[[5,"Film","CA-123-LL-456_Num/ber",""],[7,"Photo","what-321-ever",""],[4,"Film","CA-123-LL-456_Num/ber",""],[6,"Photo","what-321-ever",""]]
 ],
 ["R0000","Public Library Great Falls",
 "Bibliothèque",
 [
 	["","",["Bookstore street 5","","","Great Falls","MT","","","USA",""],"",[]]
 ],
-"<div>\n<i class=\"NoteType\">\nNote sur le dépôt\n</i>\n<div class=\"grampsstylednote\">\n<p>\nAsk librarian for key to the microfilm closet of <a href=\"place.html?pdx=312\">Great Falls</a> church, it is closed normally\n</p>\n</div>\n</div>",
+"<div>\n<i class=\"NoteType\">\nNote sur le dépôt\n</i>\n<div class=\"grampsstylednote\">\n<p>\nAsk librarian for key to the microfilm closet of <a href=\"place.html?pdx=764\">Great Falls</a> church, it is closed normally\n</p>\n</div>\n</div>",
 [["Site internet","http://great-falls.org",""]],
-[[1,"Microfilm","32Z-345",""]]
+[[2,"Microfilm","32Z-345",""],[3,"Microfilm","32Z-345",""]]
+],
+["R0000","Public Library Great Falls",
+"Bibliothèque",
+[
+	["","",["Bookstore street 5","","","Great Falls","MT","","","USA",""],"",[]]
+],
+"<div>\n<i class=\"NoteType\">\nNote sur le dépôt\n</i>\n<div class=\"grampsstylednote\">\n<p>\nAsk librarian for key to the microfilm closet of <a href=\"place.html?pdx=764\">Great Falls</a> church, it is closed normally\n</p>\n</div>\n</div>",
+[["Site internet","http://great-falls.org",""]],
+[[2,"Microfilm","32Z-345",""],[3,"Microfilm","32Z-345",""]]
 ]
 ];

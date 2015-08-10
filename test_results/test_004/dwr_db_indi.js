@@ -209,28 +209,6 @@ I = [
 [],
 []
 ],
-["I2108",", عبد الله",", عبد الله",
-[[", عبد الله","Birth Name","","الطيب","","عبد الله","",[""],"","","",[]]],
-"M","?",
-"",
-"",
-"",
-"",
-[
-
-],
-[
-
-],
-"",
-[],
-[],
-[],
-[],
-[],
-[[2,"Birth","Birth","",[]]],
-[]
-],
 ["I2114",", عبد الله",", عبد الله",
 [[", عبد الله","Birth Name","","","","عبد الله","",[""],"","","",[]]],
 "M","213",
@@ -252,6 +230,28 @@ I = [
 [],
 [],
 [[0,"Birth","Birth","",[]]],
+[]
+],
+["I2108",", عبد الله",", عبد الله",
+[[", عبد الله","Birth Name","","الطيب","","عبد الله","",[""],"","","",[]]],
+"M","?",
+"",
+"",
+"",
+"",
+[
+
+],
+[
+
+],
+"",
+[],
+[],
+[],
+[],
+[],
+[[2,"Birth","Birth","",[]]],
 []
 ],
 ["I2110",", محمد",", محمد",
@@ -304,13 +304,13 @@ I = [
 ["I0554","Adams, Jane","Adams, Jane",
 [["Adams, Jane","Birth Name","","","","Jane","",["Adams"],"","","",[]]],
 "F","?",
-"Plattsburgh, NY",
+"Plattsburgh, Clinton, NY, USA",
 "?",
-"Jefferson City, MO",
+"Jefferson City, MO, USA",
 "between -6 years, 1 day and 109 years, 11 months, 30 days",
 [
-	["E1896","Birth","between 1746 and 1755","BET 1746 AND 1755",618,"Birth of Adams, Jane","",[],[]],
-	["E1897","Death","estimated from 1800 to 1805","EST FROM 1800 TO 1805",382,"Death of Adams, Jane","",[],[]]
+	["E1896","Birth","between 1746 and 1755","BET 1746 AND 1755",936,"Birth of Adams, Jane","",[],[]],
+	["E1897","Death","estimated from 1800 to 1805","EST FROM 1800 TO 1805",558,"Death of Adams, Jane","",[],[]]
 ],
 [
 
@@ -327,14 +327,14 @@ I = [
 ["I0701","Adams, William","Adams, William",
 [["Adams, William","Birth Name","","","","William","",["Adams"],"","","",[]]],
 "M","?",
-"Dyersburg, TN",
+"Dyersburg, TN, USA",
 "1787",
-"Hattiesburg, MS",
+"Hattiesburg, MS, USA",
 "about 86 years, 4 months, 15 days",
 [
-	["E2158","Birth","about 1700-10-26","ABT 26 OCT 1700",228,"Birth of Adams, William","",[],[]],
-	["E2159","Death","1787-03-10","10 MAR 1787",340,"Death of Adams, William","",[],[]],
-	["E2160","Burial","1787","1787",605,"Burial of Adams, William","",[],[]]
+	["E2158","Birth","about 1700-10-26","ABT 26 OCT 1700",331,"Birth of Adams, William","",[],[]],
+	["E2159","Death","1787-03-10","10 MAR 1787",488,"Death of Adams, William","",[],[]],
+	["E2160","Burial","1787","1787",918,"Burial of Adams, William","",[],[]]
 ],
 [
 
@@ -351,13 +351,13 @@ I = [
 ["I0553","Adkins, John","Adkins, John",
 [["Adkins, John","Birth Name","","","","John","",["Adkins"],"","","",[]]],
 "M","?",
-"Maryville, MO",
+"Maryville, MO, USA",
 "1787",
-"Wooster, OH",
+"Wooster, OH, USA",
 "less than 49 years, 7 months, 18 days",
 [
-	["E1894","Birth","after 1737-10-01","AFT 1 OCT 1737",489,"Birth of Adkins, John","",[],[]],
-	["E1895","Death","1787-05-20","20 MAY 1787",841,"Death of Adkins, John","",[],[]]
+	["E1894","Birth","after 1737-10-01","AFT 1 OCT 1737",729,"Birth of Adkins, John","",[],[]],
+	["E1895","Death","1787-05-20","20 MAY 1787",1270,"Death of Adkins, John","",[],[]]
 ],
 [
 
@@ -374,14 +374,14 @@ I = [
 ["I0559","Adkins, Martha","Adkins, Martha",
 [["Adkins, Martha","Birth Name","","","","Martha","",["Adkins"],"","","",[]]],
 "F","?",
-"Shelton, WA",
+"Shelton, WA, USA",
 "1828",
-"Jefferson City, MO",
+"Jefferson City, MO, USA",
 "more than 65 years, 2 months, 16 days",
 [
-	["E1906","Birth","before 1763-06-20","BEF 20 JUN 1763",712,"Birth of Adkins, Martha","",[],[]],
-	["E1907","Death","1828-09-05","5 SEP 1828",382,"Death of Adkins, Martha","",[],[]],
-	["E1908","Burial","","",382,"Burial of Adkins, Martha","",[],[]]
+	["E1906","Birth","before 1763-06-20","BEF 20 JUN 1763",1064,"Birth of Adkins, Martha","",[],[]],
+	["E1907","Death","1828-09-05","5 SEP 1828",558,"Death of Adkins, Martha","",[],[]],
+	["E1908","Burial","","",558,"Burial of Adkins, Martha","",[],[]]
 ],
 [
 
@@ -398,12 +398,12 @@ I = [
 ["I1408","Adkins, Minnie","Adkins, Minnie",
 [["Adkins, Minnie","Birth Name","","","","Minnie","",["Adkins"],"","","",[]]],
 "F","?",
-"Palm Coast, FL",
+"Palm Coast, Flagler, FL, USA",
 "",
 "",
 "",
 [
-	["E0555","Birth","","",597,"Birth of Adkins, Minnie","",[],[]]
+	["E0555","Birth","","",908,"Birth of Adkins, Minnie","",[],[]]
 ],
 [
 
@@ -420,12 +420,12 @@ I = [
 ["I0551","Adkins, Robert Sr.","Adkins, Robert Sr.",
 [["Adkins, Robert Sr.","Birth Name","","","","Robert Sr.","",["Adkins"],"","","",[]]],
 "M","?",
-"Ketchikan, AK",
+"Ketchikan, AK, USA",
 "",
 "",
 "",
 [
-	["E1893","Birth","","",400,"Birth of Adkins, Robert Sr.","",[],[]]
+	["E1893","Birth","","",587,"Birth of Adkins, Robert Sr.","",[],[]]
 ],
 [
 
@@ -442,13 +442,13 @@ I = [
 ["I0702","Aguilar, Eleanor","Aguilar, Eleanor",
 [["Aguilar, Eleanor","Birth Name","","","","Eleanor","",["Aguilar"],"","","",[]]],
 "F","?",
-"Hickory-Morganton-Lenoir, NC",
+"Hickory-Morganton-Lenoir, NC, USA",
 "?",
-"Plattsburgh, NY",
+"Plattsburgh, Clinton, NY, USA",
 "unknown",
 [
-	["E2161","Birth","after 1717","AFT 1717",347,"Birth of Aguilar, Eleanor","",[],[]],
-	["E2162","Death","after 1760-02-00","AFT FEB 1760",618,"Death of Aguilar, Eleanor","",[],[]]
+	["E2161","Birth","after 1717","AFT 1717",499,"Birth of Aguilar, Eleanor","",[],[]],
+	["E2162","Death","after 1760-02-00","AFT FEB 1760",936,"Death of Aguilar, Eleanor","",[],[]]
 ],
 [
 
@@ -465,13 +465,13 @@ I = [
 ["I0953","Aguilar, John","Aguilar, John",
 [["Aguilar, John","Birth Name","","","","John","",["Aguilar"],"","","",[]]],
 "M","?",
-"Ketchikan, AK",
+"Ketchikan, AK, USA",
 "?",
-"Wooster, OH",
+"Wooster, OH, USA",
 "unknown",
 [
-	["E2624","Birth","before 1665","BEF 1665",400,"Birth of Aguilar, John","",[],[]],
-	["E2625","Death","before 1745-02-00","BEF FEB 1745",841,"Death of Aguilar, John","",[],[]]
+	["E2624","Birth","before 1665","BEF 1665",587,"Birth of Aguilar, John","",[],[]],
+	["E2625","Death","before 1745-02-00","BEF FEB 1745",1270,"Death of Aguilar, John","",[],[]]
 ],
 [
 
@@ -510,12 +510,12 @@ I = [
 ["I2002","Allen, Abigail","Allen, Abigail",
 [["Allen, Abigail","Birth Name","","","","Abigail","",["Allen"],"","","",[]]],
 "F","1690",
-"Topeka, KS",
+"Topeka, Shawnee, KS, USA",
 "",
 "",
 "",
 [
-	["E1134","Birth","1690","1690",773,"Birth of Allen, Abigail","",[],[]]
+	["E1134","Birth","1690","1690",1156,"Birth of Allen, Abigail","",[],[]]
 ],
 [
 
@@ -532,13 +532,13 @@ I = [
 ["I2011","Allen, Benjamin","Allen, Benjamin",
 [["Allen, Benjamin","Birth Name","","","","Benjamin","",["Allen"],"","","",[]]],
 "M","?",
-"Topeka, KS",
+"Topeka, Shawnee, KS, USA",
 "1762",
-"Crossville, TN",
+"Crossville, TN, USA",
 "about 62 years, 2 months, 9 days",
 [
-	["E1142","Birth","about 1700","ABT 1700",773,"Birth of Allen, Benjamin","",[],[]],
-	["E1143","Death","1762-03-10","10 MAR 1762",190,"Death of Allen, Benjamin","",[],[]]
+	["E1142","Birth","about 1700","ABT 1700",1156,"Birth of Allen, Benjamin","",[],[]],
+	["E1143","Death","1762-03-10","10 MAR 1762",269,"Death of Allen, Benjamin","",[],[]]
 ],
 [
 
@@ -555,13 +555,13 @@ I = [
 ["I1996","Allen, Enos","Allen, Enos",
 [["Allen, Enos","Birth Name","","","","Enos","",["Allen"],"","","",[]]],
 "M","1667",
-"Beeville, TX",
+"Beeville, Bee, TX, USA",
 "1689",
-"Topeka, KS",
+"Topeka, Shawnee, KS, USA",
 "22 years, 10 months, 20 days",
 [
-	["E1119","Birth","1667","1667",68,"Birth of Allen, Enos","",[],[]],
-	["E1120","Death","1689-11-21","21 NOV 1689",773,"Death of Allen, Enos","",[],[]]
+	["E1119","Birth","1667","1667",90,"Birth of Allen, Enos","",[],[]],
+	["E1120","Death","1689-11-21","21 NOV 1689",1156,"Death of Allen, Enos","",[],[]]
 ],
 [
 
@@ -578,13 +578,13 @@ I = [
 ["I2017","Allen, Gershom","Allen, Gershom",
 [["Allen, Gershom","Birth Name","","","","Gershom","",["Allen"],"","","",[]]],
 "M","?",
-"Sikeston, MO",
+"Sikeston, MO, USA",
 "?",
-"Topeka, KS",
+"Topeka, Shawnee, KS, USA",
 "about 26 years",
 [
-	["E1151","Birth","about 1685","ABT 1685",718,"Birth of Allen, Gershom","",[],[]],
-	["E1152","Death","about 1711","ABT 1711",773,"Death of Allen, Gershom","",[],[]]
+	["E1151","Birth","about 1685","ABT 1685",1070,"Birth of Allen, Gershom","",[],[]],
+	["E1152","Death","about 1711","ABT 1711",1156,"Death of Allen, Gershom","",[],[]]
 ],
 [
 
@@ -601,12 +601,12 @@ I = [
 ["I0678","Allen, Joanna","Allen, Joanna",
 [["Allen, Joanna","Birth Name","","","","Joanna","",["Allen"],"","","",[]]],
 "F","1670",
-"Poplar Bluff, MO",
+"Poplar Bluff, MO, USA",
 "",
 "",
 "",
 [
-	["E2126","Birth","1670-08-00","AUG 1670",625,"Birth of Allen, Joanna","",[],[]]
+	["E2126","Birth","1670-08-00","AUG 1670",947,"Birth of Allen, Joanna","",[],[]]
 ],
 [
 
@@ -645,13 +645,13 @@ I = [
 ["I1999","Allen, John","Allen, John",
 [["Allen, John","Birth Name","","","","John","",["Allen"],"","","",[]]],
 "M","1674",
-"Sikeston, MO",
+"Sikeston, MO, USA",
 "1727",
-"Topeka, KS",
+"Topeka, Shawnee, KS, USA",
 "52 years, 7 months, 8 days",
 [
-	["E1123","Birth","1674-05-24","24 MAY 1674",718,"Birth of Allen, John","",[],[]],
-	["E1124","Death","1727","1727",773,"Death of Allen, John","",[],[]]
+	["E1123","Birth","1674-05-24","24 MAY 1674",1070,"Birth of Allen, John","",[],[]],
+	["E1124","Death","1727","1727",1156,"Death of Allen, John","",[],[]]
 ],
 [
 
@@ -668,13 +668,13 @@ I = [
 ["I2016","Allen, Jonathan","Allen, Jonathan",
 [["Allen, Jonathan","Birth Name","","","","Jonathan","",["Allen"],"","","",[]]],
 "M","1683",
-"Sikeston, MO",
+"Sikeston, MO, USA",
 "1733",
-"Topeka, KS",
+"Topeka, Shawnee, KS, USA",
 "49 years, 11 months, 10 days",
 [
-	["E1149","Birth","1683-05-29","29 MAY 1683",718,"Birth of Allen, Jonathan","",[],[]],
-	["E1150","Death","1733-05-08","8 MAY 1733",773,"Death of Allen, Jonathan","",[],[]]
+	["E1149","Birth","1683-05-29","29 MAY 1683",1070,"Birth of Allen, Jonathan","",[],[]],
+	["E1150","Death","1733-05-08","8 MAY 1733",1156,"Death of Allen, Jonathan","",[],[]]
 ],
 [
 
@@ -713,13 +713,13 @@ I = [
 ["I2013","Allen, Lediah","Allen, Lediah",
 [["Allen, Lediah","Birth Name","","","","Lediah","",["Allen"],"","","",[]]],
 "U","1679",
-"Sikeston, MO",
+"Sikeston, MO, USA",
 "?",
-"Topeka, KS",
+"Topeka, Shawnee, KS, USA",
 "about 1 year",
 [
-	["E1144","Birth","1679-01-01","1 JAN 1679",718,"Birth of Allen, Lediah","",[],[]],
-	["E1145","Death","about 1680","ABT 1680",773,"Death of Allen, Lediah","",[],[]]
+	["E1144","Birth","1679-01-01","1 JAN 1679",1070,"Birth of Allen, Lediah","",[],[]],
+	["E1145","Death","about 1680","ABT 1680",1156,"Death of Allen, Lediah","",[],[]]
 ],
 [
 
@@ -736,12 +736,12 @@ I = [
 ["I2010","Allen, Lydia","Allen, Lydia",
 [["Allen, Lydia","Birth Name","","","","Lydia","",["Allen"],"","","",[]]],
 "F","1698",
-"Topeka, KS",
+"Topeka, Shawnee, KS, USA",
 "",
 "",
 "",
 [
-	["E1141","Birth","1698-04-28","28 APR 1698",773,"Birth of Allen, Lydia","",[],[]]
+	["E1141","Birth","1698-04-28","28 APR 1698",1156,"Birth of Allen, Lydia","",[],[]]
 ],
 [
 
@@ -758,12 +758,12 @@ I = [
 ["I1995","Allen, Mary","Allen, Mary",
 [["Allen, Mary","Birth Name","","","","Mary","",["Allen"],"","","",[]]],
 "F","1666",
-"Beeville, TX",
+"Beeville, Bee, TX, USA",
 "",
 "",
 "",
 [
-	["E1118","Birth","1666-12-07","7 DEC 1666",68,"Birth of Allen, Mary","",[],[]]
+	["E1118","Birth","1666-12-07","7 DEC 1666",90,"Birth of Allen, Mary","",[],[]]
 ],
 [
 
@@ -780,12 +780,12 @@ I = [
 ["I2008","Allen, Rachel","Allen, Rachel",
 [["Allen, Rachel","Birth Name","","","","Rachel","",["Allen"],"","","",[]]],
 "F","1696",
-"Sikeston, MO",
+"Sikeston, MO, USA",
 "1747",
 "",
 "50 years, 7 months, 20 days",
 [
-	["E1137","Birth","1696-05-12","12 MAY 1696",718,"Birth of Allen, Rachel","",[],[]],
+	["E1137","Birth","1696-05-12","12 MAY 1696",1070,"Birth of Allen, Rachel","",[],[]],
 	["E1138","Death","1747","1747",-1,"Death of Allen, Rachel","",[],[]]
 ],
 [
@@ -803,13 +803,13 @@ I = [
 ["I1997","Allen, Sarah","Allen, Sarah",
 [["Allen, Sarah","Birth Name","","","","Sarah","",["Allen"],"","","",[]]],
 "F","1668",
-"Sikeston, MO",
+"Sikeston, MO, USA",
 "1702",
-"Topeka, KS",
+"Topeka, Shawnee, KS, USA",
 "34 years",
 [
-	["E1121","Birth","1668-01-00","JAN 1668",718,"Birth of Allen, Sarah","",[],[]],
-	["E1122","Death","1702","1702",773,"Death of Allen, Sarah","",[],[]]
+	["E1121","Birth","1668-01-00","JAN 1668",1070,"Birth of Allen, Sarah","",[],[]],
+	["E1122","Death","1702","1702",1156,"Death of Allen, Sarah","",[],[]]
 ],
 [
 
@@ -826,12 +826,12 @@ I = [
 ["I0825","Alonso, Joseph","Alonso, Joseph",
 [["Alonso, Joseph","Birth Name","","","","Joseph","",["Alonso"],"","","",[]]],
 "M","?",
-"Del Rio, TX",
+"Del Rio, Val Verde, TX, USA",
 "",
 "",
 "",
 [
-	["E2374","Birth","","",206,"Birth of Alonso, Joseph","",[],[]]
+	["E2374","Birth","","",298,"Birth of Alonso, Joseph","",[],[]]
 ],
 [
 
@@ -848,12 +848,12 @@ I = [
 ["I0827","Alonso, Laura","Alonso, Laura",
 [["Alonso, Laura","Birth Name","","","","Laura","",["Alonso"],"","","",[]]],
 "F","1989",
-"Erie, PA",
+"Erie, PA, USA",
 "",
 "",
 "",
 [
-	["E2376","Birth","1989","1989",246,"Birth of Alonso, Laura","",[],[]]
+	["E2376","Birth","1989","1989",359,"Birth of Alonso, Laura","",[],[]]
 ],
 [
 
@@ -870,12 +870,12 @@ I = [
 ["I0826","Alonso, Roisine","Alonso, Roisine",
 [["Alonso, Roisine","Birth Name","","","","Roisine","",["Alonso"],"","","",[]]],
 "F","1985",
-"Erie, PA",
+"Erie, PA, USA",
 "",
 "",
 "",
 [
-	["E2375","Birth","1985","1985",246,"Birth of Alonso, Roisine","",[],[]]
+	["E2375","Birth","1985","1985",359,"Birth of Alonso, Roisine","",[],[]]
 ],
 [
 
@@ -892,12 +892,12 @@ I = [
 ["I0332","Alvarado, Andrew David","Alvarado, Andrew David",
 [["Alvarado, Andrew David","Birth Name","","","","Andrew David","",["Alvarado"],"","","",[]]],
 "M","1984",
-"Rockland, ME",
+"Rockland, ME, USA",
 "",
 "",
 "",
 [
-	["E1451","Birth","1984-04-04","4 APR 1984",664,"Birth of Alvarado, Andrew David","",[],[]],
+	["E1451","Birth","1984-04-04","4 APR 1984",997,"Birth of Alvarado, Andrew David","",[],[]],
 	["E1452","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -915,13 +915,13 @@ I = [
 ["I0608","Alvarado, Cadwallader","Alvarado, Cadwallader",
 [["Alvarado, Cadwallader","Birth Name","","","","Cadwallader","",["Alvarado"],"","","",[]]],
 "M","?",
-"Orangeburg, SC",
+"Orangeburg, SC, USA",
 "?",
-"Clarksdale, MS",
+"Clarksdale, MS, USA",
 "unknown",
 [
-	["E2003","Birth","","",582,"Birth of Alvarado, Cadwallader","",[],[]],
-	["E2004","Death","","",152,"Death of Alvarado, Cadwallader","",[],[]]
+	["E2003","Birth","","",887,"Birth of Alvarado, Cadwallader","",[],[]],
+	["E2004","Death","","",211,"Death of Alvarado, Cadwallader","",[],[]]
 ],
 [
 
@@ -938,13 +938,13 @@ I = [
 ["I1481","Alvarado, Charles","Alvarado, Charles",
 [["Alvarado, Charles","Birth Name","","","","Charles","",["Alvarado"],"","","",[]]],
 "M","?",
-"Cookeville, TN",
+"Cookeville, TN, USA",
 "?",
-"Cookeville, TN",
+"Cookeville, TN, USA",
 "unknown",
 [
-	["E0639","Birth","","",176,"Birth of Alvarado, Charles","",[],[]],
-	["E0640","Death","","",176,"Death of Alvarado, Charles","",[],[]]
+	["E0639","Birth","","",250,"Birth of Alvarado, Charles","",[],[]],
+	["E0640","Death","","",250,"Death of Alvarado, Charles","",[],[]]
 ],
 [
 
@@ -961,14 +961,14 @@ I = [
 ["I0473","Alvarado, Col. Charles","Alvarado, Col. Charles",
 [["Alvarado, Col. Charles","Birth Name","","","","Col. Charles","",["Alvarado"],"","","",[]]],
 "M","?",
-"Mineral Wells, TX",
+"Mineral Wells, Palo Pinto, TX, USA",
 "1864",
-"Marshall, TX",
+"Marshall, Harrison, TX, USA",
 "unknown",
 [
-	["E1737","Birth","","",515,"Birth of Alvarado, Col. Charles","",[],[]],
-	["E1738","Death","1864-02-00","FEB 1864",484,"Death of Alvarado, Col. Charles","",[],[]],
-	["E1739","Burial","1864-02-00","FEB 1864",484,"Burial of Alvarado, Col. Charles","",[],[]]
+	["E1737","Birth","","",773,"Birth of Alvarado, Col. Charles","",[],[]],
+	["E1738","Death","1864-02-00","FEB 1864",723,"Death of Alvarado, Col. Charles","",[],[]],
+	["E1739","Burial","1864-02-00","FEB 1864",723,"Burial of Alvarado, Col. Charles","",[],[]]
 ],
 [
 
@@ -1007,12 +1007,12 @@ I = [
 ["I0331","Alvarado, Douglas David","Alvarado, Douglas David",
 [["Alvarado, Douglas David","Birth Name","","","","Douglas David","",["Alvarado"],"","","",[]]],
 "M","1971",
-"Rockland, ME",
+"Rockland, ME, USA",
 "",
 "",
 "",
 [
-	["E1449","Birth","1971-04-15","15 APR 1971",664,"Birth of Alvarado, Douglas David","",[],[]],
+	["E1449","Birth","1971-04-15","15 APR 1971",997,"Birth of Alvarado, Douglas David","",[],[]],
 	["E1450","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -1030,12 +1030,12 @@ I = [
 ["I1466","Alvarado, Eliza","Alvarado, Eliza",
 [["Alvarado, Eliza","Birth Name","","","","Eliza","",["Alvarado"],"","","",[]]],
 "F","?",
-"Cookeville, TN",
+"Cookeville, TN, USA",
 "",
 "",
 "",
 [
-	["E0619","Birth","","",176,"Birth of Alvarado, Eliza","",[],[]]
+	["E0619","Birth","","",250,"Birth of Alvarado, Eliza","",[],[]]
 ],
 [
 
@@ -1052,12 +1052,12 @@ I = [
 ["I1467","Alvarado, Franklin","Alvarado, Franklin",
 [["Alvarado, Franklin","Birth Name","","","","Franklin","",["Alvarado"],"","","",[]]],
 "M","?",
-"Cookeville, TN",
+"Cookeville, TN, USA",
 "",
 "",
 "",
 [
-	["E0620","Birth","","",176,"Birth of Alvarado, Franklin","",[],[]]
+	["E0620","Birth","","",250,"Birth of Alvarado, Franklin","",[],[]]
 ],
 [
 
@@ -1097,13 +1097,13 @@ I = [
 ["I1464","Alvarado, Jacob W.","Alvarado, Jacob W.",
 [["Alvarado, Jacob W.","Birth Name","","","","Jacob W.","",["Alvarado"],"","","",[]]],
 "M","1821",
-"Marshall, MN",
+"Marshall, MN, USA",
 "?",
-"Racine, WI",
+"Racine, WI, USA",
 "unknown",
 [
-	["E0616","Birth","1821-01-25","25 JAN 1821",482,"Birth of Alvarado, Jacob W.","",[],[]],
-	["E0617","Death","","",642,"Death of Alvarado, Jacob W.","",[],[]]
+	["E0616","Birth","1821-01-25","25 JAN 1821",721,"Birth of Alvarado, Jacob W.","",[],[]],
+	["E0617","Death","","",970,"Death of Alvarado, Jacob W.","",[],[]]
 ],
 [
 
@@ -1142,13 +1142,13 @@ I = [
 ["I1471","Alvarado, James","Alvarado, James",
 [["Alvarado, James","Birth Name","","","","James","",["Alvarado"],"","","",[]]],
 "M","?",
-"Cookeville, TN",
+"Cookeville, TN, USA",
 "?",
-"Cookeville, TN",
+"Cookeville, TN, USA",
 "unknown",
 [
-	["E0626","Birth","","",176,"Birth of Alvarado, James","",[],[]],
-	["E0627","Death","","",176,"Death of Alvarado, James","",[],[]]
+	["E0626","Birth","","",250,"Birth of Alvarado, James","",[],[]],
+	["E0627","Death","","",250,"Death of Alvarado, James","",[],[]]
 ],
 [
 
@@ -1210,12 +1210,12 @@ I = [
 ["I1465","Alvarado, John","Alvarado, John",
 [["Alvarado, John","Birth Name","","","","John","",["Alvarado"],"","","",[]]],
 "M","1825",
-"Marshall, MN",
+"Marshall, MN, USA",
 "",
 "",
 "",
 [
-	["E0618","Birth","1825-03-13","13 MAR 1825",482,"Birth of Alvarado, John","",[],[]]
+	["E0618","Birth","1825-03-13","13 MAR 1825",721,"Birth of Alvarado, John","",[],[]]
 ],
 [
 
@@ -1232,13 +1232,13 @@ I = [
 ["I1482","Alvarado, Marsha","Alvarado, Marsha",
 [["Alvarado, Marsha","Birth Name","","","","Marsha","",["Alvarado"],"","","",[]]],
 "F","?",
-"Florence, SC",
+"Florence, SC, USA",
 "?",
-"Cookeville, TN",
+"Cookeville, TN, USA",
 "unknown",
 [
-	["E0641","Birth","","",268,"Birth of Alvarado, Marsha","",[],[]],
-	["E0642","Death","","",176,"Death of Alvarado, Marsha","",[],[]]
+	["E0641","Birth","","",389,"Birth of Alvarado, Marsha","",[],[]],
+	["E0642","Death","","",250,"Death of Alvarado, Marsha","",[],[]]
 ],
 [
 
@@ -1255,12 +1255,12 @@ I = [
 ["I1470","Alvarado, Marshall","Alvarado, Marshall",
 [["Alvarado, Marshall","Birth Name","","","","Marshall","",["Alvarado"],"","","",[]]],
 "M","?",
-"Cookeville, TN",
+"Cookeville, TN, USA",
 "",
 "",
 "",
 [
-	["E0625","Birth","","",176,"Birth of Alvarado, Marshall","",[],[]]
+	["E0625","Birth","","",250,"Birth of Alvarado, Marshall","",[],[]]
 ],
 [
 
@@ -1277,13 +1277,13 @@ I = [
 ["I0531","Alvarado, Mary","Alvarado, Mary",
 [["Alvarado, Mary","Birth Name","","","","Mary","",["Alvarado"],"","","",[]]],
 "F","?",
-"Rocky Mount, NC",
+"Rocky Mount, NC, USA",
 "1760",
-"Poplar Bluff, MO",
+"Poplar Bluff, MO, USA",
 "unknown",
 [
-	["E1858","Birth","","",665,"Birth of Alvarado, Mary","",[],[]],
-	["E1859","Death","1760-01-17","17 JAN 1760",625,"Death of Alvarado, Mary","",[],[]]
+	["E1858","Birth","","",998,"Birth of Alvarado, Mary","",[],[]],
+	["E1859","Death","1760-01-17","17 JAN 1760",947,"Death of Alvarado, Mary","",[],[]]
 ],
 [
 
@@ -1300,12 +1300,12 @@ I = [
 ["I0333","Alvarado, Matthew Vincent","Alvarado, Matthew Vincent",
 [["Alvarado, Matthew Vincent","Birth Name","","","","Matthew Vincent","",["Alvarado"],"","","",[]]],
 "M","1986",
-"Rockland, ME",
+"Rockland, ME, USA",
 "",
 "",
 "",
 [
-	["E1453","Birth","1986-04-05","5 APR 1986",664,"Birth of Alvarado, Matthew Vincent","",[],[]],
+	["E1453","Birth","1986-04-05","5 APR 1986",997,"Birth of Alvarado, Matthew Vincent","",[],[]],
 	["E1454","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -1323,12 +1323,12 @@ I = [
 ["I0330","Alvarado, Michelle Lynn","Alvarado, Michelle Lynn",
 [["Alvarado, Michelle Lynn","Birth Name","","","","Michelle Lynn","",["Alvarado"],"","","",[]]],
 "F","1968",
-"Rockland, ME",
+"Rockland, ME, USA",
 "",
 "",
 "",
 [
-	["E1447","Birth","1968-09-30","30 SEP 1968",664,"Birth of Alvarado, Michelle Lynn","",[],[]],
+	["E1447","Birth","1968-09-30","30 SEP 1968",997,"Birth of Alvarado, Michelle Lynn","",[],[]],
 	["E1448","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -1346,13 +1346,13 @@ I = [
 ["I0472","Alvarado, Nancy","Alvarado, Nancy",
 [["Alvarado, Nancy","Birth Name","","","","Nancy","",["Alvarado"],"","","",[]]],
 "F","?",
-"Mountain Home, ID",
+"Mountain Home, Elmore, ID, USA",
 "1861",
-"Clearlake, CA",
+"Clearlake, Lake, CA, USA",
 "unknown",
 [
-	["E1735","Birth","","",542,"Birth of Alvarado, Nancy","",[],[]],
-	["E1736","Death","1861-03-12","12 MAR 1861",153,"Death of Alvarado, Nancy","",[],[]]
+	["E1735","Birth","","",816,"Birth of Alvarado, Nancy","",[],[]],
+	["E1736","Death","1861-03-12","12 MAR 1861",213,"Death of Alvarado, Nancy","",[],[]]
 ],
 [
 
@@ -1413,12 +1413,12 @@ I = [
 ["I1469","Alvarado, Thomas C.","Alvarado, Thomas C.",
 [["Alvarado, Thomas C.","Birth Name","","","","Thomas C.","",["Alvarado"],"","","",[]]],
 "M","?",
-"Cookeville, TN",
+"Cookeville, TN, USA",
 "",
 "",
 "",
 [
-	["E0622","Birth","","",176,"Birth of Alvarado, Thomas C.","",[],[]]
+	["E0622","Birth","","",250,"Birth of Alvarado, Thomas C.","",[],[]]
 ],
 [
 
@@ -1457,12 +1457,12 @@ I = [
 ["I1468","Alvarado, William","Alvarado, William",
 [["Alvarado, William","Birth Name","","","","William","",["Alvarado"],"","","",[]]],
 "M","?",
-"Cookeville, TN",
+"Cookeville, TN, USA",
 "",
 "",
 "",
 [
-	["E0621","Birth","","",176,"Birth of Alvarado, William","",[],[]]
+	["E0621","Birth","","",250,"Birth of Alvarado, William","",[],[]]
 ],
 [
 
@@ -1501,12 +1501,12 @@ I = [
 ["I0508","Alvarez, Mary","Alvarez, Mary",
 [["Alvarez, Mary","Birth Name","","","","Mary","",["Alvarez"],"","","",[]]],
 "F","?",
-"Ukiah, CA",
+"Ukiah, Mendocino, CA, USA",
 "1727",
 "",
 "unknown",
 [
-	["E1806","Birth","","",784,"Birth of Alvarez, Mary","",[],[]],
+	["E1806","Birth","","",1172,"Birth of Alvarez, Mary","",[],[]],
 	["E1807","Death","1727","1727",-1,"Death of Alvarez, Mary","",[],[]]
 ],
 [
@@ -1590,13 +1590,13 @@ I = [
 ["I2057","Andersen, Samuel","Andersen, Samuel",
 [["Andersen, Samuel","Birth Name","","","","Samuel","",["Andersen"],"","","",[]]],
 "M","?",
-"Marion, IL",
+"Marion, Edwards, IL, USA",
 "1858",
-"McPherson, KS",
+"McPherson, McPherson, KS, USA",
 "unknown",
 [
-	["E1186","Birth","","",478,"Birth of Andersen, Samuel","",[],[]],
-	["E1187","Death","1858-02-00","FEB 1858",497,"Death of Andersen, Samuel","",[],[]]
+	["E1186","Birth","","",713,"Birth of Andersen, Samuel","",[],[]],
+	["E1187","Death","1858-02-00","FEB 1858",743,"Death of Andersen, Samuel","",[],[]]
 ],
 [
 
@@ -1657,12 +1657,12 @@ I = [
 ["I0511","Anderson, Mary Molly","Anderson, Mary Molly",
 [["Anderson, Mary Molly","Birth Name","","","","Mary Molly","",["Anderson"],"","","",[]]],
 "F","1719",
-"Shelby, NC",
+"Shelby, NC, USA",
 "1795",
 "",
 "76 years, 3 months, 19 days",
 [
-	["E1817","Birth","1719","1719",710,"Birth of Anderson, Mary Molly","",[],[]],
+	["E1817","Birth","1719","1719",1062,"Birth of Anderson, Mary Molly","",[],[]],
 	["E1818","Death","1795-04-20","20 APR 1795",-1,"Death of Anderson, Mary Molly","",[],[]]
 ],
 [
@@ -1680,13 +1680,13 @@ I = [
 ["I0680","Anderson, Rev. John","Anderson, Rev. John",
 [["Anderson, Rev. John","Birth Name","","","","Rev. John","",["Anderson"],"","","",[]]],
 "M","1685",
-"Miami, OK",
+"Miami, OK, USA",
 "1774",
-"Pittsburg, KS",
+"Pittsburg, Crawford, KS, USA",
 "89 years, 10 months, 26 days",
 [
-	["E2132","Birth","1685","1685",507,"Birth of Anderson, Rev. John","",[],[]],
-	["E2133","Death","1774-11-27","27 NOV 1774",614,"Death of Anderson, Rev. John","",[],[]]
+	["E2132","Birth","1685","1685",762,"Birth of Anderson, Rev. John","",[],[]],
+	["E2133","Death","1774-11-27","27 NOV 1774",932,"Death of Anderson, Rev. John","",[],[]]
 ],
 [
 
@@ -1703,13 +1703,13 @@ I = [
 ["I0746","Anderson, Samuel","Anderson, Samuel",
 [["Anderson, Samuel","Birth Name","","","","Samuel","",["Anderson"],"","","",[]]],
 "M","1654",
-"Baton Rouge, LA",
+"Baton Rouge, East Baton Rouge, LA, USA",
 "?",
-"Gettysburg, PA",
+"Gettysburg, PA, USA",
 "unknown",
 [
-	["E2226","Birth","1654","1654",60,"Birth of Anderson, Samuel","",[],[]],
-	["E2227","Death","","",300,"Death of Anderson, Samuel","",[],[]]
+	["E2226","Birth","1654","1654",80,"Birth of Anderson, Samuel","",[],[]],
+	["E2227","Death","","",434,"Death of Anderson, Samuel","",[],[]]
 ],
 [
 
@@ -1726,13 +1726,13 @@ I = [
 ["I0744","Anderson, Thomas","Anderson, Thomas",
 [["Anderson, Thomas","Birth Name","","","","Thomas","",["Anderson"],"","","",[]]],
 "M","?",
-"Lancaster, SC",
+"Lancaster, SC, USA",
 "1687",
-"Fort Dodge, IA",
+"Fort Dodge, Webster, IA, USA",
 "about 59 years",
 [
-	["E2223","Birth","about 1628","ABT 1628",425,"Birth of Anderson, Thomas","",[],[]],
-	["E2224","Death","1687","1687",273,"Death of Anderson, Thomas","",[],[]]
+	["E2223","Birth","about 1628","ABT 1628",624,"Birth of Anderson, Thomas","",[],[]],
+	["E2224","Death","1687","1687",396,"Death of Anderson, Thomas","",[],[]]
 ],
 [
 
@@ -1751,10 +1751,10 @@ I = [
 "M","?",
 "",
 "?",
-"Albert Lea, MN",
+"Albert Lea, MN, USA",
 "",
 [
-	["E2078","Death","","",11,"Death of Andrews, Harold","",[],[]]
+	["E2078","Death","","",19,"Death of Andrews, Harold","",[],[]]
 ],
 [
 
@@ -1838,13 +1838,13 @@ I = [
 ["I1433","Armstrong, Teddy C.","Armstrong, Teddy C.",
 [["Armstrong, Teddy C.","Birth Name","","","","Teddy C.","",["Armstrong"],"","","",[]]],
 "M","1906",
-"Williamsport, PA",
+"Williamsport, PA, USA",
 "1995",
-"Alexandria, LA",
+"Alexandria, Rapides, LA, USA",
 "88 years, 11 months, 16 days",
 [
-	["E0586","Birth","1906-07-24","24 JUL 1906",828,"Birth of Armstrong, Teddy C.","",[],[]],
-	["E0587","Death","1995-07-09","9 JUL 1995",14,"Death of Armstrong, Teddy C.","",[],[]]
+	["E0586","Birth","1906-07-24","24 JUL 1906",1254,"Birth of Armstrong, Teddy C.","",[],[]],
+	["E0587","Death","1995-07-09","9 JUL 1995",22,"Death of Armstrong, Teddy C.","",[],[]]
 ],
 [
 
@@ -1952,12 +1952,12 @@ I = [
 "F","?",
 "",
 "?",
-"Louisville, KY",
+"Louisville, Jefferson, KY, USA",
 "unknown",
 [
 	["E2703","Birth","about 1656","ABT 1656",-1,"Birth of Baldwin, Anne","",[],[]],
-	["E2704","Death","","",460,"Death of Baldwin, Anne","",[],[]],
-	["E2705","Burial","","",460,"Burial of Baldwin, Anne","",[],[]]
+	["E2704","Death","","",679,"Death of Baldwin, Anne","",[],[]],
+	["E2705","Burial","","",679,"Burial of Baldwin, Anne","",[],[]]
 ],
 [
 
@@ -1996,14 +1996,14 @@ I = [
 ["I0022","Ball, Abigail","Ball, Abigail",
 [["Ball, Abigail","Birth Name","","","","Abigail","",["Ball"],"","","",[]]],
 "F","1869",
-"Oxnard, CA",
+"Oxnard, Ventura, CA, USA",
 "1942",
-"Kokomo, IN",
+"Kokomo, Howard, IN, USA",
 "72 years, 9 months, 13 days",
 [
-	["E1233","Birth","1869-07-08","8 JUL 1869",591,"Birth of Ball, Abigail","",[],[]],
-	["E1234","Death","1942-04-21","21 APR 1942",410,"Death of Ball, Abigail","",[],[]],
-	["E1235","Burial","1942-04-23","23 APR 1942",345,"Burial of Ball, Abigail","",[],[]]
+	["E1233","Birth","1869-07-08","8 JUL 1869",900,"Birth of Ball, Abigail","",[],[]],
+	["E1234","Death","1942-04-21","21 APR 1942",598,"Death of Ball, Abigail","",[],[]],
+	["E1235","Burial","1942-04-23","23 APR 1942",494,"Burial of Ball, Abigail","",[],[]]
 ],
 [
 
@@ -2020,13 +2020,13 @@ I = [
 ["I0558","Ball, Ezekiel","Ball, Ezekiel",
 [["Ball, Ezekiel","Birth Name","","","","Ezekiel","",["Ball"],"","","",[]]],
 "M","?",
-"Mooresville, NC",
+"Mooresville, NC, USA",
 "?",
-"Mooresville, NC",
+"Mooresville, NC, USA",
 "unknown",
 [
-	["E1904","Birth","","",528,"Birth of Ball, Ezekiel","",[],[]],
-	["E1905","Death","","",528,"Death of Ball, Ezekiel","",[],[]]
+	["E1904","Birth","","",800,"Birth of Ball, Ezekiel","",[],[]],
+	["E1905","Death","","",800,"Death of Ball, Ezekiel","",[],[]]
 ],
 [
 
@@ -2043,12 +2043,12 @@ I = [
 ["I1965","Ball, Ida B.","Ball, Ida B.",
 [["Ball, Ida B.","Birth Name","","","","Ida B.","",["Ball"],"","","",[]]],
 "F","1876",
-"Columbus, OH",
+"Columbus, OH, USA",
 "",
 "",
 "",
 [
-	["E1088","Birth","1876-03-17","17 MAR 1876",173,"Birth of Ball, Ida B.","",[],[]]
+	["E1088","Birth","1876-03-17","17 MAR 1876",246,"Birth of Ball, Ida B.","",[],[]]
 ],
 [
 
@@ -2087,12 +2087,12 @@ I = [
 ["I1967","Ball, Jane","Ball, Jane",
 [["Ball, Jane","Birth Name","","","","Jane","",["Ball"],"","","",[]]],
 "F","1848",
-"Vero Beach, FL",
+"Vero Beach, Indian River, FL, USA",
 "",
 "",
 "",
 [
-	["E1090","Birth","1848-07-09","9 JUL 1848",796,"Birth of Ball, Jane","",[],[]]
+	["E1090","Birth","1848-07-09","9 JUL 1848",1195,"Birth of Ball, Jane","",[],[]]
 ],
 [
 
@@ -2109,14 +2109,14 @@ I = [
 ["I0033","Ball, Jasper","Ball, Jasper",
 [["Ball, Jasper","Birth Name","","","","Jasper","",["Ball"],"","","",[]]],
 "M","1846",
-"Wausau, WI",
+"Wausau, WI, USA",
 "1906",
-"Oxnard, CA",
+"Oxnard, Ventura, CA, USA",
 "59 years, 7 months, 21 days",
 [
-	["E1444","Birth","1846-12-14","14 DEC 1846",818,"Birth of Ball, Jasper","",[],[]],
-	["E1445","Death","1906-08-04","4 AUG 1906",591,"Death of Ball, Jasper","",[],[]],
-	["E1446","Burial","1906-08-06","6 AUG 1906",591,"Burial of Ball, Jasper","",[],[]]
+	["E1444","Birth","1846-12-14","14 DEC 1846",1230,"Birth of Ball, Jasper","",[],[]],
+	["E1445","Death","1906-08-04","4 AUG 1906",900,"Death of Ball, Jasper","",[],[]],
+	["E1446","Burial","1906-08-06","6 AUG 1906",900,"Burial of Ball, Jasper","",[],[]]
 ],
 [
 
@@ -2155,13 +2155,13 @@ I = [
 ["I1963","Ball, Katie E.","Ball, Katie E.",
 [["Ball, Katie E.","Birth Name","","","","Katie E.","",["Ball"],"","","",[]]],
 "F","1870",
-"Columbus, OH",
+"Columbus, OH, USA",
 "1870",
-"Baltimore, MD",
+"Baltimore, MD, USA",
 "1 month, 2 days",
 [
-	["E1085","Birth","1870-10-09","9 OCT 1870",173,"Birth of Ball, Katie E.","",[],[]],
-	["E1086","Death","1870-11-11","11 NOV 1870",53,"Death of Ball, Katie E.","",[],[]]
+	["E1085","Birth","1870-10-09","9 OCT 1870",246,"Birth of Ball, Katie E.","",[],[]],
+	["E1086","Death","1870-11-11","11 NOV 1870",70,"Death of Ball, Katie E.","",[],[]]
 ],
 [
 
@@ -2178,12 +2178,12 @@ I = [
 ["I1964","Ball, Lucy A.","Ball, Lucy A.",
 [["Ball, Lucy A.","Birth Name","","","","Lucy A.","",["Ball"],"","","",[]]],
 "F","?",
-"Columbus, OH",
+"Columbus, OH, USA",
 "",
 "",
 "",
 [
-	["E1087","Birth","","",173,"Birth of Ball, Lucy A.","",[],[]]
+	["E1087","Birth","","",246,"Birth of Ball, Lucy A.","",[],[]]
 ],
 [
 
@@ -2200,12 +2200,12 @@ I = [
 ["I1966","Ball, Margaret","Ball, Margaret",
 [["Ball, Margaret","Birth Name","","","","Margaret","",["Ball"],"","","",[]]],
 "F","1878",
-"Columbus, OH",
+"Columbus, OH, USA",
 "",
 "",
 "",
 [
-	["E1089","Birth","1878-11-21","21 NOV 1878",173,"Birth of Ball, Margaret","",[],[]]
+	["E1089","Birth","1878-11-21","21 NOV 1878",246,"Birth of Ball, Margaret","",[],[]]
 ],
 [
 
@@ -2222,12 +2222,12 @@ I = [
 ["I1968","Ball, Martha","Ball, Martha",
 [["Ball, Martha","Birth Name","","","","Martha","",["Ball"],"","","",[]]],
 "F","1852",
-"Vero Beach, FL",
+"Vero Beach, Indian River, FL, USA",
 "",
 "",
 "",
 [
-	["E1091","Birth","1852-03-02","2 MAR 1852",796,"Birth of Ball, Martha","",[],[]]
+	["E1091","Birth","1852-03-02","2 MAR 1852",1195,"Birth of Ball, Martha","",[],[]]
 ],
 [
 
@@ -2288,13 +2288,13 @@ I = [
 ["I0568","Ball, Matthias Sr.","Ball, Matthias Sr.",
 [["Ball, Matthias Sr.","Birth Name","","","","Matthias Sr.","",["Ball"],"","","",[]]],
 "M","1767",
-"Chillicothe, OH",
+"Chillicothe, OH, USA",
 "1848",
-"New Philadelphia, OH",
+"New Philadelphia, OH, USA",
 "80 years, 10 months, 11 days",
 [
-	["E1919","Birth","1767-03-11","11 MAR 1767",148,"Birth of Ball, Matthias Sr.","",[],[]],
-	["E1920","Death","1848-01-22","22 JAN 1848",557,"Death of Ball, Matthias Sr.","",[],[]]
+	["E1919","Birth","1767-03-11","11 MAR 1767",203,"Birth of Ball, Matthias Sr.","",[],[]],
+	["E1920","Death","1848-01-22","22 JAN 1848",845,"Death of Ball, Matthias Sr.","",[],[]]
 ],
 [
 
@@ -2311,14 +2311,14 @@ I = [
 ["I0027","Ball, Matthias, Jr.","Ball, Matthias, Jr.",
 [["Ball, Matthias, Jr.","Birth Name","","","","Matthias, Jr.","",["Ball"],"","","",[]]],
 "M","1810",
-"Amarillo, TX",
+"Amarillo, Potter, TX, USA",
 "1887",
-"Portland, OR",
+"Portland, OR, USA",
 "77 years, 4 months, 16 days",
 [
-	["E1322","Birth","1810-08-07","7 AUG 1810",24,"Birth of Ball, Matthias, Jr.","",[],[]],
-	["E1323","Death","1887-12-23","23 DEC 1887",631,"Death of Ball, Matthias, Jr.","",[],[]],
-	["E1324","Burial","1887-12-24","24 DEC 1887",602,"Burial of Ball, Matthias, Jr.","",[],[]]
+	["E1322","Birth","1810-08-07","7 AUG 1810",33,"Birth of Ball, Matthias, Jr.","",[],[]],
+	["E1323","Death","1887-12-23","23 DEC 1887",953,"Death of Ball, Matthias, Jr.","",[],[]],
+	["E1324","Burial","1887-12-24","24 DEC 1887",914,"Burial of Ball, Matthias, Jr.","",[],[]]
 ],
 [
 
@@ -2335,13 +2335,13 @@ I = [
 ["I1962","Ball, Maude Waldon","Ball, Maude Waldon",
 [["Ball, Maude Waldon","Birth Name","","","","Maude Waldon","",["Ball"],"","","",[]]],
 "F","?",
-"Columbus, OH",
+"Columbus, OH, USA",
 "?",
-"Honolulu, HI",
+"Honolulu, HI, USA",
 "unknown",
 [
-	["E1083","Birth","","",173,"Birth of Ball, Maude Waldon","",[],[]],
-	["E1084","Burial","","",354,"Burial of Ball, Maude Waldon","",[],[]]
+	["E1083","Birth","","",246,"Birth of Ball, Maude Waldon","",[],[]],
+	["E1084","Burial","","",509,"Burial of Ball, Maude Waldon","",[],[]]
 ],
 [
 
@@ -2380,12 +2380,12 @@ I = [
 ["I1961","Ball, Robert Lee","Ball, Robert Lee",
 [["Ball, Robert Lee","Birth Name","","","","Robert Lee","",["Ball"],"","","",[]]],
 "M","1871",
-"Boise City, ID",
+"Boise City, ID, USA",
 "",
 "",
 "",
 [
-	["E1082","Birth","1871-10-14","14 OCT 1871",89,"Birth of Ball, Robert Lee","",[],[]]
+	["E1082","Birth","1871-10-14","14 OCT 1871",117,"Birth of Ball, Robert Lee","",[],[]]
 ],
 [
 
@@ -2402,12 +2402,12 @@ I = [
 ["I0565","Ball, Thomas","Ball, Thomas",
 [["Ball, Thomas","Birth Name","","","","Thomas","",["Ball"],"","","",[]]],
 "M","1728",
-"Mooresville, NC",
+"Mooresville, NC, USA",
 "",
 "",
 "",
 [
-	["E1915","Birth","1728-04-18","18 APR 1728",528,"Birth of Ball, Thomas","",[],[]]
+	["E1915","Birth","1728-04-18","18 APR 1728",800,"Birth of Ball, Thomas","",[],[]]
 ],
 [
 
@@ -2491,12 +2491,12 @@ I = [
 ["I0144","Barber, Mary Elizabeth","Barber, Mary Elizabeth",
 [["Barber, Mary Elizabeth","Birth Name","","","","Mary Elizabeth","",["Barber"],"","","",[]]],
 "F","1925",
-"Jacksonville, FL",
+"Jacksonville, Duval, FL, USA",
 "",
 "",
 "",
 [
-	["E0598","Birth","1925-06-08","8 JUN 1925",375,"Birth of Barber, Mary Elizabeth","",[],[]],
+	["E0598","Birth","1925-06-08","8 JUN 1925",550,"Birth of Barber, Mary Elizabeth","",[],[]],
 	["E0599","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -2536,14 +2536,14 @@ I = [
 ["I0793","Barnes, Ernestina","Barnes, Ernestina",
 [["Barnes, Ernestina","Birth Name","","","","Ernestina","",["Barnes"],"","","",[]]],
 "F","?",
-"Barnstable Town, MA",
+"Barnstable Town, MA, USA",
 "1965",
-"Columbus, GA-AL",
+"Columbus, Jefferson, GA-AL, USA",
 "unknown",
 [
-	["E2306","Birth","","",56,"Birth of Barnes, Ernestina","",[],[]],
-	["E2307","Death","1965-04-15","15 APR 1965",169,"Death of Barnes, Ernestina","",[],[]],
-	["E2308","Burial","","",492,"Burial of Barnes, Ernestina","",[],[]]
+	["E2306","Birth","","",74,"Birth of Barnes, Ernestina","",[],[]],
+	["E2307","Death","1965-04-15","15 APR 1965",242,"Death of Barnes, Ernestina","",[],[]],
+	["E2308","Burial","","",735,"Burial of Barnes, Ernestina","",[],[]]
 ],
 [
 
@@ -2582,12 +2582,12 @@ I = [
 ["I0523","Barrett, Anne","Barrett, Anne",
 [["Barrett, Anne","Birth Name","","","","Anne","",["Barrett"],"","","",[]]],
 "F","?",
-"Durant, OK",
+"Durant, OK, USA",
 "",
 "",
 "",
 [
-	["E1839","Birth","about 1600","ABT 1600",226,"Birth of Barrett, Anne","",[],[]]
+	["E1839","Birth","about 1600","ABT 1600",327,"Birth of Barrett, Anne","",[],[]]
 ],
 [
 
@@ -2604,13 +2604,13 @@ I = [
 ["I0561","Bass, Mary","Bass, Mary",
 [["Bass, Mary","Birth Name","","","","Mary","",["Bass"],"","","",[]]],
 "F","?",
-"Mexico, MO",
+"Mexico, MO, USA",
 "1823",
-"Santa Fe, NM",
+"Santa Fe, NM, USA",
 "unknown",
 [
-	["E1912","Birth","","",504,"Birth of Bass, Mary","",[],[]],
-	["E1913","Death","1823-10-04","4 OCT 1823",691,"Death of Bass, Mary","",[],[]]
+	["E1912","Birth","","",756,"Birth of Bass, Mary","",[],[]],
+	["E1913","Death","1823-10-04","4 OCT 1823",1034,"Death of Bass, Mary","",[],[]]
 ],
 [
 
@@ -2627,12 +2627,12 @@ I = [
 ["I0339","Bates, John Allen","Bates, John Allen",
 [["Bates, John Allen","Birth Name","","","","John Allen","",["Bates"],"","","",[]]],
 "M","1984",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E1465","Birth","1984-10-29","29 OCT 1984",586,"Birth of Bates, John Allen","",[],[]],
+	["E1465","Birth","1984-10-29","29 OCT 1984",893,"Birth of Bates, John Allen","",[],[]],
 	["E1466","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -2650,12 +2650,12 @@ I = [
 ["I0338","Bates, Stephen Michael","Bates, Stephen Michael",
 [["Bates, Stephen Michael","Birth Name","","","","Stephen Michael","",["Bates"],"","","",[]]],
 "M","1982",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E1463","Birth","1982-08-03","3 AUG 1982",586,"Birth of Bates, Stephen Michael","",[],[]],
+	["E1463","Birth","1982-08-03","3 AUG 1982",893,"Birth of Bates, Stephen Michael","",[],[]],
 	["E1464","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -2673,12 +2673,12 @@ I = [
 ["I0337","Bates, Timothy Christian","Bates, Timothy Christian",
 [["Bates, Timothy Christian","Birth Name","","","","Timothy Christian","",["Bates"],"","","",[]]],
 "M","1977",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E1461","Birth","1977-03-14","14 MAR 1977",586,"Birth of Bates, Timothy Christian","",[],[]],
+	["E1461","Birth","1977-03-14","14 MAR 1977",893,"Birth of Bates, Timothy Christian","",[],[]],
 	["E1462","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -2784,28 +2784,6 @@ I = [
 [[47,"Birth","Birth","",[]]],
 []
 ],
-["I1331","Beaulieu, Anna Margaretha","Beaulieu, Anna Margaretha",
-[["Beaulieu, Anna Margaretha","Birth Name","","","","Anna Margaretha","",["Beaulieu"],"","","",[]]],
-"F","1726",
-"",
-"",
-"",
-"",
-[
-	["E0428","Birth","1726","1726",-1,"Birth of Beaulieu, Anna Margaretha","",[],[]]
-],
-[
-
-],
-"",
-[],
-[],
-[],
-[],
-[669],
-[[47,"Birth","Birth","",[]]],
-[]
-],
 ["I1314","Beaulieu, Anna Margaretha","Beaulieu, Anna Margaretha",
 [["Beaulieu, Anna Margaretha","Birth Name","","","","Anna Margaretha","",["Beaulieu"],"","","",[]]],
 "F","1755",
@@ -2827,6 +2805,28 @@ I = [
 [],
 [228],
 [[46,"Birth","Birth","",[]]],
+[]
+],
+["I1331","Beaulieu, Anna Margaretha","Beaulieu, Anna Margaretha",
+[["Beaulieu, Anna Margaretha","Birth Name","","","","Anna Margaretha","",["Beaulieu"],"","","",[]]],
+"F","1726",
+"",
+"",
+"",
+"",
+[
+	["E0428","Birth","1726","1726",-1,"Birth of Beaulieu, Anna Margaretha","",[],[]]
+],
+[
+
+],
+"",
+[],
+[],
+[],
+[],
+[669],
+[[47,"Birth","Birth","",[]]],
 []
 ],
 ["I1321","Beaulieu, Anna Maria","Beaulieu, Anna Maria",
@@ -2898,6 +2898,28 @@ I = [
 [[47,"Birth","Birth","",[]]],
 []
 ],
+["I1306","Beaulieu, Johann Adam","Beaulieu, Johann Adam",
+[["Beaulieu, Johann Adam","Birth Name","","","","Johann Adam","",["Beaulieu"],"","","",[]]],
+"M","1738",
+"",
+"",
+"",
+"",
+[
+	["E0388","Birth","1738","1738",-1,"Birth of Beaulieu, Johann Adam","",[],[]]
+],
+[
+
+],
+"",
+[],
+[],
+[],
+[],
+[],
+[[46,"Birth","Birth","",[]]],
+[]
+],
 ["I1323","Beaulieu, Johann Adam","Beaulieu, Johann Adam",
 [["Beaulieu, Johann Adam","Birth Name","","","","Johann Adam","",["Beaulieu"],"","","",[]]],
 "M","1717",
@@ -2919,28 +2941,6 @@ I = [
 [],
 [44],
 [[47,"Birth","Birth","",[]]],
-[]
-],
-["I1306","Beaulieu, Johann Adam","Beaulieu, Johann Adam",
-[["Beaulieu, Johann Adam","Birth Name","","","","Johann Adam","",["Beaulieu"],"","","",[]]],
-"M","1738",
-"",
-"",
-"",
-"",
-[
-	["E0388","Birth","1738","1738",-1,"Birth of Beaulieu, Johann Adam","",[],[]]
-],
-[
-
-],
-"",
-[],
-[],
-[],
-[],
-[],
-[[46,"Birth","Birth","",[]]],
 []
 ],
 ["I1309","Beaulieu, Johann Franciskus","Beaulieu, Johann Franciskus",
@@ -3011,28 +3011,6 @@ I = [
 [[47,"Birth","Birth","",[]]],
 []
 ],
-["I1279","Beaulieu, Johann Simon","Beaulieu, Johann Simon",
-[["Beaulieu, Johann Simon","Birth Name","","","","Johann Simon","",["Beaulieu"],"","","",[]]],
-"M","1682",
-"Jennings, LA",
-"",
-"",
-"",
-[
-	["E0359","Birth","1682","1682",383,"Birth of Beaulieu, Johann Simon","",[],[]]
-],
-[
-
-],
-"",
-[],
-[],
-[],
-[],
-[47],
-[],
-[]
-],
 ["I1275","Beaulieu, Johann Simon","Beaulieu, Johann Simon",
 [["Beaulieu, Johann Simon","Birth Name","","","","Johann Simon","",["Beaulieu"],"","","",[]]],
 "M","1742",
@@ -3053,6 +3031,28 @@ I = [
 [],
 [49],
 [[46,"Birth","Birth","",[]]],
+[]
+],
+["I1279","Beaulieu, Johann Simon","Beaulieu, Johann Simon",
+[["Beaulieu, Johann Simon","Birth Name","","","","Johann Simon","",["Beaulieu"],"","","",[]]],
+"M","1682",
+"Jennings, Jefferson Davis, LA, USA",
+"",
+"",
+"",
+[
+	["E0359","Birth","1682","1682",566,"Birth of Beaulieu, Johann Simon","",[],[]]
+],
+[
+
+],
+"",
+[],
+[],
+[],
+[],
+[47],
+[],
 []
 ],
 ["I1325","Beaulieu, Johann Theobald","Beaulieu, Johann Theobald",
@@ -3214,12 +3214,12 @@ I = [
 ["I1457","Bélanger, Amy Jo","Bélanger, Amy Jo",
 [["Bélanger, Amy Jo","Birth Name","","","","Amy Jo","",["Bélanger"],"","","",[]]],
 "F","1965",
-"Mankato, MN",
+"Mankato, MN, USA",
 "",
 "",
 "",
 [
-	["E0613","Birth","1965-10-17","17 OCT 1965",475,"Birth of Bélanger, Amy Jo","",[],[]]
+	["E0613","Birth","1965-10-17","17 OCT 1965",708,"Birth of Bélanger, Amy Jo","",[],[]]
 ],
 [
 
@@ -3236,12 +3236,12 @@ I = [
 ["I1455","Bélanger, Donald","Bélanger, Donald",
 [["Bélanger, Donald","Birth Name","","","","Donald","",["Bélanger"],"","","",[]]],
 "M","1944",
-"Mankato, MN",
+"Mankato, MN, USA",
 "",
 "",
 "",
 [
-	["E0612","Birth","1944-05-16","16 MAY 1944",475,"Birth of Bélanger, Donald","",[],[]]
+	["E0612","Birth","1944-05-16","16 MAY 1944",708,"Birth of Bélanger, Donald","",[],[]]
 ],
 [
 
@@ -3265,7 +3265,7 @@ I = [
 [
 	["E2084","Birth","1916-04-06","6 APR 1916",-1,"Birth of Bélanger, James","",[],[]],
 	["E2085","Death","1964-07-02","2 JUL 1964",-1,"Death of Bélanger, James","",[],[]],
-	["E2086","Burial","","",746,"Burial of Bélanger, James","",[],[]]
+	["E2086","Burial","","",1108,"Burial of Bélanger, James","",[],[]]
 ],
 [
 
@@ -3441,13 +3441,13 @@ I = [
 ["I0774","Benson, Col. David","Benson, Col. David",
 [["Benson, Col. David","Birth Name","","","","Col. David","",["Benson"],"","","",[]]],
 "M","1786",
-"Valdosta, GA",
+"Valdosta, Lowndes, GA, USA",
 "1836",
-"Holland-Grand Haven, MI",
+"Holland-Grand Haven, MI, USA",
 "49 years, 6 months, 20 days",
 [
-	["E2278","Birth","1786-08-17","17 AUG 1786",790,"Birth of Benson, Col. David","",[],[]],
-	["E2279","Death","1836-03-06","6 MAR 1836",352,"Death of Benson, Col. David","",[],[]]
+	["E2278","Birth","1786-08-17","17 AUG 1786",1186,"Birth of Benson, Col. David","",[],[]],
+	["E2279","Death","1836-03-06","6 MAR 1836",507,"Death of Benson, Col. David","",[],[]]
 ],
 [
 
@@ -3464,12 +3464,12 @@ I = [
 ["I0770","Benson, Col. Joseph","Benson, Col. Joseph",
 [["Benson, Col. Joseph","Birth Name","","","","Col. Joseph","",["Benson"],"","","",[]]],
 "M","1742",
-"Olympia, WA",
+"Olympia, WA, USA",
 "",
 "",
 "",
 [
-	["E2273","Birth","1742-05-07","7 MAY 1742",578,"Birth of Benson, Col. Joseph","",[],[]]
+	["E2273","Birth","1742-05-07","7 MAY 1742",878,"Birth of Benson, Col. Joseph","",[],[]]
 ],
 [
 
@@ -3528,37 +3528,15 @@ I = [
 [[63,"Birth","Birth","",[]]],
 []
 ],
-["I1584","Benson, Elizabeth","Benson, Elizabeth",
-[["Benson, Elizabeth","Birth Name","","","","Elizabeth","",["Benson"],"","","",[]]],
-"F","1715",
-"Waterloo-Cedar Falls, IA",
-"",
-"",
-"",
-[
-	["E0704","Birth","1715-01-30","30 JAN 1715",814,"Birth of Benson, Elizabeth","",[],[]]
-],
-[
-
-],
-"",
-[],
-[],
-[],
-[],
-[],
-[[64,"Birth","Birth","",[]]],
-[]
-],
 ["I1592","Benson, Elizabeth","Benson, Elizabeth",
 [["Benson, Elizabeth","Birth Name","","","","Elizabeth","",["Benson"],"","","",[]]],
 "F","1685",
-"Peoria, IL",
+"Peoria, Peoria, IL, USA",
 "",
 "",
 "",
 [
-	["E0712","Birth","1685-04-13","13 APR 1685",606,"Birth of Benson, Elizabeth","",[],[]]
+	["E0712","Birth","1685-04-13","13 APR 1685",919,"Birth of Benson, Elizabeth","",[],[]]
 ],
 [
 
@@ -3570,6 +3548,28 @@ I = [
 [],
 [],
 [[733,"Birth","Birth","",[]]],
+[]
+],
+["I1584","Benson, Elizabeth","Benson, Elizabeth",
+[["Benson, Elizabeth","Birth Name","","","","Elizabeth","",["Benson"],"","","",[]]],
+"F","1715",
+"Waterloo-Cedar Falls, IA, USA",
+"",
+"",
+"",
+[
+	["E0704","Birth","1715-01-30","30 JAN 1715",1226,"Birth of Benson, Elizabeth","",[],[]]
+],
+[
+
+],
+"",
+[],
+[],
+[],
+[],
+[],
+[[64,"Birth","Birth","",[]]],
 []
 ],
 ["I1596","Benson, Hugh","Benson, Hugh",
@@ -3597,12 +3597,12 @@ I = [
 ["I1588","Benson, James","Benson, James",
 [["Benson, James","Birth Name","","","","James","",["Benson"],"","","",[]]],
 "M","1674",
-"Peoria, IL",
+"Peoria, Peoria, IL, USA",
 "",
 "",
 "",
 [
-	["E0706","Birth","1674-11-20","20 NOV 1674",606,"Birth of Benson, James","",[],[]]
+	["E0706","Birth","1674-11-20","20 NOV 1674",919,"Birth of Benson, James","",[],[]]
 ],
 [
 
@@ -3619,12 +3619,12 @@ I = [
 ["I1582","Benson, James Edwin","Benson, James Edwin",
 [["Benson, James Edwin","Birth Name","","","","James Edwin","",["Benson"],"","","",[]]],
 "M","1711",
-"Waterloo-Cedar Falls, IA",
+"Waterloo-Cedar Falls, IA, USA",
 "",
 "",
 "",
 [
-	["E0702","Birth","1711-11-00","NOV 1711",814,"Birth of Benson, James Edwin","",[],[]]
+	["E0702","Birth","1711-11-00","NOV 1711",1226,"Birth of Benson, James Edwin","",[],[]]
 ],
 [
 
@@ -3641,12 +3641,34 @@ I = [
 ["I1583","Benson, Jason Spotswood","Benson, Jason Spotswood",
 [["Benson, Jason Spotswood","Birth Name","","","","Jason Spotswood","",["Benson"],"","","",[]]],
 "M","1713",
-"Waterloo-Cedar Falls, IA",
+"Waterloo-Cedar Falls, IA, USA",
 "",
 "",
 "",
 [
-	["E0703","Birth","1713-11-00","NOV 1713",814,"Birth of Benson, Jason Spotswood","",[],[]]
+	["E0703","Birth","1713-11-00","NOV 1713",1226,"Birth of Benson, Jason Spotswood","",[],[]]
+],
+[
+
+],
+"",
+[],
+[],
+[],
+[],
+[],
+[[64,"Birth","Birth","",[]]],
+[]
+],
+["I1581","Benson, John","Benson, John",
+[["Benson, John","Birth Name","","","","John","",["Benson"],"","","",[]]],
+"M","1707",
+"Hope, Hempstead, AR, USA",
+"",
+"",
+"",
+[
+	["E0701","Birth","1707-06-10","10 JUN 1707",512,"Birth of Benson, John","",[],[]]
 ],
 [
 
@@ -3682,39 +3704,17 @@ I = [
 [[60,"Birth","Birth","",[]]],
 []
 ],
-["I1581","Benson, John","Benson, John",
-[["Benson, John","Birth Name","","","","John","",["Benson"],"","","",[]]],
-"M","1707",
-"Hope, AR",
-"",
-"",
-"",
-[
-	["E0701","Birth","1707-06-10","10 JUN 1707",356,"Birth of Benson, John","",[],[]]
-],
-[
-
-],
-"",
-[],
-[],
-[],
-[],
-[],
-[[64,"Birth","Birth","",[]]],
-[]
-],
 ["I0731","Benson, Joseph Louis(Jr.)","Benson, Joseph Louis(Jr.)",
 [["Benson, Joseph Louis(Jr.)","Birth Name","","","","Joseph Louis(Jr.)","",["Benson"],"","","",[]]],
 "M","1702",
-"Cordele, GA",
+"Cordele, Crisp, GA, USA",
 "?",
-"Anderson, IN",
+"Anderson, Madison, IN, USA",
 "unknown",
 [
-	["E2204","Birth","1702-05-06","6 MAY 1702",179,"Birth of Benson, Joseph Louis(Jr.)","",[],[]],
-	["E2205","Death","","",29,"Death of Benson, Joseph Louis(Jr.)","",[],[]],
-	["E2206","Burial","","",29,"Burial of Benson, Joseph Louis(Jr.)","",[],[]]
+	["E2204","Birth","1702-05-06","6 MAY 1702",253,"Birth of Benson, Joseph Louis(Jr.)","",[],[]],
+	["E2205","Death","","",38,"Death of Benson, Joseph Louis(Jr.)","",[],[]],
+	["E2206","Burial","","",38,"Burial of Benson, Joseph Louis(Jr.)","",[],[]]
 ],
 [
 
@@ -3731,12 +3731,12 @@ I = [
 ["I0767","Benson, Joseph Louis(Sr.)","Benson, Joseph Louis(Sr.)",
 [["Benson, Joseph Louis(Sr.)","Birth Name","","","","Joseph Louis(Sr.)","",["Benson"],"","","",[]]],
 "M","1676",
-"Iowa City, IA",
+"Iowa City, Johnson, IA, USA",
 "",
 "",
 "",
 [
-	["E2268","Birth","1676-01-09","9 JAN 1676",369,"Birth of Benson, Joseph Louis(Sr.)","",[],[]]
+	["E2268","Birth","1676-01-09","9 JAN 1676",542,"Birth of Benson, Joseph Louis(Sr.)","",[],[]]
 ],
 [
 
@@ -3753,12 +3753,12 @@ I = [
 ["I1590","Benson, Louise DeSoix","Benson, Louise DeSoix",
 [["Benson, Louise DeSoix","Birth Name","","","","Louise DeSoix","",["Benson"],"","","",[]]],
 "U","1680",
-"Peoria, IL",
+"Peoria, Peoria, IL, USA",
 "",
 "",
 "",
 [
-	["E0710","Birth","1680-03-15","15 MAR 1680",606,"Birth of Benson, Louise DeSoix","",[],[]]
+	["E0710","Birth","1680-03-15","15 MAR 1680",919,"Birth of Benson, Louise DeSoix","",[],[]]
 ],
 [
 
@@ -3775,12 +3775,12 @@ I = [
 ["I1585","Benson, Martha Ellen","Benson, Martha Ellen",
 [["Benson, Martha Ellen","Birth Name","","","","Martha Ellen","",["Benson"],"","","",[]]],
 "F","1719",
-"Waterloo-Cedar Falls, IA",
+"Waterloo-Cedar Falls, IA, USA",
 "",
 "",
 "",
 [
-	["E0705","Birth","1719-09-10","10 SEP 1719",814,"Birth of Benson, Martha Ellen","",[],[]]
+	["E0705","Birth","1719-09-10","10 SEP 1719",1226,"Birth of Benson, Martha Ellen","",[],[]]
 ],
 [
 
@@ -3797,13 +3797,13 @@ I = [
 ["I0478","Benson, Martha Ellen M.","Benson, Martha Ellen M.",
 [["Benson, Martha Ellen M.","Birth Name","","","","Martha Ellen M.","",["Benson"],"","","",[]]],
 "F","?",
-"Laredo, TX",
+"Laredo, Webb, TX, USA",
 "?",
-"Davenport, IA",
+"Davenport, Scott, IA, USA",
 "less than about 59 years",
 [
-	["E1750","Birth","about 1747","ABT 1747",428,"Birth of Benson, Martha Ellen M.","",[],[]],
-	["E1751","Death","before 1806","BEF 1806",199,"Death of Benson, Martha Ellen M.","",[],[]]
+	["E1750","Birth","about 1747","ABT 1747",628,"Birth of Benson, Martha Ellen M.","",[],[]],
+	["E1751","Death","before 1806","BEF 1806",282,"Death of Benson, Martha Ellen M.","",[],[]]
 ],
 [
 
@@ -3842,12 +3842,12 @@ I = [
 ["I1591","Benson, Mary Frances","Benson, Mary Frances",
 [["Benson, Mary Frances","Birth Name","","","","Mary Frances","",["Benson"],"","","",[]]],
 "F","1682",
-"Peoria, IL",
+"Peoria, Peoria, IL, USA",
 "",
 "",
 "",
 [
-	["E0711","Birth","1682-02-20","20 FEB 1682",606,"Birth of Benson, Mary Frances","",[],[]]
+	["E0711","Birth","1682-02-20","20 FEB 1682",919,"Birth of Benson, Mary Frances","",[],[]]
 ],
 [
 
@@ -3888,10 +3888,10 @@ I = [
 "M","?",
 "",
 "?",
-"Paris, TN",
+"Paris, TN, USA",
 "",
 [
-	["E0714","Death","","",601,"Death of Benson, Robert","",[],[]]
+	["E0714","Death","","",913,"Death of Benson, Robert","",[],[]]
 ],
 [
 
@@ -3908,12 +3908,12 @@ I = [
 ["I1589","Benson, Robert Watkins","Benson, Robert Watkins",
 [["Benson, Robert Watkins","Birth Name","","","","Robert Watkins","",["Benson"],"","","",[]]],
 "M","1678",
-"Peoria, IL",
+"Peoria, Peoria, IL, USA",
 "",
 "",
 "",
 [
-	["E0707","Birth","1678-07-18","18 JUL 1678",606,"Birth of Benson, Robert Watkins","",[],[]]
+	["E0707","Birth","1678-07-18","18 JUL 1678",919,"Birth of Benson, Robert Watkins","",[],[]]
 ],
 [
 
@@ -3952,12 +3952,12 @@ I = [
 ["I1580","Benson, Thomas Stewart","Benson, Thomas Stewart",
 [["Benson, Thomas Stewart","Birth Name","","","","Thomas Stewart","",["Benson"],"","","",[]]],
 "M","1704",
-"Cordele, GA",
+"Cordele, Crisp, GA, USA",
 "",
 "",
 "",
 [
-	["E0700","Birth","1704-03-09","9 MAR 1704",179,"Birth of Benson, Thomas Stewart","",[],[]]
+	["E0700","Birth","1704-03-09","9 MAR 1704",253,"Birth of Benson, Thomas Stewart","",[],[]]
 ],
 [
 
@@ -3996,12 +3996,12 @@ I = [
 ["I0771","Benson, William","Benson, William",
 [["Benson, William","Birth Name","","","","William","",["Benson"],"","","",[]]],
 "M","1709",
-"Wahpeton, ND",
+"Wahpeton, ND, USA",
 "",
 "",
 "",
 [
-	["E2274","Birth","1709-08-10","10 AUG 1709",803,"Birth of Benson, William","",[],[]]
+	["E2274","Birth","1709-08-10","10 AUG 1709",1207,"Birth of Benson, William","",[],[]]
 ],
 [
 
@@ -4020,11 +4020,11 @@ I = [
 "M","?",
 "",
 "?",
-"Richmond, KY",
+"Richmond, Madison, KY, USA",
 "",
 [
-	["E1705","Death","","",652,"Death of Bergeron, John Henry","",[],[]],
-	["E1706","Burial","","",251,"Burial of Bergeron, John Henry","",[],[]]
+	["E1705","Death","","",984,"Death of Bergeron, John Henry","",[],[]],
+	["E1706","Burial","","",366,"Burial of Bergeron, John Henry","",[],[]]
 ],
 [
 
@@ -4065,10 +4065,10 @@ I = [
 "F","?",
 "",
 "1922",
-"Tyler, TX",
+"Tyler, Smith, TX, USA",
 "",
 [
-	["E0239","Death","1922-12-30","30 DEC 1922",783,"Death of Bernier, Margaret","",[],[]]
+	["E0239","Death","1922-12-30","30 DEC 1922",1171,"Death of Bernier, Margaret","",[],[]]
 ],
 [
 
@@ -4130,13 +4130,13 @@ I = [
 ["I0762","Bishop, Anna Barbara","Bishop, Anna Barbara",
 [["Bishop, Anna Barbara","Birth Name","","","","Anna Barbara","",["Bishop"],"","","",[]]],
 "F","1664",
-"Houston, TX",
+"Houston, Harris, TX, USA",
 "?",
-"Waterloo-Cedar Falls, IA",
+"Waterloo-Cedar Falls, IA, USA",
 "more than 52 years, 3 months, 3 days",
 [
-	["E2262","Birth","1664-09-29","29 SEP 1664",359,"Birth of Bishop, Anna Barbara","",[],[]],
-	["E2263","Death","after 1717","AFT 1717",814,"Death of Bishop, Anna Barbara","",[],[]]
+	["E2262","Birth","1664-09-29","29 SEP 1664",518,"Birth of Bishop, Anna Barbara","",[],[]],
+	["E2263","Death","after 1717","AFT 1717",1226,"Death of Bishop, Anna Barbara","",[],[]]
 ],
 [
 
@@ -4153,13 +4153,13 @@ I = [
 ["I1187","Bishop, Quirinus","Bishop, Quirinus",
 [["Bishop, Quirinus","Birth Name","","","","Quirinus","",["Bishop"],"","","",[]]],
 "M","?",
-"Akron, OH",
+"Akron, OH, USA",
 "1683",
-"Akron, OH",
+"Akron, OH, USA",
 "less than 57 years, 4 months, 16 days",
 [
-	["E0295","Birth","after 1626","AFT 1626",6,"Birth of Bishop, Quirinus","",[],[]],
-	["E0296","Death","1683-05-17","17 MAY 1683",6,"Death of Bishop, Quirinus","",[],[]]
+	["E0295","Birth","after 1626","AFT 1626",10,"Birth of Bishop, Quirinus","",[],[]],
+	["E0296","Death","1683-05-17","17 MAY 1683",10,"Death of Bishop, Quirinus","",[],[]]
 ],
 [
 
@@ -4243,13 +4243,13 @@ I = [
 ["I0465","Blake, Conrad","Blake, Conrad",
 [["Blake, Conrad","Birth Name","","","","Conrad","",["Blake"],"","","",[]]],
 "M","?",
-"Laredo, TX",
+"Laredo, Webb, TX, USA",
 "?",
-"Dallas, TX",
+"Dallas, Dallas, TX, USA",
 "unknown",
 [
-	["E1717","Birth","","",428,"Birth of Blake, Conrad","",[],[]],
-	["E1718","Death","","",193,"Death of Blake, Conrad","",[],[]]
+	["E1717","Birth","","",628,"Birth of Blake, Conrad","",[],[]],
+	["E1718","Death","","",275,"Death of Blake, Conrad","",[],[]]
 ],
 [
 
@@ -4266,14 +4266,14 @@ I = [
 ["I0463","Blake, George","Blake, George",
 [["Blake, George","Birth Name","","","","George","",["Blake"],"","","",[]]],
 "M","1806",
-"Lock Haven, PA",
+"Lock Haven, PA, USA",
 "1885",
-"San Diego, CA",
+"San Diego, San Diego, CA, USA",
 "78 years, 11 months, 16 days",
 [
-	["E1711","Birth","1806-07-11","11 JUL 1806",454,"Birth of Blake, George","",[],[]],
-	["E1712","Death","1885-06-27","27 JUN 1885",681,"Death of Blake, George","",[],[]],
-	["E1713","Burial","","",326,"Burial of Blake, George","",[],[]]
+	["E1711","Birth","1806-07-11","11 JUL 1806",669,"Birth of Blake, George","",[],[]],
+	["E1712","Death","1885-06-27","27 JUN 1885",1016,"Death of Blake, George","",[],[]],
+	["E1713","Burial","","",467,"Burial of Blake, George","",[],[]]
 ],
 [
 
@@ -4290,14 +4290,14 @@ I = [
 ["I0067","Blake, M. Susannah","Blake, M. Susannah",
 [["Blake, M. Susannah","Birth Name","","","","M. Susannah","",["Blake"],"","","",[]]],
 "F","1832",
-"Lock Haven, PA",
+"Lock Haven, PA, USA",
 "1921",
-"Guaynabo, PR",
+"Guaynabo, PR, USA",
 "88 years, 8 months, 20 days",
 [
-	["E2113","Birth","1832-09-05","5 SEP 1832",454,"Birth of Blake, M. Susannah","",[],[]],
-	["E2114","Death","1921-05-25","25 MAY 1921",326,"Death of Blake, M. Susannah","",[],[]],
-	["E2115","Burial","1921-05-27","27 MAY 1921",326,"Burial of Blake, M. Susannah","",[],[]]
+	["E2113","Birth","1832-09-05","5 SEP 1832",669,"Birth of Blake, M. Susannah","",[],[]],
+	["E2114","Death","1921-05-25","25 MAY 1921",467,"Death of Blake, M. Susannah","",[],[]],
+	["E2115","Burial","1921-05-27","27 MAY 1921",467,"Burial of Blake, M. Susannah","",[],[]]
 ],
 [
 
@@ -4358,12 +4358,12 @@ I = [
 ["I0926","Blanco, Bendicht","Blanco, Bendicht",
 [["Blanco, Bendicht","Birth Name","","","","Bendicht","",["Blanco"],"","","",[]]],
 "M","1555",
-"Middlesborough, KY",
+"Middlesborough, KY, USA",
 "",
 "",
 "",
 [
-	["E2574","Birth","1555","1555",509,"Birth of Blanco, Bendicht","",[],[]]
+	["E2574","Birth","1555","1555",764,"Birth of Blanco, Bendicht","",[],[]]
 ],
 [
 
@@ -4447,13 +4447,13 @@ I = [
 ["I0915","Blanco, Gerhard","Blanco, Gerhard",
 [["Blanco, Gerhard","Birth Name","","","","Gerhard","",["Blanco"],"","","",[]]],
 "M","1718",
-"Norwalk, OH",
+"Norwalk, OH, USA",
 "1783",
-"Monroe, WI",
+"Monroe, WI, USA",
 "65 years, 2 months, 30 days",
 [
-	["E2553","Birth","1718-01-27","27 JAN 1718",567,"Birth of Blanco, Gerhard","",[],[]],
-	["E2554","Death","1783-04-26","26 APR 1783",525,"Death of Blanco, Gerhard","",[],[]]
+	["E2553","Birth","1718-01-27","27 JAN 1718",861,"Birth of Blanco, Gerhard","",[],[]],
+	["E2554","Death","1783-04-26","26 APR 1783",789,"Death of Blanco, Gerhard","",[],[]]
 ],
 [
 
@@ -4470,12 +4470,34 @@ I = [
 ["I0924","Blanco, Hans","Blanco, Hans",
 [["Blanco, Hans","Birth Name","","","","Hans","",["Blanco"],"","","",[]]],
 "M","1528",
-"Traverse City, MI",
+"Traverse City, MI, USA",
 "",
 "",
 "",
 [
-	["E2572","Birth","1528","1528",775,"Birth of Blanco, Hans","",[],[]]
+	["E2572","Birth","1528","1528",1158,"Birth of Blanco, Hans","",[],[]]
+],
+[
+
+],
+"",
+[],
+[],
+[],
+[],
+[],
+[],
+[]
+],
+["I0923","Blanco, Hans","Blanco, Hans",
+[["Blanco, Hans","Birth Name","","","","Hans","",["Blanco"],"","","",[]]],
+"M","1494",
+"Albany, OR, USA",
+"",
+"",
+"",
+[
+	["E2571","Birth","1494","1494",18,"Birth of Blanco, Hans","",[],[]]
 ],
 [
 
@@ -4492,12 +4514,12 @@ I = [
 ["I0927","Blanco, Hans","Blanco, Hans",
 [["Blanco, Hans","Birth Name","","","","Hans","",["Blanco"],"","","",[]]],
 "M","1582",
-"Middlesborough, KY",
+"Middlesborough, KY, USA",
 "",
 "",
 "",
 [
-	["E2575","Birth","1582-01-07","7 JAN 1582",509,"Birth of Blanco, Hans","",[],[]]
+	["E2575","Birth","1582-01-07","7 JAN 1582",764,"Birth of Blanco, Hans","",[],[]]
 ],
 [
 
@@ -4511,38 +4533,16 @@ I = [
 [[74,"Birth","Birth","",[]]],
 []
 ],
-["I0923","Blanco, Hans","Blanco, Hans",
-[["Blanco, Hans","Birth Name","","","","Hans","",["Blanco"],"","","",[]]],
-"M","1494",
-"Albany, OR",
-"",
-"",
-"",
-[
-	["E2571","Birth","1494","1494",10,"Birth of Blanco, Hans","",[],[]]
-],
-[
-
-],
-"",
-[],
-[],
-[],
-[],
-[],
-[],
-[]
-],
 ["I0931","Blanco, Hans(Johannes)","Blanco, Hans(Johannes)",
 [["Blanco, Hans(Johannes)","Birth Name","","","","Hans(Johannes)","",["Blanco"],"","","",[]]],
 "M","1680",
-"Casper, WY",
+"Casper, WY, USA",
 "?",
-"Plattsburgh, NY",
+"Plattsburgh, Clinton, NY, USA",
 "unknown",
 [
-	["E2582","Birth","1680-03-28","28 MAR 1680",132,"Birth of Blanco, Hans(Johannes)","",[],[]],
-	["E2583","Death","","",618,"Death of Blanco, Hans(Johannes)","",[],[]]
+	["E2582","Birth","1680-03-28","28 MAR 1680",177,"Birth of Blanco, Hans(Johannes)","",[],[]],
+	["E2583","Death","","",936,"Death of Blanco, Hans(Johannes)","",[],[]]
 ],
 [
 
@@ -4559,12 +4559,12 @@ I = [
 ["I0929","Blanco, Heinrich","Blanco, Heinrich",
 [["Blanco, Heinrich","Birth Name","","","","Heinrich","",["Blanco"],"","","",[]]],
 "M","1639",
-"Middlesborough, KY",
+"Middlesborough, KY, USA",
 "",
 "",
 "",
 [
-	["E2577","Birth","1639-11-10","10 NOV 1639",509,"Birth of Blanco, Heinrich","",[],[]]
+	["E2577","Birth","1639-11-10","10 NOV 1639",764,"Birth of Blanco, Heinrich","",[],[]]
 ],
 [
 
@@ -4603,14 +4603,14 @@ I = [
 ["I0919","Blanco, John Sr.","Blanco, John Sr.",
 [["Blanco, John Sr.","Birth Name","","","","John Sr.","",["Blanco"],"","","",[]]],
 "M","?",
-"Cambridge, MD",
+"Cambridge, MD, USA",
 "?",
-"Lincoln, IL",
+"Lincoln, Logan, IL, USA",
 "unknown",
 [
-	["E2558","Birth","about 1779","ABT 1779",119,"Birth of Blanco, John Sr.","",[],[]],
-	["E2559","Death","","",450,"Death of Blanco, John Sr.","",[],[]],
-	["E2560","Burial","","",112,"Burial of Blanco, John Sr.","",[],[]]
+	["E2558","Birth","about 1779","ABT 1779",163,"Birth of Blanco, John Sr.","",[],[]],
+	["E2559","Death","","",662,"Death of Blanco, John Sr.","",[],[]],
+	["E2560","Burial","","",151,"Burial of Blanco, John Sr.","",[],[]]
 ],
 [
 
@@ -4627,12 +4627,12 @@ I = [
 ["I0874","Blanco, John W.","Blanco, John W.",
 [["Blanco, John W.","Birth Name","","","","John W.","",["Blanco"],"","","",[]]],
 "M","1838",
-"Scottsbluff, NE",
+"Scottsbluff, NE, USA",
 "",
 "",
 "",
 [
-	["E2479","Birth","1838","1838",696,"Birth of Blanco, John W.","",[],[]]
+	["E2479","Birth","1838","1838",1042,"Birth of Blanco, John W.","",[],[]]
 ],
 [
 
@@ -4649,12 +4649,12 @@ I = [
 ["I0880","Blanco, L. J.","Blanco, L. J.",
 [["Blanco, L. J.","Birth Name","","","","L. J.","",["Blanco"],"","","",[]]],
 "F","1856",
-"Cambridge, OH",
+"Cambridge, OH, USA",
 "",
 "",
 "",
 [
-	["E2492","Birth","1856","1856",120,"Birth of Blanco, L. J.","",[],[]]
+	["E2492","Birth","1856","1856",164,"Birth of Blanco, L. J.","",[],[]]
 ],
 [
 
@@ -4671,14 +4671,14 @@ I = [
 ["I0069","Blanco, Lucinda Catherine","Blanco, Lucinda Catherine",
 [["Blanco, Lucinda Catherine","Birth Name","","","","Lucinda Catherine","",["Blanco"],"","","",[]]],
 "F","1849",
-"Lynchburg, VA",
+"Lynchburg, VA, USA",
 "1932",
-"Oxford, MS",
+"Oxford, MS, USA",
 "83 years, 8 months, 27 days",
 [
-	["E2145","Birth","1849-01-25","25 JAN 1849",464,"Birth of Blanco, Lucinda Catherine","",[],[]],
-	["E2146","Death","1932-10-21","21 OCT 1932",590,"Death of Blanco, Lucinda Catherine","",[],[]],
-	["E2147","Burial","1932-10-23","23 OCT 1932",188,"Burial of Blanco, Lucinda Catherine","",[],[]]
+	["E2145","Birth","1849-01-25","25 JAN 1849",685,"Birth of Blanco, Lucinda Catherine","",[],[]],
+	["E2146","Death","1932-10-21","21 OCT 1932",899,"Death of Blanco, Lucinda Catherine","",[],[]],
+	["E2147","Burial","1932-10-23","23 OCT 1932",266,"Burial of Blanco, Lucinda Catherine","",[],[]]
 ],
 [
 
@@ -4695,14 +4695,14 @@ I = [
 ["I0873","Blanco, Malvina","Blanco, Malvina",
 [["Blanco, Malvina","Birth Name","","","","Malvina","",["Blanco"],"","","",[]]],
 "F","1836",
-"Scottsbluff, NE",
+"Scottsbluff, NE, USA",
 "1918",
-"Muskegon, MI",
+"Muskegon, MI, USA",
 "81 years, 3 months, 22 days",
 [
-	["E2476","Birth","1836-11-15","15 NOV 1836",696,"Birth of Blanco, Malvina","",[],[]],
-	["E2477","Death","1918-03-07","7 MAR 1918",545,"Death of Blanco, Malvina","",[],[]],
-	["E2478","Burial","1918-03-09","9 MAR 1918",121,"Burial of Blanco, Malvina","",[],[]]
+	["E2476","Birth","1836-11-15","15 NOV 1836",1042,"Birth of Blanco, Malvina","",[],[]],
+	["E2477","Death","1918-03-07","7 MAR 1918",824,"Death of Blanco, Malvina","",[],[]],
+	["E2478","Burial","1918-03-09","9 MAR 1918",165,"Burial of Blanco, Malvina","",[],[]]
 ],
 [
 
@@ -4763,12 +4763,12 @@ I = [
 ["I0875","Blanco, Mary F.","Blanco, Mary F.",
 [["Blanco, Mary F.","Birth Name","","","","Mary F.","",["Blanco"],"","","",[]]],
 "F","1846",
-"Scottsbluff, NE",
+"Scottsbluff, NE, USA",
 "",
 "",
 "",
 [
-	["E2480","Birth","1846","1846",696,"Birth of Blanco, Mary F.","",[],[]]
+	["E2480","Birth","1846","1846",1042,"Birth of Blanco, Mary F.","",[],[]]
 ],
 [
 
@@ -4785,12 +4785,12 @@ I = [
 ["I0879","Blanco, Milton","Blanco, Milton",
 [["Blanco, Milton","Birth Name","","","","Milton","",["Blanco"],"","","",[]]],
 "M","1854",
-"Stephenville, TX",
+"Stephenville, Erath, TX, USA",
 "",
 "",
 "",
 [
-	["E2488","Birth","1854","1854",744,"Birth of Blanco, Milton","",[],[]]
+	["E2488","Birth","1854","1854",1106,"Birth of Blanco, Milton","",[],[]]
 ],
 [
 
@@ -4807,12 +4807,12 @@ I = [
 ["I0922","Blanco, Mr.","Blanco, Mr.",
 [["Blanco, Mr.","Birth Name","","","","Mr.","",["Blanco"],"","","",[]]],
 "M","?",
-"Albany, OR",
+"Albany, OR, USA",
 "",
 "",
 "",
 [
-	["E2570","Birth","about 1462","ABT 1462",10,"Birth of Blanco, Mr.","",[],[]]
+	["E2570","Birth","about 1462","ABT 1462",18,"Birth of Blanco, Mr.","",[],[]]
 ],
 [
 
@@ -4829,12 +4829,12 @@ I = [
 ["I0876","Blanco, Paris","Blanco, Paris",
 [["Blanco, Paris","Birth Name","","","","Paris","",["Blanco"],"","","",[]]],
 "M","1846",
-"Scottsbluff, NE",
+"Scottsbluff, NE, USA",
 "",
 "",
 "",
 [
-	["E2481","Birth","1846","1846",696,"Birth of Blanco, Paris","",[],[]]
+	["E2481","Birth","1846","1846",1042,"Birth of Blanco, Paris","",[],[]]
 ],
 [
 
@@ -4895,14 +4895,14 @@ I = [
 ["I0599","Blanco, Rufus","Blanco, Rufus",
 [["Blanco, Rufus","Birth Name","","","","Rufus","",["Blanco"],"","","",[]]],
 "M","20",
-"Cambridge, MD",
+"Cambridge, MD, USA",
 "1866",
-"Billings, MT",
+"Billings, MT, USA",
 "greater than 110 years",
 [
-	["E1978","Birth","20","20",119,"Birth of Blanco, Rufus","",[],[]],
-	["E1979","Death","1866-11-04","4 NOV 1866",77,"Death of Blanco, Rufus","",[],[]],
-	["E1980","Burial","1866-11-06","6 NOV 1866",684,"Burial of Blanco, Rufus","",[],[]]
+	["E1978","Birth","20","20",163,"Birth of Blanco, Rufus","",[],[]],
+	["E1979","Death","1866-11-04","4 NOV 1866",104,"Death of Blanco, Rufus","",[],[]],
+	["E1980","Burial","1866-11-06","6 NOV 1866",1022,"Burial of Blanco, Rufus","",[],[]]
 ],
 [
 
@@ -4919,12 +4919,12 @@ I = [
 ["I1683","Blanco, Samuel","Blanco, Samuel",
 [["Blanco, Samuel","Birth Name","","","","Samuel","",["Blanco"],"","","",[]]],
 "M","1759",
-"Monroe, WI",
+"Monroe, WI, USA",
 "1840",
 "",
 "81 years, 12 days",
 [
-	["E0793","Birth","1759-01-02","2 JAN 1759",525,"Birth of Blanco, Samuel","",[],[]],
+	["E0793","Birth","1759-01-02","2 JAN 1759",789,"Birth of Blanco, Samuel","",[],[]],
 	["E0794","Death","1840-01-14","14 JAN 1840",-1,"Death of Blanco, Samuel","",[],[]]
 ],
 [
@@ -4942,14 +4942,14 @@ I = [
 ["I0878","Blanco, Stephen","Blanco, Stephen",
 [["Blanco, Stephen","Birth Name","","","","Stephen","",["Blanco"],"","","",[]]],
 "M","1851",
-"Burlington, VT",
+"Burlington, VT, USA",
 "1903",
-"Corbin, KY",
+"Corbin, Whitley, KY, USA",
 "51 years, 11 months, 24 days",
 [
-	["E2485","Birth","1851-04-14","14 APR 1851",113,"Birth of Blanco, Stephen","",[],[]],
-	["E2486","Death","1903-04-08","8 APR 1903",178,"Death of Blanco, Stephen","",[],[]],
-	["E2487","Burial","1903-04-10","10 APR 1903",106,"Burial of Blanco, Stephen","",[],[]]
+	["E2485","Birth","1851-04-14","14 APR 1851",152,"Birth of Blanco, Stephen","",[],[]],
+	["E2486","Death","1903-04-08","8 APR 1903",252,"Death of Blanco, Stephen","",[],[]],
+	["E2487","Burial","1903-04-10","10 APR 1903",143,"Burial of Blanco, Stephen","",[],[]]
 ],
 [
 
@@ -4988,12 +4988,12 @@ I = [
 ["I0832","Boucher, Agnes","Boucher, Agnes",
 [["Boucher, Agnes","Birth Name","","","","Agnes","",["Boucher"],"","","",[]]],
 "F","1968",
-"Andrews, TX",
+"Andrews, Andrews, TX, USA",
 "",
 "",
 "",
 [
-	["E2388","Birth","1968","1968",31,"Birth of Boucher, Agnes","",[],[]],
+	["E2388","Birth","1968","1968",40,"Birth of Boucher, Agnes","",[],[]],
 	["E2389","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -5011,12 +5011,12 @@ I = [
 ["I0828","Boucher, Anne","Boucher, Anne",
 [["Boucher, Anne","Birth Name","","","","Anne","",["Boucher"],"","","",[]]],
 "F","1962",
-"Kerrville, TX",
+"Kerrville, Kerr, TX, USA",
 "",
 "",
 "",
 [
-	["E2377","Birth","1962","1962",399,"Birth of Boucher, Anne","",[],[]],
+	["E2377","Birth","1962","1962",586,"Birth of Boucher, Anne","",[],[]],
 	["E2378","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -5034,12 +5034,12 @@ I = [
 ["I1764","Boucher, Bishop Patrick","Boucher, Bishop Patrick",
 [["Boucher, Bishop Patrick","Birth Name","","","","Bishop Patrick","",["Boucher"],"","","",[]]],
 "M","?",
-"Ellensburg, WA",
+"Ellensburg, WA, USA",
 "",
 "",
 "",
 [
-	["E0869","Birth","","",241,"Birth of Boucher, Bishop Patrick","",[],[]]
+	["E0869","Birth","","",350,"Birth of Boucher, Bishop Patrick","",[],[]]
 ],
 [
 
@@ -5051,6 +5051,29 @@ I = [
 [],
 [],
 [[91,"Birth","Birth","",[]]],
+[]
+],
+["I0831","Boucher, Bridget","Boucher, Bridget",
+[["Boucher, Bridget","Birth Name","","","","Bridget","",["Boucher"],"","","",[]]],
+"F","1965",
+"Andrews, Andrews, TX, USA",
+"",
+"",
+"",
+[
+	["E2386","Birth","1965","1965",40,"Birth of Boucher, Bridget","",[],[]],
+	["E2387","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
+],
+[
+
+],
+"",
+[],
+[],
+[],
+[],
+[110],
+[[87,"Birth","Birth","",[]]],
 []
 ],
 ["I0394","Boucher, Bridget","Boucher, Bridget",
@@ -5079,12 +5102,12 @@ I = [
 ["I0805","Boucher, Bridget","Boucher, Bridget",
 [["Boucher, Bridget","Birth Name","","","","Bridget","",["Boucher"],"","","",[]]],
 "F","?",
-"Andrews, TX",
+"Andrews, Andrews, TX, USA",
 "",
 "",
 "",
 [
-	["E2333","Birth","","",31,"Birth of Boucher, Bridget","",[],[]]
+	["E2333","Birth","","",40,"Birth of Boucher, Bridget","",[],[]]
 ],
 [
 
@@ -5098,16 +5121,15 @@ I = [
 [[84,"Birth","Birth","",[]]],
 []
 ],
-["I0831","Boucher, Bridget","Boucher, Bridget",
-[["Boucher, Bridget","Birth Name","","","","Bridget","",["Boucher"],"","","",[]]],
-"F","1965",
-"Andrews, TX",
+["I1743","Boucher, Catherine","Boucher, Catherine",
+[["Boucher, Catherine","Birth Name","","","","Catherine","",["Boucher"],"","","",[]]],
+"F","?",
+"",
 "",
 "",
 "",
 [
-	["E2386","Birth","1965","1965",31,"Birth of Boucher, Bridget","",[],[]],
-	["E2387","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
+
 ],
 [
 
@@ -5117,21 +5139,21 @@ I = [
 [],
 [],
 [],
-[110],
-[[87,"Birth","Birth","",[]]],
+[119],
+[[101,"Birth","Birth","",[]]],
 []
 ],
 ["I0803","Boucher, Catherine","Boucher, Catherine",
 [["Boucher, Catherine","Birth Name","","","","Catherine","",["Boucher"],"","","",[]]],
 "F","1816",
-"Andrews, TX",
+"Andrews, Andrews, TX, USA",
 "1857",
-"Hinesville, GA",
+"Hinesville, Liberty, GA, USA",
 "41 years",
 [
-	["E2327","Birth","1816","1816",31,"Birth of Boucher, Catherine","",[],[]],
-	["E2328","Death","1857","1857",350,"Death of Boucher, Catherine","",[],[]],
-	["E2329","Burial","1857","1857",787,"Burial of Boucher, Catherine","",[],[]]
+	["E2327","Birth","1816","1816",40,"Birth of Boucher, Catherine","",[],[]],
+	["E2328","Death","1857","1857",504,"Death of Boucher, Catherine","",[],[]],
+	["E2329","Burial","1857","1857",1177,"Burial of Boucher, Catherine","",[],[]]
 ],
 [
 
@@ -5190,28 +5212,6 @@ I = [
 [[89,"Birth","Birth","",[]]],
 []
 ],
-["I1743","Boucher, Catherine","Boucher, Catherine",
-[["Boucher, Catherine","Birth Name","","","","Catherine","",["Boucher"],"","","",[]]],
-"F","?",
-"",
-"",
-"",
-"",
-[
-
-],
-[
-
-],
-"",
-[],
-[],
-[],
-[],
-[119],
-[[101,"Birth","Birth","",[]]],
-[]
-],
 ["I0404","Boucher, Charles","Boucher, Charles",
 [["Boucher, Charles","Birth Name","","","","Charles","",["Boucher"],"","","",[]]],
 "M","?",
@@ -5237,12 +5237,12 @@ I = [
 ["I0902","Boucher, Cynthia Louise","Boucher, Cynthia Louise",
 [["Boucher, Cynthia Louise","Birth Name","","","","Cynthia Louise","",["Boucher"],"","","",[]]],
 "F","1961",
-"Allentown, PA",
+"Allentown, PA, USA",
 "",
 "",
 "",
 [
-	["E2538","Birth","1961-12-05","5 DEC 1961",19,"Birth of Boucher, Cynthia Louise","",[],[]],
+	["E2538","Birth","1961-12-05","5 DEC 1961",28,"Birth of Boucher, Cynthia Louise","",[],[]],
 	["E2539","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -5260,14 +5260,14 @@ I = [
 ["I0801","Boucher, David","Boucher, David",
 [["Boucher, David","Birth Name","","","","David","",["Boucher"],"","","",[]]],
 "M","?",
-"East Liverpool, OH",
+"East Liverpool, OH, USA",
 "?",
-"Fargo, ND",
+"Fargo, ND, USA",
 "unknown",
 [
-	["E2321","Birth","","",230,"Birth of Boucher, David","",[],[]],
-	["E2322","Death","","",257,"Death of Boucher, David","",[],[]],
-	["E2323","Burial","","",724,"Burial of Boucher, David","",[],[]]
+	["E2321","Birth","","",335,"Birth of Boucher, David","",[],[]],
+	["E2322","Death","","",373,"Death of Boucher, David","",[],[]],
+	["E2323","Burial","","",1078,"Burial of Boucher, David","",[],[]]
 ],
 [
 
@@ -5350,12 +5350,12 @@ I = [
 ["I0808","Boucher, Flannan","Boucher, Flannan",
 [["Boucher, Flannan","Birth Name","","","","Flannan","",["Boucher"],"","","",[]]],
 "M","1976",
-"Kerrville, TX",
+"Kerrville, Kerr, TX, USA",
 "",
 "",
 "",
 [
-	["E2339","Birth","1976","1976",399,"Birth of Boucher, Flannan","",[],[]],
+	["E2339","Birth","1976","1976",586,"Birth of Boucher, Flannan","",[],[]],
 	["E2340","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -5373,13 +5373,13 @@ I = [
 ["I0841","Boucher, Fr. Daniel Gabriel","Boucher, Fr. Daniel Gabriel",
 [["Boucher, Fr. Daniel Gabriel","Birth Name","","","","Fr. Daniel Gabriel","",["Boucher"],"","","",[]]],
 "M","?",
-"Summerville, GA",
+"Summerville, Chattooga, GA, USA",
 "?",
-"Emporia, KS",
+"Emporia, Lyon, KS, USA",
 "unknown",
 [
-	["E2411","Birth","","",754,"Birth of Boucher, Fr. Daniel Gabriel","",[],[]],
-	["E2412","Death","","",243,"Death of Boucher, Fr. Daniel Gabriel","",[],[]]
+	["E2411","Birth","","",1120,"Birth of Boucher, Fr. Daniel Gabriel","",[],[]],
+	["E2412","Death","","",354,"Death of Boucher, Fr. Daniel Gabriel","",[],[]]
 ],
 [
 
@@ -5396,12 +5396,12 @@ I = [
 ["I0840","Boucher, Fr. Patrick","Boucher, Fr. Patrick",
 [["Boucher, Fr. Patrick","Birth Name","","","","Fr. Patrick","",["Boucher"],"","","",[]]],
 "M","?",
-"Summerville, GA",
+"Summerville, Chattooga, GA, USA",
 "",
 "",
 "",
 [
-	["E2410","Birth","","",754,"Birth of Boucher, Fr. Patrick","",[],[]]
+	["E2410","Birth","","",1120,"Birth of Boucher, Fr. Patrick","",[],[]]
 ],
 [
 
@@ -5425,7 +5425,7 @@ I = [
 [
 	["E1800","Birth","1896-07-24","24 JUL 1896",-1,"Birth of Boucher, Fr.Lawrence M.","",[],[]],
 	["E1801","Death","1972-05-03","3 MAY 1972",-1,"Death of Boucher, Fr.Lawrence M.","",[],[]],
-	["E1802","Burial","","",703,"Burial of Boucher, Fr.Lawrence M.","",[],[]]
+	["E1802","Burial","","",1051,"Burial of Boucher, Fr.Lawrence M.","",[],[]]
 ],
 [
 
@@ -5483,6 +5483,30 @@ I = [
 [[105,"Birth","Birth","",[]]],
 []
 ],
+["I0096","Boucher, Honora","Boucher, Honora",
+[["Boucher, Honora","Birth Name","","","","Honora","",["Boucher"],"","","",[]]],
+"F","1824",
+"Loveland, Larimer, CO, USA",
+"1895",
+"Ottawa, La Salle, IL, USA",
+"71 years, 1 month, 8 days",
+[
+	["E2641","Birth","1824","1824",680,"Birth of Boucher, Honora","",[],[]],
+	["E2642","Death","1895-02-09","9 FEB 1895",893,"Death of Boucher, Honora","",[],[]],
+	["E2643","Burial","1895-02-00","FEB 1895",657,"Burial of Boucher, Honora","",[],[]]
+],
+[
+
+],
+"",
+[],
+[],
+[],
+[],
+[89],
+[],
+[]
+],
 ["I0387","Boucher, Honora","Boucher, Honora",
 [["Boucher, Honora","Birth Name","","","","Honora","",["Boucher"],"","","",[]]],
 "F","?",
@@ -5505,17 +5529,15 @@ I = [
 [],
 []
 ],
-["I0096","Boucher, Honora","Boucher, Honora",
-[["Boucher, Honora","Birth Name","","","","Honora","",["Boucher"],"","","",[]]],
-"F","1824",
-"Loveland, CO",
-"1895",
-"Ottawa, IL",
-"71 years, 1 month, 8 days",
+["I0377","Boucher, James","Boucher, James",
+[["Boucher, James","Birth Name","","","","James","",["Boucher"],"","","",[]]],
+"M","?",
+"Ottawa, La Salle, IL, USA",
+"",
+"",
+"",
 [
-	["E2641","Birth","1824","1824",461,"Birth of Boucher, Honora","",[],[]],
-	["E2642","Death","1895-02-09","9 FEB 1895",586,"Death of Boucher, Honora","",[],[]],
-	["E2643","Burial","1895-02-00","FEB 1895",447,"Burial of Boucher, Honora","",[],[]]
+	["E1550","Birth","","",893,"Birth of Boucher, James","",[],[]]
 ],
 [
 
@@ -5525,8 +5547,8 @@ I = [
 [],
 [],
 [],
-[89],
-[],
+[85],
+[[103,"Birth","Birth","",[]]],
 []
 ],
 ["I0503","Boucher, James","Boucher, James",
@@ -5551,15 +5573,16 @@ I = [
 [],
 []
 ],
-["I0377","Boucher, James","Boucher, James",
-[["Boucher, James","Birth Name","","","","James","",["Boucher"],"","","",[]]],
-"M","?",
-"Ottawa, IL",
+["I0489","Boucher, John","Boucher, John",
+[["Boucher, John","Birth Name","","","","John","",["Boucher"],"","","",[]]],
+"M","1929",
+"Hastings, NE, USA",
 "",
 "",
 "",
 [
-	["E1550","Birth","","",586,"Birth of Boucher, James","",[],[]]
+	["E1778","Birth","1929","1929",487,"Birth of Boucher, John","",[],[]],
+	["E1779","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
 
@@ -5569,8 +5592,8 @@ I = [
 [],
 [],
 [],
-[85],
-[[103,"Birth","Birth","",[]]],
+[87],
+[[90,"Birth","Birth","",[]]],
 []
 ],
 ["I1760","Boucher, John","Boucher, John",
@@ -5593,29 +5616,6 @@ I = [
 [],
 [86],
 [[92,"Birth","Birth","",[]]],
-[]
-],
-["I0489","Boucher, John","Boucher, John",
-[["Boucher, John","Birth Name","","","","John","",["Boucher"],"","","",[]]],
-"M","1929",
-"Hastings, NE",
-"",
-"",
-"",
-[
-	["E1778","Birth","1929","1929",339,"Birth of Boucher, John","",[],[]],
-	["E1779","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
-],
-[
-
-],
-"",
-[],
-[],
-[],
-[],
-[87],
-[[90,"Birth","Birth","",[]]],
 []
 ],
 ["I0906","Boucher, Kyle Joseph","Boucher, Kyle Joseph",
@@ -5666,12 +5666,12 @@ I = [
 ["I0830","Boucher, Martha","Boucher, Martha",
 [["Boucher, Martha","Birth Name","","","","Martha","",["Boucher"],"","","",[]]],
 "F","1963",
-"Kerrville, TX",
+"Kerrville, Kerr, TX, USA",
 "",
 "",
 "",
 [
-	["E2384","Birth","1963","1963",399,"Birth of Boucher, Martha","",[],[]],
+	["E2384","Birth","1963","1963",586,"Birth of Boucher, Martha","",[],[]],
 	["E2385","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -5730,29 +5730,6 @@ I = [
 [[88,"Birth","Birth","",[]]],
 []
 ],
-["I0829","Boucher, Mary","Boucher, Mary",
-[["Boucher, Mary","Birth Name","","","","Mary","",["Boucher"],"","","",[]]],
-"F","1963",
-"Andrews, TX",
-"",
-"",
-"",
-[
-	["E2379","Birth","1963","1963",31,"Birth of Boucher, Mary","",[],[]],
-	["E2380","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
-],
-[
-
-],
-"",
-[],
-[],
-[],
-[],
-[296],
-[[87,"Birth","Birth","",[]]],
-[]
-],
 ["I1750","Boucher, Mary","Boucher, Mary",
 [["Boucher, Mary","Birth Name","","","","Mary","",["Boucher"],"","","",[]]],
 "F","?",
@@ -5775,17 +5752,40 @@ I = [
 [[93,"Birth","Birth","",[]]],
 []
 ],
+["I0829","Boucher, Mary","Boucher, Mary",
+[["Boucher, Mary","Birth Name","","","","Mary","",["Boucher"],"","","",[]]],
+"F","1963",
+"Andrews, Andrews, TX, USA",
+"",
+"",
+"",
+[
+	["E2379","Birth","1963","1963",40,"Birth of Boucher, Mary","",[],[]],
+	["E2380","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
+],
+[
+
+],
+"",
+[],
+[],
+[],
+[],
+[296],
+[[87,"Birth","Birth","",[]]],
+[]
+],
 ["I0055","Boucher, Mary Cecilia","Boucher, Mary Cecilia",
 [["Boucher, Mary Cecilia","Birth Name","","","","Mary Cecilia","",["Boucher"],"","","",[]]],
 "F","1890",
-"Worthington, MN",
+"Worthington, MN, USA",
 "1945",
-"Worthington, MN",
+"Worthington, MN, USA",
 "55 years, 3 months, 15 days",
 [
-	["E1889","Birth","1890-02-17","17 FEB 1890",843,"Birth of Boucher, Mary Cecilia","",[],[]],
-	["E1890","Death","1945-06-03","3 JUN 1945",843,"Death of Boucher, Mary Cecilia","",[],[]],
-	["E1891","Burial","1945-06-05","5 JUN 1945",843,"Burial of Boucher, Mary Cecilia","",[],[]]
+	["E1889","Birth","1890-02-17","17 FEB 1890",1273,"Birth of Boucher, Mary Cecilia","",[],[]],
+	["E1890","Death","1945-06-03","3 JUN 1945",1273,"Death of Boucher, Mary Cecilia","",[],[]],
+	["E1891","Burial","1945-06-05","5 JUN 1945",1273,"Burial of Boucher, Mary Cecilia","",[],[]]
 ],
 [
 
@@ -5802,12 +5802,12 @@ I = [
 ["I1739","Boucher, Mary Josephine","Boucher, Mary Josephine",
 [["Boucher, Mary Josephine","Birth Name","","","","Mary Josephine","",["Boucher"],"","","",[]]],
 "F","1885",
-"Summerville, GA",
+"Summerville, Chattooga, GA, USA",
 "",
 "",
 "",
 [
-	["E0859","Birth","1885","1885",754,"Birth of Boucher, Mary Josephine","",[],[]]
+	["E0859","Birth","1885","1885",1120,"Birth of Boucher, Mary Josephine","",[],[]]
 ],
 [
 
@@ -5819,98 +5819,6 @@ I = [
 [],
 [],
 [[102,"Birth","Birth","",[]]],
-[]
-],
-["I1783","Boucher, Michael","Boucher, Michael",
-[["Boucher, Michael","Birth Name","","","","Michael","",["Boucher"],"","","",[]]],
-"M","?",
-"",
-"",
-"",
-"",
-[
-	["E0898","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
-],
-[
-
-],
-"",
-[],
-[],
-[],
-[],
-[88],
-[],
-[]
-],
-["I0488","Boucher, Michael","Boucher, Michael",
-[["Boucher, Michael","Birth Name","","","","Michael","",["Boucher"],"","","",[]]],
-"M","1883",
-"Andrews, TX",
-"?",
-"Andrews, TX",
-"unknown",
-[
-	["E1775","Birth","1883","1883",31,"Birth of Boucher, Michael","",[],[]],
-	["E1776","Death","","",31,"Death of Boucher, Michael","",[],[]],
-	["E1777","Burial","","",724,"Burial of Boucher, Michael","",[],[]]
-],
-[
-
-],
-"",
-[],
-[],
-[],
-[],
-[90],
-[[95,"Birth","Birth","",[]]],
-[]
-],
-["I0095","Boucher, Michael","Boucher, Michael",
-[["Boucher, Michael","Birth Name","","","","Michael","",["Boucher"],"","","",[]]],
-"M","1820",
-"Andrews, TX",
-"1859",
-"Beaumont, TX",
-"39 years, 8 days",
-[
-	["E2619","Birth","1820","1820",31,"Birth of Boucher, Michael","",[],[]],
-	["E2620","Death","1859-01-09","9 JAN 1859",64,"Death of Boucher, Michael","",[],[]],
-	["E2621","Burial","1859","1859",447,"Burial of Boucher, Michael","",[],[]]
-],
-[
-
-],
-"",
-[],
-[],
-[],
-[],
-[89],
-[[84,"Birth","Birth","",[]]],
-[]
-],
-["I0810","Boucher, Michael","Boucher, Michael",
-[["Boucher, Michael","Birth Name","","","","Michael","",["Boucher"],"","","",[]]],
-"M","?",
-"Andrews, TX",
-"",
-"",
-"",
-[
-	["E2346","Birth","","",31,"Birth of Boucher, Michael","",[],[]]
-],
-[
-
-],
-"",
-[],
-[],
-[],
-[],
-[],
-[],
 []
 ],
 ["I0388","Boucher, Michael","Boucher, Michael",
@@ -5932,6 +5840,98 @@ I = [
 [],
 [],
 [],
+[],
+[]
+],
+["I0488","Boucher, Michael","Boucher, Michael",
+[["Boucher, Michael","Birth Name","","","","Michael","",["Boucher"],"","","",[]]],
+"M","1883",
+"Andrews, Andrews, TX, USA",
+"?",
+"Andrews, Andrews, TX, USA",
+"unknown",
+[
+	["E1775","Birth","1883","1883",40,"Birth of Boucher, Michael","",[],[]],
+	["E1776","Death","","",40,"Death of Boucher, Michael","",[],[]],
+	["E1777","Burial","","",1078,"Burial of Boucher, Michael","",[],[]]
+],
+[
+
+],
+"",
+[],
+[],
+[],
+[],
+[90],
+[[95,"Birth","Birth","",[]]],
+[]
+],
+["I0810","Boucher, Michael","Boucher, Michael",
+[["Boucher, Michael","Birth Name","","","","Michael","",["Boucher"],"","","",[]]],
+"M","?",
+"Andrews, Andrews, TX, USA",
+"",
+"",
+"",
+[
+	["E2346","Birth","","",40,"Birth of Boucher, Michael","",[],[]]
+],
+[
+
+],
+"",
+[],
+[],
+[],
+[],
+[],
+[],
+[]
+],
+["I0095","Boucher, Michael","Boucher, Michael",
+[["Boucher, Michael","Birth Name","","","","Michael","",["Boucher"],"","","",[]]],
+"M","1820",
+"Andrews, Andrews, TX, USA",
+"1859",
+"Beaumont, Jefferson, TX, USA",
+"39 years, 8 days",
+[
+	["E2619","Birth","1820","1820",40,"Birth of Boucher, Michael","",[],[]],
+	["E2620","Death","1859-01-09","9 JAN 1859",85,"Death of Boucher, Michael","",[],[]],
+	["E2621","Burial","1859","1859",657,"Burial of Boucher, Michael","",[],[]]
+],
+[
+
+],
+"",
+[],
+[],
+[],
+[],
+[89],
+[[84,"Birth","Birth","",[]]],
+[]
+],
+["I1783","Boucher, Michael","Boucher, Michael",
+[["Boucher, Michael","Birth Name","","","","Michael","",["Boucher"],"","","",[]]],
+"M","?",
+"",
+"",
+"",
+"",
+[
+	["E0898","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
+],
+[
+
+],
+"",
+[],
+[],
+[],
+[],
+[88],
 [],
 []
 ],
@@ -5960,12 +5960,12 @@ I = [
 ["I0375","Boucher, Michael J.","Boucher, Michael J.",
 [["Boucher, Michael J.","Birth Name","","","","Michael J.","",["Boucher"],"","","",[]]],
 "M","1883",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E1547","Birth","1883-05-10","10 MAY 1883",586,"Birth of Boucher, Michael J.","",[],[]]
+	["E1547","Birth","1883-05-10","10 MAY 1883",893,"Birth of Boucher, Michael J.","",[],[]]
 ],
 [
 
@@ -5982,12 +5982,12 @@ I = [
 ["I1759","Boucher, Michael Shannon","Boucher, Michael Shannon",
 [["Boucher, Michael Shannon","Birth Name","","","","Michael Shannon","",["Boucher"],"","","",[]]],
 "M","?",
-"Willimantic, CT",
+"Willimantic, Windham, CT, USA",
 "",
 "",
 "",
 [
-	["E0866","Birth","","",829,"Birth of Boucher, Michael Shannon","",[],[]]
+	["E0866","Birth","","",1255,"Birth of Boucher, Michael Shannon","",[],[]]
 ],
 [
 
@@ -6026,12 +6026,12 @@ I = [
 ["I0809","Boucher, Miread","Boucher, Miread",
 [["Boucher, Miread","Birth Name","","","","Miread","",["Boucher"],"","","",[]]],
 "F","1973",
-"Kerrville, TX",
+"Kerrville, Kerr, TX, USA",
 "",
 "",
 "",
 [
-	["E2341","Birth","1973","1973",399,"Birth of Boucher, Miread","",[],[]],
+	["E2341","Birth","1973","1973",586,"Birth of Boucher, Miread","",[],[]],
 	["E2342","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -6071,12 +6071,12 @@ I = [
 ["I0374","Boucher, Nora A.","Boucher, Nora A.",
 [["Boucher, Nora A.","Birth Name","","","","Nora A.","",["Boucher"],"","","",[]]],
 "F","1879",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "1939",
 "",
 "60 years, 28 days",
 [
-	["E1545","Birth","1879-07-18","18 JUL 1879",586,"Birth of Boucher, Nora A.","",[],[]],
+	["E1545","Birth","1879-07-18","18 JUL 1879",893,"Birth of Boucher, Nora A.","",[],[]],
 	["E1546","Death","1939-08-15","15 AUG 1939",-1,"Death of Boucher, Nora A.","",[],[]]
 ],
 [
@@ -6094,12 +6094,12 @@ I = [
 ["I0833","Boucher, Norene","Boucher, Norene",
 [["Boucher, Norene","Birth Name","","","","Norene","",["Boucher"],"","","",[]]],
 "F","1970",
-"Andrews, TX",
+"Andrews, Andrews, TX, USA",
 "",
 "",
 "",
 [
-	["E2390","Birth","1970","1970",31,"Birth of Boucher, Norene","",[],[]],
+	["E2390","Birth","1970","1970",40,"Birth of Boucher, Norene","",[],[]],
 	["E2391","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -6114,39 +6114,17 @@ I = [
 [[87,"Birth","Birth","",[]]],
 []
 ],
-["I1745","Boucher, Patrick","Boucher, Patrick",
-[["Boucher, Patrick","Birth Name","","","","Patrick","",["Boucher"],"","","",[]]],
-"M","?",
-"Summerville, GA",
-"",
-"",
-"",
-[
-	["E0862","Birth","","",754,"Birth of Boucher, Patrick","",[],[]]
-],
-[
-
-],
-"",
-[],
-[],
-[],
-[],
-[93],
-[[101,"Birth","Birth","",[]]],
-[]
-],
 ["I0804","Boucher, Patrick","Boucher, Patrick",
 [["Boucher, Patrick","Birth Name","","","","Patrick","",["Boucher"],"","","",[]]],
 "M","?",
-"Andrews, TX",
+"Andrews, Andrews, TX, USA",
 "?",
-"Port St. Lucie, Port St, Lucie, FL",
+"Port St, Lucie, FL, USA",
 "unknown",
 [
-	["E2330","Birth","","",31,"Birth of Boucher, Patrick","",[],[]],
-	["E2331","Death","","",627,"Death of Boucher, Patrick","",[],[]],
-	["E2332","Burial","","",135,"Burial of Boucher, Patrick","",[],[]]
+	["E2330","Birth","","",40,"Birth of Boucher, Patrick","",[],[]],
+	["E2331","Death","","",949,"Death of Boucher, Patrick","",[],[]],
+	["E2332","Burial","","",183,"Burial of Boucher, Patrick","",[],[]]
 ],
 [
 
@@ -6160,16 +6138,38 @@ I = [
 [[84,"Birth","Birth","",[]]],
 []
 ],
+["I1745","Boucher, Patrick","Boucher, Patrick",
+[["Boucher, Patrick","Birth Name","","","","Patrick","",["Boucher"],"","","",[]]],
+"M","?",
+"Summerville, Chattooga, GA, USA",
+"",
+"",
+"",
+[
+	["E0862","Birth","","",1120,"Birth of Boucher, Patrick","",[],[]]
+],
+[
+
+],
+"",
+[],
+[],
+[],
+[],
+[93],
+[[101,"Birth","Birth","",[]]],
+[]
+],
 ["I0842","Boucher, Prof. William Joseph","Boucher, Prof. William Joseph",
 [["Boucher, Prof. William Joseph","Birth Name","","","","Prof. William Joseph","",["Boucher"],"","","",[]]],
 "M","1886",
-"Summerville, GA",
+"Summerville, Chattooga, GA, USA",
 "1977",
-"Emporia, KS",
+"Emporia, Lyon, KS, USA",
 "91 years, 25 days",
 [
-	["E2413","Birth","1886","1886",754,"Birth of Boucher, Prof. William Joseph","",[],[]],
-	["E2414","Death","1977-01-26","26 JAN 1977",243,"Death of Boucher, Prof. William Joseph","",[],[]]
+	["E2413","Birth","1886","1886",1120,"Birth of Boucher, Prof. William Joseph","",[],[]],
+	["E2414","Death","1977-01-26","26 JAN 1977",354,"Death of Boucher, Prof. William Joseph","",[],[]]
 ],
 [
 
@@ -6209,12 +6209,12 @@ I = [
 ["I0814","Boucher, Rose Mary","Boucher, Rose Mary",
 [["Boucher, Rose Mary","Birth Name","","","","Rose Mary","",["Boucher"],"","","",[]]],
 "F","1926",
-"Philadelphia, PA",
+"Philadelphia, PA, USA",
 "",
 "",
 "",
 [
-	["E2356","Birth","1926-09-15","15 SEP 1926",608,"Birth of Boucher, Rose Mary","",[],[]],
+	["E2356","Birth","1926-09-15","15 SEP 1926",923,"Birth of Boucher, Rose Mary","",[],[]],
 	["E2357","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -6232,14 +6232,14 @@ I = [
 ["I0487","Boucher, Sean","Boucher, Sean",
 [["Boucher, Sean","Birth Name","","","","Sean","",["Boucher"],"","","",[]]],
 "M","1837",
-"Andrews, TX",
+"Andrews, Andrews, TX, USA",
 "?",
-"Andrews, TX",
+"Andrews, Andrews, TX, USA",
 "unknown",
 [
-	["E1772","Birth","1837","1837",31,"Birth of Boucher, Sean","",[],[]],
-	["E1773","Death","","",31,"Death of Boucher, Sean","",[],[]],
-	["E1774","Burial","","",724,"Burial of Boucher, Sean","",[],[]]
+	["E1772","Birth","1837","1837",40,"Birth of Boucher, Sean","",[],[]],
+	["E1773","Death","","",40,"Death of Boucher, Sean","",[],[]],
+	["E1774","Burial","","",1078,"Burial of Boucher, Sean","",[],[]]
 ],
 [
 
@@ -6279,14 +6279,14 @@ I = [
 ["I0813","Boucher, Stephen Francis","Boucher, Stephen Francis",
 [["Boucher, Stephen Francis","Birth Name","","","","Stephen Francis","",["Boucher"],"","","",[]]],
 "M","?",
-"Summerville, GA",
+"Summerville, Chattooga, GA, USA",
 "1975",
-"Summerville, GA",
+"Summerville, Chattooga, GA, USA",
 "unknown",
 [
-	["E2353","Birth","","",754,"Birth of Boucher, Stephen Francis","",[],[]],
-	["E2354","Death","1975-08-24","24 AUG 1975",754,"Death of Boucher, Stephen Francis","",[],[]],
-	["E2355","Burial","1975-08-00","AUG 1975",488,"Burial of Boucher, Stephen Francis","",[],[]]
+	["E2353","Birth","","",1120,"Birth of Boucher, Stephen Francis","",[],[]],
+	["E2354","Death","1975-08-24","24 AUG 1975",1120,"Death of Boucher, Stephen Francis","",[],[]],
+	["E2355","Burial","1975-08-00","AUG 1975",728,"Burial of Boucher, Stephen Francis","",[],[]]
 ],
 [
 
@@ -6303,12 +6303,12 @@ I = [
 ["I0904","Boucher, Steven Joseph","Boucher, Steven Joseph",
 [["Boucher, Steven Joseph","Birth Name","","","","Steven Joseph","",["Boucher"],"","","",[]]],
 "M","1963",
-"Vallejo, CA",
+"Vallejo, Solano, CA, USA",
 "",
 "",
 "",
 [
-	["E2540","Birth","1963-07-17","17 JUL 1963",791,"Birth of Boucher, Steven Joseph","",[],[]],
+	["E2540","Birth","1963-07-17","17 JUL 1963",1187,"Birth of Boucher, Steven Joseph","",[],[]],
 	["E2541","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -6345,17 +6345,39 @@ I = [
 [],
 []
 ],
+["I0386","Boucher, Thomas","Boucher, Thomas",
+[["Boucher, Thomas","Birth Name","","","","Thomas","",["Boucher"],"","","",[]]],
+"M","?",
+"",
+"",
+"",
+"",
+[
+
+],
+[
+
+],
+"",
+[],
+[],
+[],
+[],
+[],
+[],
+[]
+],
 ["I0486","Boucher, Thomas","Boucher, Thomas",
 [["Boucher, Thomas","Birth Name","","","","Thomas","",["Boucher"],"","","",[]]],
 "M","?",
-"Andrews, TX",
+"Andrews, Andrews, TX, USA",
 "?",
-"Andrews, TX",
+"Andrews, Andrews, TX, USA",
 "unknown",
 [
-	["E1769","Birth","","",31,"Birth of Boucher, Thomas","",[],[]],
-	["E1770","Death","","",31,"Death of Boucher, Thomas","",[],[]],
-	["E1771","Burial","","",724,"Burial of Boucher, Thomas","",[],[]]
+	["E1769","Birth","","",40,"Birth of Boucher, Thomas","",[],[]],
+	["E1770","Death","","",40,"Death of Boucher, Thomas","",[],[]],
+	["E1771","Burial","","",1078,"Burial of Boucher, Thomas","",[],[]]
 ],
 [
 
@@ -6367,28 +6389,6 @@ I = [
 [],
 [98],
 [[100,"Birth","Birth","",[]]],
-[]
-],
-["I1749","Boucher, Thomas","Boucher, Thomas",
-[["Boucher, Thomas","Birth Name","","","","Thomas","",["Boucher"],"","","",[]]],
-"M","?",
-"",
-"",
-"",
-"",
-[
-
-],
-[
-
-],
-"",
-[],
-[],
-[],
-[],
-[],
-[[93,"Birth","Birth","",[]]],
 []
 ],
 ["I0380","Boucher, Thomas","Boucher, Thomas",
@@ -6414,7 +6414,7 @@ I = [
 [[89,"Birth","Birth","",[]]],
 []
 ],
-["I0386","Boucher, Thomas","Boucher, Thomas",
+["I1749","Boucher, Thomas","Boucher, Thomas",
 [["Boucher, Thomas","Birth Name","","","","Thomas","",["Boucher"],"","","",[]]],
 "M","?",
 "",
@@ -6433,18 +6433,18 @@ I = [
 [],
 [],
 [],
-[],
+[[93,"Birth","Birth","",[]]],
 []
 ],
 ["I0376","Boucher, Thomas W.","Boucher, Thomas W.",
 [["Boucher, Thomas W.","Birth Name","","","","Thomas W.","",["Boucher"],"","","",[]]],
 "M","1888",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "1942",
 "",
 "53 years, 3 months, 27 days",
 [
-	["E1548","Birth","1888-12-06","6 DEC 1888",586,"Birth of Boucher, Thomas W.","",[],[]],
+	["E1548","Birth","1888-12-06","6 DEC 1888",893,"Birth of Boucher, Thomas W.","",[],[]],
 	["E1549","Death","1942-04-02","2 APR 1942",-1,"Death of Boucher, Thomas W.","",[],[]]
 ],
 [
@@ -6504,15 +6504,17 @@ I = [
 [[88,"Birth","Birth","",[]]],
 []
 ],
-["I1748","Boucher, William","Boucher, William",
+["I0806","Boucher, William","Boucher, William",
 [["Boucher, William","Birth Name","","","","William","",["Boucher"],"","","",[]]],
 "M","?",
-"",
-"",
-"",
-"",
+"Andrews, Andrews, TX, USA",
+"?",
+"Andrews, Andrews, TX, USA",
+"unknown",
 [
-
+	["E2334","Birth","","",40,"Birth of Boucher, William","",[],[]],
+	["E2335","Death","","",40,"Death of Boucher, William","",[],[]],
+	["E2336","Burial","","",1078,"Burial of Boucher, William","",[],[]]
 ],
 [
 
@@ -6522,21 +6524,21 @@ I = [
 [],
 [],
 [],
-[],
-[[93,"Birth","Birth","",[]]],
+[100],
+[[84,"Birth","Birth","",[]]],
 []
 ],
 ["I0812","Boucher, William","Boucher, William",
 [["Boucher, William","Birth Name","","","","William","",["Boucher"],"","","",[]]],
 "M","1851",
-"Summerville, GA",
+"Summerville, Chattooga, GA, USA",
 "1952",
-"Summerville, GA",
+"Summerville, Chattooga, GA, USA",
 "101 years, 5 months, 24 days",
 [
-	["E2350","Birth","1851-02-07","7 FEB 1851",754,"Birth of Boucher, William","",[],[]],
-	["E2351","Death","1952-08-02","2 AUG 1952",754,"Death of Boucher, William","",[],[]],
-	["E2352","Burial","1952-08-03","3 AUG 1952",488,"Burial of Boucher, William","",[],[]]
+	["E2350","Birth","1851-02-07","7 FEB 1851",1120,"Birth of Boucher, William","",[],[]],
+	["E2351","Death","1952-08-02","2 AUG 1952",1120,"Death of Boucher, William","",[],[]],
+	["E2352","Burial","1952-08-03","3 AUG 1952",728,"Burial of Boucher, William","",[],[]]
 ],
 [
 
@@ -6548,30 +6550,6 @@ I = [
 [],
 [102],
 [[101,"Birth","Birth","",[]]],
-[]
-],
-["I0811","Boucher, William","Boucher, William",
-[["Boucher, William","Birth Name","","","","William","",["Boucher"],"","","",[]]],
-"M","?",
-"Andrews, TX",
-"?",
-"Summerville, GA",
-"unknown",
-[
-	["E2347","Birth","","",31,"Birth of Boucher, William","",[],[]],
-	["E2348","Death","","",754,"Death of Boucher, William","",[],[]],
-	["E2349","Burial","","",488,"Burial of Boucher, William","",[],[]]
-],
-[
-
-],
-"",
-[],
-[],
-[],
-[],
-[101],
-[[100,"Birth","Birth","",[]]],
 []
 ],
 ["I0393","Boucher, William","Boucher, William",
@@ -6597,17 +6575,15 @@ I = [
 [],
 []
 ],
-["I0806","Boucher, William","Boucher, William",
+["I1748","Boucher, William","Boucher, William",
 [["Boucher, William","Birth Name","","","","William","",["Boucher"],"","","",[]]],
 "M","?",
-"Andrews, TX",
-"?",
-"Andrews, TX",
-"unknown",
+"",
+"",
+"",
+"",
 [
-	["E2334","Birth","","",31,"Birth of Boucher, William","",[],[]],
-	["E2335","Death","","",31,"Death of Boucher, William","",[],[]],
-	["E2336","Burial","","",724,"Burial of Boucher, William","",[],[]]
+
 ],
 [
 
@@ -6617,21 +6593,45 @@ I = [
 [],
 [],
 [],
-[100],
-[[84,"Birth","Birth","",[]]],
+[],
+[[93,"Birth","Birth","",[]]],
+[]
+],
+["I0811","Boucher, William","Boucher, William",
+[["Boucher, William","Birth Name","","","","William","",["Boucher"],"","","",[]]],
+"M","?",
+"Andrews, Andrews, TX, USA",
+"?",
+"Summerville, Chattooga, GA, USA",
+"unknown",
+[
+	["E2347","Birth","","",40,"Birth of Boucher, William","",[],[]],
+	["E2348","Death","","",1120,"Death of Boucher, William","",[],[]],
+	["E2349","Burial","","",728,"Burial of Boucher, William","",[],[]]
+],
+[
+
+],
+"",
+[],
+[],
+[],
+[],
+[101],
+[[100,"Birth","Birth","",[]]],
 []
 ],
 ["I0051","Boucher, William Bernard","Boucher, William Bernard",
 [["Boucher, William Bernard","Birth Name","","","","William Bernard","",["Boucher"],"","","",[]]],
 "M","1854",
-"Union, SC",
+"Union, SC, USA",
 "1928",
-"Worthington, MN",
+"Worthington, MN, USA",
 "74 years, 11 months, 2 days",
 [
-	["E1811","Birth","1854-01-25","25 JAN 1854",786,"Birth of Boucher, William Bernard","",[],[]],
-	["E1812","Death","1928-12-27","27 DEC 1928",843,"Death of Boucher, William Bernard","",[],[]],
-	["E1813","Burial","1928-12-29","29 DEC 1928",843,"Burial of Boucher, William Bernard","",[],[]]
+	["E1811","Birth","1854-01-25","25 JAN 1854",1175,"Birth of Boucher, William Bernard","",[],[]],
+	["E1812","Death","1928-12-27","27 DEC 1928",1273,"Death of Boucher, William Bernard","",[],[]],
+	["E1813","Burial","1928-12-29","29 DEC 1928",1273,"Burial of Boucher, William Bernard","",[],[]]
 ],
 [
 
@@ -6670,12 +6670,58 @@ I = [
 ["I0843","Boucher, William Donel","Boucher, William Donel",
 [["Boucher, William Donel","Birth Name","","","","William Donel","",["Boucher"],"","","",[]]],
 "M","?",
-"Cornelia, GA",
+"Cornelia, Habersham, GA, USA",
 "",
 "",
 "",
 [
-	["E2415","Birth","","",181,"Birth of Boucher, William Donel","",[],[]]
+	["E2415","Birth","","",255,"Birth of Boucher, William Donel","",[],[]]
+],
+[
+
+],
+"",
+[],
+[],
+[],
+[],
+[],
+[],
+[]
+],
+["I0497","Boucher, William J.","Boucher, William J.",
+[["Boucher, William J.","Birth Name","","","","William J.","",["Boucher"],"","","",[]]],
+"M","1941",
+"Newberry, SC, USA",
+"1994",
+"Moberly, MO, USA",
+"53 years, 9 months, 20 days",
+[
+	["E1790","Birth","1941-01-11","11 JAN 1941",847,"Birth of Boucher, William J.","",[],[]],
+	["E1791","Death","1994-10-31","31 OCT 1994",781,"Death of Boucher, William J.","",[],[]],
+	["E1792","Burial","1994-11-03","3 NOV 1994",683,"Burial of Boucher, William J.","",[],[]]
+],
+[
+
+],
+"",
+[],
+[],
+[],
+[],
+[],
+[[104,"Birth","Birth","",[]]],
+[]
+],
+["I0998","Boucher, William J.","Boucher, William J.",
+[["Boucher, William J.","Birth Name","","","","William J.","",["Boucher"],"","","",[]]],
+"M","1971",
+"Hutchinson, Reno, KS, USA",
+"",
+"",
+"",
+[
+	["E2736","Birth","1971","1971",527,"Birth of Boucher, William J.","",[],[]]
 ],
 [
 
@@ -6709,52 +6755,6 @@ I = [
 [],
 [104],
 [[85,"Birth","Birth","",[]]],
-[]
-],
-["I0998","Boucher, William J.","Boucher, William J.",
-[["Boucher, William J.","Birth Name","","","","William J.","",["Boucher"],"","","",[]]],
-"M","1971",
-"Hutchinson, KS",
-"",
-"",
-"",
-[
-	["E2736","Birth","1971","1971",364,"Birth of Boucher, William J.","",[],[]]
-],
-[
-
-],
-"",
-[],
-[],
-[],
-[],
-[],
-[],
-[]
-],
-["I0497","Boucher, William J.","Boucher, William J.",
-[["Boucher, William J.","Birth Name","","","","William J.","",["Boucher"],"","","",[]]],
-"M","1941",
-"Newberry, SC",
-"1994",
-"Moberly, MO",
-"53 years, 9 months, 20 days",
-[
-	["E1790","Birth","1941-01-11","11 JAN 1941",559,"Birth of Boucher, William J.","",[],[]],
-	["E1791","Death","1994-10-31","31 OCT 1994",520,"Death of Boucher, William J.","",[],[]],
-	["E1792","Burial","1994-11-03","3 NOV 1994",462,"Burial of Boucher, William J.","",[],[]]
-],
-[
-
-],
-"",
-[],
-[],
-[],
-[],
-[],
-[[104,"Birth","Birth","",[]]],
 []
 ],
 ["I1761","Boucher, woman","Boucher, woman",
@@ -7095,11 +7095,11 @@ I = [
 "F","1939",
 "",
 "1985",
-"Iron Mountain, MI",
+"Iron Mountain, MI, USA",
 "45 years, 4 months, 27 days",
 [
 	["E1638","Birth","1939-08-05","5 AUG 1939",-1,"Birth of Briggs, Joyce Inez","",[],[]],
-	["E1639","Death","1985","1985",370,"Death of Briggs, Joyce Inez","",[],[]]
+	["E1639","Death","1985","1985",543,"Death of Briggs, Joyce Inez","",[],[]]
 ],
 [
 
@@ -7116,12 +7116,12 @@ I = [
 ["I0863","Brock, Celeste Ellen","Brock, Celeste Ellen",
 [["Brock, Celeste Ellen","Birth Name","","","","Celeste Ellen","",["Brock"],"","","",[]]],
 "F","1971",
-"Statesboro, GA",
+"Statesboro, Bulloch, GA, USA",
 "",
 "",
 "",
 [
-	["E2453","Birth","1971-11-10","10 NOV 1971",742,"Birth of Brock, Celeste Ellen","",[],[]],
+	["E2453","Birth","1971-11-10","10 NOV 1971",1103,"Birth of Brock, Celeste Ellen","",[],[]],
 	["E2454","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -7139,12 +7139,12 @@ I = [
 ["I0862","Brock, Lance Edward","Brock, Lance Edward",
 [["Brock, Lance Edward","Birth Name","","","","Lance Edward","",["Brock"],"","","",[]]],
 "M","1969",
-"Chico, CA",
+"Chico, Butte, CA, USA",
 "",
 "",
 "",
 [
-	["E2451","Birth","1969-11-13","13 NOV 1969",147,"Birth of Brock, Lance Edward","",[],[]],
+	["E2451","Birth","1969-11-13","13 NOV 1969",202,"Birth of Brock, Lance Edward","",[],[]],
 	["E2452","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -7185,14 +7185,14 @@ I = [
 ["I0959","Brooks, Elizabeth\"Betty\"","Brooks, Elizabeth\"Betty\"",
 [["Brooks, Elizabeth\"Betty\"","Birth Name","","","","Elizabeth\"Betty\"","",["Brooks"],"","","",[]]],
 "F","?",
-"Durham, NC",
+"Durham, NC, USA",
 "?",
-"Dickinson, ND",
+"Dickinson, ND, USA",
 "unknown",
 [
-	["E2638","Birth","","",227,"Birth of Brooks, Elizabeth&#8220;Betty&#8221;","",[],[]],
-	["E2639","Death","","",212,"Death of Brooks, Elizabeth&#8220;Betty&#8221;","",[],[]],
-	["E2640","Burial","","",668,"Burial of Brooks, Elizabeth&#8220;Betty&#8221;","",[],[]]
+	["E2638","Birth","","",328,"Birth of Brooks, Elizabeth&#8220;Betty&#8221;","",[],[]],
+	["E2639","Death","","",308,"Death of Brooks, Elizabeth&#8220;Betty&#8221;","",[],[]],
+	["E2640","Burial","","",1001,"Burial of Brooks, Elizabeth&#8220;Betty&#8221;","",[],[]]
 ],
 [
 
@@ -7319,13 +7319,13 @@ I = [
 ["I0957","Brooks, Major Marquis II","Brooks, Major Marquis II",
 [["Brooks, Major Marquis II","Birth Name","","","","Major Marquis II","",["Brooks"],"","","",[]]],
 "M","1705",
-"Bennettsville, SC",
+"Bennettsville, SC, USA",
 "1755",
-"Duluth, MN",
+"Duluth, MN, USA",
 "50 years, 4 months, 9 days",
 [
-	["E2633","Birth","1705","1705",71,"Birth of Brooks, Major Marquis II","",[],[]],
-	["E2634","Death","1755-05-10","10 MAY 1755",221,"Death of Brooks, Major Marquis II","",[],[]]
+	["E2633","Birth","1705","1705",95,"Birth of Brooks, Major Marquis II","",[],[]],
+	["E2634","Death","1755-05-10","10 MAY 1755",322,"Death of Brooks, Major Marquis II","",[],[]]
 ],
 [
 
@@ -7342,13 +7342,13 @@ I = [
 ["I0956","Brooks, Marquis I","Brooks, Marquis I",
 [["Brooks, Marquis I","Birth Name","","","","Marquis I","",["Brooks"],"","","",[]]],
 "M","1675",
-"Tampa, FL",
+"Tampa, Hillsborough, FL, USA",
 "1741",
-"Martinsville, VA",
+"Martinsville, VA, USA",
 "66 years",
 [
-	["E2631","Birth","1675","1675",762,"Birth of Brooks, Marquis I","",[],[]],
-	["E2632","Death","1741","1741",487,"Death of Brooks, Marquis I","",[],[]]
+	["E2631","Birth","1675","1675",1134,"Birth of Brooks, Marquis I","",[],[]],
+	["E2632","Death","1741","1741",726,"Death of Brooks, Marquis I","",[],[]]
 ],
 [
 
@@ -7454,13 +7454,13 @@ I = [
 ["I1092","Brooks, William Waller","Brooks, William Waller",
 [["Brooks, William Waller","Birth Name","","","","William Waller","",["Brooks"],"","","",[]]],
 "M","1727",
-"Martinsville, VA",
+"Martinsville, VA, USA",
 "1773",
-"Duluth, MN",
+"Duluth, MN, USA",
 "46 years, 8 months, 1 day",
 [
-	["E0162","Birth","1727-01-18","18 JAN 1727",487,"Birth of Brooks, William Waller","",[],[]],
-	["E0163","Death","1773-09-19","19 SEP 1773",221,"Death of Brooks, William Waller","",[],[]]
+	["E0162","Birth","1727-01-18","18 JAN 1727",726,"Birth of Brooks, William Waller","",[],[]],
+	["E0163","Death","1773-09-19","19 SEP 1773",322,"Death of Brooks, William Waller","",[],[]]
 ],
 [
 
@@ -7589,10 +7589,10 @@ I = [
 "M","?",
 "",
 "?",
-"Guayama, PR",
+"Guayama, PR, USA",
 "",
 [
-	["E1888","Death","","",325,"Death of Burns, Jonathan","",[],[]]
+	["E1888","Death","","",466,"Death of Burns, Jonathan","",[],[]]
 ],
 [
 
@@ -7965,12 +7965,12 @@ I = [
 ["I0745","Carpenter, Sarah","Carpenter, Sarah",
 [["Carpenter, Sarah","Birth Name","","","","Sarah","",["Carpenter"],"","","",[]]],
 "F","?",
-"Brevard, NC",
+"Brevard, NC, USA",
 "",
 "",
 "",
 [
-	["E2225","Birth","about 1633","ABT 1633",100,"Birth of Carpenter, Sarah","",[],[]]
+	["E2225","Birth","about 1633","ABT 1633",135,"Birth of Carpenter, Sarah","",[],[]]
 ],
 [
 
@@ -7987,14 +7987,14 @@ I = [
 ["I1119","Carr, Zelpha Josephine","Carr, Zelpha Josephine",
 [["Carr, Zelpha Josephine","Birth Name","","","","Zelpha Josephine","",["Carr"],"","","",[]]],
 "F","1858",
-"Brownwood, TX",
+"Brownwood, Harris, TX, USA",
 "1895",
-"Beckley, WV",
+"Beckley, WV, USA",
 "36 years, 1 month, 8 days",
 [
-	["E0203","Birth","1858-12-31","31 DEC 1858",107,"Birth of Carr, Zelpha Josephine","",[],[]],
-	["E0204","Death","1895-02-08","8 FEB 1895",66,"Death of Carr, Zelpha Josephine","",[],[]],
-	["E0205","Burial","1895-02-10","10 FEB 1895",751,"Burial of Carr, Zelpha Josephine","",[],[]]
+	["E0203","Birth","1858-12-31","31 DEC 1858",144,"Birth of Carr, Zelpha Josephine","",[],[]],
+	["E0204","Death","1895-02-08","8 FEB 1895",87,"Death of Carr, Zelpha Josephine","",[],[]],
+	["E0205","Burial","1895-02-10","10 FEB 1895",1115,"Burial of Carr, Zelpha Josephine","",[],[]]
 ],
 [
 
@@ -8011,14 +8011,14 @@ I = [
 ["I0607","Carroll, Grace","Carroll, Grace",
 [["Carroll, Grace","Birth Name","","","","Grace","",["Carroll"],"","","",[]]],
 "F","1791",
-"City of The Dalles, OR",
+"City of The Dalles, OR, USA",
 "1863",
-"Marshall, MN",
+"Marshall, MN, USA",
 "71 years, 1 month, 12 days",
 [
-	["E2000","Birth","1791-12-20","20 DEC 1791",150,"Birth of Carroll, Grace","",[],[]],
-	["E2001","Death","1863-02-01","1 FEB 1863",482,"Death of Carroll, Grace","",[],[]],
-	["E2002","Burial","1863-02-03","3 FEB 1863",484,"Burial of Carroll, Grace","",[],[]]
+	["E2000","Birth","1791-12-20","20 DEC 1791",207,"Birth of Carroll, Grace","",[],[]],
+	["E2001","Death","1863-02-01","1 FEB 1863",721,"Death of Carroll, Grace","",[],[]],
+	["E2002","Burial","1863-02-03","3 FEB 1863",723,"Burial of Carroll, Grace","",[],[]]
 ],
 [
 
@@ -8035,13 +8035,13 @@ I = [
 ["I0763","Carroll, Jacob A.","Carroll, Jacob A.",
 [["Carroll, Jacob A.","Birth Name","","","","Jacob A.","",["Carroll"],"","","",[]]],
 "M","1705",
-"Albany, GA",
+"Albany, Dougherty, GA, USA",
 "1763",
-"Savannah, GA",
+"Savannah, Chatham, GA, USA",
 "58 years",
 [
-	["E2264","Birth","1705","1705",8,"Birth of Carroll, Jacob A.","",[],[]],
-	["E2265","Death","1763","1763",695,"Death of Carroll, Jacob A.","",[],[]]
+	["E2264","Birth","1705","1705",15,"Birth of Carroll, Jacob A.","",[],[]],
+	["E2265","Death","1763","1763",1038,"Death of Carroll, Jacob A.","",[],[]]
 ],
 [
 
@@ -8058,13 +8058,13 @@ I = [
 ["I0605","Carroll, Matthias Sr.","Carroll, Matthias Sr.",
 [["Carroll, Matthias Sr.","Birth Name","","","","Matthias Sr.","",["Carroll"],"","","",[]]],
 "M","1742",
-"Lock Haven, PA",
+"Lock Haven, PA, USA",
 "1817",
-"Merced, CA",
+"Merced, Merced, CA, USA",
 "75 years",
 [
-	["E1998","Birth","1742","1742",454,"Birth of Carroll, Matthias Sr.","",[],[]],
-	["E1999","Death","1817","1817",501,"Death of Carroll, Matthias Sr.","",[],[]]
+	["E1998","Birth","1742","1742",669,"Birth of Carroll, Matthias Sr.","",[],[]],
+	["E1999","Death","1817","1817",751,"Death of Carroll, Matthias Sr.","",[],[]]
 ],
 [
 
@@ -8126,12 +8126,12 @@ I = [
 ["I0888","Castro, ???","Castro, ???",
 [["Castro, ???","Birth Name","","","","???","",["Castro"],"","","",[]]],
 "F","?",
-"Davenport, IA",
+"Davenport, Scott, IA, USA",
 "",
 "",
 "",
 [
-	["E2508","Birth","","",199,"Birth of Castro, ???","",[],[]]
+	["E2508","Birth","","",282,"Birth of Castro, ???","",[],[]]
 ],
 [
 
@@ -8215,14 +8215,14 @@ I = [
 ["I0522","Christiansen, Christopher","Christiansen, Christopher",
 [["Christiansen, Christopher","Birth Name","","","","Christopher","",["Christiansen"],"","","",[]]],
 "M","1530",
-"Hilo, HI",
+"Hilo, HI, USA",
 "1588",
-"Elizabeth City, NC",
+"Elizabeth City, NC, USA",
 "58 years",
 [
-	["E1836","Birth","1530","1530",348,"Birth of Christiansen, Christopher","",[],[]],
-	["E1837","Death","1588","1588",239,"Death of Christiansen, Christopher","",[],[]],
-	["E1838","Burial","","",348,"Burial of Christiansen, Christopher","",[],[]]
+	["E1836","Birth","1530","1530",502,"Birth of Christiansen, Christopher","",[],[]],
+	["E1837","Death","1588","1588",347,"Death of Christiansen, Christopher","",[],[]],
+	["E1838","Burial","","",502,"Burial of Christiansen, Christopher","",[],[]]
 ],
 [
 
@@ -8239,14 +8239,14 @@ I = [
 ["I0525","Christiansen, Edward","Christiansen, Edward",
 [["Christiansen, Edward","Birth Name","","","","Edward","",["Christiansen"],"","","",[]]],
 "M","?",
-"Corvallis, OR",
+"Corvallis, OR, USA",
 "1614",
-"Safford, AZ",
+"Safford, Graham, AZ, USA",
 "about 31 years",
 [
-	["E1842","Birth","about 1583","ABT 1583",186,"Birth of Christiansen, Edward","",[],[]],
-	["E1843","Death","1614","1614",672,"Death of Christiansen, Edward","",[],[]],
-	["E1844","Burial","","",348,"Burial of Christiansen, Edward","",[],[]]
+	["E1842","Birth","about 1583","ABT 1583",261,"Birth of Christiansen, Edward","",[],[]],
+	["E1843","Death","1614","1614",1006,"Death of Christiansen, Edward","",[],[]],
+	["E1844","Burial","","",502,"Burial of Christiansen, Edward","",[],[]]
 ],
 [
 
@@ -8263,13 +8263,13 @@ I = [
 ["I0526","Christiansen, Edward","Christiansen, Edward",
 [["Christiansen, Edward","Birth Name","","","","Edward","",["Christiansen"],"","","",[]]],
 "M","1607",
-"Amsterdam, NY",
+"Amsterdam, Montgomery, NY, USA",
 "1684",
-"Lake County, IL",
+"Lake County, IL, USA",
 "77 years",
 [
-	["E1845","Birth","1607","1607",27,"Birth of Christiansen, Edward","",[],[]],
-	["E1846","Death","1684","1684",420,"Death of Christiansen, Edward","",[],[]]
+	["E1845","Birth","1607","1607",36,"Birth of Christiansen, Edward","",[],[]],
+	["E1846","Death","1684","1684",617,"Death of Christiansen, Edward","",[],[]]
 ],
 [
 
@@ -8308,13 +8308,13 @@ I = [
 ["I0679","Christiansen, Hannah","Christiansen, Hannah",
 [["Christiansen, Hannah","Birth Name","","","","Hannah","",["Christiansen"],"","","",[]]],
 "F","1688",
-"Lake County, IL",
+"Lake County, IL, USA",
 "1742",
-"Red Bluff, CA",
+"Red Bluff, Tehama, CA, USA",
 "54 years, 4 months, 22 days",
 [
-	["E2127","Birth","1688-02-04","4 FEB 1688",420,"Birth of Christiansen, Hannah","",[],[]],
-	["E2128","Death","1742-06-26","26 JUN 1742",645,"Death of Christiansen, Hannah","",[],[]]
+	["E2127","Birth","1688-02-04","4 FEB 1688",617,"Birth of Christiansen, Hannah","",[],[]],
+	["E2128","Death","1742-06-26","26 JUN 1742",974,"Death of Christiansen, Hannah","",[],[]]
 ],
 [
 
@@ -8326,6 +8326,29 @@ I = [
 [],
 [596],
 [[133,"Birth","Birth","",[]]],
+[]
+],
+["I0748","Christiansen, John","Christiansen, John",
+[["Christiansen, John","Birth Name","","","","John","",["Christiansen"],"","","",[]]],
+"M","1662",
+"Plainview, Houston, TX, USA",
+"1727",
+"Poplar Bluff, MO, USA",
+"64 years, 11 months",
+[
+	["E2230","Birth","1662-02-01","1 FEB 1662",935,"Birth of Christiansen, John","",[],[]],
+	["E2231","Death","1727","1727",947,"Death of Christiansen, John","",[],[]]
+],
+[
+
+],
+"",
+[],
+[],
+[],
+[],
+[132],
+[[135,"Birth","Birth","",[]]],
 []
 ],
 ["I1029","Christiansen, John","Christiansen, John",
@@ -8351,62 +8374,16 @@ I = [
 [[397,"Birth","Birth","",[]]],
 []
 ],
-["I0748","Christiansen, John","Christiansen, John",
-[["Christiansen, John","Birth Name","","","","John","",["Christiansen"],"","","",[]]],
-"M","1662",
-"Plainview, TX",
-"1727",
-"Poplar Bluff, MO",
-"64 years, 11 months",
-[
-	["E2230","Birth","1662-02-01","1 FEB 1662",617,"Birth of Christiansen, John","",[],[]],
-	["E2231","Death","1727","1727",625,"Death of Christiansen, John","",[],[]]
-],
-[
-
-],
-"",
-[],
-[],
-[],
-[],
-[132],
-[[135,"Birth","Birth","",[]]],
-[]
-],
-["I0677","Christiansen, Joseph","Christiansen, Joseph",
-[["Christiansen, Joseph","Birth Name","","","","Joseph","",["Christiansen"],"","","",[]]],
-"M","1655",
-"Plainview, TX",
-"1726",
-"Lake County, IL",
-"70 years, 10 months",
-[
-	["E2124","Birth","1655-03-01","1 MAR 1655",617,"Birth of Christiansen, Joseph","",[],[]],
-	["E2125","Death","1726-01-00","JAN 1726",420,"Death of Christiansen, Joseph","",[],[]]
-],
-[
-
-],
-"",
-[],
-[],
-[],
-[],
-[133],
-[[130,"Birth","Birth","",[]]],
-[]
-],
 ["I0540","Christiansen, Joseph","Christiansen, Joseph",
 [["Christiansen, Joseph","Birth Name","","","","Joseph","",["Christiansen"],"","","",[]]],
 "M","1703",
-"Poplar Bluff, MO",
+"Poplar Bluff, MO, USA",
 "?",
-"Chillicothe, OH",
+"Chillicothe, OH, USA",
 "unknown",
 [
-	["E1870","Birth","1703","1703",625,"Birth of Christiansen, Joseph","",[],[]],
-	["E1871","Death","","",148,"Death of Christiansen, Joseph","",[],[]]
+	["E1870","Birth","1703","1703",947,"Birth of Christiansen, Joseph","",[],[]],
+	["E1871","Death","","",203,"Death of Christiansen, Joseph","",[],[]]
 ],
 [
 
@@ -8420,15 +8397,38 @@ I = [
 [[136,"Birth","Birth","",[]]],
 []
 ],
+["I0677","Christiansen, Joseph","Christiansen, Joseph",
+[["Christiansen, Joseph","Birth Name","","","","Joseph","",["Christiansen"],"","","",[]]],
+"M","1655",
+"Plainview, Houston, TX, USA",
+"1726",
+"Lake County, IL, USA",
+"70 years, 10 months",
+[
+	["E2124","Birth","1655-03-01","1 MAR 1655",935,"Birth of Christiansen, Joseph","",[],[]],
+	["E2125","Death","1726-01-00","JAN 1726",617,"Death of Christiansen, Joseph","",[],[]]
+],
+[
+
+],
+"",
+[],
+[],
+[],
+[],
+[133],
+[[130,"Birth","Birth","",[]]],
+[]
+],
 ["I0681","Christiansen, Martha","Christiansen, Martha",
 [["Christiansen, Martha","Birth Name","","","","Martha","",["Christiansen"],"","","",[]]],
 "F","1693",
-"Poplar Bluff, MO",
+"Poplar Bluff, MO, USA",
 "1766",
 "",
 "72 years, 11 months, 23 days",
 [
-	["E2134","Birth","1693-04-25","25 APR 1693",625,"Birth of Christiansen, Martha","",[],[]],
+	["E2134","Birth","1693-04-25","25 APR 1693",947,"Birth of Christiansen, Martha","",[],[]],
 	["E2135","Death","1766-04-18","18 APR 1766",-1,"Death of Christiansen, Martha","",[],[]]
 ],
 [
@@ -8446,13 +8446,13 @@ I = [
 ["I0529","Christiansen, Nathaniel","Christiansen, Nathaniel",
 [["Christiansen, Nathaniel","Birth Name","","","","Nathaniel","",["Christiansen"],"","","",[]]],
 "M","1642",
-"Plainview, TX",
+"Plainview, Houston, TX, USA",
 "1713",
-"Poplar Bluff, MO",
+"Poplar Bluff, MO, USA",
 "71 years, 6 months, 6 days",
 [
-	["E1851","Birth","1642-05-15","15 MAY 1642",617,"Birth of Christiansen, Nathaniel","",[],[]],
-	["E1852","Death","1713-11-21","21 NOV 1713",625,"Death of Christiansen, Nathaniel","",[],[]]
+	["E1851","Birth","1642-05-15","15 MAY 1642",935,"Birth of Christiansen, Nathaniel","",[],[]],
+	["E1852","Death","1713-11-21","21 NOV 1713",947,"Death of Christiansen, Nathaniel","",[],[]]
 ],
 [
 
@@ -8469,13 +8469,13 @@ I = [
 ["I0530","Christiansen, Samuel","Christiansen, Samuel",
 [["Christiansen, Samuel","Birth Name","","","","Samuel","",["Christiansen"],"","","",[]]],
 "M","1668",
-"Plainview, TX",
+"Plainview, Houston, TX, USA",
 "1754",
-"Poplar Bluff, MO",
+"Poplar Bluff, MO, USA",
 "86 years, 5 months, 24 days",
 [
-	["E1856","Birth","1668","1668",617,"Birth of Christiansen, Samuel","",[],[]],
-	["E1857","Death","1754-06-25","25 JUN 1754",625,"Death of Christiansen, Samuel","",[],[]]
+	["E1856","Birth","1668","1668",935,"Birth of Christiansen, Samuel","",[],[]],
+	["E1857","Death","1754-06-25","25 JUN 1754",947,"Death of Christiansen, Samuel","",[],[]]
 ],
 [
 
@@ -8560,10 +8560,10 @@ I = [
 "F","?",
 "",
 "1757",
-"Ashtabula, OH",
+"Ashtabula, OH, USA",
 "",
 [
-	["E2257","Death","1757","1757",41,"Death of Cole, Susannah","",[],[]]
+	["E2257","Death","1757","1757",54,"Death of Cole, Susannah","",[],[]]
 ],
 [
 
@@ -8602,12 +8602,12 @@ I = [
 ["I0884","Coleman, Marilyn","Coleman, Marilyn",
 [["Coleman, Marilyn","Birth Name","","","","Marilyn","",["Coleman"],"","","",[]]],
 "F","1926",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E2501","Birth","1926","1926",586,"Birth of Coleman, Marilyn","",[],[]],
+	["E2501","Birth","1926","1926",893,"Birth of Coleman, Marilyn","",[],[]],
 	["E2502","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -8625,14 +8625,14 @@ I = [
 ["I0252","Coleman, Mary","Coleman, Mary",
 [["Coleman, Mary","Birth Name","","","","Mary","",["Coleman"],"","","",[]]],
 "F","1812",
-"Cincinnati, OH",
+"Cincinnati, OH, USA",
 "?",
-"Norfolk, NE",
+"Norfolk, NE, USA",
 "unknown",
 [
-	["E1294","Birth","1812","1812",149,"Birth of Coleman, Mary","",[],[]],
-	["E1295","Death","","",564,"Death of Coleman, Mary","",[],[]],
-	["E1296","Burial","","",220,"Burial of Coleman, Mary","",[],[]]
+	["E1294","Birth","1812","1812",205,"Birth of Coleman, Mary","",[],[]],
+	["E1295","Death","","",858,"Death of Coleman, Mary","",[],[]],
+	["E1296","Burial","","",320,"Burial of Coleman, Mary","",[],[]]
 ],
 [
 
@@ -8737,12 +8737,12 @@ I = [
 ["I1017","Copeland, Mary","Copeland, Mary",
 [["Copeland, Mary","Birth Name","","","","Mary","",["Copeland"],"","","",[]]],
 "F","?",
-"Hammond, LA",
+"Hammond, Tangipahoa, LA, USA",
 "",
 "",
 "",
 [
-	["E0036","Birth","about 1196","ABT 1196",330,"Birth of Copeland, Mary","",[],[]]
+	["E0036","Birth","about 1196","ABT 1196",473,"Birth of Copeland, Mary","",[],[]]
 ],
 [
 
@@ -8784,10 +8784,10 @@ I = [
 "F","?",
 "",
 "?",
-"Anderson, SC",
+"Anderson, SC, USA",
 "",
 [
-	["E1315","Death","","",30,"Death of Couture, Honora","",[],[]]
+	["E1315","Death","","",39,"Death of Couture, Honora","",[],[]]
 ],
 [
 
@@ -8872,11 +8872,11 @@ I = [
 "F","?",
 "",
 "?",
-"Greenville, SC",
+"Greenville, SC, USA",
 "less than about 59 years",
 [
 	["E0266","Birth","about 1610","ABT 1610",-1,"Birth of Crawford, Margaret","",[],[]],
-	["E0267","Death","before 1669","BEF 1669",321,"Death of Crawford, Margaret","",[],[]]
+	["E0267","Death","before 1669","BEF 1669",461,"Death of Crawford, Margaret","",[],[]]
 ],
 [
 
@@ -8893,14 +8893,14 @@ I = [
 ["I1425","Cross, Alta M.","Cross, Alta M.",
 [["Cross, Alta M.","Birth Name","","","","Alta M.","",["Cross"],"","","",[]]],
 "F","1896",
-"Lake Havasu City, AZ",
+"Lake Havasu City, Mohave, AZ, USA",
 "1988",
-"Montrose, CO",
+"Montrose, Montrose, CO, USA",
 "91 years, 10 months, 3 days",
 [
-	["E0572","Birth","1896-07-13","13 JUL 1896",421,"Birth of Cross, Alta M.","",[],[]],
-	["E0573","Death","1988-05-16","16 MAY 1988",527,"Death of Cross, Alta M.","",[],[]],
-	["E0574","Burial","1988-05-18","18 MAY 1988",809,"Burial of Cross, Alta M.","",[],[]]
+	["E0572","Birth","1896-07-13","13 JUL 1896",618,"Birth of Cross, Alta M.","",[],[]],
+	["E0573","Death","1988-05-16","16 MAY 1988",797,"Death of Cross, Alta M.","",[],[]],
+	["E0574","Burial","1988-05-18","18 MAY 1988",1218,"Burial of Cross, Alta M.","",[],[]]
 ],
 [
 
@@ -8917,12 +8917,12 @@ I = [
 ["I1429","Cross, Evelyn","Cross, Evelyn",
 [["Cross, Evelyn","Birth Name","","","","Evelyn","",["Cross"],"","","",[]]],
 "F","?",
-"Racine, WI",
+"Racine, WI, USA",
 "",
 "",
 "",
 [
-	["E0578","Birth","","",642,"Birth of Cross, Evelyn","",[],[]]
+	["E0578","Birth","","",970,"Birth of Cross, Evelyn","",[],[]]
 ],
 [
 
@@ -8939,14 +8939,14 @@ I = [
 ["I1432","Cross, Gertrude","Cross, Gertrude",
 [["Cross, Gertrude","Birth Name","","","","Gertrude","",["Cross"],"","","",[]]],
 "F","1911",
-"Williamsport, PA",
+"Williamsport, PA, USA",
 "1992",
-"Grand Forks, ND",
+"Grand Forks, ND, USA",
 "81 years, 5 months, 2 days",
 [
-	["E0583","Birth","1911-02-14","14 FEB 1911",828,"Birth of Cross, Gertrude","",[],[]],
-	["E0584","Death","1992-07-16","16 JUL 1992",307,"Death of Cross, Gertrude","",[],[]],
-	["E0585","Burial","1992-07-18","18 JUL 1992",307,"Burial of Cross, Gertrude","",[],[]]
+	["E0583","Birth","1911-02-14","14 FEB 1911",1254,"Birth of Cross, Gertrude","",[],[]],
+	["E0584","Death","1992-07-16","16 JUL 1992",443,"Death of Cross, Gertrude","",[],[]],
+	["E0585","Burial","1992-07-18","18 JUL 1992",443,"Burial of Cross, Gertrude","",[],[]]
 ],
 [
 
@@ -8963,12 +8963,12 @@ I = [
 ["I1431","Cross, John","Cross, John",
 [["Cross, John","Birth Name","","","","John","",["Cross"],"","","",[]]],
 "M","?",
-"Racine, WI",
+"Racine, WI, USA",
 "",
 "",
 "",
 [
-	["E0582","Birth","","",642,"Birth of Cross, John","",[],[]]
+	["E0582","Birth","","",970,"Birth of Cross, John","",[],[]]
 ],
 [
 
@@ -8985,12 +8985,12 @@ I = [
 ["I1428","Cross, Loraine (Fanny)","Cross, Loraine (Fanny)",
 [["Cross, Loraine (Fanny)","Birth Name","","","","Loraine (Fanny)","",["Cross"],"","","",[]]],
 "F","?",
-"Racine, WI",
+"Racine, WI, USA",
 "",
 "",
 "",
 [
-	["E0577","Birth","","",642,"Birth of Cross, Loraine (Fanny)","",[],[]]
+	["E0577","Birth","","",970,"Birth of Cross, Loraine (Fanny)","",[],[]]
 ],
 [
 
@@ -9007,12 +9007,12 @@ I = [
 ["I1430","Cross, Louise","Cross, Louise",
 [["Cross, Louise","Birth Name","","","","Louise","",["Cross"],"","","",[]]],
 "F","?",
-"Racine, WI",
+"Racine, WI, USA",
 "",
 "",
 "",
 [
-	["E0581","Birth","","",642,"Birth of Cross, Louise","",[],[]]
+	["E0581","Birth","","",970,"Birth of Cross, Louise","",[],[]]
 ],
 [
 
@@ -9029,12 +9029,12 @@ I = [
 ["I1427","Cross, Ralph (Scotty)","Cross, Ralph (Scotty)",
 [["Cross, Ralph (Scotty)","Birth Name","","","","Ralph (Scotty)","",["Cross"],"","","",[]]],
 "M","?",
-"Racine, WI",
+"Racine, WI, USA",
 "",
 "",
 "",
 [
-	["E0576","Birth","","",642,"Birth of Cross, Ralph (Scotty)","",[],[]]
+	["E0576","Birth","","",970,"Birth of Cross, Ralph (Scotty)","",[],[]]
 ],
 [
 
@@ -9051,12 +9051,12 @@ I = [
 ["I1424","Cross, Thomas","Cross, Thomas",
 [["Cross, Thomas","Birth Name","","","","Thomas","",["Cross"],"","","",[]]],
 "M","?",
-"Detroit, MI",
+"Detroit, MI, USA",
 "",
 "",
 "",
 [
-	["E0571","Birth","","",211,"Birth of Cross, Thomas","",[],[]]
+	["E0571","Birth","","",306,"Birth of Cross, Thomas","",[],[]]
 ],
 [
 
@@ -9187,12 +9187,12 @@ I = [
 ["I0425","Cruz, Gayle Joan","Cruz, Gayle Joan",
 [["Cruz, Gayle Joan","Birth Name","","","","Gayle Joan","",["Cruz"],"","","",[]]],
 "F","1975",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E1623","Birth","1975-09-17","17 SEP 1975",586,"Birth of Cruz, Gayle Joan","",[],[]],
+	["E1623","Birth","1975-09-17","17 SEP 1975",893,"Birth of Cruz, Gayle Joan","",[],[]],
 	["E1624","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -9325,12 +9325,12 @@ I = [
 ["I0485","Cruz, Jesse Christopher","Cruz, Jesse Christopher",
 [["Cruz, Jesse Christopher","Birth Name","","","","Jesse Christopher","",["Cruz"],"","","",[]]],
 "M","1990",
-"Youngstown, OH",
+"Youngstown, OH, USA",
 "",
 "",
 "",
 [
-	["E1767","Birth","1990-12-29","29 DEC 1990",849,"Birth of Cruz, Jesse Christopher","",[],[]],
+	["E1767","Birth","1990-12-29","29 DEC 1990",1283,"Birth of Cruz, Jesse Christopher","",[],[]],
 	["E1768","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -9348,12 +9348,12 @@ I = [
 ["I0424","Cruz, Jill Suzanne","Cruz, Jill Suzanne",
 [["Cruz, Jill Suzanne","Birth Name","","","","Jill Suzanne","",["Cruz"],"","","",[]]],
 "F","1973",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E1621","Birth","1973-11-19","19 NOV 1973",586,"Birth of Cruz, Jill Suzanne","",[],[]],
+	["E1621","Birth","1973-11-19","19 NOV 1973",893,"Birth of Cruz, Jill Suzanne","",[],[]],
 	["E1622","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -9371,12 +9371,12 @@ I = [
 ["I0423","Cruz, Joella Lynn","Cruz, Joella Lynn",
 [["Cruz, Joella Lynn","Birth Name","","","","Joella Lynn","",["Cruz"],"","","",[]]],
 "F","1971",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E1619","Birth","1971-06-28","28 JUN 1971",586,"Birth of Cruz, Joella Lynn","",[],[]],
+	["E1619","Birth","1971-06-28","28 JUN 1971",893,"Birth of Cruz, Joella Lynn","",[],[]],
 	["E1620","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -9394,12 +9394,12 @@ I = [
 ["I0426","Cruz, Joy Leanne","Cruz, Joy Leanne",
 [["Cruz, Joy Leanne","Birth Name","","","","Joy Leanne","",["Cruz"],"","","",[]]],
 "F","1978",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E1625","Birth","1978-03-14","14 MAR 1978",586,"Birth of Cruz, Joy Leanne","",[],[]],
+	["E1625","Birth","1978-03-14","14 MAR 1978",893,"Birth of Cruz, Joy Leanne","",[],[]],
 	["E1626","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -9738,14 +9738,14 @@ I = [
 ["I0469","Cunningham, Peter Sr.","Cunningham, Peter Sr.",
 [["Cunningham, Peter Sr.","Birth Name","","","","Peter Sr.","",["Cunningham"],"","","",[]]],
 "M","?",
-"Ocean City, NJ",
+"Ocean City, NJ, USA",
 "1832",
-"Marquette, MI",
+"Marquette, MI, USA",
 "unknown",
 [
-	["E1726","Birth","","",571,"Birth of Cunningham, Peter Sr.","",[],[]],
-	["E1727","Death","1832-05-00","MAY 1832",481,"Death of Cunningham, Peter Sr.","",[],[]],
-	["E1728","Burial","1832-05-00","MAY 1832",723,"Burial of Cunningham, Peter Sr.","",[],[]]
+	["E1726","Birth","","",868,"Birth of Cunningham, Peter Sr.","",[],[]],
+	["E1727","Death","1832-05-00","MAY 1832",717,"Death of Cunningham, Peter Sr.","",[],[]],
+	["E1728","Burial","1832-05-00","MAY 1832",1077,"Burial of Cunningham, Peter Sr.","",[],[]]
 ],
 [
 
@@ -9762,14 +9762,14 @@ I = [
 ["I0464","Cunningham, Sally Sarah","Cunningham, Sally Sarah",
 [["Cunningham, Sally Sarah","Birth Name","","","","Sally Sarah","",["Cunningham"],"","","",[]]],
 "F","1805",
-"Canon City, CO",
+"Canon City, CO, USA",
 "1867",
-"San Diego, CA",
+"San Diego, San Diego, CA, USA",
 "61 years, 4 months, 24 days",
 [
-	["E1714","Birth","1805-09-25","25 SEP 1805",124,"Birth of Cunningham, Sally Sarah","",[],[]],
-	["E1715","Death","1867-02-19","19 FEB 1867",681,"Death of Cunningham, Sally Sarah","",[],[]],
-	["E1716","Burial","","",326,"Burial of Cunningham, Sally Sarah","",[],[]]
+	["E1714","Birth","1805-09-25","25 SEP 1805",169,"Birth of Cunningham, Sally Sarah","",[],[]],
+	["E1715","Death","1867-02-19","19 FEB 1867",1016,"Death of Cunningham, Sally Sarah","",[],[]],
+	["E1716","Burial","","",467,"Burial of Cunningham, Sally Sarah","",[],[]]
 ],
 [
 
@@ -9786,14 +9786,14 @@ I = [
 ["I0467","Cunningham, William Philip","Cunningham, William Philip",
 [["Cunningham, William Philip","Birth Name","","","","William Philip","",["Cunningham"],"","","",[]]],
 "M","1765",
-"Woodward, OK",
+"Woodward, OK, USA",
 "1871",
-"Morristown, TN",
+"Morristown, TN, USA",
 "106 years, 23 days",
 [
-	["E1722","Birth","1765-04-05","5 APR 1765",840,"Birth of Cunningham, William Philip","",[],[]],
-	["E1723","Death","1871-04-28","28 APR 1871",532,"Death of Cunningham, William Philip","",[],[]],
-	["E1724","Burial","1871-04-29","29 APR 1871",96,"Burial of Cunningham, William Philip","",[],[]]
+	["E1722","Birth","1765-04-05","5 APR 1765",1269,"Birth of Cunningham, William Philip","",[],[]],
+	["E1723","Death","1871-04-28","28 APR 1871",806,"Death of Cunningham, William Philip","",[],[]],
+	["E1724","Burial","1871-04-29","29 APR 1871",129,"Burial of Cunningham, William Philip","",[],[]]
 ],
 [
 
@@ -9854,12 +9854,12 @@ I = [
 ["I1150","Curtis, Margaret","Curtis, Margaret",
 [["Curtis, Margaret","Birth Name","","","","Margaret","",["Curtis"],"","","",[]]],
 "F","?",
-"Phoenix, AZ",
+"Phoenix, Maricopa, AZ, USA",
 "",
 "",
 "",
 [
-	["E0251","Birth","about 1478","ABT 1478",611,"Birth of Curtis, Margaret","",[],[]]
+	["E0251","Birth","about 1478","ABT 1478",926,"Birth of Curtis, Margaret","",[],[]]
 ],
 [
 
@@ -9920,12 +9920,12 @@ I = [
 ["I0973","Daniels, Phoebe","Daniels, Phoebe",
 [["Daniels, Phoebe","Birth Name","","","","Phoebe","",["Daniels"],"","","",[]]],
 "F","?",
-"Bogalusa, LA",
+"Bogalusa, Washington, LA, USA",
 "",
 "",
 "",
 [
-	["E2682","Birth","","",88,"Birth of Daniels, Phoebe","",[],[]]
+	["E2682","Birth","","",116,"Birth of Daniels, Phoebe","",[],[]]
 ],
 [
 
@@ -10034,12 +10034,12 @@ I = [
 "F","1762",
 "",
 "1845",
-"Keene, NH",
+"Keene, NH, USA",
 "83 years, 1 month, 25 days",
 [
 	["E1885","Birth","1762-09-06","6 SEP 1762",-1,"Birth of Davis, Sabra","",[],[]],
-	["E1886","Death","1845-11-01","1 NOV 1845",394,"Death of Davis, Sabra","",[],[]],
-	["E1887","Burial","","",394,"Burial of Davis, Sabra","",[],[]]
+	["E1886","Death","1845-11-01","1 NOV 1845",579,"Death of Davis, Sabra","",[],[]],
+	["E1887","Burial","","",579,"Burial of Davis, Sabra","",[],[]]
 ],
 [
 
@@ -10146,11 +10146,11 @@ I = [
 "M","?",
 "",
 "?",
-"Rolla, MO",
+"Rolla, MO, USA",
 "",
 [
-	["E2724","Death","","",666,"Death of Delgado","",[],[]],
-	["E2725","Burial","","",666,"Burial of Delgado","",[],[]]
+	["E2724","Death","","",999,"Death of Delgado","",[],[]],
+	["E2725","Burial","","",999,"Burial of Delgado","",[],[]]
 ],
 [
 
@@ -10167,12 +10167,12 @@ I = [
 ["I1666","Delgado, Catherine","Delgado, Catherine",
 [["Delgado, Catherine","Birth Name","","","","Catherine","",["Delgado"],"","","",[]]],
 "F","?",
-"Waterloo-Cedar Falls, IA",
+"Waterloo-Cedar Falls, IA, USA",
 "",
 "",
 "",
 [
-	["E0773","Birth","","",814,"Birth of Delgado, Catherine","",[],[]]
+	["E0773","Birth","","",1226,"Birth of Delgado, Catherine","",[],[]]
 ],
 [
 
@@ -10189,13 +10189,13 @@ I = [
 ["I0995","Delgado, Mary Ann","Delgado, Mary Ann",
 [["Delgado, Mary Ann","Birth Name","","","","Mary Ann","",["Delgado"],"","","",[]]],
 "F","1825",
-"Madera, CA",
+"Madera, Madera, CA, USA",
 "?",
-"London, KY",
+"London, Laurel, KY, USA",
 "unknown",
 [
-	["E2732","Birth","1825","1825",467,"Birth of Delgado, Mary Ann","",[],[]],
-	["E2733","Death","","",456,"Death of Delgado, Mary Ann","",[],[]]
+	["E2732","Birth","1825","1825",692,"Birth of Delgado, Mary Ann","",[],[]],
+	["E2733","Death","","",673,"Death of Delgado, Mary Ann","",[],[]]
 ],
 [
 
@@ -10207,28 +10207,6 @@ I = [
 [],
 [636],
 [[167,"Birth","Birth","",[]]],
-[]
-],
-["I1072","Demers, ??","Demers, ??",
-[["Demers, ??","Birth Name","","","","??","",["Demers"],"","","",[]]],
-"M","?",
-"",
-"",
-"",
-"",
-[
-
-],
-[
-
-],
-"",
-[],
-[],
-[],
-[],
-[168],
-[],
 []
 ],
 ["I1059","Demers, ??","Demers, ??",
@@ -10250,6 +10228,28 @@ I = [
 [],
 [],
 [],
+[],
+[]
+],
+["I1072","Demers, ??","Demers, ??",
+[["Demers, ??","Birth Name","","","","??","",["Demers"],"","","",[]]],
+"M","?",
+"",
+"",
+"",
+"",
+[
+
+],
+[
+
+],
+"",
+[],
+[],
+[],
+[],
+[168],
 [],
 []
 ],
@@ -10280,10 +10280,10 @@ I = [
 "F","?",
 "",
 "1932",
-"Summerville, GA",
+"Summerville, Chattooga, GA, USA",
 "",
 [
-	["E0863","Death","1932-12-03","3 DEC 1932",754,"Death of Dennis, Susan","",[],[]]
+	["E0863","Death","1932-12-03","3 DEC 1932",1120,"Death of Dennis, Susan","",[],[]]
 ],
 [
 
@@ -10388,14 +10388,14 @@ I = [
 ["I0970","Diaz, Frances","Diaz, Frances",
 [["Diaz, Frances","Birth Name","","","","Frances","",["Diaz"],"","","",[]]],
 "F","1761",
-"Columbia, MO",
+"Columbia, MO, USA",
 "1851",
-"Jackson, MI",
+"Jackson, MI, USA",
 "90 years, 1 month, 30 days",
 [
-	["E2674","Birth","1761-08-07","7 AUG 1761",166,"Birth of Diaz, Frances","",[],[]],
-	["E2675","Death","1851-10-06","6 OCT 1851",372,"Death of Diaz, Frances","",[],[]],
-	["E2676","Burial","1851-10-08","8 OCT 1851",372,"Burial of Diaz, Frances","",[],[]]
+	["E2674","Birth","1761-08-07","7 AUG 1761",238,"Birth of Diaz, Frances","",[],[]],
+	["E2675","Death","1851-10-06","6 OCT 1851",547,"Death of Diaz, Frances","",[],[]],
+	["E2676","Burial","1851-10-08","8 OCT 1851",547,"Burial of Diaz, Frances","",[],[]]
 ],
 [
 
@@ -10434,14 +10434,14 @@ I = [
 ["I1900","Diaz, James","Diaz, James",
 [["Diaz, James","Birth Name","","","","James","",["Diaz"],"","","",[]]],
 "M","1763",
-"Jamestowna, NY",
+"Jamestowna, NY, USA",
 "?",
-"Toledo, OH",
+"Toledo, OH, USA",
 "unknown",
 [
-	["E1020","Birth","1763-04-15","15 APR 1763",379,"Birth of Diaz, James","",[],[]],
-	["E1021","Death","","",772,"Death of Diaz, James","",[],[]],
-	["E1022","Burial","","",835,"Burial of Diaz, James","",[],[]]
+	["E1020","Birth","1763-04-15","15 APR 1763",554,"Birth of Diaz, James","",[],[]],
+	["E1021","Death","","",1154,"Death of Diaz, James","",[],[]],
+	["E1022","Burial","","",1261,"Burial of Diaz, James","",[],[]]
 ],
 [
 
@@ -10453,6 +10453,28 @@ I = [
 [],
 [170],
 [[690,"Birth","Birth","",[]]],
+[]
+],
+["I1207","Diaz, John","Diaz, John",
+[["Diaz, John","Birth Name","","","","John","",["Diaz"],"","","",[]]],
+"M","?",
+"",
+"1631",
+"Redding, Shasta, CA, USA",
+"",
+[
+	["E0310","Death","1631-02-01","1 FEB 1631",976,"Death of Diaz, John","",[],[]]
+],
+[
+
+],
+"",
+[],
+[],
+[],
+[],
+[],
+[[173,"Birth","Birth","",[]]],
 []
 ],
 ["I1210","Diaz, John","Diaz, John",
@@ -10477,37 +10499,15 @@ I = [
 [[171,"Birth","Birth","",[]]],
 []
 ],
-["I1207","Diaz, John","Diaz, John",
-[["Diaz, John","Birth Name","","","","John","",["Diaz"],"","","",[]]],
-"M","?",
-"",
-"1631",
-"Redding, CA",
-"",
-[
-	["E0310","Death","1631-02-01","1 FEB 1631",647,"Death of Diaz, John","",[],[]]
-],
-[
-
-],
-"",
-[],
-[],
-[],
-[],
-[],
-[[173,"Birth","Birth","",[]]],
-[]
-],
 ["I1916","Diaz, Mary Polly","Diaz, Mary Polly",
 [["Diaz, Mary Polly","Birth Name","","","","Mary Polly","",["Diaz"],"","","",[]]],
 "F","?",
-"York, PA",
+"York, PA, USA",
 "1822",
 "",
 "unknown",
 [
-	["E1040","Birth","","",848,"Birth of Diaz, Mary Polly","",[],[]],
+	["E1040","Birth","","",1282,"Birth of Diaz, Mary Polly","",[],[]],
 	["E1041","Death","1822","1822",-1,"Death of Diaz, Mary Polly","",[],[]]
 ],
 [
@@ -10569,13 +10569,13 @@ I = [
 ["I0984","Diaz, William","Diaz, William",
 [["Diaz, William","Birth Name","","","","William","",["Diaz"],"","","",[]]],
 "M","?",
-"Gaffney, SC",
+"Gaffney, SC, USA",
 "1700",
-"Coldwater, MI",
+"Coldwater, MI, USA",
 "about 52 years, 8 months, 15 days",
 [
-	["E2701","Birth","about 1648","ABT 1648",290,"Birth of Diaz, William","",[],[]],
-	["E2702","Death","1700-09-16","16 SEP 1700",163,"Death of Diaz, William","",[],[]]
+	["E2701","Birth","about 1648","ABT 1648",421,"Birth of Diaz, William","",[],[]],
+	["E2702","Death","1700-09-16","16 SEP 1700",231,"Death of Diaz, William","",[],[]]
 ],
 [
 
@@ -10592,13 +10592,13 @@ I = [
 ["I1201","Diaz, William (Rev.)","Diaz, William (Rev.)",
 [["Diaz, William (Rev.)","Birth Name","","","","William (Rev.)","",["Diaz"],"","","",[]]],
 "M","?",
-"Kennewick, WA",
+"Kennewick, WA, USA",
 "?",
-"McAlester, OK",
+"McAlester, OK, USA",
 "about 57 years, 9 months, 11 days",
 [
-	["E0308","Birth","about 1530","ABT 1530",397,"Birth of Diaz, William (Rev.)","",[],[]],
-	["E0309","Death","about 1587-10-12","ABT 12 OCT 1587",493,"Death of Diaz, William (Rev.)","",[],[]]
+	["E0308","Birth","about 1530","ABT 1530",582,"Birth of Diaz, William (Rev.)","",[],[]],
+	["E0309","Death","about 1587-10-12","ABT 12 OCT 1587",736,"Death of Diaz, William (Rev.)","",[],[]]
 ],
 [
 
@@ -10660,12 +10660,12 @@ I = [
 ["I1946","Dixon, Thomas","Dixon, Thomas",
 [["Dixon, Thomas","Birth Name","","","","Thomas","",["Dixon"],"","","",[]]],
 "M","?",
-"Hanover, PA",
+"Hanover, PA, USA",
 "",
 "",
 "",
 [
-	["E1064","Birth","about 1671","ABT 1671",333,"Birth of Dixon, Thomas","",[],[]]
+	["E1064","Birth","about 1671","ABT 1671",477,"Birth of Dixon, Thomas","",[],[]]
 ],
 [
 
@@ -10704,12 +10704,12 @@ I = [
 ["I0889","Domínguez, George","Domínguez, George",
 [["Domínguez, George","Birth Name","","","","George","",["Domínguez"],"","","",[]]],
 "M","1811",
-"Lock Haven, PA",
+"Lock Haven, PA, USA",
 "",
 "",
 "",
 [
-	["E2509","Birth","1811","1811",454,"Birth of Domínguez, George","",[],[]]
+	["E2509","Birth","1811","1811",669,"Birth of Domínguez, George","",[],[]]
 ],
 [
 
@@ -10726,12 +10726,12 @@ I = [
 ["I1375","Domínguez, Mahala","Domínguez, Mahala",
 [["Domínguez, Mahala","Birth Name","","","","Mahala","",["Domínguez"],"","","",[]]],
 "F","?",
-"Orlando, FL",
+"Orlando, Orange, FL, USA",
 "",
 "",
 "",
 [
-	["E0488","Birth","","",583,"Birth of Domínguez, Mahala","",[],[]]
+	["E0488","Birth","","",888,"Birth of Domínguez, Mahala","",[],[]]
 ],
 [
 
@@ -10748,14 +10748,14 @@ I = [
 ["I0421","Domínguez, Mary E.","Domínguez, Mary E.",
 [["Domínguez, Mary E.","Birth Name","","","","Mary E.","",["Domínguez"],"","","",[]]],
 "F","1839",
-"Mountain Home, ID",
+"Mountain Home, Elmore, ID, USA",
 "1893",
-"Elkhart, IN",
+"Elkhart, Elkhart, IN, USA",
 "54 years, 6 months, 15 days",
 [
-	["E1614","Birth","1839-03-15","15 MAR 1839",542,"Birth of Domínguez, Mary E.","",[],[]],
-	["E1615","Death","1893-09-30","30 SEP 1893",240,"Death of Domínguez, Mary E.","",[],[]],
-	["E1616","Burial","1893-10-01","1 OCT 1893",604,"Burial of Domínguez, Mary E.","",[],[]]
+	["E1614","Birth","1839-03-15","15 MAR 1839",816,"Birth of Domínguez, Mary E.","",[],[]],
+	["E1615","Death","1893-09-30","30 SEP 1893",348,"Death of Domínguez, Mary E.","",[],[]],
+	["E1616","Burial","1893-10-01","1 OCT 1893",917,"Burial of Domínguez, Mary E.","",[],[]]
 ],
 [
 
@@ -10772,12 +10772,12 @@ I = [
 ["I1352","Domínguez, Zorada","Domínguez, Zorada",
 [["Domínguez, Zorada","Birth Name","","","","Zorada","",["Domínguez"],"","","",[]]],
 "F","?",
-"New Ulm, MN",
+"New Ulm, MN, USA",
 "",
 "",
 "",
 [
-	["E0461","Birth","","",558,"Birth of Domínguez, Zorada","",[],[]]
+	["E0461","Birth","","",846,"Birth of Domínguez, Zorada","",[],[]]
 ],
 [
 
@@ -10838,14 +10838,14 @@ I = [
 ["I0471","Douglas, Abraham","Douglas, Abraham",
 [["Douglas, Abraham","Birth Name","","","","Abraham","",["Douglas"],"","","",[]]],
 "M","1821",
-"Fallon, NV",
+"Fallon, NV, USA",
 "1901",
-"Dixon, IL",
+"Dixon, Lee, IL, USA",
 "79 years, 10 months, 24 days",
 [
-	["E1732","Birth","1821-02-17","17 FEB 1821",256,"Birth of Douglas, Abraham","",[],[]],
-	["E1733","Death","1901-01-12","12 JAN 1901",213,"Death of Douglas, Abraham","",[],[]],
-	["E1734","Burial","1901-01-14","14 JAN 1901",213,"Burial of Douglas, Abraham","",[],[]]
+	["E1732","Birth","1821-02-17","17 FEB 1821",372,"Birth of Douglas, Abraham","",[],[]],
+	["E1733","Death","1901-01-12","12 JAN 1901",310,"Death of Douglas, Abraham","",[],[]],
+	["E1734","Burial","1901-01-14","14 JAN 1901",310,"Burial of Douglas, Abraham","",[],[]]
 ],
 [
 
@@ -10862,12 +10862,12 @@ I = [
 ["I1493","Douglas, Alfred","Douglas, Alfred",
 [["Douglas, Alfred","Birth Name","","","","Alfred","",["Douglas"],"","","",[]]],
 "M","1827",
-"Marshall, MN",
+"Marshall, MN, USA",
 "1913",
 "",
 "86 years, 1 month, 25 days",
 [
-	["E0650","Birth","1827-05-01","1 MAY 1827",482,"Birth of Douglas, Alfred","",[],[]],
+	["E0650","Birth","1827-05-01","1 MAY 1827",721,"Birth of Douglas, Alfred","",[],[]],
 	["E0651","Death","1913-06-26","26 JUN 1913",-1,"Death of Douglas, Alfred","",[],[]]
 ],
 [
@@ -10907,12 +10907,12 @@ I = [
 ["I1480","Douglas, Arthur","Douglas, Arthur",
 [["Douglas, Arthur","Birth Name","","","","Arthur","",["Douglas"],"","","",[]]],
 "M","?",
-"Cookeville, TN",
+"Cookeville, TN, USA",
 "",
 "",
 "",
 [
-	["E0638","Birth","","",176,"Birth of Douglas, Arthur","",[],[]]
+	["E0638","Birth","","",250,"Birth of Douglas, Arthur","",[],[]]
 ],
 [
 
@@ -10951,12 +10951,12 @@ I = [
 ["I1492","Douglas, Catherine","Douglas, Catherine",
 [["Douglas, Catherine","Birth Name","","","","Catherine","",["Douglas"],"","","",[]]],
 "F","1818",
-"Port Angeles, WA",
+"Port Angeles, WA, USA",
 "",
 "",
 "",
 [
-	["E0649","Birth","1818-04-09","9 APR 1818",626,"Birth of Douglas, Catherine","",[],[]]
+	["E0649","Birth","1818-04-09","9 APR 1818",948,"Birth of Douglas, Catherine","",[],[]]
 ],
 [
 
@@ -10995,12 +10995,12 @@ I = [
 ["I1475","Douglas, Charles","Douglas, Charles",
 [["Douglas, Charles","Birth Name","","","","Charles","",["Douglas"],"","","",[]]],
 "M","?",
-"Cookeville, TN",
+"Cookeville, TN, USA",
 "",
 "",
 "",
 [
-	["E0632","Birth","","",176,"Birth of Douglas, Charles","",[],[]]
+	["E0632","Birth","","",250,"Birth of Douglas, Charles","",[],[]]
 ],
 [
 
@@ -11039,12 +11039,12 @@ I = [
 ["I1473","Douglas, Eliza Jane","Douglas, Eliza Jane",
 [["Douglas, Eliza Jane","Birth Name","","","","Eliza Jane","",["Douglas"],"","","",[]]],
 "F","1850",
-"Cookeville, TN",
+"Cookeville, TN, USA",
 "1915",
 "",
 "64 years, 4 months, 25 days",
 [
-	["E0630","Birth","1850-08-07","7 AUG 1850",176,"Birth of Douglas, Eliza Jane","",[],[]],
+	["E0630","Birth","1850-08-07","7 AUG 1850",250,"Birth of Douglas, Eliza Jane","",[],[]],
 	["E0631","Death","1915","1915",-1,"Death of Douglas, Eliza Jane","",[],[]]
 ],
 [
@@ -11057,28 +11057,6 @@ I = [
 [],
 [308],
 [[177,"Birth","Birth","",[]]],
-[]
-],
-["I1489","Douglas, Elizabeth","Douglas, Elizabeth",
-[["Douglas, Elizabeth","Birth Name","","","","Elizabeth","",["Douglas"],"","","",[]]],
-"F","1808",
-"Port Angeles, WA",
-"",
-"",
-"",
-[
-	["E0643","Birth","1808-09-20","20 SEP 1808",626,"Birth of Douglas, Elizabeth","",[],[]]
-],
-[
-
-],
-"",
-[],
-[],
-[],
-[],
-[306],
-[[187,"Birth","Birth","",[]]],
 []
 ],
 ["I1523","Douglas, Elizabeth","Douglas, Elizabeth",
@@ -11106,14 +11084,14 @@ I = [
 ["I0039","Douglas, Elizabeth","Douglas, Elizabeth",
 [["Douglas, Elizabeth","Birth Name","","","","Elizabeth","",["Douglas"],"","","",[]]],
 "F","1853",
-"Dixon, IL",
+"Dixon, Lee, IL, USA",
 "1890",
-"Point Pleasant, WV",
+"Point Pleasant, WV, USA",
 "36 years, 11 months, 17 days",
 [
-	["E1559","Birth","1853-02-26","26 FEB 1853",213,"Birth of Douglas, Elizabeth","",[],[]],
-	["E1560","Death","1890-02-14","14 FEB 1890",621,"Death of Douglas, Elizabeth","",[],[]],
-	["E1561","Burial","1890-02-16","16 FEB 1890",621,"Burial of Douglas, Elizabeth","",[],[]]
+	["E1559","Birth","1853-02-26","26 FEB 1853",310,"Birth of Douglas, Elizabeth","",[],[]],
+	["E1560","Death","1890-02-14","14 FEB 1890",939,"Death of Douglas, Elizabeth","",[],[]],
+	["E1561","Burial","1890-02-16","16 FEB 1890",939,"Burial of Douglas, Elizabeth","",[],[]]
 ],
 [
 
@@ -11127,15 +11105,37 @@ I = [
 [[177,"Birth","Birth","",[]]],
 []
 ],
-["I1494","Douglas, Ellen","Douglas, Ellen",
-[["Douglas, Ellen","Birth Name","","","","Ellen","",["Douglas"],"","","",[]]],
-"F","1830",
-"Marshall, MN",
+["I1489","Douglas, Elizabeth","Douglas, Elizabeth",
+[["Douglas, Elizabeth","Birth Name","","","","Elizabeth","",["Douglas"],"","","",[]]],
+"F","1808",
+"Port Angeles, WA, USA",
 "",
 "",
 "",
 [
-	["E0652","Birth","1830-05-24","24 MAY 1830",482,"Birth of Douglas, Ellen","",[],[]]
+	["E0643","Birth","1808-09-20","20 SEP 1808",948,"Birth of Douglas, Elizabeth","",[],[]]
+],
+[
+
+],
+"",
+[],
+[],
+[],
+[],
+[306],
+[[187,"Birth","Birth","",[]]],
+[]
+],
+["I1494","Douglas, Ellen","Douglas, Ellen",
+[["Douglas, Ellen","Birth Name","","","","Ellen","",["Douglas"],"","","",[]]],
+"F","1830",
+"Marshall, MN, USA",
+"",
+"",
+"",
+[
+	["E0652","Birth","1830-05-24","24 MAY 1830",721,"Birth of Douglas, Ellen","",[],[]]
 ],
 [
 
@@ -11152,12 +11152,12 @@ I = [
 ["I1479","Douglas, Frank","Douglas, Frank",
 [["Douglas, Frank","Birth Name","","","","Frank","",["Douglas"],"","","",[]]],
 "M","?",
-"Cookeville, TN",
+"Cookeville, TN, USA",
 "",
 "",
 "",
 [
-	["E0635","Birth","","",176,"Birth of Douglas, Frank","",[],[]]
+	["E0635","Birth","","",250,"Birth of Douglas, Frank","",[],[]]
 ],
 [
 
@@ -11169,6 +11169,28 @@ I = [
 [],
 [],
 [[178,"Birth","Birth","",[]]],
+[]
+],
+["I1526","Douglas, Frederick","Douglas, Frederick",
+[["Douglas, Frederick","Birth Name","","","","Frederick","",["Douglas"],"","","",[]]],
+"M","?",
+"",
+"",
+"",
+"",
+[
+
+],
+[
+
+],
+"",
+[],
+[],
+[],
+[],
+[],
+[[182,"Birth","Birth","",[]]],
 []
 ],
 ["I1522","Douglas, Frederick","Douglas, Frederick",
@@ -11198,10 +11220,10 @@ I = [
 "M","?",
 "",
 "?",
-"Dover, DE",
+"Dover, Kent, DE, USA",
 "",
 [
-	["E2734","Death","","",217,"Death of Douglas, Frederick","",[],[]]
+	["E2734","Death","","",316,"Death of Douglas, Frederick","",[],[]]
 ],
 [
 
@@ -11215,39 +11237,17 @@ I = [
 [],
 []
 ],
-["I1526","Douglas, Frederick","Douglas, Frederick",
-[["Douglas, Frederick","Birth Name","","","","Frederick","",["Douglas"],"","","",[]]],
-"M","?",
-"",
-"",
-"",
-"",
-[
-
-],
-[
-
-],
-"",
-[],
-[],
-[],
-[],
-[],
-[[182,"Birth","Birth","",[]]],
-[]
-],
 ["I0573","Douglas, Hans Peter","Douglas, Hans Peter",
 [["Douglas, Hans Peter","Birth Name","","","","Hans Peter","",["Douglas"],"","","",[]]],
 "M","?",
-"Albany, GA",
+"Albany, Dougherty, GA, USA",
 "?",
-"Terre Haute, IN",
+"Terre Haute, Vigo, IN, USA",
 "unknown",
 [
-	["E1926","Birth","","",8,"Birth of Douglas, Hans Peter","",[],[]],
-	["E1927","Death","","",765,"Death of Douglas, Hans Peter","",[],[]],
-	["E1928","Burial","","",279,"Burial of Douglas, Hans Peter","",[],[]]
+	["E1926","Birth","","",15,"Birth of Douglas, Hans Peter","",[],[]],
+	["E1927","Death","","",1142,"Death of Douglas, Hans Peter","",[],[]],
+	["E1928","Burial","","",402,"Burial of Douglas, Hans Peter","",[],[]]
 ],
 [
 
@@ -11283,29 +11283,6 @@ I = [
 [[182,"Birth","Birth","",[]]],
 []
 ],
-["I1491","Douglas, Jacob","Douglas, Jacob",
-[["Douglas, Jacob","Birth Name","","","","Jacob","",["Douglas"],"","","",[]]],
-"M","1813",
-"Port Angeles, WA",
-"?",
-"Dixon, IL",
-"unknown",
-[
-	["E0647","Birth","1813-08-21","21 AUG 1813",626,"Birth of Douglas, Jacob","",[],[]],
-	["E0648","Death","","",213,"Death of Douglas, Jacob","",[],[]]
-],
-[
-
-],
-"",
-[],
-[],
-[],
-[],
-[],
-[[187,"Birth","Birth","",[]]],
-[]
-],
 ["I1506","Douglas, Jacob","Douglas, Jacob",
 [["Douglas, Jacob","Birth Name","","","","Jacob","",["Douglas"],"","","",[]]],
 "M","?",
@@ -11331,12 +11308,12 @@ I = [
 ["I1476","Douglas, Jacob","Douglas, Jacob",
 [["Douglas, Jacob","Birth Name","","","","Jacob","",["Douglas"],"","","",[]]],
 "M","?",
-"Cookeville, TN",
+"Cookeville, TN, USA",
 "",
 "",
 "",
 [
-	["E0633","Birth","","",176,"Birth of Douglas, Jacob","",[],[]]
+	["E0633","Birth","","",250,"Birth of Douglas, Jacob","",[],[]]
 ],
 [
 
@@ -11348,6 +11325,29 @@ I = [
 [],
 [],
 [[177,"Birth","Birth","",[]]],
+[]
+],
+["I1491","Douglas, Jacob","Douglas, Jacob",
+[["Douglas, Jacob","Birth Name","","","","Jacob","",["Douglas"],"","","",[]]],
+"M","1813",
+"Port Angeles, WA, USA",
+"?",
+"Dixon, Lee, IL, USA",
+"unknown",
+[
+	["E0647","Birth","1813-08-21","21 AUG 1813",948,"Birth of Douglas, Jacob","",[],[]],
+	["E0648","Death","","",310,"Death of Douglas, Jacob","",[],[]]
+],
+[
+
+],
+"",
+[],
+[],
+[],
+[],
+[],
+[[187,"Birth","Birth","",[]]],
 []
 ],
 ["I1508","Douglas, John","Douglas, John",
@@ -11375,13 +11375,13 @@ I = [
 ["I1498","Douglas, John","Douglas, John",
 [["Douglas, John","Birth Name","","","","John","",["Douglas"],"","","",[]]],
 "M","1824",
-"Marshall, MN",
+"Marshall, MN, USA",
 "?",
-"Bemidji, MN",
+"Bemidji, MN, USA",
 "unknown",
 [
-	["E0656","Birth","1824-10-17","17 OCT 1824",482,"Birth of Douglas, John","",[],[]],
-	["E0657","Death","","",70,"Death of Douglas, John","",[],[]]
+	["E0656","Birth","1824-10-17","17 OCT 1824",721,"Birth of Douglas, John","",[],[]],
+	["E0657","Death","","",93,"Death of Douglas, John","",[],[]]
 ],
 [
 
@@ -11398,13 +11398,13 @@ I = [
 ["I0577","Douglas, John Jr.","Douglas, John Jr.",
 [["Douglas, John Jr.","Birth Name","","","","John Jr.","",["Douglas"],"","","",[]]],
 "M","?",
-"Bogalusa, LA",
+"Bogalusa, Washington, LA, USA",
 "?",
-"Rome, GA",
+"Rome, Floyd, GA, USA",
 "unknown",
 [
-	["E1937","Birth","about 1761","ABT 1761",88,"Birth of Douglas, John Jr.","",[],[]],
-	["E1938","Death","","",667,"Death of Douglas, John Jr.","",[],[]]
+	["E1937","Birth","about 1761","ABT 1761",116,"Birth of Douglas, John Jr.","",[],[]],
+	["E1938","Death","","",1000,"Death of Douglas, John Jr.","",[],[]]
 ],
 [
 
@@ -11421,14 +11421,14 @@ I = [
 ["I0574","Douglas, John Sr.","Douglas, John Sr.",
 [["Douglas, John Sr.","Birth Name","","","","John Sr.","",["Douglas"],"","","",[]]],
 "M","1739",
-"Colorado Springs, CO",
+"Colorado Springs, El Paso, CO, USA",
 "1821",
-"Selinsgrove, PA",
+"Selinsgrove, PA, USA",
 "81 years, 10 months, 7 days",
 [
-	["E1929","Birth","1739-11-25","25 NOV 1739",165,"Birth of Douglas, John Sr.","",[],[]],
-	["E1930","Death","1821-10-00","OCT 1821",702,"Death of Douglas, John Sr.","",[],[]],
-	["E1931","Burial","","",844,"Burial of Douglas, John Sr.","",[],[]]
+	["E1929","Birth","1739-11-25","25 NOV 1739",234,"Birth of Douglas, John Sr.","",[],[]],
+	["E1930","Death","1821-10-00","OCT 1821",1050,"Death of Douglas, John Sr.","",[],[]],
+	["E1931","Burial","","",1278,"Burial of Douglas, John Sr.","",[],[]]
 ],
 [
 
@@ -11467,14 +11467,14 @@ I = [
 ["I0604","Douglas, Joseph","Douglas, Joseph",
 [["Douglas, Joseph","Birth Name","","","","Joseph","",["Douglas"],"","","",[]]],
 "M","1787",
-"Sterling, CO",
+"Sterling, Logan, CO, USA",
 "1857",
-"Marshall, MN",
+"Marshall, MN, USA",
 "69 years, 6 months, 2 days",
 [
-	["E1995","Birth","1787-09-07","7 SEP 1787",745,"Birth of Douglas, Joseph","",[],[]],
-	["E1996","Death","1857-03-09","9 MAR 1857",482,"Death of Douglas, Joseph","",[],[]],
-	["E1997","Burial","1857-03-11","11 MAR 1857",484,"Burial of Douglas, Joseph","",[],[]]
+	["E1995","Birth","1787-09-07","7 SEP 1787",1107,"Birth of Douglas, Joseph","",[],[]],
+	["E1996","Death","1857-03-09","9 MAR 1857",721,"Death of Douglas, Joseph","",[],[]],
+	["E1997","Burial","1857-03-11","11 MAR 1857",723,"Burial of Douglas, Joseph","",[],[]]
 ],
 [
 
@@ -11491,12 +11491,12 @@ I = [
 ["I1495","Douglas, Lucinda J.","Douglas, Lucinda J.",
 [["Douglas, Lucinda J.","Birth Name","","","","Lucinda J.","",["Douglas"],"","","",[]]],
 "F","1833",
-"Marshall, MN",
+"Marshall, MN, USA",
 "",
 "",
 "",
 [
-	["E0653","Birth","1833-05-06","6 MAY 1833",482,"Birth of Douglas, Lucinda J.","",[],[]]
+	["E0653","Birth","1833-05-06","6 MAY 1833",721,"Birth of Douglas, Lucinda J.","",[],[]]
 ],
 [
 
@@ -11513,14 +11513,14 @@ I = [
 ["I0921","Douglas, Mary\"Polly\"","Douglas, Mary\"Polly\"",
 [["Douglas, Mary\"Polly\"","Birth Name","","","","Mary\"Polly\"","",["Douglas"],"","","",[]]],
 "F","1785",
-"Lewistown, PA",
+"Lewistown, PA, USA",
 "1842",
-"Tuskegee, AL",
+"Tuskegee, Macon, AL, USA",
 "57 years, 4 months, 3 days",
 [
-	["E2567","Birth","1785-04-27","27 APR 1785",443,"Birth of Douglas, Mary&#8220;Polly&#8221;","",[],[]],
-	["E2568","Death","1842-08-30","30 AUG 1842",781,"Death of Douglas, Mary&#8220;Polly&#8221;","",[],[]],
-	["E2569","Burial","1842-09-01","1 SEP 1842",366,"Burial of Douglas, Mary&#8220;Polly&#8221;","",[],[]]
+	["E2567","Birth","1785-04-27","27 APR 1785",653,"Birth of Douglas, Mary&#8220;Polly&#8221;","",[],[]],
+	["E2568","Death","1842-08-30","30 AUG 1842",1167,"Death of Douglas, Mary&#8220;Polly&#8221;","",[],[]],
+	["E2569","Burial","1842-09-01","1 SEP 1842",532,"Burial of Douglas, Mary&#8220;Polly&#8221;","",[],[]]
 ],
 [
 
@@ -11581,12 +11581,12 @@ I = [
 ["I1496","Douglas, Samuel","Douglas, Samuel",
 [["Douglas, Samuel","Birth Name","","","","Samuel","",["Douglas"],"","","",[]]],
 "M","1815",
-"Port Angeles, WA",
+"Port Angeles, WA, USA",
 "",
 "",
 "",
 [
-	["E0654","Birth","1815-06-19","19 JUN 1815",626,"Birth of Douglas, Samuel","",[],[]]
+	["E0654","Birth","1815-06-19","19 JUN 1815",948,"Birth of Douglas, Samuel","",[],[]]
 ],
 [
 
@@ -11603,12 +11603,12 @@ I = [
 ["I1497","Douglas, Susan","Douglas, Susan",
 [["Douglas, Susan","Birth Name","","","","Susan","",["Douglas"],"","","",[]]],
 "F","1836",
-"Marshall, MN",
+"Marshall, MN, USA",
 "",
 "",
 "",
 [
-	["E0655","Birth","1836-12-01","1 DEC 1836",482,"Birth of Douglas, Susan","",[],[]]
+	["E0655","Birth","1836-12-01","1 DEC 1836",721,"Birth of Douglas, Susan","",[],[]]
 ],
 [
 
@@ -11622,38 +11622,16 @@ I = [
 [[187,"Birth","Birth","",[]]],
 []
 ],
-["I1478","Douglas, William","Douglas, William",
-[["Douglas, William","Birth Name","","","","William","",["Douglas"],"","","",[]]],
-"M","?",
-"Cookeville, TN",
-"",
-"",
-"",
-[
-	["E0634","Birth","","",176,"Birth of Douglas, William","",[],[]]
-],
-[
-
-],
-"",
-[],
-[],
-[],
-[],
-[],
-[[178,"Birth","Birth","",[]]],
-[]
-],
 ["I1472","Douglas, William","Douglas, William",
 [["Douglas, William","Birth Name","","","","William","",["Douglas"],"","","",[]]],
 "M","?",
-"Cookeville, TN",
+"Cookeville, TN, USA",
 "?",
-"Cookeville, TN",
+"Cookeville, TN, USA",
 "unknown",
 [
-	["E0628","Birth","","",176,"Birth of Douglas, William","",[],[]],
-	["E0629","Death","","",176,"Death of Douglas, William","",[],[]]
+	["E0628","Birth","","",250,"Birth of Douglas, William","",[],[]],
+	["E0629","Death","","",250,"Death of Douglas, William","",[],[]]
 ],
 [
 
@@ -11667,15 +11645,37 @@ I = [
 [[177,"Birth","Birth","",[]]],
 []
 ],
-["I1917","Doyle, Robert Gove","Doyle, Robert Gove",
-[["Doyle, Robert Gove","Birth Name","","","","Robert Gove","",["Doyle"],"","","",[]]],
-"M","1773",
-"Waterloo-Cedar Falls, IA",
+["I1478","Douglas, William","Douglas, William",
+[["Douglas, William","Birth Name","","","","William","",["Douglas"],"","","",[]]],
+"M","?",
+"Cookeville, TN, USA",
 "",
 "",
 "",
 [
-	["E1042","Birth","1773-09-21","21 SEP 1773",814,"Birth of Doyle, Robert Gove","",[],[]]
+	["E0634","Birth","","",250,"Birth of Douglas, William","",[],[]]
+],
+[
+
+],
+"",
+[],
+[],
+[],
+[],
+[],
+[[178,"Birth","Birth","",[]]],
+[]
+],
+["I1917","Doyle, Robert Gove","Doyle, Robert Gove",
+[["Doyle, Robert Gove","Birth Name","","","","Robert Gove","",["Doyle"],"","","",[]]],
+"M","1773",
+"Waterloo-Cedar Falls, IA, USA",
+"",
+"",
+"",
+[
+	["E1042","Birth","1773-09-21","21 SEP 1773",1226,"Birth of Doyle, Robert Gove","",[],[]]
 ],
 [
 
@@ -11760,10 +11760,10 @@ I = [
 "M","?",
 "",
 "?",
-"Columbus, MS",
+"Columbus, MS, USA",
 "",
 [
-	["E0954","Death","about 1996","ABT 1996",171,"Death of Duncan","",[],[]]
+	["E0954","Death","about 1996","ABT 1996",244,"Death of Duncan","",[],[]]
 ],
 [
 
@@ -11824,12 +11824,12 @@ I = [
 ["I1817","Duncan, Michael","Duncan, Michael",
 [["Duncan, Michael","Birth Name","","","","Michael","",["Duncan"],"","","",[]]],
 "M","?",
-"Columbus, MS",
+"Columbus, MS, USA",
 "",
 "",
 "",
 [
-	["E0955","Birth","about 1978","ABT 1978",171,"Birth of Duncan, Michael","",[],[]],
+	["E0955","Birth","about 1978","ABT 1978",244,"Birth of Duncan, Michael","",[],[]],
 	["E0956","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -11871,10 +11871,10 @@ I = [
 "F","?",
 "",
 "?",
-"San Angelo, TX",
+"San Angelo, Tom Green, TX, USA",
 "",
 [
-	["E2315","Burial","","",679,"Burial of Dunn, Margaret Mary?","",[],[]]
+	["E2315","Burial","","",1014,"Burial of Dunn, Margaret Mary?","",[],[]]
 ],
 [
 
@@ -11891,14 +11891,14 @@ I = [
 ["I0105","Edwards, Lucy","Edwards, Lucy",
 [["Edwards, Lucy","Birth Name","","","","Lucy","",["Edwards"],"","","",[]]],
 "F","1799",
-"Jamestowna, NY",
+"Jamestowna, NY, USA",
 "1879",
 "",
 "80 years, 2 months, 16 days",
 [
-	["E0090","Birth","1799-01-17","17 JAN 1799",379,"Birth of Edwards, Lucy","",[],[]],
+	["E0090","Birth","1799-01-17","17 JAN 1799",554,"Birth of Edwards, Lucy","",[],[]],
 	["E0091","Death","1879-04-02","2 APR 1879",-1,"Death of Edwards, Lucy","",[],[]],
-	["E0092","Burial","1879-04-04","4 APR 1879",455,"Burial of Edwards, Lucy","",[],[]]
+	["E0092","Burial","1879-04-04","4 APR 1879",672,"Burial of Edwards, Lucy","",[],[]]
 ],
 [
 
@@ -12025,12 +12025,12 @@ I = [
 ["I0720","Evans, Christian Anne","Evans, Christian Anne",
 [["Evans, Christian Anne","Birth Name","","","","Christian Anne","",["Evans"],"","","",[]]],
 "F","1969",
-"Pampa, TX",
+"Pampa, Gray, TX, USA",
 "",
 "",
 "",
 [
-	["E2192","Birth","1969-05-26","26 MAY 1969",598,"Birth of Evans, Christian Anne","",[],[]],
+	["E2192","Birth","1969-05-26","26 MAY 1969",910,"Birth of Evans, Christian Anne","",[],[]],
 	["E2193","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -12048,12 +12048,12 @@ I = [
 ["I0721","Evans, Heather Lee","Evans, Heather Lee",
 [["Evans, Heather Lee","Birth Name","","","","Heather Lee","",["Evans"],"","","",[]]],
 "F","1977",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E2194","Birth","1977-07-12","12 JUL 1977",586,"Birth of Evans, Heather Lee","",[],[]],
+	["E2194","Birth","1977-07-12","12 JUL 1977",893,"Birth of Evans, Heather Lee","",[],[]],
 	["E2195","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -12071,12 +12071,12 @@ I = [
 ["I0717","Evans, James Patrick","Evans, James Patrick",
 [["Evans, James Patrick","Birth Name","","","","James Patrick","",["Evans"],"","","",[]]],
 "M","1945",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E2184","Birth","1945-10-02","2 OCT 1945",586,"Birth of Evans, James Patrick","",[],[]],
+	["E2184","Birth","1945-10-02","2 OCT 1945",893,"Birth of Evans, James Patrick","",[],[]],
 	["E2185","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -12094,12 +12094,12 @@ I = [
 ["I0719","Evans, Michael Patrick","Evans, Michael Patrick",
 [["Evans, Michael Patrick","Birth Name","","","","Michael Patrick","",["Evans"],"","","",[]]],
 "M","1973",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E2188","Birth","1973-03-05","5 MAR 1973",586,"Birth of Evans, Michael Patrick","",[],[]],
+	["E2188","Birth","1973-03-05","5 MAR 1973",893,"Birth of Evans, Michael Patrick","",[],[]],
 	["E2189","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -12117,12 +12117,12 @@ I = [
 ["I0718","Evans, Patricia Kay","Evans, Patricia Kay",
 [["Evans, Patricia Kay","Birth Name","","","","Patricia Kay","",["Evans"],"","","",[]]],
 "F","1976",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E2186","Birth","1976-01-19","19 JAN 1976",586,"Birth of Evans, Patricia Kay","",[],[]],
+	["E2186","Birth","1976-01-19","19 JAN 1976",893,"Birth of Evans, Patricia Kay","",[],[]],
 	["E2187","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -12162,14 +12162,14 @@ I = [
 ["I0086","Farmer, Benjamin H.","Farmer, Benjamin H.",
 [["Farmer, Benjamin H.","Birth Name","","","","Benjamin H.","",["Farmer"],"","","",[]]],
 "M","1812",
-"Plattsburgh, NY",
+"Plattsburgh, Clinton, NY, USA",
 "1873",
-"Fremont, NE",
+"Fremont, NE, USA",
 "61 years, 7 months, 10 days",
 [
-	["E2444","Birth","1812-01-03","3 JAN 1812",618,"Birth of Farmer, Benjamin H.","",[],[]],
-	["E2445","Death","1873-08-13","13 AUG 1873",287,"Death of Farmer, Benjamin H.","",[],[]],
-	["E2446","Burial","1873-08-14","14 AUG 1873",142,"Burial of Farmer, Benjamin H.","",[],[]]
+	["E2444","Birth","1812-01-03","3 JAN 1812",936,"Birth of Farmer, Benjamin H.","",[],[]],
+	["E2445","Death","1873-08-13","13 AUG 1873",412,"Death of Farmer, Benjamin H.","",[],[]],
+	["E2446","Burial","1873-08-14","14 AUG 1873",193,"Burial of Farmer, Benjamin H.","",[],[]]
 ],
 [
 
@@ -12230,12 +12230,12 @@ I = [
 ["I0364","Farmer, Cyrus Melville","Farmer, Cyrus Melville",
 [["Farmer, Cyrus Melville","Birth Name","","","","Cyrus Melville","",["Farmer"],"","","",[]]],
 "M","1855",
-"Palatka, FL",
+"Palatka, Putnam, FL, USA",
 "",
 "",
 "",
 [
-	["E1525","Birth","1855-05-27","27 MAY 1855",594,"Birth of Farmer, Cyrus Melville","",[],[]]
+	["E1525","Birth","1855-05-27","27 MAY 1855",904,"Birth of Farmer, Cyrus Melville","",[],[]]
 ],
 [
 
@@ -12296,14 +12296,14 @@ I = [
 ["I0088","Farmer, Elizabeth Ellen","Farmer, Elizabeth Ellen",
 [["Farmer, Elizabeth Ellen","Birth Name","","","","Elizabeth Ellen","",["Farmer"],"","","",[]]],
 "F","1850",
-"Salinas, CA",
+"Salinas, Monterey, CA, USA",
 "1931",
-"Milledgeville, GA",
+"Milledgeville, Baldwin, GA, USA",
 "81 years, 1 month, 24 days",
 [
-	["E2489","Birth","1850-06-09","9 JUN 1850",676,"Birth of Farmer, Elizabeth Ellen","",[],[]],
-	["E2490","Death","1931-08-03","3 AUG 1931",512,"Death of Farmer, Elizabeth Ellen","",[],[]],
-	["E2491","Burial","1931-08-00","AUG 1931",188,"Burial of Farmer, Elizabeth Ellen","",[],[]]
+	["E2489","Birth","1850-06-09","9 JUN 1850",1010,"Birth of Farmer, Elizabeth Ellen","",[],[]],
+	["E2490","Death","1931-08-03","3 AUG 1931",769,"Death of Farmer, Elizabeth Ellen","",[],[]],
+	["E2491","Burial","1931-08-00","AUG 1931",266,"Burial of Farmer, Elizabeth Ellen","",[],[]]
 ],
 [
 
@@ -12343,12 +12343,12 @@ I = [
 ["I0365","Farmer, Flora Alice","Farmer, Flora Alice",
 [["Farmer, Flora Alice","Birth Name","","","","Flora Alice","",["Farmer"],"","","",[]]],
 "F","1858",
-"Palatka, FL",
+"Palatka, Putnam, FL, USA",
 "",
 "",
 "",
 [
-	["E1526","Birth","1858-02-19","19 FEB 1858",594,"Birth of Farmer, Flora Alice","",[],[]]
+	["E1526","Birth","1858-02-19","19 FEB 1858",904,"Birth of Farmer, Flora Alice","",[],[]]
 ],
 [
 
@@ -12409,12 +12409,12 @@ I = [
 ["I0366","Farmer, John","Farmer, John",
 [["Farmer, John","Birth Name","","","","John","",["Farmer"],"","","",[]]],
 "M","1860",
-"Troy, AL",
+"Troy, Pike, AL, USA",
 "",
 "",
 "",
 [
-	["E1527","Birth","1860-03-17","17 MAR 1860",776,"Birth of Farmer, John","",[],[]]
+	["E1527","Birth","1860-03-17","17 MAR 1860",1159,"Birth of Farmer, John","",[],[]]
 ],
 [
 
@@ -12453,12 +12453,12 @@ I = [
 ["I0360","Farmer, Mary Ann","Farmer, Mary Ann",
 [["Farmer, Mary Ann","Birth Name","","","","Mary Ann","",["Farmer"],"","","",[]]],
 "F","1842",
-"Thomaston, GA",
+"Thomaston, Upson, GA, USA",
 "",
 "",
 "",
 [
-	["E1521","Birth","1842-08-09","9 AUG 1842",768,"Birth of Farmer, Mary Ann","",[],[]]
+	["E1521","Birth","1842-08-09","9 AUG 1842",1146,"Birth of Farmer, Mary Ann","",[],[]]
 ],
 [
 
@@ -12497,12 +12497,12 @@ I = [
 ["I0363","Farmer, Miranda Keziah","Farmer, Miranda Keziah",
 [["Farmer, Miranda Keziah","Birth Name","","","","Miranda Keziah","",["Farmer"],"","","",[]]],
 "F","1852",
-"Thomaston, GA",
+"Thomaston, Upson, GA, USA",
 "",
 "",
 "",
 [
-	["E1524","Birth","1852-09-27","27 SEP 1852",768,"Birth of Farmer, Miranda Keziah","",[],[]]
+	["E1524","Birth","1852-09-27","27 SEP 1852",1146,"Birth of Farmer, Miranda Keziah","",[],[]]
 ],
 [
 
@@ -12542,12 +12542,12 @@ I = [
 ["I0359","Farmer, Sarah Jane","Farmer, Sarah Jane",
 [["Farmer, Sarah Jane","Birth Name","","","","Sarah Jane","",["Farmer"],"","","",[]]],
 "F","1840",
-"Thomaston, GA",
+"Thomaston, Upson, GA, USA",
 "",
 "",
 "",
 [
-	["E1517","Birth","1840-05-07","7 MAY 1840",768,"Birth of Farmer, Sarah Jane","",[],[]]
+	["E1517","Birth","1840-05-07","7 MAY 1840",1146,"Birth of Farmer, Sarah Jane","",[],[]]
 ],
 [
 
@@ -12609,12 +12609,12 @@ I = [
 ["I0361","Farmer, Susanne Delilah","Farmer, Susanne Delilah",
 [["Farmer, Susanne Delilah","Birth Name","","","","Susanne Delilah","",["Farmer"],"","","",[]]],
 "F","1844",
-"Thomaston, GA",
+"Thomaston, Upson, GA, USA",
 "",
 "",
 "",
 [
-	["E1522","Birth","1844-12-02","2 DEC 1844",768,"Birth of Farmer, Susanne Delilah","",[],[]]
+	["E1522","Birth","1844-12-02","2 DEC 1844",1146,"Birth of Farmer, Susanne Delilah","",[],[]]
 ],
 [
 
@@ -12654,12 +12654,12 @@ I = [
 ["I0362","Farmer, Winfield Scott","Farmer, Winfield Scott",
 [["Farmer, Winfield Scott","Birth Name","","","","Winfield Scott","",["Farmer"],"","","",[]]],
 "M","1847",
-"Thomaston, GA",
+"Thomaston, Upson, GA, USA",
 "",
 "",
 "",
 [
-	["E1523","Birth","1847-07-29","29 JUL 1847",768,"Birth of Farmer, Winfield Scott","",[],[]]
+	["E1523","Birth","1847-07-29","29 JUL 1847",1146,"Birth of Farmer, Winfield Scott","",[],[]]
 ],
 [
 
@@ -12676,12 +12676,12 @@ I = [
 ["I0758","Ferguson, Lord Samuel","Ferguson, Lord Samuel",
 [["Ferguson, Lord Samuel","Birth Name","","","","Lord Samuel","",["Ferguson"],"","","",[]]],
 "M","?",
-"Santa Ana, CA",
+"Santa Ana, Orange, CA, USA",
 "",
 "",
 "",
 [
-	["E2254","Birth","","",689,"Birth of Ferguson, Lord Samuel","",[],[]]
+	["E2254","Birth","","",1030,"Birth of Ferguson, Lord Samuel","",[],[]]
 ],
 [
 
@@ -12720,12 +12720,12 @@ I = [
 ["I1790","Fernandez, Michael","Fernandez, Michael",
 [["Fernandez, Michael","Birth Name","","","","Michael","",["Fernandez"],"","","",[]]],
 "M","1855",
-"Worthington, MN",
+"Worthington, MN, USA",
 "",
 "",
 "",
 [
-	["E0908","Birth","1855-05-27","27 MAY 1855",843,"Birth of Fernandez, Michael","",[],[]]
+	["E0908","Birth","1855-05-27","27 MAY 1855",1273,"Birth of Fernandez, Michael","",[],[]]
 ],
 [
 
@@ -12742,13 +12742,13 @@ I = [
 ["I0099","Fernandez, Thomas","Fernandez, Thomas",
 [["Fernandez, Thomas","Birth Name","","","","Thomas","",["Fernandez"],"","","",[]]],
 "M","1787",
-"Laramie, WY",
+"Laramie, WY, USA",
 "?",
-"Oshkosh, WI",
+"Oshkosh, WI, USA",
 "unknown",
 [
-	["E2716","Birth","1787","1787",427,"Birth of Fernandez, Thomas","",[],[]],
-	["E2717","Death","","",584,"Death of Fernandez, Thomas","",[],[]]
+	["E2716","Birth","1787","1787",627,"Birth of Fernandez, Thomas","",[],[]],
+	["E2717","Death","","",890,"Death of Fernandez, Thomas","",[],[]]
 ],
 [
 
@@ -12765,14 +12765,14 @@ I = [
 ["I0097","Fernandez, Thomas","Fernandez, Thomas",
 [["Fernandez, Thomas","Birth Name","","","","Thomas","",["Fernandez"],"","","",[]]],
 "M","1825",
-"Escanaba, MI",
+"Escanaba, MI, USA",
 "1902",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "76 years, 11 months, 29 days",
 [
-	["E2671","Birth","1825-11-27","27 NOV 1825",247,"Birth of Fernandez, Thomas","",[],[]],
-	["E2672","Death","1902-11-26","26 NOV 1902",586,"Death of Fernandez, Thomas","",[],[]],
-	["E2673","Burial","1902","1902",767,"Burial of Fernandez, Thomas","",[],[]]
+	["E2671","Birth","1825-11-27","27 NOV 1825",361,"Birth of Fernandez, Thomas","",[],[]],
+	["E2672","Death","1902-11-26","26 NOV 1902",893,"Death of Fernandez, Thomas","",[],[]],
+	["E2673","Burial","1902","1902",1145,"Burial of Fernandez, Thomas","",[],[]]
 ],
 [
 
@@ -12789,14 +12789,14 @@ I = [
 ["I0834","Fields, Bridget M.","Fields, Bridget M.",
 [["Fields, Bridget M.","Birth Name","","","","Bridget M.","",["Fields"],"","","",[]]],
 "F","?",
-"Del Rio, TX",
+"Del Rio, Val Verde, TX, USA",
 "?",
-"Lumberton, NC",
+"Lumberton, NC, USA",
 "unknown",
 [
-	["E2392","Birth","","",206,"Birth of Fields, Bridget M.","",[],[]],
-	["E2393","Death","","",463,"Death of Fields, Bridget M.","",[],[]],
-	["E2394","Burial","","",724,"Burial of Fields, Bridget M.","",[],[]]
+	["E2392","Birth","","",298,"Birth of Fields, Bridget M.","",[],[]],
+	["E2393","Death","","",684,"Death of Fields, Bridget M.","",[],[]],
+	["E2394","Burial","","",1078,"Burial of Fields, Bridget M.","",[],[]]
 ],
 [
 
@@ -12857,12 +12857,12 @@ I = [
 ["I0112","Flores, Jamie Lee","Flores, Jamie Lee",
 [["Flores, Jamie Lee","Birth Name","","","","Jamie Lee","",["Flores"],"","","",[]]],
 "F","1959",
-"Salina, KS",
+"Salina, Saline, KS, USA",
 "",
 "",
 "",
 [
-	["E0206","Birth","1959-10-23","23 OCT 1959",675,"Birth of Flores, Jamie Lee","",[],[]],
+	["E0206","Birth","1959-10-23","23 OCT 1959",1009,"Birth of Flores, Jamie Lee","",[],[]],
 	["E0207","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -12902,12 +12902,12 @@ I = [
 ["I0342","Floyd, Christopher Randall","Floyd, Christopher Randall",
 [["Floyd, Christopher Randall","Birth Name","","","","Christopher Randall","",["Floyd"],"","","",[]]],
 "M","1985",
-"Chillicothe, OH",
+"Chillicothe, OH, USA",
 "",
 "",
 "",
 [
-	["E1474","Birth","1985-04-18","18 APR 1985",148,"Birth of Floyd, Christopher Randall","",[],[]],
+	["E1474","Birth","1985-04-18","18 APR 1985",203,"Birth of Floyd, Christopher Randall","",[],[]],
 	["E1475","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -12925,13 +12925,13 @@ I = [
 ["I0341","Floyd, Gregory Scott","Floyd, Gregory Scott",
 [["Floyd, Gregory Scott","Birth Name","","","","Gregory Scott","",["Floyd"],"","","",[]]],
 "M","1983",
-"Hot Springs, AR",
+"Hot Springs, Garland, AR, USA",
 "1983",
-"Hot Springs, AR",
+"Hot Springs, Garland, AR, USA",
 "1 month, 27 days",
 [
-	["E1472","Birth","1983-04-18","18 APR 1983",357,"Birth of Floyd, Gregory Scott","",[],[]],
-	["E1473","Death","1983-06-15","15 JUN 1983",357,"Death of Floyd, Gregory Scott","",[],[]]
+	["E1472","Birth","1983-04-18","18 APR 1983",514,"Birth of Floyd, Gregory Scott","",[],[]],
+	["E1473","Death","1983-06-15","15 JUN 1983",514,"Death of Floyd, Gregory Scott","",[],[]]
 ],
 [
 
@@ -12970,12 +12970,12 @@ I = [
 ["I0343","Floyd, Joan Louise","Floyd, Joan Louise",
 [["Floyd, Joan Louise","Birth Name","","","","Joan Louise","",["Floyd"],"","","",[]]],
 "F","1988",
-"Carbondale, IL",
+"Carbondale, Jackson, IL, USA",
 "",
 "",
 "",
 [
-	["E1476","Birth","1988-07-25","25 JUL 1988",129,"Birth of Floyd, Joan Louise","",[],[]],
+	["E1476","Birth","1988-07-25","25 JUL 1988",174,"Birth of Floyd, Joan Louise","",[],[]],
 	["E1477","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -13015,14 +13015,14 @@ I = [
 ["I0251","Floyd, John S.","Floyd, John S.",
 [["Floyd, John S.","Birth Name","","","","John S.","",["Floyd"],"","","",[]]],
 "M","1802",
-"Lakeland, FL",
+"Lakeland, Polk, FL, USA",
 "1893",
-"Norfolk, NE",
+"Norfolk, NE, USA",
 "91 years",
 [
-	["E1291","Birth","1802","1802",422,"Birth of Floyd, John S.","",[],[]],
-	["E1292","Death","1893","1893",564,"Death of Floyd, John S.","",[],[]],
-	["E1293","Burial","","",220,"Burial of Floyd, John S.","",[],[]]
+	["E1291","Birth","1802","1802",621,"Birth of Floyd, John S.","",[],[]],
+	["E1292","Death","1893","1893",858,"Death of Floyd, John S.","",[],[]],
+	["E1293","Burial","","",320,"Burial of Floyd, John S.","",[],[]]
 ],
 [
 
@@ -13039,14 +13039,14 @@ I = [
 ["I0094","Floyd, Martha Frances \"Fannie\"","Floyd, Martha Frances \"Fannie\"",
 [["Floyd, Martha Frances \"Fannie\"","Birth Name","","","","Martha Frances \"Fannie\"","",["Floyd"],"","","",[]]],
 "F","1843",
-"Provo, UT",
+"Provo, UT, USA",
 "1913",
-"Syracuse, NY",
+"Syracuse, Onondaga, NY, USA",
 "69 years, 11 months, 4 days",
 [
-	["E2592","Birth","1843-05-13","13 MAY 1843",636,"Birth of Floyd, Martha Frances &#8220;Fannie&#8221;","",[],[]],
-	["E2593","Death","1913-04-17","17 APR 1913",758,"Death of Floyd, Martha Frances &#8220;Fannie&#8221;","",[],[]],
-	["E2594","Burial","1913-04-19","19 APR 1913",183,"Burial of Floyd, Martha Frances &#8220;Fannie&#8221;","",[],[]]
+	["E2592","Birth","1843-05-13","13 MAY 1843",960,"Birth of Floyd, Martha Frances &#8220;Fannie&#8221;","",[],[]],
+	["E2593","Death","1913-04-17","17 APR 1913",1129,"Death of Floyd, Martha Frances &#8220;Fannie&#8221;","",[],[]],
+	["E2594","Burial","1913-04-19","19 APR 1913",257,"Burial of Floyd, Martha Frances &#8220;Fannie&#8221;","",[],[]]
 ],
 [
 
@@ -13063,13 +13063,13 @@ I = [
 ["I1644","Floyd, Nancy","Floyd, Nancy",
 [["Floyd, Nancy","Birth Name","","","","Nancy","",["Floyd"],"","","",[]]],
 "F","1774",
-"Steubenville, OH",
+"Steubenville, OH, USA",
 "1849",
-"Orlando, FL",
+"Orlando, Orange, FL, USA",
 "75 years, 10 months, 25 days",
 [
-	["E0756","Birth","1774-01-01","1 JAN 1774",747,"Birth of Floyd, Nancy","",[],[]],
-	["E0757","Death","1849-11-26","26 NOV 1849",583,"Death of Floyd, Nancy","",[],[]]
+	["E0756","Birth","1774-01-01","1 JAN 1774",1111,"Birth of Floyd, Nancy","",[],[]],
+	["E0757","Death","1849-11-26","26 NOV 1849",888,"Death of Floyd, Nancy","",[],[]]
 ],
 [
 
@@ -13111,11 +13111,11 @@ I = [
 "F","?",
 "",
 "?",
-"Olean, NY",
+"Olean, Cattaraugus, NY, USA",
 "",
 [
-	["E1582","Death","","",577,"Death of Floyd, Sarah (Sally)","",[],[]],
-	["E1583","Burial","","",586,"Burial of Floyd, Sarah (Sally)","",[],[]]
+	["E1582","Death","","",877,"Death of Floyd, Sarah (Sally)","",[],[]],
+	["E1583","Burial","","",893,"Burial of Floyd, Sarah (Sally)","",[],[]]
 ],
 [
 
@@ -13176,14 +13176,14 @@ I = [
 ["I0407","Ford, Lorinda Catherine","Ford, Lorinda Catherine",
 [["Ford, Lorinda Catherine","Birth Name","","","","Lorinda Catherine","",["Ford"],"","","",[]]],
 "F","1916",
-"Kendallville, IN",
+"Kendallville, Noble, IN, USA",
 "1983",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "67 years, 27 days",
 [
-	["E1584","Birth","1916-10-31","31 OCT 1916",395,"Birth of Ford, Lorinda Catherine","",[],[]],
-	["E1585","Death","1983-11-27","27 NOV 1983",586,"Death of Ford, Lorinda Catherine","",[],[]],
-	["E1586","Burial","","",283,"Burial of Ford, Lorinda Catherine","",[],[]]
+	["E1584","Birth","1916-10-31","31 OCT 1916",580,"Birth of Ford, Lorinda Catherine","",[],[]],
+	["E1585","Death","1983-11-27","27 NOV 1983",893,"Death of Ford, Lorinda Catherine","",[],[]],
+	["E1586","Burial","","",406,"Burial of Ford, Lorinda Catherine","",[],[]]
 ],
 [
 
@@ -13355,12 +13355,12 @@ I = [
 ["I1033","Foster, John","Foster, John",
 [["Foster, John","Birth Name","","","","John","",["Foster"],"","","",[]]],
 "M","?",
-"Hilo, HI",
+"Hilo, HI, USA",
 "",
 "",
 "",
 [
-	["E0066","Birth","about 1504","ABT 1504",348,"Birth of Foster, John","",[],[]]
+	["E0066","Birth","about 1504","ABT 1504",502,"Birth of Foster, John","",[],[]]
 ],
 [
 
@@ -13377,13 +13377,13 @@ I = [
 ["I1037","Foster, John","Foster, John",
 [["Foster, John","Birth Name","","","","John","",["Foster"],"","","",[]]],
 "M","?",
-"Wilmington, OH",
+"Wilmington, OH, USA",
 "1598",
-"Wilmington, OH",
+"Wilmington, OH, USA",
 "about 43 years, 30 days",
 [
-	["E0072","Birth","about 1555","ABT 1555",834,"Birth of Foster, John","",[],[]],
-	["E0073","Death","1598-01-31","31 JAN 1598",834,"Death of Foster, John","",[],[]]
+	["E0072","Birth","about 1555","ABT 1555",1260,"Birth of Foster, John","",[],[]],
+	["E0073","Death","1598-01-31","31 JAN 1598",1260,"Death of Foster, John","",[],[]]
 ],
 [
 
@@ -13397,39 +13397,16 @@ I = [
 [[219,"Birth","Birth","",[]]],
 []
 ],
-["I1035","Foster, Thomas","Foster, Thomas",
-[["Foster, Thomas","Birth Name","","","","Thomas","",["Foster"],"","","",[]]],
-"M","?",
-"Bainbridge, GA",
-"1557",
-"Hilo, HI",
-"unknown",
-[
-	["E0068","Birth","","",52,"Birth of Foster, Thomas","",[],[]],
-	["E0069","Death","1557-06-23","23 JUN 1557",348,"Death of Foster, Thomas","",[],[]]
-],
-[
-
-],
-"",
-[],
-[],
-[],
-[],
-[219],
-[[218,"Birth","Birth","",[]]],
-[]
-],
 ["I1002","Foster, Thomas","Foster, Thomas",
 [["Foster, Thomas","Birth Name","","","","Thomas","",["Foster"],"","","",[]]],
 "M","1582",
-"Wilmington, OH",
+"Wilmington, OH, USA",
 "1658",
-"Portales, NM",
+"Portales, NM, USA",
 "76 years, 1 month, 17 days",
 [
-	["E0010","Birth","1582-04-14","14 APR 1582",834,"Birth of Foster, Thomas","",[],[]],
-	["E0011","Death","1658-06-01","1 JUN 1658",628,"Death of Foster, Thomas","",[],[]]
+	["E0010","Birth","1582-04-14","14 APR 1582",1260,"Birth of Foster, Thomas","",[],[]],
+	["E0011","Death","1658-06-01","1 JUN 1658",950,"Death of Foster, Thomas","",[],[]]
 ],
 [
 
@@ -13443,15 +13420,38 @@ I = [
 [[217,"Birth","Birth","",[]]],
 []
 ],
+["I1035","Foster, Thomas","Foster, Thomas",
+[["Foster, Thomas","Birth Name","","","","Thomas","",["Foster"],"","","",[]]],
+"M","?",
+"Bainbridge, Decatur, GA, USA",
+"1557",
+"Hilo, HI, USA",
+"unknown",
+[
+	["E0068","Birth","","",67,"Birth of Foster, Thomas","",[],[]],
+	["E0069","Death","1557-06-23","23 JUN 1557",502,"Death of Foster, Thomas","",[],[]]
+],
+[
+
+],
+"",
+[],
+[],
+[],
+[],
+[219],
+[[218,"Birth","Birth","",[]]],
+[]
+],
 ["I0674","Foster, William","Foster, William",
 [["Foster, William","Birth Name","","","","William","",["Foster"],"","","",[]]],
 "M","?",
-"Ukiah, CA",
+"Ukiah, Mendocino, CA, USA",
 "",
 "",
 "",
 [
-	["E2120","Birth","about 1625","ABT 1625",784,"Birth of Foster, William","",[],[]]
+	["E2120","Birth","about 1625","ABT 1625",1172,"Birth of Foster, William","",[],[]]
 ],
 [
 
@@ -13490,14 +13490,14 @@ I = [
 ["I0516","Fox, David","Fox, David",
 [["Fox, David","Birth Name","","","","David","",["Fox"],"","","",[]]],
 "M","1738",
-"Bangor, ME",
+"Bangor, ME, USA",
 "?",
-"Thomasville, GA",
+"Thomasville, Fulton, GA, USA",
 "unknown",
 [
-	["E1827","Birth","1738","1738",54,"Birth of Fox, David","",[],[]],
-	["E1828","Death","","",769,"Death of Fox, David","",[],[]],
-	["E1829","Burial","","",769,"Burial of Fox, David","",[],[]]
+	["E1827","Birth","1738","1738",71,"Birth of Fox, David","",[],[]],
+	["E1828","Death","","",1147,"Death of Fox, David","",[],[]],
+	["E1829","Burial","","",1147,"Burial of Fox, David","",[],[]]
 ],
 [
 
@@ -13514,14 +13514,14 @@ I = [
 ["I0025","Fox, David","Fox, David",
 [["Fox, David","Birth Name","","","","David","",["Fox"],"","","",[]]],
 "M","1798",
-"Warren-Farmington Hills-Troy, MI",
+"Warren-Farmington Hills-Troy, MI, USA",
 "1868",
-"Arlington, VA",
+"Arlington, VA, USA",
 "70 years, 9 days",
 [
-	["E1288","Birth","1798-07-22","22 JUL 1798",806,"Birth of Fox, David","",[],[]],
-	["E1289","Death","1868-07-31","31 JUL 1868",38,"Death of Fox, David","",[],[]],
-	["E1290","Burial","1868-08-02","2 AUG 1868",275,"Burial of Fox, David","",[],[]]
+	["E1288","Birth","1798-07-22","22 JUL 1798",1213,"Birth of Fox, David","",[],[]],
+	["E1289","Death","1868-07-31","31 JUL 1868",51,"Death of Fox, David","",[],[]],
+	["E1290","Burial","1868-08-02","2 AUG 1868",398,"Burial of Fox, David","",[],[]]
 ],
 [
 
@@ -13540,11 +13540,11 @@ I = [
 "M","1769",
 "",
 "1824",
-"Springfield, MO",
+"Springfield, MO, USA",
 "55 years, 7 months, 2 days",
 [
 	["E1830","Birth","1769-02-00","FEB 1769",-1,"Birth of Fox, Jacob, Sr.","",[],[]],
-	["E1831","Death","1824-09-03","3 SEP 1824",734,"Death of Fox, Jacob, Sr.","",[],[]]
+	["E1831","Death","1824-09-03","3 SEP 1824",1088,"Death of Fox, Jacob, Sr.","",[],[]]
 ],
 [
 
@@ -13561,14 +13561,14 @@ I = [
 ["I0032","Fox, Julia Colville","Fox, Julia Colville",
 [["Fox, Julia Colville","Birth Name","","","","Julia Colville","",["Fox"],"","","",[]]],
 "F","1823",
-"Lawton, OK",
+"Lawton, OK, USA",
 "1904",
-"Bridgeton, NJ",
+"Bridgeton, NJ, USA",
 "80 years, 1 month, 18 days",
 [
-	["E1423","Birth","1823-12-25","25 DEC 1823",436,"Birth of Fox, Julia Colville","",[],[]],
-	["E1424","Death","1904-02-12","12 FEB 1904",102,"Death of Fox, Julia Colville","",[],[]],
-	["E1425","Burial","1904","1904",275,"Burial of Fox, Julia Colville","",[],[]]
+	["E1423","Birth","1823-12-25","25 DEC 1823",642,"Birth of Fox, Julia Colville","",[],[]],
+	["E1424","Death","1904-02-12","12 FEB 1904",137,"Death of Fox, Julia Colville","",[],[]],
+	["E1425","Burial","1904","1904",398,"Burial of Fox, Julia Colville","",[],[]]
 ],
 [
 
@@ -13585,14 +13585,14 @@ I = [
 ["I0515","Fox, Samuel","Fox, Samuel",
 [["Fox, Samuel","Birth Name","","","","Samuel","",["Fox"],"","","",[]]],
 "M","1700",
-"Yazoo City, MS",
+"Yazoo City, MS, USA",
 "1744",
-"Pecos, TX",
+"Pecos, Reeves, TX, USA",
 "44 years",
 [
-	["E1824","Birth","1700","1700",847,"Birth of Fox, Samuel","",[],[]],
-	["E1825","Death","1744","1744",603,"Death of Fox, Samuel","",[],[]],
-	["E1826","Burial","","",769,"Burial of Fox, Samuel","",[],[]]
+	["E1824","Birth","1700","1700",1281,"Birth of Fox, Samuel","",[],[]],
+	["E1825","Death","1744","1744",916,"Death of Fox, Samuel","",[],[]],
+	["E1826","Burial","","",1147,"Burial of Fox, Samuel","",[],[]]
 ],
 [
 
@@ -13609,14 +13609,14 @@ I = [
 ["I0682","Fox, William","Fox, William",
 [["Fox, William","Birth Name","","","","William","",["Fox"],"","","",[]]],
 "M","?",
-"Sherman-Denison, TX",
+"Sherman-Denison, TX, USA",
 "1709",
-"Raleigh-Cary, NC",
+"Raleigh-Cary, NC, USA",
 "unknown",
 [
-	["E2136","Birth","","",714,"Birth of Fox, William","",[],[]],
-	["E2137","Death","1709","1709",643,"Death of Fox, William","",[],[]],
-	["E2138","Burial","","",35,"Burial of Fox, William","",[],[]]
+	["E2136","Birth","","",1066,"Birth of Fox, William","",[],[]],
+	["E2137","Death","1709","1709",971,"Death of Fox, William","",[],[]],
+	["E2138","Burial","","",48,"Burial of Fox, William","",[],[]]
 ],
 [
 
@@ -13635,11 +13635,11 @@ I = [
 "F","?",
 "",
 "?",
-"Little Rock, AR",
+"Little Rock, Pulaski, AR, USA",
 "",
 [
-	["E2622","Death","","",452,"Death of Francis, Elizabeth","",[],[]],
-	["E2623","Burial","","",452,"Burial of Francis, Elizabeth","",[],[]]
+	["E2622","Death","","",666,"Death of Francis, Elizabeth","",[],[]],
+	["E2623","Burial","","",666,"Burial of Francis, Elizabeth","",[],[]]
 ],
 [
 
@@ -13656,12 +13656,12 @@ I = [
 ["I0736","Frank, ???","Frank, ???",
 [["Frank, ???","Birth Name","","","","???","",["Frank"],"","","",[]]],
 "F","?",
-"Davenport, IA",
+"Davenport, Scott, IA, USA",
 "",
 "",
 "",
 [
-	["E2210","Birth","","",199,"Birth of Frank, ???","",[],[]]
+	["E2210","Birth","","",282,"Birth of Frank, ???","",[],[]]
 ],
 [
 
@@ -13744,12 +13744,12 @@ I = [
 ["I0299","French, Erin Jenny","French, Erin Jenny",
 [["French, Erin Jenny","Birth Name","","","","Erin Jenny","",["French"],"","","",[]]],
 "F","1981",
-"Medford, OR",
+"Medford, OR, USA",
 "",
 "",
 "",
 [
-	["E1376","Birth","1981-08-06","6 AUG 1981",498,"Birth of French, Erin Jenny","",[],[]],
+	["E1376","Birth","1981-08-06","6 AUG 1981",747,"Birth of French, Erin Jenny","",[],[]],
 	["E1377","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -13767,12 +13767,12 @@ I = [
 ["I0297","French, Jimmy Michael","French, Jimmy Michael",
 [["French, Jimmy Michael","Birth Name","","","","Jimmy Michael","",["French"],"","","",[]]],
 "M","1947",
-"Muskogee, OK",
+"Muskogee, OK, USA",
 "",
 "",
 "",
 [
-	["E1372","Birth","1947-04-06","6 APR 1947",546,"Birth of French, Jimmy Michael","",[],[]],
+	["E1372","Birth","1947-04-06","6 APR 1947",825,"Birth of French, Jimmy Michael","",[],[]],
 	["E1373","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -13790,12 +13790,12 @@ I = [
 ["I0298","French, Kevin Wayne","French, Kevin Wayne",
 [["French, Kevin Wayne","Birth Name","","","","Kevin Wayne","",["French"],"","","",[]]],
 "M","1973",
-"Taos, NM",
+"Taos, NM, USA",
 "",
 "",
 "",
 [
-	["E1374","Birth","1973-07-03","3 JUL 1973",763,"Birth of French, Kevin Wayne","",[],[]],
+	["E1374","Birth","1973-07-03","3 JUL 1973",1136,"Birth of French, Kevin Wayne","",[],[]],
 	["E1375","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -13815,10 +13815,10 @@ I = [
 "M","?",
 "",
 "?",
-"Mount Vernon, WA",
+"Mount Vernon, WA, USA",
 "",
 [
-	["E1053","Death","before 1901","BEF 1901",540,"Death of Gagné, Thomas","",[],[]]
+	["E1053","Death","before 1901","BEF 1901",814,"Death of Gagné, Thomas","",[],[]]
 ],
 [
 
@@ -13860,10 +13860,10 @@ I = [
 "F","?",
 "",
 "?",
-"Sterling, IL",
+"Sterling, Whiteside, IL, USA",
 "",
 [
-	["E2091","Burial","","",746,"Burial of García, Maude","",[],[]]
+	["E2091","Burial","","",1108,"Burial of García, Maude","",[],[]]
 ],
 [
 
@@ -13880,14 +13880,14 @@ I = [
 ["I0836","Gardner, Mary","Gardner, Mary",
 [["Gardner, Mary","Birth Name","","","","Mary","",["Gardner"],"","","",[]]],
 "F","?",
-"Del Rio, TX",
+"Del Rio, Val Verde, TX, USA",
 "?",
-"Andrews, TX",
+"Andrews, Andrews, TX, USA",
 "unknown",
 [
-	["E2398","Birth","","",206,"Birth of Gardner, Mary","",[],[]],
-	["E2399","Death","","",31,"Death of Gardner, Mary","",[],[]],
-	["E2400","Burial","","",724,"Burial of Gardner, Mary","",[],[]]
+	["E2398","Birth","","",298,"Birth of Gardner, Mary","",[],[]],
+	["E2399","Death","","",40,"Death of Gardner, Mary","",[],[]],
+	["E2400","Burial","","",1078,"Burial of Gardner, Mary","",[],[]]
 ],
 [
 
@@ -13906,11 +13906,11 @@ I = [
 "F","?",
 "",
 "1963",
-"Whitewater, WI",
+"Whitewater, WI, USA",
 "",
 [
-	["E2471","Death","1963-01-10","10 JAN 1963",826,"Death of Gardner, Mary Jane","",[],[]],
-	["E2472","Burial","1963-01-12","12 JAN 1963",488,"Burial of Gardner, Mary Jane","",[],[]]
+	["E2471","Death","1963-01-10","10 JAN 1963",1247,"Death of Gardner, Mary Jane","",[],[]],
+	["E2472","Burial","1963-01-12","12 JAN 1963",728,"Burial of Gardner, Mary Jane","",[],[]]
 ],
 [
 
@@ -13927,12 +13927,12 @@ I = [
 ["I0844","Gardner, Michael","Gardner, Michael",
 [["Gardner, Michael","Birth Name","","","","Michael","",["Gardner"],"","","",[]]],
 "M","?",
-"Loveland, CO",
+"Loveland, Larimer, CO, USA",
 "",
 "",
 "",
 [
-	["E2416","Birth","","",461,"Birth of Gardner, Michael","",[],[]]
+	["E2416","Birth","","",680,"Birth of Gardner, Michael","",[],[]]
 ],
 [
 
@@ -13993,12 +13993,12 @@ I = [
 ["I1335","Garner, Alecia \"Allie\" Clare","Garner, Alecia \"Allie\" Clare",
 [["Garner, Alecia \"Allie\" Clare","Birth Name","","","","Alecia \"Allie\" Clare","",["Garner"],"","","",[]]],
 "F","1997",
-"Fergus Falls, MN",
+"Fergus Falls, MN, USA",
 "",
 "",
 "",
 [
-	["E0434","Birth","1997-12-26","26 DEC 1997",262,"Birth of Garner, Alecia &#8220;Allie&#8221; Clare","",[],[]],
+	["E0434","Birth","1997-12-26","26 DEC 1997",380,"Birth of Garner, Alecia &#8220;Allie&#8221; Clare","",[],[]],
 	["E0435","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -14062,14 +14062,14 @@ I = [
 ["I1106","Garner, Anderson","Garner, Anderson",
 [["Garner, Anderson","Birth Name","","","","Anderson","",["Garner"],"","","",[]]],
 "M","1825",
-"Steubenville, OH",
+"Steubenville, OH, USA",
 "1887",
-"Oakland, CA",
+"Oakland, Alameda, CA, USA",
 "62 years, 2 months, 10 days",
 [
-	["E0178","Birth","1825-01-28","28 JAN 1825",747,"Birth of Garner, Anderson","",[],[]],
-	["E0179","Death","1887-04-07","7 APR 1887",569,"Death of Garner, Anderson","",[],[]],
-	["E0180","Burial","1887-04-08","8 APR 1887",569,"Burial of Garner, Anderson","",[],[]]
+	["E0178","Birth","1825-01-28","28 JAN 1825",1111,"Birth of Garner, Anderson","",[],[]],
+	["E0179","Death","1887-04-07","7 APR 1887",866,"Death of Garner, Anderson","",[],[]],
+	["E0180","Burial","1887-04-08","8 APR 1887",866,"Burial of Garner, Anderson","",[],[]]
 ],
 [
 
@@ -14086,12 +14086,12 @@ I = [
 ["I2044","Garner, Andrew Joseph","Garner, Andrew Joseph",
 [["Garner, Andrew Joseph","Birth Name","","","","Andrew Joseph","",["Garner"],"","","",[]]],
 "M","1999",
-"Worthington, MN",
+"Worthington, MN, USA",
 "",
 "",
 "",
 [
-	["E1174","Birth","1999-04-11","11 APR 1999",843,"Birth of Garner, Andrew Joseph","",[],[]],
+	["E1174","Birth","1999-04-11","11 APR 1999",1273,"Birth of Garner, Andrew Joseph","",[],[]],
 	["E1175","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -14109,14 +14109,14 @@ I = [
 ["I1126","Garner, Anetta","Garner, Anetta",
 [["Garner, Anetta","Birth Name","","","","Anetta","",["Garner"],"","","",[]]],
 "F","1870",
-"Centralia, WA",
+"Centralia, WA, USA",
 "1900",
-"Columbus, IN",
+"Columbus, Bartholomew, IN, USA",
 "30 years, 3 months, 21 days",
 [
-	["E0217","Birth","1870-06-13","13 JUN 1870",138,"Birth of Garner, Anetta","",[],[]],
-	["E0218","Death","1900-10-04","4 OCT 1900",170,"Death of Garner, Anetta","",[],[]],
-	["E0219","Burial","1900-10-00","OCT 1900",751,"Burial of Garner, Anetta","",[],[]]
+	["E0217","Birth","1870-06-13","13 JUN 1870",186,"Birth of Garner, Anetta","",[],[]],
+	["E0218","Death","1900-10-04","4 OCT 1900",243,"Death of Garner, Anetta","",[],[]],
+	["E0219","Burial","1900-10-00","OCT 1900",1115,"Burial of Garner, Anetta","",[],[]]
 ],
 [
 
@@ -14133,12 +14133,12 @@ I = [
 ["I0016","Garner, Anne Therese","Garner, Anne Therese",
 [["Garner, Anne Therese","Birth Name","","","","Anne Therese","",["Garner"],"","","",[]]],
 "F","1950",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E0716","Birth","1950-09-10","10 SEP 1950",586,"Birth of Garner, Anne Therese","",[],[]],
+	["E0716","Birth","1950-09-10","10 SEP 1950",893,"Birth of Garner, Anne Therese","",[],[]],
 	["E0717","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -14156,12 +14156,12 @@ I = [
 ["I1128","Garner, Antoinette","Garner, Antoinette",
 [["Garner, Antoinette","Birth Name","","","","Antoinette","",["Garner"],"","","",[]]],
 "F","1870",
-"Starkville, MS",
+"Starkville, MS, USA",
 "?",
 "",
 "less than 9 years, 6 months, 19 days",
 [
-	["E0220","Birth","1870-06-13","13 JUN 1870",740,"Birth of Garner, Antoinette","",[],[]],
+	["E0220","Birth","1870-06-13","13 JUN 1870",1100,"Birth of Garner, Antoinette","",[],[]],
 	["E0221","Death","before 1880","BEF 1880",-1,"Death of Garner, Antoinette","",[],[]]
 ],
 [
@@ -14179,12 +14179,12 @@ I = [
 ["I0179","Garner, Barbara Jo","Garner, Barbara Jo",
 [["Garner, Barbara Jo","Birth Name","","","","Barbara Jo","",["Garner"],"","","",[]]],
 "F","1949",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E0906","Birth","1949-11-08","8 NOV 1949",586,"Birth of Garner, Barbara Jo","",[],[]],
+	["E0906","Birth","1949-11-08","8 NOV 1949",893,"Birth of Garner, Barbara Jo","",[],[]],
 	["E0907","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -14202,12 +14202,12 @@ I = [
 ["I0015","Garner, Barry Joseph","Garner, Barry Joseph",
 [["Garner, Barry Joseph","Birth Name","","","","Barry Joseph","",["Garner"],"","","",[]]],
 "M","1948",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E0659","Birth","1948-12-14","14 DEC 1948",586,"Birth of Garner, Barry Joseph","",[],[]],
+	["E0659","Birth","1948-12-14","14 DEC 1948",893,"Birth of Garner, Barry Joseph","",[],[]],
 	["E0660","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -14225,12 +14225,12 @@ I = [
 ["I0182","Garner, Bernadette","Garner, Bernadette",
 [["Garner, Bernadette","Birth Name","","","","Bernadette","",["Garner"],"","","",[]]],
 "F","1957",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E0959","Birth","1957-08-31","31 AUG 1957",586,"Birth of Garner, Bernadette","",[],[]],
+	["E0959","Birth","1957-08-31","31 AUG 1957",893,"Birth of Garner, Bernadette","",[],[]],
 	["E0960","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -14271,14 +14271,14 @@ I = [
 ["I0628","Garner, Bertha P.","Garner, Bertha P.",
 [["Garner, Bertha P.","Birth Name","","","","Bertha P.","",["Garner"],"","","",[]]],
 "F","1888",
-"Hagerstown, MD",
+"Hagerstown, MD, USA",
 "1918",
-"Columbus, IN",
+"Columbus, Bartholomew, IN, USA",
 "30 years, 23 days",
 [
-	["E2051","Birth","1888-03-13","13 MAR 1888",329,"Birth of Garner, Bertha P.","",[],[]],
-	["E2052","Death","1918-04-05","5 APR 1918",170,"Death of Garner, Bertha P.","",[],[]],
-	["E2053","Burial","1918-04-00","APR 1918",746,"Burial of Garner, Bertha P.","",[],[]]
+	["E2051","Birth","1888-03-13","13 MAR 1888",471,"Birth of Garner, Bertha P.","",[],[]],
+	["E2052","Death","1918-04-05","5 APR 1918",243,"Death of Garner, Bertha P.","",[],[]],
+	["E2053","Burial","1918-04-00","APR 1918",1108,"Burial of Garner, Bertha P.","",[],[]]
 ],
 [
 
@@ -14295,12 +14295,12 @@ I = [
 ["I0636","Garner, Betty Jane","Garner, Betty Jane",
 [["Garner, Betty Jane","Birth Name","","","","Betty Jane","",["Garner"],"","","",[]]],
 "F","1920",
-"Denver-Aurora, CO",
+"Denver-Aurora, CO, USA",
 "",
 "",
 "",
 [
-	["E2073","Birth","1920-08-25","25 AUG 1920",209,"Birth of Garner, Betty Jane","",[],[]],
+	["E2073","Birth","1920-08-25","25 AUG 1920",302,"Birth of Garner, Betty Jane","",[],[]],
 	["E2074","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -14318,14 +14318,14 @@ I = [
 ["I0631","Garner, Cecile Elizabeth","Garner, Cecile Elizabeth",
 [["Garner, Cecile Elizabeth","Birth Name","","","","Cecile Elizabeth","",["Garner"],"","","",[]]],
 "F","1908",
-"McMinnville, TN",
+"McMinnville, TN, USA",
 "1975",
-"Baraboo, WI",
+"Baraboo, WI, USA",
 "67 years, 9 days",
 [
-	["E2061","Birth","1908-03-13","13 MAR 1908",496,"Birth of Garner, Cecile Elizabeth","",[],[]],
-	["E2062","Death","1975-03-22","22 MAR 1975",55,"Death of Garner, Cecile Elizabeth","",[],[]],
-	["E2063","Burial","","",746,"Burial of Garner, Cecile Elizabeth","",[],[]]
+	["E2061","Birth","1908-03-13","13 MAR 1908",742,"Birth of Garner, Cecile Elizabeth","",[],[]],
+	["E2062","Death","1975-03-22","22 MAR 1975",73,"Death of Garner, Cecile Elizabeth","",[],[]],
+	["E2063","Burial","","",1108,"Burial of Garner, Cecile Elizabeth","",[],[]]
 ],
 [
 
@@ -14342,12 +14342,12 @@ I = [
 ["I0184","Garner, Cecilia","Garner, Cecilia",
 [["Garner, Cecilia","Birth Name","","","","Cecilia","",["Garner"],"","","",[]]],
 "F","1960",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E0975","Birth","1960-07-14","14 JUL 1960",586,"Birth of Garner, Cecilia","",[],[]],
+	["E0975","Birth","1960-07-14","14 JUL 1960",893,"Birth of Garner, Cecilia","",[],[]],
 	["E0976","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -14365,14 +14365,14 @@ I = [
 ["I0634","Garner, Daniel Burton","Garner, Daniel Burton",
 [["Garner, Daniel Burton","Birth Name","","","","Daniel Burton","",["Garner"],"","","",[]]],
 "M","1914",
-"Bloomington, IN",
+"Bloomington, Monroe, IN, USA",
 "1916",
-"Paragould, AR",
+"Paragould, Greene, AR, USA",
 "2 years, 25 days",
 [
-	["E2068","Birth","1914-09-07","7 SEP 1914",84,"Birth of Garner, Daniel Burton","",[],[]],
-	["E2069","Death","1916-10-02","2 OCT 1916",600,"Death of Garner, Daniel Burton","",[],[]],
-	["E2070","Burial","","",746,"Burial of Garner, Daniel Burton","",[],[]]
+	["E2068","Birth","1914-09-07","7 SEP 1914",112,"Birth of Garner, Daniel Burton","",[],[]],
+	["E2069","Death","1916-10-02","2 OCT 1916",912,"Death of Garner, Daniel Burton","",[],[]],
+	["E2070","Burial","","",1108,"Burial of Garner, Daniel Burton","",[],[]]
 ],
 [
 
@@ -14389,12 +14389,12 @@ I = [
 ["I0125","Garner, Daniel Patrick","Garner, Daniel Patrick",
 [["Garner, Daniel Patrick","Birth Name","","","","Daniel Patrick","",["Garner"],"","","",[]]],
 "M","1985",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E0345","Birth","1985-02-11","11 FEB 1985",586,"Birth of Garner, Daniel Patrick","",[],[]],
+	["E0345","Birth","1985-02-11","11 FEB 1985",893,"Birth of Garner, Daniel Patrick","",[],[]],
 	["E0346","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -14412,14 +14412,14 @@ I = [
 ["I0627","Garner, Daniel Webster","Garner, Daniel Webster",
 [["Garner, Daniel Webster","Birth Name","","","","Daniel Webster","",["Garner"],"","","",[]]],
 "M","1883",
-"Hood River, OR",
+"Hood River, OR, USA",
 "1936",
-"Gary, IN",
+"Gary, Lake, IN, USA",
 "52 years, 5 months, 2 days",
 [
-	["E2048","Birth","1883-09-30","30 SEP 1883",355,"Birth of Garner, Daniel Webster","",[],[]],
-	["E2049","Death","1936-03-02","2 MAR 1936",298,"Death of Garner, Daniel Webster","",[],[]],
-	["E2050","Burial","1936-03-04","4 MAR 1936",746,"Burial of Garner, Daniel Webster","",[],[]]
+	["E2048","Birth","1883-09-30","30 SEP 1883",510,"Birth of Garner, Daniel Webster","",[],[]],
+	["E2049","Death","1936-03-02","2 MAR 1936",430,"Death of Garner, Daniel Webster","",[],[]],
+	["E2050","Burial","1936-03-04","4 MAR 1936",1108,"Burial of Garner, Daniel Webster","",[],[]]
 ],
 [
 
@@ -14436,12 +14436,12 @@ I = [
 ["I0018","Garner, David Walter","Garner, David Walter",
 [["Garner, David Walter","Birth Name","","","","David Walter","",["Garner"],"","","",[]]],
 "M","1956",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E0925","Birth","1956-12-21","21 DEC 1956",586,"Birth of Garner, David Walter","",[],[]],
+	["E0925","Birth","1956-12-21","21 DEC 1956",893,"Birth of Garner, David Walter","",[],[]],
 	["E0926","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -14461,11 +14461,11 @@ I = [
 "F","1883",
 "",
 "?",
-"Hays, KS",
+"Hays, Ellis, KS, USA",
 "unknown",
 [
 	["E2054","Birth","1883","1883",-1,"Birth of Garner, Elizabeth","",[],[]],
-	["E2055","Burial","","",342,"Burial of Garner, Elizabeth","",[],[]]
+	["E2055","Burial","","",490,"Burial of Garner, Elizabeth","",[],[]]
 ],
 [
 
@@ -14489,7 +14489,7 @@ I = [
 [
 	["E0214","Birth","1868-08-18","18 AUG 1868",-1,"Birth of Garner, Emma A.","",[],[]],
 	["E0215","Death","1869-02-23","23 FEB 1869",-1,"Death of Garner, Emma A.","",[],[]],
-	["E0216","Burial","1869-02-00","FEB 1869",751,"Burial of Garner, Emma A.","",[],[]]
+	["E0216","Burial","1869-02-00","FEB 1869",1115,"Burial of Garner, Emma A.","",[],[]]
 ],
 [
 
@@ -14506,14 +14506,14 @@ I = [
 ["I0046","Garner, Eugene Stanley","Garner, Eugene Stanley",
 [["Garner, Eugene Stanley","Birth Name","","","","Eugene Stanley","",["Garner"],"","","",[]]],
 "M","1895",
-"Portsmouth, OH",
+"Portsmouth, OH, USA",
 "1984",
-"Twin Falls, ID",
+"Twin Falls, Twin Falls, ID, USA",
 "88 years, 3 months",
 [
-	["E1702","Birth","1895-12-01","1 DEC 1895",632,"Birth of Garner, Eugene Stanley","",[],[]],
-	["E1703","Death","1984-03-01","1 MAR 1984",782,"Death of Garner, Eugene Stanley","",[],[]],
-	["E1704","Burial","1984-03-03","3 MAR 1984",782,"Burial of Garner, Eugene Stanley","",[],[]]
+	["E1702","Birth","1895-12-01","1 DEC 1895",954,"Birth of Garner, Eugene Stanley","",[],[]],
+	["E1703","Death","1984-03-01","1 MAR 1984",1168,"Death of Garner, Eugene Stanley","",[],[]],
+	["E1704","Burial","1984-03-03","3 MAR 1984",1168,"Burial of Garner, Eugene Stanley","",[],[]]
 ],
 [
 
@@ -14530,12 +14530,12 @@ I = [
 ["I0135","Garner, Eugene Stanley, Jr.","Garner, Eugene Stanley, Jr.",
 [["Garner, Eugene Stanley, Jr.","Birth Name","","","","Eugene Stanley, Jr.","",["Garner"],"","","",[]]],
 "M","?",
-"Vernon, TX",
+"Vernon, Wilbarger, TX, USA",
 "",
 "",
 "",
 [
-	["E0457","Birth","","",795,"Birth of Garner, Eugene Stanley, Jr.","",[],[]],
+	["E0457","Birth","","",1194,"Birth of Garner, Eugene Stanley, Jr.","",[],[]],
 	["E0458","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -14576,12 +14576,12 @@ I = [
 ["I0017","Garner, Gerard Stephen","Garner, Gerard Stephen",
 [["Garner, Gerard Stephen","Birth Name","","","","Gerard Stephen","",["Garner"],"","","",[]]],
 "M","1955",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E0808","Birth","1955-07-31","31 JUL 1955",586,"Birth of Garner, Gerard Stephen","",[],[]],
+	["E0808","Birth","1955-07-31","31 JUL 1955",893,"Birth of Garner, Gerard Stephen","",[],[]],
 	["E0809","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -14622,12 +14622,12 @@ I = [
 ["I0632","Garner, Helen Bernice","Garner, Helen Bernice",
 [["Garner, Helen Bernice","Birth Name","","","","Helen Bernice","",["Garner"],"","","",[]]],
 "F","1909",
-"Ponca City, OK",
+"Ponca City, OK, USA",
 "",
 "",
 "",
 [
-	["E2064","Birth","1909-11-05","5 NOV 1909",622,"Birth of Garner, Helen Bernice","",[],[]],
+	["E2064","Birth","1909-11-05","5 NOV 1909",943,"Birth of Garner, Helen Bernice","",[],[]],
 	["E2065","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -14645,12 +14645,12 @@ I = [
 ["I0010","Garner, Howard Lane","Garner, Howard Lane",
 [["Garner, Howard Lane","Birth Name","","","","Howard Lane","",["Garner"],"","","",[]]],
 "M","1928",
-"LaGrange, GA",
+"LaGrange, GA, USA",
 "",
 "",
 "",
 [
-	["E0002","Birth","1928-07-09","9 JUL 1928",417,"Birth of Garner, Howard Lane","",[],[]]
+	["E0002","Birth","1928-07-09","9 JUL 1928",614,"Birth of Garner, Howard Lane","",[],[]]
 ],
 [
 
@@ -14667,14 +14667,14 @@ I = [
 ["I1121","Garner, Iola Elizabeth Betty","Garner, Iola Elizabeth Betty",
 [["Garner, Iola Elizabeth Betty","Birth Name","","","","Iola Elizabeth Betty","",["Garner"],"","","",[]]],
 "F","1860",
-"Orlando, FL",
+"Orlando, Orange, FL, USA",
 "1941",
-"Killeen, TX",
+"Killeen, Bell, TX, USA",
 "80 years, 5 months, 16 days",
 [
-	["E0208","Birth","1860-11-01","1 NOV 1860",583,"Birth of Garner, Iola Elizabeth Betty","",[],[]],
-	["E0209","Death","1941-04-17","17 APR 1941",403,"Death of Garner, Iola Elizabeth Betty","",[],[]],
-	["E0210","Burial","1941-04-19","19 APR 1941",164,"Burial of Garner, Iola Elizabeth Betty","",[],[]]
+	["E0208","Birth","1860-11-01","1 NOV 1860",888,"Birth of Garner, Iola Elizabeth Betty","",[],[]],
+	["E0209","Death","1941-04-17","17 APR 1941",590,"Death of Garner, Iola Elizabeth Betty","",[],[]],
+	["E0210","Burial","1941-04-19","19 APR 1941",232,"Burial of Garner, Iola Elizabeth Betty","",[],[]]
 ],
 [
 
@@ -14691,12 +14691,12 @@ I = [
 ["I0670","Garner, Jane McClellan","Garner, Jane McClellan",
 [["Garner, Jane McClellan","Birth Name","","","","Jane McClellan","",["Garner"],"","","",[]]],
 "F","1950",
-"Norwich, CT",
+"Norwich, New London, CT, USA",
 "",
 "",
 "",
 [
-	["E2116","Birth","1950-04-27","27 APR 1950",568,"Birth of Garner, Jane McClellan","",[],[]],
+	["E2116","Birth","1950-04-27","27 APR 1950",862,"Birth of Garner, Jane McClellan","",[],[]],
 	["E2117","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -14737,14 +14737,14 @@ I = [
 ["I0625","Garner, Jennie S.","Garner, Jennie S.",
 [["Garner, Jennie S.","Birth Name","","","","Jennie S.","",["Garner"],"","","",[]]],
 "F","1880",
-"Paragould, AR",
+"Paragould, Greene, AR, USA",
 "1964",
-"Columbus, IN",
+"Columbus, Bartholomew, IN, USA",
 "83 years, 9 months, 9 days",
 [
-	["E2042","Birth","1880-09-11","11 SEP 1880",600,"Birth of Garner, Jennie S.","",[],[]],
-	["E2043","Death","1964-06-20","20 JUN 1964",170,"Death of Garner, Jennie S.","",[],[]],
-	["E2044","Burial","1964-06-00","JUN 1964",746,"Burial of Garner, Jennie S.","",[],[]]
+	["E2042","Birth","1880-09-11","11 SEP 1880",912,"Birth of Garner, Jennie S.","",[],[]],
+	["E2043","Death","1964-06-20","20 JUN 1964",243,"Death of Garner, Jennie S.","",[],[]],
+	["E2044","Burial","1964-06-00","JUN 1964",1108,"Burial of Garner, Jennie S.","",[],[]]
 ],
 [
 
@@ -14761,14 +14761,14 @@ I = [
 ["I0623","Garner, Jesse V.","Garner, Jesse V.",
 [["Garner, Jesse V.","Birth Name","","","","Jesse V.","",["Garner"],"","","",[]]],
 "M","1876",
-"Paragould, AR",
+"Paragould, Greene, AR, USA",
 "1929",
-"Cedar City, UT",
+"Cedar City, UT, USA",
 "52 years, 7 months, 3 days",
 [
-	["E2037","Birth","1876-06-18","18 JUN 1876",600,"Birth of Garner, Jesse V.","",[],[]],
-	["E2038","Death","1929-01-21","21 JAN 1929",133,"Death of Garner, Jesse V.","",[],[]],
-	["E2039","Burial","1929","1929",746,"Burial of Garner, Jesse V.","",[],[]]
+	["E2037","Birth","1876-06-18","18 JUN 1876",912,"Birth of Garner, Jesse V.","",[],[]],
+	["E2038","Death","1929-01-21","21 JAN 1929",181,"Death of Garner, Jesse V.","",[],[]],
+	["E2039","Burial","1929","1929",1108,"Burial of Garner, Jesse V.","",[],[]]
 ],
 [
 
@@ -14785,12 +14785,12 @@ I = [
 ["I0186","Garner, John Joseph","Garner, John Joseph",
 [["Garner, John Joseph","Birth Name","","","","John Joseph","",["Garner"],"","","",[]]],
 "M","1961",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E0994","Birth","1961-08-15","15 AUG 1961",586,"Birth of Garner, John Joseph","",[],[]],
+	["E0994","Birth","1961-08-15","15 AUG 1961",893,"Birth of Garner, John Joseph","",[],[]],
 	["E0995","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -14808,12 +14808,12 @@ I = [
 ["I0136","Garner, John Roger","Garner, John Roger",
 [["Garner, John Roger","Birth Name","","","","John Roger","",["Garner"],"","","",[]]],
 "M","1925",
-"Lafayette, IN",
+"Lafayette, Tippecanoe, IN, USA",
 "",
 "",
 "",
 [
-	["E0471","Birth","1925-10-29","29 OCT 1925",415,"Birth of Garner, John Roger","",[],[]],
+	["E0471","Birth","1925-10-29","29 OCT 1925",611,"Birth of Garner, John Roger","",[],[]],
 	["E0472","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -14831,13 +14831,13 @@ I = [
 ["I0104","Garner, Joseph","Garner, Joseph",
 [["Garner, Joseph","Birth Name","","","","Joseph","",["Garner"],"","","",[]]],
 "M","1792",
-"Steubenville, OH",
+"Steubenville, OH, USA",
 "?",
-"Shawnee, OK",
+"Shawnee, OK, USA",
 "unknown",
 [
-	["E0076","Birth","1792","1792",747,"Birth of Garner, Joseph","",[],[]],
-	["E0077","Death","","",708,"Death of Garner, Joseph","",[],[]]
+	["E0076","Birth","1792","1792",1111,"Birth of Garner, Joseph","",[],[]],
+	["E0077","Death","","",1060,"Death of Garner, Joseph","",[],[]]
 ],
 [
 
@@ -14854,12 +14854,12 @@ I = [
 ["I0180","Garner, Kathryn Mary","Garner, Kathryn Mary",
 [["Garner, Kathryn Mary","Birth Name","","","","Kathryn Mary","",["Garner"],"","","",[]]],
 "F","1952",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E0927","Birth","1952-09-10","10 SEP 1952",586,"Birth of Garner, Kathryn Mary","",[],[]],
+	["E0927","Birth","1952-09-10","10 SEP 1952",893,"Birth of Garner, Kathryn Mary","",[],[]],
 	["E0928","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -14877,14 +14877,14 @@ I = [
 ["I1105","Garner, Lewis","Garner, Lewis",
 [["Garner, Lewis","Birth Name","","","","Lewis","",["Garner"],"","","",[]]],
 "M","1823",
-"Moscow, ID",
+"Moscow, Latah, ID, USA",
 "1911",
-"Twin Falls, ID",
+"Twin Falls, Twin Falls, ID, USA",
 "87 years, 2 months, 3 days",
 [
-	["E0175","Birth","1823-11-18","18 NOV 1823",533,"Birth of Garner, Lewis","",[],[]],
-	["E0176","Death","1911-01-21","21 JAN 1911",782,"Death of Garner, Lewis","",[],[]],
-	["E0177","Burial","1911-01-23","23 JAN 1911",409,"Burial of Garner, Lewis","",[],[]]
+	["E0175","Birth","1823-11-18","18 NOV 1823",807,"Birth of Garner, Lewis","",[],[]],
+	["E0176","Death","1911-01-21","21 JAN 1911",1168,"Death of Garner, Lewis","",[],[]],
+	["E0177","Burial","1911-01-23","23 JAN 1911",597,"Burial of Garner, Lewis","",[],[]]
 ],
 [
 
@@ -14901,14 +14901,14 @@ I = [
 ["I0044","Garner von Zieliński, Lewis Anderson Sr","Garner von Zieliński, Lewis Anderson Sr",
 [["Garner von Zieliński, Lewis Anderson Sr","Birth Name","Dr.","Big Louie","Anderson","Lewis Anderson","Sr",["Garner","Zieliński"],"Beauregard","1875-04-01","",[]],["Garner, Louis","Also Known As","","","","Louis","",["Garner"],"","","",[]],["Garner, Louie","Other Name","","","","Louie","",["Garner"],"","","",[]]],
 "M","1855",
-"Great Falls, MT",
+"Great Falls, MT, USA",
 "1911",
-"Twin Falls, ID",
+"Twin Falls, Twin Falls, ID, USA",
 "56 years, 7 days",
 [
-	["E1656","Birth","1855-06-21","21 JUN 1855",312,"Birth of Garner, Lewis Anderson","",[],[]],
-	["E1657","Death","1911-06-28","28 JUN 1911",782,"Death of Garner, Lewis Anderson","",[],[]],
-	["E1658","Burial","1911-07-01","1 JUL 1911",782,"Burial of Garner, Lewis Anderson","",[],[]]
+	["E1656","Birth","1855-06-21","21 JUN 1855",451,"Birth of Garner, Lewis Anderson","",[],[]],
+	["E1657","Death","1911-06-28","28 JUN 1911",1168,"Death of Garner, Lewis Anderson","",[],[]],
+	["E1658","Burial","1911-07-01","1 JUL 1911",1168,"Burial of Garner, Lewis Anderson","",[],[]]
 ],
 [
 
@@ -14925,12 +14925,12 @@ I = [
 ["I0183","Garner, Louella Marie","Garner, Louella Marie",
 [["Garner, Louella Marie","Birth Name","","","","Louella Marie","",["Garner"],"","","",[]]],
 "F","?",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E0968","Birth","","",586,"Birth of Garner, Louella Marie","",[],[]],
+	["E0968","Birth","","",893,"Birth of Garner, Louella Marie","",[],[]],
 	["E0969","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -14948,13 +14948,13 @@ I = [
 ["I1039","Garner, Margaret Ann","Garner, Margaret Ann",
 [["Garner, Margaret Ann","Birth Name","","","","Margaret Ann","",["Garner"],"","","",[]]],
 "F","1951",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "1952",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "6 months, 23 days",
 [
-	["E0074","Birth","1951-07-18","18 JUL 1951",586,"Birth of Garner, Margaret Ann","",[],[]],
-	["E0075","Death","1952-02-10","10 FEB 1952",586,"Death of Garner, Margaret Ann","",[],[]]
+	["E0074","Birth","1951-07-18","18 JUL 1951",893,"Birth of Garner, Margaret Ann","",[],[]],
+	["E0075","Death","1952-02-10","10 FEB 1952",893,"Death of Garner, Margaret Ann","",[],[]]
 ],
 [
 
@@ -15015,12 +15015,12 @@ I = [
 ["I0185","Garner, Mark Gerard","Garner, Mark Gerard",
 [["Garner, Mark Gerard","Birth Name","","","","Mark Gerard","",["Garner"],"","","",[]]],
 "M","1962",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E0986","Birth","1962-10-16","16 OCT 1962",586,"Birth of Garner, Mark Gerard","",[],[]],
+	["E0986","Birth","1962-10-16","16 OCT 1962",893,"Birth of Garner, Mark Gerard","",[],[]],
 	["E0987","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -15045,7 +15045,7 @@ I = [
 [
 	["E0194","Birth","1851-10-12","12 OCT 1851",-1,"Birth of Garner, Mary J.","",[],[]],
 	["E0195","Death","1852-04-01","1 APR 1852",-1,"Death of Garner, Mary J.","",[],[]],
-	["E0196","Burial","1858-04-00","APR 1858",751,"Burial of Garner, Mary J.","",[],[]]
+	["E0196","Burial","1858-04-00","APR 1858",1115,"Burial of Garner, Mary J.","",[],[]]
 ],
 [
 
@@ -15069,7 +15069,7 @@ I = [
 [
 	["E0197","Birth","1851-10-12","12 OCT 1851",-1,"Birth of Garner, Mary M.","",[],[]],
 	["E0198","Death","1858-05-24","24 MAY 1858",-1,"Death of Garner, Mary M.","",[],[]],
-	["E0199","Burial","1858-05-00","MAY 1858",751,"Burial of Garner, Mary M.","",[],[]]
+	["E0199","Burial","1858-05-00","MAY 1858",1115,"Burial of Garner, Mary M.","",[],[]]
 ],
 [
 
@@ -15177,12 +15177,12 @@ I = [
 ["I0178","Garner, Michael Stanley","Garner, Michael Stanley",
 [["Garner, Michael Stanley","Birth Name","","","","Michael Stanley","",["Garner"],"","","",[]]],
 "M","1948",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E0892","Birth","1948-06-12","12 JUN 1948",586,"Birth of Garner, Michael Stanley","",[],[]],
+	["E0892","Birth","1948-06-12","12 JUN 1948",893,"Birth of Garner, Michael Stanley","",[],[]],
 	["E0893","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -15200,12 +15200,12 @@ I = [
 ["I0181","Garner, Peter George","Garner, Peter George",
 [["Garner, Peter George","Birth Name","","","","Peter George","",["Garner"],"","","",[]]],
 "M","1954",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E0946","Birth","1954-08-05","5 AUG 1954",586,"Birth of Garner, Peter George","",[],[]],
+	["E0946","Birth","1954-08-05","5 AUG 1954",893,"Birth of Garner, Peter George","",[],[]],
 	["E0947","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -15223,12 +15223,12 @@ I = [
 ["I1113","Garner, Phebe","Garner, Phebe",
 [["Garner, Phebe","Birth Name","","","","Phebe","",["Garner"],"","","",[]]],
 "F","1850",
-"Orlando, FL",
+"Orlando, Orange, FL, USA",
 "?",
 "",
 "less than 10 years",
 [
-	["E0192","Birth","1850","1850",583,"Birth of Garner, Phebe","",[],[]],
+	["E0192","Birth","1850","1850",888,"Birth of Garner, Phebe","",[],[]],
 	["E0193","Death","before 1860","BEF 1860",-1,"Death of Garner, Phebe","",[],[]]
 ],
 [
@@ -15246,13 +15246,13 @@ I = [
 ["I0624","Garner, Raymond E.","Garner, Raymond E.",
 [["Garner, Raymond E.","Birth Name","","","","Raymond E.","",["Garner"],"","","",[]]],
 "M","1878",
-"Paragould, AR",
+"Paragould, Greene, AR, USA",
 "1921",
-"Astoria, OR",
+"Astoria, OR, USA",
 "42 years, 7 months, 16 days",
 [
-	["E2040","Birth","1878-09-16","16 SEP 1878",600,"Birth of Garner, Raymond E.","",[],[]],
-	["E2041","Death","1921-05-02","2 MAY 1921",42,"Death of Garner, Raymond E.","",[],[]]
+	["E2040","Birth","1878-09-16","16 SEP 1878",912,"Birth of Garner, Raymond E.","",[],[]],
+	["E2041","Death","1921-05-02","2 MAY 1921",55,"Death of Garner, Raymond E.","",[],[]]
 ],
 [
 
@@ -15269,12 +15269,12 @@ I = [
 ["I0671","Garner, Raymond Scott","Garner, Raymond Scott",
 [["Garner, Raymond Scott","Birth Name","","","","Raymond Scott","",["Garner"],"","","",[]]],
 "M","1956",
-"Columbus, IN",
+"Columbus, Bartholomew, IN, USA",
 "",
 "",
 "",
 [
-	["E2118","Birth","1956-03-05","5 MAR 1956",170,"Birth of Garner, Raymond Scott","",[],[]],
+	["E2118","Birth","1956-03-05","5 MAR 1956",243,"Birth of Garner, Raymond Scott","",[],[]],
 	["E2119","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -15292,12 +15292,12 @@ I = [
 ["I0635","Garner, Raymond Webster","Garner, Raymond Webster",
 [["Garner, Raymond Webster","Birth Name","","","","Raymond Webster","",["Garner"],"","","",[]]],
 "M","1918",
-"Columbus, IN",
+"Columbus, Bartholomew, IN, USA",
 "",
 "",
 "",
 [
-	["E2071","Birth","1918-02-17","17 FEB 1918",170,"Birth of Garner, Raymond Webster","",[],[]],
+	["E2071","Birth","1918-02-17","17 FEB 1918",243,"Birth of Garner, Raymond Webster","",[],[]],
 	["E2072","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -15315,14 +15315,14 @@ I = [
 ["I1117","Garner, Rebecca Catharine","Garner, Rebecca Catharine",
 [["Garner, Rebecca Catharine","Birth Name","","","","Rebecca Catharine","",["Garner"],"","","",[]]],
 "F","1857",
-"Denver-Aurora, CO",
+"Denver-Aurora, CO, USA",
 "1937",
-"Alice, TX",
+"Alice, Jim Wells, TX, USA",
 "79 years, 10 months, 10 days",
 [
-	["E0200","Birth","1857-05-30","30 MAY 1857",209,"Birth of Garner, Rebecca Catharine","",[],[]],
-	["E0201","Death","1937-04-09","9 APR 1937",17,"Death of Garner, Rebecca Catharine","",[],[]],
-	["E0202","Burial","1937-04-11","11 APR 1937",480,"Burial of Garner, Rebecca Catharine","",[],[]]
+	["E0200","Birth","1857-05-30","30 MAY 1857",302,"Birth of Garner, Rebecca Catharine","",[],[]],
+	["E0201","Death","1937-04-09","9 APR 1937",25,"Death of Garner, Rebecca Catharine","",[],[]],
+	["E0202","Burial","1937-04-11","11 APR 1937",716,"Burial of Garner, Rebecca Catharine","",[],[]]
 ],
 [
 
@@ -15362,12 +15362,12 @@ I = [
 ["I0177","Garner, Richard Eugene","Garner, Richard Eugene",
 [["Garner, Richard Eugene","Birth Name","","","","Richard Eugene","",["Garner"],"","","",[]]],
 "M","1947",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E0876","Birth","1947-02-28","28 FEB 1947",586,"Birth of Garner, Richard Eugene","",[],[]],
+	["E0876","Birth","1947-02-28","28 FEB 1947",893,"Birth of Garner, Richard Eugene","",[],[]],
 	["E0877","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -15385,12 +15385,12 @@ I = [
 ["I0006","Garner, Rita Marie","Garner, Rita Marie",
 [["Garner, Rita Marie","Birth Name","","","","Rita Marie","",["Garner"],"","","",[]]],
 "F","1952",
-"Worthington, MN",
+"Worthington, MN, USA",
 "",
 "",
 "",
 [
-	["E1981","Birth","1952-09-07","7 SEP 1952",843,"Birth of Garner, Rita Marie","",[],[]],
+	["E1981","Birth","1952-09-07","7 SEP 1952",1273,"Birth of Garner, Rita Marie","",[],[]],
 	["E1982","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -15408,15 +15408,15 @@ I = [
 ["I1123","Garner, Robert F.","Garner, Robert F.",
 [["Garner, Robert F.","Birth Name","","","","Robert F.","",["Garner"],"","","",[]]],
 "M","1863",
-"Paragould, AR",
+"Paragould, Greene, AR, USA",
 "1940",
-"Marshalltown, IA",
+"Marshalltown, Marshall, IA, USA",
 "76 years, 10 months, 13 days",
 [
-	["E0211","Birth","1863-04-04","4 APR 1863",600,"Birth of Garner, Robert F.","",[],[]],
+	["E0211","Birth","1863-04-04","4 APR 1863",912,"Birth of Garner, Robert F.","",[],[]],
 	["E2829","Marriage (Witness)","1927-12-25","25 DEC 1927",-1,"Marriage of Wójcik, Arnold and Garner, Helen Bernice","",[],[]],
-	["E0212","Death","1940-02-17","17 FEB 1940",485,"Death of Garner, Robert F.","",[],[]],
-	["E0213","Burial","1940-02-19","19 FEB 1940",209,"Burial of Garner, Robert F.","",[],[]]
+	["E0212","Death","1940-02-17","17 FEB 1940",724,"Death of Garner, Robert F.","",[],[]],
+	["E0213","Burial","1940-02-19","19 FEB 1940",302,"Burial of Garner, Robert F.","",[],[]]
 ],
 [
 
@@ -15433,14 +15433,14 @@ I = [
 ["I0106","Garner, Robert W.","Garner, Robert W.",
 [["Garner, Robert W.","Birth Name","","","","Robert W.","",["Garner"],"","","",[]]],
 "M","1827",
-"Aberdeen, WA",
+"Aberdeen, WA, USA",
 "1916",
-"Portsmouth, OH",
+"Portsmouth, OH, USA",
 "88 years, 8 months, 28 days",
 [
 	["E0105","Birth","1826/7-04-24 (Julian)","@#DJULIAN@ 24 APR 1827",1,"Birth of Garner, Robert W.","",[],[]],
-	["E0106","Death","1916-02-03","3 FEB 1916",632,"Death of Garner, Robert W.","",[],[]],
-	["E0107","Burial","1916-02-05 (Mar25)","5 FEB 1916",409,"Burial of Garner, Robert W.","",[],[]]
+	["E0106","Death","1916-02-03","3 FEB 1916",954,"Death of Garner, Robert W.","",[],[]],
+	["E0107","Burial","1916-02-05 (Mar25)","5 FEB 1916",597,"Burial of Garner, Robert W.","",[],[]]
 ],
 [
 
@@ -15457,12 +15457,12 @@ I = [
 ["I0124","Garner, Stephen Gerard","Garner, Stephen Gerard",
 [["Garner, Stephen Gerard","Birth Name","","","","Stephen Gerard","",["Garner"],"","","",[]]],
 "M","1983",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E0336","Birth","1983-10-05","5 OCT 1983",586,"Birth of Garner, Stephen Gerard","",[],[]],
+	["E0336","Birth","1983-10-05","5 OCT 1983",893,"Birth of Garner, Stephen Gerard","",[],[]],
 	["E0337","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -15480,12 +15480,12 @@ I = [
 ["I0019","Garner, Thomas James","Garner, Thomas James",
 [["Garner, Thomas James","Birth Name","","","","Thomas James","",["Garner"],"","","",[]]],
 "M","1965",
-"Worthington, MN",
+"Worthington, MN, USA",
 "",
 "",
 "",
 [
-	["E1016","Birth","1965-12-10","10 DEC 1965",843,"Birth of Garner, Thomas James","",[],[]],
+	["E1016","Birth","1965-12-10","10 DEC 1965",1273,"Birth of Garner, Thomas James","",[],[]],
 	["E1017","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -15570,14 +15570,14 @@ I = [
 ["I0626","Garner, Walter E.","Garner, Walter E.",
 [["Garner, Walter E.","Birth Name","","","","Walter E.","",["Garner"],"","","",[]]],
 "M","1882",
-"Paragould, AR",
+"Paragould, Greene, AR, USA",
 "1946",
-"Battle Creek, MI",
+"Battle Creek, MI, USA",
 "64 years, 8 months, 6 days",
 [
-	["E2045","Birth","1882-02-17","17 FEB 1882",600,"Birth of Garner, Walter E.","",[],[]],
-	["E2046","Death","1946-10-23","23 OCT 1946",61,"Death of Garner, Walter E.","",[],[]],
-	["E2047","Burial","1946-10-00","OCT 1946",746,"Burial of Garner, Walter E.","",[],[]]
+	["E2045","Birth","1882-02-17","17 FEB 1882",912,"Birth of Garner, Walter E.","",[],[]],
+	["E2046","Death","1946-10-23","23 OCT 1946",81,"Death of Garner, Walter E.","",[],[]],
+	["E2047","Burial","1946-10-00","OCT 1946",1108,"Burial of Garner, Walter E.","",[],[]]
 ],
 [
 
@@ -15594,13 +15594,13 @@ I = [
 ["I0230","Garrett, Carmen Eloise","Garrett, Carmen Eloise",
 [["Garrett, Carmen Eloise","Birth Name","","","","Carmen Eloise","",["Garrett"],"","","",[]]],
 "F","1923",
-"Gloversville, NY",
+"Gloversville, Fulton, NY, USA",
 "1997",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "73 years, 3 months, 17 days",
 [
-	["E1258","Birth","1923-12-08","8 DEC 1923",304,"Birth of Garrett, Carmen Eloise","",[],[]],
-	["E1259","Death","1997-03-25","25 MAR 1997",586,"Death of Garrett, Carmen Eloise","",[],[]]
+	["E1258","Birth","1923-12-08","8 DEC 1923",439,"Birth of Garrett, Carmen Eloise","",[],[]],
+	["E1259","Death","1997-03-25","25 MAR 1997",893,"Death of Garrett, Carmen Eloise","",[],[]]
 ],
 [
 
@@ -15617,12 +15617,12 @@ I = [
 ["I0236","Garrett, Doris Mae","Garrett, Doris Mae",
 [["Garrett, Doris Mae","Birth Name","","","","Doris Mae","",["Garrett"],"","","",[]]],
 "F","1950",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E1269","Birth","1950-08-22","22 AUG 1950",586,"Birth of Garrett, Doris Mae","",[],[]],
+	["E1269","Birth","1950-08-22","22 AUG 1950",893,"Birth of Garrett, Doris Mae","",[],[]],
 	["E1270","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -15640,12 +15640,12 @@ I = [
 ["I0237","Garrett, Keith William","Garrett, Keith William",
 [["Garrett, Keith William","Birth Name","","","","Keith William","",["Garrett"],"","","",[]]],
 "M","1952",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E1271","Birth","1952-11-01","1 NOV 1952",586,"Birth of Garrett, Keith William","",[],[]],
+	["E1271","Birth","1952-11-01","1 NOV 1952",893,"Birth of Garrett, Keith William","",[],[]],
 	["E1272","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -15686,12 +15686,12 @@ I = [
 ["I0785","Garrett, Terry Lee","Garrett, Terry Lee",
 [["Garrett, Terry Lee","Birth Name","","","","Terry Lee","",["Garrett"],"","","",[]]],
 "M","1956",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "1998",
 "",
 "42 years, 9 days",
 [
-	["E2289","Birth","1956-04-14","14 APR 1956",586,"Birth of Garrett, Terry Lee","",[],[]],
+	["E2289","Birth","1956-04-14","14 APR 1956",893,"Birth of Garrett, Terry Lee","",[],[]],
 	["E2290","Death","1998-04-23","23 APR 1998",-1,"Death of Garrett, Terry Lee","",[],[]]
 ],
 [
@@ -15709,13 +15709,13 @@ I = [
 ["I0787","Garrett, Wayne Allen","Garrett, Wayne Allen",
 [["Garrett, Wayne Allen","Birth Name","","","","Wayne Allen","",["Garrett"],"","","",[]]],
 "M","1961",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "1967",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "5 years, 1 month, 11 days",
 [
-	["E2293","Birth","1961-11-21","21 NOV 1961",586,"Birth of Garrett, Wayne Allen","",[],[]],
-	["E2294","Death","1967-01-00","JAN 1967",586,"Death of Garrett, Wayne Allen","",[],[]]
+	["E2293","Birth","1961-11-21","21 NOV 1961",893,"Birth of Garrett, Wayne Allen","",[],[]],
+	["E2294","Death","1967-01-00","JAN 1967",893,"Death of Garrett, Wayne Allen","",[],[]]
 ],
 [
 
@@ -15777,12 +15777,12 @@ I = [
 ["I0345","Garza, Jeffrey Adam Ramos","Garza, Jeffrey Adam Ramos",
 [["Garza, Jeffrey Adam Ramos","Birth Name","","","","Jeffrey Adam Ramos","",["Garza"],"","","",[]]],
 "M","1987",
-"Wheeling, WV-OH",
+"Wheeling, WV-OH, USA",
 "",
 "",
 "",
 [
-	["E1480","Birth","1987-11-07","7 NOV 1987",825,"Birth of Garza, Jeffrey Adam Ramos","",[],[]],
+	["E1480","Birth","1987-11-07","7 NOV 1987",1244,"Birth of Garza, Jeffrey Adam Ramos","",[],[]],
 	["E1481","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -15800,12 +15800,12 @@ I = [
 ["I1490","Gauthier, Julius","Gauthier, Julius",
 [["Gauthier, Julius","Birth Name","","","","Julius","",["Gauthier"],"","","",[]]],
 "M","1810",
-"Port Angeles, WA",
+"Port Angeles, WA, USA",
 "",
 "",
 "",
 [
-	["E0646","Birth","1810-12-20","20 DEC 1810",626,"Birth of Gauthier, Julius","",[],[]]
+	["E0646","Birth","1810-12-20","20 DEC 1810",948,"Birth of Gauthier, Julius","",[],[]]
 ],
 [
 
@@ -15936,10 +15936,10 @@ I = [
 "F","?",
 "",
 "1979",
-"Kingsport, TN",
+"Kingsport, TN, USA",
 "",
 [
-	["E0978","Death","1979-10-01","1 OCT 1979",404,"Death of Gibbs, Elizabeth","",[],[]]
+	["E0978","Death","1979-10-01","1 OCT 1979",591,"Death of Gibbs, Elizabeth","",[],[]]
 ],
 [
 
@@ -15958,10 +15958,10 @@ I = [
 "F","?",
 "",
 "?",
-"Sioux Falls, SD",
+"Sioux Falls, SD, USA",
 "",
 [
-	["E1004","Death","","",722,"Death of Gibbs, Jennie","",[],[]]
+	["E1004","Death","","",1074,"Death of Gibbs, Jennie","",[],[]]
 ],
 [
 
@@ -16044,12 +16044,12 @@ I = [
 ["I1153","Gibbs, Margaret","Gibbs, Margaret",
 [["Gibbs, Margaret","Birth Name","","","","Margaret","",["Gibbs"],"","","",[]]],
 "F","?",
-"Deming, NM",
+"Deming, NM, USA",
 "",
 "",
 "",
 [
-	["E0252","Birth","about 1460","ABT 1460",208,"Birth of Gibbs, Margaret","",[],[]]
+	["E0252","Birth","about 1460","ABT 1460",301,"Birth of Gibbs, Margaret","",[],[]]
 ],
 [
 
@@ -16112,10 +16112,10 @@ I = [
 "F","?",
 "",
 "1936",
-"Worcester, MA",
+"Worcester, Worcester, MA, USA",
 "",
 [
-	["E0937","Death","1936-01-29","29 JAN 1936",842,"Death of Gibbs, Mary","",[],[]]
+	["E0937","Death","1936-01-29","29 JAN 1936",1271,"Death of Gibbs, Mary","",[],[]]
 ],
 [
 
@@ -16242,14 +16242,14 @@ I = [
 ["I0837","Gil, Nora","Gil, Nora",
 [["Gil, Nora","Birth Name","","","","Nora","",["Gil"],"","","",[]]],
 "F","?",
-"Del Rio, TX",
+"Del Rio, Val Verde, TX, USA",
 "?",
-"Andrews, TX",
+"Andrews, Andrews, TX, USA",
 "unknown",
 [
-	["E2401","Birth","","",206,"Birth of Gil, Nora","",[],[]],
-	["E2402","Death","","",31,"Death of Gil, Nora","",[],[]],
-	["E2403","Burial","","",724,"Burial of Gil, Nora","",[],[]]
+	["E2401","Birth","","",298,"Birth of Gil, Nora","",[],[]],
+	["E2402","Death","","",40,"Death of Gil, Nora","",[],[]],
+	["E2403","Burial","","",1078,"Burial of Gil, Nora","",[],[]]
 ],
 [
 
@@ -16288,12 +16288,12 @@ I = [
 ["I1977","Gill, Avery","Gill, Avery",
 [["Gill, Avery","Birth Name","","","","Avery","",["Gill"],"","","",[]]],
 "M","?",
-"Washington, OH",
+"Washington, OH, USA",
 "",
 "",
 "",
 [
-	["E1096","Birth","","",813,"Birth of Gill, Avery","",[],[]],
+	["E1096","Birth","","",1224,"Birth of Gill, Avery","",[],[]],
 	["E1097","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -16306,29 +16306,6 @@ I = [
 [],
 [],
 [[263,"Birth","Birth","",[]]],
-[]
-],
-["I0412","Gill, Lawrence","Gill, Lawrence",
-[["Gill, Lawrence","Birth Name","","","","Lawrence","",["Gill"],"","","",[]]],
-"M","1968",
-"Hobbs, NM",
-"",
-"",
-"",
-[
-	["E1596","Birth","1968-10-26","26 OCT 1968",351,"Birth of Gill, Lawrence","",[],[]],
-	["E1597","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
-],
-[
-
-],
-"",
-[],
-[],
-[],
-[],
-[263],
-[[264,"Birth","Birth","",[]]],
 []
 ],
 ["I0411","Gill, Lawrence","Gill, Lawrence",
@@ -16351,6 +16328,29 @@ I = [
 [],
 [264],
 [],
+[]
+],
+["I0412","Gill, Lawrence","Gill, Lawrence",
+[["Gill, Lawrence","Birth Name","","","","Lawrence","",["Gill"],"","","",[]]],
+"M","1968",
+"Hobbs, NM, USA",
+"",
+"",
+"",
+[
+	["E1596","Birth","1968-10-26","26 OCT 1968",505,"Birth of Gill, Lawrence","",[],[]],
+	["E1597","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
+],
+[
+
+],
+"",
+[],
+[],
+[],
+[],
+[263],
+[[264,"Birth","Birth","",[]]],
 []
 ],
 ["I0433","Gill, Linda","Gill, Linda",
@@ -16379,12 +16379,12 @@ I = [
 ["I0413","Gill, Lorie Ann","Gill, Lorie Ann",
 [["Gill, Lorie Ann","Birth Name","","","","Lorie Ann","",["Gill"],"","","",[]]],
 "F","?",
-"Stockton, CA",
+"Stockton, San Joaquin, CA, USA",
 "",
 "",
 "",
 [
-	["E1598","Birth","about 1967","ABT 1967",750,"Birth of Gill, Lorie Ann","",[],[]],
+	["E1598","Birth","about 1967","ABT 1967",1114,"Birth of Gill, Lorie Ann","",[],[]],
 	["E1599","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -16491,12 +16491,12 @@ I = [
 ["I0885","Gonzales, Linda S.","Gonzales, Linda S.",
 [["Gonzales, Linda S.","Birth Name","","","","Linda S.","",["Gonzales"],"","","",[]]],
 "F","1949",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E2503","Birth","1949","1949",586,"Birth of Gonzales, Linda S.","",[],[]],
+	["E2503","Birth","1949","1949",893,"Birth of Gonzales, Linda S.","",[],[]],
 	["E2504","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -16514,12 +16514,12 @@ I = [
 ["I0886","Gonzales, Mark R.","Gonzales, Mark R.",
 [["Gonzales, Mark R.","Birth Name","","","","Mark R.","",["Gonzales"],"","","",[]]],
 "M","1952",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E2505","Birth","1952","1952",586,"Birth of Gonzales, Mark R.","",[],[]],
+	["E2505","Birth","1952","1952",893,"Birth of Gonzales, Mark R.","",[],[]],
 	["E2506","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -16625,13 +16625,13 @@ I = [
 ["I1169","Goodman, Ralph","Goodman, Ralph",
 [["Goodman, Ralph","Birth Name","","","","Ralph","",["Goodman"],"","","",[]]],
 "M","?",
-"Grenada, MS",
+"Grenada, MS, USA",
 "1626",
-"Milwaukee, WI",
+"Milwaukee, WI, USA",
 "unknown",
 [
-	["E0272","Birth","","",324,"Birth of Goodman, Ralph","",[],[]],
-	["E0273","Burial","1626-06-25","25 JUN 1626",513,"Burial of Goodman, Ralph","",[],[]]
+	["E0272","Birth","","",465,"Birth of Goodman, Ralph","",[],[]],
+	["E0273","Burial","1626-06-25","25 JUN 1626",771,"Burial of Goodman, Ralph","",[],[]]
 ],
 [
 
@@ -16692,14 +16692,14 @@ I = [
 ["I0090","Goodwin, Sarah","Goodwin, Sarah",
 [["Goodwin, Sarah","Birth Name","","","","Sarah","",["Goodwin"],"","","",[]]],
 "F","?",
-"Shelbyville, TN",
+"Shelbyville, TN, USA",
 "?",
-"Shelbyville, TN",
+"Shelbyville, TN, USA",
 "unknown",
 [
-	["E2531","Birth","","",711,"Birth of Goodwin, Sarah","",[],[]],
-	["E2532","Death","","",711,"Death of Goodwin, Sarah","",[],[]],
-	["E2533","Burial","1886","1886",461,"Burial of Goodwin, Sarah","",[],[]]
+	["E2531","Birth","","",1063,"Birth of Goodwin, Sarah","",[],[]],
+	["E2532","Death","","",1063,"Death of Goodwin, Sarah","",[],[]],
+	["E2533","Burial","1886","1886",680,"Burial of Goodwin, Sarah","",[],[]]
 ],
 [
 
@@ -16738,12 +16738,12 @@ I = [
 ["I0117","Gosselin, Andrea Lynn","Gosselin, Andrea Lynn",
 [["Gosselin, Andrea Lynn","Birth Name","","","","Andrea Lynn","",["Gosselin"],"","","",[]]],
 "F","1988",
-"Palm Bay, FL",
+"Palm Bay, Brevard, FL, USA",
 "",
 "",
 "",
 [
-	["E0274","Birth","1988-07-10","10 JUL 1988",596,"Birth of Gosselin, Andrea Lynn","",[],[]],
+	["E0274","Birth","1988-07-10","10 JUL 1988",906,"Birth of Gosselin, Andrea Lynn","",[],[]],
 	["E0275","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -16761,12 +16761,12 @@ I = [
 ["I0483","Gosselin, Craig Richard","Gosselin, Craig Richard",
 [["Gosselin, Craig Richard","Birth Name","","","","Craig Richard","",["Gosselin"],"","","",[]]],
 "M","1990",
-"Palm Bay, FL",
+"Palm Bay, Brevard, FL, USA",
 "",
 "",
 "",
 [
-	["E1763","Birth","1990-12-20","20 DEC 1990",596,"Birth of Gosselin, Craig Richard","",[],[]],
+	["E1763","Birth","1990-12-20","20 DEC 1990",906,"Birth of Gosselin, Craig Richard","",[],[]],
 	["E1764","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -16784,12 +16784,12 @@ I = [
 ["I0115","Gosselin, David Martin","Gosselin, David Martin",
 [["Gosselin, David Martin","Birth Name","","","","David Martin","",["Gosselin"],"","","",[]]],
 "M","1983",
-"Statesboro, GA",
+"Statesboro, Bulloch, GA, USA",
 "",
 "",
 "",
 [
-	["E0249","Birth","1983-08-02","2 AUG 1983",742,"Birth of Gosselin, David Martin","",[],[]],
+	["E0249","Birth","1983-08-02","2 AUG 1983",1103,"Birth of Gosselin, David Martin","",[],[]],
 	["E0250","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -16807,12 +16807,12 @@ I = [
 ["I0116","Gosselin, Joel Thomas","Gosselin, Joel Thomas",
 [["Gosselin, Joel Thomas","Birth Name","","","","Joel Thomas","",["Gosselin"],"","","",[]]],
 "M","1985",
-"Palm Bay, FL",
+"Palm Bay, Brevard, FL, USA",
 "",
 "",
 "",
 [
-	["E0258","Birth","1985-10-03","3 OCT 1985",596,"Birth of Gosselin, Joel Thomas","",[],[]],
+	["E0258","Birth","1985-10-03","3 OCT 1985",906,"Birth of Gosselin, Joel Thomas","",[],[]],
 	["E0259","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -16919,14 +16919,14 @@ I = [
 ["I0616","Graves, Martha","Graves, Martha",
 [["Graves, Martha","Birth Name","","","","Martha","",["Graves"],"","","",[]]],
 "F","1798",
-"Lock Haven, PA",
+"Lock Haven, PA, USA",
 "1862",
-"Fort Walton Beach, FL",
+"Fort Walton Beach, Okaloosa, FL, USA",
 "64 years, 3 months, 27 days",
 [
-	["E2021","Birth","1798-08-16","16 AUG 1798",454,"Birth of Graves, Martha","",[],[]],
-	["E2022","Death","1862-12-12","12 DEC 1862",280,"Death of Graves, Martha","",[],[]],
-	["E2023","Burial","","",261,"Burial of Graves, Martha","",[],[]]
+	["E2021","Birth","1798-08-16","16 AUG 1798",669,"Birth of Graves, Martha","",[],[]],
+	["E2022","Death","1862-12-12","12 DEC 1862",403,"Death of Graves, Martha","",[],[]],
+	["E2023","Burial","","",379,"Burial of Graves, Martha","",[],[]]
 ],
 [
 
@@ -16963,38 +16963,15 @@ I = [
 [],
 []
 ],
-["I0535","Green, Edward","Green, Edward",
-[["Green, Edward","Birth Name","","","","Edward","",["Green"],"","","",[]]],
-"M","?",
-"Ketchikan, AK",
-"1688",
-"Minot, ND",
-"unknown",
-[
-	["E1863","Birth","","",400,"Birth of Green, Edward","",[],[]],
-	["E1864","Death","1688-07-31","31 JUL 1688",517,"Death of Green, Edward","",[],[]]
-],
-[
-
-],
-"",
-[],
-[],
-[],
-[],
-[272],
-[[276,"Birth","Birth","",[]]],
-[]
-],
 ["I0542","Green, Edward","Green, Edward",
 [["Green, Edward","Birth Name","","","","Edward","",["Green"],"","","",[]]],
 "M","1685",
-"Bellingham, WA",
+"Bellingham, WA, USA",
 "1756",
 "",
 "71 years, 4 months, 14 days",
 [
-	["E1873","Birth","1685-06-06","6 JUN 1685",69,"Birth of Green, Edward","",[],[]],
+	["E1873","Birth","1685-06-06","6 JUN 1685",92,"Birth of Green, Edward","",[],[]],
 	["E1874","Death","1756-10-20","20 OCT 1756",-1,"Death of Green, Edward","",[],[]]
 ],
 [
@@ -17009,17 +16986,40 @@ I = [
 [[272,"Birth","Birth","",[]]],
 []
 ],
+["I0535","Green, Edward","Green, Edward",
+[["Green, Edward","Birth Name","","","","Edward","",["Green"],"","","",[]]],
+"M","?",
+"Ketchikan, AK, USA",
+"1688",
+"Minot, ND, USA",
+"unknown",
+[
+	["E1863","Birth","","",587,"Birth of Green, Edward","",[],[]],
+	["E1864","Death","1688-07-31","31 JUL 1688",775,"Death of Green, Edward","",[],[]]
+],
+[
+
+],
+"",
+[],
+[],
+[],
+[],
+[272],
+[[276,"Birth","Birth","",[]]],
+[]
+],
 ["I0026","Green, Frances","Green, Frances",
 [["Green, Frances","Birth Name","","","","Frances","",["Green"],"","","",[]]],
 "F","1804",
-"Poplar Bluff, MO",
+"Poplar Bluff, MO, USA",
 "1886",
-"Arlington, VA",
+"Arlington, VA, USA",
 "82 years, 9 days",
 [
-	["E1309","Birth","1804-07-22","22 JUL 1804",625,"Birth of Green, Frances","",[],[]],
-	["E1310","Death","1886-07-31","31 JUL 1886",38,"Death of Green, Frances","",[],[]],
-	["E1311","Burial","1886-08-02","2 AUG 1886",275,"Burial of Green, Frances","",[],[]]
+	["E1309","Birth","1804-07-22","22 JUL 1804",947,"Birth of Green, Frances","",[],[]],
+	["E1310","Death","1886-07-31","31 JUL 1886",51,"Death of Green, Frances","",[],[]],
+	["E1311","Burial","1886-08-02","2 AUG 1886",398,"Burial of Green, Frances","",[],[]]
 ],
 [
 
@@ -17036,12 +17036,12 @@ I = [
 ["I0546","Green, James","Green, James",
 [["Green, James","Birth Name","","","","James","",["Green"],"","","",[]]],
 "M","1739",
-"Minot, ND",
+"Minot, ND, USA",
 "1805",
 "",
 "66 years, 7 months, 21 days",
 [
-	["E1880","Birth","1739-04-07","7 APR 1739",517,"Birth of Green, James","",[],[]],
+	["E1880","Birth","1739-04-07","7 APR 1739",775,"Birth of Green, James","",[],[]],
 	["E1881","Death","1805-11-28","28 NOV 1805",-1,"Death of Green, James","",[],[]]
 ],
 [
@@ -17061,12 +17061,12 @@ I = [
 "M","1768",
 "",
 "1838",
-"Keene, NH",
+"Keene, NH, USA",
 "70 years",
 [
 	["E1882","Birth","1768-03-17","17 MAR 1768",-1,"Birth of Green, Randolph","",[],[]],
-	["E1883","Death","1838-03-17","17 MAR 1838",394,"Death of Green, Randolph","",[],[]],
-	["E1884","Burial","","",394,"Burial of Green, Randolph","",[],[]]
+	["E1883","Death","1838-03-17","17 MAR 1838",579,"Death of Green, Randolph","",[],[]],
+	["E1884","Burial","","",579,"Burial of Green, Randolph","",[],[]]
 ],
 [
 
@@ -17171,14 +17171,14 @@ I = [
 ["I0752","Grenier, Joseph","Grenier, Joseph",
 [["Grenier, Joseph","Birth Name","","","","Joseph","",["Grenier"],"","","",[]]],
 "M","1605",
-"Hilo, HI",
+"Hilo, HI, USA",
 "1647",
-"Roswell, NM",
+"Roswell, NM, USA",
 "42 years, 11 months, 3 days",
 [
-	["E2241","Birth","1605","1605",348,"Birth of Grenier, Joseph","",[],[]],
-	["E2242","Death","1647-12-04","4 DEC 1647",669,"Death of Grenier, Joseph","",[],[]],
-	["E2243","Burial","","",224,"Burial of Grenier, Joseph","",[],[]]
+	["E2241","Birth","1605","1605",502,"Birth of Grenier, Joseph","",[],[]],
+	["E2242","Death","1647-12-04","4 DEC 1647",1002,"Death of Grenier, Joseph","",[],[]],
+	["E2243","Burial","","",325,"Burial of Grenier, Joseph","",[],[]]
 ],
 [
 
@@ -17195,13 +17195,13 @@ I = [
 ["I0528","Grenier, Mary","Grenier, Mary",
 [["Grenier, Mary","Birth Name","","","","Mary","",["Grenier"],"","","",[]]],
 "F","?",
-"Lamesa, TX",
+"Lamesa, Dawson, TX, USA",
 "1703",
-"Poplar Bluff, MO",
+"Poplar Bluff, MO, USA",
 "about 65 years, 6 months, 11 days",
 [
-	["E1849","Birth","about 1638","ABT 1638",423,"Birth of Grenier, Mary","",[],[]],
-	["E1850","Death","1703-07-12","12 JUL 1703",625,"Death of Grenier, Mary","",[],[]]
+	["E1849","Birth","about 1638","ABT 1638",622,"Birth of Grenier, Mary","",[],[]],
+	["E1850","Death","1703-07-12","12 JUL 1703",947,"Death of Grenier, Mary","",[],[]]
 ],
 [
 
@@ -17277,8 +17277,8 @@ I = [
 [],
 [],
 [],
-[279],
-[[280,"Birth","Birth","",[]]],
+[280],
+[[279,"Birth","Birth","",[]]],
 []
 ],
 ["I1156","Guerrero, Robert","Guerrero, Robert",
@@ -17299,8 +17299,8 @@ I = [
 [],
 [],
 [],
-[280],
-[[282,"Birth","Birth","",[]]],
+[279],
+[[281,"Birth","Birth","",[]]],
 []
 ],
 ["I1158","Guerrero, Walter","Guerrero, Walter",
@@ -17312,6 +17312,28 @@ I = [
 "",
 [
 	["E0257","Birth","about 1350","ABT 1350",-1,"Birth of Guerrero, Walter","",[],[]]
+],
+[
+
+],
+"",
+[],
+[],
+[],
+[],
+[283],
+[[282,"Birth","Birth","",[]]],
+[]
+],
+["I1157","Guerrero, Walter","Guerrero, Walter",
+[["Guerrero, Walter","Birth Name","","","","Walter","",["Guerrero"],"","","",[]]],
+"M","?",
+"",
+"",
+"",
+"",
+[
+	["E0256","Birth","about 1380","ABT 1380",-1,"Birth of Guerrero, Walter","",[],[]]
 ],
 [
 
@@ -17343,30 +17365,8 @@ I = [
 [],
 [],
 [],
-[283],
-[],
-[]
-],
-["I1157","Guerrero, Walter","Guerrero, Walter",
-[["Guerrero, Walter","Birth Name","","","","Walter","",["Guerrero"],"","","",[]]],
-"M","?",
-"",
-"",
-"",
-"",
-[
-	["E0256","Birth","about 1380","ABT 1380",-1,"Birth of Guerrero, Walter","",[],[]]
-],
-[
-
-],
-"",
-[],
-[],
-[],
-[],
 [282],
-[[281,"Birth","Birth","",[]]],
+[],
 []
 ],
 ["I0379","Gutierrez, Catherine","Gutierrez, Catherine",
@@ -17374,11 +17374,11 @@ I = [
 "F","?",
 "",
 "?",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 [
-	["E1551","Death","","",586,"Death of Gutierrez, Catherine","",[],[]],
-	["E1552","Burial","","",586,"Burial of Gutierrez, Catherine","",[],[]]
+	["E1551","Death","","",893,"Death of Gutierrez, Catherine","",[],[]],
+	["E1552","Burial","","",893,"Burial of Gutierrez, Catherine","",[],[]]
 ],
 [
 
@@ -17505,13 +17505,13 @@ I = [
 ["I1102","Guzman, Isabella","Guzman, Isabella",
 [["Guzman, Isabella","Birth Name","","","","Isabella","",["Guzman"],"","","",[]]],
 "F","?",
-"McAlester, OK",
+"McAlester, OK, USA",
 "?",
-"McAlester, OK",
+"McAlester, OK, USA",
 "more than about 5 years",
 [
-	["E0172","Birth","about 1695","ABT 1695",493,"Birth of Guzman, Isabella","",[],[]],
-	["E0173","Death","after 1700","AFT 1700",493,"Death of Guzman, Isabella","",[],[]]
+	["E0172","Birth","about 1695","ABT 1695",736,"Birth of Guzman, Isabella","",[],[]],
+	["E0173","Death","after 1700","AFT 1700",736,"Death of Guzman, Isabella","",[],[]]
 ],
 [
 
@@ -17528,12 +17528,12 @@ I = [
 ["I0121","Hale, Gina Marie","Hale, Gina Marie",
 [["Hale, Gina Marie","Birth Name","","","","Gina Marie","",["Hale"],"","","",[]]],
 "F","1982",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E0311","Birth","1982-10-03","3 OCT 1982",586,"Birth of Hale, Gina Marie","",[],[]],
+	["E0311","Birth","1982-10-03","3 OCT 1982",893,"Birth of Hale, Gina Marie","",[],[]],
 	["E0312","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -17551,12 +17551,12 @@ I = [
 ["I0122","Hale, Jeffrey Brian","Hale, Jeffrey Brian",
 [["Hale, Jeffrey Brian","Birth Name","","","","Jeffrey Brian","",["Hale"],"","","",[]]],
 "M","1988",
-"Jefferson City, MO",
+"Jefferson City, MO, USA",
 "",
 "",
 "",
 [
-	["E0316","Birth","1988-12-23","23 DEC 1988",382,"Birth of Hale, Jeffrey Brian","",[],[]],
+	["E0316","Birth","1988-12-23","23 DEC 1988",558,"Birth of Hale, Jeffrey Brian","",[],[]],
 	["E0317","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -17574,12 +17574,12 @@ I = [
 ["I0119","Hale, Joseph Brendan","Hale, Joseph Brendan",
 [["Hale, Joseph Brendan","Birth Name","","","","Joseph Brendan","",["Hale"],"","","",[]]],
 "M","1975",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E0298","Birth","1975-07-17","17 JUL 1975",586,"Birth of Hale, Joseph Brendan","",[],[]],
+	["E0298","Birth","1975-07-17","17 JUL 1975",893,"Birth of Hale, Joseph Brendan","",[],[]],
 	["E0299","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -17597,12 +17597,12 @@ I = [
 ["I0118","Hale, Lawrence Paul","Hale, Lawrence Paul",
 [["Hale, Lawrence Paul","Birth Name","","","","Lawrence Paul","",["Hale"],"","","",[]]],
 "M","1950",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E0286","Birth","1950-10-30","30 OCT 1950",586,"Birth of Hale, Lawrence Paul","",[],[]],
+	["E0286","Birth","1950-10-30","30 OCT 1950",893,"Birth of Hale, Lawrence Paul","",[],[]],
 	["E0287","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -17620,12 +17620,12 @@ I = [
 ["I0120","Hale, Michael Patrick","Hale, Michael Patrick",
 [["Hale, Michael Patrick","Birth Name","","","","Michael Patrick","",["Hale"],"","","",[]]],
 "M","1977",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E0306","Birth","1977-07-27","27 JUL 1977",586,"Birth of Hale, Michael Patrick","",[],[]],
+	["E0306","Birth","1977-07-27","27 JUL 1977",893,"Birth of Hale, Michael Patrick","",[],[]],
 	["E0307","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -17645,11 +17645,11 @@ I = [
 "F","?",
 "",
 "?",
-"Duluth, MN",
+"Duluth, MN, USA",
 "",
 [
-	["E2647","Death","before 1745","BEF 1745",221,"Death of Hall, Elizabeth","",[],[]],
-	["E2648","Burial","","",221,"Burial of Hall, Elizabeth","",[],[]]
+	["E2647","Death","before 1745","BEF 1745",322,"Death of Hall, Elizabeth","",[],[]],
+	["E2648","Burial","","",322,"Burial of Hall, Elizabeth","",[],[]]
 ],
 [
 
@@ -17711,12 +17711,12 @@ I = [
 ["I0823","Hansen, Barry","Hansen, Barry",
 [["Hansen, Barry","Birth Name","","","","Barry","",["Hansen"],"","","",[]]],
 "M","1982",
-"Omaha, NE",
+"Omaha, NE, USA",
 "",
 "",
 "",
 [
-	["E2372","Birth","1982","1982",579,"Birth of Hansen, Barry","",[],[]]
+	["E2372","Birth","1982","1982",879,"Birth of Hansen, Barry","",[],[]]
 ],
 [
 
@@ -17733,12 +17733,12 @@ I = [
 ["I0818","Hansen, Irene","Hansen, Irene",
 [["Hansen, Irene","Birth Name","","","","Irene","",["Hansen"],"","","",[]]],
 "F","?",
-"Tifton, GA",
+"Tifton, Tift, GA, USA",
 "",
 "",
 "",
 [
-	["E2363","Birth","","",770,"Birth of Hansen, Irene","",[],[]]
+	["E2363","Birth","","",1149,"Birth of Hansen, Irene","",[],[]]
 ],
 [
 
@@ -17755,12 +17755,12 @@ I = [
 ["I0824","Hansen, Kevin","Hansen, Kevin",
 [["Hansen, Kevin","Birth Name","","","","Kevin","",["Hansen"],"","","",[]]],
 "M","1979",
-"Omaha, NE",
+"Omaha, NE, USA",
 "",
 "",
 "",
 [
-	["E2373","Birth","1979","1979",579,"Birth of Hansen, Kevin","",[],[]]
+	["E2373","Birth","1979","1979",879,"Birth of Hansen, Kevin","",[],[]]
 ],
 [
 
@@ -17777,12 +17777,12 @@ I = [
 ["I0819","Hansen, Monica","Hansen, Monica",
 [["Hansen, Monica","Birth Name","","","","Monica","",["Hansen"],"","","",[]]],
 "F","?",
-"Tifton, GA",
+"Tifton, Tift, GA, USA",
 "",
 "",
 "",
 [
-	["E2364","Birth","","",770,"Birth of Hansen, Monica","",[],[]]
+	["E2364","Birth","","",1149,"Birth of Hansen, Monica","",[],[]]
 ],
 [
 
@@ -17799,12 +17799,12 @@ I = [
 ["I0816","Hansen, Noel","Hansen, Noel",
 [["Hansen, Noel","Birth Name","","","","Noel","",["Hansen"],"","","",[]]],
 "M","1953",
-"Tifton, GA",
+"Tifton, Tift, GA, USA",
 "",
 "",
 "",
 [
-	["E2360","Birth","1953-12-00","DEC 1953",770,"Birth of Hansen, Noel","",[],[]],
+	["E2360","Birth","1953-12-00","DEC 1953",1149,"Birth of Hansen, Noel","",[],[]],
 	["E2361","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -17822,12 +17822,12 @@ I = [
 ["I0817","Hansen, Nula","Hansen, Nula",
 [["Hansen, Nula","Birth Name","","","","Nula","",["Hansen"],"","","",[]]],
 "F","?",
-"Tifton, GA",
+"Tifton, Tift, GA, USA",
 "",
 "",
 "",
 [
-	["E2362","Birth","","",770,"Birth of Hansen, Nula","",[],[]]
+	["E2362","Birth","","",1149,"Birth of Hansen, Nula","",[],[]]
 ],
 [
 
@@ -17844,12 +17844,12 @@ I = [
 ["I0815","Hansen, Thomas","Hansen, Thomas",
 [["Hansen, Thomas","Birth Name","","","","Thomas","",["Hansen"],"","","",[]]],
 "M","?",
-"Willimantic, CT",
+"Willimantic, Windham, CT, USA",
 "",
 "",
 "",
 [
-	["E2358","Birth","","",829,"Birth of Hansen, Thomas","",[],[]],
+	["E2358","Birth","","",1255,"Birth of Hansen, Thomas","",[],[]],
 	["E2359","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -18111,12 +18111,12 @@ I = [
 ["I0418","Harrison, Douglas Glenn","Harrison, Douglas Glenn",
 [["Harrison, Douglas Glenn","Birth Name","","","","Douglas Glenn","",["Harrison"],"","","",[]]],
 "M","1988",
-"Rockland, ME",
+"Rockland, ME, USA",
 "",
 "",
 "",
 [
-	["E1606","Birth","1988-01-19","19 JAN 1988",664,"Birth of Harrison, Douglas Glenn","",[],[]],
+	["E1606","Birth","1988-01-19","19 JAN 1988",997,"Birth of Harrison, Douglas Glenn","",[],[]],
 	["E1607","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -18489,12 +18489,12 @@ I = [
 ["I0866","Hawkins, Jennifer Leigh","Hawkins, Jennifer Leigh",
 [["Hawkins, Jennifer Leigh","Birth Name","","","","Jennifer Leigh","",["Hawkins"],"","","",[]]],
 "F","1973",
-"Hutchinson, KS",
+"Hutchinson, Reno, KS, USA",
 "",
 "",
 "",
 [
-	["E2459","Birth","1973","1973",364,"Birth of Hawkins, Jennifer Leigh","",[],[]],
+	["E2459","Birth","1973","1973",527,"Birth of Hawkins, Jennifer Leigh","",[],[]],
 	["E2460","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -18534,14 +18534,14 @@ I = [
 ["I2034","Hawkins, William Melvin","Hawkins, William Melvin",
 [["Hawkins, William Melvin","Birth Name","","","","William Melvin","",["Hawkins"],"","","",[]]],
 "M","1926",
-"Harrisonburg, VA",
+"Harrisonburg, VA, USA",
 "1999",
-"Worthington, MN",
+"Worthington, MN, USA",
 "73 years, 16 days",
 [
-	["E1164","Birth","1926-03-09","9 MAR 1926",337,"Birth of Hawkins, William Melvin","",[],[]],
-	["E1165","Death","1999-03-25","25 MAR 1999",843,"Death of Hawkins, William Melvin","",[],[]],
-	["E1166","Burial","1999-03-29","29 MAR 1999",843,"Burial of Hawkins, William Melvin","",[],[]]
+	["E1164","Birth","1926-03-09","9 MAR 1926",484,"Birth of Hawkins, William Melvin","",[],[]],
+	["E1165","Death","1999-03-25","25 MAR 1999",1273,"Death of Hawkins, William Melvin","",[],[]],
+	["E1166","Burial","1999-03-29","29 MAR 1999",1273,"Burial of Hawkins, William Melvin","",[],[]]
 ],
 [
 
@@ -18581,12 +18581,12 @@ I = [
 ["I0304","Haynes, David William Sigfred","Haynes, David William Sigfred",
 [["Haynes, David William Sigfred","Birth Name","","","","David William Sigfred","",["Haynes"],"","","",[]]],
 "M","1986",
-"Bremerton, WA",
+"Bremerton, WA, USA",
 "",
 "",
 "",
 [
-	["E1391","Birth","1986-12-06","6 DEC 1986",98,"Birth of Haynes, David William Sigfred","",[],[]],
+	["E1391","Birth","1986-12-06","6 DEC 1986",132,"Birth of Haynes, David William Sigfred","",[],[]],
 	["E1392","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -18604,12 +18604,12 @@ I = [
 ["I0303","Haynes, Elizabeth Ellen","Haynes, Elizabeth Ellen",
 [["Haynes, Elizabeth Ellen","Birth Name","","","","Elizabeth Ellen","",["Haynes"],"","","",[]]],
 "F","1980",
-"Bremerton, WA",
+"Bremerton, WA, USA",
 "",
 "",
 "",
 [
-	["E1389","Birth","1980-11-18","18 NOV 1980",98,"Birth of Haynes, Elizabeth Ellen","",[],[]],
+	["E1389","Birth","1980-11-18","18 NOV 1980",132,"Birth of Haynes, Elizabeth Ellen","",[],[]],
 	["E1390","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -18627,12 +18627,12 @@ I = [
 ["I0301","Haynes, Marc W.","Haynes, Marc W.",
 [["Haynes, Marc W.","Birth Name","","","","Marc W.","",["Haynes"],"","","",[]]],
 "M","1950",
-"San Francisco, CA",
+"San Francisco, San Francisco, CA, USA",
 "",
 "",
 "",
 [
-	["E1385","Birth","1950-01-29","29 JAN 1950",682,"Birth of Haynes, Marc W.","",[],[]],
+	["E1385","Birth","1950-01-29","29 JAN 1950",1018,"Birth of Haynes, Marc W.","",[],[]],
 	["E1386","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -18650,12 +18650,12 @@ I = [
 ["I0981","Haynes, Melany","Haynes, Melany",
 [["Haynes, Melany","Birth Name","","","","Melany","",["Haynes"],"","","",[]]],
 "F","1990",
-"Bremerton, WA",
+"Bremerton, WA, USA",
 "",
 "",
 "",
 [
-	["E2697","Birth","1990","1990",98,"Birth of Haynes, Melany","",[],[]],
+	["E2697","Birth","1990","1990",132,"Birth of Haynes, Melany","",[],[]],
 	["E2698","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -18673,12 +18673,12 @@ I = [
 ["I0302","Haynes, Michael Walter","Haynes, Michael Walter",
 [["Haynes, Michael Walter","Birth Name","","","","Michael Walter","",["Haynes"],"","","",[]]],
 "M","1977",
-"Bremerton, WA",
+"Bremerton, WA, USA",
 "",
 "",
 "",
 [
-	["E1387","Birth","1977-09-05","5 SEP 1977",98,"Birth of Haynes, Michael Walter","",[],[]],
+	["E1387","Birth","1977-09-05","5 SEP 1977",132,"Birth of Haynes, Michael Walter","",[],[]],
 	["E1388","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -18696,12 +18696,12 @@ I = [
 ["I1622","Hébert, Mr.","Hébert, Mr.",
 [["Hébert, Mr.","Birth Name","","","","Mr.","",["Hébert"],"","","",[]]],
 "M","?",
-"Canton, IL",
+"Canton, Fulton, IL, USA",
 "",
 "",
 "",
 [
-	["E0736","Birth","","",125,"Birth of Hébert, Mr.","",[],[]]
+	["E0736","Birth","","",170,"Birth of Hébert, Mr.","",[],[]]
 ],
 [
 
@@ -18718,12 +18718,12 @@ I = [
 ["I0976","Hébert, Ruth Ann","Hébert, Ruth Ann",
 [["Hébert, Ruth Ann","Birth Name","","","","Ruth Ann","",["Hébert"],"","","",[]]],
 "F","?",
-"Ardmore, OK",
+"Ardmore, OK, USA",
 "1843",
 "",
 "unknown",
 [
-	["E2688","Birth","","",36,"Birth of Hébert, Ruth Ann","",[],[]],
+	["E2688","Birth","","",49,"Birth of Hébert, Ruth Ann","",[],[]],
 	["E2689","Death","1843","1843",-1,"Death of Hébert, Ruth Ann","",[],[]]
 ],
 [
@@ -18741,12 +18741,12 @@ I = [
 ["I0617","Henderson, Cathy Sue","Henderson, Cathy Sue",
 [["Henderson, Cathy Sue","Birth Name","","","","Cathy Sue","",["Henderson"],"","","",[]]],
 "F","1965",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E2024","Birth","1965-05-08","8 MAY 1965",586,"Birth of Henderson, Cathy Sue","",[],[]],
+	["E2024","Birth","1965-05-08","8 MAY 1965",893,"Birth of Henderson, Cathy Sue","",[],[]],
 	["E2025","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -18766,12 +18766,12 @@ I = [
 "F","1770",
 "",
 "1836",
-"Springfield, MA",
+"Springfield, Hampden, MA, USA",
 "66 years, 1 month, 13 days",
 [
 	["E2318","Birth","1770-04-00","APR 1770",-1,"Birth of Henry, Elizabeth","",[],[]],
-	["E2319","Death","1836-05-14","14 MAY 1836",733,"Death of Henry, Elizabeth","",[],[]],
-	["E2320","Burial","1836-05-15","15 MAY 1836",264,"Burial of Henry, Elizabeth","",[],[]]
+	["E2319","Death","1836-05-14","14 MAY 1836",1087,"Death of Henry, Elizabeth","",[],[]],
+	["E2320","Burial","1836-05-15","15 MAY 1836",383,"Burial of Henry, Elizabeth","",[],[]]
 ],
 [
 
@@ -19123,13 +19123,13 @@ I = [
 ["I1058","Holloway, John(?)","Holloway, John(?)",
 [["Holloway, John(?)","Birth Name","","","","John(?)","",["Holloway"],"","","",[]]],
 "M","?",
-"Del Rio, TX",
+"Del Rio, Val Verde, TX, USA",
 "?",
-"Del Rio, TX",
+"Del Rio, Val Verde, TX, USA",
 "unknown",
 [
-	["E0103","Birth","","",206,"Birth of Holloway, John(?)","",[],[]],
-	["E0104","Death","","",206,"Death of Holloway, John(?)","",[],[]]
+	["E0103","Birth","","",298,"Birth of Holloway, John(?)","",[],[]],
+	["E0104","Death","","",298,"Death of Holloway, John(?)","",[],[]]
 ],
 [
 
@@ -19146,13 +19146,13 @@ I = [
 ["I1076","Holloway, Sarah","Holloway, Sarah",
 [["Holloway, Sarah","Birth Name","","","","Sarah","",["Holloway"],"","","",[]]],
 "F","1795",
-"Bishop, CA",
+"Bishop, Inyo, CA, USA",
 "?",
-"Del Rio, TX",
+"Del Rio, Val Verde, TX, USA",
 "unknown",
 [
-	["E0135","Birth","1795-09-10","10 SEP 1795",80,"Birth of Holloway, Sarah","",[],[]],
-	["E0136","Death","","",206,"Death of Holloway, Sarah","",[],[]]
+	["E0135","Birth","1795-09-10","10 SEP 1795",108,"Birth of Holloway, Sarah","",[],[]],
+	["E0136","Death","","",298,"Death of Holloway, Sarah","",[],[]]
 ],
 [
 
@@ -19169,14 +19169,14 @@ I = [
 ["I0092","Holt, Bridget","Holt, Bridget",
 [["Holt, Bridget","Birth Name","","","","Bridget","",["Holt"],"","","",[]]],
 "F","1829",
-"Manchester, NH",
+"Manchester, NH, USA",
 "1904",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "74 years, 2 months, 13 days",
 [
-	["E2561","Birth","1829-12-00","DEC 1829",472,"Birth of Holt, Bridget","",[],[]],
-	["E2562","Death","1904-02-14","14 FEB 1904",586,"Death of Holt, Bridget","",[],[]],
-	["E2563","Burial","","",446,"Burial of Holt, Bridget","",[],[]]
+	["E2561","Birth","1829-12-00","DEC 1829",705,"Birth of Holt, Bridget","",[],[]],
+	["E2562","Death","1904-02-14","14 FEB 1904",893,"Death of Holt, Bridget","",[],[]],
+	["E2563","Burial","","",656,"Burial of Holt, Bridget","",[],[]]
 ],
 [
 
@@ -19193,13 +19193,13 @@ I = [
 ["I0569","Hopkins, Joseph","Hopkins, Joseph",
 [["Hopkins, Joseph","Birth Name","","","","Joseph","",["Hopkins"],"","","",[]]],
 "M","1786",
-"Lawrenceburg, TN",
+"Lawrenceburg, TN, USA",
 "?",
-"Sandusky, OH",
+"Sandusky, OH, USA",
 "unknown",
 [
-	["E1921","Birth","1786-05-11","11 MAY 1786",435,"Birth of Hopkins, Joseph","",[],[]],
-	["E1922","Death","","",687,"Death of Hopkins, Joseph","",[],[]]
+	["E1921","Birth","1786-05-11","11 MAY 1786",641,"Birth of Hopkins, Joseph","",[],[]],
+	["E1922","Death","","",1027,"Death of Hopkins, Joseph","",[],[]]
 ],
 [
 
@@ -19216,14 +19216,14 @@ I = [
 ["I0030","Hopkins, Mary Eve","Hopkins, Mary Eve",
 [["Hopkins, Mary Eve","Birth Name","","","","Mary Eve","",["Hopkins"],"","","",[]]],
 "F","1805",
-"Ardmore, OK",
+"Ardmore, OK, USA",
 "1865",
-"Visalia, CA",
+"Visalia, Tulare, CA, USA",
 "59 years, 6 months, 24 days",
 [
-	["E1380","Birth","1805-10-18","18 OCT 1805",36,"Birth of Hopkins, Mary Eve","",[],[]],
-	["E1381","Death","1865-05-11","11 MAY 1865",800,"Death of Hopkins, Mary Eve","",[],[]],
-	["E1382","Burial","1865-05-13","13 MAY 1865",94,"Burial of Hopkins, Mary Eve","",[],[]]
+	["E1380","Birth","1805-10-18","18 OCT 1805",49,"Birth of Hopkins, Mary Eve","",[],[]],
+	["E1381","Death","1865-05-11","11 MAY 1865",1200,"Death of Hopkins, Mary Eve","",[],[]],
+	["E1382","Burial","1865-05-13","13 MAY 1865",126,"Burial of Hopkins, Mary Eve","",[],[]]
 ],
 [
 
@@ -19242,12 +19242,12 @@ I = [
 "F","1790",
 "",
 "1855",
-"Stevens Point, WI",
+"Stevens Point, WI, USA",
 "65 years, 1 month, 9 days",
 [
 	["E0130","Birth","1790-06-21","21 JUN 1790",-1,"Birth of Houston, Ellender","",[],[]],
-	["E0131","Death","1855-07-30","30 JUL 1855",748,"Death of Houston, Ellender","",[],[]],
-	["E0132","Burial","","",522,"Burial of Houston, Ellender","",[],[]]
+	["E0131","Death","1855-07-30","30 JUL 1855",1112,"Death of Houston, Ellender","",[],[]],
+	["E0132","Burial","","",784,"Burial of Houston, Ellender","",[],[]]
 ],
 [
 
@@ -19308,14 +19308,14 @@ I = [
 ["I0988","Howell, John","Howell, John",
 [["Howell, John","Birth Name","","","","John","",["Howell"],"","","",[]]],
 "M","?",
-"Loveland, CO",
+"Loveland, Larimer, CO, USA",
 "?",
-"Del Rio, TX",
+"Del Rio, Val Verde, TX, USA",
 "unknown",
 [
-	["E2710","Birth","","",461,"Birth of Howell, John","",[],[]],
-	["E2711","Death","","",206,"Death of Howell, John","",[],[]],
-	["E2712","Burial","","",206,"Burial of Howell, John","",[],[]]
+	["E2710","Birth","","",680,"Birth of Howell, John","",[],[]],
+	["E2711","Death","","",298,"Death of Howell, John","",[],[]],
+	["E2712","Burial","","",298,"Burial of Howell, John","",[],[]]
 ],
 [
 
@@ -19332,12 +19332,12 @@ I = [
 ["I0954","Howell, JOHN","Howell, JOHN",
 [["Howell, JOHN","Birth Name","","","","JOHN","",["Howell"],"","","",[]]],
 "M","1615",
-"Fajardo, PR",
+"Fajardo, PR, USA",
 "1644",
 "",
 "29 years, 11 months, 27 days",
 [
-	["E2626","Birth","1615","1615",255,"Birth of Howell, JOHN","",[],[]],
+	["E2626","Birth","1615","1615",371,"Birth of Howell, JOHN","",[],[]],
 	["E2627","Death","1644-12-28","28 DEC 1644",-1,"Death of Howell, JOHN","",[],[]]
 ],
 [
@@ -19357,10 +19357,10 @@ I = [
 "F","?",
 "",
 "?",
-"Newberry, SC",
+"Newberry, SC, USA",
 "",
 [
-	["E1789","Burial","","",559,"Burial of Howell, Marie","",[],[]]
+	["E1789","Burial","","",847,"Burial of Howell, Marie","",[],[]]
 ],
 [
 
@@ -19377,12 +19377,12 @@ I = [
 ["I1793","Howell, Mary","Howell, Mary",
 [["Howell, Mary","Birth Name","","","","Mary","",["Howell"],"","","",[]]],
 "F","1945",
-"Oneonta, NY",
+"Oneonta, Otsego, NY, USA",
 "",
 "",
 "",
 [
-	["E0911","Birth","1945-11-17","17 NOV 1945",580,"Birth of Howell, Mary","",[],[]],
+	["E0911","Birth","1945-11-17","17 NOV 1945",880,"Birth of Howell, Mary","",[],[]],
 	["E0912","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -19400,14 +19400,14 @@ I = [
 ["I0751","Howell, Mary (Sarah)","Howell, Mary (Sarah)",
 [["Howell, Mary (Sarah)","Birth Name","","","","Mary (Sarah)","",["Howell"],"","","",[]]],
 "F","1641",
-"Ogdensburg, NY",
+"Ogdensburg, St. Lawrence, NY, USA",
 "1686",
-"Anchorage, AK",
+"Anchorage, AK, USA",
 "44 years, 10 months, 20 days",
 [
-	["E2238","Birth","1641-02-12","12 FEB 1641",574,"Birth of Howell, Mary (Sarah)","",[],[]],
-	["E2239","Death","1686","1686",28,"Death of Howell, Mary (Sarah)","",[],[]],
-	["E2240","Burial","","",28,"Burial of Howell, Mary (Sarah)","",[],[]]
+	["E2238","Birth","1641-02-12","12 FEB 1641",871,"Birth of Howell, Mary (Sarah)","",[],[]],
+	["E2239","Death","1686","1686",37,"Death of Howell, Mary (Sarah)","",[],[]],
+	["E2240","Burial","","",37,"Burial of Howell, Mary (Sarah)","",[],[]]
 ],
 [
 
@@ -19600,13 +19600,13 @@ I = [
 ["I0738","Ingram, Mary","Ingram, Mary",
 [["Ingram, Mary","Birth Name","","","","Mary","",["Ingram"],"","","",[]]],
 "F","?",
-"Fresno, CA",
+"Fresno, Fresno, CA, USA",
 "1688",
-"Sylacauga, AL",
+"Sylacauga, Talladega, AL, USA",
 "about 63 years, 6 months, 28 days",
 [
-	["E2213","Birth","about 1625","ABT 1625",288,"Birth of Ingram, Mary","",[],[]],
-	["E2214","Death","1688-07-29","29 JUL 1688",757,"Death of Ingram, Mary","",[],[]]
+	["E2213","Birth","about 1625","ABT 1625",413,"Birth of Ingram, Mary","",[],[]],
+	["E2214","Death","1688-07-29","29 JUL 1688",1128,"Death of Ingram, Mary","",[],[]]
 ],
 [
 
@@ -19617,6 +19617,29 @@ I = [
 [],
 [],
 [597],
+[],
+[]
+],
+["I0630","Jackson, Cora Ellen","Jackson, Cora Ellen",
+[["Jackson, Cora Ellen","Birth Name","","","","Cora Ellen","",["Jackson"],"","","",[]]],
+"F","?",
+"Denver-Aurora, CO, USA",
+"?",
+"Sterling, Whiteside, IL, USA",
+"unknown",
+[
+	["E2059","Birth","","",302,"Birth of Jackson, Cora Ellen","",[],[]],
+	["E2060","Burial","","",1108,"Burial of Jackson, Cora Ellen","",[],[]]
+],
+[
+
+],
+"",
+[],
+[],
+[],
+[],
+[],
 [],
 []
 ],
@@ -19639,29 +19662,6 @@ I = [
 [],
 [],
 [234],
-[],
-[]
-],
-["I0630","Jackson, Cora Ellen","Jackson, Cora Ellen",
-[["Jackson, Cora Ellen","Birth Name","","","","Cora Ellen","",["Jackson"],"","","",[]]],
-"F","?",
-"Denver-Aurora, CO",
-"?",
-"Sterling, IL",
-"unknown",
-[
-	["E2059","Birth","","",209,"Birth of Jackson, Cora Ellen","",[],[]],
-	["E2060","Burial","","",746,"Burial of Jackson, Cora Ellen","",[],[]]
-],
-[
-
-],
-"",
-[],
-[],
-[],
-[],
-[],
 [],
 []
 ],
@@ -19734,13 +19734,13 @@ I = [
 ["I1542","James, Hugh Jr.","James, Hugh Jr.",
 [["James, Hugh Jr.","Birth Name","","","","Hugh Jr.","",["James"],"","","",[]]],
 "M","1768",
-"La Follette, TN",
+"La Follette, TN, USA",
 "1768",
-"Waterloo-Cedar Falls, IA",
+"Waterloo-Cedar Falls, IA, USA",
 "0 days",
 [
-	["E0684","Birth","1768","1768",412,"Birth of James, Hugh Jr.","",[],[]],
-	["E0685","Death","1768","1768",814,"Death of James, Hugh Jr.","",[],[]]
+	["E0684","Birth","1768","1768",605,"Birth of James, Hugh Jr.","",[],[]],
+	["E0685","Death","1768","1768",1226,"Death of James, Hugh Jr.","",[],[]]
 ],
 [
 
@@ -19757,13 +19757,13 @@ I = [
 ["I0479","James, Hugh Sr.","James, Hugh Sr.",
 [["James, Hugh Sr.","Birth Name","","","","Hugh Sr.","",["James"],"","","",[]]],
 "M","1705",
-"Cleveland, OH",
+"Cleveland, OH, USA",
 "1785",
-"Coffeyville, KS",
+"Coffeyville, Montgomery, KS, USA",
 "80 years",
 [
-	["E1752","Birth","1705","1705",156,"Birth of James, Hugh Sr.","",[],[]],
-	["E1753","Death","1785","1785",162,"Death of James, Hugh Sr.","",[],[]]
+	["E1752","Birth","1705","1705",216,"Birth of James, Hugh Sr.","",[],[]],
+	["E1753","Death","1785","1785",230,"Death of James, Hugh Sr.","",[],[]]
 ],
 [
 
@@ -19780,12 +19780,12 @@ I = [
 ["I1546","James, Isaac","James, Isaac",
 [["James, Isaac","Birth Name","","","","Isaac","",["James"],"","","",[]]],
 "M","?",
-"La Follette, TN",
+"La Follette, TN, USA",
 "",
 "",
 "",
 [
-	["E0690","Birth","","",412,"Birth of James, Isaac","",[],[]]
+	["E0690","Birth","","",605,"Birth of James, Isaac","",[],[]]
 ],
 [
 
@@ -19821,6 +19821,29 @@ I = [
 [],
 []
 ],
+["I0476","James, Jane","James, Jane",
+[["James, Jane","Birth Name","","","","Jane","",["James"],"","","",[]]],
+"F","?",
+"Lock Haven, PA, USA",
+"1846",
+"Marshall, MN, USA",
+"unknown",
+[
+	["E1746","Birth","","",669,"Birth of James, Jane","",[],[]],
+	["E1747","Death","1846-09-03","3 SEP 1846",721,"Death of James, Jane","",[],[]]
+],
+[
+
+],
+"",
+[],
+[],
+[],
+[],
+[464,491],
+[[322,"Birth","Birth","",[]]],
+[]
+],
 ["I1538","James, Jane","James, Jane",
 [["James, Jane","Birth Name","","","","Jane","",["James"],"","","",[]]],
 "F","1739",
@@ -19841,29 +19864,6 @@ I = [
 [],
 [],
 [[315,"Birth","Birth","",[]]],
-[]
-],
-["I0476","James, Jane","James, Jane",
-[["James, Jane","Birth Name","","","","Jane","",["James"],"","","",[]]],
-"F","?",
-"Lock Haven, PA",
-"1846",
-"Marshall, MN",
-"unknown",
-[
-	["E1746","Birth","","",454,"Birth of James, Jane","",[],[]],
-	["E1747","Death","1846-09-03","3 SEP 1846",482,"Death of James, Jane","",[],[]]
-],
-[
-
-],
-"",
-[],
-[],
-[],
-[],
-[464,491],
-[[322,"Birth","Birth","",[]]],
 []
 ],
 ["I1539","James, John","James, John",
@@ -19888,29 +19888,6 @@ I = [
 [[315,"Birth","Birth","",[]]],
 []
 ],
-["I1544","James, Joseph","James, Joseph",
-[["James, Joseph","Birth Name","","","","Joseph","",["James"],"","","",[]]],
-"M","1773",
-"Waterloo-Cedar Falls, IA",
-"1824",
-"Orlando, FL",
-"50 years, 9 months, 29 days",
-[
-	["E0687","Birth","1773-03-03","3 MAR 1773",814,"Birth of James, Joseph","",[],[]],
-	["E0688","Death","1824","1824",583,"Death of James, Joseph","",[],[]]
-],
-[
-
-],
-"",
-[],
-[],
-[],
-[],
-[318],
-[[322,"Birth","Birth","",[]]],
-[]
-],
 ["I1532","James, Joseph","James, Joseph",
 [["James, Joseph","Birth Name","","","","Joseph","",["James"],"","","",[]]],
 "M","?",
@@ -19931,6 +19908,29 @@ I = [
 [],
 [],
 [[315,"Birth","Birth","",[]]],
+[]
+],
+["I1544","James, Joseph","James, Joseph",
+[["James, Joseph","Birth Name","","","","Joseph","",["James"],"","","",[]]],
+"M","1773",
+"Waterloo-Cedar Falls, IA, USA",
+"1824",
+"Orlando, Orange, FL, USA",
+"50 years, 9 months, 29 days",
+[
+	["E0687","Birth","1773-03-03","3 MAR 1773",1226,"Birth of James, Joseph","",[],[]],
+	["E0688","Death","1824","1824",888,"Death of James, Joseph","",[],[]]
+],
+[
+
+],
+"",
+[],
+[],
+[],
+[],
+[318],
+[[322,"Birth","Birth","",[]]],
 []
 ],
 ["I1536","James, Martha","James, Martha",
@@ -19980,12 +19980,12 @@ I = [
 ["I1543","James, Molly","James, Molly",
 [["James, Molly","Birth Name","","","","Molly","",["James"],"","","",[]]],
 "F","1770",
-"La Follette, TN",
+"La Follette, TN, USA",
 "",
 "",
 "",
 [
-	["E0686","Birth","1770","1770",412,"Birth of James, Molly","",[],[]]
+	["E0686","Birth","1770","1770",605,"Birth of James, Molly","",[],[]]
 ],
 [
 
@@ -20043,28 +20043,6 @@ I = [
 [[322,"Birth","Birth","",[]]],
 []
 ],
-["I0730","James, Robert","James, Robert",
-[["James, Robert","Birth Name","","","","Robert","",["James"],"","","",[]]],
-"M","?",
-"",
-"",
-"",
-"",
-[
-
-],
-[
-
-],
-"",
-[],
-[],
-[],
-[],
-[319],
-[[317,"Birth","Birth","",[]]],
-[]
-],
 ["I1531","James, Robert","James, Robert",
 [["James, Robert","Birth Name","","","","Robert","",["James"],"","","",[]]],
 "M","1729",
@@ -20087,15 +20065,37 @@ I = [
 [[315,"Birth","Birth","",[]]],
 []
 ],
-["I1545","James, Thomas","James, Thomas",
-[["James, Thomas","Birth Name","","","","Thomas","",["James"],"","","",[]]],
+["I0730","James, Robert","James, Robert",
+[["James, Robert","Birth Name","","","","Robert","",["James"],"","","",[]]],
 "M","?",
-"La Follette, TN",
+"",
 "",
 "",
 "",
 [
-	["E0689","Birth","","",412,"Birth of James, Thomas","",[],[]]
+
+],
+[
+
+],
+"",
+[],
+[],
+[],
+[],
+[319],
+[[317,"Birth","Birth","",[]]],
+[]
+],
+["I1545","James, Thomas","James, Thomas",
+[["James, Thomas","Birth Name","","","","Thomas","",["James"],"","","",[]]],
+"M","?",
+"La Follette, TN, USA",
+"",
+"",
+"",
+[
+	["E0689","Birth","","",605,"Birth of James, Thomas","",[],[]]
 ],
 [
 
@@ -20112,13 +20112,13 @@ I = [
 ["I0477","James, Thomas Sr.","James, Thomas Sr.",
 [["James, Thomas Sr.","Birth Name","","","","Thomas Sr.","",["James"],"","","",[]]],
 "M","1745",
-"Philadelphia, PA",
+"Philadelphia, PA, USA",
 "?",
-"Marshall, MN",
+"Marshall, MN, USA",
 "unknown",
 [
-	["E1748","Birth","1745","1745",609,"Birth of James, Thomas Sr.","",[],[]],
-	["E1749","Death","","",482,"Death of James, Thomas Sr.","",[],[]]
+	["E1748","Birth","1745","1745",922,"Birth of James, Thomas Sr.","",[],[]],
+	["E1749","Death","","",721,"Death of James, Thomas Sr.","",[],[]]
 ],
 [
 
@@ -20135,12 +20135,12 @@ I = [
 ["I1547","James, Walter Crockett","James, Walter Crockett",
 [["James, Walter Crockett","Birth Name","","","","Walter Crockett","",["James"],"","","",[]]],
 "M","?",
-"La Follette, TN",
+"La Follette, TN, USA",
 "",
 "",
 "",
 [
-	["E0691","Birth","","",412,"Birth of James, Walter Crockett","",[],[]]
+	["E0691","Birth","","",605,"Birth of James, Walter Crockett","",[],[]]
 ],
 [
 
@@ -20179,14 +20179,14 @@ I = [
 ["I1401","Jankowski, David","Jankowski, David",
 [["Jankowski, David","Birth Name","","","","David","",["Jankowski"],"","","",[]]],
 "M","1886",
-"Palm Coast, FL",
+"Palm Coast, Flagler, FL, USA",
 "1951",
-"Troy, AL",
+"Troy, Pike, AL, USA",
 "64 years, 8 months",
 [
-	["E0542","Birth","1886-08-10","10 AUG 1886",597,"Birth of Jankowski, David","",[],[]],
-	["E0543","Death","1951-04-10","10 APR 1951",776,"Death of Jankowski, David","",[],[]],
-	["E0544","Burial","1957-04-12","12 APR 1957",585,"Burial of Jankowski, David","",[],[]]
+	["E0542","Birth","1886-08-10","10 AUG 1886",908,"Birth of Jankowski, David","",[],[]],
+	["E0543","Death","1951-04-10","10 APR 1951",1159,"Death of Jankowski, David","",[],[]],
+	["E0544","Burial","1957-04-12","12 APR 1957",891,"Burial of Jankowski, David","",[],[]]
 ],
 [
 
@@ -20203,14 +20203,14 @@ I = [
 ["I1390","Jankowski, George","Jankowski, George",
 [["Jankowski, George","Birth Name","","","","George","",["Jankowski"],"","","",[]]],
 "M","1847",
-"Palm Coast, FL",
+"Palm Coast, Flagler, FL, USA",
 "1930",
-"Troy, AL",
+"Troy, Pike, AL, USA",
 "83 years, 1 month",
 [
-	["E0516","Birth","1847-01-01","1 JAN 1847",597,"Birth of Jankowski, George","",[],[]],
-	["E0517","Death","1930-02-01","1 FEB 1930",776,"Death of Jankowski, George","",[],[]],
-	["E0518","Burial","1930-02-03","3 FEB 1930",621,"Burial of Jankowski, George","",[],[]]
+	["E0516","Birth","1847-01-01","1 JAN 1847",908,"Birth of Jankowski, George","",[],[]],
+	["E0517","Death","1930-02-01","1 FEB 1930",1159,"Death of Jankowski, George","",[],[]],
+	["E0518","Burial","1930-02-03","3 FEB 1930",939,"Burial of Jankowski, George","",[],[]]
 ],
 [
 
@@ -20227,14 +20227,14 @@ I = [
 ["I1398","Jankowski, George Jr.","Jankowski, George Jr.",
 [["Jankowski, George Jr.","Birth Name","","","","George Jr.","",["Jankowski"],"","","",[]]],
 "M","1882",
-"Palm Coast, FL",
+"Palm Coast, Flagler, FL, USA",
 "1942",
-"Troy, AL",
+"Troy, Pike, AL, USA",
 "60 years, 7 months, 20 days",
 [
-	["E0533","Birth","1882-03-28","28 MAR 1882",597,"Birth of Jankowski, George Jr.","",[],[]],
-	["E0534","Death","1942-11-17","17 NOV 1942",776,"Death of Jankowski, George Jr.","",[],[]],
-	["E0535","Burial","1942-11-19","19 NOV 1942",585,"Burial of Jankowski, George Jr.","",[],[]]
+	["E0533","Birth","1882-03-28","28 MAR 1882",908,"Birth of Jankowski, George Jr.","",[],[]],
+	["E0534","Death","1942-11-17","17 NOV 1942",1159,"Death of Jankowski, George Jr.","",[],[]],
+	["E0535","Burial","1942-11-19","19 NOV 1942",891,"Burial of Jankowski, George Jr.","",[],[]]
 ],
 [
 
@@ -20251,13 +20251,13 @@ I = [
 ["I1396","Jankowski, Isabella Belle","Jankowski, Isabella Belle",
 [["Jankowski, Isabella Belle","Birth Name","","","","Isabella Belle","",["Jankowski"],"","","",[]]],
 "F","1878",
-"Palm Coast, FL",
+"Palm Coast, Flagler, FL, USA",
 "1925",
-"Troy, AL",
+"Troy, Pike, AL, USA",
 "47 years, 11 days",
 [
-	["E0531","Birth","1878-03-20","20 MAR 1878",597,"Birth of Jankowski, Isabella Belle","",[],[]],
-	["E0532","Death","1925-03-31","31 MAR 1925",776,"Death of Jankowski, Isabella Belle","",[],[]]
+	["E0531","Birth","1878-03-20","20 MAR 1878",908,"Birth of Jankowski, Isabella Belle","",[],[]],
+	["E0532","Death","1925-03-31","31 MAR 1925",1159,"Death of Jankowski, Isabella Belle","",[],[]]
 ],
 [
 
@@ -20274,14 +20274,14 @@ I = [
 ["I1395","Jankowski, John","Jankowski, John",
 [["Jankowski, John","Birth Name","","","","John","",["Jankowski"],"","","",[]]],
 "M","1876",
-"Palm Coast, FL",
+"Palm Coast, Flagler, FL, USA",
 "1939",
-"Troy, AL",
+"Troy, Pike, AL, USA",
 "63 years, 6 months, 14 days",
 [
-	["E0528","Birth","1876-04-01","1 APR 1876",597,"Birth of Jankowski, John","",[],[]],
-	["E0529","Death","1939-10-15","15 OCT 1939",776,"Death of Jankowski, John","",[],[]],
-	["E0530","Burial","1939-10-15","15 OCT 1939",585,"Burial of Jankowski, John","",[],[]]
+	["E0528","Birth","1876-04-01","1 APR 1876",908,"Birth of Jankowski, John","",[],[]],
+	["E0529","Death","1939-10-15","15 OCT 1939",1159,"Death of Jankowski, John","",[],[]],
+	["E0530","Burial","1939-10-15","15 OCT 1939",891,"Burial of Jankowski, John","",[],[]]
 ],
 [
 
@@ -20298,13 +20298,13 @@ I = [
 ["I1402","Jankowski, Margaret Jane \"Maggie\"","Jankowski, Margaret Jane \"Maggie\"",
 [["Jankowski, Margaret Jane \"Maggie\"","Birth Name","","","","Margaret Jane \"Maggie\"","",["Jankowski"],"","","",[]]],
 "F","1889",
-"Palm Coast, FL",
+"Palm Coast, Flagler, FL, USA",
 "1960",
-"Troy, AL",
+"Troy, Pike, AL, USA",
 "70 years, 7 months, 8 days",
 [
-	["E0545","Birth","1889-05-28","28 MAY 1889",597,"Birth of Jankowski, Margaret Jane &#8220;Maggie&#8221;","",[],[]],
-	["E0546","Death","1960-01-05","5 JAN 1960",776,"Death of Jankowski, Margaret Jane &#8220;Maggie&#8221;","",[],[]]
+	["E0545","Birth","1889-05-28","28 MAY 1889",908,"Birth of Jankowski, Margaret Jane &#8220;Maggie&#8221;","",[],[]],
+	["E0546","Death","1960-01-05","5 JAN 1960",1159,"Death of Jankowski, Margaret Jane &#8220;Maggie&#8221;","",[],[]]
 ],
 [
 
@@ -20321,13 +20321,13 @@ I = [
 ["I1399","Jankowski, Matilda","Jankowski, Matilda",
 [["Jankowski, Matilda","Birth Name","","","","Matilda","",["Jankowski"],"","","",[]]],
 "F","1885",
-"Palm Coast, FL",
+"Palm Coast, Flagler, FL, USA",
 "1925",
-"Troy, AL",
+"Troy, Pike, AL, USA",
 "39 years, 7 months, 15 days",
 [
-	["E0536","Birth","1885-06-07","7 JUN 1885",597,"Birth of Jankowski, Matilda","",[],[]],
-	["E0537","Death","1925-01-22","22 JAN 1925",776,"Death of Jankowski, Matilda","",[],[]]
+	["E0536","Birth","1885-06-07","7 JUN 1885",908,"Birth of Jankowski, Matilda","",[],[]],
+	["E0537","Death","1925-01-22","22 JAN 1925",1159,"Death of Jankowski, Matilda","",[],[]]
 ],
 [
 
@@ -20344,13 +20344,13 @@ I = [
 ["I1404","Jankowski, Minnie","Jankowski, Minnie",
 [["Jankowski, Minnie","Birth Name","","","","Minnie","",["Jankowski"],"","","",[]]],
 "F","1892",
-"Palm Coast, FL",
+"Palm Coast, Flagler, FL, USA",
 "1984",
-"Palm Coast, FL",
+"Palm Coast, Flagler, FL, USA",
 "91 years, 7 months, 15 days",
 [
-	["E0549","Birth","1892-05-24","24 MAY 1892",597,"Birth of Jankowski, Minnie","",[],[]],
-	["E0550","Death","1984-01-08","8 JAN 1984",597,"Death of Jankowski, Minnie","",[],[]]
+	["E0549","Birth","1892-05-24","24 MAY 1892",908,"Birth of Jankowski, Minnie","",[],[]],
+	["E0550","Death","1984-01-08","8 JAN 1984",908,"Death of Jankowski, Minnie","",[],[]]
 ],
 [
 
@@ -20367,14 +20367,14 @@ I = [
 ["I1391","Jankowski, Robert","Jankowski, Robert",
 [["Jankowski, Robert","Birth Name","","","","Robert","",["Jankowski"],"","","",[]]],
 "M","1872",
-"Palm Coast, FL",
+"Palm Coast, Flagler, FL, USA",
 "1943",
-"Troy, AL",
+"Troy, Pike, AL, USA",
 "70 years, 4 months, 6 days",
 [
-	["E0519","Birth","1872-08-27","27 AUG 1872",597,"Birth of Jankowski, Robert","",[],[]],
-	["E0520","Death","1943-01-02","2 JAN 1943",776,"Death of Jankowski, Robert","",[],[]],
-	["E0521","Burial","1943-01-04","4 JAN 1943",811,"Burial of Jankowski, Robert","",[],[]]
+	["E0519","Birth","1872-08-27","27 AUG 1872",908,"Birth of Jankowski, Robert","",[],[]],
+	["E0520","Death","1943-01-02","2 JAN 1943",1159,"Death of Jankowski, Robert","",[],[]],
+	["E0521","Burial","1943-01-04","4 JAN 1943",1221,"Burial of Jankowski, Robert","",[],[]]
 ],
 [
 
@@ -20391,13 +20391,13 @@ I = [
 ["I1392","Jankowski, Sarah","Jankowski, Sarah",
 [["Jankowski, Sarah","Birth Name","","","","Sarah","",["Jankowski"],"","","",[]]],
 "F","1874",
-"Palm Coast, FL",
+"Palm Coast, Flagler, FL, USA",
 "1948",
-"Troy, AL",
+"Troy, Pike, AL, USA",
 "73 years, 2 months, 9 days",
 [
-	["E0522","Birth","1874-12-08","8 DEC 1874",597,"Birth of Jankowski, Sarah","",[],[]],
-	["E0523","Death","1948-02-17","17 FEB 1948",776,"Death of Jankowski, Sarah","",[],[]]
+	["E0522","Birth","1874-12-08","8 DEC 1874",908,"Birth of Jankowski, Sarah","",[],[]],
+	["E0523","Death","1948-02-17","17 FEB 1948",1159,"Death of Jankowski, Sarah","",[],[]]
 ],
 [
 
@@ -20414,13 +20414,13 @@ I = [
 ["I1394","Jankowski, Willie","Jankowski, Willie",
 [["Jankowski, Willie","Birth Name","","","","Willie","",["Jankowski"],"","","",[]]],
 "M","?",
-"Palm Coast, FL",
+"Palm Coast, Flagler, FL, USA",
 "?",
-"Palm Coast, FL",
+"Palm Coast, Flagler, FL, USA",
 "unknown",
 [
-	["E0526","Birth","","",597,"Birth of Jankowski, Willie","",[],[]],
-	["E0527","Death","","",597,"Death of Jankowski, Willie","",[],[]]
+	["E0526","Birth","","",908,"Birth of Jankowski, Willie","",[],[]],
+	["E0527","Death","","",908,"Death of Jankowski, Willie","",[],[]]
 ],
 [
 
@@ -20529,12 +20529,12 @@ I = [
 "F","1835",
 "",
 "1883",
-"Marquette, MI",
+"Marquette, MI, USA",
 "47 years, 9 months, 12 days",
 [
 	["E0441","Birth","1835-07-13","13 JUL 1835",-1,"Birth of Jiménez, Amanda E.","",[],[]],
-	["E0442","Death","1883-04-25","25 APR 1883",481,"Death of Jiménez, Amanda E.","",[],[]],
-	["E0443","Burial","1835-07-15","15 JUL 1835",749,"Burial of Jiménez, Amanda E.","",[],[]]
+	["E0442","Death","1883-04-25","25 APR 1883",717,"Death of Jiménez, Amanda E.","",[],[]],
+	["E0443","Burial","1835-07-15","15 JUL 1835",1113,"Burial of Jiménez, Amanda E.","",[],[]]
 ],
 [
 
@@ -20573,12 +20573,12 @@ I = [
 ["I1370","Jiménez, Armand E.","Jiménez, Armand E.",
 [["Jiménez, Armand E.","Birth Name","","","","Armand E.","",["Jiménez"],"","","",[]]],
 "M","?",
-"Orlando, FL",
+"Orlando, Orange, FL, USA",
 "",
 "",
 "",
 [
-	["E0483","Birth","","",583,"Birth of Jiménez, Armand E.","",[],[]]
+	["E0483","Birth","","",888,"Birth of Jiménez, Armand E.","",[],[]]
 ],
 [
 
@@ -20641,12 +20641,12 @@ I = [
 ["I1374","Jiménez, George H.","Jiménez, George H.",
 [["Jiménez, George H.","Birth Name","","","","George H.","",["Jiménez"],"","","",[]]],
 "M","?",
-"Orlando, FL",
+"Orlando, Orange, FL, USA",
 "",
 "",
 "",
 [
-	["E0487","Birth","","",583,"Birth of Jiménez, George H.","",[],[]]
+	["E0487","Birth","","",888,"Birth of Jiménez, George H.","",[],[]]
 ],
 [
 
@@ -20663,13 +20663,13 @@ I = [
 ["I0066","Jiménez, George Henry, III","Jiménez, George Henry, III",
 [["Jiménez, George Henry, III","Birth Name","","","","George Henry, III","",["Jiménez"],"","","",[]]],
 "M","1826",
-"Adrian, MI",
+"Adrian, MI, USA",
 "1907",
-"Sanford, NC",
+"Sanford, NC, USA",
 "81 years, 2 months, 10 days",
 [
-	["E2095","Birth","1826-08-15","15 AUG 1826",4,"Birth of Jiménez, George Henry, III","",[],[]],
-	["E2096","Death","1907-10-25","25 OCT 1907",688,"Death of Jiménez, George Henry, III","",[],[]]
+	["E2095","Birth","1826-08-15","15 AUG 1826",7,"Birth of Jiménez, George Henry, III","",[],[]],
+	["E2096","Death","1907-10-25","25 OCT 1907",1028,"Death of Jiménez, George Henry, III","",[],[]]
 ],
 [
 
@@ -20686,14 +20686,14 @@ I = [
 ["I0064","Jiménez, George Henry, Jr.","Jiménez, George Henry, Jr.",
 [["Jiménez, George Henry, Jr.","Birth Name","","","","George Henry, Jr.","",["Jiménez"],"","","",[]]],
 "M","1802",
-"Springfield, MA",
+"Springfield, Hampden, MA, USA",
 "1869",
-"Guaynabo, PR",
+"Guaynabo, PR, USA",
 "66 years, 4 months, 20 days",
 [
-	["E2081","Birth","1802-09-29","29 SEP 1802",733,"Birth of Jiménez, George Henry, Jr.","",[],[]],
-	["E2082","Death","1869-02-19","19 FEB 1869",326,"Death of Jiménez, George Henry, Jr.","",[],[]],
-	["E2083","Burial","1869-02-21","21 FEB 1869",197,"Burial of Jiménez, George Henry, Jr.","",[],[]]
+	["E2081","Birth","1802-09-29","29 SEP 1802",1087,"Birth of Jiménez, George Henry, Jr.","",[],[]],
+	["E2082","Death","1869-02-19","19 FEB 1869",467,"Death of Jiménez, George Henry, Jr.","",[],[]],
+	["E2083","Burial","1869-02-21","21 FEB 1869",280,"Burial of Jiménez, George Henry, Jr.","",[],[]]
 ],
 [
 
@@ -20712,12 +20712,12 @@ I = [
 "M","1760",
 "",
 "1827",
-"Effingham, IL",
+"Effingham, Effingham, IL, USA",
 "67 years, 5 months, 18 days",
 [
 	["E1708","Birth","1760-02-10","10 FEB 1760",-1,"Birth of Jiménez, George, Sr.","",[],[]],
-	["E1709","Death","1827-07-28","28 JUL 1827",236,"Death of Jiménez, George, Sr.","",[],[]],
-	["E1710","Burial","1827-07-29","29 JUL 1827",264,"Burial of Jiménez, George, Sr.","",[],[]]
+	["E1709","Death","1827-07-28","28 JUL 1827",342,"Death of Jiménez, George, Sr.","",[],[]],
+	["E1710","Burial","1827-07-29","29 JUL 1827",383,"Burial of Jiménez, George, Sr.","",[],[]]
 ],
 [
 
@@ -20734,14 +20734,14 @@ I = [
 ["I1346","Jiménez, James T.","Jiménez, James T.",
 [["Jiménez, James T.","Birth Name","","","","James T.","",["Jiménez"],"","","",[]]],
 "M","1839",
-"New Ulm, MN",
+"New Ulm, MN, USA",
 "1839",
-"Marquette, MI",
+"Marquette, MI, USA",
 "0 days",
 [
-	["E0447","Birth","1839-08-06","6 AUG 1839",558,"Birth of Jiménez, James T.","",[],[]],
-	["E0448","Death","1839-08-06","6 AUG 1839",481,"Death of Jiménez, James T.","",[],[]],
-	["E0449","Burial","1839-08-07","7 AUG 1839",278,"Burial of Jiménez, James T.","",[],[]]
+	["E0447","Birth","1839-08-06","6 AUG 1839",846,"Birth of Jiménez, James T.","",[],[]],
+	["E0448","Death","1839-08-06","6 AUG 1839",717,"Death of Jiménez, James T.","",[],[]],
+	["E0449","Burial","1839-08-07","7 AUG 1839",401,"Burial of Jiménez, James T.","",[],[]]
 ],
 [
 
@@ -20781,14 +20781,14 @@ I = [
 ["I1347","Jiménez, John T. L.","Jiménez, John T. L.",
 [["Jiménez, John T. L.","Birth Name","","","","John T. L.","",["Jiménez"],"","","",[]]],
 "M","1829",
-"Marquette, MI",
+"Marquette, MI, USA",
 "1851",
-"New Ulm, MN",
+"New Ulm, MN, USA",
 "21 years, 9 months, 21 days",
 [
-	["E0450","Birth","1829-08-30","30 AUG 1829",481,"Birth of Jiménez, John T. L.","",[],[]],
-	["E0451","Death","1851-06-20","20 JUN 1851",558,"Death of Jiménez, John T. L.","",[],[]],
-	["E0452","Burial","1851-06-21","21 JUN 1851",396,"Burial of Jiménez, John T. L.","",[],[]]
+	["E0450","Birth","1829-08-30","30 AUG 1829",717,"Birth of Jiménez, John T. L.","",[],[]],
+	["E0451","Death","1851-06-20","20 JUN 1851",846,"Death of Jiménez, John T. L.","",[],[]],
+	["E0452","Burial","1851-06-21","21 JUN 1851",581,"Burial of Jiménez, John T. L.","",[],[]]
 ],
 [
 
@@ -20805,12 +20805,12 @@ I = [
 ["I1372","Jiménez, Lincoln F.","Jiménez, Lincoln F.",
 [["Jiménez, Lincoln F.","Birth Name","","","","Lincoln F.","",["Jiménez"],"","","",[]]],
 "M","?",
-"Orlando, FL",
+"Orlando, Orange, FL, USA",
 "",
 "",
 "",
 [
-	["E0485","Birth","","",583,"Birth of Jiménez, Lincoln F.","",[],[]]
+	["E0485","Birth","","",888,"Birth of Jiménez, Lincoln F.","",[],[]]
 ],
 [
 
@@ -20827,12 +20827,12 @@ I = [
 ["I1351","Jiménez, Lucinda","Jiménez, Lucinda",
 [["Jiménez, Lucinda","Birth Name","","","","Lucinda","",["Jiménez"],"","","",[]]],
 "F","?",
-"Marquette, MI",
+"Marquette, MI, USA",
 "",
 "",
 "",
 [
-	["E0460","Birth","","",481,"Birth of Jiménez, Lucinda","",[],[]]
+	["E0460","Birth","","",717,"Birth of Jiménez, Lucinda","",[],[]]
 ],
 [
 
@@ -20849,14 +20849,14 @@ I = [
 ["I0041","Jiménez, Lucinda Ellen","Jiménez, Lucinda Ellen",
 [["Jiménez, Lucinda Ellen","Birth Name","","","","Lucinda Ellen","",["Jiménez"],"","","",[]]],
 "F","1870",
-"Guaynabo, PR",
+"Guaynabo, PR, USA",
 "1949",
-"Kendallville, IN",
+"Kendallville, Noble, IN, USA",
 "79 years, 16 days",
 [
-	["E1591","Birth","1870-02-05","5 FEB 1870",326,"Birth of Jiménez, Lucinda Ellen","",[],[]],
-	["E1592","Death","1949-02-21","21 FEB 1949",395,"Death of Jiménez, Lucinda Ellen","",[],[]],
-	["E1593","Burial","1949-02-00","FEB 1949",188,"Burial of Jiménez, Lucinda Ellen","",[],[]]
+	["E1591","Birth","1870-02-05","5 FEB 1870",467,"Birth of Jiménez, Lucinda Ellen","",[],[]],
+	["E1592","Death","1949-02-21","21 FEB 1949",580,"Death of Jiménez, Lucinda Ellen","",[],[]],
+	["E1593","Burial","1949-02-00","FEB 1949",266,"Burial of Jiménez, Lucinda Ellen","",[],[]]
 ],
 [
 
@@ -20873,12 +20873,12 @@ I = [
 ["I1369","Jiménez, Mary C.","Jiménez, Mary C.",
 [["Jiménez, Mary C.","Birth Name","","","","Mary C.","",["Jiménez"],"","","",[]]],
 "F","?",
-"Orlando, FL",
+"Orlando, Orange, FL, USA",
 "",
 "",
 "",
 [
-	["E0479","Birth","","",583,"Birth of Jiménez, Mary C.","",[],[]]
+	["E0479","Birth","","",888,"Birth of Jiménez, Mary C.","",[],[]]
 ],
 [
 
@@ -20895,14 +20895,14 @@ I = [
 ["I1348","Jiménez, Mary C.","Jiménez, Mary C.",
 [["Jiménez, Mary C.","Birth Name","","","","Mary C.","",["Jiménez"],"","","",[]]],
 "F","1849",
-"Marquette, MI",
+"Marquette, MI, USA",
 "1869",
-"Marquette, MI",
+"Marquette, MI, USA",
 "19 years, 10 months, 2 days",
 [
-	["E0453","Birth","1849-12-08","8 DEC 1849",481,"Birth of Jiménez, Mary C.","",[],[]],
-	["E0454","Death","1869-10-10","10 OCT 1869",481,"Death of Jiménez, Mary C.","",[],[]],
-	["E0455","Burial","1869-10-11","11 OCT 1869",278,"Burial of Jiménez, Mary C.","",[],[]]
+	["E0453","Birth","1849-12-08","8 DEC 1849",717,"Birth of Jiménez, Mary C.","",[],[]],
+	["E0454","Death","1869-10-10","10 OCT 1869",717,"Death of Jiménez, Mary C.","",[],[]],
+	["E0455","Burial","1869-10-11","11 OCT 1869",401,"Burial of Jiménez, Mary C.","",[],[]]
 ],
 [
 
@@ -20919,12 +20919,12 @@ I = [
 ["I1349","Jiménez, Nancy E.","Jiménez, Nancy E.",
 [["Jiménez, Nancy E.","Birth Name","","","","Nancy E.","",["Jiménez"],"","","",[]]],
 "F","?",
-"Marquette, MI",
+"Marquette, MI, USA",
 "",
 "",
 "",
 [
-	["E0456","Birth","","",481,"Birth of Jiménez, Nancy E.","",[],[]]
+	["E0456","Birth","","",717,"Birth of Jiménez, Nancy E.","",[],[]]
 ],
 [
 
@@ -20943,12 +20943,12 @@ I = [
 "M","1844",
 "",
 "1848",
-"New Ulm, MN",
+"New Ulm, MN, USA",
 "3 years, 8 months, 22 days",
 [
 	["E0444","Birth","1844-10-10","10 OCT 1844",-1,"Birth of Jiménez, Nathan M.","",[],[]],
-	["E0445","Death","1848-07-01","1 JUL 1848",558,"Death of Jiménez, Nathan M.","",[],[]],
-	["E0446","Burial","1848-07-03","3 JUL 1848",197,"Burial of Jiménez, Nathan M.","",[],[]]
+	["E0445","Death","1848-07-01","1 JUL 1848",846,"Death of Jiménez, Nathan M.","",[],[]],
+	["E0446","Burial","1848-07-03","3 JUL 1848",280,"Burial of Jiménez, Nathan M.","",[],[]]
 ],
 [
 
@@ -20965,12 +20965,12 @@ I = [
 ["I1373","Jiménez, Philip","Jiménez, Philip",
 [["Jiménez, Philip","Birth Name","","","","Philip","",["Jiménez"],"","","",[]]],
 "M","?",
-"Orlando, FL",
+"Orlando, Orange, FL, USA",
 "",
 "",
 "",
 [
-	["E0486","Birth","","",583,"Birth of Jiménez, Philip","",[],[]]
+	["E0486","Birth","","",888,"Birth of Jiménez, Philip","",[],[]]
 ],
 [
 
@@ -21031,12 +21031,12 @@ I = [
 ["I1350","Jiménez, Richard? Cornelius","Jiménez, Richard? Cornelius",
 [["Jiménez, Richard? Cornelius","Birth Name","","","","Richard? Cornelius","",["Jiménez"],"","","",[]]],
 "M","?",
-"Marquette, MI",
+"Marquette, MI, USA",
 "",
 "",
 "",
 [
-	["E0459","Birth","","",481,"Birth of Jiménez, Richard? Cornelius","",[],[]]
+	["E0459","Birth","","",717,"Birth of Jiménez, Richard? Cornelius","",[],[]]
 ],
 [
 
@@ -21075,12 +21075,12 @@ I = [
 ["I1368","Jiménez, Sarah M.","Jiménez, Sarah M.",
 [["Jiménez, Sarah M.","Birth Name","","","","Sarah M.","",["Jiménez"],"","","",[]]],
 "F","?",
-"Orlando, FL",
+"Orlando, Orange, FL, USA",
 "",
 "",
 "",
 [
-	["E0478","Birth","","",583,"Birth of Jiménez, Sarah M.","",[],[]]
+	["E0478","Birth","","",888,"Birth of Jiménez, Sarah M.","",[],[]]
 ],
 [
 
@@ -21097,12 +21097,12 @@ I = [
 ["I1371","Jiménez, Tolbert A.","Jiménez, Tolbert A.",
 [["Jiménez, Tolbert A.","Birth Name","","","","Tolbert A.","",["Jiménez"],"","","",[]]],
 "M","?",
-"Orlando, FL",
+"Orlando, Orange, FL, USA",
 "",
 "",
 "",
 [
-	["E0484","Birth","","",583,"Birth of Jiménez, Tolbert A.","",[],[]]
+	["E0484","Birth","","",888,"Birth of Jiménez, Tolbert A.","",[],[]]
 ],
 [
 
@@ -21119,13 +21119,13 @@ I = [
 ["I1682","Johansen, John","Johansen, John",
 [["Johansen, John","Birth Name","","","","John","",["Johansen"],"","","",[]]],
 "M","1750",
-"Anniston, AL",
+"Anniston, Calhoun, AL, USA",
 "1835",
-"Newport, TN",
+"Newport, TN, USA",
 "84 years, 7 months, 28 days",
 [
-	["E0791","Birth","1750-05-04","4 MAY 1750",34,"Birth of Johansen, John","",[],[]],
-	["E0792","Death","1835","1835",560,"Death of Johansen, John","",[],[]]
+	["E0791","Birth","1750-05-04","4 MAY 1750",45,"Birth of Johansen, John","",[],[]],
+	["E0792","Death","1835","1835",848,"Death of Johansen, John","",[],[]]
 ],
 [
 
@@ -21144,10 +21144,10 @@ I = [
 "F","?",
 "",
 "?",
-"Coamo, PR",
+"Coamo, PR, USA",
 "",
 [
-	["E1994","Death","","",160,"Death of Johnson, Elizabeth","",[],[]]
+	["E1994","Death","","",224,"Death of Johnson, Elizabeth","",[],[]]
 ],
 [
 
@@ -21186,14 +21186,14 @@ I = [
 ["I0637","Johnson, Richard F.","Johnson, Richard F.",
 [["Johnson, Richard F.","Birth Name","","","","Richard F.","",["Johnson"],"","","",[]]],
 "M","1917",
-"Tupelo, MS",
+"Tupelo, MS, USA",
 "1982",
 "",
 "65 years, 8 months, 9 days",
 [
-	["E2075","Birth","1917-01-13","13 JAN 1917",779,"Birth of Johnson, Richard F.","",[],[]],
+	["E2075","Birth","1917-01-13","13 JAN 1917",1164,"Birth of Johnson, Richard F.","",[],[]],
 	["E2076","Death","1982-09-22","22 SEP 1982",-1,"Death of Johnson, Richard F.","",[],[]],
-	["E2077","Burial","","",746,"Burial of Johnson, Richard F.","",[],[]]
+	["E2077","Burial","","",1108,"Burial of Johnson, Richard F.","",[],[]]
 ],
 [
 
@@ -21232,12 +21232,12 @@ I = [
 ["I1007","Jones, Ann","Jones, Ann",
 [["Jones, Ann","Birth Name","","","","Ann","",["Jones"],"","","",[]]],
 "F","1550",
-"Safford, AZ",
+"Safford, Graham, AZ, USA",
 "",
 "",
 "",
 [
-	["E0016","Birth","1550","1550",672,"Birth of Jones, Ann","",[],[]]
+	["E0016","Birth","1550","1550",1006,"Birth of Jones, Ann","",[],[]]
 ],
 [
 
@@ -21254,12 +21254,12 @@ I = [
 ["I1006","Jones, Hugh","Jones, Hugh",
 [["Jones, Hugh","Birth Name","","","","Hugh","",["Jones"],"","","",[]]],
 "M","?",
-"Safford, AZ",
+"Safford, Graham, AZ, USA",
 "",
 "",
 "",
 [
-	["E0015","Birth","about 1518","ABT 1518",672,"Birth of Jones, Hugh","",[],[]]
+	["E0015","Birth","about 1518","ABT 1518",1006,"Birth of Jones, Hugh","",[],[]]
 ],
 [
 
@@ -21343,12 +21343,12 @@ I = [
 ["I0971","Jørgensen, Maggie Leigh","Jørgensen, Maggie Leigh",
 [["Jørgensen, Maggie Leigh","Birth Name","","","","Maggie Leigh","",["Jørgensen"],"","","",[]]],
 "F","1993",
-"Palm Bay, FL",
+"Palm Bay, Brevard, FL, USA",
 "",
 "",
 "",
 [
-	["E2677","Birth","1993-08-20","20 AUG 1993",596,"Birth of Jørgensen, Maggie Leigh","",[],[]],
+	["E2677","Birth","1993-08-20","20 AUG 1993",906,"Birth of Jørgensen, Maggie Leigh","",[],[]],
 	["E2678","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -21366,12 +21366,12 @@ I = [
 ["I0482","Jørgensen, Molly Marie","Jørgensen, Molly Marie",
 [["Jørgensen, Molly Marie","Birth Name","","","","Molly Marie","",["Jørgensen"],"","","",[]]],
 "F","1990",
-"Palm Bay, FL",
+"Palm Bay, Brevard, FL, USA",
 "",
 "",
 "",
 [
-	["E1761","Birth","1990-07-27","27 JUL 1990",596,"Birth of Jørgensen, Molly Marie","",[],[]],
+	["E1761","Birth","1990-07-27","27 JUL 1990",906,"Birth of Jørgensen, Molly Marie","",[],[]],
 	["E1762","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -21386,29 +21386,7 @@ I = [
 [[339,"Birth","Birth","",[]]],
 []
 ],
-["I2075","Joseph","Joseph",
-[["Joseph","Birth Name","","","","","",["Joseph"],"","","",[]]],
-"F","?",
-"",
-"",
-"",
-"",
-[
-
-],
-[
-
-],
-"",
-[],
-[],
-[],
-[],
-[],
-[[340,"Birth","Birth","",[]]],
-[]
-],
-["I2073","Joseph","Joseph",
+["I2072","Joseph","Joseph",
 [["Joseph","Birth Name","","","","","",["Joseph"],"","","",[]]],
 "M","?",
 "",
@@ -21452,9 +21430,31 @@ I = [
 [[340,"Birth","Birth","",[]]],
 []
 ],
-["I2072","Joseph","Joseph",
+["I2073","Joseph","Joseph",
 [["Joseph","Birth Name","","","","","",["Joseph"],"","","",[]]],
 "M","?",
+"",
+"",
+"",
+"",
+[
+
+],
+[
+
+],
+"",
+[],
+[],
+[],
+[],
+[],
+[[340,"Birth","Birth","",[]]],
+[]
+],
+["I2075","Joseph","Joseph",
+[["Joseph","Birth Name","","","","","",["Joseph"],"","","",[]]],
+"F","?",
 "",
 "",
 "",
@@ -21521,14 +21521,14 @@ I = [
 ["I0063","Kaczmarek, Isabella","Kaczmarek, Isabella",
 [["Kaczmarek, Isabella","Birth Name","","","","Isabella","",["Kaczmarek"],"","","",[]]],
 "F","?",
-"Boston, MA",
+"Boston, Suffolk, MA, USA",
 "1904",
-"Point Pleasant, WV",
+"Point Pleasant, WV, USA",
 "unknown",
 [
-	["E2056","Birth","","",92,"Birth of Kaczmarek, Isabella","",[],[]],
-	["E2057","Death","1904-04-21","21 APR 1904",621,"Death of Kaczmarek, Isabella","",[],[]],
-	["E2058","Burial","1904-04-23","23 APR 1904",621,"Burial of Kaczmarek, Isabella","",[],[]]
+	["E2056","Birth","","",123,"Birth of Kaczmarek, Isabella","",[],[]],
+	["E2057","Death","1904-04-21","21 APR 1904",939,"Death of Kaczmarek, Isabella","",[],[]],
+	["E2058","Burial","1904-04-23","23 APR 1904",939,"Burial of Kaczmarek, Isabella","",[],[]]
 ],
 [
 
@@ -21655,12 +21655,12 @@ I = [
 ["I0783","Kelly, Ashley Diane","Kelly, Ashley Diane",
 [["Kelly, Ashley Diane","Birth Name","","","","Ashley Diane","",["Kelly"],"","","",[]]],
 "F","1990",
-"Rockland, ME",
+"Rockland, ME, USA",
 "",
 "",
 "",
 [
-	["E2287","Birth","1990-06-06","6 JUN 1990",664,"Birth of Kelly, Ashley Diane","",[],[]],
+	["E2287","Birth","1990-06-06","6 JUN 1990",997,"Birth of Kelly, Ashley Diane","",[],[]],
 	["E2288","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -21766,14 +21766,14 @@ I = [
 ["I0103","Klein, Alma Katherine","Klein, Alma Katherine",
 [["Klein, Alma Katherine","Birth Name","","","","Alma Katherine","",["Klein"],"","","",[]]],
 "F","1885",
-"Punta Gorda, FL",
+"Punta Gorda, Charlotte, FL, USA",
 "1913",
-"Palatka, FL",
+"Palatka, Putnam, FL, USA",
 "27 years, 10 months, 28 days",
 [
-	["E0058","Birth","1885-12-25","25 DEC 1885",640,"Birth of Klein, Alma Katherine","",[],[]],
-	["E0059","Death","1913-11-22","22 NOV 1913",594,"Death of Klein, Alma Katherine","",[],[]],
-	["E0060","Burial","1913-11-24","24 NOV 1913",570,"Burial of Klein, Alma Katherine","",[],[]]
+	["E0058","Birth","1885-12-25","25 DEC 1885",967,"Birth of Klein, Alma Katherine","",[],[]],
+	["E0059","Death","1913-11-22","22 NOV 1913",904,"Death of Klein, Alma Katherine","",[],[]],
+	["E0060","Burial","1913-11-24","24 NOV 1913",867,"Burial of Klein, Alma Katherine","",[],[]]
 ],
 [
 
@@ -21809,29 +21809,6 @@ I = [
 [],
 []
 ],
-["I1024","Knudsen, John","Knudsen, John",
-[["Knudsen, John","Birth Name","","","","John","",["Knudsen"],"","","",[]]],
-"M","1325",
-"Atchison, KS",
-"1368",
-"",
-"43 years",
-[
-	["E0049","Birth","1325","1325",43,"Birth of Knudsen, John","",[],[]],
-	["E0050","Death","1368","1368",-1,"Death of Knudsen, John","",[],[]]
-],
-[
-
-],
-"",
-[],
-[],
-[],
-[],
-[346],
-[[347,"Birth","Birth","",[]]],
-[]
-],
 ["I1026","Knudsen, John","Knudsen, John",
 [["Knudsen, John","Birth Name","","","","John","",["Knudsen"],"","","",[]]],
 "M","1345",
@@ -21855,16 +21832,16 @@ I = [
 [],
 []
 ],
-["I1022","Knudsen, Ralph","Knudsen, Ralph",
-[["Knudsen, Ralph","Birth Name","","","","Ralph","",["Knudsen"],"","","",[]]],
-"M","1300",
-"Bethesda, MD",
-"1343",
+["I1024","Knudsen, John","Knudsen, John",
+[["Knudsen, John","Birth Name","","","","John","",["Knudsen"],"","","",[]]],
+"M","1325",
+"Atchison, Atchison, KS, USA",
+"1368",
 "",
 "43 years",
 [
-	["E0046","Birth","1300","1300",74,"Birth of Knudsen, Ralph","",[],[]],
-	["E0047","Death","1343","1343",-1,"Death of Knudsen, Ralph","",[],[]]
+	["E0049","Birth","1325","1325",56,"Birth of Knudsen, John","",[],[]],
+	["E0050","Death","1368","1368",-1,"Death of Knudsen, John","",[],[]]
 ],
 [
 
@@ -21874,19 +21851,19 @@ I = [
 [],
 [],
 [],
-[347],
-[[348,"Birth","Birth","",[]]],
+[346],
+[[347,"Birth","Birth","",[]]],
 []
 ],
 ["I1020","Knudsen, Ralph","Knudsen, Ralph",
 [["Knudsen, Ralph","Birth Name","","","","Ralph","",["Knudsen"],"","","",[]]],
 "M","1250",
-"Atchison, KS",
+"Atchison, Atchison, KS, USA",
 "1316",
 "",
 "66 years",
 [
-	["E0043","Birth","1250","1250",43,"Birth of Knudsen, Ralph","",[],[]],
+	["E0043","Birth","1250","1250",56,"Birth of Knudsen, Ralph","",[],[]],
 	["E0044","Death","1316","1316",-1,"Death of Knudsen, Ralph","",[],[]]
 ],
 [
@@ -21899,6 +21876,29 @@ I = [
 [],
 [348],
 [[349,"Birth","Birth","",[]]],
+[]
+],
+["I1022","Knudsen, Ralph","Knudsen, Ralph",
+[["Knudsen, Ralph","Birth Name","","","","Ralph","",["Knudsen"],"","","",[]]],
+"M","1300",
+"Bethesda, MD, USA",
+"1343",
+"",
+"43 years",
+[
+	["E0046","Birth","1300","1300",99,"Birth of Knudsen, Ralph","",[],[]],
+	["E0047","Death","1343","1343",-1,"Death of Knudsen, Ralph","",[],[]]
+],
+[
+
+],
+"",
+[],
+[],
+[],
+[],
+[347],
+[[348,"Birth","Birth","",[]]],
 []
 ],
 ["I1018","Knudsen, Ranulf","Knudsen, Ranulf",
@@ -21950,13 +21950,13 @@ I = [
 ["I1144","Kowalski, Hannah","Kowalski, Hannah",
 [["Kowalski, Hannah","Birth Name","","","","Hannah","",["Kowalski"],"","","",[]]],
 "F","1590",
-"Burlington, IA",
+"Burlington, Des Moines, IA, USA",
 "?",
-"Allegan, MI",
+"Allegan, MI, USA",
 "unknown",
 [
-	["E0240","Birth","1590","1590",111,"Birth of Kowalski, Hannah","",[],[]],
-	["E0241","Death","","",18,"Death of Kowalski, Hannah","",[],[]]
+	["E0240","Birth","1590","1590",150,"Birth of Kowalski, Hannah","",[],[]],
+	["E0241","Death","","",26,"Death of Kowalski, Hannah","",[],[]]
 ],
 [
 
@@ -21975,11 +21975,11 @@ I = [
 "M","1560",
 "",
 "1630",
-"Burlington, IA",
+"Burlington, Des Moines, IA, USA",
 "70 years, 7 months, 29 days",
 [
 	["E0242","Birth","1560","1560",-1,"Birth of Kowalski, John","",[],[]],
-	["E0243","Death","1630-08-30","30 AUG 1630",111,"Death of Kowalski, John","",[],[]]
+	["E0243","Death","1630-08-30","30 AUG 1630",150,"Death of Kowalski, John","",[],[]]
 ],
 [
 
@@ -21996,12 +21996,12 @@ I = [
 ["I1147","Kowalski, Thomas","Kowalski, Thomas",
 [["Kowalski, Thomas","Birth Name","","","","Thomas","",["Kowalski"],"","","",[]]],
 "M","?",
-"Decatur, AL",
+"Decatur, Morgan, AL, USA",
 "",
 "",
 "",
 [
-	["E0246","Birth","","",202,"Birth of Kowalski, Thomas","",[],[]]
+	["E0246","Birth","","",292,"Birth of Kowalski, Thomas","",[],[]]
 ],
 [
 
@@ -22018,13 +22018,13 @@ I = [
 ["I1036","Kozłowski, Margret","Kozłowski, Margret",
 [["Kozłowski, Margret","Birth Name","","","","Margret","",["Kozłowski"],"","","",[]]],
 "F","?",
-"Wilmington, OH",
+"Wilmington, OH, USA",
 "?",
-"Wilmington, OH",
+"Wilmington, OH, USA",
 "less than about 63 years",
 [
-	["E0070","Birth","about 1535","ABT 1535",834,"Birth of Kozłowski, Margret","",[],[]],
-	["E0071","Death","before 1598","BEF 1598",834,"Death of Kozłowski, Margret","",[],[]]
+	["E0070","Birth","about 1535","ABT 1535",1260,"Birth of Kozłowski, Margret","",[],[]],
+	["E0071","Death","before 1598","BEF 1598",1260,"Death of Kozłowski, Margret","",[],[]]
 ],
 [
 
@@ -22064,14 +22064,14 @@ I = [
 ["I0589","Kristensen, Anna June","Kristensen, Anna June",
 [["Kristensen, Anna June","Birth Name","","","","Anna June","",["Kristensen"],"","","",[]]],
 "F","1899",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "1988",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "89 years, 1 month, 28 days",
 [
-	["E1958","Birth","1899-09-19","19 SEP 1899",586,"Birth of Kristensen, Anna June","",[],[]],
-	["E1959","Death","1988-11-17","17 NOV 1988",586,"Death of Kristensen, Anna June","",[],[]],
-	["E1960","Burial","1988-11-19","19 NOV 1988",446,"Burial of Kristensen, Anna June","",[],[]]
+	["E1958","Birth","1899-09-19","19 SEP 1899",893,"Birth of Kristensen, Anna June","",[],[]],
+	["E1959","Death","1988-11-17","17 NOV 1988",893,"Death of Kristensen, Anna June","",[],[]],
+	["E1960","Burial","1988-11-19","19 NOV 1988",656,"Burial of Kristensen, Anna June","",[],[]]
 ],
 [
 
@@ -22088,12 +22088,12 @@ I = [
 ["I0583","Kristensen, Catherine Virginia","Kristensen, Catherine Virginia",
 [["Kristensen, Catherine Virginia","Birth Name","","","","Catherine Virginia","",["Kristensen"],"","","",[]]],
 "F","1892",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "1926",
 "",
 "34 years, 8 days",
 [
-	["E1948","Birth","1892-02-22","22 FEB 1892",586,"Birth of Kristensen, Catherine Virginia","",[],[]],
+	["E1948","Birth","1892-02-22","22 FEB 1892",893,"Birth of Kristensen, Catherine Virginia","",[],[]],
 	["E1949","Death","1926-03-01","1 MAR 1926",-1,"Death of Kristensen, Catherine Virginia","",[],[]]
 ],
 [
@@ -22134,14 +22134,14 @@ I = [
 ["I0587","Kristensen, Margaret Agnes\"Maudy\"","Kristensen, Margaret Agnes\"Maudy\"",
 [["Kristensen, Margaret Agnes\"Maudy\"","Birth Name","","","","Margaret Agnes\"Maudy\"","",["Kristensen"],"","","",[]]],
 "F","1894",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "1974",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "79 years, 7 months, 19 days",
 [
-	["E1955","Birth","1894-12-02","2 DEC 1894",586,"Birth of Kristensen, Margaret Agnes&#8220;Maudy&#8221;","",[],[]],
-	["E1956","Death","1974-07-21","21 JUL 1974",586,"Death of Kristensen, Margaret Agnes&#8220;Maudy&#8221;","",[],[]],
-	["E1957","Burial","1974-07-23","23 JUL 1974",446,"Burial of Kristensen, Margaret Agnes&#8220;Maudy&#8221;","",[],[]]
+	["E1955","Birth","1894-12-02","2 DEC 1894",893,"Birth of Kristensen, Margaret Agnes&#8220;Maudy&#8221;","",[],[]],
+	["E1956","Death","1974-07-21","21 JUL 1974",893,"Death of Kristensen, Margaret Agnes&#8220;Maudy&#8221;","",[],[]],
+	["E1957","Burial","1974-07-23","23 JUL 1974",656,"Burial of Kristensen, Margaret Agnes&#8220;Maudy&#8221;","",[],[]]
 ],
 [
 
@@ -22158,12 +22158,12 @@ I = [
 ["I0580","Kristensen, Mary Elizabeth","Kristensen, Mary Elizabeth",
 [["Kristensen, Mary Elizabeth","Birth Name","","","","Mary Elizabeth","",["Kristensen"],"","","",[]]],
 "F","1887",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "1918",
 "",
 "31 years, 4 months, 8 days",
 [
-	["E1942","Birth","1887-06-14","14 JUN 1887",586,"Birth of Kristensen, Mary Elizabeth","",[],[]],
+	["E1942","Birth","1887-06-14","14 JUN 1887",893,"Birth of Kristensen, Mary Elizabeth","",[],[]],
 	["E1943","Death","1918-10-22","22 OCT 1918",-1,"Death of Kristensen, Mary Elizabeth","",[],[]]
 ],
 [
@@ -22181,14 +22181,14 @@ I = [
 ["I0586","Kristensen, Miles Joseph\"Dutch\"","Kristensen, Miles Joseph\"Dutch\"",
 [["Kristensen, Miles Joseph\"Dutch\"","Birth Name","","","","Miles Joseph\"Dutch\"","",["Kristensen"],"","","",[]]],
 "M","1897",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "1971",
-"Athens, GA",
+"Athens, Clarke, GA, USA",
 "74 years, 9 months, 18 days",
 [
-	["E1952","Birth","1897-01-01","1 JAN 1897",586,"Birth of Kristensen, Miles Joseph&#8220;Dutch&#8221;","",[],[]],
-	["E1953","Death","1971-10-19","19 OCT 1971",44,"Death of Kristensen, Miles Joseph&#8220;Dutch&#8221;","",[],[]],
-	["E1954","Burial","1971-10-21","21 OCT 1971",127,"Burial of Kristensen, Miles Joseph&#8220;Dutch&#8221;","",[],[]]
+	["E1952","Birth","1897-01-01","1 JAN 1897",893,"Birth of Kristensen, Miles Joseph&#8220;Dutch&#8221;","",[],[]],
+	["E1953","Death","1971-10-19","19 OCT 1971",58,"Death of Kristensen, Miles Joseph&#8220;Dutch&#8221;","",[],[]],
+	["E1954","Burial","1971-10-21","21 OCT 1971",172,"Burial of Kristensen, Miles Joseph&#8220;Dutch&#8221;","",[],[]]
 ],
 [
 
@@ -22205,14 +22205,14 @@ I = [
 ["I0582","Kristensen, Sarah \"Sr. Sabina\"","Kristensen, Sarah \"Sr. Sabina\"",
 [["Kristensen, Sarah \"Sr. Sabina\"","Birth Name","","","","Sarah \"Sr. Sabina\"","",["Kristensen"],"","","",[]]],
 "F","1885",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "1926",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "40 years, 6 months, 9 days",
 [
-	["E1945","Birth","1885-06-25","25 JUN 1885",586,"Birth of Kristensen, Sarah &#8220;Sr. Sabina&#8221;","",[],[]],
-	["E1946","Death","1926-01-04","4 JAN 1926",586,"Death of Kristensen, Sarah &#8220;Sr. Sabina&#8221;","",[],[]],
-	["E1947","Burial","1926-01-05","5 JAN 1926",446,"Burial of Kristensen, Sarah &#8220;Sr. Sabina&#8221;","",[],[]]
+	["E1945","Birth","1885-06-25","25 JUN 1885",893,"Birth of Kristensen, Sarah &#8220;Sr. Sabina&#8221;","",[],[]],
+	["E1946","Death","1926-01-04","4 JAN 1926",893,"Death of Kristensen, Sarah &#8220;Sr. Sabina&#8221;","",[],[]],
+	["E1947","Burial","1926-01-05","5 JAN 1926",656,"Burial of Kristensen, Sarah &#8220;Sr. Sabina&#8221;","",[],[]]
 ],
 [
 
@@ -22224,28 +22224,6 @@ I = [
 [],
 [],
 [[502,"Birth","Birth","",[]]],
-[]
-],
-["I0206","Lachance, Helen","Lachance, Helen",
-[["Lachance, Helen","Birth Name","","","","Helen","",["Lachance"],"","","",[]]],
-"F","?",
-"",
-"",
-"",
-"",
-[
-
-],
-[
-
-],
-"",
-[],
-[],
-[],
-[],
-[],
-[],
 []
 ],
 ["I0484","Lachance, Helen","Lachance, Helen",
@@ -22271,17 +22249,39 @@ I = [
 [],
 []
 ],
+["I0206","Lachance, Helen","Lachance, Helen",
+[["Lachance, Helen","Birth Name","","","","Helen","",["Lachance"],"","","",[]]],
+"F","?",
+"",
+"",
+"",
+"",
+[
+
+],
+[
+
+],
+"",
+[],
+[],
+[],
+[],
+[],
+[],
+[]
+],
 ["I0213","Lambert, Marguerite","Lambert, Marguerite",
 [["Lambert, Marguerite","Birth Name","","","","Marguerite","",["Lambert"],"","","",[]]],
 "F","1917",
-"Minden, LA",
+"Minden, Webster, LA, USA",
 "1991",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "73 years, 9 months, 25 days",
 [
-	["E1218","Birth","1917-09-19","19 SEP 1917",514,"Birth of Lambert, Marguerite","",[],[]],
-	["E1219","Death","1991-07-14","14 JUL 1991",586,"Death of Lambert, Marguerite","",[],[]],
-	["E1220","Burial","","",168,"Burial of Lambert, Marguerite","",[],[]]
+	["E1218","Birth","1917-09-19","19 SEP 1917",772,"Birth of Lambert, Marguerite","",[],[]],
+	["E1219","Death","1991-07-14","14 JUL 1991",893,"Death of Lambert, Marguerite","",[],[]],
+	["E1220","Burial","","",241,"Burial of Lambert, Marguerite","",[],[]]
 ],
 [
 
@@ -22298,12 +22298,12 @@ I = [
 ["I0263","Landry, Alice","Landry, Alice",
 [["Landry, Alice","Birth Name","","","","Alice","",["Landry"],"","","",[]]],
 "F","1900",
-"Alexandria, MN",
+"Alexandria, MN, USA",
 "",
 "",
 "",
 [
-	["E1316","Birth","1900-03-06","6 MAR 1900",16,"Birth of Landry, Alice","",[],[]],
+	["E1316","Birth","1900-03-06","6 MAR 1900",24,"Birth of Landry, Alice","",[],[]],
 	["E1317","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -22321,12 +22321,12 @@ I = [
 ["I0259","Landry, Catherine M.","Landry, Catherine M.",
 [["Landry, Catherine M.","Birth Name","","","","Catherine M.","",["Landry"],"","","",[]]],
 "F","1895",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E1307","Birth","1895-04-28","28 APR 1895",586,"Birth of Landry, Catherine M.","",[],[]],
+	["E1307","Birth","1895-04-28","28 APR 1895",893,"Birth of Landry, Catherine M.","",[],[]],
 	["E1308","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -22344,12 +22344,12 @@ I = [
 ["I0272","Landry, Charles Doyle","Landry, Charles Doyle",
 [["Landry, Charles Doyle","Birth Name","","","","Charles Doyle","",["Landry"],"","","",[]]],
 "M","1922",
-"Scottsburg, IN",
+"Scottsburg, Scott, IN, USA",
 "",
 "",
 "",
 [
-	["E1327","Birth","1922-08-06","6 AUG 1922",697,"Birth of Landry, Charles Doyle","",[],[]],
+	["E1327","Birth","1922-08-06","6 AUG 1922",1043,"Birth of Landry, Charles Doyle","",[],[]],
 	["E1328","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -22367,12 +22367,12 @@ I = [
 ["I0258","Landry, Charles M.","Landry, Charles M.",
 [["Landry, Charles M.","Birth Name","","","","Charles M.","",["Landry"],"","","",[]]],
 "M","1894",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E1305","Birth","1894-06-18","18 JUN 1894",586,"Birth of Landry, Charles M.","",[],[]],
+	["E1305","Birth","1894-06-18","18 JUN 1894",893,"Birth of Landry, Charles M.","",[],[]],
 	["E1306","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -22390,14 +22390,14 @@ I = [
 ["I0050","Landry, Eleanor (Nellie) Therese","Landry, Eleanor (Nellie) Therese",
 [["Landry, Eleanor (Nellie) Therese","Birth Name","","","","Eleanor (Nellie) Therese","",["Landry"],"","","",[]]],
 "F","1864",
-"Worthington, MN",
+"Worthington, MN, USA",
 "1935",
-"Adjuntas, PR",
+"Adjuntas, PR, USA",
 "71 years, 11 days",
 [
-	["E1797","Birth","1864-12-00","DEC 1864",843,"Birth of Landry, Eleanor (Nellie) Therese","",[],[]],
-	["E1798","Death","1935-12-12","12 DEC 1935",3,"Death of Landry, Eleanor (Nellie) Therese","",[],[]],
-	["E1799","Burial","1935-12-14","14 DEC 1935",843,"Burial of Landry, Eleanor (Nellie) Therese","",[],[]]
+	["E1797","Birth","1864-12-00","DEC 1864",1273,"Birth of Landry, Eleanor (Nellie) Therese","",[],[]],
+	["E1798","Death","1935-12-12","12 DEC 1935",6,"Death of Landry, Eleanor (Nellie) Therese","",[],[]],
+	["E1799","Burial","1935-12-14","14 DEC 1935",1273,"Burial of Landry, Eleanor (Nellie) Therese","",[],[]]
 ],
 [
 
@@ -22437,13 +22437,13 @@ I = [
 ["I0265","Landry, Helen Margaret","Landry, Helen Margaret",
 [["Landry, Helen Margaret","Birth Name","","","","Helen Margaret","",["Landry"],"","","",[]]],
 "F","1906",
-"Alexandria, MN",
+"Alexandria, MN, USA",
 "?",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "unknown",
 [
-	["E1320","Birth","1906-10-16","16 OCT 1906",16,"Birth of Landry, Helen Margaret","",[],[]],
-	["E1321","Death","","",586,"Death of Landry, Helen Margaret","",[],[]]
+	["E1320","Birth","1906-10-16","16 OCT 1906",24,"Birth of Landry, Helen Margaret","",[],[]],
+	["E1321","Death","","",893,"Death of Landry, Helen Margaret","",[],[]]
 ],
 [
 
@@ -22460,12 +22460,12 @@ I = [
 ["I0260","Landry, John Anthony","Landry, John Anthony",
 [["Landry, John Anthony","Birth Name","","","","John Anthony","",["Landry"],"","","",[]]],
 "M","1897",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E1312","Birth","1897-09-14","14 SEP 1897",586,"Birth of Landry, John Anthony","",[],[]],
+	["E1312","Birth","1897-09-14","14 SEP 1897",893,"Birth of Landry, John Anthony","",[],[]],
 	["E1313","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -22483,12 +22483,12 @@ I = [
 ["I0277","Landry, John Chandler","Landry, John Chandler",
 [["Landry, John Chandler","Birth Name","","","","John Chandler","",["Landry"],"","","",[]]],
 "M","1926",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E1331","Birth","1926-11-07","7 NOV 1926",586,"Birth of Landry, John Chandler","",[],[]],
+	["E1331","Birth","1926-11-07","7 NOV 1926",893,"Birth of Landry, John Chandler","",[],[]],
 	["E1332","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -22506,12 +22506,12 @@ I = [
 ["I0264","Landry, Josephine Grace","Landry, Josephine Grace",
 [["Landry, Josephine Grace","Birth Name","","","","Josephine Grace","",["Landry"],"","","",[]]],
 "F","1902",
-"Alexandria, MN",
+"Alexandria, MN, USA",
 "",
 "",
 "",
 [
-	["E1318","Birth","1902-06-15","15 JUN 1902",16,"Birth of Landry, Josephine Grace","",[],[]],
+	["E1318","Birth","1902-06-15","15 JUN 1902",24,"Birth of Landry, Josephine Grace","",[],[]],
 	["E1319","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -22551,12 +22551,12 @@ I = [
 ["I0256","Landry, Mary A.","Landry, Mary A.",
 [["Landry, Mary A.","Birth Name","","","","Mary A.","",["Landry"],"","","",[]]],
 "F","1889",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "1955",
 "",
 "66 years, 5 months, 21 days",
 [
-	["E1301","Birth","1889-05-28","28 MAY 1889",586,"Birth of Landry, Mary A.","",[],[]],
+	["E1301","Birth","1889-05-28","28 MAY 1889",893,"Birth of Landry, Mary A.","",[],[]],
 	["E1302","Death","1955-11-18","18 NOV 1955",-1,"Death of Landry, Mary A.","",[],[]]
 ],
 [
@@ -22574,12 +22574,12 @@ I = [
 ["I0257","Landry, Maurice T.","Landry, Maurice T.",
 [["Landry, Maurice T.","Birth Name","","","","Maurice T.","",["Landry"],"","","",[]]],
 "M","1891",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E1303","Birth","1891-07-11","11 JUL 1891",586,"Birth of Landry, Maurice T.","",[],[]],
+	["E1303","Birth","1891-07-11","11 JUL 1891",893,"Birth of Landry, Maurice T.","",[],[]],
 	["E1304","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -22620,14 +22620,14 @@ I = [
 ["I0253","Landry, Michael Edward","Landry, Michael Edward",
 [["Landry, Michael Edward","Birth Name","","","","Michael Edward","",["Landry"],"","","",[]]],
 "M","1855",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "1927",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "72 years, 2 months, 27 days",
 [
-	["E1297","Birth","1855-05-27","27 MAY 1855",586,"Birth of Landry, Michael Edward","",[],[]],
-	["E1298","Death","1927-08-23","23 AUG 1927",586,"Death of Landry, Michael Edward","",[],[]],
-	["E1299","Burial","","",586,"Burial of Landry, Michael Edward","",[],[]]
+	["E1297","Birth","1855-05-27","27 MAY 1855",893,"Birth of Landry, Michael Edward","",[],[]],
+	["E1298","Death","1927-08-23","23 AUG 1927",893,"Death of Landry, Michael Edward","",[],[]],
+	["E1299","Burial","","",893,"Burial of Landry, Michael Edward","",[],[]]
 ],
 [
 
@@ -22710,12 +22710,12 @@ I = [
 ["I0255","Landry, Theresa A.","Landry, Theresa A.",
 [["Landry, Theresa A.","Birth Name","","","","Theresa A.","",["Landry"],"","","",[]]],
 "F","1886",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E1300","Birth","1886-11-26","26 NOV 1886",586,"Birth of Landry, Theresa A.","",[],[]]
+	["E1300","Birth","1886-11-26","26 NOV 1886",893,"Birth of Landry, Theresa A.","",[],[]]
 ],
 [
 
@@ -22732,12 +22732,12 @@ I = [
 ["I0492","Lane, Anthony David","Lane, Anthony David",
 [["Lane, Anthony David","Birth Name","","","","Anthony David","",["Lane"],"","","",[]]],
 "M","1972",
-"Sierra Vista, AZ",
+"Sierra Vista, Cochise, AZ, USA",
 "",
 "",
 "",
 [
-	["E1785","Birth","1972-07-12","12 JUL 1972",717,"Birth of Lane, Anthony David","",[],[]],
+	["E1785","Birth","1972-07-12","12 JUL 1972",1069,"Birth of Lane, Anthony David","",[],[]],
 	["E1786","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -22755,12 +22755,12 @@ I = [
 ["I0493","Lane, Donna Elizabeth","Lane, Donna Elizabeth",
 [["Lane, Donna Elizabeth","Birth Name","","","","Donna Elizabeth","",["Lane"],"","","",[]]],
 "F","1974",
-"Bay City, MI",
+"Bay City, MI, USA",
 "",
 "",
 "",
 [
-	["E1787","Birth","1974-09-10","10 SEP 1974",62,"Birth of Lane, Donna Elizabeth","",[],[]],
+	["E1787","Birth","1974-09-10","10 SEP 1974",82,"Birth of Lane, Donna Elizabeth","",[],[]],
 	["E1788","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -22778,12 +22778,12 @@ I = [
 ["I0209","Lane, Joseph Edward","Lane, Joseph Edward",
 [["Lane, Joseph Edward","Birth Name","","","","Joseph Edward","",["Lane"],"","","",[]]],
 "M","1943",
-"Midland, MI",
+"Midland, MI, USA",
 "",
 "",
 "",
 [
-	["E1202","Birth","1943-10-10","10 OCT 1943",510,"Birth of Lane, Joseph Edward","",[],[]],
+	["E1202","Birth","1943-10-10","10 OCT 1943",766,"Birth of Lane, Joseph Edward","",[],[]],
 	["E1203","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -22801,14 +22801,14 @@ I = [
 ["I0208","Lane, Joseph Robert","Lane, Joseph Robert",
 [["Lane, Joseph Robert","Birth Name","","","","Joseph Robert","",["Lane"],"","","",[]]],
 "M","1908",
-"Dalton, GA",
+"Dalton, Madison, GA, USA",
 "1988",
-"Midland, MI",
+"Midland, MI, USA",
 "80 years, 14 days",
 [
-	["E1194","Birth","1908-12-13","13 DEC 1908",194,"Birth of Lane, Joseph Robert","",[],[]],
-	["E1195","Death","1988-12-27","27 DEC 1988",510,"Death of Lane, Joseph Robert","",[],[]],
-	["E1196","Burial","","",492,"Burial of Lane, Joseph Robert","",[],[]]
+	["E1194","Birth","1908-12-13","13 DEC 1908",277,"Birth of Lane, Joseph Robert","",[],[]],
+	["E1195","Death","1988-12-27","27 DEC 1988",766,"Death of Lane, Joseph Robert","",[],[]],
+	["E1196","Burial","","",735,"Burial of Lane, Joseph Robert","",[],[]]
 ],
 [
 
@@ -22825,14 +22825,14 @@ I = [
 ["I0792","Lane, Remo","Lane, Remo",
 [["Lane, Remo","Birth Name","","","","Remo","",["Lane"],"","","",[]]],
 "M","?",
-"Barnstable Town, MA",
+"Barnstable Town, MA, USA",
 "1919",
 "",
 "unknown",
 [
-	["E2303","Birth","","",56,"Birth of Lane, Remo","",[],[]],
+	["E2303","Birth","","",74,"Birth of Lane, Remo","",[],[]],
 	["E2304","Death","1919-01-19","19 JAN 1919",-1,"Death of Lane, Remo","",[],[]],
-	["E2305","Burial","","",492,"Burial of Lane, Remo","",[],[]]
+	["E2305","Burial","","",735,"Burial of Lane, Remo","",[],[]]
 ],
 [
 
@@ -22962,11 +22962,11 @@ I = [
 "F","?",
 "",
 "1834",
-"Riverside, CA",
+"Riverside, CA, USA",
 "",
 [
-	["E0669","Death","1834-11-18","18 NOV 1834",655,"Death of Larson, Christena Wiseman","",[],[]],
-	["E0670","Burial","1834-11-20","20 NOV 1834",32,"Burial of Larson, Christena Wiseman","",[],[]]
+	["E0669","Death","1834-11-18","18 NOV 1834",988,"Death of Larson, Christena Wiseman","",[],[]],
+	["E0670","Burial","1834-11-20","20 NOV 1834",43,"Burial of Larson, Christena Wiseman","",[],[]]
 ],
 [
 
@@ -23181,12 +23181,12 @@ I = [
 ["I0533","Lefebvre, Joseph","Lefebvre, Joseph",
 [["Lefebvre, Joseph","Birth Name","","","","Joseph","",["Lefebvre"],"","","",[]]],
 "M","?",
-"Winona, MN",
+"Winona, MN, USA",
 "",
 "",
 "",
 [
-	["E1862","Birth","","",837,"Birth of Lefebvre, Joseph","",[],[]]
+	["E1862","Birth","","",1265,"Birth of Lefebvre, Joseph","",[],[]]
 ],
 [
 
@@ -23225,13 +23225,13 @@ I = [
 ["I0532","Lefebvre, Rev. John L.","Lefebvre, Rev. John L.",
 [["Lefebvre, Rev. John L.","Birth Name","","","","Rev. John L.","",["Lefebvre"],"","","",[]]],
 "M","1584",
-"Caguas, PR",
+"Caguas, PR, USA",
 "1653",
-"Plainview, TX",
+"Plainview, Houston, TX, USA",
 "68 years, 10 months, 14 days",
 [
-	["E1860","Birth","1584-12-20","20 DEC 1584",117,"Birth of Lefebvre, Rev. John L.","",[],[]],
-	["E1861","Death","1653-11-03","3 NOV 1653",617,"Death of Lefebvre, Rev. John L.","",[],[]]
+	["E1860","Birth","1584-12-20","20 DEC 1584",159,"Birth of Lefebvre, Rev. John L.","",[],[]],
+	["E1861","Death","1653-11-03","3 NOV 1653",935,"Death of Lefebvre, Rev. John L.","",[],[]]
 ],
 [
 
@@ -23248,13 +23248,13 @@ I = [
 ["I0686","Lefebvre, Robert","Lefebvre, Robert",
 [["Lefebvre, Robert","Birth Name","","","","Robert","",["Lefebvre"],"","","",[]]],
 "M","1511",
-"Phoenix, AZ",
+"Phoenix, Maricopa, AZ, USA",
 "1558",
-"Caguas, PR",
+"Caguas, PR, USA",
 "47 years, 9 months, 19 days",
 [
-	["E2141","Birth","1511","1511",611,"Birth of Lefebvre, Robert","",[],[]],
-	["E2142","Death","1558-10-20","20 OCT 1558",117,"Death of Lefebvre, Robert","",[],[]]
+	["E2141","Birth","1511","1511",926,"Birth of Lefebvre, Robert","",[],[]],
+	["E2142","Death","1558-10-20","20 OCT 1558",159,"Death of Lefebvre, Robert","",[],[]]
 ],
 [
 
@@ -23293,12 +23293,12 @@ I = [
 ["I1738","Lessard","Lessard",
 [["Lessard","Birth Name","","","","","",["Lessard"],"","","",[]]],
 "M","?",
-"Waterloo-Cedar Falls, IA",
+"Waterloo-Cedar Falls, IA, USA",
 "",
 "",
 "",
 [
-	["E0858","Birth","","",814,"Birth of Lessard","",[],[]]
+	["E0858","Birth","","",1226,"Birth of Lessard","",[],[]]
 ],
 [
 
@@ -23315,12 +23315,12 @@ I = [
 ["I0887","Lessard, ???","Lessard, ???",
 [["Lessard, ???","Birth Name","","","","???","",["Lessard"],"","","",[]]],
 "M","?",
-"Mountain Home, ID",
+"Mountain Home, Elmore, ID, USA",
 "",
 "",
 "",
 [
-	["E2507","Birth","","",542,"Birth of Lessard, ???","",[],[]]
+	["E2507","Birth","","",816,"Birth of Lessard, ???","",[],[]]
 ],
 [
 
@@ -23337,14 +23337,14 @@ I = [
 ["I0035","Lessard, Carl Tolbert","Lessard, Carl Tolbert",
 [["Lessard, Carl Tolbert","Birth Name","","","","Carl Tolbert","",["Lessard"],"","","",[]]],
 "M","1904",
-"Sanford, NC",
+"Sanford, NC, USA",
 "1985",
-"Worthington, MN",
+"Worthington, MN, USA",
 "80 years, 11 months, 5 days",
 [
-	["E1490","Birth","1904-07-30","30 JUL 1904",688,"Birth of Lessard, Carl Tolbert","",[],[]],
-	["E1491","Death","1985-07-04","4 JUL 1985",843,"Death of Lessard, Carl Tolbert","",[],[]],
-	["E1492","Burial","1985-07-08","8 JUL 1985",90,"Burial of Lessard, Carl Tolbert","",[],[]]
+	["E1490","Birth","1904-07-30","30 JUL 1904",1028,"Birth of Lessard, Carl Tolbert","",[],[]],
+	["E1491","Death","1985-07-04","4 JUL 1985",1273,"Death of Lessard, Carl Tolbert","",[],[]],
+	["E1492","Burial","1985-07-08","8 JUL 1985",120,"Burial of Lessard, Carl Tolbert","",[],[]]
 ],
 [
 
@@ -23361,12 +23361,12 @@ I = [
 ["I0132","Lessard, Dorothy Louise","Lessard, Dorothy Louise",
 [["Lessard, Dorothy Louise","Birth Name","","","","Dorothy Louise","",["Lessard"],"","","",[]]],
 "F","1926",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E0409","Birth","1926-09-29","29 SEP 1926",586,"Birth of Lessard, Dorothy Louise","",[],[]],
+	["E0409","Birth","1926-09-29","29 SEP 1926",893,"Birth of Lessard, Dorothy Louise","",[],[]],
 	["E0410","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -23384,12 +23384,12 @@ I = [
 ["I0008","Lessard, Elinor Jane","Lessard, Elinor Jane",
 [["Lessard, Elinor Jane","Birth Name","","","","Elinor Jane","",["Lessard"],"","","",[]]],
 "F","1931",
-"Worthington, MN",
+"Worthington, MN, USA",
 "",
 "",
 "",
 [
-	["E2316","Birth","1931-07-10","10 JUL 1931",843,"Birth of Lessard, Elinor Jane","",[],[]],
+	["E2316","Birth","1931-07-10","10 JUL 1931",1273,"Birth of Lessard, Elinor Jane","",[],[]],
 	["E2317","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -23407,13 +23407,13 @@ I = [
 ["I1339","Lessard, Emma Jane","Lessard, Emma Jane",
 [["Lessard, Emma Jane","Birth Name","","","","Emma Jane","",["Lessard"],"","","",[]]],
 "F","1868",
-"Orlando, FL",
+"Orlando, Orange, FL, USA",
 "1933",
-"Dublin, GA",
+"Dublin, Laurens, GA, USA",
 "65 years",
 [
-	["E0436","Birth","1868-08-00","AUG 1868",583,"Birth of Lessard, Emma Jane","",[],[]],
-	["E0437","Death","1933-08-00","AUG 1933",218,"Death of Lessard, Emma Jane","",[],[]]
+	["E0436","Birth","1868-08-00","AUG 1868",888,"Birth of Lessard, Emma Jane","",[],[]],
+	["E0437","Death","1933-08-00","AUG 1933",317,"Death of Lessard, Emma Jane","",[],[]]
 ],
 [
 
@@ -23430,13 +23430,13 @@ I = [
 ["I0189","Lessard, Helen Belle","Lessard, Helen Belle",
 [["Lessard, Helen Belle","Birth Name","","","","Helen Belle","",["Lessard"],"","","",[]]],
 "F","1908",
-"Morehead City, NC",
+"Morehead City, NC, USA",
 "1997",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "88 years, 11 months, 7 days",
 [
-	["E1011","Birth","1908-02-22","22 FEB 1908",529,"Birth of Lessard, Helen Belle","",[],[]],
-	["E1012","Death","1997-01-29","29 JAN 1997",586,"Death of Lessard, Helen Belle","",[],[]]
+	["E1011","Birth","1908-02-22","22 FEB 1908",801,"Birth of Lessard, Helen Belle","",[],[]],
+	["E1012","Death","1997-01-29","29 JAN 1997",893,"Death of Lessard, Helen Belle","",[],[]]
 ],
 [
 
@@ -23453,14 +23453,14 @@ I = [
 ["I0040","Lessard, Ira Willis","Lessard, Ira Willis",
 [["Lessard, Ira Willis","Birth Name","","","","Ira Willis","",["Lessard"],"","","",[]]],
 "M","1871",
-"Macon, GA",
+"Macon, Bibb, GA, USA",
 "1924",
-"Ogden, UT",
+"Ogden, UT, USA",
 "53 years, 6 months",
 [
-	["E1575","Birth","1871-06-15","15 JUN 1871",466,"Birth of Lessard, Ira Willis","",[],[]],
-	["E1576","Death","1924-12-15","15 DEC 1924",573,"Death of Lessard, Ira Willis","",[],[]],
-	["E1577","Burial","1924-12-18","18 DEC 1924",188,"Burial of Lessard, Ira Willis","",[],[]]
+	["E1575","Birth","1871-06-15","15 JUN 1871",690,"Birth of Lessard, Ira Willis","",[],[]],
+	["E1576","Death","1924-12-15","15 DEC 1924",870,"Death of Lessard, Ira Willis","",[],[]],
+	["E1577","Burial","1924-12-18","18 DEC 1924",266,"Burial of Lessard, Ira Willis","",[],[]]
 ],
 [
 
@@ -23477,12 +23477,12 @@ I = [
 ["I0420","Lessard, Isaac","Lessard, Isaac",
 [["Lessard, Isaac","Birth Name","","","","Isaac","",["Lessard"],"","","",[]]],
 "M","1828",
-"Mountain Home, ID",
+"Mountain Home, Elmore, ID, USA",
 "",
 "",
 "",
 [
-	["E1613","Birth","1828-10-00","OCT 1828",542,"Birth of Lessard, Isaac","",[],[]]
+	["E1613","Birth","1828-10-00","OCT 1828",816,"Birth of Lessard, Isaac","",[],[]]
 ],
 [
 
@@ -23499,13 +23499,13 @@ I = [
 ["I1354","Lessard, Izora","Lessard, Izora",
 [["Lessard, Izora","Birth Name","","","","Izora","",["Lessard"],"","","",[]]],
 "F","?",
-"Orlando, FL",
+"Orlando, Orange, FL, USA",
 "1902",
-"Lake Charles, LA",
+"Lake Charles, Calcasieu, LA, USA",
 "unknown",
 [
-	["E0464","Birth","","",583,"Birth of Lessard, Izora","",[],[]],
-	["E0465","Death","1902-05-06","6 MAY 1902",418,"Death of Lessard, Izora","",[],[]]
+	["E0464","Birth","","",888,"Birth of Lessard, Izora","",[],[]],
+	["E0465","Death","1902-05-06","6 MAY 1902",615,"Death of Lessard, Izora","",[],[]]
 ],
 [
 
@@ -23522,12 +23522,12 @@ I = [
 ["I0190","Lessard, Laura Eloise","Lessard, Laura Eloise",
 [["Lessard, Laura Eloise","Birth Name","","","","Laura Eloise","",["Lessard"],"","","",[]]],
 "F","1898",
-"Edwards, CO",
+"Edwards, Eagle, CO, USA",
 "?",
 "",
 "",
 [
-	["E1018","Birth","1898-07-22","22 JUL 1898",235,"Birth of Lessard, Laura Eloise","",[],[]],
+	["E1018","Birth","1898-07-22","22 JUL 1898",340,"Birth of Lessard, Laura Eloise","",[],[]],
 	["E1019","Death","about 1975","ABT 1975",-1,"Death of Lessard, Laura Eloise","",[],[]]
 ],
 [
@@ -23545,12 +23545,12 @@ I = [
 ["I0133","Lessard, Mary Alice","Lessard, Mary Alice",
 [["Lessard, Mary Alice","Birth Name","","","","Mary Alice","",["Lessard"],"","","",[]]],
 "F","1937",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E0425","Birth","1937-01-17","17 JAN 1937",586,"Birth of Lessard, Mary Alice","",[],[]],
+	["E0425","Birth","1937-01-17","17 JAN 1937",893,"Birth of Lessard, Mary Alice","",[],[]],
 	["E0426","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -23568,12 +23568,12 @@ I = [
 ["I0187","Lessard, Ralph Raymond","Lessard, Ralph Raymond",
 [["Lessard, Ralph Raymond","Birth Name","","","","Ralph Raymond","",["Lessard"],"","","",[]]],
 "M","1895",
-"Sanford, NC",
+"Sanford, NC, USA",
 "1969",
 "",
 "73 years, 11 months, 19 days",
 [
-	["E1001","Birth","1895-07-20","20 JUL 1895",688,"Birth of Lessard, Ralph Raymond","",[],[]],
+	["E1001","Birth","1895-07-20","20 JUL 1895",1028,"Birth of Lessard, Ralph Raymond","",[],[]],
 	["E1002","Death","1969-07-08","8 JUL 1969",-1,"Death of Lessard, Ralph Raymond","",[],[]]
 ],
 [
@@ -23613,12 +23613,12 @@ I = [
 ["I0188","Lessard, Susanna Marie","Lessard, Susanna Marie",
 [["Lessard, Susanna Marie","Birth Name","","","","Susanna Marie","",["Lessard"],"","","",[]]],
 "F","1896",
-"Sanford, NC",
+"Sanford, NC, USA",
 "1981",
 "",
 "85 years, 26 days",
 [
-	["E1007","Birth","1896-09-20","20 SEP 1896",688,"Birth of Lessard, Susanna Marie","",[],[]],
+	["E1007","Birth","1896-09-20","20 SEP 1896",1028,"Birth of Lessard, Susanna Marie","",[],[]],
 	["E1008","Death","1981-10-16","16 OCT 1981",-1,"Death of Lessard, Susanna Marie","",[],[]]
 ],
 [
@@ -23636,12 +23636,12 @@ I = [
 ["I1366","Lévesque, Clarence","Lévesque, Clarence",
 [["Lévesque, Clarence","Birth Name","","","","Clarence","",["Lévesque"],"","","",[]]],
 "M","?",
-"Reno-Sparks, NV",
+"Reno-Sparks, NV, USA",
 "",
 "",
 "",
 [
-	["E0476","Birth","","",649,"Birth of Lévesque, Clarence","",[],[]]
+	["E0476","Birth","","",979,"Birth of Lévesque, Clarence","",[],[]]
 ],
 [
 
@@ -23658,12 +23658,12 @@ I = [
 ["I1361","Lévesque, Elsie","Lévesque, Elsie",
 [["Lévesque, Elsie","Birth Name","","","","Elsie","",["Lévesque"],"","","",[]]],
 "F","1893",
-"Orlando, FL",
+"Orlando, Orange, FL, USA",
 "",
 "",
 "",
 [
-	["E0473","Birth","1893-01-00","JAN 1893",583,"Birth of Lévesque, Elsie","",[],[]]
+	["E0473","Birth","1893-01-00","JAN 1893",888,"Birth of Lévesque, Elsie","",[],[]]
 ],
 [
 
@@ -23680,12 +23680,12 @@ I = [
 ["I1367","Lévesque, Howard","Lévesque, Howard",
 [["Lévesque, Howard","Birth Name","","","","Howard","",["Lévesque"],"","","",[]]],
 "M","1899",
-"Orlando, FL",
+"Orlando, Orange, FL, USA",
 "",
 "",
 "",
 [
-	["E0477","Birth","1899-10-00","OCT 1899",583,"Birth of Lévesque, Howard","",[],[]]
+	["E0477","Birth","1899-10-00","OCT 1899",888,"Birth of Lévesque, Howard","",[],[]]
 ],
 [
 
@@ -23702,13 +23702,13 @@ I = [
 ["I1353","Lévesque, James W.","Lévesque, James W.",
 [["Lévesque, James W.","Birth Name","","","","James W.","",["Lévesque"],"","","",[]]],
 "M","1866",
-"Orlando, FL",
+"Orlando, Orange, FL, USA",
 "1918",
-"Van Wert, OH",
+"Van Wert, OH, USA",
 "51 years, 10 months",
 [
-	["E0462","Birth","1866-03-00","MAR 1866",583,"Birth of Lévesque, James W.","",[],[]],
-	["E0463","Death","1918","1918",793,"Death of Lévesque, James W.","",[],[]]
+	["E0462","Birth","1866-03-00","MAR 1866",888,"Birth of Lévesque, James W.","",[],[]],
+	["E0463","Death","1918","1918",1189,"Death of Lévesque, James W.","",[],[]]
 ],
 [
 
@@ -23725,12 +23725,12 @@ I = [
 ["I1358","Lévesque, Jennie","Lévesque, Jennie",
 [["Lévesque, Jennie","Birth Name","","","","Jennie","",["Lévesque"],"","","",[]]],
 "F","1890",
-"Orlando, FL",
+"Orlando, Orange, FL, USA",
 "",
 "",
 "",
 [
-	["E0469","Birth","1890-08-00","AUG 1890",583,"Birth of Lévesque, Jennie","",[],[]]
+	["E0469","Birth","1890-08-00","AUG 1890",888,"Birth of Lévesque, Jennie","",[],[]]
 ],
 [
 
@@ -23747,12 +23747,12 @@ I = [
 ["I1365","Lévesque, John C.","Lévesque, John C.",
 [["Lévesque, John C.","Birth Name","","","","John C.","",["Lévesque"],"","","",[]]],
 "M","1898",
-"Orlando, FL",
+"Orlando, Orange, FL, USA",
 "",
 "",
 "",
 [
-	["E0475","Birth","1898-11-00","NOV 1898",583,"Birth of Lévesque, John C.","",[],[]]
+	["E0475","Birth","1898-11-00","NOV 1898",888,"Birth of Lévesque, John C.","",[],[]]
 ],
 [
 
@@ -23769,12 +23769,12 @@ I = [
 ["I1363","Lévesque, Mary","Lévesque, Mary",
 [["Lévesque, Mary","Birth Name","","","","Mary","",["Lévesque"],"","","",[]]],
 "F","1896",
-"Orlando, FL",
+"Orlando, Orange, FL, USA",
 "",
 "",
 "",
 [
-	["E0474","Birth","1896-10-00","OCT 1896",583,"Birth of Lévesque, Mary","",[],[]]
+	["E0474","Birth","1896-10-00","OCT 1896",888,"Birth of Lévesque, Mary","",[],[]]
 ],
 [
 
@@ -23791,12 +23791,12 @@ I = [
 ["I1357","Lévesque, Olive","Lévesque, Olive",
 [["Lévesque, Olive","Birth Name","","","","Olive","",["Lévesque"],"","","",[]]],
 "F","?",
-"Reno-Sparks, NV",
+"Reno-Sparks, NV, USA",
 "",
 "",
 "",
 [
-	["E0468","Birth","","",649,"Birth of Lévesque, Olive","",[],[]]
+	["E0468","Birth","","",979,"Birth of Lévesque, Olive","",[],[]]
 ],
 [
 
@@ -23813,12 +23813,12 @@ I = [
 ["I1359","Lévesque, Wilma","Lévesque, Wilma",
 [["Lévesque, Wilma","Birth Name","","","","Wilma","",["Lévesque"],"","","",[]]],
 "F","?",
-"Reno-Sparks, NV",
+"Reno-Sparks, NV, USA",
 "",
 "",
 "",
 [
-	["E0470","Birth","","",649,"Birth of Lévesque, Wilma","",[],[]]
+	["E0470","Birth","","",979,"Birth of Lévesque, Wilma","",[],[]]
 ],
 [
 
@@ -24011,12 +24011,12 @@ I = [
 ["I0316","Long, Elisa Ann","Long, Elisa Ann",
 [["Long, Elisa Ann","Birth Name","","","","Elisa Ann","",["Long"],"","","",[]]],
 "F","1982",
-"Lafayette, IN",
+"Lafayette, Tippecanoe, IN, USA",
 "",
 "",
 "",
 [
-	["E1418","Birth","1982-03-23","23 MAR 1982",415,"Birth of Long, Elisa Ann","",[],[]],
+	["E1418","Birth","1982-03-23","23 MAR 1982",611,"Birth of Long, Elisa Ann","",[],[]],
 	["E1419","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -24078,12 +24078,12 @@ I = [
 ["I0284","Lopez, John Warren","Lopez, John Warren",
 [["Lopez, John Warren","Birth Name","","","","John Warren","",["Lopez"],"","","",[]]],
 "M","1959",
-"Wheeling, WV-OH",
+"Wheeling, WV-OH, USA",
 "",
 "",
 "",
 [
-	["E1344","Birth","1959-11-26","26 NOV 1959",825,"Birth of Lopez, John Warren","",[],[]],
+	["E1344","Birth","1959-11-26","26 NOV 1959",1244,"Birth of Lopez, John Warren","",[],[]],
 	["E1345","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -24101,12 +24101,12 @@ I = [
 ["I0283","Lopez, Lee William","Lopez, Lee William",
 [["Lopez, Lee William","Birth Name","","","","Lee William","",["Lopez"],"","","",[]]],
 "M","1958",
-"Wheeling, WV-OH",
+"Wheeling, WV-OH, USA",
 "",
 "",
 "",
 [
-	["E1342","Birth","1958-06-10","10 JUN 1958",825,"Birth of Lopez, Lee William","",[],[]],
+	["E1342","Birth","1958-06-10","10 JUN 1958",1244,"Birth of Lopez, Lee William","",[],[]],
 	["E1343","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -24126,10 +24126,10 @@ I = [
 "M","?",
 "",
 "?",
-"Morgantown, WV",
+"Morgantown, WV, USA",
 "",
 [
-	["E1006","Death","","",531,"Death of Love","",[],[]]
+	["E1006","Death","","",805,"Death of Love","",[],[]]
 ],
 [
 
@@ -24146,14 +24146,14 @@ I = [
 ["I0920","Lucas, Christina","Lucas, Christina",
 [["Lucas, Christina","Birth Name","","","","Christina","",["Lucas"],"","","",[]]],
 "F","1780",
-"Cambridge, MD",
+"Cambridge, MD, USA",
 "?",
-"Berlin, NH",
+"Berlin, NH, USA",
 "unknown",
 [
-	["E2564","Birth","1780","1780",119,"Birth of Lucas, Christina","",[],[]],
-	["E2565","Death","","",73,"Death of Lucas, Christina","",[],[]],
-	["E2566","Burial","","",73,"Burial of Lucas, Christina","",[],[]]
+	["E2564","Birth","1780","1780",163,"Birth of Lucas, Christina","",[],[]],
+	["E2565","Death","","",98,"Death of Lucas, Christina","",[],[]],
+	["E2566","Burial","","",98,"Burial of Lucas, Christina","",[],[]]
 ],
 [
 
@@ -24282,12 +24282,12 @@ I = [
 "F","1759",
 "",
 "?",
-"Grand Junction, CO",
+"Grand Junction, Mesa, CO, USA",
 "unknown",
 [
 	["E1821","Birth","1759-11-09","9 NOV 1759",-1,"Birth of Maldonado, Eunice","",[],[]],
-	["E1822","Death","","",308,"Death of Maldonado, Eunice","",[],[]],
-	["E1823","Burial","","",308,"Burial of Maldonado, Eunice","",[],[]]
+	["E1822","Death","","",444,"Death of Maldonado, Eunice","",[],[]],
+	["E1823","Burial","","",444,"Burial of Maldonado, Eunice","",[],[]]
 ],
 [
 
@@ -24326,12 +24326,12 @@ I = [
 ["I0703","Mann, Agnes","Mann, Agnes",
 [["Mann, Agnes","Birth Name","","","","Agnes","",["Mann"],"","","",[]]],
 "F","?",
-"McComb, MS",
+"McComb, MS, USA",
 "",
 "",
 "",
 [
-	["E2163","Birth","","",495,"Birth of Mann, Agnes","",[],[]]
+	["E2163","Birth","","",738,"Birth of Mann, Agnes","",[],[]]
 ],
 [
 
@@ -24348,12 +24348,12 @@ I = [
 ["I0592","Manning, Judith Ann","Manning, Judith Ann",
 [["Manning, Judith Ann","Birth Name","","","","Judith Ann","",["Manning"],"","","",[]]],
 "F","1940",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E1966","Birth","1940-09-05","5 SEP 1940",586,"Birth of Manning, Judith Ann","",[],[]],
+	["E1966","Birth","1940-09-05","5 SEP 1940",893,"Birth of Manning, Judith Ann","",[],[]],
 	["E1967","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -24378,7 +24378,7 @@ I = [
 [
 	["E1111","Birth","1895-08-27","27 AUG 1895",-1,"Birth of Marín, Albert","",[],[]],
 	["E1112","Death","1965-06-14","14 JUN 1965",-1,"Death of Marín, Albert","",[],[]],
-	["E1113","Burial","","",519,"Burial of Marín, Albert","",[],[]]
+	["E1113","Burial","","",778,"Burial of Marín, Albert","",[],[]]
 ],
 [
 
@@ -24395,14 +24395,14 @@ I = [
 ["I0093","Marín, Alfred Franklin(Frank)","Marín, Alfred Franklin(Frank)",
 [["Marín, Alfred Franklin(Frank)","Birth Name","","","","Alfred Franklin(Frank)","",["Marín"],"","","",[]]],
 "M","?",
-"Paducah, KY-IL",
+"Paducah, McCracken, KY-IL, USA",
 "1864",
-"Worthington, MN",
+"Worthington, MN, USA",
 "unknown",
 [
-	["E2578","Birth","","",592,"Birth of Marín, Alfred Franklin(Frank)","",[],[]],
-	["E2579","Death","1864-12-25","25 DEC 1864",843,"Death of Marín, Alfred Franklin(Frank)","",[],[]],
-	["E2580","Burial","1860-12-27","27 DEC 1860",216,"Burial of Marín, Alfred Franklin(Frank)","",[],[]]
+	["E2578","Birth","","",902,"Birth of Marín, Alfred Franklin(Frank)","",[],[]],
+	["E2579","Death","1864-12-25","25 DEC 1864",1273,"Death of Marín, Alfred Franklin(Frank)","",[],[]],
+	["E2580","Burial","1860-12-27","27 DEC 1860",314,"Burial of Marín, Alfred Franklin(Frank)","",[],[]]
 ],
 [
 
@@ -24441,14 +24441,14 @@ I = [
 ["I0134","Marín, Elizabeth Therese","Marín, Elizabeth Therese",
 [["Marín, Elizabeth Therese","Birth Name","","","","Elizabeth Therese","",["Marín"],"","","",[]]],
 "F","1928",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "1928",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "2 months, 18 days",
 [
-	["E0438","Birth","1928-10-11","11 OCT 1928",586,"Birth of Marín, Elizabeth Therese","",[],[]],
-	["E0439","Death","1928-12-29","29 DEC 1928",586,"Death of Marín, Elizabeth Therese","",[],[]],
-	["E0440","Burial","","",586,"Burial of Marín, Elizabeth Therese","",[],[]]
+	["E0438","Birth","1928-10-11","11 OCT 1928",893,"Birth of Marín, Elizabeth Therese","",[],[]],
+	["E0439","Death","1928-12-29","29 DEC 1928",893,"Death of Marín, Elizabeth Therese","",[],[]],
+	["E0440","Burial","","",893,"Burial of Marín, Elizabeth Therese","",[],[]]
 ],
 [
 
@@ -24465,14 +24465,14 @@ I = [
 ["I1985","Marín, Frances Coppage","Marín, Frances Coppage",
 [["Marín, Frances Coppage","Birth Name","","","","Frances Coppage","",["Marín"],"","","",[]]],
 "F","1813",
-"Ottumwa, IA",
+"Ottumwa, Wapello, IA, USA",
 "1891",
-"Spearfish, SD",
+"Spearfish, SD, USA",
 "78 years, 6 months, 7 days",
 [
-	["E1107","Birth","1813-03-25","25 MAR 1813",587,"Birth of Marín, Frances Coppage","",[],[]],
-	["E1108","Death","1891-10-01","1 OCT 1891",728,"Death of Marín, Frances Coppage","",[],[]],
-	["E1109","Burial","1891-10-03","3 OCT 1891",728,"Burial of Marín, Frances Coppage","",[],[]]
+	["E1107","Birth","1813-03-25","25 MAR 1813",894,"Birth of Marín, Frances Coppage","",[],[]],
+	["E1108","Death","1891-10-01","1 OCT 1891",1082,"Death of Marín, Frances Coppage","",[],[]],
+	["E1109","Burial","1891-10-03","3 OCT 1891",1082,"Burial of Marín, Frances Coppage","",[],[]]
 ],
 [
 
@@ -24491,11 +24491,11 @@ I = [
 "M","?",
 "",
 "1956",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 [
-	["E1100","Death","1956-10-00","OCT 1956",586,"Death of Marín, Frank","",[],[]],
-	["E1101","Burial","","",26,"Burial of Marín, Frank","",[],[]]
+	["E1100","Death","1956-10-00","OCT 1956",893,"Death of Marín, Frank","",[],[]],
+	["E1101","Burial","","",35,"Burial of Marín, Frank","",[],[]]
 ],
 [
 
@@ -24512,14 +24512,14 @@ I = [
 ["I0139","Marín, Joseph William","Marín, Joseph William",
 [["Marín, Joseph William","Birth Name","","","","Joseph William","",["Marín"],"","","",[]]],
 "M","1920",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "?",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "unknown",
 [
-	["E0513","Birth","1920-10-27","27 OCT 1920",586,"Birth of Marín, Joseph William","",[],[]],
-	["E0514","Death","","",586,"Death of Marín, Joseph William","",[],[]],
-	["E0515","Burial","","",586,"Burial of Marín, Joseph William","",[],[]]
+	["E0513","Birth","1920-10-27","27 OCT 1920",893,"Birth of Marín, Joseph William","",[],[]],
+	["E0514","Death","","",893,"Death of Marín, Joseph William","",[],[]],
+	["E0515","Burial","","",893,"Burial of Marín, Joseph William","",[],[]]
 ],
 [
 
@@ -24536,13 +24536,13 @@ I = [
 ["I0202","Marín, Lilla Estella","Marín, Lilla Estella",
 [["Marín, Lilla Estella","Birth Name","","","","Lilla Estella","",["Marín"],"","","",[]]],
 "F","1883",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "1961",
-"Midland, MI",
+"Midland, MI, USA",
 "77 years, 11 months, 28 days",
 [
-	["E1153","Birth","1883-02-26","26 FEB 1883",586,"Birth of Marín, Lilla Estella","",[],[]],
-	["E1154","Death","1961-02-25","25 FEB 1961",510,"Death of Marín, Lilla Estella","",[],[]]
+	["E1153","Birth","1883-02-26","26 FEB 1883",893,"Birth of Marín, Lilla Estella","",[],[]],
+	["E1154","Death","1961-02-25","25 FEB 1961",766,"Death of Marín, Lilla Estella","",[],[]]
 ],
 [
 
@@ -24559,12 +24559,12 @@ I = [
 ["I0011","Marín, Mary Anne","Marín, Mary Anne",
 [["Marín, Mary Anne","Birth Name","","","","Mary Anne","",["Marín"],"","","",[]]],
 "F","1927",
-"Worthington, MN",
+"Worthington, MN, USA",
 "",
 "",
 "",
 [
-	["E0168","Birth","1927-01-13","13 JAN 1927",843,"Birth of Marín, Mary Anne","",[],[]],
+	["E0168","Birth","1927-01-13","13 JAN 1927",1273,"Birth of Marín, Mary Anne","",[],[]],
 	["E0169","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -24582,14 +24582,14 @@ I = [
 ["I0049","Marín, Moses Wallace","Marín, Moses Wallace",
 [["Marín, Moses Wallace","Birth Name","","","","Moses Wallace","",["Marín"],"","","",[]]],
 "M","1862",
-"Riverton, WY",
+"Riverton, WY, USA",
 "1909",
-"Worthington, MN",
+"Worthington, MN, USA",
 "47 years, 4 months",
 [
-	["E1780","Birth","1862-04-08","8 APR 1862",656,"Birth of Marín, Moses Wallace","",[],[]],
-	["E1781","Death","1909-08-08","8 AUG 1909",843,"Death of Marín, Moses Wallace","",[],[]],
-	["E1782","Burial","1909-08-10","10 AUG 1909",843,"Burial of Marín, Moses Wallace","",[],[]]
+	["E1780","Birth","1862-04-08","8 APR 1862",989,"Birth of Marín, Moses Wallace","",[],[]],
+	["E1781","Death","1909-08-08","8 AUG 1909",1273,"Death of Marín, Moses Wallace","",[],[]],
+	["E1782","Burial","1909-08-10","10 AUG 1909",1273,"Burial of Marín, Moses Wallace","",[],[]]
 ],
 [
 
@@ -24606,12 +24606,12 @@ I = [
 ["I0244","Marín, Nancy H.","Marín, Nancy H.",
 [["Marín, Nancy H.","Birth Name","","","","Nancy H.","",["Marín"],"","","",[]]],
 "F","?",
-"Paris, TN",
+"Paris, TN, USA",
 "",
 "",
 "",
 [
-	["E1287","Birth","","",601,"Birth of Marín, Nancy H.","",[],[]]
+	["E1287","Birth","","",913,"Birth of Marín, Nancy H.","",[],[]]
 ],
 [
 
@@ -24679,7 +24679,7 @@ I = [
 [
 	["E1130","Birth","1897-06-21","21 JUN 1897",-1,"Birth of Marín, Thomas Willis","",[],[]],
 	["E1131","Death","1962-06-28","28 JUN 1962",-1,"Death of Marín, Thomas Willis","",[],[]],
-	["E1132","Burial","","",736,"Burial of Marín, Thomas Willis","",[],[]]
+	["E1132","Burial","","",1092,"Burial of Marín, Thomas Willis","",[],[]]
 ],
 [
 
@@ -24696,14 +24696,14 @@ I = [
 ["I0054","Marín, Walter Matthew","Marín, Walter Matthew",
 [["Marín, Walter Matthew","Birth Name","","","","Walter Matthew","",["Marín"],"","","",[]]],
 "M","1893",
-"Worthington, MN",
+"Worthington, MN, USA",
 "1969",
-"Worthington, MN",
+"Worthington, MN, USA",
 "75 years, 18 days",
 [
-	["E1867","Birth","1893-12-29","29 DEC 1893",843,"Birth of Marín, Walter Matthew","",[],[]],
-	["E1868","Death","1969-01-16","16 JAN 1969",843,"Death of Marín, Walter Matthew","",[],[]],
-	["E1869","Burial","1969-01-18","18 JAN 1969",843,"Burial of Marín, Walter Matthew","",[],[]]
+	["E1867","Birth","1893-12-29","29 DEC 1893",1273,"Birth of Marín, Walter Matthew","",[],[]],
+	["E1868","Death","1969-01-16","16 JAN 1969",1273,"Death of Marín, Walter Matthew","",[],[]],
+	["E1869","Burial","1969-01-18","18 JAN 1969",1273,"Burial of Marín, Walter Matthew","",[],[]]
 ],
 [
 
@@ -24722,11 +24722,11 @@ I = [
 "M","?",
 "",
 "1906",
-"Hutchinson, KS",
+"Hutchinson, Reno, KS, USA",
 "",
 [
-	["E1139","Death","1906-10-00","OCT 1906",364,"Death of Marín, Wilbur","",[],[]],
-	["E1140","Burial","1906-10-22","22 OCT 1906",446,"Burial of Marín, Wilbur","",[],[]]
+	["E1139","Death","1906-10-00","OCT 1906",527,"Death of Marín, Wilbur","",[],[]],
+	["E1140","Burial","1906-10-22","22 OCT 1906",656,"Burial of Marín, Wilbur","",[],[]]
 ],
 [
 
@@ -24745,11 +24745,11 @@ I = [
 "M","?",
 "",
 "?",
-"Lewisburg, PA",
+"Lewisburg, PA, USA",
 "",
 [
-	["E2614","Death","","",440,"Death of Marín, William","",[],[]],
-	["E2615","Burial","","",713,"Burial of Marín, William","",[],[]]
+	["E2614","Death","","",650,"Death of Marín, William","",[],[]],
+	["E2615","Burial","","",1065,"Burial of Marín, William","",[],[]]
 ],
 [
 
@@ -24788,14 +24788,14 @@ I = [
 ["I0242","Marín, Willis H.","Marín, Willis H.",
 [["Marín, Willis H.","Birth Name","","","","Willis H.","",["Marín"],"","","",[]]],
 "M","1822",
-"New Castle, PA",
+"New Castle, PA, USA",
 "1894",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "71 years, 1 month, 21 days",
 [
-	["E1284","Birth","1822-11-11","11 NOV 1822",554,"Birth of Marín, Willis H.","",[],[]],
-	["E1285","Death","1894-01-02","2 JAN 1894",586,"Death of Marín, Willis H.","",[],[]],
-	["E1286","Burial","1894-01-03","3 JAN 1894",586,"Burial of Marín, Willis H.","",[],[]]
+	["E1284","Birth","1822-11-11","11 NOV 1822",840,"Birth of Marín, Willis H.","",[],[]],
+	["E1285","Death","1894-01-02","2 JAN 1894",893,"Death of Marín, Willis H.","",[],[]],
+	["E1286","Burial","1894-01-03","3 JAN 1894",893,"Burial of Marín, Willis H.","",[],[]]
 ],
 [
 
@@ -24857,14 +24857,14 @@ I = [
 ["I0975","Martel, Henry","Martel, Henry",
 [["Martel, Henry","Birth Name","","","","Henry","",["Martel"],"","","",[]]],
 "M","1805",
-"Wauchula, FL",
+"Wauchula, Hardee, FL, USA",
 "1902",
-"Helena, MT",
+"Helena, MT, USA",
 "96 years, 2 months, 22 days",
 [
-	["E2685","Birth","1805-10-27","27 OCT 1805",817,"Birth of Martel, Henry","",[],[]],
-	["E2686","Death","1902-01-18","18 JAN 1902",344,"Death of Martel, Henry","",[],[]],
-	["E2687","Burial","1902","1902",344,"Burial of Martel, Henry","",[],[]]
+	["E2685","Birth","1805-10-27","27 OCT 1805",1229,"Birth of Martel, Henry","",[],[]],
+	["E2686","Death","1902-01-18","18 JAN 1902",492,"Death of Martel, Henry","",[],[]],
+	["E2687","Burial","1902","1902",492,"Burial of Martel, Henry","",[],[]]
 ],
 [
 
@@ -24881,14 +24881,14 @@ I = [
 ["I0045","Martel, Luella Jacques","Martel, Luella Jacques",
 [["Martel, Luella Jacques","Birth Name","","","","Luella Jacques","",["Martel"],"","","",[]]],
 "F","1852",
-"Eureka, CA",
+"Eureka, Humboldt, CA, USA",
 "1921",
-"Myrtle Beach, SC",
+"Myrtle Beach, SC, USA",
 "69 years, 3 months, 5 days",
 [
-	["E1679","Birth","1852-01-23","23 JAN 1852",249,"Birth of Martel, Luella Jacques","",[],[]],
-	["E1680","Death","1921-04-28","28 APR 1921",547,"Death of Martel, Luella Jacques","",[],[]],
-	["E1681","Burial","1921-04-30","30 APR 1921",547,"Burial of Martel, Luella Jacques","",[],[]]
+	["E1679","Birth","1852-01-23","23 JAN 1852",364,"Birth of Martel, Luella Jacques","",[],[]],
+	["E1680","Death","1921-04-28","28 APR 1921",826,"Death of Martel, Luella Jacques","",[],[]],
+	["E1681","Burial","1921-04-30","30 APR 1921",826,"Burial of Martel, Luella Jacques","",[],[]]
 ],
 [
 
@@ -25104,12 +25104,12 @@ I = [
 ["I1079","Matthews, Nicholas Ian","Matthews, Nicholas Ian",
 [["Matthews, Nicholas Ian","Birth Name","","","","Nicholas Ian","",["Matthews"],"","","",[]]],
 "M","1995",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E0140","Birth","1995-07-11","11 JUL 1995",586,"Birth of Matthews, Nicholas Ian","",[],[]],
+	["E0140","Birth","1995-07-11","11 JUL 1995",893,"Birth of Matthews, Nicholas Ian","",[],[]],
 	["E0141","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -25173,11 +25173,11 @@ I = [
 "F","?",
 "",
 "?",
-"Greenville, SC",
+"Greenville, SC, USA",
 "unknown",
 [
 	["E0263","Birth","about 1632","ABT 1632",-1,"Birth of Mazur, Elizabeth","",[],[]],
-	["E0264","Death","","",321,"Death of Mazur, Elizabeth","",[],[]]
+	["E0264","Death","","",461,"Death of Mazur, Elizabeth","",[],[]]
 ],
 [
 
@@ -25239,14 +25239,14 @@ I = [
 ["I0602","McCarthy, Mary","McCarthy, Mary",
 [["McCarthy, Mary","Birth Name","","","","Mary","",["McCarthy"],"","","",[]]],
 "F","?",
-"Malone, NY",
+"Malone, Franklin, NY, USA",
 "?",
-"Los Angeles, CA",
+"Los Angeles, Los Angeles, CA, USA",
 "unknown",
 [
-	["E1991","Birth","","",471,"Birth of McCarthy, Mary","",[],[]],
-	["E1992","Death","","",459,"Death of McCarthy, Mary","",[],[]],
-	["E1993","Burial","","",752,"Burial of McCarthy, Mary","",[],[]]
+	["E1991","Birth","","",704,"Birth of McCarthy, Mary","",[],[]],
+	["E1992","Death","","",676,"Death of McCarthy, Mary","",[],[]],
+	["E1993","Burial","","",1117,"Burial of McCarthy, Mary","",[],[]]
 ],
 [
 
@@ -25329,12 +25329,12 @@ I = [
 ["I1797","McCoy, Canice Oliver","McCoy, Canice Oliver",
 [["McCoy, Canice Oliver","Birth Name","","","","Canice Oliver","",["McCoy"],"","","",[]]],
 "M","1975",
-"Tallulah, LA",
+"Tallulah, Madison, LA, USA",
 "",
 "",
 "",
 [
-	["E0919","Birth","1975-07-18","18 JUL 1975",761,"Birth of McCoy, Canice Oliver","",[],[]],
+	["E0919","Birth","1975-07-18","18 JUL 1975",1133,"Birth of McCoy, Canice Oliver","",[],[]],
 	["E0920","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -25352,12 +25352,12 @@ I = [
 ["I1794","McCoy, Celine Bridget","McCoy, Celine Bridget",
 [["McCoy, Celine Bridget","Birth Name","","","","Celine Bridget","",["McCoy"],"","","",[]]],
 "F","1971",
-"Tallulah, LA",
+"Tallulah, Madison, LA, USA",
 "",
 "",
 "",
 [
-	["E0913","Birth","1971-01-20","20 JAN 1971",761,"Birth of McCoy, Celine Bridget","",[],[]],
+	["E0913","Birth","1971-01-20","20 JAN 1971",1133,"Birth of McCoy, Celine Bridget","",[],[]],
 	["E0914","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -25370,6 +25370,29 @@ I = [
 [],
 [564],
 [[405,"Birth","Birth","",[]]],
+[]
+],
+["I1801","McCoy, Francis","McCoy, Francis",
+[["McCoy, Francis","Birth Name","","","","Francis","",["McCoy"],"","","",[]]],
+"M","1890",
+"Reading, PA, USA",
+"1962",
+"Evanston, WY, USA",
+"71 years, 11 months, 27 days",
+[
+	["E0931","Birth","1890-05-23","23 MAY 1890",973,"Birth of McCoy, Francis","",[],[]],
+	["E0932","Death","1962-05-19","19 MAY 1962",365,"Death of McCoy, Francis","",[],[]]
+],
+[
+
+],
+"",
+[],
+[],
+[],
+[],
+[404],
+[],
 []
 ],
 ["I1841","McCoy, Francis","McCoy, Francis",
@@ -25394,38 +25417,15 @@ I = [
 [[404,"Birth","Birth","",[]]],
 []
 ],
-["I1801","McCoy, Francis","McCoy, Francis",
-[["McCoy, Francis","Birth Name","","","","Francis","",["McCoy"],"","","",[]]],
-"M","1890",
-"Reading, PA",
-"1962",
-"Evanston, WY",
-"71 years, 11 months, 27 days",
-[
-	["E0931","Birth","1890-05-23","23 MAY 1890",644,"Birth of McCoy, Francis","",[],[]],
-	["E0932","Death","1962-05-19","19 MAY 1962",250,"Death of McCoy, Francis","",[],[]]
-],
-[
-
-],
-"",
-[],
-[],
-[],
-[],
-[404],
-[],
-[]
-],
 ["I1800","McCoy, Orla Sarah","McCoy, Orla Sarah",
 [["McCoy, Orla Sarah","Birth Name","","","","Orla Sarah","",["McCoy"],"","","",[]]],
 "F","1984",
-"Tallulah, LA",
+"Tallulah, Madison, LA, USA",
 "",
 "",
 "",
 [
-	["E0929","Birth","1984-04-12","12 APR 1984",761,"Birth of McCoy, Orla Sarah","",[],[]],
+	["E0929","Birth","1984-04-12","12 APR 1984",1133,"Birth of McCoy, Orla Sarah","",[],[]],
 	["E0930","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -25443,13 +25443,13 @@ I = [
 ["I1798","McCoy, Paula","McCoy, Paula",
 [["McCoy, Paula","Birth Name","","","","Paula","",["McCoy"],"","","",[]]],
 "F","1979",
-"Tallulah, LA",
+"Tallulah, Madison, LA, USA",
 "1983",
-"Havre, MT",
+"Havre, MT, USA",
 "4 years, 4 months, 25 days",
 [
-	["E0921","Birth","1979-02-07","7 FEB 1979",761,"Birth of McCoy, Paula","",[],[]],
-	["E0922","Death","1983-07-03","3 JUL 1983",341,"Death of McCoy, Paula","",[],[]]
+	["E0921","Birth","1979-02-07","7 FEB 1979",1133,"Birth of McCoy, Paula","",[],[]],
+	["E0922","Death","1983-07-03","3 JUL 1983",489,"Death of McCoy, Paula","",[],[]]
 ],
 [
 
@@ -25466,12 +25466,12 @@ I = [
 ["I1791","McCoy, Thomas Michael","McCoy, Thomas Michael",
 [["McCoy, Thomas Michael","Birth Name","","","","Thomas Michael","",["McCoy"],"","","",[]]],
 "M","1940",
-"Reading, PA",
+"Reading, PA, USA",
 "",
 "",
 "",
 [
-	["E0909","Birth","1940-07-06","6 JUL 1940",644,"Birth of McCoy, Thomas Michael","",[],[]],
+	["E0909","Birth","1940-07-06","6 JUL 1940",973,"Birth of McCoy, Thomas Michael","",[],[]],
 	["E0910","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -25489,12 +25489,12 @@ I = [
 ["I1407","Mcdaniel, Margaret","Mcdaniel, Margaret",
 [["Mcdaniel, Margaret","Birth Name","","","","Margaret","",["Mcdaniel"],"","","",[]]],
 "F","?",
-"Rexburg, ID",
+"Rexburg, Madison, ID, USA",
 "",
 "",
 "",
 [
-	["E0554","Birth","","",650,"Birth of Mcdaniel, Margaret","",[],[]]
+	["E0554","Birth","","",981,"Birth of Mcdaniel, Margaret","",[],[]]
 ],
 [
 
@@ -25533,14 +25533,14 @@ I = [
 ["I0609","Mendez, Martha","Mendez, Martha",
 [["Mendez, Martha","Birth Name","","","","Martha","",["Mendez"],"","","",[]]],
 "F","?",
-"Magnolia, AR",
+"Magnolia, Columbia, AR, USA",
 "?",
-"Marshall, TX",
+"Marshall, Harrison, TX, USA",
 "unknown",
 [
-	["E2005","Birth","","",470,"Birth of Mendez, Martha","",[],[]],
-	["E2006","Death","","",484,"Death of Mendez, Martha","",[],[]],
-	["E2007","Burial","","",271,"Burial of Mendez, Martha","",[],[]]
+	["E2005","Birth","","",702,"Birth of Mendez, Martha","",[],[]],
+	["E2006","Death","","",723,"Death of Mendez, Martha","",[],[]],
+	["E2007","Burial","","",394,"Burial of Mendez, Martha","",[],[]]
 ],
 [
 
@@ -25579,14 +25579,14 @@ I = [
 ["I0102","Meyer, Catherine","Meyer, Catherine",
 [["Meyer, Catherine","Birth Name","","","","Catherine","",["Meyer"],"","","",[]]],
 "F","1825",
-"Las Vegas, NV",
+"Las Vegas, NV, USA",
 "1911",
-"Cadillac, MI",
+"Cadillac, MI, USA",
 "85 years, 7 months, 11 days",
 [
-	["E0040","Birth","1825-06-19","19 JUN 1825",431,"Birth of Meyer, Catherine","",[],[]],
-	["E0041","Death","1911-01-30","30 JAN 1911",116,"Death of Meyer, Catherine","",[],[]],
-	["E0042","Burial","1911-02-01","1 FEB 1911",272,"Burial of Meyer, Catherine","",[],[]]
+	["E0040","Birth","1825-06-19","19 JUN 1825",632,"Birth of Meyer, Catherine","",[],[]],
+	["E0041","Death","1911-01-30","30 JAN 1911",158,"Death of Meyer, Catherine","",[],[]],
+	["E0042","Burial","1911-02-01","1 FEB 1911",395,"Burial of Meyer, Catherine","",[],[]]
 ],
 [
 
@@ -25603,14 +25603,14 @@ I = [
 ["I0600","Meyer, P.D.","Meyer, P.D.",
 [["Meyer, P.D.","Birth Name","","","","P.D.","",["Meyer"],"","","",[]]],
 "M","?",
-"Kapaa, HI",
+"Kapaa, HI, USA",
 "?",
-"Kapaa, HI",
+"Kapaa, HI, USA",
 "unknown",
 [
-	["E1985","Birth","","",392,"Birth of Meyer, P.D.","",[],[]],
-	["E1986","Death","","",392,"Death of Meyer, P.D.","",[],[]],
-	["E1987","Burial","","",392,"Burial of Meyer, P.D.","",[],[]]
+	["E1985","Birth","","",577,"Birth of Meyer, P.D.","",[],[]],
+	["E1986","Death","","",577,"Death of Meyer, P.D.","",[],[]],
+	["E1987","Burial","","",577,"Burial of Meyer, P.D.","",[],[]]
 ],
 [
 
@@ -25715,14 +25715,14 @@ I = [
 ["I0087","Mills, Isabella","Mills, Isabella",
 [["Mills, Isabella","Birth Name","","","","Isabella","",["Mills"],"","","",[]]],
 "F","1818",
-"Plattsburgh, NY",
+"Plattsburgh, Clinton, NY, USA",
 "1874",
-"Monroe, LA",
+"Monroe, Ouachita, LA, USA",
 "56 years, 7 months, 15 days",
 [
-	["E2466","Birth","1818-01-05","5 JAN 1818",618,"Birth of Mills, Isabella","",[],[]],
-	["E2467","Death","1874-08-20","20 AUG 1874",523,"Death of Mills, Isabella","",[],[]],
-	["E2468","Burial","1874-08-21","21 AUG 1874",142,"Burial of Mills, Isabella","",[],[]]
+	["E2466","Birth","1818-01-05","5 JAN 1818",936,"Birth of Mills, Isabella","",[],[]],
+	["E2467","Death","1874-08-20","20 AUG 1874",787,"Death of Mills, Isabella","",[],[]],
+	["E2468","Burial","1874-08-21","21 AUG 1874",193,"Burial of Mills, Isabella","",[],[]]
 ],
 [
 
@@ -25762,12 +25762,12 @@ I = [
 ["I1154","Molina, Robert","Molina, Robert",
 [["Molina, Robert","Birth Name","","","","Robert","",["Molina"],"","","",[]]],
 "M","1450",
-"Phoenix, AZ",
+"Phoenix, Maricopa, AZ, USA",
 "",
 "",
 "",
 [
-	["E0253","Birth","1450","1450",611,"Birth of Molina, Robert","",[],[]]
+	["E0253","Birth","1450","1450",926,"Birth of Molina, Robert","",[],[]]
 ],
 [
 
@@ -25778,18 +25778,18 @@ I = [
 [],
 [],
 [410],
-[[279,"Birth","Birth","",[]]],
+[[280,"Birth","Birth","",[]]],
 []
 ],
 ["I1956","Montgomery, Mary","Montgomery, Mary",
 [["Montgomery, Mary","Birth Name","","","","Mary","",["Montgomery"],"","","",[]]],
 "F","?",
-"Topeka, KS",
+"Topeka, Shawnee, KS, USA",
 "",
 "",
 "",
 [
-	["E1078","Birth","about 1686","ABT 1686",773,"Birth of Montgomery, Mary","",[],[]]
+	["E1078","Birth","about 1686","ABT 1686",1156,"Birth of Montgomery, Mary","",[],[]]
 ],
 [
 
@@ -25850,12 +25850,12 @@ I = [
 ["I0430","Morales, Penelope Margot","Morales, Penelope Margot",
 [["Morales, Penelope Margot","Birth Name","","","","Penelope Margot","",["Morales"],"","","",[]]],
 "F","1952",
-"Yauco, PR",
+"Yauco, PR, USA",
 "",
 "",
 "",
 [
-	["E1636","Birth","1952-12-20","20 DEC 1952",846,"Birth of Morales, Penelope Margot","",[],[]],
+	["E1636","Birth","1952-12-20","20 DEC 1952",1280,"Birth of Morales, Penelope Margot","",[],[]],
 	["E1637","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -25873,14 +25873,14 @@ I = [
 ["I0575","Moran, Andrew","Moran, Andrew",
 [["Moran, Andrew","Birth Name","","","","Andrew","",["Moran"],"","","",[]]],
 "M","?",
-"Miami, FL",
+"Miami, Miami-Dade, FL, USA",
 "?",
-"Manhattan, KS",
+"Manhattan, Riley, KS, USA",
 "unknown",
 [
-	["E1932","Birth","","",506,"Birth of Moran, Andrew","",[],[]],
-	["E1933","Death","","",473,"Death of Moran, Andrew","",[],[]],
-	["E1934","Burial","","",468,"Burial of Moran, Andrew","",[],[]]
+	["E1932","Birth","","",760,"Birth of Moran, Andrew","",[],[]],
+	["E1933","Death","","",706,"Death of Moran, Andrew","",[],[]],
+	["E1934","Burial","","",697,"Burial of Moran, Andrew","",[],[]]
 ],
 [
 
@@ -25897,13 +25897,13 @@ I = [
 ["I0576","Moran, Ann Delilah \"Tilley\"","Moran, Ann Delilah \"Tilley\"",
 [["Moran, Ann Delilah \"Tilley\"","Birth Name","","","","Ann Delilah \"Tilley\"","",["Moran"],"","","",[]]],
 "F","?",
-"Homosassa Springs, FL",
+"Homosassa Springs, Citrus, FL, USA",
 "1801",
-"Las Cruces, NM",
+"Las Cruces, NM, USA",
 "unknown",
 [
-	["E1935","Birth","","",353,"Birth of Moran, Ann Delilah &#8220;Tilley&#8221;","",[],[]],
-	["E1936","Death","1801","1801",429,"Death of Moran, Ann Delilah &#8220;Tilley&#8221;","",[],[]]
+	["E1935","Birth","","",508,"Birth of Moran, Ann Delilah &#8220;Tilley&#8221;","",[],[]],
+	["E1936","Death","1801","1801",630,"Death of Moran, Ann Delilah &#8220;Tilley&#8221;","",[],[]]
 ],
 [
 
@@ -25915,6 +25915,28 @@ I = [
 [],
 [186],
 [[412,"Birth","Birth","",[]]],
+[]
+],
+["I2054","Moreno","Moreno",
+[["Moreno","Birth Name","","","","","",["Moreno"],"","","",[]]],
+"U","?",
+"",
+"",
+"",
+"",
+[
+
+],
+[
+
+],
+"",
+[],
+[],
+[],
+[],
+[],
+[[424,"Birth","Birth","",[]]],
 []
 ],
 ["I2053","Moreno","Moreno",
@@ -25961,39 +25983,17 @@ I = [
 [[424,"Birth","Birth","",[]]],
 []
 ],
-["I2054","Moreno","Moreno",
-[["Moreno","Birth Name","","","","","",["Moreno"],"","","",[]]],
-"U","?",
-"",
-"",
-"",
-"",
-[
-
-],
-[
-
-],
-"",
-[],
-[],
-[],
-[],
-[],
-[[424,"Birth","Birth","",[]]],
-[]
-],
 ["I0061","Moreno, Aaron","Moreno, Aaron",
 [["Moreno, Aaron","Birth Name","","","","Aaron","",["Moreno"],"","","",[]]],
 "M","1784",
-"Harriman, TN",
+"Harriman, TN, USA",
 "1846",
-"Clearlake, CA",
+"Clearlake, Lake, CA, USA",
 "62 years, 13 days",
 [
-	["E2008","Birth","1784-02-05","5 FEB 1784",334,"Birth of Moreno, Aaron","",[],[]],
-	["E2009","Death","1846-02-18","18 FEB 1846",153,"Death of Moreno, Aaron","",[],[]],
-	["E2010","Burial","1846-02-20","20 FEB 1846",252,"Burial of Moreno, Aaron","",[],[]]
+	["E2008","Birth","1784-02-05","5 FEB 1784",479,"Birth of Moreno, Aaron","",[],[]],
+	["E2009","Death","1846-02-18","18 FEB 1846",213,"Death of Moreno, Aaron","",[],[]],
+	["E2010","Burial","1846-02-20","20 FEB 1846",367,"Burial of Moreno, Aaron","",[],[]]
 ],
 [
 
@@ -26010,14 +26010,14 @@ I = [
 ["I0028","Moreno, Abigail Chapman","Moreno, Abigail Chapman",
 [["Moreno, Abigail Chapman","Birth Name","","","","Abigail Chapman","",["Moreno"],"","","",[]]],
 "F","1823",
-"Bismarck, ND",
+"Bismarck, ND, USA",
 "1853",
-"Hutchinson, MN",
+"Hutchinson, MN, USA",
 "30 years, 2 months, 20 days",
 [
-	["E1335","Birth","1823-03-13","13 MAR 1823",81,"Birth of Moreno, Abigail Chapman","",[],[]],
-	["E1336","Death","1853-06-02","2 JUN 1853",365,"Death of Moreno, Abigail Chapman","",[],[]],
-	["E1337","Burial","1853-06-04","4 JUN 1853",602,"Burial of Moreno, Abigail Chapman","",[],[]]
+	["E1335","Birth","1823-03-13","13 MAR 1823",109,"Birth of Moreno, Abigail Chapman","",[],[]],
+	["E1336","Death","1853-06-02","2 JUN 1853",528,"Death of Moreno, Abigail Chapman","",[],[]],
+	["E1337","Burial","1853-06-04","4 JUN 1853",914,"Burial of Moreno, Abigail Chapman","",[],[]]
 ],
 [
 
@@ -26041,7 +26041,7 @@ I = [
 [
 	["E1205","Birth","1786-01-13","13 JAN 1786",-1,"Birth of Moreno, Absalom","",[],[]],
 	["E1206","Death","1838-04-15","15 APR 1838",-1,"Death of Moreno, Absalom","",[],[]],
-	["E1207","Burial","1838-04-17","17 APR 1838",591,"Burial of Moreno, Absalom","",[],[]]
+	["E1207","Burial","1838-04-17","17 APR 1838",900,"Burial of Moreno, Absalom","",[],[]]
 ],
 [
 
@@ -26080,14 +26080,14 @@ I = [
 ["I0058","Moreno, Christian, I","Moreno, Christian, I",
 [["Moreno, Christian, I","Birth Name","","","","Christian, I","",["Moreno"],"","","",[]]],
 "M","1693",
-"Kinston, NC",
+"Kinston, NC, USA",
 "1772",
-"Spencer, IA",
+"Spencer, Clay, IA, USA",
 "79 years, 3 months, 15 days",
 [
-	["E1939","Birth","1693","1693",407,"Birth of Moreno, Christian, I","",[],[]],
-	["E1940","Death","1772-04-16","16 APR 1772",729,"Death of Moreno, Christian, I","",[],[]],
-	["E1941","Burial","","",413,"Burial of Moreno, Christian, I","",[],[]]
+	["E1939","Birth","1693","1693",594,"Birth of Moreno, Christian, I","",[],[]],
+	["E1940","Death","1772-04-16","16 APR 1772",1083,"Death of Moreno, Christian, I","",[],[]],
+	["E1941","Burial","","",606,"Burial of Moreno, Christian, I","",[],[]]
 ],
 [
 
@@ -26104,12 +26104,12 @@ I = [
 ["I2069","Moreno, Cyrus W.","Moreno, Cyrus W.",
 [["Moreno, Cyrus W.","Birth Name","","","","Cyrus W.","",["Moreno"],"","","",[]]],
 "M","1825",
-"Paris, TN",
+"Paris, TN, USA",
 "",
 "",
 "",
 [
-	["E1189","Birth","1825-08-18","18 AUG 1825",601,"Birth of Moreno, Cyrus W.","",[],[]]
+	["E1189","Birth","1825-08-18","18 AUG 1825",913,"Birth of Moreno, Cyrus W.","",[],[]]
 ],
 [
 
@@ -26126,12 +26126,12 @@ I = [
 ["I2051","Moreno, Darius","Moreno, Darius",
 [["Moreno, Darius","Birth Name","","","","Darius","",["Moreno"],"","","",[]]],
 "M","1828",
-"Virginia Beach, VA",
+"Virginia Beach, VA, USA",
 "",
 "",
 "",
 [
-	["E1182","Birth","1828-03-21","21 MAR 1828",799,"Birth of Moreno, Darius","",[],[]]
+	["E1182","Birth","1828-03-21","21 MAR 1828",1199,"Birth of Moreno, Darius","",[],[]]
 ],
 [
 
@@ -26142,29 +26142,6 @@ I = [
 [],
 [],
 [417],
-[[414,"Birth","Birth","",[]]],
-[]
-],
-["I2056","Moreno, Delilah","Moreno, Delilah",
-[["Moreno, Delilah","Birth Name","","","","Delilah","",["Moreno"],"","","",[]]],
-"F","1818",
-"Paris, TN",
-"1871",
-"Kokomo, IN",
-"53 years, 3 days",
-[
-	["E1184","Birth","1818-01-05","5 JAN 1818",601,"Birth of Moreno, Delilah","",[],[]],
-	["E1185","Death","1871-01-08","8 JAN 1871",410,"Death of Moreno, Delilah","",[],[]]
-],
-[
-
-],
-"",
-[],
-[],
-[],
-[],
-[25],
 [[414,"Birth","Birth","",[]]],
 []
 ],
@@ -26188,6 +26165,29 @@ I = [
 [],
 [718],
 [[422,"Birth","Birth","",[]]],
+[]
+],
+["I2056","Moreno, Delilah","Moreno, Delilah",
+[["Moreno, Delilah","Birth Name","","","","Delilah","",["Moreno"],"","","",[]]],
+"F","1818",
+"Paris, TN, USA",
+"1871",
+"Kokomo, Howard, IN, USA",
+"53 years, 3 days",
+[
+	["E1184","Birth","1818-01-05","5 JAN 1818",913,"Birth of Moreno, Delilah","",[],[]],
+	["E1185","Death","1871-01-08","8 JAN 1871",598,"Death of Moreno, Delilah","",[],[]]
+],
+[
+
+],
+"",
+[],
+[],
+[],
+[],
+[25],
+[[414,"Birth","Birth","",[]]],
 []
 ],
 ["I2089","Moreno, Elizabeth","Moreno, Elizabeth",
@@ -26237,12 +26237,12 @@ I = [
 ["I2104","Moreno, Enoch T.","Moreno, Enoch T.",
 [["Moreno, Enoch T.","Birth Name","","","","Enoch T.","",["Moreno"],"","","",[]]],
 "M","1799",
-"Bloomsburg, PA",
+"Bloomsburg, PA, USA",
 "",
 "",
 "",
 [
-	["E1214","Birth","1799-11-29","29 NOV 1799",85,"Birth of Moreno, Enoch T.","",[],[]]
+	["E1214","Birth","1799-11-29","29 NOV 1799",113,"Birth of Moreno, Enoch T.","",[],[]]
 ],
 [
 
@@ -26327,10 +26327,10 @@ I = [
 "M","?",
 "",
 "?",
-"Campbellsville, KY",
+"Campbellsville, Taylor, KY, USA",
 "",
 [
-	["E1909","Death","","",123,"Death of Moreno, Herman","",[],[]]
+	["E1909","Death","","",168,"Death of Moreno, Herman","",[],[]]
 ],
 [
 
@@ -26347,13 +26347,13 @@ I = [
 ["I0059","Moreno, Johann Christian II","Moreno, Johann Christian II",
 [["Moreno, Johann Christian II","Birth Name","","","","Johann Christian II","",["Moreno"],"","","",[]]],
 "M","1726",
-"Albany, GA",
+"Albany, Dougherty, GA, USA",
 "1797",
-"Harriman, TN",
+"Harriman, TN, USA",
 "71 years, 25 days",
 [
-	["E1961","Birth","1726-11-15","15 NOV 1726",8,"Birth of Moreno, Johann Christian II","",[],[]],
-	["E1962","Death","1797-12-10","10 DEC 1797",334,"Death of Moreno, Johann Christian II","",[],[]]
+	["E1961","Birth","1726-11-15","15 NOV 1726",15,"Birth of Moreno, Johann Christian II","",[],[]],
+	["E1962","Death","1797-12-10","10 DEC 1797",479,"Death of Moreno, Johann Christian II","",[],[]]
 ],
 [
 
@@ -26370,13 +26370,13 @@ I = [
 ["I0057","Moreno, Johann Henrich","Moreno, Johann Henrich",
 [["Moreno, Johann Henrich","Birth Name","","","","Johann Henrich","",["Moreno"],"","","",[]]],
 "M","?",
-"McComb, MS",
+"McComb, MS, USA",
 "?",
-"Campbellsville, KY",
+"Campbellsville, Taylor, KY, USA",
 "unknown",
 [
-	["E1923","Birth","","",495,"Birth of Moreno, Johann Henrich","",[],[]],
-	["E1924","Death","","",123,"Death of Moreno, Johann Henrich","",[],[]]
+	["E1923","Birth","","",738,"Birth of Moreno, Johann Henrich","",[],[]],
+	["E1924","Death","","",168,"Death of Moreno, Johann Henrich","",[],[]]
 ],
 [
 
@@ -26415,12 +26415,12 @@ I = [
 ["I2049","Moreno, Joseph McDowell","Moreno, Joseph McDowell",
 [["Moreno, Joseph McDowell","Birth Name","","","","Joseph McDowell","",["Moreno"],"","","",[]]],
 "M","1816",
-"Paris, TN",
+"Paris, TN, USA",
 "1842",
 "",
 "26 years, 5 months, 2 days",
 [
-	["E1177","Birth","1816-01-26","26 JAN 1816",601,"Birth of Moreno, Joseph McDowell","",[],[]],
+	["E1177","Birth","1816-01-26","26 JAN 1816",913,"Birth of Moreno, Joseph McDowell","",[],[]],
 	["E1178","Death","1842-06-28","28 JUN 1842",-1,"Death of Moreno, Joseph McDowell","",[],[]]
 ],
 [
@@ -26505,13 +26505,13 @@ I = [
 ["I0060","Moreno, Maj. Christopher","Moreno, Maj. Christopher",
 [["Moreno, Maj. Christopher","Birth Name","","","","Maj. Christopher","",["Moreno"],"","","",[]]],
 "M","1752",
-"Roanoke Rapids, NC",
+"Roanoke Rapids, NC, USA",
 "1823",
-"Santa Fe, NM",
+"Santa Fe, NM, USA",
 "70 years, 9 months, 21 days",
 [
-	["E1983","Birth","1752-11-23","23 NOV 1752",657,"Birth of Moreno, Maj. Christopher","",[],[]],
-	["E1984","Death","1823-09-14","14 SEP 1823",691,"Death of Moreno, Maj. Christopher","",[],[]]
+	["E1983","Birth","1752-11-23","23 NOV 1752",990,"Birth of Moreno, Maj. Christopher","",[],[]],
+	["E1984","Death","1823-09-14","14 SEP 1823",1034,"Death of Moreno, Maj. Christopher","",[],[]]
 ],
 [
 
@@ -26572,12 +26572,12 @@ I = [
 ["I2062","Moreno, Mary H.","Moreno, Mary H.",
 [["Moreno, Mary H.","Birth Name","","","","Mary H.","",["Moreno"],"","","",[]]],
 "F","1820",
-"Paris, TN",
+"Paris, TN, USA",
 "",
 "",
 "",
 [
-	["E1188","Birth","1820-08-20","20 AUG 1820",601,"Birth of Moreno, Mary H.","",[],[]]
+	["E1188","Birth","1820-08-20","20 AUG 1820",913,"Birth of Moreno, Mary H.","",[],[]]
 ],
 [
 
@@ -26704,12 +26704,12 @@ I = [
 ["I2048","Moreno, Thomas H.","Moreno, Thomas H.",
 [["Moreno, Thomas H.","Birth Name","","","","Thomas H.","",["Moreno"],"","","",[]]],
 "M","1814",
-"Paris, TN",
+"Paris, TN, USA",
 "",
 "",
 "",
 [
-	["E1176","Birth","1814-08-22","22 AUG 1814",601,"Birth of Moreno, Thomas H.","",[],[]]
+	["E1176","Birth","1814-08-22","22 AUG 1814",913,"Birth of Moreno, Thomas H.","",[],[]]
 ],
 [
 
@@ -26750,10 +26750,10 @@ I = [
 "M","?",
 "",
 "?",
-"Albany, NY",
+"Albany, Albany, NY, USA",
 "",
 [
-	["E0594","Death","","",9,"Death of Morin","",[],[]]
+	["E0594","Death","","",16,"Death of Morin","",[],[]]
 ],
 [
 
@@ -26772,10 +26772,10 @@ I = [
 "M","?",
 "",
 "1795",
-"Pottsville, PA",
+"Pottsville, PA, USA",
 "",
 [
-	["E2017","Death","1795","1795",633,"Death of Morris, Adam","",[],[]]
+	["E2017","Death","1795","1795",956,"Death of Morris, Adam","",[],[]]
 ],
 [
 
@@ -26792,12 +26792,12 @@ I = [
 ["I1979","Morris, Carlisle","Morris, Carlisle",
 [["Morris, Carlisle","Birth Name","","","","Carlisle","",["Morris"],"","","",[]]],
 "M","1830",
-"Palatka, FL",
+"Palatka, Putnam, FL, USA",
 "",
 "",
 "",
 [
-	["E1099","Birth","1830","1830",594,"Birth of Morris, Carlisle","",[],[]]
+	["E1099","Birth","1830","1830",904,"Birth of Morris, Carlisle","",[],[]]
 ],
 [
 
@@ -26814,12 +26814,12 @@ I = [
 ["I1980","Morris, Cyrus","Morris, Cyrus",
 [["Morris, Cyrus","Birth Name","","","","Cyrus","",["Morris"],"","","",[]]],
 "M","1832",
-"Palatka, FL",
+"Palatka, Putnam, FL, USA",
 "",
 "",
 "",
 [
-	["E1102","Birth","1832","1832",594,"Birth of Morris, Cyrus","",[],[]]
+	["E1102","Birth","1832","1832",904,"Birth of Morris, Cyrus","",[],[]]
 ],
 [
 
@@ -26836,14 +26836,14 @@ I = [
 ["I0615","Morris, Cyrus","Morris, Cyrus",
 [["Morris, Cyrus","Birth Name","","","","Cyrus","",["Morris"],"","","",[]]],
 "M","20",
-"Roanoke, VA",
+"Roanoke, VA, USA",
 "1852",
-"Silver City, NM",
+"Silver City, NM, USA",
 "greater than 110 years",
 [
-	["E2018","Birth","20","20",658,"Birth of Morris, Cyrus","",[],[]],
-	["E2019","Death","1852-08-10","10 AUG 1852",719,"Death of Morris, Cyrus","",[],[]],
-	["E2020","Burial","","",261,"Burial of Morris, Cyrus","",[],[]]
+	["E2018","Birth","20","20",991,"Birth of Morris, Cyrus","",[],[]],
+	["E2019","Death","1852-08-10","10 AUG 1852",1071,"Death of Morris, Cyrus","",[],[]],
+	["E2020","Burial","","",379,"Burial of Morris, Cyrus","",[],[]]
 ],
 [
 
@@ -26860,14 +26860,14 @@ I = [
 ["I0084","Morris, Jane","Morris, Jane",
 [["Morris, Jane","Birth Name","","","","Jane","",["Morris"],"","","",[]]],
 "F","1822",
-"Champaign, IL",
+"Champaign, Champaign, IL, USA",
 "1877",
-"Fayetteville, AR",
+"Fayetteville, Washington, AR, USA",
 "54 years, 5 months, 3 days",
 [
-	["E2407","Birth","1822-11-20","20 NOV 1822",139,"Birth of Morris, Jane","",[],[]],
-	["E2408","Death","1877-04-23","23 APR 1877",261,"Death of Morris, Jane","",[],[]],
-	["E2409","Burial","","",261,"Burial of Morris, Jane","",[],[]]
+	["E2407","Birth","1822-11-20","20 NOV 1822",188,"Birth of Morris, Jane","",[],[]],
+	["E2408","Death","1877-04-23","23 APR 1877",379,"Death of Morris, Jane","",[],[]],
+	["E2409","Burial","","",379,"Burial of Morris, Jane","",[],[]]
 ],
 [
 
@@ -26884,12 +26884,12 @@ I = [
 ["I1984","Morris, John","Morris, John",
 [["Morris, John","Birth Name","","","","John","",["Morris"],"","","",[]]],
 "M","1841",
-"Palatka, FL",
+"Palatka, Putnam, FL, USA",
 "",
 "",
 "",
 [
-	["E1106","Birth","1841","1841",594,"Birth of Morris, John","",[],[]]
+	["E1106","Birth","1841","1841",904,"Birth of Morris, John","",[],[]]
 ],
 [
 
@@ -26906,12 +26906,12 @@ I = [
 ["I1982","Morris, Martha","Morris, Martha",
 [["Morris, Martha","Birth Name","","","","Martha","",["Morris"],"","","",[]]],
 "F","1837",
-"Palatka, FL",
+"Palatka, Putnam, FL, USA",
 "",
 "",
 "",
 [
-	["E1104","Birth","1837","1837",594,"Birth of Morris, Martha","",[],[]]
+	["E1104","Birth","1837","1837",904,"Birth of Morris, Martha","",[],[]]
 ],
 [
 
@@ -26928,12 +26928,12 @@ I = [
 ["I1983","Morris, Mary","Morris, Mary",
 [["Morris, Mary","Birth Name","","","","Mary","",["Morris"],"","","",[]]],
 "F","1839",
-"Palatka, FL",
+"Palatka, Putnam, FL, USA",
 "",
 "",
 "",
 [
-	["E1105","Birth","1839","1839",594,"Birth of Morris, Mary","",[],[]]
+	["E1105","Birth","1839","1839",904,"Birth of Morris, Mary","",[],[]]
 ],
 [
 
@@ -26950,12 +26950,12 @@ I = [
 ["I1981","Morris, Robert","Morris, Robert",
 [["Morris, Robert","Birth Name","","","","Robert","",["Morris"],"","","",[]]],
 "M","1835",
-"Palatka, FL",
+"Palatka, Putnam, FL, USA",
 "",
 "",
 "",
 [
-	["E1103","Birth","1835","1835",594,"Birth of Morris, Robert","",[],[]]
+	["E1103","Birth","1835","1835",904,"Birth of Morris, Robert","",[],[]]
 ],
 [
 
@@ -26972,12 +26972,12 @@ I = [
 ["I1978","Morris, Roland","Morris, Roland",
 [["Morris, Roland","Birth Name","","","","Roland","",["Morris"],"","","",[]]],
 "M","1824",
-"Palatka, FL",
+"Palatka, Putnam, FL, USA",
 "",
 "",
 "",
 [
-	["E1098","Birth","1824","1824",594,"Birth of Morris, Roland","",[],[]]
+	["E1098","Birth","1824","1824",904,"Birth of Morris, Roland","",[],[]]
 ],
 [
 
@@ -26994,14 +26994,14 @@ I = [
 ["I0802","Morrison, Nancy","Morrison, Nancy",
 [["Morrison, Nancy","Birth Name","","","","Nancy","",["Morrison"],"","","",[]]],
 "F","?",
-"Loveland, CO",
+"Loveland, Larimer, CO, USA",
 "?",
-"Fargo, ND",
+"Fargo, ND, USA",
 "unknown",
 [
-	["E2324","Birth","","",461,"Birth of Morrison, Nancy","",[],[]],
-	["E2325","Death","","",257,"Death of Morrison, Nancy","",[],[]],
-	["E2326","Burial","","",724,"Burial of Morrison, Nancy","",[],[]]
+	["E2324","Birth","","",680,"Birth of Morrison, Nancy","",[],[]],
+	["E2325","Death","","",373,"Death of Morrison, Nancy","",[],[]],
+	["E2326","Burial","","",1078,"Burial of Morrison, Nancy","",[],[]]
 ],
 [
 
@@ -27018,12 +27018,12 @@ I = [
 ["I0311","Mortensen, Daniel","Mortensen, Daniel",
 [["Mortensen, Daniel","Birth Name","","","","Daniel","",["Mortensen"],"","","",[]]],
 "M","1951",
-"Cullman, AL",
+"Cullman, Cullman, AL, USA",
 "",
 "",
 "",
 [
-	["E1408","Birth","1951-11-21","21 NOV 1951",192,"Birth of Mortensen, Daniel","",[],[]],
+	["E1408","Birth","1951-11-21","21 NOV 1951",272,"Birth of Mortensen, Daniel","",[],[]],
 	["E1409","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -27041,12 +27041,12 @@ I = [
 ["I0313","Mortensen, Maria Christine","Mortensen, Maria Christine",
 [["Mortensen, Maria Christine","Birth Name","","","","Maria Christine","",["Mortensen"],"","","",[]]],
 "F","1981",
-"Mount Vernon, OH",
+"Mount Vernon, OH, USA",
 "",
 "",
 "",
 [
-	["E1412","Birth","1981-07-01","1 JUL 1981",539,"Birth of Mortensen, Maria Christine","",[],[]],
+	["E1412","Birth","1981-07-01","1 JUL 1981",813,"Birth of Mortensen, Maria Christine","",[],[]],
 	["E1413","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -27064,12 +27064,12 @@ I = [
 ["I0312","Mortensen, Robert Alan","Mortensen, Robert Alan",
 [["Mortensen, Robert Alan","Birth Name","","","","Robert Alan","",["Mortensen"],"","","",[]]],
 "M","1980",
-"Mount Vernon, OH",
+"Mount Vernon, OH, USA",
 "",
 "",
 "",
 [
-	["E1410","Birth","1980-01-04","4 JAN 1980",539,"Birth of Mortensen, Robert Alan","",[],[]],
+	["E1410","Birth","1980-01-04","4 JAN 1980",813,"Birth of Mortensen, Robert Alan","",[],[]],
 	["E1411","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -27111,10 +27111,10 @@ I = [
 "M","?",
 "",
 "?",
-"Cambridge, MA",
+"Cambridge, Middlesex, MA, USA",
 "",
 [
-	["E0597","Death","","",118,"Death of Moss, Christy","",[],[]]
+	["E0597","Death","","",162,"Death of Moss, Christy","",[],[]]
 ],
 [
 
@@ -27131,12 +27131,12 @@ I = [
 ["I1627","Moss, Florence","Moss, Florence",
 [["Moss, Florence","Birth Name","","","","Florence","",["Moss"],"","","",[]]],
 "F","?",
-"Cambridge, MA",
+"Cambridge, Middlesex, MA, USA",
 "",
 "",
 "",
 [
-	["E0741","Birth","","",118,"Birth of Moss, Florence","",[],[]]
+	["E0741","Birth","","",162,"Birth of Moss, Florence","",[],[]]
 ],
 [
 
@@ -27153,12 +27153,12 @@ I = [
 ["I1623","Moss, Fred","Moss, Fred",
 [["Moss, Fred","Birth Name","","","","Fred","",["Moss"],"","","",[]]],
 "M","?",
-"Cambridge, MA",
+"Cambridge, Middlesex, MA, USA",
 "",
 "",
 "",
 [
-	["E0737","Birth","","",118,"Birth of Moss, Fred","",[],[]]
+	["E0737","Birth","","",162,"Birth of Moss, Fred","",[],[]]
 ],
 [
 
@@ -27175,12 +27175,12 @@ I = [
 ["I1625","Moss, Henry","Moss, Henry",
 [["Moss, Henry","Birth Name","","","","Henry","",["Moss"],"","","",[]]],
 "M","?",
-"Cambridge, MA",
+"Cambridge, Middlesex, MA, USA",
 "",
 "",
 "",
 [
-	["E0739","Birth","","",118,"Birth of Moss, Henry","",[],[]]
+	["E0739","Birth","","",162,"Birth of Moss, Henry","",[],[]]
 ],
 [
 
@@ -27197,12 +27197,12 @@ I = [
 ["I1626","Moss, Mary","Moss, Mary",
 [["Moss, Mary","Birth Name","","","","Mary","",["Moss"],"","","",[]]],
 "F","?",
-"Cambridge, MA",
+"Cambridge, Middlesex, MA, USA",
 "",
 "",
 "",
 [
-	["E0740","Birth","","",118,"Birth of Moss, Mary","",[],[]]
+	["E0740","Birth","","",162,"Birth of Moss, Mary","",[],[]]
 ],
 [
 
@@ -27219,12 +27219,12 @@ I = [
 ["I1628","Moss, Mattie","Moss, Mattie",
 [["Moss, Mattie","Birth Name","","","","Mattie","",["Moss"],"","","",[]]],
 "F","?",
-"Cambridge, MA",
+"Cambridge, Middlesex, MA, USA",
 "",
 "",
 "",
 [
-	["E0742","Birth","","",118,"Birth of Moss, Mattie","",[],[]]
+	["E0742","Birth","","",162,"Birth of Moss, Mattie","",[],[]]
 ],
 [
 
@@ -27241,12 +27241,12 @@ I = [
 ["I1624","Moss, Thomas","Moss, Thomas",
 [["Moss, Thomas","Birth Name","","","","Thomas","",["Moss"],"","","",[]]],
 "M","?",
-"Cambridge, MA",
+"Cambridge, Middlesex, MA, USA",
 "",
 "",
 "",
 [
-	["E0738","Birth","","",118,"Birth of Moss, Thomas","",[],[]]
+	["E0738","Birth","","",162,"Birth of Moss, Thomas","",[],[]]
 ],
 [
 
@@ -27263,14 +27263,14 @@ I = [
 ["I1073","Mullins, Robert?","Mullins, Robert?",
 [["Mullins, Robert?","Birth Name","","","","Robert?","",["Mullins"],"","","",[]]],
 "M","?",
-"Laredo, TX",
+"Laredo, Webb, TX, USA",
 "1828",
-"Dumas, TX",
+"Dumas, Moore, TX, USA",
 "about 39 years, 7 months, 12 days",
 [
-	["E0127","Birth","about 1789","ABT 1789",428,"Birth of Mullins, Robert?","",[],[]],
-	["E0128","Death","1828-08-13","13 AUG 1828",222,"Death of Mullins, Robert?","",[],[]],
-	["E0129","Burial","","",522,"Burial of Mullins, Robert?","",[],[]]
+	["E0127","Birth","about 1789","ABT 1789",628,"Birth of Mullins, Robert?","",[],[]],
+	["E0128","Death","1828-08-13","13 AUG 1828",323,"Death of Mullins, Robert?","",[],[]],
+	["E0129","Burial","","",784,"Burial of Mullins, Robert?","",[],[]]
 ],
 [
 
@@ -27353,12 +27353,12 @@ I = [
 ["I1990","Munoz, Moses Romulus?","Munoz, Moses Romulus?",
 [["Munoz, Moses Romulus?","Birth Name","","","","Moses Romulus?","",["Munoz"],"","","",[]]],
 "M","?",
-"Washington, DC",
+"Washington, District of Columbia, DC, USA",
 "",
 "",
 "",
 [
-	["E1114","Birth","","",810,"Birth of Munoz, Moses Romulus?","",[],[]]
+	["E1114","Birth","","",1220,"Birth of Munoz, Moses Romulus?","",[],[]]
 ],
 [
 
@@ -27375,12 +27375,12 @@ I = [
 ["I1991","Munoz, Robert","Munoz, Robert",
 [["Munoz, Robert","Birth Name","","","","Robert","",["Munoz"],"","","",[]]],
 "M","?",
-"Washington, DC",
+"Washington, District of Columbia, DC, USA",
 "",
 "",
 "",
 [
-	["E1115","Birth","","",810,"Birth of Munoz, Robert","",[],[]]
+	["E1115","Birth","","",1220,"Birth of Munoz, Robert","",[],[]]
 ],
 [
 
@@ -27419,12 +27419,12 @@ I = [
 ["I1992","Munoz, Willis E.","Munoz, Willis E.",
 [["Munoz, Willis E.","Birth Name","","","","Willis E.","",["Munoz"],"","","",[]]],
 "M","?",
-"Washington, DC",
+"Washington, District of Columbia, DC, USA",
 "",
 "",
 "",
 [
-	["E1116","Birth","","",810,"Birth of Munoz, Willis E.","",[],[]]
+	["E1116","Birth","","",1220,"Birth of Munoz, Willis E.","",[],[]]
 ],
 [
 
@@ -27485,13 +27485,13 @@ I = [
 ["I0881","Myers, James","Myers, James",
 [["Myers, James","Birth Name","","","","James","",["Myers"],"","","",[]]],
 "M","1813",
-"Yuma, AZ",
+"Yuma, Yuma, AZ, USA",
 "1896",
-"Staunton-Waynesboro, VA",
+"Staunton-Waynesboro, VA, USA",
 "83 years, 5 months, 3 days",
 [
-	["E2493","Birth","1813","1813",851,"Birth of Myers, James","",[],[]],
-	["E2494","Death","1896-06-04","4 JUN 1896",743,"Death of Myers, James","",[],[]],
+	["E2493","Birth","1813","1813",1286,"Birth of Myers, James","",[],[]],
+	["E2494","Death","1896-06-04","4 JUN 1896",1104,"Death of Myers, James","",[],[]],
 	["E2495","Burial","1896","1896",-1,"Burial of Myers, James","",[],[]]
 ],
 [
@@ -27509,13 +27509,13 @@ I = [
 ["I0882","Myers, James Joseph Jr.","Myers, James Joseph Jr.",
 [["Myers, James Joseph Jr.","Birth Name","","","","James Joseph Jr.","",["Myers"],"","","",[]]],
 "M","1857",
-"Staunton-Waynesboro, VA",
+"Staunton-Waynesboro, VA, USA",
 "1934",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "76 years, 3 months, 14 days",
 [
-	["E2496","Birth","1857-12-22","22 DEC 1857",743,"Birth of Myers, James Joseph Jr.","",[],[]],
-	["E2497","Death","1934-04-05","5 APR 1934",586,"Death of Myers, James Joseph Jr.","",[],[]],
+	["E2496","Birth","1857-12-22","22 DEC 1857",1104,"Birth of Myers, James Joseph Jr.","",[],[]],
+	["E2497","Death","1934-04-05","5 APR 1934",893,"Death of Myers, James Joseph Jr.","",[],[]],
 	["E2498","Burial","1934","1934",-1,"Burial of Myers, James Joseph Jr.","",[],[]]
 ],
 [
@@ -27556,12 +27556,12 @@ I = [
 ["I1987","Nadeau, John Franklin","Nadeau, John Franklin",
 [["Nadeau, John Franklin","Birth Name","","","","John Franklin","",["Nadeau"],"","","",[]]],
 "M","?",
-"Fort Morgan, CO",
+"Fort Morgan, Morgan, CO, USA",
 "",
 "",
 "",
 [
-	["E1110","Birth","","",276,"Birth of Nadeau, John Franklin","",[],[]]
+	["E1110","Birth","","",399,"Birth of Nadeau, John Franklin","",[],[]]
 ],
 [
 
@@ -27600,12 +27600,12 @@ I = [
 ["I1378","Neal, Andrew","Neal, Andrew",
 [["Neal, Andrew","Birth Name","","","","Andrew","",["Neal"],"","","",[]]],
 "M","?",
-"Palm Coast, FL",
+"Palm Coast, Flagler, FL, USA",
 "",
 "",
 "",
 [
-	["E0492","Birth","","",597,"Birth of Neal, Andrew","",[],[]]
+	["E0492","Birth","","",908,"Birth of Neal, Andrew","",[],[]]
 ],
 [
 
@@ -27622,13 +27622,13 @@ I = [
 ["I1379","Neal, Belle","Neal, Belle",
 [["Neal, Belle","Birth Name","","","","Belle","",["Neal"],"","","",[]]],
 "F","?",
-"Palm Coast, FL",
+"Palm Coast, Flagler, FL, USA",
 "1903",
-"Newton, IA",
+"Newton, Jasper, IA, USA",
 "unknown",
 [
-	["E0493","Birth","","",597,"Birth of Neal, Belle","",[],[]],
-	["E0494","Death","1903","1903",561,"Death of Neal, Belle","",[],[]]
+	["E0493","Birth","","",908,"Birth of Neal, Belle","",[],[]],
+	["E0494","Death","1903","1903",849,"Death of Neal, Belle","",[],[]]
 ],
 [
 
@@ -27645,12 +27645,12 @@ I = [
 ["I1386","Neal, David","Neal, David",
 [["Neal, David","Birth Name","","","","David","",["Neal"],"","","",[]]],
 "M","?",
-"Palm Coast, FL",
+"Palm Coast, Flagler, FL, USA",
 "",
 "",
 "",
 [
-	["E0507","Birth","","",597,"Birth of Neal, David","",[],[]]
+	["E0507","Birth","","",908,"Birth of Neal, David","",[],[]]
 ],
 [
 
@@ -27667,12 +27667,12 @@ I = [
 ["I1453","Neal, Helen M.","Neal, Helen M.",
 [["Neal, Helen M.","Birth Name","","","","Helen M.","",["Neal"],"","","",[]]],
 "F","1916",
-"Grand Forks, ND",
+"Grand Forks, ND, USA",
 "",
 "",
 "",
 [
-	["E0611","Birth","1916-08-30","30 AUG 1916",307,"Birth of Neal, Helen M.","",[],[]]
+	["E0611","Birth","1916-08-30","30 AUG 1916",443,"Birth of Neal, Helen M.","",[],[]]
 ],
 [
 
@@ -27689,12 +27689,12 @@ I = [
 ["I1380","Neal, James","Neal, James",
 [["Neal, James","Birth Name","","","","James","",["Neal"],"","","",[]]],
 "M","?",
-"Palm Coast, FL",
+"Palm Coast, Flagler, FL, USA",
 "",
 "",
 "",
 [
-	["E0498","Birth","","",597,"Birth of Neal, James","",[],[]]
+	["E0498","Birth","","",908,"Birth of Neal, James","",[],[]]
 ],
 [
 
@@ -27711,12 +27711,12 @@ I = [
 ["I1377","Neal, James","Neal, James",
 [["Neal, James","Birth Name","","","","James","",["Neal"],"","","",[]]],
 "M","?",
-"Palm Coast, FL",
+"Palm Coast, Flagler, FL, USA",
 "",
 "",
 "",
 [
-	["E0491","Birth","","",597,"Birth of Neal, James","",[],[]]
+	["E0491","Birth","","",908,"Birth of Neal, James","",[],[]]
 ],
 [
 
@@ -27733,13 +27733,13 @@ I = [
 ["I1381","Neal, John","Neal, John",
 [["Neal, John","Birth Name","","","","John","",["Neal"],"","","",[]]],
 "M","1872",
-"Crescent City North, CA",
+"Crescent City North, CA, USA",
 "1928",
-"Newton, IA",
+"Newton, Jasper, IA, USA",
 "56 years, 3 months, 15 days",
 [
-	["E0499","Birth","1872-09-11","11 SEP 1872",189,"Birth of Neal, John","",[],[]],
-	["E0500","Death","1928-12-26","26 DEC 1928",561,"Death of Neal, John","",[],[]]
+	["E0499","Birth","1872-09-11","11 SEP 1872",267,"Birth of Neal, John","",[],[]],
+	["E0500","Death","1928-12-26","26 DEC 1928",849,"Death of Neal, John","",[],[]]
 ],
 [
 
@@ -27756,12 +27756,12 @@ I = [
 ["I1382","Neal, Margaret","Neal, Margaret",
 [["Neal, Margaret","Birth Name","","","","Margaret","",["Neal"],"","","",[]]],
 "F","?",
-"Palm Coast, FL",
+"Palm Coast, Flagler, FL, USA",
 "",
 "",
 "",
 [
-	["E0501","Birth","","",597,"Birth of Neal, Margaret","",[],[]]
+	["E0501","Birth","","",908,"Birth of Neal, Margaret","",[],[]]
 ],
 [
 
@@ -27778,12 +27778,12 @@ I = [
 ["I1384","Neal, Matilda","Neal, Matilda",
 [["Neal, Matilda","Birth Name","","","","Matilda","",["Neal"],"","","",[]]],
 "F","1877",
-"McAllen, TX",
+"McAllen, Hidalgo, TX, USA",
 "1946",
 "",
 "68 years, 10 months, 23 days",
 [
-	["E0502","Birth","1877-02-09","9 FEB 1877",494,"Birth of Neal, Matilda","",[],[]],
+	["E0502","Birth","1877-02-09","9 FEB 1877",737,"Birth of Neal, Matilda","",[],[]],
 	["E0503","Death","1946","1946",-1,"Death of Neal, Matilda","",[],[]]
 ],
 [
@@ -27845,12 +27845,12 @@ I = [
 ["I0325","Nguyen, Elizabeth Diane","Nguyen, Elizabeth Diane",
 [["Nguyen, Elizabeth Diane","Birth Name","","","","Elizabeth Diane","",["Nguyen"],"","","",[]]],
 "F","1982",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E1434","Birth","1982-11-10","10 NOV 1982",586,"Birth of Nguyen, Elizabeth Diane","",[],[]],
+	["E1434","Birth","1982-11-10","10 NOV 1982",893,"Birth of Nguyen, Elizabeth Diane","",[],[]],
 	["E1435","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -27891,12 +27891,12 @@ I = [
 ["I0324","Nguyen, Laurie Ann","Nguyen, Laurie Ann",
 [["Nguyen, Laurie Ann","Birth Name","","","","Laurie Ann","",["Nguyen"],"","","",[]]],
 "F","1981",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E1432","Birth","1981-07-04","4 JUL 1981",586,"Birth of Nguyen, Laurie Ann","",[],[]],
+	["E1432","Birth","1981-07-04","4 JUL 1981",893,"Birth of Nguyen, Laurie Ann","",[],[]],
 	["E1433","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -27914,13 +27914,13 @@ I = [
 ["I1954","Nichols, Elizabeth","Nichols, Elizabeth",
 [["Nichols, Elizabeth","Birth Name","","","","Elizabeth","",["Nichols"],"","","",[]]],
 "F","1711",
-"Williston, ND",
+"Williston, ND, USA",
 "1768",
-"Williston, ND",
+"Williston, ND, USA",
 "57 years, 3 months, 12 days",
 [
-	["E1074","Birth","1711-01-03","3 JAN 1711",830,"Birth of Nichols, Elizabeth","",[],[]],
-	["E1075","Death","1768-04-15","15 APR 1768",830,"Death of Nichols, Elizabeth","",[],[]]
+	["E1074","Birth","1711-01-03","3 JAN 1711",1256,"Birth of Nichols, Elizabeth","",[],[]],
+	["E1075","Death","1768-04-15","15 APR 1768",1256,"Death of Nichols, Elizabeth","",[],[]]
 ],
 [
 
@@ -28025,12 +28025,12 @@ I = [
 ["I0892","Norman, Dorothy Louise","Norman, Dorothy Louise",
 [["Norman, Dorothy Louise","Birth Name","","","","Dorothy Louise","",["Norman"],"","","",[]]],
 "F","1914",
-"Alma, MI",
+"Alma, MI, USA",
 "",
 "",
 "",
 [
-	["E2517","Birth","1914-10-16","16 OCT 1914",20,"Birth of Norman, Dorothy Louise","",[],[]],
+	["E2517","Birth","1914-10-16","16 OCT 1914",29,"Birth of Norman, Dorothy Louise","",[],[]],
 	["E2518","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -28048,14 +28048,14 @@ I = [
 ["I2014","Norris, Elizabeth","Norris, Elizabeth",
 [["Norris, Elizabeth","Birth Name","","","","Elizabeth","",["Norris"],"","","",[]]],
 "F","?",
-"Sikeston, MO",
+"Sikeston, MO, USA",
 "1731",
-"Garden City, KS",
+"Garden City, Finney, KS, USA",
 "about 52 years, 4 months, 9 days",
 [
-	["E1146","Birth","about 1679","ABT 1679",718,"Birth of Norris, Elizabeth","",[],[]],
-	["E1147","Death","1731-05-10","10 MAY 1731",296,"Death of Norris, Elizabeth","",[],[]],
-	["E1148","Burial","1731-05-12","12 MAY 1731",721,"Burial of Norris, Elizabeth","",[],[]]
+	["E1146","Birth","about 1679","ABT 1679",1070,"Birth of Norris, Elizabeth","",[],[]],
+	["E1147","Death","1731-05-10","10 MAY 1731",427,"Death of Norris, Elizabeth","",[],[]],
+	["E1148","Burial","1731-05-12","12 MAY 1731",1073,"Burial of Norris, Elizabeth","",[],[]]
 ],
 [
 
@@ -28072,14 +28072,14 @@ I = [
 ["I0750","Norris, John","Norris, John",
 [["Norris, John","Birth Name","","","","John","",["Norris"],"","","",[]]],
 "M","1633",
-"Rio Grande City, TX",
+"Rio Grande City, Starr, TX, USA",
 "1712",
-"Anchorage, AK",
+"Anchorage, AK, USA",
 "78 years, 11 months, 19 days",
 [
-	["E2235","Birth","1633-09-08","8 SEP 1633",654,"Birth of Norris, John","",[],[]],
-	["E2236","Death","1712-08-27","27 AUG 1712",28,"Death of Norris, John","",[],[]],
-	["E2237","Burial","1712","1712",394,"Burial of Norris, John","",[],[]]
+	["E2235","Birth","1633-09-08","8 SEP 1633",987,"Birth of Norris, John","",[],[]],
+	["E2236","Death","1712-08-27","27 AUG 1712",37,"Death of Norris, John","",[],[]],
+	["E2237","Burial","1712","1712",579,"Burial of Norris, John","",[],[]]
 ],
 [
 
@@ -28096,12 +28096,12 @@ I = [
 ["I1994","Norris, William","Norris, William",
 [["Norris, William","Birth Name","","","","William","",["Norris"],"","","",[]]],
 "M","?",
-"Phoenix Lake, CA",
+"Phoenix Lake, Tuolumne, CA, USA",
 "",
 "",
 "",
 [
-	["E1117","Birth","about 1600","ABT 1600",610,"Birth of Norris, William","",[],[]]
+	["E1117","Birth","about 1600","ABT 1600",925,"Birth of Norris, William","",[],[]]
 ],
 [
 
@@ -28166,10 +28166,10 @@ I = [
 "M","?",
 "",
 "?",
-"Palatka, FL",
+"Palatka, Putnam, FL, USA",
 "",
 [
-	["E0748","Death","","",594,"Death of Nowak, John H.","",[],[]]
+	["E0748","Death","","",904,"Death of Nowak, John H.","",[],[]]
 ],
 [
 
@@ -28209,12 +28209,12 @@ I = [
 ["I1799","Obrien, Kieran Thomas","Obrien, Kieran Thomas",
 [["Obrien, Kieran Thomas","Birth Name","","","","Kieran Thomas","",["Obrien"],"","","",[]]],
 "M","1981",
-"Tallulah, LA",
+"Tallulah, Madison, LA, USA",
 "",
 "",
 "",
 [
-	["E0923","Birth","1981-09-03","3 SEP 1981",761,"Birth of Obrien, Kieran Thomas","",[],[]],
+	["E0923","Birth","1981-09-03","3 SEP 1981",1133,"Birth of Obrien, Kieran Thomas","",[],[]],
 	["E0924","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -28232,13 +28232,13 @@ I = [
 ["I0613","Oliver, Elizabeth","Oliver, Elizabeth",
 [["Oliver, Elizabeth","Birth Name","","","","Elizabeth","",["Oliver"],"","","",[]]],
 "F","?",
-"Texarkana, AR",
+"Texarkana, Miller, AR, USA",
 "?",
-"Clinton, IA",
+"Clinton, Clinton, IA, USA",
 "unknown",
 [
-	["E2015","Birth","","",766,"Birth of Oliver, Elizabeth","",[],[]],
-	["E2016","Death","","",158,"Death of Oliver, Elizabeth","",[],[]]
+	["E2015","Birth","","",1144,"Birth of Oliver, Elizabeth","",[],[]],
+	["E2016","Death","","",218,"Death of Oliver, Elizabeth","",[],[]]
 ],
 [
 
@@ -28277,14 +28277,14 @@ I = [
 ["I0611","Oliver, Harmonas I","Oliver, Harmonas I",
 [["Oliver, Harmonas I","Birth Name","","","","Harmonas I","",["Oliver"],"","","",[]]],
 "M","?",
-"Rockford, IL",
+"Rockford, Winnebago, IL, USA",
 "?",
-"Napa, CA",
+"Napa, Napa, CA, USA",
 "unknown",
 [
-	["E2011","Birth","","",661,"Birth of Oliver, Harmonas I","",[],[]],
-	["E2012","Death","","",548,"Death of Oliver, Harmonas I","",[],[]],
-	["E2013","Burial","","",548,"Burial of Oliver, Harmonas I","",[],[]]
+	["E2011","Birth","","",994,"Birth of Oliver, Harmonas I","",[],[]],
+	["E2012","Death","","",827,"Death of Oliver, Harmonas I","",[],[]],
+	["E2013","Burial","","",827,"Burial of Oliver, Harmonas I","",[],[]]
 ],
 [
 
@@ -28303,10 +28303,10 @@ I = [
 "M","?",
 "",
 "?",
-"Napa, CA",
+"Napa, Napa, CA, USA",
 "",
 [
-	["E2014","Death","","",548,"Death of Oliver, Harmonas II","",[],[]]
+	["E2014","Death","","",827,"Death of Oliver, Harmonas II","",[],[]]
 ],
 [
 
@@ -28345,12 +28345,12 @@ I = [
 ["I0098","Ortega, Catherine","Ortega, Catherine",
 [["Ortega, Catherine","Birth Name","","","","Catherine","",["Ortega"],"","","",[]]],
 "F","1843",
-"Loveland, CO",
+"Loveland, Larimer, CO, USA",
 "1876",
 "",
 "33 years",
 [
-	["E2693","Birth","1843","1843",461,"Birth of Ortega, Catherine","",[],[]],
+	["E2693","Birth","1843","1843",680,"Birth of Ortega, Catherine","",[],[]],
 	["E2694","Death","1876","1876",-1,"Death of Ortega, Catherine","",[],[]]
 ],
 [
@@ -28434,14 +28434,14 @@ I = [
 ["I0977","Osborne, Aaron Patrick","Osborne, Aaron Patrick",
 [["Osborne, Aaron Patrick","Birth Name","","","","Aaron Patrick","",["Osborne"],"","","",[]]],
 "M","1993",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "1995",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "1 year, 4 months, 22 days",
 [
-	["E2690","Birth","1993-09-23","23 SEP 1993",586,"Birth of Osborne, Aaron Patrick","",[],[]],
-	["E2691","Death","1995-02-15","15 FEB 1995",586,"Death of Osborne, Aaron Patrick","",[],[]],
-	["E2692","Burial","","",82,"Burial of Osborne, Aaron Patrick","",[],[]]
+	["E2690","Birth","1993-09-23","23 SEP 1993",893,"Birth of Osborne, Aaron Patrick","",[],[]],
+	["E2691","Death","1995-02-15","15 FEB 1995",893,"Death of Osborne, Aaron Patrick","",[],[]],
+	["E2692","Burial","","",110,"Burial of Osborne, Aaron Patrick","",[],[]]
 ],
 [
 
@@ -28458,12 +28458,12 @@ I = [
 ["I0459","Osborne, Andrew Cole","Osborne, Andrew Cole",
 [["Osborne, Andrew Cole","Birth Name","","","","Andrew Cole","",["Osborne"],"","","",[]]],
 "M","1996",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E1700","Birth","1996-10-20","20 OCT 1996",586,"Birth of Osborne, Andrew Cole","",[],[]],
+	["E1700","Birth","1996-10-20","20 OCT 1996",893,"Birth of Osborne, Andrew Cole","",[],[]],
 	["E1701","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -28550,12 +28550,12 @@ I = [
 ["I1928","Osborne, Madeline Kathleen","Osborne, Madeline Kathleen",
 [["Osborne, Madeline Kathleen","Birth Name","","","","Madeline Kathleen","",["Osborne"],"","","",[]]],
 "F","1998",
-"Worthington, MN",
+"Worthington, MN, USA",
 "",
 "",
 "",
 [
-	["E1046","Birth","1998-09-19","19 SEP 1998",843,"Birth of Osborne, Madeline Kathleen","",[],[]],
+	["E1046","Birth","1998-09-19","19 SEP 1998",1273,"Birth of Osborne, Madeline Kathleen","",[],[]],
 	["E1047","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -28662,14 +28662,14 @@ I = [
 ["I0194","Page, Andrew Vincent","Page, Andrew Vincent",
 [["Page, Andrew Vincent","Birth Name","","","","Andrew Vincent","",["Page"],"","","",[]]],
 "M","1887",
-"Oskaloosa, IA",
+"Oskaloosa, Mahaska, IA, USA",
 "1979",
-"Elmira, NY",
+"Elmira, Chemung, NY, USA",
 "92 years, 7 months, 22 days",
 [
-	["E1055","Birth","1887-02-05","5 FEB 1887",585,"Birth of Page, Andrew Vincent","",[],[]],
-	["E1056","Death","1979-09-27","27 SEP 1979",242,"Death of Page, Andrew Vincent","",[],[]],
-	["E1057","Burial","1979-09-29","29 SEP 1979",585,"Burial of Page, Andrew Vincent","",[],[]]
+	["E1055","Birth","1887-02-05","5 FEB 1887",891,"Birth of Page, Andrew Vincent","",[],[]],
+	["E1056","Death","1979-09-27","27 SEP 1979",352,"Death of Page, Andrew Vincent","",[],[]],
+	["E1057","Burial","1979-09-29","29 SEP 1979",891,"Burial of Page, Andrew Vincent","",[],[]]
 ],
 [
 
@@ -28686,12 +28686,12 @@ I = [
 ["I1423","Page, Anna","Page, Anna",
 [["Page, Anna","Birth Name","","","","Anna","",["Page"],"","","",[]]],
 "F","1867",
-"Palm Coast, FL",
+"Palm Coast, Flagler, FL, USA",
 "",
 "",
 "",
 [
-	["E0570","Birth","1867","1867",597,"Birth of Page, Anna","",[],[]]
+	["E0570","Birth","1867","1867",908,"Birth of Page, Anna","",[],[]]
 ],
 [
 
@@ -28708,13 +28708,13 @@ I = [
 ["I1436","Page, Belle","Page, Belle",
 [["Page, Belle","Birth Name","","","","Belle","",["Page"],"","","",[]]],
 "F","?",
-"Palm Coast, FL",
+"Palm Coast, Flagler, FL, USA",
 "?",
-"Albany, NY",
+"Albany, Albany, NY, USA",
 "unknown",
 [
-	["E0592","Birth","","",597,"Birth of Page, Belle","",[],[]],
-	["E0593","Death","","",9,"Death of Page, Belle","",[],[]]
+	["E0592","Birth","","",908,"Birth of Page, Belle","",[],[]],
+	["E0593","Death","","",16,"Death of Page, Belle","",[],[]]
 ],
 [
 
@@ -28731,12 +28731,12 @@ I = [
 ["I1662","Page, Brandon Kelly","Page, Brandon Kelly",
 [["Page, Brandon Kelly","Birth Name","","","","Brandon Kelly","",["Page"],"","","",[]]],
 "M","1982",
-"Butte, MT",
+"Butte, MT, USA",
 "",
 "",
 "",
 [
-	["E0769","Birth","1982-11-23","23 NOV 1982",114,"Birth of Page, Brandon Kelly","",[],[]],
+	["E0769","Birth","1982-11-23","23 NOV 1982",154,"Birth of Page, Brandon Kelly","",[],[]],
 	["E0770","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -28754,14 +28754,14 @@ I = [
 ["I0037","Page, Clara Belle","Page, Clara Belle",
 [["Page, Clara Belle","Birth Name","","","","Clara Belle","",["Page"],"","","",[]]],
 "F","1889",
-"Oskaloosa, IA",
+"Oskaloosa, Mahaska, IA, USA",
 "1969",
-"Scranton, PA",
+"Scranton, PA, USA",
 "80 years, 2 months, 6 days",
 [
-	["E1534","Birth","1889-10-14","14 OCT 1889",585,"Birth of Page, Clara Belle","",[],[]],
-	["E1535","Death","1969-12-20","20 DEC 1969",698,"Death of Page, Clara Belle","",[],[]],
-	["E1536","Burial","1969-12-23","23 DEC 1969",345,"Burial of Page, Clara Belle","",[],[]]
+	["E1534","Birth","1889-10-14","14 OCT 1889",891,"Birth of Page, Clara Belle","",[],[]],
+	["E1535","Death","1969-12-20","20 DEC 1969",1044,"Death of Page, Clara Belle","",[],[]],
+	["E1536","Burial","1969-12-23","23 DEC 1969",494,"Burial of Page, Clara Belle","",[],[]]
 ],
 [
 
@@ -28778,12 +28778,12 @@ I = [
 ["I0909","Page, Darvin Ray","Page, Darvin Ray",
 [["Page, Darvin Ray","Birth Name","","","","Darvin Ray","",["Page"],"","","",[]]],
 "M","1967",
-"Palm Bay, FL",
+"Palm Bay, Brevard, FL, USA",
 "",
 "",
 "",
 [
-	["E2546","Birth","1967-03-02","2 MAR 1967",596,"Birth of Page, Darvin Ray","",[],[]],
+	["E2546","Birth","1967-03-02","2 MAR 1967",906,"Birth of Page, Darvin Ray","",[],[]],
 	["E2547","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -28801,14 +28801,14 @@ I = [
 ["I0038","Page, David","Page, David",
 [["Page, David","Birth Name","","","","David","",["Page"],"","","",[]]],
 "M","1850",
-"Watertown, SD",
+"Watertown, SD, USA",
 "1922",
-"Point Pleasant, WV",
+"Point Pleasant, WV, USA",
 "72 years, 9 months, 12 days",
 [
-	["E1553","Birth","1850-01-01","1 JAN 1850",816,"Birth of Page, David","",[],[]],
-	["E1554","Death","1922-10-13","13 OCT 1922",621,"Death of Page, David","",[],[]],
-	["E1555","Burial","1922-10-15","15 OCT 1922",621,"Burial of Page, David","",[],[]]
+	["E1553","Birth","1850-01-01","1 JAN 1850",1228,"Birth of Page, David","",[],[]],
+	["E1554","Death","1922-10-13","13 OCT 1922",939,"Death of Page, David","",[],[]],
+	["E1555","Burial","1922-10-15","15 OCT 1922",939,"Burial of Page, David","",[],[]]
 ],
 [
 
@@ -28825,13 +28825,13 @@ I = [
 ["I1634","Page, David","Page, David",
 [["Page, David","Birth Name","","","","David","",["Page"],"","","",[]]],
 "M","?",
-"Troy, AL",
+"Troy, Pike, AL, USA",
 "1909",
-"Troy, AL",
+"Troy, Pike, AL, USA",
 "unknown",
 [
-	["E0750","Birth","","",776,"Birth of Page, David","",[],[]],
-	["E0751","Death","1909","1909",776,"Death of Page, David","",[],[]]
+	["E0750","Birth","","",1159,"Birth of Page, David","",[],[]],
+	["E0751","Death","1909","1909",1159,"Death of Page, David","",[],[]]
 ],
 [
 
@@ -28848,12 +28848,12 @@ I = [
 ["I0899","Page, David Alan","Page, David Alan",
 [["Page, David Alan","Birth Name","","","","David Alan","",["Page"],"","","",[]]],
 "M","1981",
-"Santa Rosa-Petaluma, CA",
+"Santa Rosa-Petaluma, CA, USA",
 "",
 "",
 "",
 [
-	["E2527","Birth","1981-05-28","28 MAY 1981",693,"Birth of Page, David Alan","",[],[]],
+	["E2527","Birth","1981-05-28","28 MAY 1981",1036,"Birth of Page, David Alan","",[],[]],
 	["E2528","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -28871,12 +28871,12 @@ I = [
 ["I0907","Page, Debra Dale","Page, Debra Dale",
 [["Page, Debra Dale","Birth Name","","","","Debra Dale","",["Page"],"","","",[]]],
 "F","1963",
-"Wheeling, WV-OH",
+"Wheeling, WV-OH, USA",
 "",
 "",
 "",
 [
-	["E2544","Birth","1963-02-15","15 FEB 1963",825,"Birth of Page, Debra Dale","",[],[]],
+	["E2544","Birth","1963-02-15","15 FEB 1963",1244,"Birth of Page, Debra Dale","",[],[]],
 	["E2545","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -28894,12 +28894,12 @@ I = [
 ["I0893","Page, Dwayne Alan","Page, Dwayne Alan",
 [["Page, Dwayne Alan","Birth Name","","","","Dwayne Alan","",["Page"],"","","",[]]],
 "M","1950",
-"Wheeling, WV-OH",
+"Wheeling, WV-OH, USA",
 "",
 "",
 "",
 [
-	["E2519","Birth","1950-04-04","4 APR 1950",825,"Birth of Page, Dwayne Alan","",[],[]],
+	["E2519","Birth","1950-04-04","4 APR 1950",1244,"Birth of Page, Dwayne Alan","",[],[]],
 	["E2520","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -28939,14 +28939,14 @@ I = [
 ["I0196","Page, Edith Mae","Page, Edith Mae",
 [["Page, Edith Mae","Birth Name","","","","Edith Mae","",["Page"],"","","",[]]],
 "F","1885",
-"Oskaloosa, IA",
+"Oskaloosa, Mahaska, IA, USA",
 "1965",
-"Clearlake, CA",
+"Clearlake, Lake, CA, USA",
 "79 years, 11 months, 5 days",
 [
-	["E1079","Birth","1885-05-27","27 MAY 1885",585,"Birth of Page, Edith Mae","",[],[]],
-	["E1080","Death","1965-05-00","MAY 1965",153,"Death of Page, Edith Mae","",[],[]],
-	["E1081","Burial","1965-05-00","MAY 1965",63,"Burial of Page, Edith Mae","",[],[]]
+	["E1079","Birth","1885-05-27","27 MAY 1885",891,"Birth of Page, Edith Mae","",[],[]],
+	["E1080","Death","1965-05-00","MAY 1965",213,"Death of Page, Edith Mae","",[],[]],
+	["E1081","Burial","1965-05-00","MAY 1965",83,"Burial of Page, Edith Mae","",[],[]]
 ],
 [
 
@@ -28963,12 +28963,12 @@ I = [
 ["I0457","Page, Eleanor Irene","Page, Eleanor Irene",
 [["Page, Eleanor Irene","Birth Name","","","","Eleanor Irene","",["Page"],"","","",[]]],
 "F","1921",
-"Bozeman, MT",
+"Bozeman, MT, USA",
 "",
 "",
 "",
 [
-	["E1696","Birth","1921-03-25","25 MAR 1921",95,"Birth of Page, Eleanor Irene","",[],[]],
+	["E1696","Birth","1921-03-25","25 MAR 1921",128,"Birth of Page, Eleanor Irene","",[],[]],
 	["E1697","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -28986,14 +28986,14 @@ I = [
 ["I0195","Page, Eleanor Maude","Page, Eleanor Maude",
 [["Page, Eleanor Maude","Birth Name","","","","Eleanor Maude","",["Page"],"","","",[]]],
 "F","1883",
-"Oskaloosa, IA",
+"Oskaloosa, Mahaska, IA, USA",
 "?",
-"Clearlake, CA",
+"Clearlake, Lake, CA, USA",
 "unknown",
 [
-	["E1068","Birth","1883-10-04","4 OCT 1883",585,"Birth of Page, Eleanor Maude","",[],[]],
-	["E1069","Death","","",153,"Death of Page, Eleanor Maude","",[],[]],
-	["E1070","Burial","","",585,"Burial of Page, Eleanor Maude","",[],[]]
+	["E1068","Birth","1883-10-04","4 OCT 1883",891,"Birth of Page, Eleanor Maude","",[],[]],
+	["E1069","Death","","",213,"Death of Page, Eleanor Maude","",[],[]],
+	["E1070","Burial","","",891,"Burial of Page, Eleanor Maude","",[],[]]
 ],
 [
 
@@ -29010,12 +29010,12 @@ I = [
 ["I1376","Page, Elizabeth","Page, Elizabeth",
 [["Page, Elizabeth","Birth Name","","","","Elizabeth","",["Page"],"","","",[]]],
 "F","1841",
-"Watertown, SD",
+"Watertown, SD, USA",
 "1915",
 "",
 "74 years",
 [
-	["E0489","Birth","1841","1841",816,"Birth of Page, Elizabeth","",[],[]],
+	["E0489","Birth","1841","1841",1228,"Birth of Page, Elizabeth","",[],[]],
 	["E0490","Death","1915","1915",-1,"Death of Page, Elizabeth","",[],[]]
 ],
 [
@@ -29055,12 +29055,12 @@ I = [
 ["I1415","Page, Everett Glenn (Ezra)","Page, Everett Glenn (Ezra)",
 [["Page, Everett Glenn (Ezra)","Birth Name","","","","Everett Glenn (Ezra)","",["Page"],"","","",[]]],
 "M","?",
-"Racine, WI",
+"Racine, WI, USA",
 "",
 "",
 "",
 [
-	["E0563","Birth","","",642,"Birth of Page, Everett Glenn (Ezra)","",[],[]]
+	["E0563","Birth","","",970,"Birth of Page, Everett Glenn (Ezra)","",[],[]]
 ],
 [
 
@@ -29077,12 +29077,12 @@ I = [
 ["I1409","Page, Ferne","Page, Ferne",
 [["Page, Ferne","Birth Name","","","","Ferne","",["Page"],"","","",[]]],
 "F","?",
-"Findlay, OH",
+"Findlay, OH, USA",
 "",
 "",
 "",
 [
-	["E0556","Birth","","",263,"Birth of Page, Ferne","",[],[]]
+	["E0556","Birth","","",381,"Birth of Page, Ferne","",[],[]]
 ],
 [
 
@@ -29099,13 +29099,13 @@ I = [
 ["I1412","Page, Florence","Page, Florence",
 [["Page, Florence","Birth Name","","","","Florence","",["Page"],"","","",[]]],
 "F","?",
-"Racine, WI",
+"Racine, WI, USA",
 "?",
-"Brookings, OR",
+"Brookings, OR, USA",
 "unknown",
 [
-	["E0558","Birth","","",642,"Birth of Page, Florence","",[],[]],
-	["E0559","Death","","",104,"Death of Page, Florence","",[],[]]
+	["E0558","Birth","","",970,"Birth of Page, Florence","",[],[]],
+	["E0559","Death","","",139,"Death of Page, Florence","",[],[]]
 ],
 [
 
@@ -29122,14 +29122,14 @@ I = [
 ["I1414","Page, George Kenneth (Red)","Page, George Kenneth (Red)",
 [["Page, George Kenneth (Red)","Birth Name","","","","George Kenneth (Red)","",["Page"],"","","",[]]],
 "M","1914",
-"Racine, WI",
+"Racine, WI, USA",
 "1936",
-"Troy, AL",
+"Troy, Pike, AL, USA",
 "21 years, 5 months, 20 days",
 [
-	["E0560","Birth","1914-09-28","28 SEP 1914",642,"Birth of Page, George Kenneth (Red)","",[],[]],
-	["E0561","Death","1936-03-18","18 MAR 1936",776,"Death of Page, George Kenneth (Red)","",[],[]],
-	["E0562","Burial","1936-03-20","20 MAR 1936",585,"Burial of Page, George Kenneth (Red)","",[],[]]
+	["E0560","Birth","1914-09-28","28 SEP 1914",970,"Birth of Page, George Kenneth (Red)","",[],[]],
+	["E0561","Death","1936-03-18","18 MAR 1936",1159,"Death of Page, George Kenneth (Red)","",[],[]],
+	["E0562","Burial","1936-03-20","20 MAR 1936",891,"Burial of Page, George Kenneth (Red)","",[],[]]
 ],
 [
 
@@ -29146,12 +29146,12 @@ I = [
 ["I1631","Page, John","Page, John",
 [["Page, John","Birth Name","","","","John","",["Page"],"","","",[]]],
 "M","?",
-"Boone, NC",
+"Boone, NC, USA",
 "",
 "",
 "",
 [
-	["E0747","Birth","","",91,"Birth of Page, John","",[],[]]
+	["E0747","Birth","","",122,"Birth of Page, John","",[],[]]
 ],
 [
 
@@ -29190,14 +29190,14 @@ I = [
 ["I0062","Page, John","Page, John",
 [["Page, John","Birth Name","","","","John","",["Page"],"","","",[]]],
 "M","?",
-"Muncie, IN",
+"Muncie, Delaware, IN, USA",
 "?",
-"Point Pleasant, WV",
+"Point Pleasant, WV, USA",
 "unknown",
 [
-	["E2030","Birth","","",543,"Birth of Page, John","",[],[]],
-	["E2031","Death","","",621,"Death of Page, John","",[],[]],
-	["E2032","Burial","","",621,"Burial of Page, John","",[],[]]
+	["E2030","Birth","","",821,"Birth of Page, John","",[],[]],
+	["E2031","Death","","",939,"Death of Page, John","",[],[]],
+	["E2032","Burial","","",939,"Burial of Page, John","",[],[]]
 ],
 [
 
@@ -29214,14 +29214,14 @@ I = [
 ["I1406","Page, John James","Page, John James",
 [["Page, John James","Birth Name","","","","John James","",["Page"],"","","",[]]],
 "M","?",
-"Crescent City North, CA",
+"Crescent City North, CA, USA",
 "1943",
-"Troy, AL",
+"Troy, Pike, AL, USA",
 "unknown",
 [
-	["E0551","Birth","","",189,"Birth of Page, John James","",[],[]],
-	["E0552","Death","1943-11-18","18 NOV 1943",776,"Death of Page, John James","",[],[]],
-	["E0553","Burial","1943-11-20","20 NOV 1943",585,"Burial of Page, John James","",[],[]]
+	["E0551","Birth","","",267,"Birth of Page, John James","",[],[]],
+	["E0552","Death","1943-11-18","18 NOV 1943",1159,"Death of Page, John James","",[],[]],
+	["E0553","Burial","1943-11-20","20 NOV 1943",891,"Burial of Page, John James","",[],[]]
 ],
 [
 
@@ -29238,12 +29238,12 @@ I = [
 ["I1660","Page, Kenneth Fritz","Page, Kenneth Fritz",
 [["Page, Kenneth Fritz","Birth Name","","","","Kenneth Fritz","",["Page"],"","","",[]]],
 "M","1951",
-"Brenham, TX",
+"Brenham, Washington, TX, USA",
 "",
 "",
 "",
 [
-	["E0767","Birth","1951-09-17","17 SEP 1951",99,"Birth of Page, Kenneth Fritz","",[],[]]
+	["E0767","Birth","1951-09-17","17 SEP 1951",133,"Birth of Page, Kenneth Fritz","",[],[]]
 ],
 [
 
@@ -29260,14 +29260,14 @@ I = [
 ["I1389","Page, Margaret","Page, Margaret",
 [["Page, Margaret","Birth Name","","","","Margaret","",["Page"],"","","",[]]],
 "F","1851",
-"Muncie, IN",
+"Muncie, Delaware, IN, USA",
 "1925",
-"Newton, IA",
+"Newton, Jasper, IA, USA",
 "74 years, 9 months, 12 days",
 [
-	["E0510","Birth","1851-02-10","10 FEB 1851",543,"Birth of Page, Margaret","",[],[]],
-	["E0511","Death","1925-11-22","22 NOV 1925",561,"Death of Page, Margaret","",[],[]],
-	["E0512","Burial","1925-11-24","24 NOV 1925",621,"Burial of Page, Margaret","",[],[]]
+	["E0510","Birth","1851-02-10","10 FEB 1851",821,"Birth of Page, Margaret","",[],[]],
+	["E0511","Death","1925-11-22","22 NOV 1925",849,"Death of Page, Margaret","",[],[]],
+	["E0512","Burial","1925-11-24","24 NOV 1925",939,"Burial of Page, Margaret","",[],[]]
 ],
 [
 
@@ -29284,12 +29284,12 @@ I = [
 ["I1629","Page, Margaret","Page, Margaret",
 [["Page, Margaret","Birth Name","","","","Margaret","",["Page"],"","","",[]]],
 "F","?",
-"Alpena, MI",
+"Alpena, MI, USA",
 "",
 "",
 "",
 [
-	["E0743","Birth","","",21,"Birth of Page, Margaret","",[],[]]
+	["E0743","Birth","","",30,"Birth of Page, Margaret","",[],[]]
 ],
 [
 
@@ -29306,12 +29306,12 @@ I = [
 ["I0897","Page, Marvin Ray","Page, Marvin Ray",
 [["Page, Marvin Ray","Birth Name","","","","Marvin Ray","",["Page"],"","","",[]]],
 "M","1941",
-"Wheeling, WV-OH",
+"Wheeling, WV-OH, USA",
 "",
 "",
 "",
 [
-	["E2525","Birth","1941-07-30","30 JUL 1941",825,"Birth of Page, Marvin Ray","",[],[]],
+	["E2525","Birth","1941-07-30","30 JUL 1941",1244,"Birth of Page, Marvin Ray","",[],[]],
 	["E2526","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -29329,13 +29329,13 @@ I = [
 ["I1434","Page, Mary","Page, Mary",
 [["Page, Mary","Birth Name","","","","Mary","",["Page"],"","","",[]]],
 "F","1880",
-"Palm Coast, FL",
+"Palm Coast, Flagler, FL, USA",
 "1880",
-"Palm Coast, FL",
+"Palm Coast, Flagler, FL, USA",
 "0 days",
 [
-	["E0588","Birth","1880","1880",597,"Birth of Page, Mary","",[],[]],
-	["E0589","Death","1880","1880",597,"Death of Page, Mary","",[],[]]
+	["E0588","Birth","1880","1880",908,"Birth of Page, Mary","",[],[]],
+	["E0589","Death","1880","1880",908,"Death of Page, Mary","",[],[]]
 ],
 [
 
@@ -29349,38 +29349,16 @@ I = [
 [[454,"Birth","Birth","",[]]],
 []
 ],
-["I1630","Page, Matilda","Page, Matilda",
-[["Page, Matilda","Birth Name","","","","Matilda","",["Page"],"","","",[]]],
-"F","?",
-"Alpena, MI",
-"",
-"",
-"",
-[
-	["E0746","Birth","","",21,"Birth of Page, Matilda","",[],[]]
-],
-[
-
-],
-"",
-[],
-[],
-[],
-[],
-[],
-[[461,"Birth","Birth","",[]]],
-[]
-],
 ["I1438","Page, Matilda","Page, Matilda",
 [["Page, Matilda","Birth Name","","","","Matilda","",["Page"],"","","",[]]],
 "F","?",
-"Palm Coast, FL",
+"Palm Coast, Flagler, FL, USA",
 "?",
-"Cambridge, MA",
+"Cambridge, Middlesex, MA, USA",
 "unknown",
 [
-	["E0595","Birth","","",597,"Birth of Page, Matilda","",[],[]],
-	["E0596","Death","","",118,"Death of Page, Matilda","",[],[]]
+	["E0595","Birth","","",908,"Birth of Page, Matilda","",[],[]],
+	["E0596","Death","","",162,"Death of Page, Matilda","",[],[]]
 ],
 [
 
@@ -29394,17 +29372,39 @@ I = [
 [[454,"Birth","Birth","",[]]],
 []
 ],
+["I1630","Page, Matilda","Page, Matilda",
+[["Page, Matilda","Birth Name","","","","Matilda","",["Page"],"","","",[]]],
+"F","?",
+"Alpena, MI, USA",
+"",
+"",
+"",
+[
+	["E0746","Birth","","",30,"Birth of Page, Matilda","",[],[]]
+],
+[
+
+],
+"",
+[],
+[],
+[],
+[],
+[],
+[[461,"Birth","Birth","",[]]],
+[]
+],
 ["I1418","Page, Maude","Page, Maude",
 [["Page, Maude","Birth Name","","","","Maude","",["Page"],"","","",[]]],
 "F","1900",
-"Corsicana, TX",
+"Corsicana, Navarro, TX, USA",
 "1987",
-"Brookhaven, MS",
+"Brookhaven, MS, USA",
 "86 years, 6 months, 3 days",
 [
-	["E0565","Birth","1900-09-21","21 SEP 1900",184,"Birth of Page, Maude","",[],[]],
-	["E0566","Death","1987-03-24","24 MAR 1987",103,"Death of Page, Maude","",[],[]],
-	["E0567","Burial","1987-03-26","26 MAR 1987",621,"Burial of Page, Maude","",[],[]]
+	["E0565","Birth","1900-09-21","21 SEP 1900",258,"Birth of Page, Maude","",[],[]],
+	["E0566","Death","1987-03-24","24 MAR 1987",138,"Death of Page, Maude","",[],[]],
+	["E0567","Burial","1987-03-26","26 MAR 1987",939,"Burial of Page, Maude","",[],[]]
 ],
 [
 
@@ -29421,12 +29421,12 @@ I = [
 ["I1416","Page, Mildred","Page, Mildred",
 [["Page, Mildred","Birth Name","","","","Mildred","",["Page"],"","","",[]]],
 "F","?",
-"Racine, WI",
+"Racine, WI, USA",
 "",
 "",
 "",
 [
-	["E0564","Birth","","",642,"Birth of Page, Mildred","",[],[]]
+	["E0564","Birth","","",970,"Birth of Page, Mildred","",[],[]]
 ],
 [
 
@@ -29443,12 +29443,12 @@ I = [
 ["I0900","Page, Mitchell Lee","Page, Mitchell Lee",
 [["Page, Mitchell Lee","Birth Name","","","","Mitchell Lee","",["Page"],"","","",[]]],
 "M","1983",
-"Santa Rosa-Petaluma, CA",
+"Santa Rosa-Petaluma, CA, USA",
 "",
 "",
 "",
 [
-	["E2534","Birth","1983-08-17","17 AUG 1983",693,"Birth of Page, Mitchell Lee","",[],[]],
+	["E2534","Birth","1983-08-17","17 AUG 1983",1036,"Birth of Page, Mitchell Lee","",[],[]],
 	["E2535","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -29488,13 +29488,13 @@ I = [
 ["I1435","Page, Rebecca","Page, Rebecca",
 [["Page, Rebecca","Birth Name","","","","Rebecca","",["Page"],"","","",[]]],
 "F","1880",
-"Palm Coast, FL",
+"Palm Coast, Flagler, FL, USA",
 "1880",
-"Palm Coast, FL",
+"Palm Coast, Flagler, FL, USA",
 "0 days",
 [
-	["E0590","Birth","1880","1880",597,"Birth of Page, Rebecca","",[],[]],
-	["E0591","Death","1880","1880",597,"Death of Page, Rebecca","",[],[]]
+	["E0590","Birth","1880","1880",908,"Birth of Page, Rebecca","",[],[]],
+	["E0591","Death","1880","1880",908,"Death of Page, Rebecca","",[],[]]
 ],
 [
 
@@ -29533,13 +29533,13 @@ I = [
 ["I1387","Page, Robert","Page, Robert",
 [["Page, Robert","Birth Name","","","","Robert","",["Page"],"","","",[]]],
 "M","1847",
-"Palm Coast, FL",
+"Palm Coast, Flagler, FL, USA",
 "1928",
-"Newton, IA",
+"Newton, Jasper, IA, USA",
 "80 years, 9 months, 11 days",
 [
-	["E0508","Birth","1847-06-11","11 JUN 1847",597,"Birth of Page, Robert","",[],[]],
-	["E0509","Death","1928-03-22","22 MAR 1928",561,"Death of Page, Robert","",[],[]]
+	["E0508","Birth","1847-06-11","11 JUN 1847",908,"Birth of Page, Robert","",[],[]],
+	["E0509","Death","1928-03-22","22 MAR 1928",849,"Death of Page, Robert","",[],[]]
 ],
 [
 
@@ -29558,10 +29558,10 @@ I = [
 "M","?",
 "",
 "?",
-"Findlay, OH",
+"Findlay, OH, USA",
 "",
 [
-	["E0557","Death","","",263,"Death of Page, Robert Francis","",[],[]]
+	["E0557","Death","","",381,"Death of Page, Robert Francis","",[],[]]
 ],
 [
 
@@ -29622,12 +29622,12 @@ I = [
 ["I0895","Page, Sylvia Louise","Page, Sylvia Louise",
 [["Page, Sylvia Louise","Birth Name","","","","Sylvia Louise","",["Page"],"","","",[]]],
 "F","1939",
-"Wheeling, WV-OH",
+"Wheeling, WV-OH, USA",
 "",
 "",
 "",
 [
-	["E2521","Birth","1939-08-21","21 AUG 1939",825,"Birth of Page, Sylvia Louise","",[],[]],
+	["E2521","Birth","1939-08-21","21 AUG 1939",1244,"Birth of Page, Sylvia Louise","",[],[]],
 	["E2522","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -29645,12 +29645,12 @@ I = [
 ["I0901","Page, Todd Christopher","Page, Todd Christopher",
 [["Page, Todd Christopher","Birth Name","","","","Todd Christopher","",["Page"],"","","",[]]],
 "M","1992",
-"Santa Rosa-Petaluma, CA",
+"Santa Rosa-Petaluma, CA, USA",
 "",
 "",
 "",
 [
-	["E2536","Birth","1992-01-10","10 JAN 1992",693,"Birth of Page, Todd Christopher","",[],[]],
+	["E2536","Birth","1992-01-10","10 JAN 1992",1036,"Birth of Page, Todd Christopher","",[],[]],
 	["E2537","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -29668,12 +29668,12 @@ I = [
 ["I0456","Page, Vernett Gail","Page, Vernett Gail",
 [["Page, Vernett Gail","Birth Name","","","","Vernett Gail","",["Page"],"","","",[]]],
 "M","1911",
-"Gaithersburg, MD",
+"Gaithersburg, MD, USA",
 "1998",
 "",
 "87 years, 6 months, 3 days",
 [
-	["E1694","Birth","1911-02-26","26 FEB 1911",294,"Birth of Page, Vernett Gail","",[],[]],
+	["E1694","Birth","1911-02-26","26 FEB 1911",425,"Birth of Page, Vernett Gail","",[],[]],
 	["E1695","Death","1998-08-29","29 AUG 1998",-1,"Death of Page, Vernett Gail","",[],[]]
 ],
 [
@@ -29737,10 +29737,10 @@ I = [
 "F","?",
 "",
 "1819",
-"Springfield, MO",
+"Springfield, MO, USA",
 "",
 [
-	["E1835","Death","1819-10-09","9 OCT 1819",734,"Death of Palmer, Sarah","",[],[]]
+	["E1835","Death","1819-10-09","9 OCT 1819",1088,"Death of Palmer, Sarah","",[],[]]
 ],
 [
 
@@ -29801,14 +29801,14 @@ I = [
 ["I0475","Parent, Capt.Jacob C.","Parent, Capt.Jacob C.",
 [["Parent, Capt.Jacob C.","Birth Name","","","","Capt.Jacob C.","",["Parent"],"","","",[]]],
 "M","?",
-"Marshall, MO",
+"Marshall, MO, USA",
 "1811",
-"Cleveland, MS",
+"Cleveland, MS, USA",
 "unknown",
 [
-	["E1743","Birth","","",483,"Birth of Parent, Capt.Jacob C.","",[],[]],
-	["E1744","Death","1811-11-09","9 NOV 1811",155,"Death of Parent, Capt.Jacob C.","",[],[]],
-	["E1745","Burial","1811-11-11","11 NOV 1811",210,"Burial of Parent, Capt.Jacob C.","",[],[]]
+	["E1743","Birth","","",722,"Birth of Parent, Capt.Jacob C.","",[],[]],
+	["E1744","Death","1811-11-09","9 NOV 1811",215,"Death of Parent, Capt.Jacob C.","",[],[]],
+	["E1745","Burial","1811-11-11","11 NOV 1811",303,"Burial of Parent, Capt.Jacob C.","",[],[]]
 ],
 [
 
@@ -29825,14 +29825,14 @@ I = [
 ["I0474","Parent, Eleanor","Parent, Eleanor",
 [["Parent, Eleanor","Birth Name","","","","Eleanor","",["Parent"],"","","",[]]],
 "F","1799",
-"Santa Cruz, CA",
+"Santa Cruz, Santa Cruz, CA, USA",
 "?",
-"Marshall, TX",
+"Marshall, Harrison, TX, USA",
 "unknown",
 [
-	["E1740","Birth","1799-05-09","9 MAY 1799",690,"Birth of Parent, Eleanor","",[],[]],
-	["E1741","Death","","",484,"Death of Parent, Eleanor","",[],[]],
-	["E1742","Burial","","",484,"Burial of Parent, Eleanor","",[],[]]
+	["E1740","Birth","1799-05-09","9 MAY 1799",1032,"Birth of Parent, Eleanor","",[],[]],
+	["E1741","Death","","",723,"Death of Parent, Eleanor","",[],[]],
+	["E1742","Burial","","",723,"Burial of Parent, Eleanor","",[],[]]
 ],
 [
 
@@ -29959,12 +29959,12 @@ I = [
 ["I1499","Parent, Montgomery","Parent, Montgomery",
 [["Parent, Montgomery","Birth Name","","","","Montgomery","",["Parent"],"","","",[]]],
 "M","1797",
-"San Sebastián, PR",
+"San Sebastián, PR, USA",
 "",
 "",
 "",
 [
-	["E0658","Birth","1797","1797",686,"Birth of Parent, Montgomery","",[],[]]
+	["E0658","Birth","1797","1797",1026,"Birth of Parent, Montgomery","",[],[]]
 ],
 [
 
@@ -30071,10 +30071,10 @@ I = [
 "F","?",
 "",
 "1871",
-"Mountain Home, ID",
+"Mountain Home, Elmore, ID, USA",
 "",
 [
-	["E1725","Death","1871-04-28","28 APR 1871",542,"Death of Park, Susannah","",[],[]]
+	["E1725","Death","1871-04-28","28 APR 1871",816,"Death of Park, Susannah","",[],[]]
 ],
 [
 
@@ -30181,10 +30181,10 @@ I = [
 "M","?",
 "",
 "1999",
-"Warren, PA",
+"Warren, PA, USA",
 "",
 [
-	["E2157","Death","1999-04-18","18 APR 1999",807,"Death of Patrick, Robert","",[],[]]
+	["E2157","Death","1999-04-18","18 APR 1999",1216,"Death of Patrick, Robert","",[],[]]
 ],
 [
 
@@ -30269,11 +30269,11 @@ I = [
 "F","1772",
 "",
 "?",
-"Seymour, IN",
+"Seymour, Jackson, IN, USA",
 "unknown",
 [
 	["E1025","Birth","1772-08-08","8 AUG 1772",-1,"Birth of Payne, Elizabeth","",[],[]],
-	["E1026","Death","","",707,"Death of Payne, Elizabeth","",[],[]]
+	["E1026","Death","","",1057,"Death of Payne, Elizabeth","",[],[]]
 ],
 [
 
@@ -30290,12 +30290,12 @@ I = [
 ["I1885","Payne, Fielding","Payne, Fielding",
 [["Payne, Fielding","Birth Name","","","","Fielding","",["Payne"],"","","",[]]],
 "M","1788",
-"De Ridder, LA",
+"De Ridder, LA, USA",
 "",
 "",
 "",
 [
-	["E1009","Birth","1788-01-03","3 JAN 1788",201,"Birth of Payne, Fielding","",[],[]]
+	["E1009","Birth","1788-01-03","3 JAN 1788",288,"Birth of Payne, Fielding","",[],[]]
 ],
 [
 
@@ -30334,14 +30334,14 @@ I = [
 ["I0955","Payne, George","Payne, George",
 [["Payne, George","Birth Name","","","","George","",["Payne"],"","","",[]]],
 "M","1747",
-"Lock Haven, PA",
+"Lock Haven, PA, USA",
 "1821",
-"Jackson, MI",
+"Jackson, MI, USA",
 "73 years, 10 months, 18 days",
 [
-	["E2628","Birth","1747-08-22","22 AUG 1747",454,"Birth of Payne, George","",[],[]],
-	["E2629","Death","1821-07-09","9 JUL 1821",372,"Death of Payne, George","",[],[]],
-	["E2630","Burial","1821-07-11","11 JUL 1821",372,"Burial of Payne, George","",[],[]]
+	["E2628","Birth","1747-08-22","22 AUG 1747",669,"Birth of Payne, George","",[],[]],
+	["E2629","Death","1821-07-09","9 JUL 1821",547,"Death of Payne, George","",[],[]],
+	["E2630","Burial","1821-07-11","11 JUL 1821",547,"Burial of Payne, George","",[],[]]
 ],
 [
 
@@ -30358,12 +30358,12 @@ I = [
 ["I1892","Payne, James","Payne, James",
 [["Payne, James","Birth Name","","","","James","",["Payne"],"","","",[]]],
 "M","?",
-"Steubenville, OH",
+"Steubenville, OH, USA",
 "",
 "",
 "",
 [
-	["E1013","Birth","","",747,"Birth of Payne, James","",[],[]]
+	["E1013","Birth","","",1111,"Birth of Payne, James","",[],[]]
 ],
 [
 
@@ -30380,14 +30380,14 @@ I = [
 ["I0722","Payne, Jane Coppage","Payne, Jane Coppage",
 [["Payne, Jane Coppage","Birth Name","","","","Jane Coppage","",["Payne"],"","","",[]]],
 "F","?",
-"Laredo, TX",
+"Laredo, Webb, TX, USA",
 "1873",
-"Norfolk, NE",
+"Norfolk, NE, USA",
 "unknown",
 [
-	["E2196","Birth","","",428,"Birth of Payne, Jane Coppage","",[],[]],
-	["E2197","Death","1873-06-07","7 JUN 1873",564,"Death of Payne, Jane Coppage","",[],[]],
-	["E2198","Burial","1873-06-07","7 JUN 1873",586,"Burial of Payne, Jane Coppage","",[],[]]
+	["E2196","Birth","","",628,"Birth of Payne, Jane Coppage","",[],[]],
+	["E2197","Death","1873-06-07","7 JUN 1873",858,"Death of Payne, Jane Coppage","",[],[]],
+	["E2198","Burial","1873-06-07","7 JUN 1873",893,"Burial of Payne, Jane Coppage","",[],[]]
 ],
 [
 
@@ -30404,14 +30404,14 @@ I = [
 ["I0960","Payne, Leonard","Payne, Leonard",
 [["Payne, Leonard","Birth Name","","","","Leonard","",["Payne"],"","","",[]]],
 "M","?",
-"Fort Lauderdale, FL",
+"Fort Lauderdale, Broward, FL, USA",
 "1745",
-"Duluth, MN",
+"Duluth, MN, USA",
 "about 90 years, 9 months",
 [
-	["E2644","Birth","about 1655","ABT 1655",274,"Birth of Payne, Leonard","",[],[]],
-	["E2645","Death","1745-10-00","OCT 1745",221,"Death of Payne, Leonard","",[],[]],
-	["E2646","Burial","1745","1745",221,"Burial of Payne, Leonard","",[],[]]
+	["E2644","Birth","about 1655","ABT 1655",397,"Birth of Payne, Leonard","",[],[]],
+	["E2645","Death","1745-10-00","OCT 1745",322,"Death of Payne, Leonard","",[],[]],
+	["E2646","Burial","1745","1745",322,"Burial of Payne, Leonard","",[],[]]
 ],
 [
 
@@ -30428,14 +30428,14 @@ I = [
 ["I0962","Payne, Leonard?","Payne, Leonard?",
 [["Payne, Leonard?","Birth Name","","","","Leonard?","",["Payne"],"","","",[]]],
 "M","?",
-"Duluth, MN",
+"Duluth, MN, USA",
 "?",
-"Duluth, MN",
+"Duluth, MN, USA",
 "more than 37 years",
 [
-	["E2649","Birth","before 1720","BEF 1720",221,"Birth of Payne, Leonard?","",[],[]],
-	["E2650","Death","after 1757","AFT 1757",221,"Death of Payne, Leonard?","",[],[]],
-	["E2651","Burial","","",221,"Burial of Payne, Leonard?","",[],[]]
+	["E2649","Birth","before 1720","BEF 1720",322,"Birth of Payne, Leonard?","",[],[]],
+	["E2650","Death","after 1757","AFT 1757",322,"Death of Payne, Leonard?","",[],[]],
+	["E2651","Burial","","",322,"Burial of Payne, Leonard?","",[],[]]
 ],
 [
 
@@ -30540,12 +30540,12 @@ I = [
 ["I1887","Payne, Winifred","Payne, Winifred",
 [["Payne, Winifred","Birth Name","","","","Winifred","",["Payne"],"","","",[]]],
 "F","?",
-"De Ridder, LA",
+"De Ridder, LA, USA",
 "",
 "",
 "",
 [
-	["E1010","Birth","","",201,"Birth of Payne, Winifred","",[],[]]
+	["E1010","Birth","","",288,"Birth of Payne, Winifred","",[],[]]
 ],
 [
 
@@ -30629,13 +30629,13 @@ I = [
 ["I0174","Pelletier, Josephine","Pelletier, Josephine",
 [["Pelletier, Josephine","Birth Name","","","","Josephine","",["Pelletier"],"","","",[]]],
 "F","1922",
-"Levelland, TX",
+"Levelland, Hockley, TX, USA",
 "1998",
-"Worthington, MN",
+"Worthington, MN, USA",
 "76 years, 8 days",
 [
-	["E0860","Birth","1922-09-07","7 SEP 1922",439,"Birth of Pelletier, Josephine","",[],[]],
-	["E0861","Death","1998-09-15","15 SEP 1998",843,"Death of Pelletier, Josephine","",[],[]]
+	["E0860","Birth","1922-09-07","7 SEP 1922",649,"Birth of Pelletier, Josephine","",[],[]],
+	["E0861","Death","1998-09-15","15 SEP 1998",1273,"Death of Pelletier, Josephine","",[],[]]
 ],
 [
 
@@ -30851,14 +30851,14 @@ I = [
 ["I0851","Peters, George Sr.","Peters, George Sr.",
 [["Peters, George Sr.","Birth Name","","","","George Sr.","",["Peters"],"","","",[]]],
 "M","?",
-"Salisbury, NC",
+"Salisbury, NC, USA",
 "1648",
-"Lamesa, TX",
+"Lamesa, Dawson, TX, USA",
 "more than 65 years",
 [
-	["E2428","Birth","before 1583","BEF 1583",677,"Birth of Peters, George Sr.","",[],[]],
-	["E2429","Death","1648","1648",423,"Death of Peters, George Sr.","",[],[]],
-	["E2430","Burial","","",458,"Burial of Peters, George Sr.","",[],[]]
+	["E2428","Birth","before 1583","BEF 1583",1012,"Birth of Peters, George Sr.","",[],[]],
+	["E2429","Death","1648","1648",622,"Death of Peters, George Sr.","",[],[]],
+	["E2430","Burial","","",675,"Burial of Peters, George Sr.","",[],[]]
 ],
 [
 
@@ -30920,14 +30920,14 @@ I = [
 ["I0753","Peters, Rose","Peters, Rose",
 [["Peters, Rose","Birth Name","","","","Rose","",["Peters"],"","","",[]]],
 "F","1608",
-"Hilo, HI",
+"Hilo, HI, USA",
 "1695",
-"Florence, AL",
+"Florence, Lauderdale, AL, USA",
 "87 years",
 [
-	["E2244","Birth","1608","1608",348,"Birth of Peters, Rose","",[],[]],
-	["E2245","Death","1695","1695",267,"Death of Peters, Rose","",[],[]],
-	["E2246","Burial","","",224,"Burial of Peters, Rose","",[],[]]
+	["E2244","Birth","1608","1608",502,"Birth of Peters, Rose","",[],[]],
+	["E2245","Death","1695","1695",388,"Death of Peters, Rose","",[],[]],
+	["E2246","Burial","","",325,"Burial of Peters, Rose","",[],[]]
 ],
 [
 
@@ -30966,12 +30966,12 @@ I = [
 ["I0109","Phillips, Anita Irene","Phillips, Anita Irene",
 [["Phillips, Anita Irene","Birth Name","","","","Anita Irene","",["Phillips"],"","","",[]]],
 "F","1947",
-"Decatur, IL",
+"Decatur, Macon, IL, USA",
 "",
 "",
 "",
 [
-	["E0158","Birth","1947-07-16","16 JUL 1947",203,"Birth of Phillips, Anita Irene","",[],[]],
+	["E0158","Birth","1947-07-16","16 JUL 1947",294,"Birth of Phillips, Anita Irene","",[],[]],
 	["E0159","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -31011,13 +31011,13 @@ I = [
 ["I0072","Piotrowski, John","Piotrowski, John",
 [["Piotrowski, John","Birth Name","","","","John","",["Piotrowski"],"","","",[]]],
 "M","1613",
-"Daphne, AL",
+"Daphne, Baldwin, AL, USA",
 "1670",
-"Ashtabula, OH",
+"Ashtabula, OH, USA",
 "57 years",
 [
-	["E2190","Birth","1613","1613",198,"Birth of Piotrowski, John","",[],[]],
-	["E2191","Death","1670","1670",41,"Death of Piotrowski, John","",[],[]]
+	["E2190","Birth","1613","1613",281,"Birth of Piotrowski, John","",[],[]],
+	["E2191","Death","1670","1670",54,"Death of Piotrowski, John","",[],[]]
 ],
 [
 
@@ -31078,13 +31078,13 @@ I = [
 ["I0723","Piotrowski, Sir John","Piotrowski, Sir John",
 [["Piotrowski, Sir John","Birth Name","","","","Sir John","",["Piotrowski"],"","","",[]]],
 "M","?",
-"Hilo, HI",
+"Hilo, HI, USA",
 "?",
-"Hilo, HI",
+"Hilo, HI, USA",
 "unknown",
 [
-	["E2199","Birth","","",348,"Birth of Piotrowski, Sir John","",[],[]],
-	["E2200","Death","","",348,"Death of Piotrowski, Sir John","",[],[]]
+	["E2199","Birth","","",502,"Birth of Piotrowski, Sir John","",[],[]],
+	["E2200","Death","","",502,"Death of Piotrowski, Sir John","",[],[]]
 ],
 [
 
@@ -31101,13 +31101,13 @@ I = [
 ["I0725","Piotrowski, Sir Michael","Piotrowski, Sir Michael",
 [["Piotrowski, Sir Michael","Birth Name","","","","Sir Michael","",["Piotrowski"],"","","",[]]],
 "M","?",
-"Hilo, HI",
+"Hilo, HI, USA",
 "?",
-"Hilo, HI",
+"Hilo, HI, USA",
 "unknown",
 [
-	["E2201","Birth","","",348,"Birth of Piotrowski, Sir Michael","",[],[]],
-	["E2202","Death","","",348,"Death of Piotrowski, Sir Michael","",[],[]]
+	["E2201","Birth","","",502,"Birth of Piotrowski, Sir Michael","",[],[]],
+	["E2202","Death","","",502,"Death of Piotrowski, Sir Michael","",[],[]]
 ],
 [
 
@@ -31168,12 +31168,12 @@ I = [
 ["I0321","Poirier, Janelle Marie","Poirier, Janelle Marie",
 [["Poirier, Janelle Marie","Birth Name","","","","Janelle Marie","",["Poirier"],"","","",[]]],
 "F","1971",
-"DuBois, PA",
+"DuBois, PA, USA",
 "",
 "",
 "",
 [
-	["E1426","Birth","1971-08-02","2 AUG 1971",219,"Birth of Poirier, Janelle Marie","",[],[]],
+	["E1426","Birth","1971-08-02","2 AUG 1971",319,"Birth of Poirier, Janelle Marie","",[],[]],
 	["E1427","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -31191,12 +31191,12 @@ I = [
 ["I0322","Poirier, Jeffrey Alan","Poirier, Jeffrey Alan",
 [["Poirier, Jeffrey Alan","Birth Name","","","","Jeffrey Alan","",["Poirier"],"","","",[]]],
 "M","1974",
-"Altoona, PA",
+"Altoona, PA, USA",
 "",
 "",
 "",
 [
-	["E1428","Birth","1974-07-09","9 JUL 1974",22,"Birth of Poirier, Jeffrey Alan","",[],[]],
+	["E1428","Birth","1974-07-09","9 JUL 1974",31,"Birth of Poirier, Jeffrey Alan","",[],[]],
 	["E1429","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -31478,12 +31478,12 @@ I = [
 ["I0454","Poulsen, Chelsea Dawn","Poulsen, Chelsea Dawn",
 [["Poulsen, Chelsea Dawn","Birth Name","","","","Chelsea Dawn","",["Poulsen"],"","","",[]]],
 "F","1986",
-"Vallejo, CA",
+"Vallejo, Solano, CA, USA",
 "",
 "",
 "",
 [
-	["E1690","Birth","1986-12-30","30 DEC 1986",791,"Birth of Poulsen, Chelsea Dawn","",[],[]],
+	["E1690","Birth","1986-12-30","30 DEC 1986",1187,"Birth of Poulsen, Chelsea Dawn","",[],[]],
 	["E1691","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -31501,12 +31501,12 @@ I = [
 ["I1081","Poulsen, Cole Randall","Poulsen, Cole Randall",
 [["Poulsen, Cole Randall","Birth Name","","","","Cole Randall","",["Poulsen"],"","","",[]]],
 "M","1991",
-"Vallejo, CA",
+"Vallejo, Solano, CA, USA",
 "",
 "",
 "",
 [
-	["E0146","Birth","1991-12-08","8 DEC 1991",791,"Birth of Poulsen, Cole Randall","",[],[]],
+	["E0146","Birth","1991-12-08","8 DEC 1991",1187,"Birth of Poulsen, Cole Randall","",[],[]],
 	["E0147","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -31524,12 +31524,12 @@ I = [
 ["I0455","Poulsen, Curtis Theobald","Poulsen, Curtis Theobald",
 [["Poulsen, Curtis Theobald","Birth Name","","","","Curtis Theobald","",["Poulsen"],"","","",[]]],
 "M","1988",
-"Vallejo, CA",
+"Vallejo, Solano, CA, USA",
 "",
 "",
 "",
 [
-	["E1692","Birth","1988-08-19","19 AUG 1988",791,"Birth of Poulsen, Curtis Theobald","",[],[]],
+	["E1692","Birth","1988-08-19","19 AUG 1988",1187,"Birth of Poulsen, Curtis Theobald","",[],[]],
 	["E1693","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -31570,13 +31570,13 @@ I = [
 ["I1170","Powell, Martha","Powell, Martha",
 [["Powell, Martha","Birth Name","","","","Martha","",["Powell"],"","","",[]]],
 "F","?",
-"Connersville, IN",
+"Connersville, Fayette, IN, USA",
 "1611",
-"Milwaukee, WI",
+"Milwaukee, WI, USA",
 "unknown",
 [
-	["E0276","Birth","","",175,"Birth of Powell, Martha","",[],[]],
-	["E0277","Burial","1611-01-11","11 JAN 1611",513,"Burial of Powell, Martha","",[],[]]
+	["E0276","Birth","","",248,"Birth of Powell, Martha","",[],[]],
+	["E0277","Burial","1611-01-11","11 JAN 1611",771,"Burial of Powell, Martha","",[],[]]
 ],
 [
 
@@ -31593,12 +31593,12 @@ I = [
 ["I0293","Powers, Nancy Lou","Powers, Nancy Lou",
 [["Powers, Nancy Lou","Birth Name","","","","Nancy Lou","",["Powers"],"","","",[]]],
 "F","1945",
-"Santa Rosa-Petaluma, CA",
+"Santa Rosa-Petaluma, CA, USA",
 "",
 "",
 "",
 [
-	["E1363","Birth","1945-08-28","28 AUG 1945",693,"Birth of Powers, Nancy Lou","",[],[]],
+	["E1363","Birth","1945-08-28","28 AUG 1945",1036,"Birth of Powers, Nancy Lou","",[],[]],
 	["E1364","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -31662,11 +31662,11 @@ I = [
 "M","1838",
 "",
 "1916",
-"Reno-Sparks, NV",
+"Reno-Sparks, NV, USA",
 "77 years, 9 months, 23 days",
 [
 	["E0783","Birth","1838-04-25","25 APR 1838",-1,"Birth of Quinn, Abraham","",[],[]],
-	["E0784","Death","1916-02-18","18 FEB 1916",649,"Death of Quinn, Abraham","",[],[]]
+	["E0784","Death","1916-02-18","18 FEB 1916",979,"Death of Quinn, Abraham","",[],[]]
 ],
 [
 
@@ -31683,14 +31683,14 @@ I = [
 ["I0877","Quinn, Abram","Quinn, Abram",
 [["Quinn, Abram","Birth Name","","","","Abram","",["Quinn"],"","","",[]]],
 "M","1838",
-"Mountain Home, ID",
+"Mountain Home, Elmore, ID, USA",
 "1916",
-"Deltona, FL",
+"Deltona, Volusia, FL, USA",
 "77 years, 9 months, 23 days",
 [
-	["E2482","Birth","1838-04-25","25 APR 1838",542,"Birth of Quinn, Abram","",[],[]],
-	["E2483","Death","1916-02-18","18 FEB 1916",207,"Death of Quinn, Abram","",[],[]],
-	["E2484","Burial","1916-02-00","FEB 1916",46,"Burial of Quinn, Abram","",[],[]]
+	["E2482","Birth","1838-04-25","25 APR 1838",816,"Birth of Quinn, Abram","",[],[]],
+	["E2483","Death","1916-02-18","18 FEB 1916",300,"Death of Quinn, Abram","",[],[]],
+	["E2484","Burial","1916-02-00","FEB 1916",60,"Burial of Quinn, Abram","",[],[]]
 ],
 [
 
@@ -31707,13 +31707,13 @@ I = [
 ["I1671","Quinn, Elizabeth Marium","Quinn, Elizabeth Marium",
 [["Quinn, Elizabeth Marium","Birth Name","","","","Elizabeth Marium","",["Quinn"],"","","",[]]],
 "F","1867",
-"Reno-Sparks, NV",
+"Reno-Sparks, NV, USA",
 "?",
-"Reno-Sparks, NV",
+"Reno-Sparks, NV, USA",
 "unknown",
 [
-	["E0785","Birth","1867-02-24","24 FEB 1867",649,"Birth of Quinn, Elizabeth Marium","",[],[]],
-	["E0786","Death","","",649,"Death of Quinn, Elizabeth Marium","",[],[]]
+	["E0785","Birth","1867-02-24","24 FEB 1867",979,"Birth of Quinn, Elizabeth Marium","",[],[]],
+	["E0786","Death","","",979,"Death of Quinn, Elizabeth Marium","",[],[]]
 ],
 [
 
@@ -31730,12 +31730,12 @@ I = [
 ["I0822","Ramirez, Helen","Ramirez, Helen",
 [["Ramirez, Helen","Birth Name","","","","Helen","",["Ramirez"],"","","",[]]],
 "F","?",
-"Del Rio, TX",
+"Del Rio, Val Verde, TX, USA",
 "",
 "",
 "",
 [
-	["E2371","Birth","","",206,"Birth of Ramirez, Helen","",[],[]]
+	["E2371","Birth","","",298,"Birth of Ramirez, Helen","",[],[]]
 ],
 [
 
@@ -31774,12 +31774,12 @@ I = [
 ["I1149","Ramos, John","Ramos, John",
 [["Ramos, John","Birth Name","","","","John","",["Ramos"],"","","",[]]],
 "M","1526",
-"McAlester, OK",
+"McAlester, OK, USA",
 "",
 "",
 "",
 [
-	["E0248","Birth","1526","1526",493,"Birth of Ramos, John","",[],[]]
+	["E0248","Birth","1526","1526",736,"Birth of Ramos, John","",[],[]]
 ],
 [
 
@@ -31796,14 +31796,14 @@ I = [
 ["I0756","Ramos, Mary","Ramos, Mary",
 [["Ramos, Mary","Birth Name","","","","Mary","",["Ramos"],"","","",[]]],
 "F","?",
-"Lebanon, PA",
+"Lebanon, PA, USA",
 "1588",
-"Caguas, PR",
+"Caguas, PR, USA",
 "about 32 years, 6 days",
 [
-	["E2249","Birth","about 1556","ABT 1556",438,"Birth of Ramos, Mary","",[],[]],
-	["E2250","Death","1588-01-07","7 JAN 1588",117,"Death of Ramos, Mary","",[],[]],
-	["E2251","Burial","","",812,"Burial of Ramos, Mary","",[],[]]
+	["E2249","Birth","about 1556","ABT 1556",644,"Birth of Ramos, Mary","",[],[]],
+	["E2250","Death","1588-01-07","7 JAN 1588",159,"Death of Ramos, Mary","",[],[]],
+	["E2251","Burial","","",1223,"Burial of Ramos, Mary","",[],[]]
 ],
 [
 
@@ -31842,12 +31842,12 @@ I = [
 ["I0422","Rasmussen, Marilyn Joan","Rasmussen, Marilyn Joan",
 [["Rasmussen, Marilyn Joan","Birth Name","","","","Marilyn Joan","",["Rasmussen"],"","","",[]]],
 "F","1944",
-"Medford, OR",
+"Medford, OR, USA",
 "",
 "",
 "",
 [
-	["E1617","Birth","1944-09-11","11 SEP 1944",498,"Birth of Rasmussen, Marilyn Joan","",[],[]],
+	["E1617","Birth","1944-09-11","11 SEP 1944",747,"Birth of Rasmussen, Marilyn Joan","",[],[]],
 	["E1618","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -31865,12 +31865,12 @@ I = [
 ["I1853","Reed","Reed",
 [["Reed","Birth Name","","","","","",["Reed"],"","","",[]]],
 "M","1878",
-"South Bend, IN",
+"South Bend, St. Joseph, IN, USA",
 "",
 "",
 "",
 [
-	["E0990","Birth","1878-08-25","25 AUG 1878",725,"Birth of Reed","",[],[]]
+	["E0990","Birth","1878-08-25","25 AUG 1878",1079,"Birth of Reed","",[],[]]
 ],
 [
 
@@ -31887,12 +31887,12 @@ I = [
 ["I1823","Reed, Anastasia","Reed, Anastasia",
 [["Reed, Anastasia","Birth Name","","","","Anastasia","",["Reed"],"","","",[]]],
 "F","?",
-"Kingsport, TN",
+"Kingsport, TN, USA",
 "",
 "",
 "",
 [
-	["E0965","Birth","about 1914","ABT 1914",404,"Birth of Reed, Anastasia","",[],[]]
+	["E0965","Birth","about 1914","ABT 1914",591,"Birth of Reed, Anastasia","",[],[]]
 ],
 [
 
@@ -31953,13 +31953,13 @@ I = [
 ["I1847","Reed, Bridget Ann","Reed, Bridget Ann",
 [["Reed, Bridget Ann","Birth Name","","","","Bridget Ann","",["Reed"],"","","",[]]],
 "F","1885",
-"Alexandria, MD",
+"Alexandria, MD, USA",
 "?",
-"Kearney, NE",
+"Kearney, NE, USA",
 "unknown",
 [
-	["E0981","Birth","1885-02-24","24 FEB 1885",15,"Birth of Reed, Bridget Ann","",[],[]],
-	["E0982","Death","","",393,"Death of Reed, Bridget Ann","",[],[]]
+	["E0981","Birth","1885-02-24","24 FEB 1885",23,"Birth of Reed, Bridget Ann","",[],[]],
+	["E0982","Death","","",578,"Death of Reed, Bridget Ann","",[],[]]
 ],
 [
 
@@ -31976,13 +31976,13 @@ I = [
 ["I0707","Reed, Bridgette","Reed, Bridgette",
 [["Reed, Bridgette","Birth Name","","","","Bridgette","",["Reed"],"","","",[]]],
 "F","1850",
-"Gulfport, MS",
+"Gulfport, MS, USA",
 "1901",
-"Alexandria, LA",
+"Alexandria, Rapides, LA, USA",
 "51 years, 6 months, 25 days",
 [
-	["E2170","Birth","1850-01-19","19 JAN 1850",327,"Birth of Reed, Bridgette","",[],[]],
-	["E2171","Death","1901-08-13","13 AUG 1901",14,"Death of Reed, Bridgette","",[],[]]
+	["E2170","Birth","1850-01-19","19 JAN 1850",468,"Birth of Reed, Bridgette","",[],[]],
+	["E2171","Death","1901-08-13","13 AUG 1901",22,"Death of Reed, Bridgette","",[],[]]
 ],
 [
 
@@ -31999,12 +31999,12 @@ I = [
 ["I1811","Reed, Carmel","Reed, Carmel",
 [["Reed, Carmel","Birth Name","","","","Carmel","",["Reed"],"","","",[]]],
 "F","1938",
-"Niles, MI",
+"Niles, MI, USA",
 "",
 "",
 "",
 [
-	["E0950","Birth","1938-02-00","FEB 1938",562,"Birth of Reed, Carmel","",[],[]],
+	["E0950","Birth","1938-02-00","FEB 1938",852,"Birth of Reed, Carmel","",[],[]],
 	["E0951","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -32044,13 +32044,13 @@ I = [
 ["I1135","Reed, Catherine","Reed, Catherine",
 [["Reed, Catherine","Birth Name","","","","Catherine","",["Reed"],"","","",[]]],
 "F","1842",
-"Gulfport, MS",
+"Gulfport, MS, USA",
 "?",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "unknown",
 [
-	["E0230","Birth","1842-01-09","9 JAN 1842",327,"Birth of Reed, Catherine","",[],[]],
-	["E0231","Death","","",586,"Death of Reed, Catherine","",[],[]]
+	["E0230","Birth","1842-01-09","9 JAN 1842",468,"Birth of Reed, Catherine","",[],[]],
+	["E0231","Death","","",893,"Death of Reed, Catherine","",[],[]]
 ],
 [
 
@@ -32067,12 +32067,12 @@ I = [
 ["I1825","Reed, Catherine","Reed, Catherine",
 [["Reed, Catherine","Birth Name","","","","Catherine","",["Reed"],"","","",[]]],
 "F","?",
-"Dodge City, KS",
+"Dodge City, Ford, KS, USA",
 "1994",
 "",
 "about 93 years, 4 months, 1 day",
 [
-	["E0966","Birth","about 1901","ABT 1901",214,"Birth of Reed, Catherine","",[],[]],
+	["E0966","Birth","about 1901","ABT 1901",311,"Birth of Reed, Catherine","",[],[]],
 	["E0967","Death","1994-05-02","2 MAY 1994",-1,"Death of Reed, Catherine","",[],[]]
 ],
 [
@@ -32134,13 +32134,13 @@ I = [
 ["I1132","Reed, Edward","Reed, Edward",
 [["Reed, Edward","Birth Name","","","","Edward","",["Reed"],"","","",[]]],
 "M","1847",
-"El Campo, TX",
+"El Campo, Wharton, TX, USA",
 "1892",
-"Plymouth, IN",
+"Plymouth, Marshall, IN, USA",
 "44 years, 8 months, 7 days",
 [
-	["E0226","Birth","1847-06-28","28 JUN 1847",237,"Birth of Reed, Edward","",[],[]],
-	["E0227","Death","1892-03-05","5 MAR 1892",619,"Death of Reed, Edward","",[],[]]
+	["E0226","Birth","1847-06-28","28 JUN 1847",344,"Birth of Reed, Edward","",[],[]],
+	["E0227","Death","1892-03-05","5 MAR 1892",937,"Death of Reed, Edward","",[],[]]
 ],
 [
 
@@ -32157,12 +32157,12 @@ I = [
 ["I1133","Reed, Ellen","Reed, Ellen",
 [["Reed, Ellen","Birth Name","","","","Ellen","",["Reed"],"","","",[]]],
 "F","?",
-"Jacksonville, NC",
+"Jacksonville, NC, USA",
 "",
 "",
 "",
 [
-	["E0228","Birth","","",376,"Birth of Reed, Ellen","",[],[]]
+	["E0228","Birth","","",551,"Birth of Reed, Ellen","",[],[]]
 ],
 [
 
@@ -32179,14 +32179,14 @@ I = [
 ["I0053","Reed, Frances Lucille (Babe)","Reed, Frances Lucille (Babe)",
 [["Reed, Frances Lucille (Babe)","Birth Name","","","","Frances Lucille (Babe)","",["Reed"],"","","",[]]],
 "F","1902",
-"Worthington, MN",
+"Worthington, MN, USA",
 "1988",
-"Worthington, MN",
+"Worthington, MN, USA",
 "86 years, 1 month, 1 day",
 [
-	["E1853","Birth","1902-07-08","8 JUL 1902",843,"Birth of Reed, Frances Lucille (Babe)","",[],[]],
-	["E1854","Death","1988-08-09","9 AUG 1988",843,"Death of Reed, Frances Lucille (Babe)","",[],[]],
-	["E1855","Burial","1988-08-11","11 AUG 1988",843,"Burial of Reed, Frances Lucille (Babe)","",[],[]]
+	["E1853","Birth","1902-07-08","8 JUL 1902",1273,"Birth of Reed, Frances Lucille (Babe)","",[],[]],
+	["E1854","Death","1988-08-09","9 AUG 1988",1273,"Death of Reed, Frances Lucille (Babe)","",[],[]],
+	["E1855","Burial","1988-08-11","11 AUG 1988",1273,"Burial of Reed, Frances Lucille (Babe)","",[],[]]
 ],
 [
 
@@ -32203,14 +32203,14 @@ I = [
 ["I0047","Reed, Francis Vincent","Reed, Francis Vincent",
 [["Reed, Francis Vincent","Birth Name","","","","Francis Vincent","",["Reed"],"","","",[]]],
 "M","1857",
-"Mount Sterling, KY",
+"Mount Sterling, Montgomery, KY, USA",
 "1945",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "87 years, 10 months",
 [
-	["E1729","Birth","1857-05-02","2 MAY 1857",538,"Birth of Reed, Francis Vincent","",[],[]],
-	["E1730","Death","1945-03-02","2 MAR 1945",586,"Death of Reed, Francis Vincent","",[],[]],
-	["E1731","Burial","1945-03-04","4 MAR 1945",586,"Burial of Reed, Francis Vincent","",[],[]]
+	["E1729","Birth","1857-05-02","2 MAY 1857",812,"Birth of Reed, Francis Vincent","",[],[]],
+	["E1730","Death","1945-03-02","2 MAR 1945",893,"Death of Reed, Francis Vincent","",[],[]],
+	["E1731","Burial","1945-03-04","4 MAR 1945",893,"Burial of Reed, Francis Vincent","",[],[]]
 ],
 [
 
@@ -32227,12 +32227,12 @@ I = [
 ["I1839","Reed, Hannah","Reed, Hannah",
 [["Reed, Hannah","Birth Name","","","","Hannah","",["Reed"],"","","",[]]],
 "F","?",
-"Coshocton, OH",
+"Coshocton, OH, USA",
 "",
 "",
 "",
 [
-	["E0973","Birth","about 1991","ABT 1991",187,"Birth of Reed, Hannah","",[],[]],
+	["E0973","Birth","about 1991","ABT 1991",262,"Birth of Reed, Hannah","",[],[]],
 	["E0974","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -32250,13 +32250,13 @@ I = [
 ["I0705","Reed, Hugh","Reed, Hugh",
 [["Reed, Hugh","Birth Name","","","","Hugh","",["Reed"],"","","",[]]],
 "M","1853",
-"Mount Sterling, KY",
+"Mount Sterling, Montgomery, KY, USA",
 "1917",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "63 years, 10 months, 11 days",
 [
-	["E2166","Birth","1853-06-13","13 JUN 1853",538,"Birth of Reed, Hugh","",[],[]],
-	["E2167","Death","1917-04-24","24 APR 1917",586,"Death of Reed, Hugh","",[],[]]
+	["E2166","Birth","1853-06-13","13 JUN 1853",812,"Birth of Reed, Hugh","",[],[]],
+	["E2167","Death","1917-04-24","24 APR 1917",893,"Death of Reed, Hugh","",[],[]]
 ],
 [
 
@@ -32292,29 +32292,6 @@ I = [
 [[507,"Birth","Birth","",[]]],
 []
 ],
-["I1833","Reed, Jane","Reed, Jane",
-[["Reed, Jane","Birth Name","","","","Jane","",["Reed"],"","","",[]]],
-"F","?",
-"",
-"1976",
-"Poughkeepsie, NY",
-"about 78 years, 1 month, 24 days",
-[
-	["E0970","Birth","about 1898","ABT 1898",-1,"Birth of Reed, Jane","",[],[]],
-	["E0971","Death","1976-02-25","25 FEB 1976",634,"Death of Reed, Jane","",[],[]]
-],
-[
-
-],
-"",
-[],
-[],
-[],
-[],
-[712],
-[[505,"Birth","Birth","",[]]],
-[]
-],
 ["I1855","Reed, Jane","Reed, Jane",
 [["Reed, Jane","Birth Name","","","","Jane","",["Reed"],"","","",[]]],
 "F","?",
@@ -32337,15 +32314,38 @@ I = [
 [[499,"Birth","Birth","",[]]],
 []
 ],
+["I1833","Reed, Jane","Reed, Jane",
+[["Reed, Jane","Birth Name","","","","Jane","",["Reed"],"","","",[]]],
+"F","?",
+"",
+"1976",
+"Poughkeepsie, Dutchess, NY, USA",
+"about 78 years, 1 month, 24 days",
+[
+	["E0970","Birth","about 1898","ABT 1898",-1,"Birth of Reed, Jane","",[],[]],
+	["E0971","Death","1976-02-25","25 FEB 1976",957,"Death of Reed, Jane","",[],[]]
+],
+[
+
+],
+"",
+[],
+[],
+[],
+[],
+[712],
+[[505,"Birth","Birth","",[]]],
+[]
+],
 ["I1860","Reed, Jenny","Reed, Jenny",
 [["Reed, Jenny","Birth Name","","","","Jenny","",["Reed"],"","","",[]]],
 "F","?",
-"Kingsport, TN",
+"Kingsport, TN, USA",
 "",
 "",
 "",
 [
-	["E0996","Birth","","",404,"Birth of Reed, Jenny","",[],[]]
+	["E0996","Birth","","",591,"Birth of Reed, Jenny","",[],[]]
 ],
 [
 
@@ -32362,12 +32362,12 @@ I = [
 ["I1809","Reed, Joan","Reed, Joan",
 [["Reed, Joan","Birth Name","","","","Joan","",["Reed"],"","","",[]]],
 "F","1943",
-"Niles, MI",
+"Niles, MI, USA",
 "",
 "",
 "",
 [
-	["E0944","Birth","1943-05-13","13 MAY 1943",562,"Birth of Reed, Joan","",[],[]],
+	["E0944","Birth","1943-05-13","13 MAY 1943",852,"Birth of Reed, Joan","",[],[]],
 	["E0945","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -32385,12 +32385,12 @@ I = [
 ["I0706","Reed, John","Reed, John",
 [["Reed, John","Birth Name","","","","John","",["Reed"],"","","",[]]],
 "M","1844",
-"Defiance, OH",
+"Defiance, OH, USA",
 "1926",
 "",
 "81 years, 10 months, 9 days",
 [
-	["E2168","Birth","1844-05-19","19 MAY 1844",205,"Birth of Reed, John","",[],[]],
+	["E2168","Birth","1844-05-19","19 MAY 1844",297,"Birth of Reed, John","",[],[]],
 	["E2169","Death","1926-03-28","28 MAR 1926",-1,"Death of Reed, John","",[],[]]
 ],
 [
@@ -32408,14 +32408,14 @@ I = [
 ["I0089","Reed, John","Reed, John",
 [["Reed, John","Birth Name","","","","John","",["Reed"],"","","",[]]],
 "M","?",
-"Shelbyville, TN",
+"Shelbyville, TN, USA",
 "1886",
-"Shelbyville, TN",
+"Shelbyville, TN, USA",
 "unknown",
 [
-	["E2510","Birth","","",711,"Birth of Reed, John","",[],[]],
-	["E2511","Death","1886-08-11","11 AUG 1886",711,"Death of Reed, John","",[],[]],
-	["E2512","Burial","1886-08-00","AUG 1886",711,"Burial of Reed, John","",[],[]]
+	["E2510","Birth","","",1063,"Birth of Reed, John","",[],[]],
+	["E2511","Death","1886-08-11","11 AUG 1886",1063,"Death of Reed, John","",[],[]],
+	["E2512","Burial","1886-08-00","AUG 1886",1063,"Burial of Reed, John","",[],[]]
 ],
 [
 
@@ -32454,12 +32454,12 @@ I = [
 ["I1864","Reed, Kate","Reed, Kate",
 [["Reed, Kate","Birth Name","","","","Kate","",["Reed"],"","","",[]]],
 "F","?",
-"Kingsport, TN",
+"Kingsport, TN, USA",
 "",
 "",
 "",
 [
-	["E0998","Birth","","",404,"Birth of Reed, Kate","",[],[]]
+	["E0998","Birth","","",591,"Birth of Reed, Kate","",[],[]]
 ],
 [
 
@@ -32476,12 +32476,12 @@ I = [
 ["I1852","Reed, Mary","Reed, Mary",
 [["Reed, Mary","Birth Name","","","","Mary","",["Reed"],"","","",[]]],
 "F","1878",
-"Columbus, NE",
+"Columbus, NE, USA",
 "",
 "",
 "",
 [
-	["E0989","Birth","1878-05-10","10 MAY 1878",172,"Birth of Reed, Mary","",[],[]]
+	["E0989","Birth","1878-05-10","10 MAY 1878",245,"Birth of Reed, Mary","",[],[]]
 ],
 [
 
@@ -32498,13 +32498,13 @@ I = [
 ["I0708","Reed, Mary","Reed, Mary",
 [["Reed, Mary","Birth Name","","","","Mary","",["Reed"],"","","",[]]],
 "F","1839",
-"Mount Sterling, KY",
+"Mount Sterling, Montgomery, KY, USA",
 "?",
-"Mount Sterling, KY",
+"Mount Sterling, Montgomery, KY, USA",
 "unknown",
 [
-	["E2172","Birth","1839-03-08","8 MAR 1839",538,"Birth of Reed, Mary","",[],[]],
-	["E2173","Death","","",538,"Death of Reed, Mary","",[],[]]
+	["E2172","Birth","1839-03-08","8 MAR 1839",812,"Birth of Reed, Mary","",[],[]],
+	["E2173","Death","","",812,"Death of Reed, Mary","",[],[]]
 ],
 [
 
@@ -32545,11 +32545,11 @@ I = [
 "M","?",
 "",
 "1927",
-"Worcester, MA",
+"Worcester, Worcester, MA, USA",
 "about 80 years, 9 months, 20 days",
 [
 	["E0935","Birth","about 1847","ABT 1847",-1,"Birth of Reed, Matthew","",[],[]],
-	["E0936","Death","1927-10-21","21 OCT 1927",842,"Death of Reed, Matthew","",[],[]]
+	["E0936","Death","1927-10-21","21 OCT 1927",1271,"Death of Reed, Matthew","",[],[]]
 ],
 [
 
@@ -32585,16 +32585,60 @@ I = [
 [[514,"Birth","Birth","",[]]],
 []
 ],
+["I1858","Reed, Michael","Reed, Michael",
+[["Reed, Michael","Birth Name","","","","Michael","",["Reed"],"","","",[]]],
+"M","?",
+"Lebanon, MO, USA",
+"",
+"",
+"",
+[
+	["E0993","Birth","","",643,"Birth of Reed, Michael","",[],[]]
+],
+[
+
+],
+"",
+[],
+[],
+[],
+[],
+[507],
+[[499,"Birth","Birth","",[]]],
+[]
+],
+["I1805","Reed, Michael","Reed, Michael",
+[["Reed, Michael","Birth Name","","","","Michael","",["Reed"],"","","",[]]],
+"M","?",
+"",
+"1925",
+"Worcester, Worcester, MA, USA",
+"",
+[
+	["E0938","Death","1925-03-19","19 MAR 1925",1271,"Death of Reed, Michael","",[],[]]
+],
+[
+
+],
+"",
+[],
+[],
+[],
+[],
+[],
+[[505,"Birth","Birth","",[]]],
+[]
+],
 ["I1865","Reed, Michael","Reed, Michael",
 [["Reed, Michael","Birth Name","","","","Michael","",["Reed"],"","","",[]]],
 "M","?",
-"Kingsport, TN",
+"Kingsport, TN, USA",
 "?",
-"Rock Springs, WY",
+"Rock Springs, WY, USA",
 "unknown",
 [
-	["E0999","Birth","","",404,"Birth of Reed, Michael","",[],[]],
-	["E1000","Death","","",660,"Death of Reed, Michael","",[],[]]
+	["E0999","Birth","","",591,"Birth of Reed, Michael","",[],[]],
+	["E1000","Death","","",993,"Death of Reed, Michael","",[],[]]
 ],
 [
 
@@ -32611,12 +32655,12 @@ I = [
 ["I1874","Reed, Michael","Reed, Michael",
 [["Reed, Michael","Birth Name","","","","Michael","",["Reed"],"","","",[]]],
 "M","?",
-"El Centro, CA",
+"El Centro, Imperial, CA, USA",
 "",
 "",
 "",
 [
-	["E1005","Birth","","",238,"Birth of Reed, Michael","",[],[]]
+	["E1005","Birth","","",345,"Birth of Reed, Michael","",[],[]]
 ],
 [
 
@@ -32630,59 +32674,15 @@ I = [
 [],
 []
 ],
-["I1805","Reed, Michael","Reed, Michael",
-[["Reed, Michael","Birth Name","","","","Michael","",["Reed"],"","","",[]]],
-"M","?",
-"",
-"1925",
-"Worcester, MA",
-"",
-[
-	["E0938","Death","1925-03-19","19 MAR 1925",842,"Death of Reed, Michael","",[],[]]
-],
-[
-
-],
-"",
-[],
-[],
-[],
-[],
-[],
-[[505,"Birth","Birth","",[]]],
-[]
-],
-["I1858","Reed, Michael","Reed, Michael",
-[["Reed, Michael","Birth Name","","","","Michael","",["Reed"],"","","",[]]],
-"M","?",
-"Lebanon, MO",
-"",
-"",
-"",
-[
-	["E0993","Birth","","",437,"Birth of Reed, Michael","",[],[]]
-],
-[
-
-],
-"",
-[],
-[],
-[],
-[],
-[507],
-[[499,"Birth","Birth","",[]]],
-[]
-],
 ["I1862","Reed, Minnie","Reed, Minnie",
 [["Reed, Minnie","Birth Name","","","","Minnie","",["Reed"],"","","",[]]],
 "F","?",
-"Kingsport, TN",
+"Kingsport, TN, USA",
 "",
 "",
 "",
 [
-	["E0997","Birth","","",404,"Birth of Reed, Minnie","",[],[]]
+	["E0997","Birth","","",591,"Birth of Reed, Minnie","",[],[]]
 ],
 [
 
@@ -32699,12 +32699,12 @@ I = [
 ["I1848","Reed, Norah","Reed, Norah",
 [["Reed, Norah","Birth Name","","","","Norah","",["Reed"],"","","",[]]],
 "F","1928",
-"Decatur, AL",
+"Decatur, Morgan, AL, USA",
 "",
 "",
 "",
 [
-	["E0983","Birth","1928-07-00","JUL 1928",202,"Birth of Reed, Norah","",[],[]],
+	["E0983","Birth","1928-07-00","JUL 1928",292,"Birth of Reed, Norah","",[],[]],
 	["E0984","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -32722,12 +32722,12 @@ I = [
 ["I1812","Reed, Noreen","Reed, Noreen",
 [["Reed, Noreen","Birth Name","","","","Noreen","",["Reed"],"","","",[]]],
 "F","1934",
-"Niles, MI",
+"Niles, MI, USA",
 "",
 "",
 "",
 [
-	["E0952","Birth","1934-07-00","JUL 1934",562,"Birth of Reed, Noreen","",[],[]],
+	["E0952","Birth","1934-07-00","JUL 1934",852,"Birth of Reed, Noreen","",[],[]],
 	["E0953","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -32745,12 +32745,12 @@ I = [
 ["I1846","Reed, Owen","Reed, Owen",
 [["Reed, Owen","Birth Name","","","","Owen","",["Reed"],"","","",[]]],
 "M","?",
-"Kearney, NE",
+"Kearney, NE, USA",
 "",
 "",
 "",
 [
-	["E0980","Birth","","",393,"Birth of Reed, Owen","",[],[]]
+	["E0980","Birth","","",578,"Birth of Reed, Owen","",[],[]]
 ],
 [
 
@@ -32767,13 +32767,13 @@ I = [
 ["I1136","Reed, Patrick","Reed, Patrick",
 [["Reed, Patrick","Birth Name","","","","Patrick","",["Reed"],"","","",[]]],
 "M","1836",
-"Mount Sterling, KY",
+"Mount Sterling, Montgomery, KY, USA",
 "?",
-"Decatur, AL",
+"Decatur, Morgan, AL, USA",
 "unknown",
 [
-	["E0232","Birth","1836-02-22","22 FEB 1836",538,"Birth of Reed, Patrick","",[],[]],
-	["E0233","Death","","",202,"Death of Reed, Patrick","",[],[]]
+	["E0232","Birth","1836-02-22","22 FEB 1836",812,"Birth of Reed, Patrick","",[],[]],
+	["E0233","Death","","",292,"Death of Reed, Patrick","",[],[]]
 ],
 [
 
@@ -32792,11 +32792,11 @@ I = [
 "M","?",
 "",
 "1967",
-"St. Louis, St, Louis, MO-IL",
+"St, Louis, St, Louis, MO-IL, USA",
 "",
 [
-	["E0963","Death","1967-07-07","7 JUL 1967",737,"Death of Reed, Patrick","",[],[]],
-	["E0964","Burial","1967-07-09","9 JUL 1967",449,"Burial of Reed, Patrick","",[],[]]
+	["E0963","Death","1967-07-07","7 JUL 1967",1095,"Death of Reed, Patrick","",[],[]],
+	["E0964","Burial","1967-07-09","9 JUL 1967",660,"Burial of Reed, Patrick","",[],[]]
 ],
 [
 
@@ -32813,12 +32813,12 @@ I = [
 ["I1810","Reed, Peggy","Reed, Peggy",
 [["Reed, Peggy","Birth Name","","","","Peggy","",["Reed"],"","","",[]]],
 "F","1936",
-"Niles, MI",
+"Niles, MI, USA",
 "",
 "",
 "",
 [
-	["E0948","Birth","1936-07-00","JUL 1936",562,"Birth of Reed, Peggy","",[],[]],
+	["E0948","Birth","1936-07-00","JUL 1936",852,"Birth of Reed, Peggy","",[],[]],
 	["E0949","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -32836,13 +32836,13 @@ I = [
 ["I1806","Reed, Peter","Reed, Peter",
 [["Reed, Peter","Birth Name","","","","Peter","",["Reed"],"","","",[]]],
 "M","?",
-"Worcester, MA",
+"Worcester, Worcester, MA, USA",
 "1981",
-"Faribault-Northfield, MN",
+"Faribault-Northfield, MN, USA",
 "about 77 years, 3 months, 11 days",
 [
-	["E0939","Birth","about 1904","ABT 1904",842,"Birth of Reed, Peter","",[],[]],
-	["E0940","Death","1981-04-12","12 APR 1981",258,"Death of Reed, Peter","",[],[]]
+	["E0939","Birth","about 1904","ABT 1904",1271,"Birth of Reed, Peter","",[],[]],
+	["E0940","Death","1981-04-12","12 APR 1981",374,"Death of Reed, Peter","",[],[]]
 ],
 [
 
@@ -32859,12 +32859,12 @@ I = [
 ["I1851","Reed, Peter","Reed, Peter",
 [["Reed, Peter","Birth Name","","","","Peter","",["Reed"],"","","",[]]],
 "M","?",
-"Columbus, NE",
+"Columbus, NE, USA",
 "",
 "",
 "",
 [
-	["E0988","Birth","","",172,"Birth of Reed, Peter","",[],[]]
+	["E0988","Birth","","",245,"Birth of Reed, Peter","",[],[]]
 ],
 [
 
@@ -32881,12 +32881,12 @@ I = [
 ["I1845","Reed, Peter James?","Reed, Peter James?",
 [["Reed, Peter James?","Birth Name","","","","Peter James?","",["Reed"],"","","",[]]],
 "M","?",
-"Hayward, CA",
+"Hayward, Alameda, CA, USA",
 "",
 "",
 "",
 [
-	["E0979","Birth","","",343,"Birth of Reed, Peter James?","",[],[]]
+	["E0979","Birth","","",491,"Birth of Reed, Peter James?","",[],[]]
 ],
 [
 
@@ -32925,12 +32925,12 @@ I = [
 ["I1134","Reed, Sarah","Reed, Sarah",
 [["Reed, Sarah","Birth Name","","","","Sarah","",["Reed"],"","","",[]]],
 "F","?",
-"Gadsden, AL",
+"Gadsden, Etowah, AL, USA",
 "",
 "",
 "",
 [
-	["E0229","Birth","","",289,"Birth of Reed, Sarah","",[],[]]
+	["E0229","Birth","","",420,"Birth of Reed, Sarah","",[],[]]
 ],
 [
 
@@ -32947,13 +32947,13 @@ I = [
 ["I1802","Reed, Sarah","Reed, Sarah",
 [["Reed, Sarah","Birth Name","","","","Sarah","",["Reed"],"","","",[]]],
 "F","1906",
-"Worcester, MA",
+"Worcester, Worcester, MA, USA",
 "1984",
-"Worcester, MA",
+"Worcester, Worcester, MA, USA",
 "78 years, 1 month, 11 days",
 [
-	["E0933","Birth","1906-04-00","APR 1906",842,"Birth of Reed, Sarah","",[],[]],
-	["E0934","Death","1984-05-12","12 MAY 1984",842,"Death of Reed, Sarah","",[],[]]
+	["E0933","Birth","1906-04-00","APR 1906",1271,"Birth of Reed, Sarah","",[],[]],
+	["E0934","Death","1984-05-12","12 MAY 1984",1271,"Death of Reed, Sarah","",[],[]]
 ],
 [
 
@@ -32970,12 +32970,12 @@ I = [
 ["I1849","Reed, Terence","Reed, Terence",
 [["Reed, Terence","Birth Name","","","","Terence","",["Reed"],"","","",[]]],
 "M","1876",
-"Laconia, NH",
+"Laconia, NH, USA",
 "",
 "",
 "",
 [
-	["E0985","Birth","1876-11-25","25 NOV 1876",414,"Birth of Reed, Terence","",[],[]]
+	["E0985","Birth","1876-11-25","25 NOV 1876",610,"Birth of Reed, Terence","",[],[]]
 ],
 [
 
@@ -32992,12 +32992,12 @@ I = [
 ["I1808","Reed, Terrence","Reed, Terrence",
 [["Reed, Terrence","Birth Name","","","","Terrence","",["Reed"],"","","",[]]],
 "M","1948",
-"Niles, MI",
+"Niles, MI, USA",
 "",
 "",
 "",
 [
-	["E0942","Birth","1948-05-07","7 MAY 1948",562,"Birth of Reed, Terrence","",[],[]],
+	["E0942","Birth","1948-05-07","7 MAY 1948",852,"Birth of Reed, Terrence","",[],[]],
 	["E0943","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -33015,13 +33015,13 @@ I = [
 ["I1857","Reed, Terrence (TyNed)","Reed, Terrence (TyNed)",
 [["Reed, Terrence (TyNed)","Birth Name","","","","Terrence (TyNed)","",["Reed"],"","","",[]]],
 "M","?",
-"Greeley, CO",
+"Greeley, Weld, CO, USA",
 "?",
-"Centralia, IL",
+"Centralia, Marion, IL, USA",
 "unknown",
 [
-	["E0991","Birth","","",313,"Birth of Reed, Terrence (TyNed)","",[],[]],
-	["E0992","Death","about 1940","ABT 1940",137,"Death of Reed, Terrence (TyNed)","",[],[]]
+	["E0991","Birth","","",452,"Birth of Reed, Terrence (TyNed)","",[],[]],
+	["E0992","Death","about 1940","ABT 1940",185,"Death of Reed, Terrence (TyNed)","",[],[]]
 ],
 [
 
@@ -33084,11 +33084,11 @@ I = [
 "F","?",
 "",
 "?",
-"Mooresville, NC",
+"Mooresville, NC, USA",
 "",
 [
-	["E1698","Death","before 1750","BEF 1750",528,"Death of Reese","",[],[]],
-	["E1699","Burial","","",528,"Burial of Reese","",[],[]]
+	["E1698","Death","before 1750","BEF 1750",800,"Death of Reese","",[],[]],
+	["E1699","Burial","","",800,"Burial of Reese","",[],[]]
 ],
 [
 
@@ -33107,10 +33107,10 @@ I = [
 "F","?",
 "",
 "?",
-"Mount Vernon, WA",
+"Mount Vernon, WA, USA",
 "",
 [
-	["E1052","Death","after 1901","AFT 1901",540,"Death of Reeves, Ann","",[],[]]
+	["E1052","Death","after 1901","AFT 1901",814,"Death of Reeves, Ann","",[],[]]
 ],
 [
 
@@ -33146,28 +33146,6 @@ I = [
 [[517,"Birth","Birth","",[]]],
 []
 ],
-["I1938","Reeves, Catherine","Reeves, Catherine",
-[["Reeves, Catherine","Birth Name","","","","Catherine","",["Reeves"],"","","",[]]],
-"F","?",
-"",
-"?",
-"Mount Vernon, WA",
-"",
-[
-	["E1054","Death","before 1901","BEF 1901",540,"Death of Reeves, Catherine","",[],[]]
-],
-[
-
-],
-"",
-[],
-[],
-[],
-[],
-[169],
-[[517,"Birth","Birth","",[]]],
-[]
-],
 ["I0396","Reeves, Catherine","Reeves, Catherine",
 [["Reeves, Catherine","Birth Name","","","","Catherine","",["Reeves"],"","","",[]]],
 "F","?",
@@ -33188,6 +33166,28 @@ I = [
 [],
 [],
 [],
+[]
+],
+["I1938","Reeves, Catherine","Reeves, Catherine",
+[["Reeves, Catherine","Birth Name","","","","Catherine","",["Reeves"],"","","",[]]],
+"F","?",
+"",
+"?",
+"Mount Vernon, WA, USA",
+"",
+[
+	["E1054","Death","before 1901","BEF 1901",814,"Death of Reeves, Catherine","",[],[]]
+],
+[
+
+],
+"",
+[],
+[],
+[],
+[],
+[169],
+[[517,"Birth","Birth","",[]]],
 []
 ],
 ["I1932","Reeves, Elizabeth","Reeves, Elizabeth",
@@ -33235,6 +33235,30 @@ I = [
 [],
 []
 ],
+["I0101","Reeves, James","Reeves, James",
+[["Reeves, James","Birth Name","","","","James","",["Reeves"],"","","",[]]],
+"M","1819",
+"Hereford, Deaf Smith, TX, USA",
+"1897",
+"Cadillac, MI, USA",
+"78 years, 3 months, 18 days",
+[
+	["E0019","Birth","1819-03-24","24 MAR 1819",497,"Birth of Reeves, James","",[],[]],
+	["E0020","Death","1897-07-11","11 JUL 1897",158,"Death of Reeves, James","",[],[]],
+	["E0021","Burial","1897-07-13","13 JUL 1897",395,"Burial of Reeves, James","",[],[]]
+],
+[
+
+],
+"",
+[],
+[],
+[],
+[],
+[515],
+[[517,"Birth","Birth","",[]]],
+[]
+],
 ["I0398","Reeves, James","Reeves, James",
 [["Reeves, James","Birth Name","","","","James","",["Reeves"],"","","",[]]],
 "M","?",
@@ -33255,30 +33279,6 @@ I = [
 [],
 [],
 [],
-[]
-],
-["I0101","Reeves, James","Reeves, James",
-[["Reeves, James","Birth Name","","","","James","",["Reeves"],"","","",[]]],
-"M","1819",
-"Hereford, TX",
-"1897",
-"Cadillac, MI",
-"78 years, 3 months, 18 days",
-[
-	["E0019","Birth","1819-03-24","24 MAR 1819",346,"Birth of Reeves, James","",[],[]],
-	["E0020","Death","1897-07-11","11 JUL 1897",116,"Death of Reeves, James","",[],[]],
-	["E0021","Burial","1897-07-13","13 JUL 1897",272,"Burial of Reeves, James","",[],[]]
-],
-[
-
-],
-"",
-[],
-[],
-[],
-[],
-[515],
-[[517,"Birth","Birth","",[]]],
 []
 ],
 ["I0402","Reeves, Jesse","Reeves, Jesse",
@@ -33303,28 +33303,6 @@ I = [
 [],
 []
 ],
-["I1940","Reeves, John","Reeves, John",
-[["Reeves, John","Birth Name","","","","John","",["Reeves"],"","","",[]]],
-"M","?",
-"",
-"",
-"",
-"",
-[
-
-],
-[
-
-],
-"",
-[],
-[],
-[],
-[],
-[516],
-[[515,"Birth","Birth","",[]]],
-[]
-],
 ["I1929","Reeves, John","Reeves, John",
 [["Reeves, John","Birth Name","","","","John","",["Reeves"],"","","",[]]],
 "M","?",
@@ -33347,17 +33325,39 @@ I = [
 [[517,"Birth","Birth","",[]]],
 []
 ],
+["I1940","Reeves, John","Reeves, John",
+[["Reeves, John","Birth Name","","","","John","",["Reeves"],"","","",[]]],
+"M","?",
+"",
+"",
+"",
+"",
+[
+
+],
+[
+
+],
+"",
+[],
+[],
+[],
+[],
+[516],
+[[515,"Birth","Birth","",[]]],
+[]
+],
 ["I0601","Reeves, John","Reeves, John",
 [["Reeves, John","Birth Name","","","","John","",["Reeves"],"","","",[]]],
 "M","?",
-"Toccoa, GA",
+"Toccoa, Stephens, GA, USA",
 "?",
-"Lewiston, ME",
+"Lewiston, ME, USA",
 "unknown",
 [
-	["E1988","Birth","","",771,"Birth of Reeves, John","",[],[]],
-	["E1989","Death","","",442,"Death of Reeves, John","",[],[]],
-	["E1990","Burial","","",752,"Burial of Reeves, John","",[],[]]
+	["E1988","Birth","","",1153,"Birth of Reeves, John","",[],[]],
+	["E1989","Death","","",652,"Death of Reeves, John","",[],[]],
+	["E1990","Burial","","",1117,"Burial of Reeves, John","",[],[]]
 ],
 [
 
@@ -33397,14 +33397,14 @@ I = [
 ["I0052","Reeves, Maria","Reeves, Maria",
 [["Reeves, Maria","Birth Name","","","","Maria","",["Reeves"],"","","",[]]],
 "F","1856",
-"Big Spring, TX",
+"Big Spring, Howard, TX, USA",
 "1929",
-"Worthington, MN",
+"Worthington, MN, USA",
 "72 years, 2 months, 3 days",
 [
-	["E1832","Birth","1856-11-26","26 NOV 1856",76,"Birth of Reeves, Maria","",[],[]],
-	["E1833","Death","1929-01-29","29 JAN 1929",843,"Death of Reeves, Maria","",[],[]],
-	["E1834","Burial","1929-01-31","31 JAN 1929",843,"Burial of Reeves, Maria","",[],[]]
+	["E1832","Birth","1856-11-26","26 NOV 1856",103,"Birth of Reeves, Maria","",[],[]],
+	["E1833","Death","1929-01-29","29 JAN 1929",1273,"Death of Reeves, Maria","",[],[]],
+	["E1834","Burial","1929-01-31","31 JAN 1929",1273,"Burial of Reeves, Maria","",[],[]]
 ],
 [
 
@@ -33439,6 +33439,28 @@ I = [
 [],
 [],
 [],
+[]
+],
+["I1930","Reeves, Mathew","Reeves, Mathew",
+[["Reeves, Mathew","Birth Name","","","","Mathew","",["Reeves"],"","","",[]]],
+"M","?",
+"",
+"",
+"",
+"",
+[
+
+],
+[
+
+],
+"",
+[],
+[],
+[],
+[],
+[],
+[[517,"Birth","Birth","",[]]],
 []
 ],
 ["I0395","Reeves, Mathew","Reeves, Mathew",
@@ -33485,28 +33507,6 @@ I = [
 [],
 []
 ],
-["I1930","Reeves, Mathew","Reeves, Mathew",
-[["Reeves, Mathew","Birth Name","","","","Mathew","",["Reeves"],"","","",[]]],
-"M","?",
-"",
-"",
-"",
-"",
-[
-
-],
-[
-
-],
-"",
-[],
-[],
-[],
-[],
-[],
-[[517,"Birth","Birth","",[]]],
-[]
-],
 ["I1931","Reeves, William","Reeves, William",
 [["Reeves, William","Birth Name","","","","William","",["Reeves"],"","","",[]]],
 "M","?",
@@ -33534,12 +33534,12 @@ I = [
 "F","1694",
 "",
 "1740",
-"Kalamazoo, MI",
+"Kalamazoo, MI, USA",
 "46 years, 9 months, 16 days",
 [
 	["E2611","Birth","1694-02-04","4 FEB 1694",-1,"Birth of Reid, Anna Catherina","",[],[]],
-	["E2612","Death","1740-11-20","20 NOV 1740",390,"Death of Reid, Anna Catherina","",[],[]],
-	["E2613","Burial","","",448,"Burial of Reid, Anna Catherina","",[],[]]
+	["E2612","Death","1740-11-20","20 NOV 1740",575,"Death of Reid, Anna Catherina","",[],[]],
+	["E2613","Burial","","",658,"Burial of Reid, Anna Catherina","",[],[]]
 ],
 [
 
@@ -33601,14 +33601,14 @@ I = [
 ["I0964","Reynolds, Col. John","Reynolds, Col. John",
 [["Reynolds, Col. John","Birth Name","","","","Col. John","",["Reynolds"],"","","",[]]],
 "M","1622",
-"Las Vegas, NM",
+"Las Vegas, NM, USA",
 "1670",
-"Laredo, TX",
+"Laredo, Webb, TX, USA",
 "48 years",
 [
-	["E2655","Birth","1622","1622",430,"Birth of Reynolds, Col. John","",[],[]],
-	["E2656","Death","1670","1670",428,"Death of Reynolds, Col. John","",[],[]],
-	["E2657","Burial","","",428,"Burial of Reynolds, Col. John","",[],[]]
+	["E2655","Birth","1622","1622",631,"Birth of Reynolds, Col. John","",[],[]],
+	["E2656","Death","1670","1670",628,"Death of Reynolds, Col. John","",[],[]],
+	["E2657","Burial","","",628,"Burial of Reynolds, Col. John","",[],[]]
 ],
 [
 
@@ -33625,14 +33625,14 @@ I = [
 ["I0963","Reynolds, David","Reynolds, David",
 [["Reynolds, David","Birth Name","","","","David","",["Reynolds"],"","","",[]]],
 "M","1669",
-"Spokane, WA",
+"Spokane, WA, USA",
 "1695",
-"Sidney, OH",
+"Sidney, OH, USA",
 "26 years",
 [
-	["E2652","Birth","1669","1669",731,"Birth of Reynolds, David","",[],[]],
-	["E2653","Death","1695","1695",716,"Death of Reynolds, David","",[],[]],
-	["E2654","Burial","","",613,"Burial of Reynolds, David","",[],[]]
+	["E2652","Birth","1669","1669",1085,"Birth of Reynolds, David","",[],[]],
+	["E2653","Death","1695","1695",1068,"Death of Reynolds, David","",[],[]],
+	["E2654","Burial","","",928,"Burial of Reynolds, David","",[],[]]
 ],
 [
 
@@ -33646,61 +33646,16 @@ I = [
 [[525,"Birth","Birth","",[]]],
 []
 ],
-["I0967","Reynolds, John","Reynolds, John",
-[["Reynolds, John","Birth Name","","","","John","",["Reynolds"],"","","",[]]],
-"M","?",
-"",
-"1788",
-"Easton, MD",
-"",
-[
-	["E2664","Death","1788","1788",232,"Death of Reynolds, John","",[],[]],
-	["E2665","Burial","","",428,"Burial of Reynolds, John","",[],[]]
-],
-[
-
-],
-"",
-[],
-[],
-[],
-[],
-[522],
-[[526,"Birth","Birth","",[]]],
-[]
-],
-["I1171","Reynolds, John","Reynolds, John",
-[["Reynolds, John","Birth Name","","","","John","",["Reynolds"],"","","",[]]],
-"M","?",
-"Las Vegas, NM",
-"",
-"",
-"",
-[
-	["E0278","Birth","about 1566","ABT 1566",430,"Birth of Reynolds, John","",[],[]]
-],
-[
-
-],
-"",
-[],
-[],
-[],
-[],
-[523],
-[],
-[]
-],
 ["I1166","Reynolds, John","Reynolds, John",
 [["Reynolds, John","Birth Name","","","","John","",["Reynolds"],"","","",[]]],
 "M","?",
-"Las Vegas, NM",
+"Las Vegas, NM, USA",
 "?",
-"Corning, NY",
+"Corning, Steuben, NY, USA",
 "unknown",
 [
-	["E0268","Birth","about 1599","ABT 1599",430,"Birth of Reynolds, John","",[],[]],
-	["E0269","Death","","",182,"Death of Reynolds, John","",[],[]]
+	["E0268","Birth","about 1599","ABT 1599",631,"Birth of Reynolds, John","",[],[]],
+	["E0269","Death","","",256,"Death of Reynolds, John","",[],[]]
 ],
 [
 
@@ -33714,16 +33669,61 @@ I = [
 [[523,"Birth","Birth","",[]]],
 []
 ],
+["I1171","Reynolds, John","Reynolds, John",
+[["Reynolds, John","Birth Name","","","","John","",["Reynolds"],"","","",[]]],
+"M","?",
+"Las Vegas, NM, USA",
+"",
+"",
+"",
+[
+	["E0278","Birth","about 1566","ABT 1566",631,"Birth of Reynolds, John","",[],[]]
+],
+[
+
+],
+"",
+[],
+[],
+[],
+[],
+[523],
+[],
+[]
+],
+["I0967","Reynolds, John","Reynolds, John",
+[["Reynolds, John","Birth Name","","","","John","",["Reynolds"],"","","",[]]],
+"M","?",
+"",
+"1788",
+"Easton, MD, USA",
+"",
+[
+	["E2664","Death","1788","1788",337,"Death of Reynolds, John","",[],[]],
+	["E2665","Burial","","",628,"Burial of Reynolds, John","",[],[]]
+],
+[
+
+],
+"",
+[],
+[],
+[],
+[],
+[522],
+[[526,"Birth","Birth","",[]]],
+[]
+],
 ["I0968","Reynolds, Mary Jane","Reynolds, Mary Jane",
 [["Reynolds, Mary Jane","Birth Name","","","","Mary Jane","",["Reynolds"],"","","",[]]],
 "F","?",
-"Carson City, NV",
+"Carson City, NV, USA",
 "?",
-"Winchester, VA",
+"Winchester, VA, USA",
 "unknown",
 [
-	["E2666","Birth","","",131,"Birth of Reynolds, Mary Jane","",[],[]],
-	["E2667","Death","","",835,"Death of Reynolds, Mary Jane","",[],[]]
+	["E2666","Birth","","",176,"Birth of Reynolds, Mary Jane","",[],[]],
+	["E2667","Death","","",1261,"Death of Reynolds, Mary Jane","",[],[]]
 ],
 [
 
@@ -33740,14 +33740,14 @@ I = [
 ["I0965","Reynolds, Nicholas","Reynolds, Nicholas",
 [["Reynolds, Nicholas","Birth Name","","","","Nicholas","",["Reynolds"],"","","",[]]],
 "M","1643",
-"Chester, SC",
+"Chester, SC, USA",
 "?",
-"Sidney, OH",
+"Sidney, OH, USA",
 "less than 52 years",
 [
-	["E2658","Birth","1643","1643",144,"Birth of Reynolds, Nicholas","",[],[]],
-	["E2659","Death","before 1695","BEF 1695",716,"Death of Reynolds, Nicholas","",[],[]],
-	["E2660","Burial","","",755,"Burial of Reynolds, Nicholas","",[],[]]
+	["E2658","Birth","1643","1643",199,"Birth of Reynolds, Nicholas","",[],[]],
+	["E2659","Death","before 1695","BEF 1695",1068,"Death of Reynolds, Nicholas","",[],[]],
+	["E2660","Burial","","",1124,"Burial of Reynolds, Nicholas","",[],[]]
 ],
 [
 
@@ -33786,14 +33786,14 @@ I = [
 ["I0966","Reynolds, William","Reynolds, William",
 [["Reynolds, William","Birth Name","","","","William","",["Reynolds"],"","","",[]]],
 "M","?",
-"Moses Lake, WA",
+"Moses Lake, WA, USA",
 "?",
-"Manhattan, KS",
+"Manhattan, Riley, KS, USA",
 "about 93 years",
 [
-	["E2661","Birth","about 1695","ABT 1695",534,"Birth of Reynolds, William","",[],[]],
-	["E2662","Death","about 1788","ABT 1788",473,"Death of Reynolds, William","",[],[]],
-	["E2663","Burial","","",473,"Burial of Reynolds, William","",[],[]]
+	["E2661","Birth","about 1695","ABT 1695",808,"Birth of Reynolds, William","",[],[]],
+	["E2662","Death","about 1788","ABT 1788",706,"Death of Reynolds, William","",[],[]],
+	["E2663","Burial","","",706,"Burial of Reynolds, William","",[],[]]
 ],
 [
 
@@ -33810,13 +33810,13 @@ I = [
 ["I1129","Rhodes, Catherine","Rhodes, Catherine",
 [["Rhodes, Catherine","Birth Name","","","","Catherine","",["Rhodes"],"","","",[]]],
 "F","?",
-"Crowley, LA",
+"Crowley, Acadia, LA, USA",
 "?",
-"Crowley, LA",
+"Crowley, Acadia, LA, USA",
 "unknown",
 [
-	["E0222","Birth","","",191,"Birth of Rhodes, Catherine","",[],[]],
-	["E0223","Death","","",191,"Death of Rhodes, Catherine","",[],[]]
+	["E0222","Birth","","",270,"Birth of Rhodes, Catherine","",[],[]],
+	["E0223","Death","","",270,"Death of Rhodes, Catherine","",[],[]]
 ],
 [
 
@@ -33833,14 +33833,14 @@ I = [
 ["I0714","Rhodes, Donald E.","Rhodes, Donald E.",
 [["Rhodes, Donald E.","Birth Name","","","","Donald E.","",["Rhodes"],"","","",[]]],
 "M","1928",
-"Springfield, OH",
+"Springfield, OH, USA",
 "?",
-"Clearlake, CA",
+"Clearlake, Lake, CA, USA",
 "",
 [
-	["E2179","Birth","1928","1928",735,"Birth of Rhodes, Donald E.","",[],[]],
-	["E2180","Death","about 1988","ABT 1988",153,"Death of Rhodes, Donald E.","",[],[]],
-	["E2181","Burial","about 1988","ABT 1988",446,"Burial of Rhodes, Donald E.","",[],[]]
+	["E2179","Birth","1928","1928",1089,"Birth of Rhodes, Donald E.","",[],[]],
+	["E2180","Death","about 1988","ABT 1988",213,"Death of Rhodes, Donald E.","",[],[]],
+	["E2181","Burial","about 1988","ABT 1988",656,"Burial of Rhodes, Donald E.","",[],[]]
 ],
 [
 
@@ -33857,12 +33857,12 @@ I = [
 ["I0715","Rhodes, Mary Jane","Rhodes, Mary Jane",
 [["Rhodes, Mary Jane","Birth Name","","","","Mary Jane","",["Rhodes"],"","","",[]]],
 "F","1922",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E2182","Birth","1922-05-16","16 MAY 1922",586,"Birth of Rhodes, Mary Jane","",[],[]],
+	["E2182","Birth","1922-05-16","16 MAY 1922",893,"Birth of Rhodes, Mary Jane","",[],[]],
 	["E2183","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -33880,12 +33880,12 @@ I = [
 ["I0713","Rhodes, William Jr.","Rhodes, William Jr.",
 [["Rhodes, William Jr.","Birth Name","","","","William Jr.","",["Rhodes"],"","","",[]]],
 "M","?",
-"Springfield, OH",
+"Springfield, OH, USA",
 "",
 "",
 "",
 [
-	["E2178","Birth","","",735,"Birth of Rhodes, William Jr.","",[],[]]
+	["E2178","Birth","","",1089,"Birth of Rhodes, William Jr.","",[],[]]
 ],
 [
 
@@ -33904,10 +33904,10 @@ I = [
 "M","?",
 "",
 "?",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 [
-	["E1963","Burial","","",586,"Burial of Rhodes, William Sr.","",[],[]]
+	["E1963","Burial","","",893,"Burial of Rhodes, William Sr.","",[],[]]
 ],
 [
 
@@ -33924,14 +33924,14 @@ I = [
 ["I0557","Rice, Virginia Margaret","Rice, Virginia Margaret",
 [["Rice, Virginia Margaret","Birth Name","","","","Virginia Margaret","",["Rice"],"","","",[]]],
 "F","1723",
-"Arkadelphia, AR",
+"Arkadelphia, Clark, AR, USA",
 "1780",
-"Lafayette, LA",
+"Lafayette, Lafayette, LA, USA",
 "57 years",
 [
-	["E1901","Birth","1723","1723",37,"Birth of Rice, Virginia Margaret","",[],[]],
-	["E1902","Death","1780","1780",416,"Death of Rice, Virginia Margaret","",[],[]],
-	["E1903","Burial","","",416,"Burial of Rice, Virginia Margaret","",[],[]]
+	["E1901","Birth","1723","1723",50,"Birth of Rice, Virginia Margaret","",[],[]],
+	["E1902","Death","1780","1780",612,"Death of Rice, Virginia Margaret","",[],[]],
+	["E1903","Burial","","",612,"Burial of Rice, Virginia Margaret","",[],[]]
 ],
 [
 
@@ -33948,14 +33948,14 @@ I = [
 ["I0732","Richard, Jeanne","Richard, Jeanne",
 [["Richard, Jeanne","Birth Name","","","","Jeanne","",["Richard"],"","","",[]]],
 "F","1703",
-"Bartlesville, OK",
+"Bartlesville, OK, USA",
 "1792",
-"Lawrence, KS",
+"Lawrence, Douglas, KS, USA",
 "89 years",
 [
-	["E2207","Birth","1703","1703",57,"Birth of Richard, Jeanne","",[],[]],
-	["E2208","Death","1792","1792",434,"Death of Richard, Jeanne","",[],[]],
-	["E2209","Burial","","",12,"Burial of Richard, Jeanne","",[],[]]
+	["E2207","Birth","1703","1703",77,"Birth of Richard, Jeanne","",[],[]],
+	["E2208","Death","1792","1792",640,"Death of Richard, Jeanne","",[],[]],
+	["E2209","Burial","","",20,"Burial of Richard, Jeanne","",[],[]]
 ],
 [
 
@@ -33996,11 +33996,11 @@ I = [
 "M","?",
 "",
 "?",
-"Ruston, LA",
+"Ruston, Lincoln, LA, USA",
 "",
 [
-	["E2683","Death","","",671,"Death of Riley, Thomas","",[],[]],
-	["E2684","Burial","","",342,"Burial of Riley, Thomas","",[],[]]
+	["E2683","Death","","",1005,"Death of Riley, Thomas","",[],[]],
+	["E2684","Burial","","",490,"Burial of Riley, Thomas","",[],[]]
 ],
 [
 
@@ -34039,12 +34039,12 @@ I = [
 ["I0145","Robbins, Merida Lorene","Robbins, Merida Lorene",
 [["Robbins, Merida Lorene","Birth Name","","","","Merida Lorene","",["Robbins"],"","","",[]]],
 "F","1924",
-"Dubuque, IA",
+"Dubuque, Dubuque, IA, USA",
 "",
 "",
 "",
 [
-	["E0607","Birth","1924-03-07","7 MAR 1924",220,"Birth of Robbins, Merida Lorene","",[],[]],
+	["E0607","Birth","1924-03-07","7 MAR 1924",320,"Birth of Robbins, Merida Lorene","",[],[]],
 	["E0608","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -34131,10 +34131,10 @@ I = [
 "M","?",
 "",
 "?",
-"Sterling, IL",
+"Sterling, Whiteside, IL, USA",
 "",
 [
-	["E2092","Burial","","",746,"Burial of Robinson, Clarence","",[],[]]
+	["E2092","Burial","","",1108,"Burial of Robinson, Clarence","",[],[]]
 ],
 [
 
@@ -34217,12 +34217,12 @@ I = [
 ["I0790","Rodgers, Crystal Mae","Rodgers, Crystal Mae",
 [["Rodgers, Crystal Mae","Birth Name","","","","Crystal Mae","",["Rodgers"],"","","",[]]],
 "F","1975",
-"Santa Rosa-Petaluma, CA",
+"Santa Rosa-Petaluma, CA, USA",
 "",
 "",
 "",
 [
-	["E2299","Birth","1975-12-12","12 DEC 1975",693,"Birth of Rodgers, Crystal Mae","",[],[]],
+	["E2299","Birth","1975-12-12","12 DEC 1975",1036,"Birth of Rodgers, Crystal Mae","",[],[]],
 	["E2300","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -34262,12 +34262,12 @@ I = [
 ["I0789","Rodgers, Shawna Marie","Rodgers, Shawna Marie",
 [["Rodgers, Shawna Marie","Birth Name","","","","Shawna Marie","",["Rodgers"],"","","",[]]],
 "F","1979",
-"Santa Rosa-Petaluma, CA",
+"Santa Rosa-Petaluma, CA, USA",
 "",
 "",
 "",
 [
-	["E2295","Birth","1979-08-05","5 AUG 1979",693,"Birth of Rodgers, Shawna Marie","",[],[]],
+	["E2295","Birth","1979-08-05","5 AUG 1979",1036,"Birth of Rodgers, Shawna Marie","",[],[]],
 	["E2296","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -34352,12 +34352,12 @@ I = [
 ["I1714","Rodriquez, Alvin","Rodriquez, Alvin",
 [["Rodriquez, Alvin","Birth Name","","","","Alvin","",["Rodriquez"],"","","",[]]],
 "M","?",
-"Mayagüez, PR",
+"Mayagüez, PR, USA",
 "",
 "",
 "",
 [
-	["E0831","Birth","","",490,"Birth of Rodriquez, Alvin","",[],[]]
+	["E0831","Birth","","",733,"Birth of Rodriquez, Alvin","",[],[]]
 ],
 [
 
@@ -34374,13 +34374,13 @@ I = [
 ["I1717","Rodriquez, Barbara Ann","Rodriquez, Barbara Ann",
 [["Rodriquez, Barbara Ann","Birth Name","","","","Barbara Ann","",["Rodriquez"],"","","",[]]],
 "F","1820",
-"Mayagüez, PR",
+"Mayagüez, PR, USA",
 "1902",
-"Juneau, AK",
+"Juneau, AK, USA",
 "82 years, 4 months, 21 days",
 [
-	["E0834","Birth","1820-02-28","28 FEB 1820",490,"Birth of Rodriquez, Barbara Ann","",[],[]],
-	["E0835","Death","1902-07-20","20 JUL 1902",388,"Death of Rodriquez, Barbara Ann","",[],[]]
+	["E0834","Birth","1820-02-28","28 FEB 1820",733,"Birth of Rodriquez, Barbara Ann","",[],[]],
+	["E0835","Death","1902-07-20","20 JUL 1902",573,"Death of Rodriquez, Barbara Ann","",[],[]]
 ],
 [
 
@@ -34397,12 +34397,12 @@ I = [
 ["I1728","Rodriquez, Charles","Rodriquez, Charles",
 [["Rodriquez, Charles","Birth Name","","","","Charles","",["Rodriquez"],"","","",[]]],
 "M","?",
-"La Follette, TN",
+"La Follette, TN, USA",
 "",
 "",
 "",
 [
-	["E0849","Birth","","",412,"Birth of Rodriquez, Charles","",[],[]]
+	["E0849","Birth","","",605,"Birth of Rodriquez, Charles","",[],[]]
 ],
 [
 
@@ -34419,12 +34419,12 @@ I = [
 ["I1734","Rodriquez, Elizabeth","Rodriquez, Elizabeth",
 [["Rodriquez, Elizabeth","Birth Name","","","","Elizabeth","",["Rodriquez"],"","","",[]]],
 "F","?",
-"La Follette, TN",
+"La Follette, TN, USA",
 "",
 "",
 "",
 [
-	["E0856","Birth","","",412,"Birth of Rodriquez, Elizabeth","",[],[]]
+	["E0856","Birth","","",605,"Birth of Rodriquez, Elizabeth","",[],[]]
 ],
 [
 
@@ -34441,12 +34441,12 @@ I = [
 ["I1715","Rodriquez, Elizabeth Jane","Rodriquez, Elizabeth Jane",
 [["Rodriquez, Elizabeth Jane","Birth Name","","","","Elizabeth Jane","",["Rodriquez"],"","","",[]]],
 "F","1816",
-"Mayagüez, PR",
+"Mayagüez, PR, USA",
 "",
 "",
 "",
 [
-	["E0832","Birth","1816-04-01","1 APR 1816",490,"Birth of Rodriquez, Elizabeth Jane","",[],[]]
+	["E0832","Birth","1816-04-01","1 APR 1816",733,"Birth of Rodriquez, Elizabeth Jane","",[],[]]
 ],
 [
 
@@ -34463,12 +34463,12 @@ I = [
 ["I1729","Rodriquez, James","Rodriquez, James",
 [["Rodriquez, James","Birth Name","","","","James","",["Rodriquez"],"","","",[]]],
 "M","1776",
-"La Follette, TN",
+"La Follette, TN, USA",
 "",
 "",
 "",
 [
-	["E0850","Birth","1776-07-22","22 JUL 1776",412,"Birth of Rodriquez, James","",[],[]]
+	["E0850","Birth","1776-07-22","22 JUL 1776",605,"Birth of Rodriquez, James","",[],[]]
 ],
 [
 
@@ -34485,12 +34485,12 @@ I = [
 ["I1713","Rodriquez, John","Rodriquez, John",
 [["Rodriquez, John","Birth Name","","","","John","",["Rodriquez"],"","","",[]]],
 "M","1807",
-"Mayagüez, PR",
+"Mayagüez, PR, USA",
 "",
 "",
 "",
 [
-	["E0830","Birth","1807-01-22","22 JAN 1807",490,"Birth of Rodriquez, John","",[],[]]
+	["E0830","Birth","1807-01-22","22 JAN 1807",733,"Birth of Rodriquez, John","",[],[]]
 ],
 [
 
@@ -34509,10 +34509,10 @@ I = [
 "M","?",
 "",
 "1849",
-"Huntsville, TX",
+"Huntsville, Walker, TX, USA",
 "",
 [
-	["E0826","Death","1849-12-25","25 DEC 1849",362,"Death of Rodriquez, John","",[],[]]
+	["E0826","Death","1849-12-25","25 DEC 1849",525,"Death of Rodriquez, John","",[],[]]
 ],
 [
 
@@ -34529,12 +34529,12 @@ I = [
 ["I1732","Rodriquez, Margaret","Rodriquez, Margaret",
 [["Rodriquez, Margaret","Birth Name","","","","Margaret","",["Rodriquez"],"","","",[]]],
 "F","1781",
-"La Follette, TN",
+"La Follette, TN, USA",
 "",
 "",
 "",
 [
-	["E0854","Birth","1781-03-05","5 MAR 1781",412,"Birth of Rodriquez, Margaret","",[],[]]
+	["E0854","Birth","1781-03-05","5 MAR 1781",605,"Birth of Rodriquez, Margaret","",[],[]]
 ],
 [
 
@@ -34551,12 +34551,12 @@ I = [
 ["I1720","Rodriquez, Maria Louisa","Rodriquez, Maria Louisa",
 [["Rodriquez, Maria Louisa","Birth Name","","","","Maria Louisa","",["Rodriquez"],"","","",[]]],
 "F","1825",
-"Mayagüez, PR",
+"Mayagüez, PR, USA",
 "",
 "",
 "",
 [
-	["E0840","Birth","1825-09-24","24 SEP 1825",490,"Birth of Rodriquez, Maria Louisa","",[],[]]
+	["E0840","Birth","1825-09-24","24 SEP 1825",733,"Birth of Rodriquez, Maria Louisa","",[],[]]
 ],
 [
 
@@ -34573,14 +34573,14 @@ I = [
 ["I0598","Rodriquez, Mariam","Rodriquez, Mariam",
 [["Rodriquez, Mariam","Birth Name","","","","Mariam","",["Rodriquez"],"","","",[]]],
 "F","1814",
-"Santa Isabel, PR",
+"Santa Isabel, PR, USA",
 "1900",
-"Billings, MT",
+"Billings, MT, USA",
 "86 years, 3 months, 17 days",
 [
-	["E1975","Birth","1814-05-14","14 MAY 1814",692,"Birth of Rodriquez, Mariam","",[],[]],
-	["E1976","Death","1900-08-31","31 AUG 1900",77,"Death of Rodriquez, Mariam","",[],[]],
-	["E1977","Burial","1900-09-02","2 SEP 1900",310,"Burial of Rodriquez, Mariam","",[],[]]
+	["E1975","Birth","1814-05-14","14 MAY 1814",1035,"Birth of Rodriquez, Mariam","",[],[]],
+	["E1976","Death","1900-08-31","31 AUG 1900",104,"Death of Rodriquez, Mariam","",[],[]],
+	["E1977","Burial","1900-09-02","2 SEP 1900",447,"Burial of Rodriquez, Mariam","",[],[]]
 ],
 [
 
@@ -34597,12 +34597,12 @@ I = [
 ["I1723","Rodriquez, Mary","Rodriquez, Mary",
 [["Rodriquez, Mary","Birth Name","","","","Mary","",["Rodriquez"],"","","",[]]],
 "F","1770",
-"Lewiston, ID",
+"Lewiston, Nez Perce, ID, USA",
 "",
 "",
 "",
 [
-	["E0843","Birth","1770-03-03","3 MAR 1770",441,"Birth of Rodriquez, Mary","",[],[]]
+	["E0843","Birth","1770-03-03","3 MAR 1770",651,"Birth of Rodriquez, Mary","",[],[]]
 ],
 [
 
@@ -34619,12 +34619,12 @@ I = [
 ["I1719","Rodriquez, Mary Ann","Rodriquez, Mary Ann",
 [["Rodriquez, Mary Ann","Birth Name","","","","Mary Ann","",["Rodriquez"],"","","",[]]],
 "F","1823",
-"Mayagüez, PR",
+"Mayagüez, PR, USA",
 "",
 "",
 "",
 [
-	["E0837","Birth","1823-06-17","17 JUN 1823",490,"Birth of Rodriquez, Mary Ann","",[],[]]
+	["E0837","Birth","1823-06-17","17 JUN 1823",733,"Birth of Rodriquez, Mary Ann","",[],[]]
 ],
 [
 
@@ -34641,12 +34641,12 @@ I = [
 ["I1721","Rodriquez, Michael Mordica","Rodriquez, Michael Mordica",
 [["Rodriquez, Michael Mordica","Birth Name","","","","Michael Mordica","",["Rodriquez"],"","","",[]]],
 "M","1828",
-"Mayagüez, PR",
+"Mayagüez, PR, USA",
 "",
 "",
 "",
 [
-	["E0841","Birth","1828-08-27","27 AUG 1828",490,"Birth of Rodriquez, Michael Mordica","",[],[]]
+	["E0841","Birth","1828-08-27","27 AUG 1828",733,"Birth of Rodriquez, Michael Mordica","",[],[]]
 ],
 [
 
@@ -34663,13 +34663,13 @@ I = [
 ["I1725","Rodriquez, Mordica","Rodriquez, Mordica",
 [["Rodriquez, Mordica","Birth Name","","","","Mordica","",["Rodriquez"],"","","",[]]],
 "M","1772",
-"La Follette, TN",
+"La Follette, TN, USA",
 "1853",
-"Augusta, ME",
+"Augusta, ME, USA",
 "81 years, 5 months, 26 days",
 [
-	["E0844","Birth","1772-01-06","6 JAN 1772",412,"Birth of Rodriquez, Mordica","",[],[]],
-	["E0845","Death","1853-07-00","JUL 1853",50,"Death of Rodriquez, Mordica","",[],[]]
+	["E0844","Birth","1772-01-06","6 JAN 1772",605,"Birth of Rodriquez, Mordica","",[],[]],
+	["E0845","Death","1853-07-00","JUL 1853",64,"Death of Rodriquez, Mordica","",[],[]]
 ],
 [
 
@@ -34686,12 +34686,12 @@ I = [
 ["I1718","Rodriquez, Oma","Rodriquez, Oma",
 [["Rodriquez, Oma","Birth Name","","","","Oma","",["Rodriquez"],"","","",[]]],
 "F","1821",
-"Mayagüez, PR",
+"Mayagüez, PR, USA",
 "",
 "",
 "",
 [
-	["E0836","Birth","1821-11-28","28 NOV 1821",490,"Birth of Rodriquez, Oma","",[],[]]
+	["E0836","Birth","1821-11-28","28 NOV 1821",733,"Birth of Rodriquez, Oma","",[],[]]
 ],
 [
 
@@ -34708,12 +34708,12 @@ I = [
 ["I1722","Rodriquez, Peter","Rodriquez, Peter",
 [["Rodriquez, Peter","Birth Name","","","","Peter","",["Rodriquez"],"","","",[]]],
 "M","?",
-"La Follette, TN",
+"La Follette, TN, USA",
 "",
 "",
 "",
 [
-	["E0842","Birth","","",412,"Birth of Rodriquez, Peter","",[],[]]
+	["E0842","Birth","","",605,"Birth of Rodriquez, Peter","",[],[]]
 ],
 [
 
@@ -34730,12 +34730,12 @@ I = [
 ["I1730","Rodriquez, Richard","Rodriquez, Richard",
 [["Rodriquez, Richard","Birth Name","","","","Richard","",["Rodriquez"],"","","",[]]],
 "M","1778",
-"La Follette, TN",
+"La Follette, TN, USA",
 "",
 "",
 "",
 [
-	["E0853","Birth","1778-07-31","31 JUL 1778",412,"Birth of Rodriquez, Richard","",[],[]]
+	["E0853","Birth","1778-07-31","31 JUL 1778",605,"Birth of Rodriquez, Richard","",[],[]]
 ],
 [
 
@@ -34752,12 +34752,12 @@ I = [
 ["I1733","Rodriquez, Thomas","Rodriquez, Thomas",
 [["Rodriquez, Thomas","Birth Name","","","","Thomas","",["Rodriquez"],"","","",[]]],
 "M","?",
-"La Follette, TN",
+"La Follette, TN, USA",
 "",
 "",
 "",
 [
-	["E0855","Birth","","",412,"Birth of Rodriquez, Thomas","",[],[]]
+	["E0855","Birth","","",605,"Birth of Rodriquez, Thomas","",[],[]]
 ],
 [
 
@@ -34774,12 +34774,34 @@ I = [
 ["I1712","Rodriquez, William Frederick","Rodriquez, William Frederick",
 [["Rodriquez, William Frederick","Birth Name","","","","William Frederick","",["Rodriquez"],"","","",[]]],
 "M","1806",
-"Mayagüez, PR",
+"Mayagüez, PR, USA",
 "",
 "",
 "",
 [
-	["E0829","Birth","1806-12-17","17 DEC 1806",490,"Birth of Rodriquez, William Frederick","",[],[]]
+	["E0829","Birth","1806-12-17","17 DEC 1806",733,"Birth of Rodriquez, William Frederick","",[],[]]
+],
+[
+
+],
+"",
+[],
+[],
+[],
+[],
+[],
+[[536,"Birth","Birth","",[]]],
+[]
+],
+["I1716","Rodriquez, William M.","Rodriquez, William M.",
+[["Rodriquez, William M.","Birth Name","","","","William M.","",["Rodriquez"],"","","",[]]],
+"M","1818",
+"Mayagüez, PR, USA",
+"",
+"",
+"",
+[
+	["E0833","Birth","1818-05-07","7 MAY 1818",733,"Birth of Rodriquez, William M.","",[],[]]
 ],
 [
 
@@ -34796,14 +34818,14 @@ I = [
 ["I0597","Rodriquez, William M.","Rodriquez, William M.",
 [["Rodriquez, William M.","Birth Name","","","","William M.","",["Rodriquez"],"","","",[]]],
 "M","1785",
-"Manhattan, KS",
+"Manhattan, Riley, KS, USA",
 "?",
-"Juneau, AK",
+"Juneau, AK, USA",
 "unknown",
 [
-	["E1972","Birth","1785-08-08","8 AUG 1785",473,"Birth of Rodriquez, William M.","",[],[]],
-	["E1973","Death","","",388,"Death of Rodriquez, William M.","",[],[]],
-	["E1974","Burial","","",683,"Burial of Rodriquez, William M.","",[],[]]
+	["E1972","Birth","1785-08-08","8 AUG 1785",706,"Birth of Rodriquez, William M.","",[],[]],
+	["E1973","Death","","",573,"Death of Rodriquez, William M.","",[],[]],
+	["E1974","Burial","","",1020,"Burial of Rodriquez, William M.","",[],[]]
 ],
 [
 
@@ -34815,28 +34837,6 @@ I = [
 [],
 [536],
 [[531,"Birth","Birth","",[]]],
-[]
-],
-["I1716","Rodriquez, William M.","Rodriquez, William M.",
-[["Rodriquez, William M.","Birth Name","","","","William M.","",["Rodriquez"],"","","",[]]],
-"M","1818",
-"Mayagüez, PR",
-"",
-"",
-"",
-[
-	["E0833","Birth","1818-05-07","7 MAY 1818",490,"Birth of Rodriquez, William M.","",[],[]]
-],
-[
-
-],
-"",
-[],
-[],
-[],
-[],
-[],
-[[536,"Birth","Birth","",[]]],
 []
 ],
 ["I1510","Rogers, Barbara","Rogers, Barbara",
@@ -34909,12 +34909,12 @@ I = [
 ["I0416","Ross, Evelyn Almazon","Ross, Evelyn Almazon",
 [["Ross, Evelyn Almazon","Birth Name","","","","Evelyn Almazon","",["Ross"],"","","",[]]],
 "F","1955",
-"Tullahoma, TN",
+"Tullahoma, TN, USA",
 "",
 "",
 "",
 [
-	["E1602","Birth","1955-04-23","23 APR 1955",778,"Birth of Ross, Evelyn Almazon","",[],[]],
+	["E1602","Birth","1955-04-23","23 APR 1955",1162,"Birth of Ross, Evelyn Almazon","",[],[]],
 	["E1603","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -34956,10 +34956,10 @@ I = [
 "F","?",
 "",
 "?",
-"Huntsville, AL",
+"Huntsville, Madison, AL, USA",
 "",
 [
-	["E1892","Death","","",361,"Death of Rubio, Dorcas","",[],[]]
+	["E1892","Death","","",524,"Death of Rubio, Dorcas","",[],[]]
 ],
 [
 
@@ -34998,14 +34998,14 @@ I = [
 ["I0958","Rubio, Winifred","Rubio, Winifred",
 [["Rubio, Winifred","Birth Name","","","","Winifred","",["Rubio"],"","","",[]]],
 "F","1709",
-"Pittsburgh, PA",
+"Pittsburgh, PA, USA",
 "1751",
-"Laredo, TX",
+"Laredo, Webb, TX, USA",
 "42 years, 9 months, 5 days",
 [
-	["E2635","Birth","1709","1709",615,"Birth of Rubio, Winifred","",[],[]],
-	["E2636","Death","1751-10-06","6 OCT 1751",428,"Death of Rubio, Winifred","",[],[]],
-	["E2637","Burial","1751","1751",486,"Burial of Rubio, Winifred","",[],[]]
+	["E2635","Birth","1709","1709",933,"Birth of Rubio, Winifred","",[],[]],
+	["E2636","Death","1751-10-06","6 OCT 1751",628,"Death of Rubio, Winifred","",[],[]],
+	["E2637","Burial","1751","1751",725,"Burial of Rubio, Winifred","",[],[]]
 ],
 [
 
@@ -35022,14 +35022,14 @@ I = [
 ["I0466","Ruiz, Catherine","Ruiz, Catherine",
 [["Ruiz, Catherine","Birth Name","","","","Catherine","",["Ruiz"],"","","",[]]],
 "F","1786",
-"Laredo, TX",
+"Laredo, Webb, TX, USA",
 "1877",
-"Dallas, TX",
+"Dallas, Dallas, TX, USA",
 "91 years, 5 months, 5 days",
 [
-	["E1719","Birth","1786-04-20","20 APR 1786",428,"Birth of Ruiz, Catherine","",[],[]],
-	["E1720","Death","1877-09-25","25 SEP 1877",193,"Death of Ruiz, Catherine","",[],[]],
-	["E1721","Burial","","",432,"Burial of Ruiz, Catherine","",[],[]]
+	["E1719","Birth","1786-04-20","20 APR 1786",628,"Birth of Ruiz, Catherine","",[],[]],
+	["E1720","Death","1877-09-25","25 SEP 1877",275,"Death of Ruiz, Catherine","",[],[]],
+	["E1721","Burial","","",636,"Burial of Ruiz, Catherine","",[],[]]
 ],
 [
 
@@ -35046,12 +35046,12 @@ I = [
 ["I0591","Russell, Beth Ann","Russell, Beth Ann",
 [["Russell, Beth Ann","Birth Name","","","","Beth Ann","",["Russell"],"","","",[]]],
 "F","1968",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E1964","Birth","1968-02-15","15 FEB 1968",586,"Birth of Russell, Beth Ann","",[],[]],
+	["E1964","Birth","1968-02-15","15 FEB 1968",893,"Birth of Russell, Beth Ann","",[],[]],
 	["E1965","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -35069,12 +35069,12 @@ I = [
 ["I0594","Russell, Bruce Lynn","Russell, Bruce Lynn",
 [["Russell, Bruce Lynn","Birth Name","","","","Bruce Lynn","",["Russell"],"","","",[]]],
 "M","1964",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E1970","Birth","1964-12-28","28 DEC 1964",586,"Birth of Russell, Bruce Lynn","",[],[]],
+	["E1970","Birth","1964-12-28","28 DEC 1964",893,"Birth of Russell, Bruce Lynn","",[],[]],
 	["E1971","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -35092,12 +35092,12 @@ I = [
 ["I0619","Russell, Casey John","Russell, Casey John",
 [["Russell, Casey John","Birth Name","","","","Casey John","",["Russell"],"","","",[]]],
 "M","1990",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E2028","Birth","1990-03-16","16 MAR 1990",586,"Birth of Russell, Casey John","",[],[]],
+	["E2028","Birth","1990-03-16","16 MAR 1990",893,"Birth of Russell, Casey John","",[],[]],
 	["E2029","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -35138,12 +35138,12 @@ I = [
 ["I0240","Russell, Melvin Glen","Russell, Melvin Glen",
 [["Russell, Melvin Glen","Birth Name","","","","Melvin Glen","",["Russell"],"","","",[]]],
 "M","1936",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E1280","Birth","1936-09-23","23 SEP 1936",586,"Birth of Russell, Melvin Glen","",[],[]],
+	["E1280","Birth","1936-09-23","23 SEP 1936",893,"Birth of Russell, Melvin Glen","",[],[]],
 	["E1281","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -35161,12 +35161,12 @@ I = [
 ["I0618","Russell, Nicholas Glen","Russell, Nicholas Glen",
 [["Russell, Nicholas Glen","Birth Name","","","","Nicholas Glen","",["Russell"],"","","",[]]],
 "M","1987",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E2026","Birth","1987-04-03","3 APR 1987",586,"Birth of Russell, Nicholas Glen","",[],[]],
+	["E2026","Birth","1987-04-03","3 APR 1987",893,"Birth of Russell, Nicholas Glen","",[],[]],
 	["E2027","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -35186,12 +35186,12 @@ I = [
 "M","1908",
 "",
 "?",
-"Alexandria, LA",
+"Alexandria, Rapides, LA, USA",
 "unknown",
 [
 	["E1275","Birth","1908-04-27","27 APR 1908",-1,"Birth of Russell, Norman","",[],[]],
-	["E1276","Death","","",14,"Death of Russell, Norman","",[],[]],
-	["E1277","Burial","1992","1992",764,"Burial of Russell, Norman","",[],[]]
+	["E1276","Death","","",22,"Death of Russell, Norman","",[],[]],
+	["E1277","Burial","1992","1992",1140,"Burial of Russell, Norman","",[],[]]
 ],
 [
 
@@ -35202,6 +35202,29 @@ I = [
 [],
 [],
 [542],
+[],
+[]
+],
+["I1942","Ryan, Elizabeth","Ryan, Elizabeth",
+[["Ryan, Elizabeth","Birth Name","","","","Elizabeth","",["Ryan"],"","","",[]]],
+"F","?",
+"Wilmington, OH, USA",
+"1628",
+"Wilmington, OH, USA",
+"about 72 years",
+[
+	["E1058","Birth","about 1556","ABT 1556",1260,"Birth of Ryan, Elizabeth","",[],[]],
+	["E1059","Death","1628","1628",1260,"Death of Ryan, Elizabeth","",[],[]]
+],
+[
+
+],
+"",
+[],
+[],
+[],
+[],
+[217],
 [],
 []
 ],
@@ -35224,29 +35247,6 @@ I = [
 [],
 [],
 [218],
-[],
-[]
-],
-["I1942","Ryan, Elizabeth","Ryan, Elizabeth",
-[["Ryan, Elizabeth","Birth Name","","","","Elizabeth","",["Ryan"],"","","",[]]],
-"F","?",
-"Wilmington, OH",
-"1628",
-"Wilmington, OH",
-"about 72 years",
-[
-	["E1058","Birth","about 1556","ABT 1556",834,"Birth of Ryan, Elizabeth","",[],[]],
-	["E1059","Death","1628","1628",834,"Death of Ryan, Elizabeth","",[],[]]
-],
-[
-
-],
-"",
-[],
-[],
-[],
-[],
-[217],
 [],
 []
 ],
@@ -35298,13 +35298,13 @@ I = [
 ["I0685","Sanchez, John","Sanchez, John",
 [["Sanchez, John","Birth Name","","","","John","",["Sanchez"],"","","",[]]],
 "M","?",
-"Phoenix, AZ",
+"Phoenix, Maricopa, AZ, USA",
 "1545",
-"Phoenix, AZ",
+"Phoenix, Maricopa, AZ, USA",
 "about 65 years",
 [
-	["E2139","Birth","about 1480","ABT 1480",611,"Birth of Sanchez, John","",[],[]],
-	["E2140","Death","1545","1545",611,"Death of Sanchez, John","",[],[]]
+	["E2139","Birth","about 1480","ABT 1480",926,"Birth of Sanchez, John","",[],[]],
+	["E2140","Death","1545","1545",926,"Death of Sanchez, John","",[],[]]
 ],
 [
 
@@ -35321,12 +35321,12 @@ I = [
 ["I0865","Sánchez, Jonathan Andrew","Sánchez, Jonathan Andrew",
 [["Sánchez, Jonathan Andrew","Birth Name","","","","Jonathan Andrew","",["Sánchez"],"","","",[]]],
 "M","1991",
-"Statesboro, GA",
+"Statesboro, Bulloch, GA, USA",
 "",
 "",
 "",
 [
-	["E2457","Birth","1991-05-06","6 MAY 1991",742,"Birth of Sánchez, Jonathan Andrew","",[],[]],
+	["E2457","Birth","1991-05-06","6 MAY 1991",1103,"Birth of Sánchez, Jonathan Andrew","",[],[]],
 	["E2458","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -35344,12 +35344,12 @@ I = [
 ["I0864","Sánchez, Roxanne Marie","Sánchez, Roxanne Marie",
 [["Sánchez, Roxanne Marie","Birth Name","","","","Roxanne Marie","",["Sánchez"],"","","",[]]],
 "F","1988",
-"Statesboro, GA",
+"Statesboro, Bulloch, GA, USA",
 "",
 "",
 "",
 [
-	["E2455","Birth","1988-09-12","12 SEP 1988",742,"Birth of Sánchez, Roxanne Marie","",[],[]],
+	["E2455","Birth","1988-09-12","12 SEP 1988",1103,"Birth of Sánchez, Roxanne Marie","",[],[]],
 	["E2456","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -35367,12 +35367,12 @@ I = [
 ["I1000","Sanders, Henry","Sanders, Henry",
 [["Sanders, Henry","Birth Name","","","","Henry","",["Sanders"],"","","",[]]],
 "M","?",
-"Redwood City, CA",
+"Redwood City, San Mateo, CA, USA",
 "1658",
 "",
 "unknown",
 [
-	["E0006","Birth","","",648,"Birth of Sanders, Henry","",[],[]],
+	["E0006","Birth","","",977,"Birth of Sanders, Henry","",[],[]],
 	["E0007","Death","1658-06-17","17 JUN 1658",-1,"Death of Sanders, Henry","",[],[]]
 ],
 [
@@ -35390,12 +35390,12 @@ I = [
 ["I0675","Sanders, Mary","Sanders, Mary",
 [["Sanders, Mary","Birth Name","","","","Mary","",["Sanders"],"","","",[]]],
 "F","?",
-"Camden, NJ",
+"Camden, NJ, USA",
 "",
 "",
 "",
 [
-	["E2121","Birth","about 1629","ABT 1629",122,"Birth of Sanders, Mary","",[],[]]
+	["E2121","Birth","about 1629","ABT 1629",166,"Birth of Sanders, Mary","",[],[]]
 ],
 [
 
@@ -35566,12 +35566,12 @@ I = [
 ["I1148","Santos, Alice","Santos, Alice",
 [["Santos, Alice","Birth Name","","","","Alice","",["Santos"],"","","",[]]],
 "F","?",
-"Decatur, AL",
+"Decatur, Morgan, AL, USA",
 "",
 "",
 "",
 [
-	["E0247","Birth","","",202,"Birth of Santos, Alice","",[],[]]
+	["E0247","Birth","","",292,"Birth of Santos, Alice","",[],[]]
 ],
 [
 
@@ -35590,11 +35590,11 @@ I = [
 "M","1869",
 "",
 "?",
-"Troy, AL",
+"Troy, Pike, AL, USA",
 "unknown",
 [
 	["E0524","Birth","1869-12-25","25 DEC 1869",-1,"Birth of Sanz, John","",[],[]],
-	["E0525","Death","","",776,"Death of Sanz, John","",[],[]]
+	["E0525","Death","","",1159,"Death of Sanz, John","",[],[]]
 ],
 [
 
@@ -35611,13 +35611,13 @@ I = [
 ["I0760","Saunders, Ursula","Saunders, Ursula",
 [["Saunders, Ursula","Birth Name","","","","Ursula","",["Saunders"],"","","",[]]],
 "F","?",
-"Greenville, MS",
+"Greenville, MS, USA",
 "1740",
-"Bucyrus, OH",
+"Bucyrus, OH, USA",
 "about 60 years",
 [
-	["E2258","Birth","about 1680","ABT 1680",318,"Birth of Saunders, Ursula","",[],[]],
-	["E2259","Death","1740","1740",108,"Death of Saunders, Ursula","",[],[]]
+	["E2258","Birth","about 1680","ABT 1680",458,"Birth of Saunders, Ursula","",[],[]],
+	["E2259","Death","1740","1740",145,"Death of Saunders, Ursula","",[],[]]
 ],
 [
 
@@ -35634,14 +35634,14 @@ I = [
 ["I0838","Savard, Honora","Savard, Honora",
 [["Savard, Honora","Birth Name","","","","Honora","",["Savard"],"","","",[]]],
 "F","1817",
-"Del Rio, TX",
+"Del Rio, Val Verde, TX, USA",
 "1902",
-"Summerville, GA",
+"Summerville, Chattooga, GA, USA",
 "85 years, 3 months",
 [
-	["E2404","Birth","1817","1817",206,"Birth of Savard, Honora","",[],[]],
-	["E2405","Death","1902-04-01","1 APR 1902",754,"Death of Savard, Honora","",[],[]],
-	["E2406","Burial","","",488,"Burial of Savard, Honora","",[],[]]
+	["E2404","Birth","1817","1817",298,"Birth of Savard, Honora","",[],[]],
+	["E2405","Death","1902-04-01","1 APR 1902",1120,"Death of Savard, Honora","",[],[]],
+	["E2406","Burial","","",728,"Burial of Savard, Honora","",[],[]]
 ],
 [
 
@@ -35680,12 +35680,12 @@ I = [
 ["I0930","Schmidt, Barbli","Schmidt, Barbli",
 [["Schmidt, Barbli","Birth Name","","","","Barbli","",["Schmidt"],"","","",[]]],
 "F","?",
-"Cheyenne, WY",
+"Cheyenne, WY, USA",
 "",
 "",
 "",
 [
-	["E2581","Birth","about 1655","ABT 1655",145,"Birth of Schmidt, Barbli","",[],[]]
+	["E2581","Birth","about 1655","ABT 1655",200,"Birth of Schmidt, Barbli","",[],[]]
 ],
 [
 
@@ -35747,12 +35747,12 @@ I = [
 ["I0100","Schultz, John","Schultz, John",
 [["Schultz, John","Birth Name","","","","John","",["Schultz"],"","","",[]]],
 "M","?",
-"Lock Haven, PA",
+"Lock Haven, PA, USA",
 "1860",
 "",
 "unknown",
 [
-	["E0003","Birth","","",454,"Birth of Schultz, John","",[],[]],
+	["E0003","Birth","","",669,"Birth of Schultz, John","",[],[]],
 	["E0004","Death","1860","1860",-1,"Death of Schultz, John","",[],[]],
 	["E0005","Burial","","",-1,"Burial of Schultz, John","",[],[]]
 ],
@@ -35771,14 +35771,14 @@ I = [
 ["I0949","Schultz, Rev.Isaac","Schultz, Rev.Isaac",
 [["Schultz, Rev.Isaac","Birth Name","","","","Rev.Isaac","",["Schultz"],"","","",[]]],
 "M","?",
-"Peru, IN",
+"Peru, Miami, IN, USA",
 "?",
-"Seneca Falls, NY",
+"Seneca Falls, Seneca, NY, USA",
 "unknown",
 [
-	["E2616","Birth","","",607,"Birth of Schultz, Rev.Isaac","",[],[]],
-	["E2617","Death","about 1818","ABT 1818",704,"Death of Schultz, Rev.Isaac","",[],[]],
-	["E2618","Burial","about 1818","ABT 1818",638,"Burial of Schultz, Rev.Isaac","",[],[]]
+	["E2616","Birth","","",921,"Birth of Schultz, Rev.Isaac","",[],[]],
+	["E2617","Death","about 1818","ABT 1818",1052,"Death of Schultz, Rev.Isaac","",[],[]],
+	["E2618","Burial","about 1818","ABT 1818",963,"Burial of Schultz, Rev.Isaac","",[],[]]
 ],
 [
 
@@ -35840,12 +35840,12 @@ I = [
 ["I1672","Serrano, Abraham","Serrano, Abraham",
 [["Serrano, Abraham","Birth Name","","","","Abraham","",["Serrano"],"","","",[]]],
 "M","?",
-"Reno-Sparks, NV",
+"Reno-Sparks, NV, USA",
 "",
 "",
 "",
 [
-	["E0787","Birth","","",649,"Birth of Serrano, Abraham","",[],[]]
+	["E0787","Birth","","",979,"Birth of Serrano, Abraham","",[],[]]
 ],
 [
 
@@ -35864,12 +35864,12 @@ I = [
 "M","1804",
 "",
 "1842",
-"Reno-Sparks, NV",
+"Reno-Sparks, NV, USA",
 "37 years, 11 months, 2 days",
 [
 	["E0774","Birth","1804-12-15","15 DEC 1804",-1,"Birth of Serrano, Archibald","",[],[]],
-	["E0775","Death","1842-11-17","17 NOV 1842",649,"Death of Serrano, Archibald","",[],[]],
-	["E0776","Burial","1842-11-19","19 NOV 1842",305,"Burial of Serrano, Archibald","",[],[]]
+	["E0775","Death","1842-11-17","17 NOV 1842",979,"Death of Serrano, Archibald","",[],[]],
+	["E0776","Burial","1842-11-19","19 NOV 1842",440,"Burial of Serrano, Archibald","",[],[]]
 ],
 [
 
@@ -35886,13 +35886,13 @@ I = [
 ["I0480","Serrano, Caroline","Serrano, Caroline",
 [["Serrano, Caroline","Birth Name","","","","Caroline","",["Serrano"],"","","",[]]],
 "F","1711",
-"Waterloo-Cedar Falls, IA",
+"Waterloo-Cedar Falls, IA, USA",
 "?",
-"Auburn, NY",
+"Auburn, Cayuga, NY, USA",
 "unknown",
 [
-	["E1757","Birth","1711","1711",814,"Birth of Serrano, Caroline","",[],[]],
-	["E1758","Death","","",49,"Death of Serrano, Caroline","",[],[]]
+	["E1757","Birth","1711","1711",1226,"Birth of Serrano, Caroline","",[],[]],
+	["E1758","Death","","",63,"Death of Serrano, Caroline","",[],[]]
 ],
 [
 
@@ -35909,12 +35909,12 @@ I = [
 ["I1687","Serrano, Carrie","Serrano, Carrie",
 [["Serrano, Carrie","Birth Name","","","","Carrie","",["Serrano"],"","","",[]]],
 "F","?",
-"Reno-Sparks, NV",
+"Reno-Sparks, NV, USA",
 "",
 "",
 "",
 [
-	["E0797","Birth","","",649,"Birth of Serrano, Carrie","",[],[]]
+	["E0797","Birth","","",979,"Birth of Serrano, Carrie","",[],[]]
 ],
 [
 
@@ -35953,12 +35953,12 @@ I = [
 ["I1689","Serrano, Dot","Serrano, Dot",
 [["Serrano, Dot","Birth Name","","","","Dot","",["Serrano"],"","","",[]]],
 "F","?",
-"Reno-Sparks, NV",
+"Reno-Sparks, NV, USA",
 "",
 "",
 "",
 [
-	["E0798","Birth","","",649,"Birth of Serrano, Dot","",[],[]]
+	["E0798","Birth","","",979,"Birth of Serrano, Dot","",[],[]]
 ],
 [
 
@@ -35975,12 +35975,12 @@ I = [
 ["I1669","Serrano, Joseph","Serrano, Joseph",
 [["Serrano, Joseph","Birth Name","","","","Joseph","",["Serrano"],"","","",[]]],
 "M","?",
-"Reno-Sparks, NV",
+"Reno-Sparks, NV, USA",
 "",
 "",
 "",
 [
-	["E0780","Birth","","",649,"Birth of Serrano, Joseph","",[],[]]
+	["E0780","Birth","","",979,"Birth of Serrano, Joseph","",[],[]]
 ],
 [
 
@@ -35997,14 +35997,14 @@ I = [
 ["I1668","Serrano, Joseph","Serrano, Joseph",
 [["Serrano, Joseph","Birth Name","","","","Joseph","",["Serrano"],"","","",[]]],
 "M","1834",
-"Boulder, CO",
+"Boulder, Boulder, CO, USA",
 "1899",
-"Reno-Sparks, NV",
+"Reno-Sparks, NV, USA",
 "65 years, 6 months, 29 days",
 [
-	["E0777","Birth","1834-04-03","3 APR 1834",93,"Birth of Serrano, Joseph","",[],[]],
-	["E0778","Death","1899-11-02","2 NOV 1899",649,"Death of Serrano, Joseph","",[],[]],
-	["E0779","Burial","1899-11-04","4 NOV 1899",552,"Burial of Serrano, Joseph","",[],[]]
+	["E0777","Birth","1834-04-03","3 APR 1834",124,"Birth of Serrano, Joseph","",[],[]],
+	["E0778","Death","1899-11-02","2 NOV 1899",979,"Death of Serrano, Joseph","",[],[]],
+	["E0779","Burial","1899-11-04","4 NOV 1899",837,"Burial of Serrano, Joseph","",[],[]]
 ],
 [
 
@@ -36043,14 +36043,14 @@ I = [
 ["I0741","Sharp, ???","Sharp, ???",
 [["Sharp, ???","Birth Name","","","","???","",["Sharp"],"","","",[]]],
 "F","?",
-"Watertown-Fort Drum, NY",
+"Watertown-Fort Drum, NY, USA",
 "9",
-"Kahului, HI",
+"Kahului, HI, USA",
 "unknown",
 [
-	["E2219","Birth","","",815,"Birth of Sharp, ???","",[],[]],
-	["E2220","Death","9","9",389,"Death of Sharp, ???","",[],[]],
-	["E2221","Burial","","",827,"Burial of Sharp, ???","",[],[]]
+	["E2219","Birth","","",1227,"Birth of Sharp, ???","",[],[]],
+	["E2220","Death","9","9",574,"Death of Sharp, ???","",[],[]],
+	["E2221","Burial","","",1251,"Burial of Sharp, ???","",[],[]]
 ],
 [
 
@@ -36089,14 +36089,14 @@ I = [
 ["I0065","Silva, Mildred","Silva, Mildred",
 [["Silva, Mildred","Birth Name","","","","Mildred","",["Silva"],"","","",[]]],
 "F","1805",
-"Davenport, IA",
+"Davenport, Scott, IA, USA",
 "1869",
-"Guaynabo, PR",
+"Guaynabo, PR, USA",
 "63 years, 7 months, 4 days",
 [
-	["E2088","Birth","1805-10-06","6 OCT 1805",199,"Birth of Silva, Mildred","",[],[]],
-	["E2089","Death","1869-05-10","10 MAY 1869",326,"Death of Silva, Mildred","",[],[]],
-	["E2090","Burial","1869-05-12","12 MAY 1869",326,"Burial of Silva, Mildred","",[],[]]
+	["E2088","Birth","1805-10-06","6 OCT 1805",282,"Birth of Silva, Mildred","",[],[]],
+	["E2089","Death","1869-05-10","10 MAY 1869",467,"Death of Silva, Mildred","",[],[]],
+	["E2090","Burial","1869-05-12","12 MAY 1869",467,"Burial of Silva, Mildred","",[],[]]
 ],
 [
 
@@ -36113,12 +36113,12 @@ I = [
 ["I0768","Simard, Sarah","Simard, Sarah",
 [["Simard, Sarah","Birth Name","","","","Sarah","",["Simard"],"","","",[]]],
 "F","?",
-"Iowa City, IA",
+"Iowa City, Johnson, IA, USA",
 "",
 "",
 "",
 [
-	["E2269","Birth","","",369,"Birth of Simard, Sarah","",[],[]]
+	["E2269","Birth","","",542,"Birth of Simard, Sarah","",[],[]]
 ],
 [
 
@@ -36135,12 +36135,12 @@ I = [
 ["I0769","Simard, Thomas","Simard, Thomas",
 [["Simard, Thomas","Birth Name","","","","Thomas","",["Simard"],"","","",[]]],
 "M","?",
-"Sweetwater, TX",
+"Sweetwater, Nolan, TX, USA",
 "",
 "",
 "",
 [
-	["E2270","Birth","","",756,"Birth of Simard, Thomas","",[],[]]
+	["E2270","Birth","","",1127,"Birth of Simard, Thomas","",[],[]]
 ],
 [
 
@@ -36157,12 +36157,12 @@ I = [
 ["I1188","Simmons, Maria","Simmons, Maria",
 [["Simmons, Maria","Birth Name","","","","Maria","",["Simmons"],"","","",[]]],
 "F","?",
-"Akron, OH",
+"Akron, OH, USA",
 "",
 "",
 "",
 [
-	["E0297","Birth","about 1626","ABT 1626",6,"Birth of Simmons, Maria","",[],[]]
+	["E0297","Birth","about 1626","ABT 1626",10,"Birth of Simmons, Maria","",[],[]]
 ],
 [
 
@@ -36179,12 +36179,12 @@ I = [
 ["I0290","Simpson, Geraldine Ann","Simpson, Geraldine Ann",
 [["Simpson, Geraldine Ann","Birth Name","","","","Geraldine Ann","",["Simpson"],"","","",[]]],
 "F","1945",
-"Pahrump, NV",
+"Pahrump, NV, USA",
 "",
 "",
 "",
 [
-	["E1357","Birth","1945-12-17","17 DEC 1945",593,"Birth of Simpson, Geraldine Ann","",[],[]],
+	["E1357","Birth","1945-12-17","17 DEC 1945",903,"Birth of Simpson, Geraldine Ann","",[],[]],
 	["E1358","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -36202,13 +36202,13 @@ I = [
 ["I0740","Smith, Anastasia?","Smith, Anastasia?",
 [["Smith, Anastasia?","Birth Name","","","","Anastasia?","",["Smith"],"","","",[]]],
 "F","?",
-"Del Rio, TX",
+"Del Rio, Val Verde, TX, USA",
 "?",
-"Del Rio, TX",
+"Del Rio, Val Verde, TX, USA",
 "unknown",
 [
-	["E2217","Birth","","",206,"Birth of Smith, Anastasia?","",[],[]],
-	["E2218","Death","","",206,"Death of Smith, Anastasia?","",[],[]]
+	["E2217","Birth","","",298,"Birth of Smith, Anastasia?","",[],[]],
+	["E2218","Death","","",298,"Death of Smith, Anastasia?","",[],[]]
 ],
 [
 
@@ -36291,13 +36291,13 @@ I = [
 ["I1001","Spencer, Ann","Spencer, Ann",
 [["Spencer, Ann","Birth Name","","","","Ann","",["Spencer"],"","","",[]]],
 "F","?",
-"Valley, AL",
+"Valley, Chambers, AL, USA",
 "1662",
-"Portales, NM",
+"Portales, NM, USA",
 "about 77 years, 11 months, 19 days",
 [
-	["E0008","Birth","about 1585","ABT 1585",792,"Birth of Spencer, Ann","",[],[]],
-	["E0009","Death","1662-12-20","20 DEC 1662",628,"Death of Spencer, Ann","",[],[]]
+	["E0008","Birth","about 1585","ABT 1585",1188,"Birth of Spencer, Ann","",[],[]],
+	["E0009","Death","1662-12-20","20 DEC 1662",950,"Death of Spencer, Ann","",[],[]]
 ],
 [
 
@@ -36338,10 +36338,10 @@ I = [
 "F","?",
 "",
 "?",
-"Dover, DE",
+"Dover, Kent, DE, USA",
 "",
 [
-	["E2735","Death","","",217,"Death of Stanley, Barbara","",[],[]]
+	["E2735","Death","","",316,"Death of Stanley, Barbara","",[],[]]
 ],
 [
 
@@ -36402,12 +36402,12 @@ I = [
 ["I1172","Stevens, Elizabeth","Stevens, Elizabeth",
 [["Stevens, Elizabeth","Birth Name","","","","Elizabeth","",["Stevens"],"","","",[]]],
 "F","?",
-"Wisconsin Rapids, WI",
+"Wisconsin Rapids, WI, USA",
 "",
 "",
 "",
 [
-	["E0279","Birth","","",839,"Birth of Stevens, Elizabeth","",[],[]]
+	["E0279","Birth","","",1267,"Birth of Stevens, Elizabeth","",[],[]]
 ],
 [
 
@@ -36468,12 +36468,12 @@ I = [
 ["I1795","Stokes, Gabriel","Stokes, Gabriel",
 [["Stokes, Gabriel","Birth Name","","","","Gabriel","",["Stokes"],"","","",[]]],
 "M","1966",
-"Missoula, MT",
+"Missoula, MT, USA",
 "",
 "",
 "",
 [
-	["E0915","Birth","1966-11-27","27 NOV 1966",518,"Birth of Stokes, Gabriel","",[],[]],
+	["E0915","Birth","1966-11-27","27 NOV 1966",777,"Birth of Stokes, Gabriel","",[],[]],
 	["E0916","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -36491,12 +36491,12 @@ I = [
 ["I1796","Stokes, Liam Michael","Stokes, Liam Michael",
 [["Stokes, Liam Michael","Birth Name","","","","Liam Michael","",["Stokes"],"","","",[]]],
 "M","1997",
-"Jackson, WY",
+"Jackson, WY, USA",
 "",
 "",
 "",
 [
-	["E0917","Birth","1997-03-27","27 MAR 1997",374,"Birth of Stokes, Liam Michael","",[],[]],
+	["E0917","Birth","1997-03-27","27 MAR 1997",549,"Birth of Stokes, Liam Michael","",[],[]],
 	["E0918","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -36581,12 +36581,12 @@ I = [
 ["I0932","Sullivan, Anna","Sullivan, Anna",
 [["Sullivan, Anna","Birth Name","","","","Anna","",["Sullivan"],"","","",[]]],
 "F","1691",
-"Quincy, IL-MO",
+"Quincy, Adams, IL-MO, USA",
 "",
 "",
 "",
 [
-	["E2584","Birth","1691","1691",641,"Birth of Sullivan, Anna","",[],[]]
+	["E2584","Birth","1691","1691",969,"Birth of Sullivan, Anna","",[],[]]
 ],
 [
 
@@ -36757,13 +36757,13 @@ I = [
 ["I1199","Swanson, Richard","Swanson, Richard",
 [["Swanson, Richard","Birth Name","","","","Richard","",["Swanson"],"","","",[]]],
 "M","?",
-"Flagstaff, AZ",
+"Flagstaff, Coconino, AZ, USA",
 "?",
-"St. Marys, St, Marys, PA",
+"St, Marys, St, Marys, PA, USA",
 "unknown",
 [
-	["E0302","Birth","","",265,"Birth of Swanson, Richard","",[],[]],
-	["E0303","Death","","",738,"Death of Swanson, Richard","",[],[]]
+	["E0302","Birth","","",386,"Birth of Swanson, Richard","",[],[]],
+	["E0303","Death","","",1097,"Death of Swanson, Richard","",[],[]]
 ],
 [
 
@@ -36802,13 +36802,13 @@ I = [
 ["I1197","Swanson, William","Swanson, William",
 [["Swanson, William","Birth Name","","","","William","",["Swanson"],"","","",[]]],
 "M","1620",
-"Hannibal, MO",
+"Hannibal, MO, USA",
 "1684",
-"Mobile, AL",
+"Mobile, Mobile, AL, USA",
 "64 years, 9 months, 14 days",
 [
-	["E0300","Birth","1620","1620",332,"Birth of Swanson, William","",[],[]],
-	["E0301","Death","1684-10-15","15 OCT 1684",521,"Death of Swanson, William","",[],[]]
+	["E0300","Birth","1620","1620",476,"Birth of Swanson, William","",[],[]],
+	["E0301","Death","1684-10-15","15 OCT 1684",782,"Death of Swanson, William","",[],[]]
 ],
 [
 
@@ -36937,11 +36937,11 @@ I = [
 "M","?",
 "",
 "1632",
-"Hudson, NY",
+"Hudson, Columbia, NY, USA",
 "about 52 years",
 [
 	["E1840","Birth","about 1580","ABT 1580",-1,"Birth of Thomas, Elder Thomas","",[],[]],
-	["E1841","Death","1632","1632",360,"Death of Thomas, Elder Thomas","",[],[]]
+	["E1841","Death","1632","1632",522,"Death of Thomas, Elder Thomas","",[],[]]
 ],
 [
 
@@ -36958,13 +36958,13 @@ I = [
 ["I0527","Thomas, Elizabeth","Thomas, Elizabeth",
 [["Thomas, Elizabeth","Birth Name","","","","Elizabeth","",["Thomas"],"","","",[]]],
 "F","1620",
-"Ashland, OH",
+"Ashland, OH, USA",
 "1713",
-"Wilmington, DE-MD-NJ",
+"Wilmington, New Castle, DE-MD-NJ, USA",
 "93 years",
 [
-	["E1847","Birth","1620","1620",40,"Birth of Thomas, Elizabeth","",[],[]],
-	["E1848","Death","1713","1713",832,"Death of Thomas, Elizabeth","",[],[]]
+	["E1847","Birth","1620","1620",53,"Birth of Thomas, Elizabeth","",[],[]],
+	["E1848","Death","1713","1713",1258,"Death of Thomas, Elizabeth","",[],[]]
 ],
 [
 
@@ -36981,14 +36981,14 @@ I = [
 ["I0835","Thompson, Bridget","Thompson, Bridget",
 [["Thompson, Bridget","Birth Name","","","","Bridget","",["Thompson"],"","","",[]]],
 "F","?",
-"Del Rio, TX",
+"Del Rio, Val Verde, TX, USA",
 "?",
-"Lumberton, NC",
+"Lumberton, NC, USA",
 "unknown",
 [
-	["E2395","Birth","","",206,"Birth of Thompson, Bridget","",[],[]],
-	["E2396","Death","","",463,"Death of Thompson, Bridget","",[],[]],
-	["E2397","Burial","","",724,"Burial of Thompson, Bridget","",[],[]]
+	["E2395","Birth","","",298,"Birth of Thompson, Bridget","",[],[]],
+	["E2396","Death","","",684,"Death of Thompson, Bridget","",[],[]],
+	["E2397","Burial","","",1078,"Burial of Thompson, Bridget","",[],[]]
 ],
 [
 
@@ -36999,6 +36999,28 @@ I = [
 [],
 [],
 [98],
+[],
+[]
+],
+["I1286","Thomsen, new","Thomsen, new",
+[["Thomsen, new","Birth Name","","","","new","",["Thomsen"],"","","",[]]],
+"M","?",
+"",
+"",
+"",
+"",
+[
+
+],
+[
+
+],
+"",
+[],
+[],
+[],
+[],
+[574],
 [],
 []
 ],
@@ -37046,37 +37068,15 @@ I = [
 [],
 []
 ],
-["I1286","Thomsen, new","Thomsen, new",
-[["Thomsen, new","Birth Name","","","","new","",["Thomsen"],"","","",[]]],
-"M","?",
-"",
-"",
-"",
-"",
-[
-
-],
-[
-
-],
-"",
-[],
-[],
-[],
-[],
-[574],
-[],
-[]
-],
 ["I0204","Thornton, Arthur Otto","Thornton, Arthur Otto",
 [["Thornton, Arthur Otto","Birth Name","","","","Arthur Otto","",["Thornton"],"","","",[]]],
 "M","?",
-"Flint, MI",
+"Flint, MI, USA",
 "",
 "",
 "",
 [
-	["E1170","Birth","","",266,"Birth of Thornton, Arthur Otto","",[],[]]
+	["E1170","Birth","","",387,"Birth of Thornton, Arthur Otto","",[],[]]
 ],
 [
 
@@ -37093,12 +37093,12 @@ I = [
 ["I0207","Thornton, Dorothy Eleanor","Thornton, Dorothy Eleanor",
 [["Thornton, Dorothy Eleanor","Birth Name","","","","Dorothy Eleanor","",["Thornton"],"","","",[]]],
 "F","1913",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E1190","Birth","1913-02-20","20 FEB 1913",586,"Birth of Thornton, Dorothy Eleanor","",[],[]],
+	["E1190","Birth","1913-02-20","20 FEB 1913",893,"Birth of Thornton, Dorothy Eleanor","",[],[]],
 	["E1191","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -37123,7 +37123,7 @@ I = [
 [
 	["E1179","Birth","1911-07-12","12 JUL 1911",-1,"Birth of Thornton, James Arthur","",[],[]],
 	["E1180","Death","1983-12-02","2 DEC 1983",-1,"Death of Thornton, James Arthur","",[],[]],
-	["E1181","Burial","","",736,"Burial of Thornton, James Arthur","",[],[]]
+	["E1181","Burial","","",1092,"Burial of Thornton, James Arthur","",[],[]]
 ],
 [
 
@@ -37162,12 +37162,12 @@ I = [
 ["I0490","Thornton, Phillip James","Thornton, Phillip James",
 [["Thornton, Phillip James","Birth Name","","","","Phillip James","",["Thornton"],"","","",[]]],
 "M","1949",
-"Midland, MI",
+"Midland, MI, USA",
 "",
 "",
 "",
 [
-	["E1783","Birth","1949-06-17","17 JUN 1949",510,"Birth of Thornton, Phillip James","",[],[]],
+	["E1783","Birth","1949-06-17","17 JUN 1949",766,"Birth of Thornton, Phillip James","",[],[]],
 	["E1784","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -37209,12 +37209,12 @@ I = [
 "M","1891",
 "",
 "1968",
-"Nashville, TN",
+"Nashville, TN, USA",
 "76 years, 4 months, 21 days",
 [
 	["E1511","Birth","1891-09-22","22 SEP 1891",-1,"Birth of Todd, Benjamin Harrison","",[],[]],
-	["E1512","Death","1968-02-13","13 FEB 1968",550,"Death of Todd, Benjamin Harrison","",[],[]],
-	["E1513","Burial","","",715,"Burial of Todd, Benjamin Harrison","",[],[]]
+	["E1512","Death","1968-02-13","13 FEB 1968",830,"Death of Todd, Benjamin Harrison","",[],[]],
+	["E1513","Burial","","",1067,"Burial of Todd, Benjamin Harrison","",[],[]]
 ],
 [
 
@@ -37231,13 +37231,13 @@ I = [
 ["I0077","Todd, Charles","Todd, Charles",
 [["Todd, Charles","Birth Name","","","","Charles","",["Todd"],"","","",[]]],
 "M","1727",
-"Natchez, MS-LA",
+"Natchez, Natchitoches, MS-LA, USA",
 "1805",
-"West Palm Beach, FL",
+"West Palm Beach, Palm Beach, FL, USA",
 "77 years, 10 months, 22 days",
 [
-	["E2271","Birth","1727-08-15","15 AUG 1727",551,"Birth of Todd, Charles","",[],[]],
-	["E2272","Death","1805-07-06","6 JUL 1805",823,"Death of Todd, Charles","",[],[]]
+	["E2271","Birth","1727-08-15","15 AUG 1727",831,"Birth of Todd, Charles","",[],[]],
+	["E2272","Death","1805-07-06","6 JUL 1805",1241,"Death of Todd, Charles","",[],[]]
 ],
 [
 
@@ -37256,12 +37256,12 @@ I = [
 "F","1889",
 "",
 "?",
-"Nashville, TN",
+"Nashville, TN, USA",
 "unknown",
 [
 	["E1508","Birth","1889-06-18","18 JUN 1889",-1,"Birth of Todd, Cora Olive","",[],[]],
-	["E1509","Death","","",550,"Death of Todd, Cora Olive","",[],[]],
-	["E1510","Burial","","",715,"Burial of Todd, Cora Olive","",[],[]]
+	["E1509","Death","","",830,"Death of Todd, Cora Olive","",[],[]],
+	["E1510","Burial","","",1067,"Burial of Todd, Cora Olive","",[],[]]
 ],
 [
 
@@ -37280,12 +37280,12 @@ I = [
 "F","1873",
 "",
 "1950",
-"Frederick, MD",
+"Frederick, MD, USA",
 "76 years, 7 months, 5 days",
 [
 	["E1493","Birth","1873-07-13","13 JUL 1873",-1,"Birth of Todd, Flora Belle","",[],[]],
-	["E1494","Death","1950-02-18","18 FEB 1950",286,"Death of Todd, Flora Belle","",[],[]],
-	["E1495","Burial","","",143,"Burial of Todd, Flora Belle","",[],[]]
+	["E1494","Death","1950-02-18","18 FEB 1950",411,"Death of Todd, Flora Belle","",[],[]],
+	["E1495","Burial","","",195,"Burial of Todd, Flora Belle","",[],[]]
 ],
 [
 
@@ -37302,14 +37302,14 @@ I = [
 ["I0083","Todd, George W.","Todd, George W.",
 [["Todd, George W.","Birth Name","","","","George W.","",["Todd"],"","","",[]]],
 "M","1820",
-"Waco, TX",
+"Waco, McLennan, TX, USA",
 "1895",
-"Fayetteville, AR",
+"Fayetteville, Washington, AR, USA",
 "75 years, 1 month, 14 days",
 [
-	["E2381","Birth","1820-01-02","2 JAN 1820",802,"Birth of Todd, George W.","",[],[]],
-	["E2382","Death","1895-02-16","16 FEB 1895",261,"Death of Todd, George W.","",[],[]],
-	["E2383","Burial","","",261,"Burial of Todd, George W.","",[],[]]
+	["E2381","Birth","1820-01-02","2 JAN 1820",1206,"Birth of Todd, George W.","",[],[]],
+	["E2382","Death","1895-02-16","16 FEB 1895",379,"Death of Todd, George W.","",[],[]],
+	["E2383","Burial","","",379,"Burial of Todd, George W.","",[],[]]
 ],
 [
 
@@ -37349,13 +37349,13 @@ I = [
 ["I0075","Todd, Hardy","Todd, Hardy",
 [["Todd, Hardy","Birth Name","","","","Hardy","",["Todd"],"","","",[]]],
 "M","1678",
-"Ashtabula, OH",
+"Ashtabula, OH, USA",
 "1750",
-"Ashtabula, OH",
+"Ashtabula, OH, USA",
 "72 years",
 [
-	["E2233","Birth","1678","1678",41,"Birth of Todd, Hardy","",[],[]],
-	["E2234","Death","1750","1750",41,"Death of Todd, Hardy","",[],[]]
+	["E2233","Birth","1678","1678",54,"Birth of Todd, Hardy","",[],[]],
+	["E2234","Death","1750","1750",54,"Death of Todd, Hardy","",[],[]]
 ],
 [
 
@@ -37374,10 +37374,10 @@ I = [
 "M","?",
 "",
 "1699",
-"Ashtabula, OH",
+"Ashtabula, OH, USA",
 "",
 [
-	["E2203","Death","1699","1699",41,"Death of Todd, Hodges","",[],[]]
+	["E2203","Death","1699","1699",54,"Death of Todd, Hodges","",[],[]]
 ],
 [
 
@@ -37396,12 +37396,12 @@ I = [
 "F","1886",
 "",
 "?",
-"Nashville, TN",
+"Nashville, TN, USA",
 "unknown",
 [
 	["E1505","Birth","1886-09-14","14 SEP 1886",-1,"Birth of Todd, Irene Frances","",[],[]],
-	["E1506","Death","","",550,"Death of Todd, Irene Frances","",[],[]],
-	["E1507","Burial","","",715,"Burial of Todd, Irene Frances","",[],[]]
+	["E1506","Death","","",830,"Death of Todd, Irene Frances","",[],[]],
+	["E1507","Burial","","",1067,"Burial of Todd, Irene Frances","",[],[]]
 ],
 [
 
@@ -37420,11 +37420,11 @@ I = [
 "M","1881",
 "",
 "1957",
-"Shreveport, LA",
+"Shreveport, Caddo, LA, USA",
 "76 years, 3 months, 2 days",
 [
 	["E1500","Birth","1881-09-10","10 SEP 1881",-1,"Birth of Todd, Jesse Elmer","",[],[]],
-	["E1501","Death","1957-12-12","12 DEC 1957",715,"Death of Todd, Jesse Elmer","",[],[]]
+	["E1501","Death","1957-12-12","12 DEC 1957",1067,"Death of Todd, Jesse Elmer","",[],[]]
 ],
 [
 
@@ -37441,13 +37441,13 @@ I = [
 ["I0079","Todd, John","Todd, John",
 [["Todd, John","Birth Name","","","","John","",["Todd"],"","","",[]]],
 "M","1765",
-"Shelton, WA",
+"Shelton, WA, USA",
 "?",
-"Clearlake, CA",
+"Clearlake, Lake, CA, USA",
 "unknown",
 [
-	["E2297","Birth","1765-11-26","26 NOV 1765",712,"Birth of Todd, John","",[],[]],
-	["E2298","Death","","",153,"Death of Todd, John","",[],[]]
+	["E2297","Birth","1765-11-26","26 NOV 1765",1064,"Birth of Todd, John","",[],[]],
+	["E2298","Death","","",213,"Death of Todd, John","",[],[]]
 ],
 [
 
@@ -37486,14 +37486,14 @@ I = [
 ["I0085","Todd, John M.","Todd, John M.",
 [["Todd, John M.","Birth Name","","","","John M.","",["Todd"],"","","",[]]],
 "M","1851",
-"Fayetteville, AR",
+"Fayetteville, Washington, AR, USA",
 "1921",
-"Milledgeville, GA",
+"Milledgeville, Baldwin, GA, USA",
 "69 years, 8 months, 16 days",
 [
-	["E2425","Birth","1851-06-07","7 JUN 1851",261,"Birth of Todd, John M.","",[],[]],
-	["E2426","Death","1921-02-23","23 FEB 1921",512,"Death of Todd, John M.","",[],[]],
-	["E2427","Burial","1921-02-25","25 FEB 1921",188,"Burial of Todd, John M.","",[],[]]
+	["E2425","Birth","1851-06-07","7 JUN 1851",379,"Birth of Todd, John M.","",[],[]],
+	["E2426","Death","1921-02-23","23 FEB 1921",769,"Death of Todd, John M.","",[],[]],
+	["E2427","Burial","1921-02-25","25 FEB 1921",266,"Burial of Todd, John M.","",[],[]]
 ],
 [
 
@@ -37512,12 +37512,12 @@ I = [
 "F","1884",
 "",
 "?",
-"Nashville, TN",
+"Nashville, TN, USA",
 "unknown",
 [
 	["E1502","Birth","1884-06-26","26 JUN 1884",-1,"Birth of Todd, Lena Viola","",[],[]],
-	["E1503","Death","","",550,"Death of Todd, Lena Viola","",[],[]],
-	["E1504","Burial","","",715,"Burial of Todd, Lena Viola","",[],[]]
+	["E1503","Death","","",830,"Death of Todd, Lena Viola","",[],[]],
+	["E1504","Burial","","",1067,"Burial of Todd, Lena Viola","",[],[]]
 ],
 [
 
@@ -37534,14 +37534,14 @@ I = [
 ["I0043","Todd, Louella Jane","Todd, Louella Jane",
 [["Todd, Louella Jane","Birth Name","","","","Louella Jane","",["Todd"],"","","",[]]],
 "F","1877",
-"Gardnerville Ranchos, NV",
+"Gardnerville Ranchos, NV, USA",
 "1965",
-"Saginaw, MI",
+"Saginaw, MI, USA",
 "87 years, 10 months",
 [
-	["E1633","Birth","1877-03-26","26 MAR 1877",297,"Birth of Todd, Louella Jane","",[],[]],
-	["E1634","Death","1965-01-26","26 JAN 1965",673,"Death of Todd, Louella Jane","",[],[]],
-	["E1635","Burial","1965-01-00","JAN 1965",90,"Burial of Todd, Louella Jane","",[],[]]
+	["E1633","Birth","1877-03-26","26 MAR 1877",428,"Birth of Todd, Louella Jane","",[],[]],
+	["E1634","Death","1965-01-26","26 JAN 1965",1007,"Death of Todd, Louella Jane","",[],[]],
+	["E1635","Burial","1965-01-00","JAN 1965",120,"Burial of Todd, Louella Jane","",[],[]]
 ],
 [
 
@@ -37560,12 +37560,12 @@ I = [
 "F","1905",
 "",
 "1995",
-"Cortland, NY",
+"Cortland, Cortland, NY, USA",
 "90 years, 2 months, 24 days",
 [
 	["E2152","Birth","1905-09-05","5 SEP 1905",-1,"Birth of Todd, Lucille","",[],[]],
-	["E2153","Death","1995-11-29","29 NOV 1995",185,"Death of Todd, Lucille","",[],[]],
-	["E2154","Burial","1995-12-04","4 DEC 1995",154,"Burial of Todd, Lucille","",[],[]]
+	["E2153","Death","1995-11-29","29 NOV 1995",259,"Death of Todd, Lucille","",[],[]],
+	["E2154","Burial","1995-12-04","4 DEC 1995",214,"Burial of Todd, Lucille","",[],[]]
 ],
 [
 
@@ -37606,12 +37606,12 @@ I = [
 "M","1894",
 "",
 "1950",
-"Shreveport, LA",
+"Shreveport, Caddo, LA, USA",
 "55 years, 8 months, 20 days",
 [
 	["E1514","Birth","1894-09-09","9 SEP 1894",-1,"Birth of Todd, Percy Haye","",[],[]],
-	["E1515","Death","1950-05-29","29 MAY 1950",715,"Death of Todd, Percy Haye","",[],[]],
-	["E1516","Burial","","",715,"Burial of Todd, Percy Haye","",[],[]]
+	["E1515","Death","1950-05-29","29 MAY 1950",1067,"Death of Todd, Percy Haye","",[],[]],
+	["E1516","Burial","","",1067,"Burial of Todd, Percy Haye","",[],[]]
 ],
 [
 
@@ -37653,11 +37653,11 @@ I = [
 "M","?",
 "",
 "?",
-"Johnstown, PA",
+"Johnstown, PA, USA",
 "",
 [
-	["E2150","Death","","",385,"Death of Todd, Wayne","",[],[]],
-	["E2151","Burial","","",188,"Burial of Todd, Wayne","",[],[]]
+	["E2150","Death","","",570,"Death of Todd, Wayne","",[],[]],
+	["E2151","Burial","","",266,"Burial of Todd, Wayne","",[],[]]
 ],
 [
 
@@ -37674,14 +37674,14 @@ I = [
 ["I0081","Todd, William","Todd, William",
 [["Todd, William","Birth Name","","","","William","",["Todd"],"","","",[]]],
 "M","1790",
-"Jacksonville, TX",
+"Jacksonville, Cherokee, TX, USA",
 "1846",
-"Branson, MO",
+"Branson, MO, USA",
 "55 years, 9 months, 7 days",
 [
-	["E2343","Birth","1790-10-01","1 OCT 1790",377,"Birth of Todd, William","",[],[]],
-	["E2344","Death","1846-07-08","8 JUL 1846",97,"Death of Todd, William","",[],[]],
-	["E2345","Burial","","",261,"Burial of Todd, William","",[],[]]
+	["E2343","Birth","1790-10-01","1 OCT 1790",552,"Birth of Todd, William","",[],[]],
+	["E2344","Death","1846-07-08","8 JUL 1846",130,"Death of Todd, William","",[],[]],
+	["E2345","Burial","","",379,"Burial of Todd, William","",[],[]]
 ],
 [
 
@@ -37764,14 +37764,14 @@ I = [
 ["I0993","Tyler, Mary A.","Tyler, Mary A.",
 [["Tyler, Mary A.","Birth Name","","","","Mary A.","",["Tyler"],"","","",[]]],
 "F","1785",
-"Meridian, MS",
+"Meridian, MS, USA",
 "?",
-"Rolla, MO",
+"Rolla, MO, USA",
 "unknown",
 [
-	["E2726","Birth","1785","1785",502,"Birth of Tyler, Mary A.","",[],[]],
-	["E2727","Death","","",666,"Death of Tyler, Mary A.","",[],[]],
-	["E2728","Burial","","",666,"Burial of Tyler, Mary A.","",[],[]]
+	["E2726","Birth","1785","1785",753,"Birth of Tyler, Mary A.","",[],[]],
+	["E2727","Death","","",999,"Death of Tyler, Mary A.","",[],[]],
+	["E2728","Burial","","",999,"Burial of Tyler, Mary A.","",[],[]]
 ],
 [
 
@@ -37832,13 +37832,13 @@ I = [
 ["I1161","Vaughn, Mary Meriwether","Vaughn, Mary Meriwether",
 [["Vaughn, Mary Meriwether","Birth Name","","","","Mary Meriwether","",["Vaughn"],"","","",[]]],
 "F","?",
-"Waterloo-Cedar Falls, IA",
+"Waterloo-Cedar Falls, IA, USA",
 "?",
-"Waterloo-Cedar Falls, IA",
+"Waterloo-Cedar Falls, IA, USA",
 "unknown",
 [
-	["E0260","Birth","about 1669","ABT 1669",814,"Birth of Vaughn, Mary Meriwether","",[],[]],
-	["E0261","Death","","",814,"Death of Vaughn, Mary Meriwether","",[],[]]
+	["E0260","Birth","about 1669","ABT 1669",1226,"Birth of Vaughn, Mary Meriwether","",[],[]],
+	["E0261","Death","","",1226,"Death of Vaughn, Mary Meriwether","",[],[]]
 ],
 [
 
@@ -37855,7 +37855,7 @@ I = [
 ["I0870","Vázquez, April Lynn","Vázquez, April Lynn",
 [["Vázquez, April Lynn","Birth Name","","","","April Lynn","",["Vázquez"],"","","",[]]],
 "F","1963",
-"Aberdeen, SD",
+"Aberdeen, SD, USA",
 "",
 "",
 "",
@@ -37922,12 +37922,12 @@ I = [
 ["I0131","Walker, Andrew Vincent","Walker, Andrew Vincent",
 [["Walker, Andrew Vincent","Birth Name","","","","Andrew Vincent","",["Walker"],"","","",[]]],
 "M","1928",
-"Portland, ME",
+"Portland, ME, USA",
 "",
 "",
 "",
 [
-	["E0393","Birth","1928-01-12","12 JAN 1928",630,"Birth of Walker, Andrew Vincent","",[],[]],
+	["E0393","Birth","1928-01-12","12 JAN 1928",952,"Birth of Walker, Andrew Vincent","",[],[]],
 	["E0394","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -37967,12 +37967,12 @@ I = [
 ["I0163","Walker, Sharon Lynette","Walker, Sharon Lynette",
 [["Walker, Sharon Lynette","Birth Name","","","","Sharon Lynette","",["Walker"],"","","",[]]],
 "F","1951",
-"Medford, OR",
+"Medford, OR, USA",
 "",
 "",
 "",
 [
-	["E0744","Birth","1951-11-24","24 NOV 1951",498,"Birth of Walker, Sharon Lynette","",[],[]],
+	["E0744","Birth","1951-11-24","24 NOV 1951",747,"Birth of Walker, Sharon Lynette","",[],[]],
 	["E0745","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -37990,12 +37990,12 @@ I = [
 ["I0695","Wallace, Abraham","Wallace, Abraham",
 [["Wallace, Abraham","Birth Name","","","","Abraham","",["Wallace"],"","","",[]]],
 "M","?",
-"Chillicothe, OH",
+"Chillicothe, OH, USA",
 "",
 "",
 "",
 [
-	["E2149","Birth","","",148,"Birth of Wallace, Abraham","",[],[]]
+	["E2149","Birth","","",203,"Birth of Wallace, Abraham","",[],[]]
 ],
 [
 
@@ -38057,14 +38057,14 @@ I = [
 ["I0872","Walters, Mary","Walters, Mary",
 [["Walters, Mary","Birth Name","","","","Mary","",["Walters"],"","","",[]]],
 "F","1864",
-"Del Rio, TX",
+"Del Rio, Val Verde, TX, USA",
 "1937",
-"Ann Arbor, MI",
+"Ann Arbor, MI, USA",
 "73 years, 3 months, 5 days",
 [
-	["E2473","Birth","1864","1864",206,"Birth of Walters, Mary","",[],[]],
-	["E2474","Death","1937-04-06","6 APR 1937",33,"Death of Walters, Mary","",[],[]],
-	["E2475","Burial","1937-04-08","8 APR 1937",488,"Burial of Walters, Mary","",[],[]]
+	["E2473","Birth","1864","1864",298,"Birth of Walters, Mary","",[],[]],
+	["E2474","Death","1937-04-06","6 APR 1937",44,"Death of Walters, Mary","",[],[]],
+	["E2475","Burial","1937-04-08","8 APR 1937",728,"Burial of Walters, Mary","",[],[]]
 ],
 [
 
@@ -38103,12 +38103,12 @@ I = [
 ["I0307","Ward, Catherine Marie","Ward, Catherine Marie",
 [["Ward, Catherine Marie","Birth Name","","","","Catherine Marie","",["Ward"],"","","",[]]],
 "F","1980",
-"Allentown, PA",
+"Allentown, PA, USA",
 "",
 "",
 "",
 [
-	["E1397","Birth","1980-09-28","28 SEP 1980",19,"Birth of Ward, Catherine Marie","",[],[]],
+	["E1397","Birth","1980-09-28","28 SEP 1980",28,"Birth of Ward, Catherine Marie","",[],[]],
 	["E1398","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -38126,12 +38126,12 @@ I = [
 ["I0305","Ward, David J.","Ward, David J.",
 [["Ward, David J.","Birth Name","","","","David J.","",["Ward"],"","","",[]]],
 "M","1944",
-"Frankfort, IN",
+"Frankfort, Clinton, IN, USA",
 "",
 "",
 "",
 [
-	["E1393","Birth","1944-12-31","31 DEC 1944",284,"Birth of Ward, David J.","",[],[]],
+	["E1393","Birth","1944-12-31","31 DEC 1944",407,"Birth of Ward, David J.","",[],[]],
 	["E1394","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -38149,12 +38149,12 @@ I = [
 ["I0306","Ward, Michael David","Ward, Michael David",
 [["Ward, Michael David","Birth Name","","","","Michael David","",["Ward"],"","","",[]]],
 "M","1978",
-"Allentown, PA",
+"Allentown, PA, USA",
 "",
 "",
 "",
 [
-	["E1395","Birth","1978-08-24","24 AUG 1978",19,"Birth of Ward, Michael David","",[],[]],
+	["E1395","Birth","1978-08-24","24 AUG 1978",28,"Birth of Ward, Michael David","",[],[]],
 	["E1396","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -38194,12 +38194,12 @@ I = [
 ["I0005","Warner, Allen Carl","Warner, Allen Carl",
 [["Warner, Allen Carl","Birth Name","","","","Allen Carl","",["Warner"],"","","",[]]],
 "M","1952",
-"Worthington, MN",
+"Worthington, MN, USA",
 "",
 "",
 "",
 [
-	["E1795","Birth","1952-02-01","1 FEB 1952",843,"Birth of Warner, Allen Carl","",[],[]],
+	["E1795","Birth","1952-02-01","1 FEB 1952",1273,"Birth of Warner, Allen Carl","",[],[]],
 	["E1796","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -38239,12 +38239,12 @@ I = [
 ["I0335","Warner, Amber Lynne","Warner, Amber Lynne",
 [["Warner, Amber Lynne","Birth Name","","","","Amber Lynne","",["Warner"],"","","",[]]],
 "F","1985",
-"Bluefield, WV-VA",
+"Bluefield, WV-VA, USA",
 "",
 "",
 "",
 [
-	["E1457","Birth","1985-05-27","27 MAY 1985",86,"Birth of Warner, Amber Lynne","",[],[]],
+	["E1457","Birth","1985-05-27","27 MAY 1985",114,"Birth of Warner, Amber Lynne","",[],[]],
 	["E1458","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -38262,12 +38262,12 @@ I = [
 ["I0285","Warner, Andrea Susan","Warner, Andrea Susan",
 [["Warner, Andrea Susan","Birth Name","","","","Andrea Susan","",["Warner"],"","","",[]]],
 "F","1969",
-"Wheeling, WV-OH",
+"Wheeling, WV-OH, USA",
 "",
 "",
 "",
 [
-	["E1346","Birth","1969-04-21","21 APR 1969",825,"Birth of Warner, Andrea Susan","",[],[]],
+	["E1346","Birth","1969-04-21","21 APR 1969",1244,"Birth of Warner, Andrea Susan","",[],[]],
 	["E1347","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -38285,12 +38285,12 @@ I = [
 ["I0512","Warner, Andrew","Warner, Andrew",
 [["Warner, Andrew","Birth Name","","","","Andrew","",["Warner"],"","","",[]]],
 "M","1740",
-"Morgan City, LA",
+"Morgan City, St. Mary, LA, USA",
 "1827",
 "",
 "87 years, 1 month, 30 days",
 [
-	["E1819","Birth","1740-08-15","15 AUG 1740",530,"Birth of Warner, Andrew","",[],[]],
+	["E1819","Birth","1740-08-15","15 AUG 1740",802,"Birth of Warner, Andrew","",[],[]],
 	["E1820","Death","1827-10-14","14 OCT 1827",-1,"Death of Warner, Andrew","",[],[]]
 ],
 [
@@ -38308,12 +38308,12 @@ I = [
 ["I0012","Warner, Arthur Maurice","Warner, Arthur Maurice",
 [["Warner, Arthur Maurice","Birth Name","","","","Arthur Maurice","",["Warner"],"","","",[]]],
 "M","1954",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E0304","Birth","1954-01-24","24 JAN 1954",586,"Birth of Warner, Arthur Maurice","",[],[]],
+	["E0304","Birth","1954-01-24","24 JAN 1954",893,"Birth of Warner, Arthur Maurice","",[],[]],
 	["E0305","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -38331,12 +38331,12 @@ I = [
 ["I0294","Warner, Belle Marie","Warner, Belle Marie",
 [["Warner, Belle Marie","Birth Name","","","","Belle Marie","",["Warner"],"","","",[]]],
 "F","1974",
-"Wheeling, WV-OH",
+"Wheeling, WV-OH, USA",
 "",
 "",
 "",
 [
-	["E1365","Birth","1974-07-14","14 JUL 1974",825,"Birth of Warner, Belle Marie","",[],[]],
+	["E1365","Birth","1974-07-14","14 JUL 1974",1244,"Birth of Warner, Belle Marie","",[],[]],
 	["E1366","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -38354,12 +38354,12 @@ I = [
 ["I0149","Warner, Betty Louise","Warner, Betty Louise",
 [["Warner, Betty Louise","Birth Name","","","","Betty Louise","",["Warner"],"","","",[]]],
 "F","1940",
-"Big Rapids, MI",
+"Big Rapids, MI, USA",
 "",
 "",
 "",
 [
-	["E0644","Birth","1940-01-16","16 JAN 1940",75,"Birth of Warner, Betty Louise","",[],[]],
+	["E0644","Birth","1940-01-16","16 JAN 1940",102,"Birth of Warner, Betty Louise","",[],[]],
 	["E0645","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -38377,12 +38377,12 @@ I = [
 ["I0151","Warner, Beverly Ann","Warner, Beverly Ann",
 [["Warner, Beverly Ann","Birth Name","","","","Beverly Ann","",["Warner"],"","","",[]]],
 "F","1947",
-"Big Rapids, MI",
+"Big Rapids, MI, USA",
 "",
 "",
 "",
 [
-	["E0663","Birth","1947-08-19","19 AUG 1947",75,"Birth of Warner, Beverly Ann","",[],[]],
+	["E0663","Birth","1947-08-19","19 AUG 1947",102,"Birth of Warner, Beverly Ann","",[],[]],
 	["E0664","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -38400,14 +38400,14 @@ I = [
 ["I0509","Warner, Capt. Andrew","Warner, Capt. Andrew",
 [["Warner, Capt. Andrew","Birth Name","","","","Capt. Andrew","",["Warner"],"","","",[]]],
 "M","1684",
-"Frankfort, KY",
+"Frankfort, Franklin, KY, USA",
 "1754",
-"Lake County, IL",
+"Lake County, IL, USA",
 "69 years, 11 months, 22 days",
 [
-	["E1808","Birth","1684-01-20","20 JAN 1684",285,"Birth of Warner, Capt. Andrew","",[],[]],
-	["E1809","Death","1754-01-11","11 JAN 1754",420,"Death of Warner, Capt. Andrew","",[],[]],
-	["E1810","Burial","","",819,"Burial of Warner, Capt. Andrew","",[],[]]
+	["E1808","Birth","1684-01-20","20 JAN 1684",408,"Birth of Warner, Capt. Andrew","",[],[]],
+	["E1809","Death","1754-01-11","11 JAN 1754",617,"Death of Warner, Capt. Andrew","",[],[]],
+	["E1810","Burial","","",1231,"Burial of Warner, Capt. Andrew","",[],[]]
 ],
 [
 
@@ -38424,13 +38424,13 @@ I = [
 ["I0737","Warner, Capt. Francis","Warner, Capt. Francis",
 [["Warner, Capt. Francis","Birth Name","","","","Capt. Francis","",["Warner"],"","","",[]]],
 "M","1618",
-"Tahlequah, OK",
+"Tahlequah, OK, USA",
 "1687",
-"Victoria, TX",
+"Victoria, Limestone, TX, USA",
 "69 years, 8 months, 23 days",
 [
-	["E2211","Birth","1618","1618",759,"Birth of Warner, Capt. Francis","",[],[]],
-	["E2212","Death","1687-09-24","24 SEP 1687",798,"Death of Warner, Capt. Francis","",[],[]]
+	["E2211","Birth","1618","1618",1130,"Birth of Warner, Capt. Francis","",[],[]],
+	["E2212","Death","1687-09-24","24 SEP 1687",1197,"Death of Warner, Capt. Francis","",[],[]]
 ],
 [
 
@@ -38447,14 +38447,14 @@ I = [
 ["I0507","Warner, Capt. George","Warner, Capt. George",
 [["Warner, Capt. George","Birth Name","","","","Capt. George","",["Warner"],"","","",[]]],
 "M","1650",
-"Chicago, IL",
+"Chicago, Cook, IL, USA",
 "1710",
-"State College, PA",
+"State College, PA, USA",
 "60 years, 10 months, 7 days",
 [
-	["E1803","Birth","1650","1650",146,"Birth of Warner, Capt. George","",[],[]],
-	["E1804","Death","1710-11-08","8 NOV 1710",741,"Death of Warner, Capt. George","",[],[]],
-	["E1805","Burial","","",128,"Burial of Warner, Capt. George","",[],[]]
+	["E1803","Birth","1650","1650",201,"Birth of Warner, Capt. George","",[],[]],
+	["E1804","Death","1710-11-08","8 NOV 1710",1102,"Death of Warner, Capt. George","",[],[]],
+	["E1805","Burial","","",173,"Burial of Warner, Capt. George","",[],[]]
 ],
 [
 
@@ -38471,12 +38471,12 @@ I = [
 ["I0003","Warner, Carl Thomas","Warner, Carl Thomas",
 [["Warner, Carl Thomas","Birth Name","","","","Carl Thomas","",["Warner"],"","","",[]]],
 "M","1981",
-"Gainesville, TX",
+"Gainesville, Llano, TX, USA",
 "",
 "",
 "",
 [
-	["E1378","Birth","1981-05-11","11 MAY 1981",293,"Birth of Warner, Carl Thomas","",[],[]],
+	["E1378","Birth","1981-05-11","11 MAY 1981",424,"Birth of Warner, Carl Thomas","",[],[]],
 	["E1379","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -38516,12 +38516,12 @@ I = [
 ["I0110","Warner, Christopher Arthur","Warner, Christopher Arthur",
 [["Warner, Christopher Arthur","Birth Name","","","","Christopher Arthur","",["Warner"],"","","",[]]],
 "M","1982",
-"Forest City, NC",
+"Forest City, NC, USA",
 "",
 "",
 "",
 [
-	["E0170","Birth","1982-10-04","4 OCT 1982",270,"Birth of Warner, Christopher Arthur","",[],[]],
+	["E0170","Birth","1982-10-04","4 OCT 1982",393,"Birth of Warner, Christopher Arthur","",[],[]],
 	["E0171","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -38539,12 +38539,12 @@ I = [
 ["I0327","Warner, Cindy Lynn","Warner, Cindy Lynn",
 [["Warner, Cindy Lynn","Birth Name","","","","Cindy Lynn","",["Warner"],"","","",[]]],
 "F","1981",
-"Altoona, PA",
+"Altoona, PA, USA",
 "",
 "",
 "",
 [
-	["E1438","Birth","1981-04-12","12 APR 1981",22,"Birth of Warner, Cindy Lynn","",[],[]],
+	["E1438","Birth","1981-04-12","12 APR 1981",31,"Birth of Warner, Cindy Lynn","",[],[]],
 	["E1439","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -38584,14 +38584,14 @@ I = [
 ["I0295","Warner, Curtis Andrew","Warner, Curtis Andrew",
 [["Warner, Curtis Andrew","Birth Name","","","","Curtis Andrew","",["Warner"],"","","",[]]],
 "M","1976",
-"Wheeling, WV-OH",
+"Wheeling, WV-OH, USA",
 "1994",
-"Rockland, ME",
+"Rockland, ME, USA",
 "18 years, 3 months, 23 days",
 [
-	["E1367","Birth","1976-08-26","26 AUG 1976",825,"Birth of Warner, Curtis Andrew","",[],[]],
-	["E1368","Death","1994-12-18","18 DEC 1994",664,"Death of Warner, Curtis Andrew","",[],[]],
-	["E1369","Burial","1994-12-22","22 DEC 1994",536,"Burial of Warner, Curtis Andrew","",[],[]]
+	["E1367","Birth","1976-08-26","26 AUG 1976",1244,"Birth of Warner, Curtis Andrew","",[],[]],
+	["E1368","Death","1994-12-18","18 DEC 1994",997,"Death of Warner, Curtis Andrew","",[],[]],
+	["E1369","Burial","1994-12-22","22 DEC 1994",810,"Burial of Warner, Curtis Andrew","",[],[]]
 ],
 [
 
@@ -38608,12 +38608,12 @@ I = [
 ["I1948","Warner, Daniel","Warner, Daniel",
 [["Warner, Daniel","Birth Name","","","","Daniel","",["Warner"],"","","",[]]],
 "M","1682",
-"Williston, ND",
+"Williston, ND, USA",
 "",
 "",
 "",
 [
-	["E1066","Birth","1682-12-05","5 DEC 1682",830,"Birth of Warner, Daniel","",[],[]]
+	["E1066","Birth","1682-12-05","5 DEC 1682",1256,"Birth of Warner, Daniel","",[],[]]
 ],
 [
 
@@ -38630,12 +38630,12 @@ I = [
 ["I0912","Warner, Daniel Arthur","Warner, Daniel Arthur",
 [["Warner, Daniel Arthur","Birth Name","","","","Daniel Arthur","",["Warner"],"","","",[]]],
 "M","1992",
-"Forest City, NC",
+"Forest City, NC, USA",
 "",
 "",
 "",
 [
-	["E2551","Birth","1992-12-29","29 DEC 1992",270,"Birth of Warner, Daniel Arthur","",[],[]],
+	["E2551","Birth","1992-12-29","29 DEC 1992",393,"Birth of Warner, Daniel Arthur","",[],[]],
 	["E2552","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -38653,12 +38653,12 @@ I = [
 ["I0281","Warner, Darin Kane","Warner, Darin Kane",
 [["Warner, Darin Kane","Birth Name","","","","Darin Kane","",["Warner"],"","","",[]]],
 "M","1960",
-"Wheeling, WV-OH",
+"Wheeling, WV-OH, USA",
 "",
 "",
 "",
 [
-	["E1340","Birth","1960-05-01","1 MAY 1960",825,"Birth of Warner, Darin Kane","",[],[]],
+	["E1340","Birth","1960-05-01","1 MAY 1960",1244,"Birth of Warner, Darin Kane","",[],[]],
 	["E1341","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -38698,12 +38698,12 @@ I = [
 ["I0127","Warner, David Luther","Warner, David Luther",
 [["Warner, David Luther","Birth Name","","","","David Luther","",["Warner"],"","","",[]]],
 "M","1921",
-"Portland, ME",
+"Portland, ME, USA",
 "",
 "",
 "",
 [
-	["E0351","Birth","1921-05-19","19 MAY 1921",630,"Birth of Warner, David Luther","",[],[]],
+	["E0351","Birth","1921-05-19","19 MAY 1921",952,"Birth of Warner, David Luther","",[],[]],
 	["E0352","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -38721,12 +38721,12 @@ I = [
 ["I0152","Warner, David Warren","Warner, David Warren",
 [["Warner, David Warren","Birth Name","","","","David Warren","",["Warner"],"","","",[]]],
 "M","1945",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E0671","Birth","1945-02-13","13 FEB 1945",586,"Birth of Warner, David Warren","",[],[]],
+	["E0671","Birth","1945-02-13","13 FEB 1945",893,"Birth of Warner, David Warren","",[],[]],
 	["E0672","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -38744,12 +38744,12 @@ I = [
 ["I0287","Warner, Deirdra Denise","Warner, Deirdra Denise",
 [["Warner, Deirdra Denise","Birth Name","","","","Deirdra Denise","",["Warner"],"","","",[]]],
 "F","1973",
-"Wheeling, WV-OH",
+"Wheeling, WV-OH, USA",
 "",
 "",
 "",
 [
-	["E1348","Birth","1973-03-20","20 MAR 1973",825,"Birth of Warner, Deirdra Denise","",[],[]],
+	["E1348","Birth","1973-03-20","20 MAR 1973",1244,"Birth of Warner, Deirdra Denise","",[],[]],
 	["E1349","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -38767,13 +38767,13 @@ I = [
 ["I0128","Warner, Donald Louis","Warner, Donald Louis",
 [["Warner, Donald Louis","Birth Name","","","","Donald Louis","",["Warner"],"","","",[]]],
 "M","1922",
-"Portland, ME",
+"Portland, ME, USA",
 "1979",
-"Palatka, FL",
+"Palatka, Putnam, FL, USA",
 "56 years, 11 months, 18 days",
 [
-	["E0360","Birth","1922-08-22","22 AUG 1922",630,"Birth of Warner, Donald Louis","",[],[]],
-	["E0361","Death","1979-08-09","9 AUG 1979",594,"Death of Warner, Donald Louis","",[],[]]
+	["E0360","Birth","1922-08-22","22 AUG 1922",952,"Birth of Warner, Donald Louis","",[],[]],
+	["E0361","Death","1979-08-09","9 AUG 1979",904,"Death of Warner, Donald Louis","",[],[]]
 ],
 [
 
@@ -38812,12 +38812,12 @@ I = [
 ["I0296","Warner, Douglas Lowell","Warner, Douglas Lowell",
 [["Warner, Douglas Lowell","Birth Name","","","","Douglas Lowell","",["Warner"],"","","",[]]],
 "M","1978",
-"Wheeling, WV-OH",
+"Wheeling, WV-OH, USA",
 "",
 "",
 "",
 [
-	["E1370","Birth","1978-12-11","11 DEC 1978",825,"Birth of Warner, Douglas Lowell","",[],[]],
+	["E1370","Birth","1978-12-11","11 DEC 1978",1244,"Birth of Warner, Douglas Lowell","",[],[]],
 	["E1371","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -38854,6 +38854,30 @@ I = [
 [[615,"Birth","Birth","",[]]],
 []
 ],
+["I0510","Warner, Edward","Warner, Edward",
+[["Warner, Edward","Birth Name","","","","Edward","",["Warner"],"","","",[]]],
+"M","1713",
+"Anchorage, AK, USA",
+"1776",
+"Vicksburg, MS, USA",
+"63 years, 8 months, 21 days",
+[
+	["E1814","Birth","1713-01-06","6 JAN 1713",37,"Birth of Warner, Edward","",[],[]],
+	["E1815","Death","1776-09-27","27 SEP 1776",1196,"Death of Warner, Edward","",[],[]],
+	["E1816","Burial","","",445,"Burial of Warner, Edward","",[],[]]
+],
+[
+
+],
+"",
+[],
+[],
+[],
+[],
+[602],
+[[596,"Birth","Birth","",[]]],
+[]
+],
 ["I1265","Warner, Edward","Warner, Edward",
 [["Warner, Edward","Birth Name","","","","Edward","",["Warner"],"","","",[]]],
 "M","?",
@@ -38874,30 +38898,6 @@ I = [
 [],
 [],
 [[614,"Birth","Birth","",[]]],
-[]
-],
-["I0510","Warner, Edward","Warner, Edward",
-[["Warner, Edward","Birth Name","","","","Edward","",["Warner"],"","","",[]]],
-"M","1713",
-"Anchorage, AK",
-"1776",
-"Vicksburg, MS",
-"63 years, 8 months, 21 days",
-[
-	["E1814","Birth","1713-01-06","6 JAN 1713",28,"Birth of Warner, Edward","",[],[]],
-	["E1815","Death","1776-09-27","27 SEP 1776",797,"Death of Warner, Edward","",[],[]],
-	["E1816","Burial","","",309,"Burial of Warner, Edward","",[],[]]
-],
-[
-
-],
-"",
-[],
-[],
-[],
-[],
-[602],
-[[596,"Birth","Birth","",[]]],
 []
 ],
 ["I1255","Warner, Edward Randolph","Warner, Edward Randolph",
@@ -38947,12 +38947,12 @@ I = [
 ["I1950","Warner, Elizabeth","Warner, Elizabeth",
 [["Warner, Elizabeth","Birth Name","","","","Elizabeth","",["Warner"],"","","",[]]],
 "F","1683",
-"Garden City, KS",
+"Garden City, Finney, KS, USA",
 "",
 "",
 "",
 [
-	["E1071","Birth","1683-03-28","28 MAR 1683",296,"Birth of Warner, Elizabeth","",[],[]]
+	["E1071","Birth","1683-03-28","28 MAR 1683",427,"Birth of Warner, Elizabeth","",[],[]]
 ],
 [
 
@@ -38969,12 +38969,12 @@ I = [
 ["I0071","Warner, Elizabeth","Warner, Elizabeth",
 [["Warner, Elizabeth","Birth Name","","","","Elizabeth","",["Warner"],"","","",[]]],
 "F","?",
-"Kill Devil Hills, NC",
+"Kill Devil Hills, NC, USA",
 "",
 "",
 "",
 [
-	["E2175","Birth","","",402,"Birth of Warner, Elizabeth","",[],[]]
+	["E2175","Birth","","",589,"Birth of Warner, Elizabeth","",[],[]]
 ],
 [
 
@@ -39035,12 +39035,12 @@ I = [
 ["I0013","Warner, Fred Loren","Warner, Fred Loren",
 [["Warner, Fred Loren","Birth Name","","","","Fred Loren","",["Warner"],"","","",[]]],
 "M","1956",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E0379","Birth","1956-11-27","27 NOV 1956",586,"Birth of Warner, Fred Loren","",[],[]],
+	["E0379","Birth","1956-11-27","27 NOV 1956",893,"Birth of Warner, Fred Loren","",[],[]],
 	["E0380","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -39080,12 +39080,12 @@ I = [
 ["I1953","Warner, George","Warner, George",
 [["Warner, George","Birth Name","","","","George","",["Warner"],"","","",[]]],
 "M","1709",
-"Garden City, KS",
+"Garden City, Finney, KS, USA",
 "",
 "",
 "",
 [
-	["E1073","Birth","1709-07-21","21 JUL 1709",296,"Birth of Warner, George","",[],[]]
+	["E1073","Birth","1709-07-21","21 JUL 1709",427,"Birth of Warner, George","",[],[]]
 ],
 [
 
@@ -39125,12 +39125,12 @@ I = [
 ["I0007","Warner, George Edward","Warner, George Edward",
 [["Warner, George Edward","Birth Name","","","","George Edward","",["Warner"],"","","",[]]],
 "M","1926",
-"Corinth, MS",
+"Corinth, MS, USA",
 "",
 "",
 "",
 [
-	["E2155","Birth","1926-11-01","1 NOV 1926",180,"Birth of Warner, George Edward","",[],[]],
+	["E2155","Birth","1926-11-01","1 NOV 1926",254,"Birth of Warner, George Edward","",[],[]],
 	["E2156","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -39192,12 +39192,12 @@ I = [
 ["I0153","Warner, Harold Lowell","Warner, Harold Lowell",
 [["Warner, Harold Lowell","Birth Name","","","","Harold Lowell","",["Warner"],"","","",[]]],
 "M","1946",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E0673","Birth","1946-12-21","21 DEC 1946",586,"Birth of Warner, Harold Lowell","",[],[]],
+	["E0673","Birth","1946-12-21","21 DEC 1946",893,"Birth of Warner, Harold Lowell","",[],[]],
 	["E0674","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -39237,12 +39237,12 @@ I = [
 ["I0326","Warner, James Andrew","Warner, James Andrew",
 [["Warner, James Andrew","Birth Name","","","","James Andrew","",["Warner"],"","","",[]]],
 "M","1979",
-"Altoona, PA",
+"Altoona, PA, USA",
 "",
 "",
 "",
 [
-	["E1436","Birth","1979-05-17","17 MAY 1979",22,"Birth of Warner, James Andrew","",[],[]],
+	["E1436","Birth","1979-05-17","17 MAY 1979",31,"Birth of Warner, James Andrew","",[],[]],
 	["E1437","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -39260,12 +39260,12 @@ I = [
 ["I0002","Warner, James Jeffrey","Warner, James Jeffrey",
 [["Warner, James Jeffrey","Birth Name","","","","James Jeffrey","",["Warner"],"","","",[]]],
 "M","1984",
-"Gainesville, TX",
+"Gainesville, Llano, TX, USA",
 "",
 "",
 "",
 [
-	["E1125","Birth","1984-05-03","3 MAY 1984",293,"Birth of Warner, James Jeffrey","",[],[]],
+	["E1125","Birth","1984-05-03","3 MAY 1984",424,"Birth of Warner, James Jeffrey","",[],[]],
 	["E1126","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -39283,12 +39283,12 @@ I = [
 ["I0869","Warner, Jeffrey George","Warner, Jeffrey George",
 [["Warner, Jeffrey George","Birth Name","","","","Jeffrey George","",["Warner"],"","","",[]]],
 "M","1992",
-"Palm Bay, FL",
+"Palm Bay, Brevard, FL, USA",
 "",
 "",
 "",
 [
-	["E2464","Birth","1992-10-30","30 OCT 1992",596,"Birth of Warner, Jeffrey George","",[],[]],
+	["E2464","Birth","1992-10-30","30 OCT 1992",906,"Birth of Warner, Jeffrey George","",[],[]],
 	["E2465","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -39306,12 +39306,12 @@ I = [
 ["I0108","Warner, JenniferMae(Ganoe)","Warner, JenniferMae(Ganoe)",
 [["Warner, JenniferMae(Ganoe)","Birth Name","","","","JenniferMae(Ganoe)","",["Warner"],"","","",[]]],
 "F","1973",
-"Clovis, NM",
+"Clovis, NM, USA",
 "",
 "",
 "",
 [
-	["E0142","Birth","1973-02-06","6 FEB 1973",159,"Birth of Warner, JenniferMae(Ganoe)","",[],[]],
+	["E0142","Birth","1973-02-06","6 FEB 1973",222,"Birth of Warner, JenniferMae(Ganoe)","",[],[]],
 	["E0143","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -39346,28 +39346,6 @@ I = [
 [],
 [705],
 [[596,"Birth","Birth","",[]]],
-[]
-],
-["I1958","Warner, John","Warner, John",
-[["Warner, John","Birth Name","","","","John","",["Warner"],"","","",[]]],
-"M","?",
-"",
-"",
-"",
-"",
-[
-
-],
-[
-
-],
-"",
-[],
-[],
-[],
-[],
-[],
-[[616,"Birth","Birth","",[]]],
 []
 ],
 ["I1960","Warner, John","Warner, John",
@@ -39414,15 +39392,37 @@ I = [
 [],
 []
 ],
-["I0004","Warner, John Allen","Warner, John Allen",
-[["Warner, John Allen","Birth Name","","","","John Allen","",["Warner"],"","","",[]]],
-"M","1979",
-"New Haven, CT",
+["I1958","Warner, John","Warner, John",
+[["Warner, John","Birth Name","","","","John","",["Warner"],"","","",[]]],
+"M","?",
+"",
 "",
 "",
 "",
 [
-	["E1573","Birth","1979-05-04","4 MAY 1979",555,"Birth of Warner, John Allen","",[],[]],
+
+],
+[
+
+],
+"",
+[],
+[],
+[],
+[],
+[],
+[[616,"Birth","Birth","",[]]],
+[]
+],
+["I0004","Warner, John Allen","Warner, John Allen",
+[["Warner, John Allen","Birth Name","","","","John Allen","",["Warner"],"","","",[]]],
+"M","1979",
+"New Haven, New Haven, CT, USA",
+"",
+"",
+"",
+[
+	["E1573","Birth","1979-05-04","4 MAY 1979",841,"Birth of Warner, John Allen","",[],[]],
 	["E1574","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -39462,12 +39462,12 @@ I = [
 ["I0150","Warner, John William","Warner, John William",
 [["Warner, John William","Birth Name","","","","John William","",["Warner"],"","","",[]]],
 "M","1944",
-"Big Rapids, MI",
+"Big Rapids, MI, USA",
 "",
 "",
 "",
 [
-	["E0661","Birth","1944-08-11","11 AUG 1944",75,"Birth of Warner, John William","",[],[]],
+	["E0661","Birth","1944-08-11","11 AUG 1944",102,"Birth of Warner, John William","",[],[]],
 	["E0662","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -39507,12 +39507,12 @@ I = [
 ["I1955","Warner, Johnathon","Warner, Johnathon",
 [["Warner, Johnathon","Birth Name","","","","Johnathon","",["Warner"],"","","",[]]],
 "M","?",
-"Garden City, KS",
+"Garden City, Finney, KS, USA",
 "1754",
 "",
 "about 65 years, 6 months",
 [
-	["E1076","Birth","about 1689","ABT 1689",296,"Birth of Warner, Johnathon","",[],[]],
+	["E1076","Birth","about 1689","ABT 1689",427,"Birth of Warner, Johnathon","",[],[]],
 	["E1077","Death","1754-07-00","JUL 1754",-1,"Death of Warner, Johnathon","",[],[]]
 ],
 [
@@ -39530,14 +39530,14 @@ I = [
 ["I0137","Warner, Julia Angeline","Warner, Julia Angeline",
 [["Warner, Julia Angeline","Birth Name","","","","Julia Angeline","",["Warner"],"","","",[]]],
 "F","1892",
-"New Castle, IN",
+"New Castle, Henry, IN, USA",
 "1970",
 "",
 "78 years, 2 months, 22 days",
 [
-	["E0480","Birth","1892-09-25","25 SEP 1892",553,"Birth of Warner, Julia Angeline","",[],[]],
+	["E0480","Birth","1892-09-25","25 SEP 1892",839,"Birth of Warner, Julia Angeline","",[],[]],
 	["E0481","Death","1970-12-17","17 DEC 1970",-1,"Death of Warner, Julia Angeline","",[],[]],
-	["E0482","Burial","","",524,"Burial of Warner, Julia Angeline","",[],[]]
+	["E0482","Burial","","",788,"Burial of Warner, Julia Angeline","",[],[]]
 ],
 [
 
@@ -39554,12 +39554,12 @@ I = [
 ["I0300","Warner, Laura Gail","Warner, Laura Gail",
 [["Warner, Laura Gail","Birth Name","","","","Laura Gail","",["Warner"],"","","",[]]],
 "F","1952",
-"Wheeling, WV-OH",
+"Wheeling, WV-OH, USA",
 "",
 "",
 "",
 [
-	["E1383","Birth","1952-09-27","27 SEP 1952",825,"Birth of Warner, Laura Gail","",[],[]],
+	["E1383","Birth","1952-09-27","27 SEP 1952",1244,"Birth of Warner, Laura Gail","",[],[]],
 	["E1384","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -39621,12 +39621,12 @@ I = [
 ["I0014","Warner, Marcia Jane","Warner, Marcia Jane",
 [["Warner, Marcia Jane","Birth Name","","","","Marcia Jane","",["Warner"],"","","",[]]],
 "F","1958",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E0538","Birth","1958-09-20","20 SEP 1958",586,"Birth of Warner, Marcia Jane","",[],[]],
+	["E0538","Birth","1958-09-20","20 SEP 1958",893,"Birth of Warner, Marcia Jane","",[],[]],
 	["E0539","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -39644,12 +39644,12 @@ I = [
 ["I0155","Warner, Margaret Ruth","Warner, Margaret Ruth",
 [["Warner, Margaret Ruth","Birth Name","","","","Margaret Ruth","",["Warner"],"","","",[]]],
 "F","1949",
-"Wheeling, WV-OH",
+"Wheeling, WV-OH, USA",
 "",
 "",
 "",
 [
-	["E0692","Birth","1949-07-13","13 JUL 1949",825,"Birth of Warner, Margaret Ruth","",[],[]],
+	["E0692","Birth","1949-07-13","13 JUL 1949",1244,"Birth of Warner, Margaret Ruth","",[],[]],
 	["E0693","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -39667,12 +39667,12 @@ I = [
 ["I0154","Warner, Martha Ellen","Warner, Martha Ellen",
 [["Warner, Martha Ellen","Birth Name","","","","Martha Ellen","",["Warner"],"","","",[]]],
 "F","1950",
-"Wheeling, WV-OH",
+"Wheeling, WV-OH, USA",
 "",
 "",
 "",
 [
-	["E0681","Birth","1950-02-07","7 FEB 1950",825,"Birth of Warner, Martha Ellen","",[],[]],
+	["E0681","Birth","1950-02-07","7 FEB 1950",1244,"Birth of Warner, Martha Ellen","",[],[]],
 	["E0682","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -39690,12 +39690,12 @@ I = [
 ["I0318","Warner, Martin B.","Warner, Martin B.",
 [["Warner, Martin B.","Birth Name","","","","Martin B.","",["Warner"],"","","",[]]],
 "M","1985",
-"Bremerton, WA",
+"Bremerton, WA, USA",
 "",
 "",
 "",
 [
-	["E1420","Birth","1985-07-22","22 JUL 1985",98,"Birth of Warner, Martin B.","",[],[]],
+	["E1420","Birth","1985-07-22","22 JUL 1985",132,"Birth of Warner, Martin B.","",[],[]],
 	["E1421","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -39713,14 +39713,14 @@ I = [
 ["I0020","Warner, Martin Bogarte","Warner, Martin Bogarte",
 [["Warner, Martin Bogarte","Birth Name","","","","Martin Bogarte","",["Warner"],"","","",[]]],
 "M","1889",
-"Panama City, FL",
+"Panama City, Bay, FL, USA",
 "1961",
-"Butte, MT",
+"Butte, MT, USA",
 "72 years, 1 day",
 [
-	["E1127","Birth","1889-08-11","11 AUG 1889",599,"Birth of Warner, Martin Bogarte","",[],[]],
-	["E1128","Death","1961-08-12","12 AUG 1961",114,"Death of Warner, Martin Bogarte","",[],[]],
-	["E1129","Burial","1961-08-14","14 AUG 1961",345,"Burial of Warner, Martin Bogarte","",[],[]]
+	["E1127","Birth","1889-08-11","11 AUG 1889",911,"Birth of Warner, Martin Bogarte","",[],[]],
+	["E1128","Death","1961-08-12","12 AUG 1961",154,"Death of Warner, Martin Bogarte","",[],[]],
+	["E1129","Burial","1961-08-14","14 AUG 1961",494,"Burial of Warner, Martin Bogarte","",[],[]]
 ],
 [
 
@@ -39759,12 +39759,12 @@ I = [
 ["I1945","Warner, Mary","Warner, Mary",
 [["Warner, Mary","Birth Name","","","","Mary","",["Warner"],"","","",[]]],
 "F","1679",
-"Brownsville, TN",
+"Brownsville, TN, USA",
 "",
 "",
 "",
 [
-	["E1063","Birth","1679-01-02","2 JAN 1679",105,"Birth of Warner, Mary","",[],[]]
+	["E1063","Birth","1679-01-02","2 JAN 1679",142,"Birth of Warner, Mary","",[],[]]
 ],
 [
 
@@ -39781,12 +39781,12 @@ I = [
 ["I0158","Warner, Mary Christine","Warner, Mary Christine",
 [["Warner, Mary Christine","Birth Name","","","","Mary Christine","",["Warner"],"","","",[]]],
 "F","1954",
-"Wheeling, WV-OH",
+"Wheeling, WV-OH, USA",
 "",
 "",
 "",
 [
-	["E0698","Birth","1954-11-10","10 NOV 1954",825,"Birth of Warner, Mary Christine","",[],[]],
+	["E0698","Birth","1954-11-10","10 NOV 1954",1244,"Birth of Warner, Mary Christine","",[],[]],
 	["E0699","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -39804,14 +39804,14 @@ I = [
 ["I0138","Warner, Mary Grace Elizabeth","Warner, Mary Grace Elizabeth",
 [["Warner, Mary Grace Elizabeth","Birth Name","","","","Mary Grace Elizabeth","",["Warner"],"","","",[]]],
 "F","1906",
-"Central City, KY",
+"Central City, Muhlenberg, KY, USA",
 "1993",
-"Sevierville, TN",
+"Sevierville, TN, USA",
 "86 years, 9 months, 1 day",
 [
-	["E0495","Birth","1906-09-05","5 SEP 1906",136,"Birth of Warner, Mary Grace Elizabeth","",[],[]],
-	["E0496","Death","1993-06-06","6 JUN 1993",706,"Death of Warner, Mary Grace Elizabeth","",[],[]],
-	["E0497","Burial","1993-06-08","8 JUN 1993",821,"Burial of Warner, Mary Grace Elizabeth","",[],[]]
+	["E0495","Birth","1906-09-05","5 SEP 1906",184,"Birth of Warner, Mary Grace Elizabeth","",[],[]],
+	["E0496","Death","1993-06-06","6 JUN 1993",1055,"Death of Warner, Mary Grace Elizabeth","",[],[]],
+	["E0497","Burial","1993-06-08","8 JUN 1993",1239,"Burial of Warner, Mary Grace Elizabeth","",[],[]]
 ],
 [
 
@@ -39828,12 +39828,12 @@ I = [
 ["I0009","Warner, Matthew Steven","Warner, Matthew Steven",
 [["Warner, Matthew Steven","Birth Name","","","","Matthew Steven","",["Warner"],"","","",[]]],
 "M","1977",
-"New Haven, CT",
+"New Haven, New Haven, CT, USA",
 "",
 "",
 "",
 [
-	["E2529","Birth","1977-06-23","23 JUN 1977",555,"Birth of Warner, Matthew Steven","",[],[]],
+	["E2529","Birth","1977-06-23","23 JUN 1977",841,"Birth of Warner, Matthew Steven","",[],[]],
 	["E2530","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -39851,12 +39851,12 @@ I = [
 ["I0113","Warner, Melissa Lee","Warner, Melissa Lee",
 [["Warner, Melissa Lee","Birth Name","","","","Melissa Lee","",["Warner"],"","","",[]]],
 "F","1987",
-"Palm Bay, FL",
+"Palm Bay, Brevard, FL, USA",
 "",
 "",
 "",
 [
-	["E0224","Birth","1987-06-13","13 JUN 1987",596,"Birth of Warner, Melissa Lee","",[],[]],
+	["E0224","Birth","1987-06-13","13 JUN 1987",906,"Birth of Warner, Melissa Lee","",[],[]],
 	["E0225","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -39874,12 +39874,12 @@ I = [
 ["I0278","Warner, Michael Douglas","Warner, Michael Douglas",
 [["Warner, Michael Douglas","Birth Name","","","","Michael Douglas","",["Warner"],"","","",[]]],
 "M","1958",
-"Wheeling, WV-OH",
+"Wheeling, WV-OH, USA",
 "",
 "",
 "",
 [
-	["E1333","Birth","1958-06-10","10 JUN 1958",825,"Birth of Warner, Michael Douglas","",[],[]],
+	["E1333","Birth","1958-06-10","10 JUN 1958",1244,"Birth of Warner, Michael Douglas","",[],[]],
 	["E1334","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -39897,12 +39897,12 @@ I = [
 ["I0111","Warner, Michael Edward","Warner, Michael Edward",
 [["Warner, Michael Edward","Birth Name","","","","Michael Edward","",["Warner"],"","","",[]]],
 "M","1985",
-"Forest City, NC",
+"Forest City, NC, USA",
 "",
 "",
 "",
 [
-	["E0187","Birth","1985-02-26","26 FEB 1985",270,"Birth of Warner, Michael Edward","",[],[]],
+	["E0187","Birth","1985-02-26","26 FEB 1985",393,"Birth of Warner, Michael Edward","",[],[]],
 	["E0188","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -39920,12 +39920,12 @@ I = [
 ["I0148","Warner, Michael Louis","Warner, Michael Louis",
 [["Warner, Michael Louis","Birth Name","","","","Michael Louis","",["Warner"],"","","",[]]],
 "M","1936",
-"Big Rapids, MI",
+"Big Rapids, MI, USA",
 "",
 "",
 "",
 [
-	["E0636","Birth","1936-12-22","22 DEC 1936",75,"Birth of Warner, Michael Louis","",[],[]],
+	["E0636","Birth","1936-12-22","22 DEC 1936",102,"Birth of Warner, Michael Louis","",[],[]],
 	["E0637","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -39943,13 +39943,13 @@ I = [
 ["I0126","Warner, Michael Warren","Warner, Michael Warren",
 [["Warner, Michael Warren","Birth Name","","","","Michael Warren","",["Warner"],"","","",[]]],
 "M","1913",
-"Lancaster, PA",
+"Lancaster, PA, USA",
 "1983",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "69 years, 2 months, 20 days",
 [
-	["E0349","Birth","1913-10-29","29 OCT 1913",424,"Birth of Warner, Michael Warren","",[],[]],
-	["E0350","Death","1983-01-18","18 JAN 1983",586,"Death of Warner, Michael Warren","",[],[]]
+	["E0349","Birth","1913-10-29","29 OCT 1913",623,"Birth of Warner, Michael Warren","",[],[]],
+	["E0350","Death","1983-01-18","18 JAN 1983",893,"Death of Warner, Michael Warren","",[],[]]
 ],
 [
 
@@ -39966,12 +39966,12 @@ I = [
 ["I0280","Warner, Michelle Lorraine","Warner, Michelle Lorraine",
 [["Warner, Michelle Lorraine","Birth Name","","","","Michelle Lorraine","",["Warner"],"","","",[]]],
 "F","1962",
-"Isabela, PR",
+"Isabela, PR, USA",
 "",
 "",
 "",
 [
-	["E1338","Birth","1962-11-19","19 NOV 1962",371,"Birth of Warner, Michelle Lorraine","",[],[]],
+	["E1338","Birth","1962-11-19","19 NOV 1962",544,"Birth of Warner, Michelle Lorraine","",[],[]],
 	["E1339","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -39989,12 +39989,12 @@ I = [
 ["I0481","Warner, Monica Jane","Warner, Monica Jane",
 [["Warner, Monica Jane","Birth Name","","","","Monica Jane","",["Warner"],"","","",[]]],
 "F","1990",
-"Palm Bay, FL",
+"Palm Bay, Brevard, FL, USA",
 "",
 "",
 "",
 [
-	["E1759","Birth","1990-10-20","20 OCT 1990",596,"Birth of Warner, Monica Jane","",[],[]],
+	["E1759","Birth","1990-10-20","20 OCT 1990",906,"Birth of Warner, Monica Jane","",[],[]],
 	["E1760","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -40012,12 +40012,12 @@ I = [
 ["I0156","Warner, Nancy Elizabeth","Warner, Nancy Elizabeth",
 [["Warner, Nancy Elizabeth","Birth Name","","","","Nancy Elizabeth","",["Warner"],"","","",[]]],
 "F","1951",
-"Wheeling, WV-OH",
+"Wheeling, WV-OH, USA",
 "",
 "",
 "",
 [
-	["E0694","Birth","1951-10-20","20 OCT 1951",825,"Birth of Warner, Nancy Elizabeth","",[],[]],
+	["E0694","Birth","1951-10-20","20 OCT 1951",1244,"Birth of Warner, Nancy Elizabeth","",[],[]],
 	["E0695","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -40057,12 +40057,12 @@ I = [
 ["I1089","Warner, Nicole Lynn","Warner, Nicole Lynn",
 [["Warner, Nicole Lynn","Birth Name","","","","Nicole Lynn","",["Warner"],"","","",[]]],
 "F","1996",
-"Weirton, WV",
+"Weirton, WV, USA",
 "",
 "",
 "",
 [
-	["E0156","Birth","1996-09-19","19 SEP 1996",820,"Birth of Warner, Nicole Lynn","",[],[]],
+	["E0156","Birth","1996-09-19","19 SEP 1996",1237,"Birth of Warner, Nicole Lynn","",[],[]],
 	["E0157","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -40080,14 +40080,14 @@ I = [
 ["I0023","Warner, Noah","Warner, Noah",
 [["Warner, Noah","Birth Name","","","","Noah","",["Warner"],"","","",[]]],
 "M","1779",
-"Morgan City, LA",
+"Morgan City, St. Mary, LA, USA",
 "1844",
-"Lake City, FL",
+"Lake City, Columbia, FL, USA",
 "64 years, 8 months, 20 days",
 [
-	["E1255","Birth","1779-09-24","24 SEP 1779",530,"Birth of Warner, Noah","",[],[]],
-	["E1256","Death","1844-06-14","14 JUN 1844",419,"Death of Warner, Noah","",[],[]],
-	["E1257","Burial","1844","1844",405,"Burial of Warner, Noah","",[],[]]
+	["E1255","Birth","1779-09-24","24 SEP 1779",802,"Birth of Warner, Noah","",[],[]],
+	["E1256","Death","1844-06-14","14 JUN 1844",616,"Death of Warner, Noah","",[],[]],
+	["E1257","Burial","1844","1844",592,"Burial of Warner, Noah","",[],[]]
 ],
 [
 
@@ -40104,12 +40104,12 @@ I = [
 ["I1789","Warner, Noah Stuart","Warner, Noah Stuart",
 [["Warner, Noah Stuart","Birth Name","","","","Noah Stuart","",["Warner"],"","","",[]]],
 "M","1998",
-"Birmingham, AL",
+"Birmingham, Jefferson, AL, USA",
 "",
 "",
 "",
 [
-	["E0904","Birth","1998-06-30","30 JUN 1998",79,"Birth of Warner, Noah Stuart","",[],[]],
+	["E0904","Birth","1998-06-30","30 JUN 1998",107,"Birth of Warner, Noah Stuart","",[],[]],
 	["E0905","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -40127,14 +40127,14 @@ I = [
 ["I0031","Warner, Piatt D.","Warner, Piatt D.",
 [["Warner, Piatt D.","Birth Name","","","","Piatt D.","",["Warner"],"","","",[]]],
 "M","1821",
-"Mount Pleasant, TX",
+"Mount Pleasant, Taylor, TX, USA",
 "1889",
-"Arlington, VA",
+"Arlington, VA, USA",
 "68 years, 6 months, 2 days",
 [
-	["E1403","Birth","1821-04-09","9 APR 1821",537,"Birth of Warner, Piatt D.","",[],[]],
-	["E1404","Death","1889-10-11","11 OCT 1889",38,"Death of Warner, Piatt D.","",[],[]],
-	["E1405","Burial","1889","1889",275,"Burial of Warner, Piatt D.","",[],[]]
+	["E1403","Birth","1821-04-09","9 APR 1821",811,"Birth of Warner, Piatt D.","",[],[]],
+	["E1404","Death","1889-10-11","11 OCT 1889",51,"Death of Warner, Piatt D.","",[],[]],
+	["E1405","Burial","1889","1889",398,"Burial of Warner, Piatt D.","",[],[]]
 ],
 [
 
@@ -40173,13 +40173,13 @@ I = [
 ["I0846","Warner, Rev. Edmund","Warner, Rev. Edmund",
 [["Warner, Rev. Edmund","Birth Name","","","","Rev. Edmund","",["Warner"],"","","",[]]],
 "M","?",
-"Durant, OK",
+"Durant, OK, USA",
 "?",
-"Naples, FL",
+"Naples, Collier, FL, USA",
 "unknown",
 [
-	["E2418","Birth","","",226,"Birth of Warner, Rev. Edmund","",[],[]],
-	["E2419","Death","","",549,"Death of Warner, Rev. Edmund","",[],[]]
+	["E2418","Birth","","",327,"Birth of Warner, Rev. Edmund","",[],[]],
+	["E2419","Death","","",829,"Death of Warner, Rev. Edmund","",[],[]]
 ],
 [
 
@@ -40196,12 +40196,12 @@ I = [
 ["I0130","Warner, Richard Kenneth","Warner, Richard Kenneth",
 [["Warner, Richard Kenneth","Birth Name","","","","Richard Kenneth","",["Warner"],"","","",[]]],
 "M","1925",
-"Portland, ME",
+"Portland, ME, USA",
 "",
 "",
 "",
 [
-	["E0381","Birth","1925-01-17","17 JAN 1925",630,"Birth of Warner, Richard Kenneth","",[],[]],
+	["E0381","Birth","1925-01-17","17 JAN 1925",952,"Birth of Warner, Richard Kenneth","",[],[]],
 	["E0382","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -40241,12 +40241,12 @@ I = [
 ["I0166","Warner, Robert Douglas","Warner, Robert Douglas",
 [["Warner, Robert Douglas","Birth Name","","","","Robert Douglas","",["Warner"],"","","",[]]],
 "M","1962",
-"Medford, OR",
+"Medford, OR, USA",
 "",
 "",
 "",
 [
-	["E0765","Birth","1962-09-07","7 SEP 1962",498,"Birth of Warner, Robert Douglas","",[],[]],
+	["E0765","Birth","1962-09-07","7 SEP 1962",747,"Birth of Warner, Robert Douglas","",[],[]],
 	["E0766","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -40264,12 +40264,12 @@ I = [
 ["I0129","Warner, Robert Eugene","Warner, Robert Eugene",
 [["Warner, Robert Eugene","Birth Name","","","","Robert Eugene","",["Warner"],"","","",[]]],
 "M","1923",
-"Portland, ME",
+"Portland, ME, USA",
 "",
 "",
 "",
 [
-	["E0370","Birth","1923-10-08","8 OCT 1923",630,"Birth of Warner, Robert Eugene","",[],[]],
+	["E0370","Birth","1923-10-08","8 OCT 1923",952,"Birth of Warner, Robert Eugene","",[],[]],
 	["E0371","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -40287,12 +40287,12 @@ I = [
 ["I0292","Warner, Robert Warren","Warner, Robert Warren",
 [["Warner, Robert Warren","Birth Name","","","","Robert Warren","",["Warner"],"","","",[]]],
 "M","1977",
-"Santa Rosa-Petaluma, CA",
+"Santa Rosa-Petaluma, CA, USA",
 "",
 "",
 "",
 [
-	["E1361","Birth","1977-04-16","16 APR 1977",693,"Birth of Warner, Robert Warren","",[],[]],
+	["E1361","Birth","1977-04-16","16 APR 1977",1036,"Birth of Warner, Robert Warren","",[],[]],
 	["E1362","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -40332,12 +40332,12 @@ I = [
 ["I0157","Warner, Sarah Jane","Warner, Sarah Jane",
 [["Warner, Sarah Jane","Birth Name","","","","Sarah Jane","",["Warner"],"","","",[]]],
 "F","1953",
-"Wheeling, WV-OH",
+"Wheeling, WV-OH, USA",
 "",
 "",
 "",
 [
-	["E0696","Birth","1953-09-23","23 SEP 1953",825,"Birth of Warner, Sarah Jane","",[],[]],
+	["E0696","Birth","1953-09-23","23 SEP 1953",1244,"Birth of Warner, Sarah Jane","",[],[]],
 	["E0697","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -40377,12 +40377,12 @@ I = [
 ["I0001","Warner, Sarah Suzanne","Warner, Sarah Suzanne",
 [["Warner, Sarah Suzanne","Birth Name","","","","Sarah Suzanne","",["Warner"],"","","",[]]],
 "F","1987",
-"Gainesville, TX",
+"Gainesville, Llano, TX, USA",
 "",
 "",
 "",
 [
-	["E0000","Birth","1987-08-29","29 AUG 1987",293,"Birth of Warner, Sarah Suzanne","",[],[]],
+	["E0000","Birth","1987-08-29","29 AUG 1987",424,"Birth of Warner, Sarah Suzanne","",[],[]],
 	["E0001","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -40400,12 +40400,12 @@ I = [
 ["I0291","Warner, Sheryl Ann","Warner, Sheryl Ann",
 [["Warner, Sheryl Ann","Birth Name","","","","Sheryl Ann","",["Warner"],"","","",[]]],
 "F","1972",
-"Salem, OR",
+"Salem, OR, USA",
 "",
 "",
 "",
 [
-	["E1359","Birth","1972-10-10","10 OCT 1972",674,"Birth of Warner, Sheryl Ann","",[],[]],
+	["E1359","Birth","1972-10-10","10 OCT 1972",1008,"Birth of Warner, Sheryl Ann","",[],[]],
 	["E1360","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -40423,12 +40423,12 @@ I = [
 ["I0165","Warner, Shirley Kay","Warner, Shirley Kay",
 [["Warner, Shirley Kay","Birth Name","","","","Shirley Kay","",["Warner"],"","","",[]]],
 "F","1957",
-"Medford, OR",
+"Medford, OR, USA",
 "",
 "",
 "",
 [
-	["E0758","Birth","1957-10-14","14 OCT 1957",498,"Birth of Warner, Shirley Kay","",[],[]],
+	["E0758","Birth","1957-10-14","14 OCT 1957",747,"Birth of Warner, Shirley Kay","",[],[]],
 	["E0759","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -40446,14 +40446,14 @@ I = [
 ["I0847","Warner, Sir Francis","Warner, Sir Francis",
 [["Warner, Sir Francis","Birth Name","","","","Sir Francis","",["Warner"],"","","",[]]],
 "M","1543",
-"Tucson, AZ",
+"Tucson, Pima, AZ, USA",
 "1596",
-"Lexington Park, MD",
+"Lexington Park, MD, USA",
 "53 years, 27 days",
 [
-	["E2420","Birth","1543","1543",777,"Birth of Warner, Sir Francis","",[],[]],
-	["E2421","Death","1596-01-28","28 JAN 1596",444,"Death of Warner, Sir Francis","",[],[]],
-	["E2422","Burial","1596-01-28","28 JAN 1596",444,"Burial of Warner, Sir Francis","",[],[]]
+	["E2420","Birth","1543","1543",1160,"Birth of Warner, Sir Francis","",[],[]],
+	["E2421","Death","1596-01-28","28 JAN 1596",654,"Death of Warner, Sir Francis","",[],[]],
+	["E2422","Burial","1596-01-28","28 JAN 1596",654,"Burial of Warner, Sir Francis","",[],[]]
 ],
 [
 
@@ -40470,12 +40470,12 @@ I = [
 ["I0162","Warner, Stanley Louis","Warner, Stanley Louis",
 [["Warner, Stanley Louis","Birth Name","","","","Stanley Louis","",["Warner"],"","","",[]]],
 "M","1963",
-"Statesboro, GA",
+"Statesboro, Bulloch, GA, USA",
 "",
 "",
 "",
 [
-	["E0730","Birth","1963-06-17","17 JUN 1963",742,"Birth of Warner, Stanley Louis","",[],[]],
+	["E0730","Birth","1963-06-17","17 JUN 1963",1103,"Birth of Warner, Stanley Louis","",[],[]],
 	["E0731","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -40493,12 +40493,12 @@ I = [
 ["I0159","Warner, Stephanie Sue","Warner, Stephanie Sue",
 [["Warner, Stephanie Sue","Birth Name","","","","Stephanie Sue","",["Warner"],"","","",[]]],
 "F","1950",
-"Jonesboro, AR",
+"Jonesboro, Craighead, AR, USA",
 "",
 "",
 "",
 [
-	["E0708","Birth","1950-06-23","23 JUN 1950",386,"Birth of Warner, Stephanie Sue","",[],[]],
+	["E0708","Birth","1950-06-23","23 JUN 1950",571,"Birth of Warner, Stephanie Sue","",[],[]],
 	["E0709","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -40516,12 +40516,12 @@ I = [
 ["I0160","Warner, Stephen Paul","Warner, Stephen Paul",
 [["Warner, Stephen Paul","Birth Name","","","","Stephen Paul","",["Warner"],"","","",[]]],
 "M","1951",
-"Bremerton, WA",
+"Bremerton, WA, USA",
 "",
 "",
 "",
 [
-	["E0718","Birth","1951-11-04","4 NOV 1951",98,"Birth of Warner, Stephen Paul","",[],[]],
+	["E0718","Birth","1951-11-04","4 NOV 1951",132,"Birth of Warner, Stephen Paul","",[],[]],
 	["E0719","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -40539,12 +40539,12 @@ I = [
 ["I0161","Warner, Stuart Bogarte","Warner, Stuart Bogarte",
 [["Warner, Stuart Bogarte","Birth Name","","","","Stuart Bogarte","",["Warner"],"","","",[]]],
 "M","1955",
-"Bremerton, WA",
+"Bremerton, WA, USA",
 "",
 "",
 "",
 [
-	["E0723","Birth","1955-12-09","9 DEC 1955",98,"Birth of Warner, Stuart Bogarte","",[],[]],
+	["E0723","Birth","1955-12-09","9 DEC 1955",132,"Birth of Warner, Stuart Bogarte","",[],[]],
 	["E0724","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -40584,12 +40584,12 @@ I = [
 ["I0845","Warner, Thomas","Warner, Thomas",
 [["Warner, Thomas","Birth Name","","","","Thomas","",["Warner"],"","","",[]]],
 "M","1556",
-"Nogales, AZ",
+"Nogales, Santa Cruz, AZ, USA",
 "",
 "",
 "",
 [
-	["E2417","Birth","1556","1556",563,"Birth of Warner, Thomas","",[],[]]
+	["E2417","Birth","1556","1556",856,"Birth of Warner, Thomas","",[],[]]
 ],
 [
 
@@ -40606,12 +40606,12 @@ I = [
 ["I0164","Warner, Thomas Frederick","Warner, Thomas Frederick",
 [["Warner, Thomas Frederick","Birth Name","","","","Thomas Frederick","",["Warner"],"","","",[]]],
 "M","1954",
-"Medford, OR",
+"Medford, OR, USA",
 "",
 "",
 "",
 [
-	["E0752","Birth","1954-11-25","25 NOV 1954",498,"Birth of Warner, Thomas Frederick","",[],[]],
+	["E0752","Birth","1954-11-25","25 NOV 1954",747,"Birth of Warner, Thomas Frederick","",[],[]],
 	["E0753","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -40629,13 +40629,13 @@ I = [
 ["I1259","Warner, unnamed girl","Warner, unnamed girl",
 [["Warner, unnamed girl","Birth Name","","","","unnamed girl","",["Warner"],"","","",[]]],
 "F","1865",
-"Palatka, FL",
+"Palatka, Putnam, FL, USA",
 "?",
-"Palatka, FL",
+"Palatka, Putnam, FL, USA",
 "unknown",
 [
-	["E0347","Birth","1865","1865",594,"Birth of Warner, unnamed girl","",[],[]],
-	["E0348","Death","","",594,"Death of Warner, unnamed girl","",[],[]]
+	["E0347","Birth","1865","1865",904,"Birth of Warner, unnamed girl","",[],[]],
+	["E0348","Death","","",904,"Death of Warner, unnamed girl","",[],[]]
 ],
 [
 
@@ -40652,14 +40652,14 @@ I = [
 ["I0021","Warner, Warren W.","Warner, Warren W.",
 [["Warner, Warren W.","Birth Name","","","","Warren W.","",["Warner"],"","","",[]]],
 "M","1867",
-"Durango, CO",
+"Durango, La Plata, CO, USA",
 "1919",
-"Kokomo, IN",
+"Kokomo, Howard, IN, USA",
 "52 years, 1 month, 18 days",
 [
-	["E1210","Birth","1867-01-23","23 JAN 1867",225,"Birth of Warner, Warren W.","",[],[]],
-	["E1211","Death","1919-03-10","10 MAR 1919",410,"Death of Warner, Warren W.","",[],[]],
-	["E1212","Burial","","",345,"Burial of Warner, Warren W.","",[],[]]
+	["E1210","Birth","1867-01-23","23 JAN 1867",326,"Birth of Warner, Warren W.","",[],[]],
+	["E1211","Death","1919-03-10","10 MAR 1919",598,"Death of Warner, Warren W.","",[],[]],
+	["E1212","Burial","","",494,"Burial of Warner, Warren W.","",[],[]]
 ],
 [
 
@@ -40676,12 +40676,12 @@ I = [
 ["I0983","Warner, Whitney Lianne","Warner, Whitney Lianne",
 [["Warner, Whitney Lianne","Birth Name","","","","Whitney Lianne","",["Warner"],"","","",[]]],
 "F","1986",
-"Bluefield, WV-VA",
+"Bluefield, WV-VA, USA",
 "",
 "",
 "",
 [
-	["E2699","Birth","1986-08-26","26 AUG 1986",86,"Birth of Warner, Whitney Lianne","",[],[]],
+	["E2699","Birth","1986-08-26","26 AUG 1986",114,"Birth of Warner, Whitney Lianne","",[],[]],
 	["E2700","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -40787,13 +40787,13 @@ I = [
 ["I1440","Waters, Cecil","Waters, Cecil",
 [["Waters, Cecil","Birth Name","","","","Cecil","",["Waters"],"","","",[]]],
 "M","?",
-"Harrisburg, PA",
+"Harrisburg, PA, USA",
 "?",
-"Troy, AL",
+"Troy, Pike, AL, USA",
 "unknown",
 [
-	["E0600","Birth","","",335,"Birth of Waters, Cecil","",[],[]],
-	["E0601","Death","","",776,"Death of Waters, Cecil","",[],[]]
+	["E0600","Birth","","",481,"Birth of Waters, Cecil","",[],[]],
+	["E0601","Death","","",1159,"Death of Waters, Cecil","",[],[]]
 ],
 [
 
@@ -40855,12 +40855,12 @@ I = [
 ["I1651","Waters, Edith","Waters, Edith",
 [["Waters, Edith","Birth Name","","","","Edith","",["Waters"],"","","",[]]],
 "F","?",
-"Memphis, TN",
+"Memphis, TN, USA",
 "",
 "",
 "",
 [
-	["E0760","Birth","","",499,"Birth of Waters, Edith","",[],[]]
+	["E0760","Birth","","",748,"Birth of Waters, Edith","",[],[]]
 ],
 [
 
@@ -40877,12 +40877,12 @@ I = [
 ["I1658","Waters, Everett","Waters, Everett",
 [["Waters, Everett","Birth Name","","","","Everett","",["Waters"],"","","",[]]],
 "M","?",
-"Memphis, TN",
+"Memphis, TN, USA",
 "",
 "",
 "",
 [
-	["E0764","Birth","","",499,"Birth of Waters, Everett","",[],[]]
+	["E0764","Birth","","",748,"Birth of Waters, Everett","",[],[]]
 ],
 [
 
@@ -40921,12 +40921,12 @@ I = [
 ["I1655","Waters, Lola","Waters, Lola",
 [["Waters, Lola","Birth Name","","","","Lola","",["Waters"],"","","",[]]],
 "F","?",
-"Memphis, TN",
+"Memphis, TN, USA",
 "",
 "",
 "",
 [
-	["E0762","Birth","","",499,"Birth of Waters, Lola","",[],[]]
+	["E0762","Birth","","",748,"Birth of Waters, Lola","",[],[]]
 ],
 [
 
@@ -40943,12 +40943,12 @@ I = [
 ["I1653","Waters, Nellie","Waters, Nellie",
 [["Waters, Nellie","Birth Name","","","","Nellie","",["Waters"],"","","",[]]],
 "F","?",
-"Memphis, TN",
+"Memphis, TN, USA",
 "",
 "",
 "",
 [
-	["E0761","Birth","","",499,"Birth of Waters, Nellie","",[],[]]
+	["E0761","Birth","","",748,"Birth of Waters, Nellie","",[],[]]
 ],
 [
 
@@ -40984,39 +40984,17 @@ I = [
 [[629,"Birth","Birth","",[]]],
 []
 ],
-["I1657","Waters, William","Waters, William",
-[["Waters, William","Birth Name","","","","William","",["Waters"],"","","",[]]],
-"M","?",
-"Memphis, TN",
-"",
-"",
-"",
-[
-	["E0763","Birth","","",499,"Birth of Waters, William","",[],[]]
-],
-[
-
-],
-"",
-[],
-[],
-[],
-[],
-[],
-[[631,"Birth","Birth","",[]]],
-[]
-],
 ["I1385","Waters, William","Waters, William",
 [["Waters, William","Birth Name","","","","William","",["Waters"],"","","",[]]],
 "M","1871",
-"Watertown, SD",
+"Watertown, SD, USA",
 "1938",
 "",
 "66 years, 10 months, 19 days",
 [
-	["E0504","Birth","1871-08-24","24 AUG 1871",816,"Birth of Waters, William","",[],[]],
+	["E0504","Birth","1871-08-24","24 AUG 1871",1228,"Birth of Waters, William","",[],[]],
 	["E0505","Death","1938-07-12","12 JUL 1938",-1,"Death of Waters, William","",[],[]],
-	["E0506","Burial","1938-07-14","14 JUL 1938",621,"Burial of Waters, William","",[],[]]
+	["E0506","Burial","1938-07-14","14 JUL 1938",939,"Burial of Waters, William","",[],[]]
 ],
 [
 
@@ -41030,15 +41008,37 @@ I = [
 [],
 []
 ],
-["I0314","Watkins, Bruce Edward","Watkins, Bruce Edward",
-[["Watkins, Bruce Edward","Birth Name","","","","Bruce Edward","",["Watkins"],"","","",[]]],
-"M","1950",
-"Beaver Dam, WI",
+["I1657","Waters, William","Waters, William",
+[["Waters, William","Birth Name","","","","William","",["Waters"],"","","",[]]],
+"M","?",
+"Memphis, TN, USA",
 "",
 "",
 "",
 [
-	["E1414","Birth","1950-12-12","12 DEC 1950",65,"Birth of Watkins, Bruce Edward","",[],[]],
+	["E0763","Birth","","",748,"Birth of Waters, William","",[],[]]
+],
+[
+
+],
+"",
+[],
+[],
+[],
+[],
+[],
+[[631,"Birth","Birth","",[]]],
+[]
+],
+["I0314","Watkins, Bruce Edward","Watkins, Bruce Edward",
+[["Watkins, Bruce Edward","Birth Name","","","","Bruce Edward","",["Watkins"],"","","",[]]],
+"M","1950",
+"Beaver Dam, WI, USA",
+"",
+"",
+"",
+[
+	["E1414","Birth","1950-12-12","12 DEC 1950",86,"Birth of Watkins, Bruce Edward","",[],[]],
 	["E1415","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -41056,12 +41056,12 @@ I = [
 ["I0315","Watkins, Laura Kathryn","Watkins, Laura Kathryn",
 [["Watkins, Laura Kathryn","Birth Name","","","","Laura Kathryn","",["Watkins"],"","","",[]]],
 "F","1980",
-"Lafayette, IN",
+"Lafayette, Tippecanoe, IN, USA",
 "",
 "",
 "",
 [
-	["E1416","Birth","1980-09-26","26 SEP 1980",415,"Birth of Watkins, Laura Kathryn","",[],[]],
+	["E1416","Birth","1980-09-26","26 SEP 1980",611,"Birth of Watkins, Laura Kathryn","",[],[]],
 	["E1417","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -41079,12 +41079,12 @@ I = [
 ["I0288","Watson, Alvin E.","Watson, Alvin E.",
 [["Watson, Alvin E.","Birth Name","","","","Alvin E.","",["Watson"],"","","",[]]],
 "M","1948",
-"Red Wing, MN",
+"Red Wing, MN, USA",
 "",
 "",
 "",
 [
-	["E1350","Birth","1948-05-09","9 MAY 1948",646,"Birth of Watson, Alvin E.","",[],[]],
+	["E1350","Birth","1948-05-09","9 MAY 1948",975,"Birth of Watson, Alvin E.","",[],[]],
 	["E1351","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -41102,12 +41102,12 @@ I = [
 ["I0289","Watson, Mary Grace","Watson, Mary Grace",
 [["Watson, Mary Grace","Birth Name","","","","Mary Grace","",["Watson"],"","","",[]]],
 "F","1983",
-"Santa Rosa-Petaluma, CA",
+"Santa Rosa-Petaluma, CA, USA",
 "",
 "",
 "",
 [
-	["E1352","Birth","1983-06-16","16 JUN 1983",693,"Birth of Watson, Mary Grace","",[],[]],
+	["E1352","Birth","1983-06-16","16 JUN 1983",1036,"Birth of Watson, Mary Grace","",[],[]],
 	["E1353","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -41147,12 +41147,12 @@ I = [
 ["I1078","Weaver, Justin Matthew","Weaver, Justin Matthew",
 [["Weaver, Justin Matthew","Birth Name","","","","Justin Matthew","",["Weaver"],"","","",[]]],
 "M","1995",
-"Gainesville, FL",
+"Gainesville, Alachua, FL, USA",
 "",
 "",
 "",
 [
-	["E0138","Birth","1995-06-07","7 JUN 1995",291,"Birth of Weaver, Justin Matthew","",[],[]],
+	["E0138","Birth","1995-06-07","7 JUN 1995",422,"Birth of Weaver, Justin Matthew","",[],[]],
 	["E0139","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -41170,12 +41170,12 @@ I = [
 ["I1077","Weaver, Steven Matthew","Weaver, Steven Matthew",
 [["Weaver, Steven Matthew","Birth Name","","","","Steven Matthew","",["Weaver"],"","","",[]]],
 "M","?",
-"Jasper, IN",
+"Jasper, Dubois, IN, USA",
 "",
 "",
 "",
 [
-	["E0137","Birth","","",381,"Birth of Weaver, Steven Matthew","",[],[]]
+	["E0137","Birth","","",557,"Birth of Weaver, Steven Matthew","",[],[]]
 ],
 [
 
@@ -41214,14 +41214,14 @@ I = [
 ["I0994","Webb, Alexander","Webb, Alexander",
 [["Webb, Alexander","Birth Name","","","","Alexander","",["Webb"],"","","",[]]],
 "M","1821",
-"Ontario, OR-ID",
+"Ontario, OR-ID, USA",
 "1854",
-"Janesville, WI",
+"Janesville, WI, USA",
 "33 years, 1 month, 1 day",
 [
-	["E2729","Birth","1821","1821",581,"Birth of Webb, Alexander","",[],[]],
-	["E2730","Death","1854-02-02","2 FEB 1854",380,"Death of Webb, Alexander","",[],[]],
-	["E2731","Burial","1854-02-00","FEB 1854",282,"Burial of Webb, Alexander","",[],[]]
+	["E2729","Birth","1821","1821",882,"Birth of Webb, Alexander","",[],[]],
+	["E2730","Death","1854-02-02","2 FEB 1854",555,"Death of Webb, Alexander","",[],[]],
+	["E2731","Burial","1854-02-00","FEB 1854",405,"Burial of Webb, Alexander","",[],[]]
 ],
 [
 
@@ -41238,14 +41238,14 @@ I = [
 ["I0990","Webb, Andrew","Webb, Andrew",
 [["Webb, Andrew","Birth Name","","","","Andrew","",["Webb"],"","","",[]]],
 "M","1788",
-"Loveland, CO",
+"Loveland, Larimer, CO, USA",
 "?",
-"Rolla, MO",
+"Rolla, MO, USA",
 "less than 62 years",
 [
-	["E2718","Birth","1788","1788",461,"Birth of Webb, Andrew","",[],[]],
-	["E2719","Death","before 1850","BEF 1850",666,"Death of Webb, Andrew","",[],[]],
-	["E2720","Burial","","",244,"Burial of Webb, Andrew","",[],[]]
+	["E2718","Birth","1788","1788",680,"Birth of Webb, Andrew","",[],[]],
+	["E2719","Death","before 1850","BEF 1850",999,"Death of Webb, Andrew","",[],[]],
+	["E2720","Burial","","",355,"Burial of Webb, Andrew","",[],[]]
 ],
 [
 
@@ -41262,12 +41262,12 @@ I = [
 ["I1701","Webb, Anna Mabel","Webb, Anna Mabel",
 [["Webb, Anna Mabel","Birth Name","","","","Anna Mabel","",["Webb"],"","","",[]]],
 "F","1890",
-"Reno-Sparks, NV",
+"Reno-Sparks, NV, USA",
 "1967",
 "",
 "76 years, 9 months, 10 days",
 [
-	["E0814","Birth","1890-10-02","2 OCT 1890",649,"Birth of Webb, Anna Mabel","",[],[]],
+	["E0814","Birth","1890-10-02","2 OCT 1890",979,"Birth of Webb, Anna Mabel","",[],[]],
 	["E0815","Death","1967-07-12","12 JUL 1967",-1,"Death of Webb, Anna Mabel","",[],[]]
 ],
 [
@@ -41285,12 +41285,12 @@ I = [
 ["I1240","Webb, Charles Edward","Webb, Charles Edward",
 [["Webb, Charles Edward","Birth Name","","","","Charles Edward","",["Webb"],"","","",[]]],
 "M","1901",
-"Reno-Sparks, NV",
+"Reno-Sparks, NV, USA",
 "",
 "",
 "",
 [
-	["E0338","Birth","1901-09-23","23 SEP 1901",649,"Birth of Webb, Charles Edward","",[],[]]
+	["E0338","Birth","1901-09-23","23 SEP 1901",979,"Birth of Webb, Charles Edward","",[],[]]
 ],
 [
 
@@ -41307,12 +41307,12 @@ I = [
 ["I1231","Webb, Charles Leroy Boyd","Webb, Charles Leroy Boyd",
 [["Webb, Charles Leroy Boyd","Birth Name","","","","Charles Leroy Boyd","",["Webb"],"","","",[]]],
 "M","1834",
-"Rockingham, NC",
+"Rockingham, NC, USA",
 "",
 "",
 "",
 [
-	["E0326","Birth","1834","1834",663,"Birth of Webb, Charles Leroy Boyd","",[],[]]
+	["E0326","Birth","1834","1834",996,"Birth of Webb, Charles Leroy Boyd","",[],[]]
 ],
 [
 
@@ -41329,14 +41329,14 @@ I = [
 ["I0796","Webb, Clarence","Webb, Clarence",
 [["Webb, Clarence","Birth Name","","","","Clarence","",["Webb"],"","","",[]]],
 "M","1878",
-"Burlington, VT",
+"Burlington, VT, USA",
 "1953",
-"Troy, AL",
+"Troy, Pike, AL, USA",
 "75 years, 8 months, 9 days",
 [
-	["E2309","Birth","1878-04-15","15 APR 1878",113,"Birth of Webb, Clarence","",[],[]],
-	["E2310","Death","1953-12-24","24 DEC 1953",776,"Death of Webb, Clarence","",[],[]],
-	["E2311","Burial","1953-12-26","26 DEC 1953",188,"Burial of Webb, Clarence","",[],[]]
+	["E2309","Birth","1878-04-15","15 APR 1878",152,"Birth of Webb, Clarence","",[],[]],
+	["E2310","Death","1953-12-24","24 DEC 1953",1159,"Death of Webb, Clarence","",[],[]],
+	["E2311","Burial","1953-12-26","26 DEC 1953",266,"Burial of Webb, Clarence","",[],[]]
 ],
 [
 
@@ -41353,12 +41353,12 @@ I = [
 ["I1698","Webb, David Festus","Webb, David Festus",
 [["Webb, David Festus","Birth Name","","","","David Festus","",["Webb"],"","","",[]]],
 "M","1883",
-"Reno-Sparks, NV",
+"Reno-Sparks, NV, USA",
 "1950",
 "",
 "67 years, 6 months, 1 day",
 [
-	["E0804","Birth","1883-02-22","22 FEB 1883",649,"Birth of Webb, David Festus","",[],[]],
+	["E0804","Birth","1883-02-22","22 FEB 1883",979,"Birth of Webb, David Festus","",[],[]],
 	["E0805","Death","1950-08-23","23 AUG 1950",-1,"Death of Webb, David Festus","",[],[]]
 ],
 [
@@ -41398,12 +41398,12 @@ I = [
 ["I1694","Webb, Ernest Arlington","Webb, Ernest Arlington",
 [["Webb, Ernest Arlington","Birth Name","","","","Ernest Arlington","",["Webb"],"","","",[]]],
 "M","1884",
-"Reno-Sparks, NV",
+"Reno-Sparks, NV, USA",
 "1957",
 "",
 "72 years, 10 months, 20 days",
 [
-	["E0801","Birth","1884-11-17","17 NOV 1884",649,"Birth of Webb, Ernest Arlington","",[],[]],
+	["E0801","Birth","1884-11-17","17 NOV 1884",979,"Birth of Webb, Ernest Arlington","",[],[]],
 	["E0802","Death","1957-10-07","7 OCT 1957",-1,"Death of Webb, Ernest Arlington","",[],[]]
 ],
 [
@@ -41421,12 +41421,12 @@ I = [
 ["I1704","Webb, Frances Mae","Webb, Frances Mae",
 [["Webb, Frances Mae","Birth Name","","","","Frances Mae","",["Webb"],"","","",[]]],
 "F","1899",
-"Reno-Sparks, NV",
+"Reno-Sparks, NV, USA",
 "1989",
 "",
 "90 years, 3 months, 1 day",
 [
-	["E0820","Birth","1899-02-04","4 FEB 1899",649,"Birth of Webb, Frances Mae","",[],[]],
+	["E0820","Birth","1899-02-04","4 FEB 1899",979,"Birth of Webb, Frances Mae","",[],[]],
 	["E0821","Death","1989-05-05","5 MAY 1989",-1,"Death of Webb, Frances Mae","",[],[]]
 ],
 [
@@ -41444,14 +41444,14 @@ I = [
 ["I0042","Webb, Francis Irvin","Webb, Francis Irvin",
 [["Webb, Francis Irvin","Birth Name","","","","Francis Irvin","",["Webb"],"","","",[]]],
 "M","1869",
-"Richmond, IN",
+"Richmond, Wayne, IN, USA",
 "1957",
-"Granbury, TX",
+"Granbury, Hood, TX, USA",
 "87 years, 9 months, 9 days",
 [
-	["E1610","Birth","1869-04-28","28 APR 1869",651,"Birth of Webb, Francis Irvin","",[],[]],
-	["E1611","Death","1957-02-07","7 FEB 1957",306,"Death of Webb, Francis Irvin","",[],[]],
-	["E1612","Burial","1957-02-00","FEB 1957",90,"Burial of Webb, Francis Irvin","",[],[]]
+	["E1610","Birth","1869-04-28","28 APR 1869",983,"Birth of Webb, Francis Irvin","",[],[]],
+	["E1611","Death","1957-02-07","7 FEB 1957",442,"Death of Webb, Francis Irvin","",[],[]],
+	["E1612","Burial","1957-02-00","FEB 1957",120,"Burial of Webb, Francis Irvin","",[],[]]
 ],
 [
 
@@ -41468,12 +41468,12 @@ I = [
 ["I1703","Webb, Harry Noble","Webb, Harry Noble",
 [["Webb, Harry Noble","Birth Name","","","","Harry Noble","",["Webb"],"","","",[]]],
 "M","1895",
-"Reno-Sparks, NV",
+"Reno-Sparks, NV, USA",
 "1925",
 "",
 "30 years, 27 days",
 [
-	["E0818","Birth","1895-11-10","10 NOV 1895",649,"Birth of Webb, Harry Noble","",[],[]],
+	["E0818","Birth","1895-11-10","10 NOV 1895",979,"Birth of Webb, Harry Noble","",[],[]],
 	["E0819","Death","1925-12-07","7 DEC 1925",-1,"Death of Webb, Harry Noble","",[],[]]
 ],
 [
@@ -41513,12 +41513,12 @@ I = [
 ["I1695","Webb, James","Webb, James",
 [["Webb, James","Birth Name","","","","James","",["Webb"],"","","",[]]],
 "M","?",
-"Reno-Sparks, NV",
+"Reno-Sparks, NV, USA",
 "",
 "",
 "",
 [
-	["E0803","Birth","","",649,"Birth of Webb, James","",[],[]]
+	["E0803","Birth","","",979,"Birth of Webb, James","",[],[]]
 ],
 [
 
@@ -41535,14 +41535,14 @@ I = [
 ["I0372","Webb, James Lee","Webb, James Lee",
 [["Webb, James Lee","Birth Name","","","","James Lee","",["Webb"],"","","",[]]],
 "M","1939",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "1994",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "55 years, 5 months",
 [
-	["E1539","Birth","1939-04-23","23 APR 1939",586,"Birth of Webb, James Lee","",[],[]],
-	["E1540","Death","1994-09-23","23 SEP 1994",586,"Death of Webb, James Lee","",[],[]],
-	["E1541","Burial","1994-09-27","27 SEP 1994",586,"Burial of Webb, James Lee","",[],[]]
+	["E1539","Birth","1939-04-23","23 APR 1939",893,"Birth of Webb, James Lee","",[],[]],
+	["E1540","Death","1994-09-23","23 SEP 1994",893,"Death of Webb, James Lee","",[],[]],
+	["E1541","Burial","1994-09-27","27 SEP 1994",893,"Burial of Webb, James Lee","",[],[]]
 ],
 [
 
@@ -41559,12 +41559,12 @@ I = [
 ["I1699","Webb, James Leslie","Webb, James Leslie",
 [["Webb, James Leslie","Birth Name","","","","James Leslie","",["Webb"],"","","",[]]],
 "M","1886",
-"Reno-Sparks, NV",
+"Reno-Sparks, NV, USA",
 "1963",
 "",
 "76 years, 2 months, 16 days",
 [
-	["E0806","Birth","1886-11-09","9 NOV 1886",649,"Birth of Webb, James Leslie","",[],[]],
+	["E0806","Birth","1886-11-09","9 NOV 1886",979,"Birth of Webb, James Leslie","",[],[]],
 	["E0807","Death","1963-01-25","25 JAN 1963",-1,"Death of Webb, James Leslie","",[],[]]
 ],
 [
@@ -41582,14 +41582,14 @@ I = [
 ["I1239","Webb, James Marshall","Webb, James Marshall",
 [["Webb, James Marshall","Birth Name","","","","James Marshall","",["Webb"],"","","",[]]],
 "M","1856",
-"Eau Claire, WI",
+"Eau Claire, WI, USA",
 "1938",
-"Pullman, WA",
+"Pullman, WA, USA",
 "81 years, 8 months",
 [
-	["E0333","Birth","1856-12-04","4 DEC 1856",233,"Birth of Webb, James Marshall","",[],[]],
-	["E0334","Death","1938-08-04","4 AUG 1938",639,"Death of Webb, James Marshall","",[],[]],
-	["E0335","Burial","1938-08-06","6 AUG 1938",699,"Burial of Webb, James Marshall","",[],[]]
+	["E0333","Birth","1856-12-04","4 DEC 1856",338,"Birth of Webb, James Marshall","",[],[]],
+	["E0334","Death","1938-08-04","4 AUG 1938",966,"Death of Webb, James Marshall","",[],[]],
+	["E0335","Burial","1938-08-06","6 AUG 1938",1046,"Burial of Webb, James Marshall","",[],[]]
 ],
 [
 
@@ -41606,12 +41606,12 @@ I = [
 ["I1233","Webb, James McPheeters","Webb, James McPheeters",
 [["Webb, James McPheeters","Birth Name","","","","James McPheeters","",["Webb"],"","","",[]]],
 "M","?",
-"Sault Ste. Marie, Sault Ste, Marie, MI",
+"Sault Ste, MI, USA",
 "",
 "",
 "",
 [
-	["E0328","Birth","","",694,"Birth of Webb, James McPheeters","",[],[]]
+	["E0328","Birth","","",1037,"Birth of Webb, James McPheeters","",[],[]]
 ],
 [
 
@@ -41628,12 +41628,12 @@ I = [
 ["I0368","Webb, Joan Lorinda","Webb, Joan Lorinda",
 [["Webb, Joan Lorinda","Birth Name","","","","Joan Lorinda","",["Webb"],"","","",[]]],
 "F","1946",
-"Wheeling, WV-OH",
+"Wheeling, WV-OH, USA",
 "",
 "",
 "",
 [
-	["E1530","Birth","1946-10-29","29 OCT 1946",825,"Birth of Webb, Joan Lorinda","",[],[]],
+	["E1530","Birth","1946-10-29","29 OCT 1946",1244,"Birth of Webb, Joan Lorinda","",[],[]],
 	["E1531","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -41673,12 +41673,12 @@ I = [
 ["I1232","Webb, John McCrea","Webb, John McCrea",
 [["Webb, John McCrea","Birth Name","","","","John McCrea","",["Webb"],"","","",[]]],
 "M","1837",
-"Decatur, IN",
+"Decatur, Adams, IN, USA",
 "",
 "",
 "",
 [
-	["E0327","Birth","1837","1837",204,"Birth of Webb, John McCrea","",[],[]]
+	["E0327","Birth","1837","1837",295,"Birth of Webb, John McCrea","",[],[]]
 ],
 [
 
@@ -41695,14 +41695,14 @@ I = [
 ["I0192","Webb, John Raymond","Webb, John Raymond",
 [["Webb, John Raymond","Birth Name","","","","John Raymond","",["Webb"],"","","",[]]],
 "M","1908",
-"Bridgeport, CT",
+"Bridgeport, Fairfield, CT, USA",
 "1996",
-"Longview-Kelso, WA",
+"Longview-Kelso, WA, USA",
 "87 years, 1 month, 23 days",
 [
-	["E1043","Birth","1908-12-15","15 DEC 1908",101,"Birth of Webb, John Raymond","",[],[]],
-	["E1044","Death","1996-02-07","7 FEB 1996",457,"Death of Webb, John Raymond","",[],[]],
-	["E1045","Burial","1996-02-10","10 FEB 1996",808,"Burial of Webb, John Raymond","",[],[]]
+	["E1043","Birth","1908-12-15","15 DEC 1908",136,"Birth of Webb, John Raymond","",[],[]],
+	["E1044","Death","1996-02-07","7 FEB 1996",674,"Death of Webb, John Raymond","",[],[]],
+	["E1045","Burial","1996-02-10","10 FEB 1996",1217,"Burial of Webb, John Raymond","",[],[]]
 ],
 [
 
@@ -41719,12 +41719,12 @@ I = [
 ["I1663","Webb, Joseph LeRoy","Webb, Joseph LeRoy",
 [["Webb, Joseph LeRoy","Birth Name","","","","Joseph LeRoy","",["Webb"],"","","",[]]],
 "M","1847",
-"Concord, NH",
+"Concord, NH, USA",
 "",
 "",
 "",
 [
-	["E0771","Birth","1847-10-00","OCT 1847",174,"Birth of Webb, Joseph LeRoy","",[],[]]
+	["E0771","Birth","1847-10-00","OCT 1847",247,"Birth of Webb, Joseph LeRoy","",[],[]]
 ],
 [
 
@@ -41741,14 +41741,14 @@ I = [
 ["I0797","Webb, Lawrence","Webb, Lawrence",
 [["Webb, Lawrence","Birth Name","","","","Lawrence","",["Webb"],"","","",[]]],
 "M","1878",
-"Burlington, VT",
+"Burlington, VT, USA",
 "1948",
-"Troy, AL",
+"Troy, Pike, AL, USA",
 "70 years, 4 months, 14 days",
 [
-	["E2312","Birth","1878-04-15","15 APR 1878",113,"Birth of Webb, Lawrence","",[],[]],
-	["E2313","Death","1948-08-29","29 AUG 1948",776,"Death of Webb, Lawrence","",[],[]],
-	["E2314","Burial","1948-08-31","31 AUG 1948",188,"Burial of Webb, Lawrence","",[],[]]
+	["E2312","Birth","1878-04-15","15 APR 1878",152,"Birth of Webb, Lawrence","",[],[]],
+	["E2313","Death","1948-08-29","29 AUG 1948",1159,"Death of Webb, Lawrence","",[],[]],
+	["E2314","Burial","1948-08-31","31 AUG 1948",266,"Burial of Webb, Lawrence","",[],[]]
 ],
 [
 
@@ -41765,14 +41765,14 @@ I = [
 ["I0193","Webb, Lewis I.","Webb, Lewis I.",
 [["Webb, Lewis I.","Birth Name","","","","Lewis I.","",["Webb"],"","","",[]]],
 "M","1903",
-"Billings, MT",
+"Billings, MT, USA",
 "1942",
-"Kendallville, IN",
+"Kendallville, Noble, IN, USA",
 "39 years, 8 months, 25 days",
 [
-	["E1048","Birth","1903-03-31","31 MAR 1903",77,"Birth of Webb, Lewis I.","",[],[]],
-	["E1049","Death","1942-12-25","25 DEC 1942",395,"Death of Webb, Lewis I.","",[],[]],
-	["E1050","Burial","","",680,"Burial of Webb, Lewis I.","",[],[]]
+	["E1048","Birth","1903-03-31","31 MAR 1903",104,"Birth of Webb, Lewis I.","",[],[]],
+	["E1049","Death","1942-12-25","25 DEC 1942",580,"Death of Webb, Lewis I.","",[],[]],
+	["E1050","Burial","","",1015,"Burial of Webb, Lewis I.","",[],[]]
 ],
 [
 
@@ -41789,14 +41789,14 @@ I = [
 ["I0068","Webb, Livingstone Martin","Webb, Livingstone Martin",
 [["Webb, Livingstone Martin","Birth Name","","","","Livingstone Martin","",["Webb"],"","","",[]]],
 "M","1846",
-"Concord, NH",
+"Concord, NH, USA",
 "1902",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "56 years, 1 month, 28 days",
 [
-	["E2129","Birth","1846-02-11","11 FEB 1846",174,"Birth of Webb, Livingstone Martin","",[],[]],
-	["E2130","Death","1902-04-10","10 APR 1902",586,"Death of Webb, Livingstone Martin","",[],[]],
-	["E2131","Burial","1902-04-13","13 APR 1902",188,"Burial of Webb, Livingstone Martin","",[],[]]
+	["E2129","Birth","1846-02-11","11 FEB 1846",247,"Birth of Webb, Livingstone Martin","",[],[]],
+	["E2130","Death","1902-04-10","10 APR 1902",893,"Death of Webb, Livingstone Martin","",[],[]],
+	["E2131","Burial","1902-04-13","13 APR 1902",266,"Burial of Webb, Livingstone Martin","",[],[]]
 ],
 [
 
@@ -41813,12 +41813,12 @@ I = [
 ["I1664","Webb, Lucinda E.","Webb, Lucinda E.",
 [["Webb, Lucinda E.","Birth Name","","","","Lucinda E.","",["Webb"],"","","",[]]],
 "F","?",
-"Carlsbad, NM",
+"Carlsbad, NM, USA",
 "",
 "",
 "",
 [
-	["E0772","Birth","","",130,"Birth of Webb, Lucinda E.","",[],[]]
+	["E0772","Birth","","",175,"Birth of Webb, Lucinda E.","",[],[]]
 ],
 [
 
@@ -41835,14 +41835,14 @@ I = [
 ["I0191","Webb, Lucy Mabel","Webb, Lucy Mabel",
 [["Webb, Lucy Mabel","Birth Name","","","","Lucy Mabel","",["Webb"],"","","",[]]],
 "F","1899",
-"La Crosse, WI",
+"La Crosse, WI, USA",
 "1971",
-"Ada, OK",
+"Ada, OK, USA",
 "72 years, 3 months, 21 days",
 [
-	["E1031","Birth","1899-01-20","20 JAN 1899",411,"Birth of Webb, Lucy Mabel","",[],[]],
-	["E1032","Death","1971-05-10","10 MAY 1971",2,"Death of Webb, Lucy Mabel","",[],[]],
-	["E1033","Burial","1971-05-13","13 MAY 1971",188,"Burial of Webb, Lucy Mabel","",[],[]]
+	["E1031","Birth","1899-01-20","20 JAN 1899",604,"Birth of Webb, Lucy Mabel","",[],[]],
+	["E1032","Death","1971-05-10","10 MAY 1971",3,"Death of Webb, Lucy Mabel","",[],[]],
+	["E1033","Burial","1971-05-13","13 MAY 1971",266,"Burial of Webb, Lucy Mabel","",[],[]]
 ],
 [
 
@@ -41859,14 +41859,14 @@ I = [
 ["I0036","Webb, Luella Florence","Webb, Luella Florence",
 [["Webb, Luella Florence","Birth Name","","","","Luella Florence","",["Webb"],"","","",[]]],
 "F","1906",
-"Tuscaloosa, AL",
+"Tuscaloosa, Tuscaloosa, AL, USA",
 "1986",
-"Worthington, MN",
+"Worthington, MN, USA",
 "79 years, 11 months, 1 day",
 [
-	["E1518","Birth","1906-11-07","7 NOV 1906",780,"Birth of Webb, Luella Florence","",[],[]],
-	["E1519","Death","1986-10-08","8 OCT 1986",843,"Death of Webb, Luella Florence","",[],[]],
-	["E1520","Burial","1986-10-11","11 OCT 1986",90,"Burial of Webb, Luella Florence","",[],[]]
+	["E1518","Birth","1906-11-07","7 NOV 1906",1165,"Birth of Webb, Luella Florence","",[],[]],
+	["E1519","Death","1986-10-08","8 OCT 1986",1273,"Death of Webb, Luella Florence","",[],[]],
+	["E1520","Burial","1986-10-11","11 OCT 1986",120,"Burial of Webb, Luella Florence","",[],[]]
 ],
 [
 
@@ -41883,14 +41883,14 @@ I = [
 ["I0991","Webb, Margaret Margarite?","Webb, Margaret Margarite?",
 [["Webb, Margaret Margarite?","Birth Name","","","","Margaret Margarite?","",["Webb"],"","","",[]]],
 "F","1800",
-"Loveland, CO",
+"Loveland, Larimer, CO, USA",
 "?",
-"Rolla, MO",
+"Rolla, MO, USA",
 "more than 60 years",
 [
-	["E2721","Birth","1800","1800",461,"Birth of Webb, Margaret Margarite?","",[],[]],
-	["E2722","Death","after 1860","AFT 1860",666,"Death of Webb, Margaret Margarite?","",[],[]],
-	["E2723","Burial","after 1860","AFT 1860",244,"Burial of Webb, Margaret Margarite?","",[],[]]
+	["E2721","Birth","1800","1800",680,"Birth of Webb, Margaret Margarite?","",[],[]],
+	["E2722","Death","after 1860","AFT 1860",999,"Death of Webb, Margaret Margarite?","",[],[]],
+	["E2723","Burial","after 1860","AFT 1860",355,"Burial of Webb, Margaret Margarite?","",[],[]]
 ],
 [
 
@@ -41907,12 +41907,12 @@ I = [
 ["I0369","Webb, Marilyn Jean","Webb, Marilyn Jean",
 [["Webb, Marilyn Jean","Birth Name","","","","Marilyn Jean","",["Webb"],"","","",[]]],
 "F","1950",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E1532","Birth","1950-03-18","18 MAR 1950",586,"Birth of Webb, Marilyn Jean","",[],[]],
+	["E1532","Birth","1950-03-18","18 MAR 1950",893,"Birth of Webb, Marilyn Jean","",[],[]],
 	["E1533","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -41927,37 +41927,15 @@ I = [
 [[642,"Birth","Birth","",[]]],
 []
 ],
-["I1223","Webb, Mary","Webb, Mary",
-[["Webb, Mary","Birth Name","","","","Mary","",["Webb"],"","","",[]]],
-"F","1803",
-"Niles, MI",
-"",
-"",
-"",
-[
-	["E0319","Birth","1803","1803",562,"Birth of Webb, Mary","",[],[]]
-],
-[
-
-],
-"",
-[],
-[],
-[],
-[],
-[630],
-[[635,"Birth","Birth","",[]]],
-[]
-],
 ["I1228","Webb, Mary","Webb, Mary",
 [["Webb, Mary","Birth Name","","","","Mary","",["Webb"],"","","",[]]],
 "F","1827",
-"Greenwood, SC",
+"Greenwood, SC, USA",
 "",
 "",
 "",
 [
-	["E0320","Birth","1827-01-31","31 JAN 1827",323,"Birth of Webb, Mary","",[],[]]
+	["E0320","Birth","1827-01-31","31 JAN 1827",463,"Birth of Webb, Mary","",[],[]]
 ],
 [
 
@@ -41971,15 +41949,37 @@ I = [
 [[637,"Birth","Birth","",[]]],
 []
 ],
+["I1223","Webb, Mary","Webb, Mary",
+[["Webb, Mary","Birth Name","","","","Mary","",["Webb"],"","","",[]]],
+"F","1803",
+"Niles, MI, USA",
+"",
+"",
+"",
+[
+	["E0319","Birth","1803","1803",852,"Birth of Webb, Mary","",[],[]]
+],
+[
+
+],
+"",
+[],
+[],
+[],
+[],
+[630],
+[[635,"Birth","Birth","",[]]],
+[]
+],
 ["I1702","Webb, Mary Ruth","Webb, Mary Ruth",
 [["Webb, Mary Ruth","Birth Name","","","","Mary Ruth","",["Webb"],"","","",[]]],
 "F","1892",
-"Reno-Sparks, NV",
+"Reno-Sparks, NV, USA",
 "1956",
 "",
 "63 years, 11 months, 14 days",
 [
-	["E0816","Birth","1892-12-15","15 DEC 1892",649,"Birth of Webb, Mary Ruth","",[],[]],
+	["E0816","Birth","1892-12-15","15 DEC 1892",979,"Birth of Webb, Mary Ruth","",[],[]],
 	["E0817","Death","1956-11-29","29 NOV 1956",-1,"Death of Webb, Mary Ruth","",[],[]]
 ],
 [
@@ -41997,12 +41997,12 @@ I = [
 ["I1700","Webb, Michael Christie","Webb, Michael Christie",
 [["Webb, Michael Christie","Birth Name","","","","Michael Christie","",["Webb"],"","","",[]]],
 "M","1888",
-"Reno-Sparks, NV",
+"Reno-Sparks, NV, USA",
 "1970",
 "",
 "81 years, 8 months, 4 days",
 [
-	["E0812","Birth","1888-11-19","19 NOV 1888",649,"Birth of Webb, Michael Christie","",[],[]],
+	["E0812","Birth","1888-11-19","19 NOV 1888",979,"Birth of Webb, Michael Christie","",[],[]],
 	["E0813","Death","1970-07-23","23 JUL 1970",-1,"Death of Webb, Michael Christie","",[],[]]
 ],
 [
@@ -42042,13 +42042,13 @@ I = [
 ["I0371","Webb, Nancy Lou","Webb, Nancy Lou",
 [["Webb, Nancy Lou","Birth Name","","","","Nancy Lou","",["Webb"],"","","",[]]],
 "F","?",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "?",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "unknown",
 [
-	["E1537","Birth","","",586,"Birth of Webb, Nancy Lou","",[],[]],
-	["E1538","Death","","",586,"Death of Webb, Nancy Lou","",[],[]]
+	["E1537","Birth","","",893,"Birth of Webb, Nancy Lou","",[],[]],
+	["E1538","Death","","",893,"Death of Webb, Nancy Lou","",[],[]]
 ],
 [
 
@@ -42065,14 +42065,14 @@ I = [
 ["I1234","Webb, Newton Kitridge","Webb, Newton Kitridge",
 [["Webb, Newton Kitridge","Birth Name","","","","Newton Kitridge","",["Webb"],"","","",[]]],
 "M","1842",
-"Orlando, FL",
+"Orlando, Orange, FL, USA",
 "1912",
-"Lafayette, IN",
+"Lafayette, Tippecanoe, IN, USA",
 "69 years, 9 months, 15 days",
 [
-	["E0329","Birth","1842-10-13","13 OCT 1842",583,"Birth of Webb, Newton Kitridge","",[],[]],
-	["E0330","Death","1912-07-28","28 JUL 1912",415,"Death of Webb, Newton Kitridge","",[],[]],
-	["E0331","Burial","1912-07-30","30 JUL 1912",699,"Burial of Webb, Newton Kitridge","",[],[]]
+	["E0329","Birth","1842-10-13","13 OCT 1842",888,"Birth of Webb, Newton Kitridge","",[],[]],
+	["E0330","Death","1912-07-28","28 JUL 1912",611,"Death of Webb, Newton Kitridge","",[],[]],
+	["E0331","Burial","1912-07-30","30 JUL 1912",1046,"Burial of Webb, Newton Kitridge","",[],[]]
 ],
 [
 
@@ -42089,13 +42089,13 @@ I = [
 ["I1243","Webb, Noble A.","Webb, Noble A.",
 [["Webb, Noble A.","Birth Name","","","","Noble A.","",["Webb"],"","","",[]]],
 "M","1925",
-"Eau Claire, WI",
+"Eau Claire, WI, USA",
 "?",
-"Reno-Sparks, NV",
+"Reno-Sparks, NV, USA",
 "unknown",
 [
-	["E0343","Birth","1925","1925",233,"Birth of Webb, Noble A.","",[],[]],
-	["E0344","Death","","",649,"Death of Webb, Noble A.","",[],[]]
+	["E0343","Birth","1925","1925",338,"Birth of Webb, Noble A.","",[],[]],
+	["E0344","Death","","",979,"Death of Webb, Noble A.","",[],[]]
 ],
 [
 
@@ -42134,14 +42134,14 @@ I = [
 ["I0373","Webb, Richard L.","Webb, Richard L.",
 [["Webb, Richard L.","Birth Name","","","","Richard L.","",["Webb"],"","","",[]]],
 "M","1928",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "1994",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "65 years, 11 months, 22 days",
 [
-	["E1542","Birth","1928-03-14","14 MAR 1928",586,"Birth of Webb, Richard L.","",[],[]],
-	["E1543","Death","1994-03-05","5 MAR 1994",586,"Death of Webb, Richard L.","",[],[]],
-	["E1544","Burial","1994-03-08","8 MAR 1994",474,"Burial of Webb, Richard L.","",[],[]]
+	["E1542","Birth","1928-03-14","14 MAR 1928",893,"Birth of Webb, Richard L.","",[],[]],
+	["E1543","Death","1994-03-05","5 MAR 1994",893,"Death of Webb, Richard L.","",[],[]],
+	["E1544","Burial","1994-03-08","8 MAR 1994",707,"Burial of Webb, Richard L.","",[],[]]
 ],
 [
 
@@ -42180,12 +42180,12 @@ I = [
 ["I1222","Webb, Sallie","Webb, Sallie",
 [["Webb, Sallie","Birth Name","","","","Sallie","",["Webb"],"","","",[]]],
 "F","?",
-"Niles, MI",
+"Niles, MI, USA",
 "",
 "",
 "",
 [
-	["E0318","Birth","","",562,"Birth of Webb, Sallie","",[],[]]
+	["E0318","Birth","","",852,"Birth of Webb, Sallie","",[],[]]
 ],
 [
 
@@ -42202,12 +42202,12 @@ I = [
 ["I1230","Webb, Sarah Margarite","Webb, Sarah Margarite",
 [["Webb, Sarah Margarite","Birth Name","","","","Sarah Margarite","",["Webb"],"","","",[]]],
 "F","1832",
-"Rockingham, NC",
+"Rockingham, NC, USA",
 "",
 "",
 "",
 [
-	["E0325","Birth","1832","1832",663,"Birth of Webb, Sarah Margarite","",[],[]]
+	["E0325","Birth","1832","1832",996,"Birth of Webb, Sarah Margarite","",[],[]]
 ],
 [
 
@@ -42224,13 +42224,13 @@ I = [
 ["I1242","Webb, William Herman","Webb, William Herman",
 [["Webb, William Herman","Birth Name","","","","William Herman","",["Webb"],"","","",[]]],
 "M","1881",
-"Pullman, WA",
+"Pullman, WA, USA",
 "1952",
-"Reno-Sparks, NV",
+"Reno-Sparks, NV, USA",
 "70 years, 9 months, 27 days",
 [
-	["E0341","Birth","1881-10-27","27 OCT 1881",639,"Birth of Webb, William Herman","",[],[]],
-	["E0342","Death","1952-08-23","23 AUG 1952",649,"Death of Webb, William Herman","",[],[]]
+	["E0341","Birth","1881-10-27","27 OCT 1881",966,"Birth of Webb, William Herman","",[],[]],
+	["E0342","Death","1952-08-23","23 AUG 1952",979,"Death of Webb, William Herman","",[],[]]
 ],
 [
 
@@ -42247,12 +42247,12 @@ I = [
 ["I1229","Webb, William John","Webb, William John",
 [["Webb, William John","Birth Name","","","","William John","",["Webb"],"","","",[]]],
 "M","1829",
-"Rockingham, NC",
+"Rockingham, NC, USA",
 "1888",
 "",
 "58 years, 9 months, 3 days",
 [
-	["E0321","Birth","1829-07-14","14 JUL 1829",663,"Birth of Webb, William John","",[],[]],
+	["E0321","Birth","1829-07-14","14 JUL 1829",996,"Birth of Webb, William John","",[],[]],
 	["E0322","Death","1888-04-17","17 APR 1888",-1,"Death of Webb, William John","",[],[]]
 ],
 [
@@ -42292,13 +42292,13 @@ I = [
 ["I0759","Webster, Johanne(John)","Webster, Johanne(John)",
 [["Webster, Johanne(John)","Birth Name","","","","Johanne(John)","",["Webster"],"","","",[]]],
 "M","1679",
-"Jesup, GA",
+"Jesup, Wayne, GA, USA",
 "?",
-"Savannah, GA",
+"Savannah, Chatham, GA, USA",
 "unknown",
 [
-	["E2255","Birth","1679-05-01","1 MAY 1679",384,"Birth of Webster, Johanne(John)","",[],[]],
-	["E2256","Death","","",695,"Death of Webster, Johanne(John)","",[],[]]
+	["E2255","Birth","1679-05-01","1 MAY 1679",567,"Birth of Webster, Johanne(John)","",[],[]],
+	["E2256","Death","","",1038,"Death of Webster, Johanne(John)","",[],[]]
 ],
 [
 
@@ -42315,12 +42315,12 @@ I = [
 ["I0858","Welch, Annabelle Elaine","Welch, Annabelle Elaine",
 [["Welch, Annabelle Elaine","Birth Name","","","","Annabelle Elaine","",["Welch"],"","","",[]]],
 "F","1951",
-"Midland, MI",
+"Midland, MI, USA",
 "",
 "",
 "",
 [
-	["E2440","Birth","1951-03-30","30 MAR 1951",510,"Birth of Welch, Annabelle Elaine","",[],[]],
+	["E2440","Birth","1951-03-30","30 MAR 1951",766,"Birth of Welch, Annabelle Elaine","",[],[]],
 	["E2441","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -42338,12 +42338,12 @@ I = [
 ["I0444","Welch, Christopher Paul","Welch, Christopher Paul",
 [["Welch, Christopher Paul","Birth Name","","","","Christopher Paul","",["Welch"],"","","",[]]],
 "M","1966",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E1667","Birth","1966-09-04","4 SEP 1966",586,"Birth of Welch, Christopher Paul","",[],[]],
+	["E1667","Birth","1966-09-04","4 SEP 1966",893,"Birth of Welch, Christopher Paul","",[],[]],
 	["E1668","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -42361,14 +42361,14 @@ I = [
 ["I0853","Welch, Irwin Arthur","Welch, Irwin Arthur",
 [["Welch, Irwin Arthur","Birth Name","","","","Irwin Arthur","",["Welch"],"","","",[]]],
 "M","1920",
-"Torrington, CT",
+"Torrington, Litchfield, CT, USA",
 "1979",
-"Medford, OR",
+"Medford, OR, USA",
 "58 years, 7 months, 28 days",
 [
-	["E2431","Birth","1920-10-28","28 OCT 1920",774,"Birth of Welch, Irwin Arthur","",[],[]],
-	["E2432","Death","1979-06-25","25 JUN 1979",498,"Death of Welch, Irwin Arthur","",[],[]],
-	["E2433","Burial","1979-06-27","27 JUN 1979",824,"Burial of Welch, Irwin Arthur","",[],[]]
+	["E2431","Birth","1920-10-28","28 OCT 1920",1157,"Birth of Welch, Irwin Arthur","",[],[]],
+	["E2432","Death","1979-06-25","25 JUN 1979",747,"Death of Welch, Irwin Arthur","",[],[]],
+	["E2433","Burial","1979-06-27","27 JUN 1979",1242,"Burial of Welch, Irwin Arthur","",[],[]]
 ],
 [
 
@@ -42385,12 +42385,12 @@ I = [
 ["I0349","Welch, Jeremy Quentin","Welch, Jeremy Quentin",
 [["Welch, Jeremy Quentin","Birth Name","","","","Jeremy Quentin","",["Welch"],"","","",[]]],
 "M","1982",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E1488","Birth","1982-08-09","9 AUG 1982",586,"Birth of Welch, Jeremy Quentin","",[],[]],
+	["E1488","Birth","1982-08-09","9 AUG 1982",893,"Birth of Welch, Jeremy Quentin","",[],[]],
 	["E1489","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -42431,12 +42431,12 @@ I = [
 ["I1083","Welch, Madeleine Christine","Welch, Madeleine Christine",
 [["Welch, Madeleine Christine","Birth Name","","","","Madeleine Christine","",["Welch"],"","","",[]]],
 "F","1995",
-"Vallejo, CA",
+"Vallejo, Solano, CA, USA",
 "",
 "",
 "",
 [
-	["E0150","Birth","1995-11-01","1 NOV 1995",791,"Birth of Welch, Madeleine Christine","",[],[]],
+	["E0150","Birth","1995-11-01","1 NOV 1995",1187,"Birth of Welch, Madeleine Christine","",[],[]],
 	["E0151","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -42500,12 +42500,12 @@ I = [
 ["I0860","Welch, Rosalie Jane","Welch, Rosalie Jane",
 [["Welch, Rosalie Jane","Birth Name","","","","Rosalie Jane","",["Welch"],"","","",[]]],
 "F","1956",
-"Medford, OR",
+"Medford, OR, USA",
 "",
 "",
 "",
 [
-	["E2447","Birth","1956-08-03","3 AUG 1956",498,"Birth of Welch, Rosalie Jane","",[],[]],
+	["E2447","Birth","1956-08-03","3 AUG 1956",747,"Birth of Welch, Rosalie Jane","",[],[]],
 	["E2448","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -42523,12 +42523,12 @@ I = [
 ["I0855","Welch, Russell Eugene","Welch, Russell Eugene",
 [["Welch, Russell Eugene","Birth Name","","","","Russell Eugene","",["Welch"],"","","",[]]],
 "M","1949",
-"Midland, MI",
+"Midland, MI, USA",
 "",
 "",
 "",
 [
-	["E2434","Birth","1949-04-08","8 APR 1949",510,"Birth of Welch, Russell Eugene","",[],[]],
+	["E2434","Birth","1949-04-08","8 APR 1949",766,"Birth of Welch, Russell Eugene","",[],[]],
 	["E2435","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -42568,13 +42568,13 @@ I = [
 ["I1146","Wells, Alice","Wells, Alice",
 [["Wells, Alice","Birth Name","","","","Alice","",["Wells"],"","","",[]]],
 "F","?",
-"Burlington, IA",
+"Burlington, Des Moines, IA, USA",
 "1653",
-"McAlester, OK",
+"McAlester, OK, USA",
 "unknown",
 [
-	["E0244","Birth","","",111,"Birth of Wells, Alice","",[],[]],
-	["E0245","Death","1653-11-08","8 NOV 1653",493,"Death of Wells, Alice","",[],[]]
+	["E0244","Birth","","",150,"Birth of Wells, Alice","",[],[]],
+	["E0245","Death","1653-11-08","8 NOV 1653",736,"Death of Wells, Alice","",[],[]]
 ],
 [
 
@@ -42591,12 +42591,12 @@ I = [
 ["I0450","West, Erin Kathleen","West, Erin Kathleen",
 [["West, Erin Kathleen","Birth Name","","","","Erin Kathleen","",["West"],"","","",[]]],
 "F","1985",
-"Coos Bay, OR",
+"Coos Bay, OR, USA",
 "",
 "",
 "",
 [
-	["E1682","Birth","1985-11-06","6 NOV 1985",177,"Birth of West, Erin Kathleen","",[],[]],
+	["E1682","Birth","1985-11-06","6 NOV 1985",251,"Birth of West, Erin Kathleen","",[],[]],
 	["E1683","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -42614,12 +42614,12 @@ I = [
 ["I1087","West, Kevin Wayne","West, Kevin Wayne",
 [["West, Kevin Wayne","Birth Name","","","","Kevin Wayne","",["West"],"","","",[]]],
 "M","1989",
-"Rockland, ME",
+"Rockland, ME, USA",
 "",
 "",
 "",
 [
-	["E0152","Birth","1989-05-05","5 MAY 1989",664,"Birth of West, Kevin Wayne","",[],[]],
+	["E0152","Birth","1989-05-05","5 MAY 1989",997,"Birth of West, Kevin Wayne","",[],[]],
 	["E0153","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -42704,12 +42704,12 @@ I = [
 ["I0781","Wheeler, Jason Earl","Wheeler, Jason Earl",
 [["Wheeler, Jason Earl","Birth Name","","","","Jason Earl","",["Wheeler"],"","","",[]]],
 "M","1977",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E2285","Birth","1977-01-04","4 JAN 1977",586,"Birth of Wheeler, Jason Earl","",[],[]],
+	["E2285","Birth","1977-01-04","4 JAN 1977",893,"Birth of Wheeler, Jason Earl","",[],[]],
 	["E2286","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -42727,12 +42727,12 @@ I = [
 ["I0780","Wheeler, Lynnett Diane","Wheeler, Lynnett Diane",
 [["Wheeler, Lynnett Diane","Birth Name","","","","Lynnett Diane","",["Wheeler"],"","","",[]]],
 "F","1970",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E2283","Birth","1970-10-05","5 OCT 1970",586,"Birth of Wheeler, Lynnett Diane","",[],[]],
+	["E2283","Birth","1970-10-05","5 OCT 1970",893,"Birth of Wheeler, Lynnett Diane","",[],[]],
 	["E2284","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -42750,12 +42750,12 @@ I = [
 ["I0779","Wheeler, Richard Max","Wheeler, Richard Max",
 [["Wheeler, Richard Max","Birth Name","","","","Richard Max","",["Wheeler"],"","","",[]]],
 "M","1967",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E2280","Birth","1967-10-02","2 OCT 1967",586,"Birth of Wheeler, Richard Max","",[],[]],
+	["E2280","Birth","1967-10-02","2 OCT 1967",893,"Birth of Wheeler, Richard Max","",[],[]],
 	["E2281","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -42839,12 +42839,12 @@ I = [
 ["I0980","Willis, Carissa Nicole","Willis, Carissa Nicole",
 [["Willis, Carissa Nicole","Birth Name","","","","Carissa Nicole","",["Willis"],"","","",[]]],
 "F","1993",
-"Wheeling, WV-OH",
+"Wheeling, WV-OH, USA",
 "",
 "",
 "",
 [
-	["E2695","Birth","1993-10-27","27 OCT 1993",825,"Birth of Willis, Carissa Nicole","",[],[]],
+	["E2695","Birth","1993-10-27","27 OCT 1993",1244,"Birth of Willis, Carissa Nicole","",[],[]],
 	["E2696","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -42884,12 +42884,12 @@ I = [
 ["I1080","Willis, Matea Elizabeth","Willis, Matea Elizabeth",
 [["Willis, Matea Elizabeth","Birth Name","","","","Matea Elizabeth","",["Willis"],"","","",[]]],
 "F","1996",
-"Russellville, AR",
+"Russellville, Pope, AR, USA",
 "",
 "",
 "",
 [
-	["E0144","Birth","1996-08-09","9 AUG 1996",670,"Birth of Willis, Matea Elizabeth","",[],[]],
+	["E0144","Birth","1996-08-09","9 AUG 1996",1004,"Birth of Willis, Matea Elizabeth","",[],[]],
 	["E0145","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -42907,12 +42907,12 @@ I = [
 ["I1090","Willis, Mattea Elizabeth","Willis, Mattea Elizabeth",
 [["Willis, Mattea Elizabeth","Birth Name","","","","Mattea Elizabeth","",["Willis"],"","","",[]]],
 "F","1996",
-"Hartford, CT",
+"Hartford, Hartford, CT, USA",
 "",
 "",
 "",
 [
-	["E0160","Birth","1996-08-19","19 AUG 1996",338,"Birth of Willis, Mattea Elizabeth","",[],[]],
+	["E0160","Birth","1996-08-19","19 AUG 1996",485,"Birth of Willis, Mattea Elizabeth","",[],[]],
 	["E0161","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -42952,13 +42952,13 @@ I = [
 ["I0687","Wise, Thomas","Wise, Thomas",
 [["Wise, Thomas","Birth Name","","","","Thomas","",["Wise"],"","","",[]]],
 "M","1536",
-"Hanford-Corcoran, CA",
+"Hanford-Corcoran, CA, USA",
 "1606",
-"East Stroudsburg, PA",
+"East Stroudsburg, PA, USA",
 "70 years, 3 months, 20 days",
 [
-	["E2143","Birth","1536-06-19","19 JUN 1536",331,"Birth of Wise, Thomas","",[],[]],
-	["E2144","Death","1606-10-09","9 OCT 1606",231,"Death of Wise, Thomas","",[],[]]
+	["E2143","Birth","1536-06-19","19 JUN 1536",475,"Birth of Wise, Thomas","",[],[]],
+	["E2144","Death","1606-10-09","9 OCT 1606",336,"Death of Wise, Thomas","",[],[]]
 ],
 [
 
@@ -43003,7 +43003,7 @@ I = [
 "",
 [
 	["E2079","Death","1967-06-25","25 JUN 1967",-1,"Death of Wójcik, Arnold","",[],[]],
-	["E2080","Burial","","",789,"Burial of Wójcik, Arnold","",[],[]]
+	["E2080","Burial","","",1182,"Burial of Wójcik, Arnold","",[],[]]
 ],
 [
 
@@ -43224,13 +43224,13 @@ I = [
 ["I1909","Wood, Polly","Wood, Polly",
 [["Wood, Polly","Birth Name","","","","Polly","",["Wood"],"","","",[]]],
 "F","1771",
-"Cedartown, GA",
+"Cedartown, Polk, GA, USA",
 "?",
-"Burley, ID",
+"Burley, Cassia, ID, USA",
 "less than 78 years, 11 months, 3 days",
 [
-	["E1029","Birth","1771-01-29","29 JAN 1771",134,"Birth of Wood, Polly","",[],[]],
-	["E1030","Death","before 1850","BEF 1850",110,"Death of Wood, Polly","",[],[]]
+	["E1029","Birth","1771-01-29","29 JAN 1771",182,"Birth of Wood, Polly","",[],[]],
+	["E1030","Death","before 1850","BEF 1850",149,"Death of Wood, Polly","",[],[]]
 ],
 [
 
@@ -43269,13 +43269,13 @@ I = [
 ["I1915","Woods, Mary Polly","Woods, Mary Polly",
 [["Woods, Mary Polly","Birth Name","","","","Mary Polly","",["Woods"],"","","",[]]],
 "F","1777",
-"Waterloo-Cedar Falls, IA",
+"Waterloo-Cedar Falls, IA, USA",
 "1854",
-"Indiana, PA",
+"Indiana, PA, USA",
 "76 years, 11 months, 16 days",
 [
-	["E1038","Birth","1777-11-29","29 NOV 1777",814,"Birth of Woods, Mary Polly","",[],[]],
-	["E1039","Death","1854-11-15","15 NOV 1854",367,"Death of Woods, Mary Polly","",[],[]]
+	["E1038","Birth","1777-11-29","29 NOV 1777",1226,"Birth of Woods, Mary Polly","",[],[]],
+	["E1039","Death","1854-11-15","15 NOV 1854",539,"Death of Woods, Mary Polly","",[],[]]
 ],
 [
 
@@ -43338,10 +43338,10 @@ I = [
 "M","?",
 "",
 "?",
-"Alexandria, MN",
+"Alexandria, MN, USA",
 "",
 [
-	["E1707","Burial","","",16,"Burial of Wright, Dr. Charles J.","",[],[]]
+	["E1707","Burial","","",24,"Burial of Wright, Dr. Charles J.","",[],[]]
 ],
 [
 
@@ -43358,14 +43358,14 @@ I = [
 ["I0989","Yates, Sarah","Yates, Sarah",
 [["Yates, Sarah","Birth Name","","","","Sarah","",["Yates"],"","","",[]]],
 "F","?",
-"Loveland, CO",
+"Loveland, Larimer, CO, USA",
 "?",
-"Del Rio, TX",
+"Del Rio, Val Verde, TX, USA",
 "unknown",
 [
-	["E2713","Birth","","",461,"Birth of Yates, Sarah","",[],[]],
-	["E2714","Death","","",206,"Death of Yates, Sarah","",[],[]],
-	["E2715","Burial","","",206,"Burial of Yates, Sarah","",[],[]]
+	["E2713","Birth","","",680,"Birth of Yates, Sarah","",[],[]],
+	["E2714","Death","","",298,"Death of Yates, Sarah","",[],[]],
+	["E2715","Burial","","",298,"Burial of Yates, Sarah","",[],[]]
 ],
 [
 
@@ -43404,14 +43404,14 @@ I = [
 ["I0107","Zieliński, Phoebe Emily","Zieliński, Phoebe Emily",
 [["Zieliński, Phoebe Emily","Birth Name","","","","Phoebe Emily","",["Zieliński"],"","","",[]],["Garner, Phoebe Emily","Married Name","","","","Phoebe Emily","",["Garner"],"","","",[]]],
 "F","1827",
-"Bogalusa, LA",
+"Bogalusa, Washington, LA, USA",
 "1882",
-"Albuquerque, NM",
+"Albuquerque, NM, USA",
 "54 years, 10 months, 25 days",
 [
-	["E0124","Birth","1827-04-12","12 APR 1827",88,"Birth of Zieliński, Phoebe Emily","",[],[]],
-	["E0125","Death","1882-03-07","7 MAR 1882",13,"Death of Zieliński, Phoebe Emily","",[],[]],
-	["E0126","Burial","1882-03-09","9 MAR 1882",508,"Burial of Zieliński, Phoebe Emily","",[],[]]
+	["E0124","Birth","1827-04-12","12 APR 1827",116,"Birth of Zieliński, Phoebe Emily","",[],[]],
+	["E0125","Death","1882-03-07","7 MAR 1882",21,"Death of Zieliński, Phoebe Emily","",[],[]],
+	["E0126","Burial","1882-03-09","9 MAR 1882",763,"Burial of Zieliński, Phoebe Emily","",[],[]]
 ],
 [
 
@@ -43423,6 +43423,30 @@ I = [
 [],
 [254],
 [[729,"Birth","Birth","",[]]],
+[]
+],
+["I0867","Zimmerman, Edith Irene","Zimmerman, Edith Irene",
+[["Zimmerman, Edith Irene","Birth Name","","","","Edith Irene","",["Zimmerman"],"","","",[]]],
+"F","1890",
+"Atlanta, Fulton, GA, USA",
+"1962",
+"Kokomo, Howard, IN, USA",
+"72 years, 7 months, 1 day",
+[
+	["E2461","Birth","1890-05-20","20 MAY 1890",61,"Birth of Zimmerman, Edith Irene","",[],[]],
+	["E2462","Death","1962-12-21","21 DEC 1962",598,"Death of Zimmerman, Edith Irene","",[],[]],
+	["E2463","Burial","1962-12-23","23 DEC 1962",891,"Burial of Zimmerman, Edith Irene","",[],[]]
+],
+[
+
+],
+"",
+[],
+[],
+[],
+[],
+[451],
+[],
 []
 ],
 ["I0891","Zimmerman, Edith Irene","Zimmerman, Edith Irene",
@@ -43444,30 +43468,6 @@ I = [
 [],
 [],
 [],
-[],
-[]
-],
-["I0867","Zimmerman, Edith Irene","Zimmerman, Edith Irene",
-[["Zimmerman, Edith Irene","Birth Name","","","","Edith Irene","",["Zimmerman"],"","","",[]]],
-"F","1890",
-"Atlanta, GA",
-"1962",
-"Kokomo, IN",
-"72 years, 7 months, 1 day",
-[
-	["E2461","Birth","1890-05-20","20 MAY 1890",47,"Birth of Zimmerman, Edith Irene","",[],[]],
-	["E2462","Death","1962-12-21","21 DEC 1962",410,"Death of Zimmerman, Edith Irene","",[],[]],
-	["E2463","Burial","1962-12-23","23 DEC 1962",585,"Burial of Zimmerman, Edith Irene","",[],[]]
-],
-[
-
-],
-"",
-[],
-[],
-[],
-[],
-[451],
 [],
 []
 ],
@@ -43629,14 +43629,14 @@ I = [
 ["I0916","Белоусов, Catharine","Белоусов, Catharine",
 [["Белоусов, Catharine","Birth Name","","","","Catharine","",["Белоусов"],"","","",[]]],
 "F","1717",
-"Enterprise, AL",
+"Enterprise, Coffee, AL, USA",
 "1788",
-"Grants, NM",
+"Grants, NM, USA",
 "71 years, 2 months, 25 days",
 [
-	["E2555","Birth","1717-01-26","26 JAN 1717",245,"Birth of Белоусов, Catharine","",[],[]],
-	["E2556","Death","1788-04-20","20 APR 1788",311,"Death of Белоусов, Catharine","",[],[]],
-	["E2557","Burial","1788-04-22","22 APR 1788",373,"Burial of Белоусов, Catharine","",[],[]]
+	["E2555","Birth","1717-01-26","26 JAN 1717",356,"Birth of Белоусов, Catharine","",[],[]],
+	["E2556","Death","1788-04-20","20 APR 1788",448,"Death of Белоусов, Catharine","",[],[]],
+	["E2557","Burial","1788-04-22","22 APR 1788",548,"Burial of Белоусов, Catharine","",[],[]]
 ],
 [
 
@@ -43653,14 +43653,14 @@ I = [
 ["I0942","Белоусов, Jacob","Белоусов, Jacob",
 [["Белоусов, Jacob","Birth Name","","","","Jacob","",["Белоусов"],"","","",[]]],
 "M","1658",
-"Kalamazoo, MI",
+"Kalamazoo, MI, USA",
 "1718",
-"Kalamazoo, MI",
+"Kalamazoo, MI, USA",
 "60 years, 7 months, 15 days",
 [
-	["E2599","Birth","1658","1658",390,"Birth of Белоусов, Jacob","",[],[]],
-	["E2600","Death","1718-08-16","16 AUG 1718",390,"Death of Белоусов, Jacob","",[],[]],
-	["E2601","Burial","","",448,"Burial of Белоусов, Jacob","",[],[]]
+	["E2599","Birth","1658","1658",575,"Birth of Белоусов, Jacob","",[],[]],
+	["E2600","Death","1718-08-16","16 AUG 1718",575,"Death of Белоусов, Jacob","",[],[]],
+	["E2601","Burial","","",658,"Burial of Белоусов, Jacob","",[],[]]
 ],
 [
 
@@ -43677,14 +43677,14 @@ I = [
 ["I0946","Белоусов, Johannas Jacob","Белоусов, Johannas Jacob",
 [["Белоусов, Johannas Jacob","Birth Name","","","","Johannas Jacob","",["Белоусов"],"","","",[]]],
 "M","1690",
-"Kalamazoo, MI",
+"Kalamazoo, MI, USA",
 "1750",
-"Kalamazoo, MI",
+"Kalamazoo, MI, USA",
 "60 years, 10 months, 2 days",
 [
-	["E2608","Birth","1690-02-23","23 FEB 1690",390,"Birth of Белоусов, Johannas Jacob","",[],[]],
-	["E2609","Death","1750-12-25","25 DEC 1750",390,"Death of Белоусов, Johannas Jacob","",[],[]],
-	["E2610","Burial","","",448,"Burial of Белоусов, Johannas Jacob","",[],[]]
+	["E2608","Birth","1690-02-23","23 FEB 1690",575,"Birth of Белоусов, Johannas Jacob","",[],[]],
+	["E2609","Death","1750-12-25","25 DEC 1750",575,"Death of Белоусов, Johannas Jacob","",[],[]],
+	["E2610","Burial","","",658,"Burial of Белоусов, Johannas Jacob","",[],[]]
 ],
 [
 
@@ -43767,12 +43767,12 @@ I = [
 ["I0676","Брюханов, Violet Louise","Брюханов, Violet Louise",
 [["Брюханов, Violet Louise","Birth Name","","","","Violet Louise","",["Брюханов"],"","","",[]]],
 "F","1915",
-"Duncan, OK",
+"Duncan, OK, USA",
 "",
 "",
 "",
 [
-	["E2122","Birth","1915-09-28","28 SEP 1915",223,"Birth of Брюханов, Violet Louise","",[],[]],
+	["E2122","Birth","1915-09-28","28 SEP 1915",324,"Birth of Брюханов, Violet Louise","",[],[]],
 	["E2123","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -43966,13 +43966,13 @@ I = [
 ["I1093","Васильев, Lucy","Васильев, Lucy",
 [["Васильев, Lucy","Birth Name","","","","Lucy","",["Васильев"],"","","",[]]],
 "F","1732",
-"Carson City, NV",
+"Carson City, NV, USA",
 "1789",
-"Duluth, MN",
+"Duluth, MN, USA",
 "57 years, 4 months, 12 days",
 [
-	["E0164","Birth","1732-01-17","17 JAN 1732",131,"Birth of Васильев, Lucy","",[],[]],
-	["E0165","Death","1789-05-29","29 MAY 1789",221,"Death of Васильев, Lucy","",[],[]]
+	["E0164","Birth","1732-01-17","17 JAN 1732",176,"Birth of Васильев, Lucy","",[],[]],
+	["E0165","Death","1789-05-29","29 MAY 1789",322,"Death of Васильев, Lucy","",[],[]]
 ],
 [
 
@@ -44102,11 +44102,11 @@ I = [
 "F","?",
 "",
 "1572",
-"Phoenix, AZ",
+"Phoenix, Maricopa, AZ, USA",
 "about 57 years",
 [
 	["E2247","Birth","about 1515","ABT 1515",-1,"Birth of Гончаров, Ellen","",[],[]],
-	["E2248","Death","1572","1572",611,"Death of Гончаров, Ellen","",[],[]]
+	["E2248","Death","1572","1572",926,"Death of Гончаров, Ellen","",[],[]]
 ],
 [
 
@@ -44211,12 +44211,12 @@ I = [
 ["I0170","Данилов, Barbara Joanne","Данилов, Barbara Joanne",
 [["Данилов, Barbara Joanne","Birth Name","","","","Barbara Joanne","",["Данилов"],"","","",[]]],
 "F","1955",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E0810","Birth","1955-04-30","30 APR 1955",586,"Birth of Данилов, Barbara Joanne","",[],[]],
+	["E0810","Birth","1955-04-30","30 APR 1955",893,"Birth of Данилов, Barbara Joanne","",[],[]],
 	["E0811","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -44234,12 +44234,12 @@ I = [
 ["I0415","Данилов, Daniel James Ramos","Данилов, Daniel James Ramos",
 [["Данилов, Daniel James Ramos","Birth Name","","","","Daniel James Ramos","",["Данилов"],"","","",[]]],
 "M","1984",
-"Wheeling, WV-OH",
+"Wheeling, WV-OH, USA",
 "",
 "",
 "",
 [
-	["E1600","Birth","1984-10-26","26 OCT 1984",825,"Birth of Данилов, Daniel James Ramos","",[],[]],
+	["E1600","Birth","1984-10-26","26 OCT 1984",1244,"Birth of Данилов, Daniel James Ramos","",[],[]],
 	["E1601","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -44257,12 +44257,12 @@ I = [
 ["I0169","Данилов, Darrell Edwin","Данилов, Darrell Edwin",
 [["Данилов, Darrell Edwin","Birth Name","","","","Darrell Edwin","",["Данилов"],"","","",[]]],
 "M","1953",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E0799","Birth","1953-09-11","11 SEP 1953",586,"Birth of Данилов, Darrell Edwin","",[],[]],
+	["E0799","Birth","1953-09-11","11 SEP 1953",893,"Birth of Данилов, Darrell Edwin","",[],[]],
 	["E0800","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -44302,12 +44302,12 @@ I = [
 ["I0168","Данилов, Elaine Suzanne","Данилов, Elaine Suzanne",
 [["Данилов, Elaine Suzanne","Birth Name","","","","Elaine Suzanne","",["Данилов"],"","","",[]]],
 "F","1951",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E0789","Birth","1951-10-23","23 OCT 1951",586,"Birth of Данилов, Elaine Suzanne","",[],[]],
+	["E0789","Birth","1951-10-23","23 OCT 1951",893,"Birth of Данилов, Elaine Suzanne","",[],[]],
 	["E0790","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -44325,12 +44325,12 @@ I = [
 ["I0167","Данилов, Kathryn Louise","Данилов, Kathryn Louise",
 [["Данилов, Kathryn Louise","Birth Name","","","","Kathryn Louise","",["Данилов"],"","","",[]]],
 "F","1948",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E0781","Birth","1948-12-23","23 DEC 1948",586,"Birth of Данилов, Kathryn Louise","",[],[]],
+	["E0781","Birth","1948-12-23","23 DEC 1948",893,"Birth of Данилов, Kathryn Louise","",[],[]],
 	["E0782","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -44348,12 +44348,12 @@ I = [
 ["I0171","Данилов, Lucinda Elinor","Данилов, Lucinda Elinor",
 [["Данилов, Lucinda Elinor","Birth Name","","","","Lucinda Elinor","",["Данилов"],"","","",[]]],
 "F","1958",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E0824","Birth","1958-04-12","12 APR 1958",586,"Birth of Данилов, Lucinda Elinor","",[],[]],
+	["E0824","Birth","1958-04-12","12 APR 1958",893,"Birth of Данилов, Lucinda Elinor","",[],[]],
 	["E0825","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -44371,12 +44371,12 @@ I = [
 ["I0344","Данилов, Rebecca Kristine Ramos","Данилов, Rebecca Kristine Ramos",
 [["Данилов, Rebecca Kristine Ramos","Birth Name","","","","Rebecca Kristine Ramos","",["Данилов"],"","","",[]]],
 "F","1982",
-"Wheeling, WV-OH",
+"Wheeling, WV-OH, USA",
 "",
 "",
 "",
 [
-	["E1478","Birth","1982-12-31","31 DEC 1982",825,"Birth of Данилов, Rebecca Kristine Ramos","",[],[]],
+	["E1478","Birth","1982-12-31","31 DEC 1982",1244,"Birth of Данилов, Rebecca Kristine Ramos","",[],[]],
 	["E1479","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -44394,13 +44394,13 @@ I = [
 ["I1914","Дмитриев, Alexander Carroll Sr.","Дмитриев, Alexander Carroll Sr.",
 [["Дмитриев, Alexander Carroll Sr.","Birth Name","","","","Alexander Carroll Sr.","",["Дмитриев"],"","","",[]]],
 "M","1771",
-"Greenwood, MS",
+"Greenwood, MS, USA",
 "1838",
-"Indiana, PA",
+"Indiana, PA, USA",
 "66 years, 8 months, 28 days",
 [
-	["E1036","Birth","1771-04-20","20 APR 1771",322,"Birth of Дмитриев, Alexander Carroll Sr.","",[],[]],
-	["E1037","Death","1838-01-18","18 JAN 1838",367,"Death of Дмитриев, Alexander Carroll Sr.","",[],[]]
+	["E1036","Birth","1771-04-20","20 APR 1771",462,"Birth of Дмитриев, Alexander Carroll Sr.","",[],[]],
+	["E1037","Death","1838-01-18","18 JAN 1838",539,"Death of Дмитриев, Alexander Carroll Sr.","",[],[]]
 ],
 [
 
@@ -44440,13 +44440,13 @@ I = [
 ["I0986","Дмитриев, Charles Sr.","Дмитриев, Charles Sr.",
 [["Дмитриев, Charles Sr.","Birth Name","","","","Charles Sr.","",["Дмитриев"],"","","",[]]],
 "M","?",
-"Keokuk, IA",
+"Keokuk, Lee, IA, USA",
 "1750",
-"Seneca, SC",
+"Seneca, SC, USA",
 "about 63 years, 4 months, 12 days",
 [
-	["E2706","Birth","about 1687","ABT 1687",398,"Birth of Дмитриев, Charles Sr.","",[],[]],
-	["E2707","Death","1750-05-13","13 MAY 1750",705,"Death of Дмитриев, Charles Sr.","",[],[]]
+	["E2706","Birth","about 1687","ABT 1687",584,"Birth of Дмитриев, Charles Sr.","",[],[]],
+	["E2707","Death","1750-05-13","13 MAY 1750",1054,"Death of Дмитриев, Charles Sr.","",[],[]]
 ],
 [
 
@@ -44463,13 +44463,13 @@ I = [
 ["I1899","Дмитриев, George","Дмитриев, George",
 [["Дмитриев, George","Birth Name","","","","George","",["Дмитриев"],"","","",[]]],
 "M","?",
-"Cabo Rojo, PR",
+"Cabo Rojo, PR, USA",
 "?",
-"Union City, TN",
+"Union City, TN, USA",
 "unknown",
 [
-	["E1014","Birth","","",115,"Birth of Дмитриев, George","",[],[]],
-	["E1015","Death","","",785,"Death of Дмитриев, George","",[],[]]
+	["E1014","Birth","","",156,"Birth of Дмитриев, George","",[],[]],
+	["E1015","Death","","",1174,"Death of Дмитриев, George","",[],[]]
 ],
 [
 
@@ -44577,13 +44577,13 @@ I = [
 ["I1912","Дмитриев, Margaret Jane","Дмитриев, Margaret Jane",
 [["Дмитриев, Margaret Jane","Birth Name","","","","Margaret Jane","",["Дмитриев"],"","","",[]]],
 "F","?",
-"Waterloo-Cedar Falls, IA",
+"Waterloo-Cedar Falls, IA, USA",
 "?",
-"Steubenville, OH",
+"Steubenville, OH, USA",
 "unknown",
 [
-	["E1034","Birth","","",814,"Birth of Дмитриев, Margaret Jane","",[],[]],
-	["E1035","Death","","",747,"Death of Дмитриев, Margaret Jane","",[],[]]
+	["E1034","Birth","","",1226,"Birth of Дмитриев, Margaret Jane","",[],[]],
+	["E1035","Death","","",1111,"Death of Дмитриев, Margaret Jane","",[],[]]
 ],
 [
 
@@ -44622,14 +44622,14 @@ I = [
 ["I0969","Дмитриев, Moses Aaron","Дмитриев, Moses Aaron",
 [["Дмитриев, Moses Aaron","Birth Name","","","","Moses Aaron","",["Дмитриев"],"","","",[]]],
 "M","1735",
-"Willmar, MN",
+"Willmar, MN, USA",
 "?",
-"Richmond, VA",
+"Richmond, VA, USA",
 "unknown",
 [
-	["E2668","Birth","1735-11-09","9 NOV 1735",831,"Birth of Дмитриев, Moses Aaron","",[],[]],
-	["E2669","Death","","",653,"Death of Дмитриев, Moses Aaron","",[],[]],
-	["E2670","Burial","","",195,"Burial of Дмитриев, Moses Aaron","",[],[]]
+	["E2668","Birth","1735-11-09","9 NOV 1735",1257,"Birth of Дмитриев, Moses Aaron","",[],[]],
+	["E2669","Death","","",985,"Death of Дмитриев, Moses Aaron","",[],[]],
+	["E2670","Burial","","",278,"Burial of Дмитриев, Moses Aaron","",[],[]]
 ],
 [
 
@@ -44670,11 +44670,11 @@ I = [
 "M","1767",
 "",
 "?",
-"Winchester, VA",
+"Winchester, VA, USA",
 "unknown",
 [
 	["E1023","Birth","1767-09-12","12 SEP 1767",-1,"Birth of Дмитриев, Travis","",[],[]],
-	["E1024","Death","","",835,"Death of Дмитриев, Travis","",[],[]]
+	["E1024","Death","","",1261,"Death of Дмитриев, Travis","",[],[]]
 ],
 [
 
@@ -44691,12 +44691,12 @@ I = [
 ["I1175","Дмитриев, William","Дмитриев, William",
 [["Дмитриев, William","Birth Name","","","","William","",["Дмитриев"],"","","",[]]],
 "M","1727",
-"Pueblo, CO",
+"Pueblo, Pueblo, CO, USA",
 "1766",
 "",
 "39 years, 4 months, 11 days",
 [
-	["E0281","Birth","1727","1727",637,"Birth of Дмитриев, William","",[],[]],
+	["E0281","Birth","1727","1727",961,"Birth of Дмитриев, William","",[],[]],
 	["E0282","Death","1766-05-12","12 MAY 1766",-1,"Death of Дмитриев, William","",[],[]]
 ],
 [
@@ -44714,13 +44714,13 @@ I = [
 ["I1908","Дмитриев, William","Дмитриев, William",
 [["Дмитриев, William","Birth Name","","","","William","",["Дмитриев"],"","","",[]]],
 "M","1768",
-"York, PA",
+"York, PA, USA",
 "1853",
-"New Orleans, LA",
+"New Orleans, Orleans, LA, USA",
 "84 years, 9 months",
 [
-	["E1027","Birth","1768-04-01","1 APR 1768",848,"Birth of Дмитриев, William","",[],[]],
-	["E1028","Death","1853","1853",556,"Death of Дмитриев, William","",[],[]]
+	["E1027","Birth","1768-04-01","1 APR 1768",1282,"Birth of Дмитриев, William","",[],[]],
+	["E1028","Death","1853","1853",844,"Death of Дмитриев, William","",[],[]]
 ],
 [
 
@@ -44739,10 +44739,10 @@ I = [
 "M","?",
 "",
 "?",
-"Troy, AL",
+"Troy, Pike, AL, USA",
 "",
 [
-	["E0749","Death","","",776,"Death of Егоров, Dr. Charles J.","",[],[]]
+	["E0749","Death","","",1159,"Death of Егоров, Dr. Charles J.","",[],[]]
 ],
 [
 
@@ -44781,12 +44781,12 @@ I = [
 ["I0621","Жуков, Curtis Dale","Жуков, Curtis Dale",
 [["Жуков, Curtis Dale","Birth Name","","","","Curtis Dale","",["Жуков"],"","","",[]]],
 "M","?",
-"Silverthorne, CO",
+"Silverthorne, Summit, CO, USA",
 "",
 "",
 "",
 [
-	["E2034","Birth","","",720,"Birth of Жуков, Curtis Dale","",[],[]]
+	["E2034","Birth","","",1072,"Birth of Жуков, Curtis Dale","",[],[]]
 ],
 [
 
@@ -44847,12 +44847,12 @@ I = [
 ["I0620","Жуков, Scott","Жуков, Scott",
 [["Жуков, Scott","Birth Name","","","","Scott","",["Жуков"],"","","",[]]],
 "M","?",
-"Silverthorne, CO",
+"Silverthorne, Summit, CO, USA",
 "",
 "",
 "",
 [
-	["E2033","Birth","","",720,"Birth of Жуков, Scott","",[],[]]
+	["E2033","Birth","","",1072,"Birth of Жуков, Scott","",[],[]]
 ],
 [
 
@@ -44913,14 +44913,14 @@ I = [
 ["I0555","Злобин, Col. Joseph","Злобин, Col. Joseph",
 [["Злобин, Col. Joseph","Birth Name","","","","Col. Joseph","",["Злобин"],"","","",[]]],
 "M","?",
-"Eagle Pass, TX",
+"Eagle Pass, Maverick, TX, USA",
 "1771",
-"St. Petersburg, St, Petersburg, FL",
+"St, FL, USA",
 "unknown",
 [
-	["E1898","Birth","","",229,"Birth of Злобин, Col. Joseph","",[],[]],
-	["E1899","Death","1771","1771",739,"Death of Злобин, Col. Joseph","",[],[]],
-	["E1900","Burial","","",623,"Burial of Злобин, Col. Joseph","",[],[]]
+	["E1898","Birth","","",332,"Birth of Злобин, Col. Joseph","",[],[]],
+	["E1899","Death","1771","1771",1098,"Death of Злобин, Col. Joseph","",[],[]],
+	["E1900","Burial","","",944,"Burial of Злобин, Col. Joseph","",[],[]]
 ],
 [
 
@@ -44937,13 +44937,13 @@ I = [
 ["I0757","Злобин, John","Злобин, John",
 [["Злобин, John","Birth Name","","","","John","",["Злобин"],"","","",[]]],
 "M","1695",
-"Ketchikan, AK",
+"Ketchikan, AK, USA",
 "?",
-"Eagle Pass, TX",
+"Eagle Pass, Maverick, TX, USA",
 "unknown",
 [
-	["E2252","Birth","1695","1695",400,"Birth of Злобин, John","",[],[]],
-	["E2253","Death","","",229,"Death of Злобин, John","",[],[]]
+	["E2252","Birth","1695","1695",587,"Birth of Злобин, John","",[],[]],
+	["E2253","Death","","",332,"Death of Злобин, John","",[],[]]
 ],
 [
 
@@ -44960,13 +44960,13 @@ I = [
 ["I0560","Злобин, Joseph Jr.","Злобин, Joseph Jr.",
 [["Злобин, Joseph Jr.","Birth Name","","","","Joseph Jr.","",["Злобин"],"","","",[]]],
 "M","1756",
-"Moultrie, GA",
+"Moultrie, Colquitt, GA, USA",
 "1801",
-"Altus, OK",
+"Altus, OK, USA",
 "45 years, 5 months, 25 days",
 [
-	["E1910","Birth","1756-02-15","15 FEB 1756",535,"Birth of Злобин, Joseph Jr.","",[],[]],
-	["E1911","Death","1801-08-11","11 AUG 1801",23,"Death of Злобин, Joseph Jr.","",[],[]]
+	["E1910","Birth","1756-02-15","15 FEB 1756",809,"Birth of Злобин, Joseph Jr.","",[],[]],
+	["E1911","Death","1801-08-11","11 AUG 1801",32,"Death of Злобин, Joseph Jr.","",[],[]]
 ],
 [
 
@@ -44983,14 +44983,14 @@ I = [
 ["I0566","Злобин, Martha","Злобин, Martha",
 [["Злобин, Martha","Birth Name","","","","Martha","",["Злобин"],"","","",[]]],
 "F","1790",
-"Searcy, AR",
+"Searcy, White, AR, USA",
 "1849",
 "",
 "59 years, 4 months, 29 days",
 [
-	["E1916","Birth","1790-01-29","29 JAN 1790",700,"Birth of Злобин, Martha","",[],[]],
+	["E1916","Birth","1790-01-29","29 JAN 1790",1047,"Birth of Злобин, Martha","",[],[]],
 	["E1917","Death","1849-06-27","27 JUN 1849",-1,"Death of Злобин, Martha","",[],[]],
-	["E1918","Burial","1849-06-29","29 JUN 1849",602,"Burial of Злобин, Martha","",[],[]]
+	["E1918","Burial","1849-06-29","29 JUN 1849",914,"Burial of Злобин, Martha","",[],[]]
 ],
 [
 
@@ -45007,12 +45007,12 @@ I = [
 ["I0694","Зыков, ???????","Зыков, ???????",
 [["Зыков, ???????","Birth Name","","","","???????","",["Зыков"],"","","",[]]],
 "M","?",
-"Sheboygan, WI",
+"Sheboygan, WI, USA",
 "",
 "",
 "",
 [
-	["E2148","Birth","","",709,"Birth of Зыков, ???????","",[],[]]
+	["E2148","Birth","","",1061,"Birth of Зыков, ???????","",[],[]]
 ],
 [
 
@@ -45029,14 +45029,14 @@ I = [
 ["I0034","Зыков, Angeline","Зыков, Angeline",
 [["Зыков, Angeline","Birth Name","","","","Angeline","",["Зыков"],"","","",[]]],
 "F","1846",
-"Fairmont, WV",
+"Fairmont, WV, USA",
 "1891",
-"Oxnard, CA",
+"Oxnard, Ventura, CA, USA",
 "45 years, 2 months, 14 days",
 [
-	["E1467","Birth","1846-08-17","17 AUG 1846",254,"Birth of Зыков, Angeline","",[],[]],
-	["E1468","Death","1891-10-31","31 OCT 1891",591,"Death of Зыков, Angeline","",[],[]],
-	["E1469","Burial","1891-11-01","1 NOV 1891",591,"Burial of Зыков, Angeline","",[],[]]
+	["E1467","Birth","1846-08-17","17 AUG 1846",370,"Birth of Зыков, Angeline","",[],[]],
+	["E1468","Death","1891-10-31","31 OCT 1891",900,"Death of Зыков, Angeline","",[],[]],
+	["E1469","Burial","1891-11-01","1 NOV 1891",900,"Burial of Зыков, Angeline","",[],[]]
 ],
 [
 
@@ -45053,14 +45053,14 @@ I = [
 ["I0029","Зыков, John","Зыков, John",
 [["Зыков, John","Birth Name","","","","John","",["Зыков"],"","","",[]]],
 "M","1795",
-"Ardmore, OK",
+"Ardmore, OK, USA",
 "1875",
-"Visalia, CA",
+"Visalia, Tulare, CA, USA",
 "80 years, 1 month, 6 days",
 [
-	["E1354","Birth","1795-11-06","6 NOV 1795",36,"Birth of Зыков, John","",[],[]],
-	["E1355","Death","1875-12-12","12 DEC 1875",800,"Death of Зыков, John","",[],[]],
-	["E1356","Burial","","",94,"Burial of Зыков, John","",[],[]]
+	["E1354","Birth","1795-11-06","6 NOV 1795",49,"Birth of Зыков, John","",[],[]],
+	["E1355","Death","1875-12-12","12 DEC 1875",1200,"Death of Зыков, John","",[],[]],
+	["E1356","Burial","","",126,"Burial of Зыков, John","",[],[]]
 ],
 [
 
@@ -45099,12 +45099,12 @@ I = [
 ["I0409","Ильин, Eric Scott","Ильин, Eric Scott",
 [["Ильин, Eric Scott","Birth Name","","","","Eric Scott","",["Ильин"],"","","",[]]],
 "M","1977",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E1589","Birth","1977-05-00","MAY 1977",586,"Birth of Ильин, Eric Scott","",[],[]],
+	["E1589","Birth","1977-05-00","MAY 1977",893,"Birth of Ильин, Eric Scott","",[],[]],
 	["E1590","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -45145,12 +45145,12 @@ I = [
 ["I0410","Ильин, Timothy Ryan","Ильин, Timothy Ryan",
 [["Ильин, Timothy Ryan","Birth Name","","","","Timothy Ryan","",["Ильин"],"","","",[]]],
 "M","1981",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E1594","Birth","1981-03-00","MAR 1981",586,"Birth of Ильин, Timothy Ryan","",[],[]],
+	["E1594","Birth","1981-03-00","MAR 1981",893,"Birth of Ильин, Timothy Ryan","",[],[]],
 	["E1595","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -45170,11 +45170,11 @@ I = [
 "F","1768",
 "",
 "1828",
-"Gallup, NM",
+"Gallup, NM, USA",
 "60 years, 11 months, 17 days",
 [
 	["E0846","Birth","1768-01-04","4 JAN 1768",-1,"Birth of Казаков, Jane","",[],[]],
-	["E0847","Death","1828-12-21","21 DEC 1828",295,"Death of Казаков, Jane","",[],[]]
+	["E0847","Death","1828-12-21","21 DEC 1828",426,"Death of Казаков, Jane","",[],[]]
 ],
 [
 
@@ -45193,11 +45193,11 @@ I = [
 "F","1858",
 "",
 "1913",
-"Hutchinson, KS",
+"Hutchinson, Reno, KS, USA",
 "55 years, 8 months, 1 day",
 [
 	["E0235","Birth","1858","1858",-1,"Birth of Казанцев, Katherine","",[],[]],
-	["E0236","Death","1913-09-02","2 SEP 1913",364,"Death of Казанцев, Katherine","",[],[]]
+	["E0236","Death","1913-09-02","2 SEP 1913",527,"Death of Казанцев, Katherine","",[],[]]
 ],
 [
 
@@ -45214,12 +45214,12 @@ I = [
 ["I0820","Карпов, Damian","Карпов, Damian",
 [["Карпов, Damian","Birth Name","","","","Damian","",["Карпов"],"","","",[]]],
 "M","?",
-"Indianola, MS",
+"Indianola, MS, USA",
 "",
 "",
 "",
 [
-	["E2368","Birth","","",368,"Birth of Карпов, Damian","",[],[]]
+	["E2368","Birth","","",540,"Birth of Карпов, Damian","",[],[]]
 ],
 [
 
@@ -45236,12 +45236,12 @@ I = [
 ["I0821","Карпов, Sarah","Карпов, Sarah",
 [["Карпов, Sarah","Birth Name","","","","Sarah","",["Карпов"],"","","",[]]],
 "F","1987",
-"West Helena, AR",
+"West Helena, Phillips, AR, USA",
 "",
 "",
 "",
 [
-	["E2369","Birth","1987","1987",822,"Birth of Карпов, Sarah","",[],[]],
+	["E2369","Birth","1987","1987",1240,"Birth of Карпов, Sarah","",[],[]],
 	["E2370","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -45259,12 +45259,12 @@ I = [
 ["I1005","Кириллов, ??","Кириллов, ??",
 [["Кириллов, ??","Birth Name","","","","??","",["Кириллов"],"","","",[]]],
 "F","?",
-"Safford, AZ",
+"Safford, Graham, AZ, USA",
 "",
 "",
 "",
 [
-	["E0014","Birth","about 1520","ABT 1520",672,"Birth of Кириллов, ??","",[],[]]
+	["E0014","Birth","about 1520","ABT 1520",1006,"Birth of Кириллов, ??","",[],[]]
 ],
 [
 
@@ -45281,12 +45281,12 @@ I = [
 ["I0310","Киселев, Aaron D.","Киселев, Aaron D.",
 [["Киселев, Aaron D.","Birth Name","","","","Aaron D.","",["Киселев"],"","","",[]]],
 "M","1985",
-"Wheeling, WV-OH",
+"Wheeling, WV-OH, USA",
 "",
 "",
 "",
 [
-	["E1406","Birth","1985-08-08","8 AUG 1985",825,"Birth of Киселев, Aaron D.","",[],[]],
+	["E1406","Birth","1985-08-08","8 AUG 1985",1244,"Birth of Киселев, Aaron D.","",[],[]],
 	["E1407","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -45304,12 +45304,12 @@ I = [
 ["I0308","Киселев, Dennis John","Киселев, Dennis John",
 [["Киселев, Dennis John","Birth Name","","","","Dennis John","",["Киселев"],"","","",[]]],
 "M","1952",
-"Fond du Lac, WI",
+"Fond du Lac, WI, USA",
 "",
 "",
 "",
 [
-	["E1399","Birth","1952-07-16","16 JUL 1952",269,"Birth of Киселев, Dennis John","",[],[]],
+	["E1399","Birth","1952-07-16","16 JUL 1952",391,"Birth of Киселев, Dennis John","",[],[]],
 	["E1400","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -45327,12 +45327,12 @@ I = [
 ["I0309","Киселев, Timothy Andrew","Киселев, Timothy Andrew",
 [["Киселев, Timothy Andrew","Birth Name","","","","Timothy Andrew","",["Киселев"],"","","",[]]],
 "M","1983",
-"Wheeling, WV-OH",
+"Wheeling, WV-OH, USA",
 "",
 "",
 "",
 [
-	["E1401","Birth","1983-07-07","7 JUL 1983",825,"Birth of Киселев, Timothy Andrew","",[],[]],
+	["E1401","Birth","1983-07-07","7 JUL 1983",1244,"Birth of Киселев, Timothy Andrew","",[],[]],
 	["E1402","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -45350,13 +45350,13 @@ I = [
 ["I1167","Ковалев, Sarah","Ковалев, Sarah",
 [["Ковалев, Sarah","Birth Name","","","","Sarah","",["Ковалев"],"","","",[]]],
 "F","?",
-"McAlester, OK",
+"McAlester, OK, USA",
 "?",
-"Las Vegas, NM",
+"Las Vegas, NM, USA",
 "unknown",
 [
-	["E0270","Birth","about 1604","ABT 1604",493,"Birth of Ковалев, Sarah","",[],[]],
-	["E0271","Death","","",430,"Death of Ковалев, Sarah","",[],[]]
+	["E0270","Birth","about 1604","ABT 1604",736,"Birth of Ковалев, Sarah","",[],[]],
+	["E0271","Death","","",631,"Death of Ковалев, Sarah","",[],[]]
 ],
 [
 
@@ -45527,12 +45527,12 @@ I = [
 ["I1952","Лебедев, Trustum","Лебедев, Trustum",
 [["Лебедев, Trustum","Birth Name","","","","Trustum","",["Лебедев"],"","","",[]]],
 "M","?",
-"Klamath Falls, OR",
+"Klamath Falls, OR, USA",
 "",
 "",
 "",
 [
-	["E1072","Birth","","",408,"Birth of Лебедев, Trustum","",[],[]]
+	["E1072","Birth","","",595,"Birth of Лебедев, Trustum","",[],[]]
 ],
 [
 
@@ -45571,12 +45571,12 @@ I = [
 ["I0232","Лопатин, Carmen Diana","Лопатин, Carmen Diana",
 [["Лопатин, Carmen Diana","Birth Name","","","","Carmen Diana","",["Лопатин"],"","","",[]]],
 "F","1947",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E1262","Birth","1947-01-22","22 JAN 1947",586,"Birth of Лопатин, Carmen Diana","",[],[]],
+	["E1262","Birth","1947-01-22","22 JAN 1947",893,"Birth of Лопатин, Carmen Diana","",[],[]],
 	["E1263","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -45594,12 +45594,12 @@ I = [
 ["I0233","Лопатин, Donna Elaine","Лопатин, Donna Elaine",
 [["Лопатин, Donna Elaine","Birth Name","","","","Donna Elaine","",["Лопатин"],"","","",[]]],
 "F","1949",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E1264","Birth","1949-05-18","18 MAY 1949",586,"Birth of Лопатин, Donna Elaine","",[],[]],
+	["E1264","Birth","1949-05-18","18 MAY 1949",893,"Birth of Лопатин, Donna Elaine","",[],[]],
 	["E1265","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -45640,12 +45640,12 @@ I = [
 ["I1235","Макаров, Joseph","Макаров, Joseph",
 [["Макаров, Joseph","Birth Name","","","","Joseph","",["Макаров"],"","","",[]]],
 "M","?",
-"Canton, IL",
+"Canton, Fulton, IL, USA",
 "",
 "",
 "",
 [
-	["E0332","Birth","","",125,"Birth of Макаров, Joseph","",[],[]]
+	["E0332","Birth","","",170,"Birth of Макаров, Joseph","",[],[]]
 ],
 [
 
@@ -45750,12 +45750,12 @@ I = [
 ["I0428","Максимов, Heather Michelle","Максимов, Heather Michelle",
 [["Максимов, Heather Michelle","Birth Name","","","","Heather Michelle","",["Максимов"],"","","",[]]],
 "F","1970",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E1629","Birth","1970-05-15","15 MAY 1970",586,"Birth of Максимов, Heather Michelle","",[],[]],
+	["E1629","Birth","1970-05-15","15 MAY 1970",893,"Birth of Максимов, Heather Michelle","",[],[]],
 	["E1630","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -45773,12 +45773,12 @@ I = [
 ["I0429","Максимов, Hyla Rae","Максимов, Hyla Rae",
 [["Максимов, Hyla Rae","Birth Name","","","","Hyla Rae","",["Максимов"],"","","",[]]],
 "F","1973",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E1631","Birth","1973-08-25","25 AUG 1973",586,"Birth of Максимов, Hyla Rae","",[],[]],
+	["E1631","Birth","1973-08-25","25 AUG 1973",893,"Birth of Максимов, Hyla Rae","",[],[]],
 	["E1632","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -45796,14 +45796,14 @@ I = [
 ["I0890","Максимов, Nancy","Максимов, Nancy",
 [["Максимов, Nancy","Birth Name","","","","Nancy","",["Максимов"],"","","",[]]],
 "F","?",
-"Mountain Home, ID",
+"Mountain Home, Elmore, ID, USA",
 "1849",
-"Pontiac, IL",
+"Pontiac, St. Clair, IL, USA",
 "unknown",
 [
-	["E2513","Birth","","",542,"Birth of Максимов, Nancy","",[],[]],
-	["E2514","Death","1849-05-08","8 MAY 1849",624,"Death of Максимов, Nancy","",[],[]],
-	["E2515","Burial","1849-05-09","9 MAY 1849",303,"Burial of Максимов, Nancy","",[],[]]
+	["E2513","Birth","","",816,"Birth of Максимов, Nancy","",[],[]],
+	["E2514","Death","1849-05-08","8 MAY 1849",945,"Death of Максимов, Nancy","",[],[]],
+	["E2515","Burial","1849-05-09","9 MAY 1849",438,"Burial of Максимов, Nancy","",[],[]]
 ],
 [
 
@@ -45820,12 +45820,12 @@ I = [
 ["I0427","Максимов, Rodney Herman","Максимов, Rodney Herman",
 [["Максимов, Rodney Herman","Birth Name","","","","Rodney Herman","",["Максимов"],"","","",[]]],
 "M","1945",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E1627","Birth","1945-10-22","22 OCT 1945",586,"Birth of Максимов, Rodney Herman","",[],[]],
+	["E1627","Birth","1945-10-22","22 OCT 1945",893,"Birth of Максимов, Rodney Herman","",[],[]],
 	["E1628","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -45887,13 +45887,13 @@ I = [
 ["I0704","Матвеев, Elizabeth","Матвеев, Elizabeth",
 [["Матвеев, Elizabeth","Birth Name","","","","Elizabeth","",["Матвеев"],"","","",[]]],
 "F","?",
-"Albany, GA",
+"Albany, Dougherty, GA, USA",
 "1829",
-"Menomonie, WI",
+"Menomonie, WI, USA",
 "unknown",
 [
-	["E2164","Birth","","",8,"Birth of Матвеев, Elizabeth","",[],[]],
-	["E2165","Death","1829-07-19","19 JUL 1829",500,"Death of Матвеев, Elizabeth","",[],[]]
+	["E2164","Birth","","",15,"Birth of Матвеев, Elizabeth","",[],[]],
+	["E2165","Death","1829-07-19","19 JUL 1829",750,"Death of Матвеев, Elizabeth","",[],[]]
 ],
 [
 
@@ -45932,12 +45932,12 @@ I = [
 ["I0143","Мельников, Marylou","Мельников, Marylou",
 [["Мельников, Marylou","Birth Name","","","","Marylou","",["Мельников"],"","","",[]]],
 "F","1930",
-"Batavia, NY",
+"Batavia, Genesee, NY, USA",
 "",
 "",
 "",
 [
-	["E0579","Birth","1930-05-20","20 MAY 1930",58,"Birth of Мельников, Marylou","",[],[]],
+	["E0579","Birth","1930-05-20","20 MAY 1930",78,"Birth of Мельников, Marylou","",[],[]],
 	["E0580","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -45977,13 +45977,13 @@ I = [
 ["I0807","Никитин, Monica","Никитин, Monica",
 [["Никитин, Monica","Birth Name","","","","Monica","",["Никитин"],"","","",[]]],
 "F","?",
-"Lexington, KY",
+"Lexington, Fayette, KY, USA",
 "?",
-"Mountain Home, AR",
+"Mountain Home, White, AR, USA",
 "unknown",
 [
-	["E2337","Birth","","",445,"Birth of Никитин, Monica","",[],[]],
-	["E2338","Death","","",541,"Death of Никитин, Monica","",[],[]]
+	["E2337","Birth","","",655,"Birth of Никитин, Monica","",[],[]],
+	["E2338","Death","","",815,"Death of Никитин, Monica","",[],[]]
 ],
 [
 
@@ -46022,12 +46022,12 @@ I = [
 ["I0764","Николаев, Maria Catharina","Николаев, Maria Catharina",
 [["Николаев, Maria Catharina","Birth Name","","","","Maria Catharina","",["Николаев"],"","","",[]]],
 "F","1704",
-"Danville, KY",
+"Danville, Boyle, KY, USA",
 "",
 "",
 "",
 [
-	["E2266","Birth","1704-01-26","26 JAN 1704",196,"Birth of Николаев, Maria Catharina","",[],[]]
+	["E2266","Birth","1704-01-26","26 JAN 1704",279,"Birth of Николаев, Maria Catharina","",[],[]]
 ],
 [
 
@@ -46066,12 +46066,12 @@ I = [
 ["I2001","Новиков, Sarah","Новиков, Sarah",
 [["Новиков, Sarah","Birth Name","","","","Sarah","",["Новиков"],"","","",[]]],
 "F","1660",
-"Beeville, TX",
+"Beeville, Bee, TX, USA",
 "",
 "",
 "",
 [
-	["E1133","Birth","1660","1660",68,"Birth of Новиков, Sarah","",[],[]]
+	["E1133","Birth","1660","1660",90,"Birth of Новиков, Sarah","",[],[]]
 ],
 [
 
@@ -46110,13 +46110,13 @@ I = [
 ["I1075","Орлов, Margaret(?)","Орлов, Margaret(?)",
 [["Орлов, Margaret(?)","Birth Name","","","","Margaret(?)","",["Орлов"],"","","",[]]],
 "F","?",
-"Del Rio, TX",
+"Del Rio, Val Verde, TX, USA",
 "?",
-"Del Rio, TX",
+"Del Rio, Val Verde, TX, USA",
 "unknown",
 [
-	["E0133","Birth","","",206,"Birth of Орлов, Margaret(?)","",[],[]],
-	["E0134","Death","","",206,"Death of Орлов, Margaret(?)","",[],[]]
+	["E0133","Birth","","",298,"Birth of Орлов, Margaret(?)","",[],[]],
+	["E0134","Death","","",298,"Death of Орлов, Margaret(?)","",[],[]]
 ],
 [
 
@@ -46133,12 +46133,12 @@ I = [
 ["I1517","Павлов, Calvin","Павлов, Calvin",
 [["Павлов, Calvin","Birth Name","","","","Calvin","",["Павлов"],"","","",[]]],
 "M","?",
-"Cookeville, TN",
+"Cookeville, TN, USA",
 "",
 "",
 "",
 [
-	["E0668","Birth","","",176,"Birth of Павлов, Calvin","",[],[]]
+	["E0668","Birth","","",250,"Birth of Павлов, Calvin","",[],[]]
 ],
 [
 
@@ -46177,12 +46177,12 @@ I = [
 ["I1516","Павлов, Thomas","Павлов, Thomas",
 [["Павлов, Thomas","Birth Name","","","","Thomas","",["Павлов"],"","","",[]]],
 "M","?",
-"Cookeville, TN",
+"Cookeville, TN, USA",
 "",
 "",
 "",
 [
-	["E0667","Birth","","",176,"Birth of Павлов, Thomas","",[],[]]
+	["E0667","Birth","","",250,"Birth of Павлов, Thomas","",[],[]]
 ],
 [
 
@@ -46201,11 +46201,11 @@ I = [
 "F","1771",
 "",
 "?",
-"Huntsville, TX",
+"Huntsville, Walker, TX, USA",
 "unknown",
 [
 	["E0827","Birth","1771","1771",-1,"Birth of Поляков, Eve","",[],[]],
-	["E0828","Death","","",362,"Death of Поляков, Eve","",[],[]]
+	["E0828","Death","","",525,"Death of Поляков, Eve","",[],[]]
 ],
 [
 
@@ -46334,12 +46334,12 @@ I = [
 ["I1060","Сергеев, Adria Maria","Сергеев, Adria Maria",
 [["Сергеев, Adria Maria","Birth Name","","","","Adria Maria","",["Сергеев"],"","","",[]]],
 "F","1971",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E0108","Birth","1971-06-01","1 JUN 1971",586,"Birth of Сергеев, Adria Maria","",[],[]],
+	["E0108","Birth","1971-06-01","1 JUN 1971",893,"Birth of Сергеев, Adria Maria","",[],[]],
 	["E0109","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -46379,12 +46379,12 @@ I = [
 ["I1061","Сергеев, Jacqueline Denise","Сергеев, Jacqueline Denise",
 [["Сергеев, Jacqueline Denise","Birth Name","","","","Jacqueline Denise","",["Сергеев"],"","","",[]]],
 "F","1981",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E0110","Birth","1981-01-18","18 JAN 1981",586,"Birth of Сергеев, Jacqueline Denise","",[],[]],
+	["E0110","Birth","1981-01-18","18 JAN 1981",893,"Birth of Сергеев, Jacqueline Denise","",[],[]],
 	["E0111","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -46402,12 +46402,12 @@ I = [
 ["I1056","Сергеев, Jon Dennis","Сергеев, Jon Dennis",
 [["Сергеев, Jon Dennis","Birth Name","","","","Jon Dennis","",["Сергеев"],"","","",[]]],
 "M","1978",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E0101","Birth","1978-02-10","10 FEB 1978",586,"Birth of Сергеев, Jon Dennis","",[],[]],
+	["E0101","Birth","1978-02-10","10 FEB 1978",893,"Birth of Сергеев, Jon Dennis","",[],[]],
 	["E0102","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -46425,12 +46425,12 @@ I = [
 ["I1062","Сергеев, Joshua David","Сергеев, Joshua David",
 [["Сергеев, Joshua David","Birth Name","","","","Joshua David","",["Сергеев"],"","","",[]]],
 "M","1984",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "",
 "",
 "",
 [
-	["E0112","Birth","1984-04-07","7 APR 1984",586,"Birth of Сергеев, Joshua David","",[],[]],
+	["E0112","Birth","1984-04-07","7 APR 1984",893,"Birth of Сергеев, Joshua David","",[],[]],
 	["E0113","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -46625,12 +46625,12 @@ I = [
 ["I1110","Тимофеев, John P.","Тимофеев, John P.",
 [["Тимофеев, John P.","Birth Name","","","","John P.","",["Тимофеев"],"","","",[]]],
 "M","?",
-"Waterloo-Cedar Falls, IA",
+"Waterloo-Cedar Falls, IA, USA",
 "",
 "",
 "",
 [
-	["E0189","Birth","about 1818","ABT 1818",814,"Birth of Тимофеев, John P.","",[],[]]
+	["E0189","Birth","about 1818","ABT 1818",1226,"Birth of Тимофеев, John P.","",[],[]]
 ],
 [
 
@@ -46647,14 +46647,14 @@ I = [
 ["I1109","Тимофеев, Mary Ann","Тимофеев, Mary Ann",
 [["Тимофеев, Mary Ann","Birth Name","","","","Mary Ann","",["Тимофеев"],"","","",[]]],
 "F","1812",
-"Duluth, MN",
+"Duluth, MN, USA",
 "1880",
-"Starkville, MS",
+"Starkville, MS, USA",
 "68 years, 8 months, 20 days",
 [
-	["E0184","Birth","1812-03-07","7 MAR 1812",221,"Birth of Тимофеев, Mary Ann","",[],[]],
-	["E0185","Death","1880-11-27","27 NOV 1880",740,"Death of Тимофеев, Mary Ann","",[],[]],
-	["E0186","Burial","1880-11-29","29 NOV 1880",5,"Burial of Тимофеев, Mary Ann","",[],[]]
+	["E0184","Birth","1812-03-07","7 MAR 1812",322,"Birth of Тимофеев, Mary Ann","",[],[]],
+	["E0185","Death","1880-11-27","27 NOV 1880",1100,"Death of Тимофеев, Mary Ann","",[],[]],
+	["E0186","Burial","1880-11-29","29 NOV 1880",8,"Burial of Тимофеев, Mary Ann","",[],[]]
 ],
 [
 
@@ -46671,12 +46671,12 @@ I = [
 ["I1111","Тимофеев, Sarah Jane","Тимофеев, Sarah Jane",
 [["Тимофеев, Sarah Jane","Birth Name","","","","Sarah Jane","",["Тимофеев"],"","","",[]]],
 "U","1825",
-"Steubenville, OH",
+"Steubenville, OH, USA",
 "",
 "",
 "",
 [
-	["E0190","Birth","1825-07-29","29 JUL 1825",747,"Birth of Тимофеев, Sarah Jane","",[],[]]
+	["E0190","Birth","1825-07-29","29 JUL 1825",1111,"Birth of Тимофеев, Sarah Jane","",[],[]]
 ],
 [
 
@@ -46693,14 +46693,14 @@ I = [
 ["I1108","Тимофеев, Willoughby M.","Тимофеев, Willoughby M.",
 [["Тимофеев, Willoughby M.","Birth Name","","","","Willoughby M.","",["Тимофеев"],"","","",[]]],
 "M","1813",
-"Miami Beach, FL",
+"Miami Beach, Miami-Dade, FL, USA",
 "1877",
-"Jamestown, ND",
+"Jamestown, ND, USA",
 "63 years, 11 months, 12 days",
 [
-	["E0181","Birth","1813-02-04","4 FEB 1813",505,"Birth of Тимофеев, Willoughby M.","",[],[]],
-	["E0182","Death","1877-01-16","16 JAN 1877",378,"Death of Тимофеев, Willoughby M.","",[],[]],
-	["E0183","Burial","about 1877-01-18","ABT 18 JAN 1877",378,"Burial of Тимофеев, Willoughby M.","",[],[]]
+	["E0181","Birth","1813-02-04","4 FEB 1813",758,"Birth of Тимофеев, Willoughby M.","",[],[]],
+	["E0182","Death","1877-01-16","16 JAN 1877",553,"Death of Тимофеев, Willoughby M.","",[],[]],
+	["E0183","Burial","about 1877-01-18","ABT 18 JAN 1877",553,"Burial of Тимофеев, Willoughby M.","",[],[]]
 ],
 [
 
@@ -46717,14 +46717,14 @@ I = [
 ["I0048","Тихонов, Catherine Virginia","Тихонов, Catherine Virginia",
 [["Тихонов, Catherine Virginia","Birth Name","","","","Catherine Virginia","",["Тихонов"],"","","",[]]],
 "F","1864",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "1903",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "39 years, 10 months",
 [
-	["E1754","Birth","1864-01-27","27 JAN 1864",586,"Birth of Тихонов, Catherine Virginia","",[],[]],
-	["E1755","Death","1903-11-27","27 NOV 1903",586,"Death of Тихонов, Catherine Virginia","",[],[]],
-	["E1756","Burial","1903-11-29","29 NOV 1903",446,"Burial of Тихонов, Catherine Virginia","",[],[]]
+	["E1754","Birth","1864-01-27","27 JAN 1864",893,"Birth of Тихонов, Catherine Virginia","",[],[]],
+	["E1755","Death","1903-11-27","27 NOV 1903",893,"Death of Тихонов, Catherine Virginia","",[],[]],
+	["E1756","Burial","1903-11-29","29 NOV 1903",656,"Burial of Тихонов, Catherine Virginia","",[],[]]
 ],
 [
 
@@ -46741,12 +46741,12 @@ I = [
 ["I0710","Тихонов, John","Тихонов, John",
 [["Тихонов, John","Birth Name","","","","John","",["Тихонов"],"","","",[]]],
 "M","?",
-"Hutchinson, KS",
+"Hutchinson, Reno, KS, USA",
 "",
 "",
 "",
 [
-	["E2176","Birth","","",364,"Birth of Тихонов, John","",[],[]]
+	["E2176","Birth","","",527,"Birth of Тихонов, John","",[],[]]
 ],
 [
 
@@ -46763,12 +46763,12 @@ I = [
 ["I0711","Тихонов, Mary Ellen","Тихонов, Mary Ellen",
 [["Тихонов, Mary Ellen","Birth Name","","","","Mary Ellen","",["Тихонов"],"","","",[]]],
 "F","?",
-"Hutchinson, KS",
+"Hutchinson, Reno, KS, USA",
 "",
 "",
 "",
 [
-	["E2177","Birth","","",364,"Birth of Тихонов, Mary Ellen","",[],[]]
+	["E2177","Birth","","",527,"Birth of Тихонов, Mary Ellen","",[],[]]
 ],
 [
 
@@ -46785,13 +46785,13 @@ I = [
 ["I0739","Тихонов, Miles?","Тихонов, Miles?",
 [["Тихонов, Miles?","Birth Name","","","","Miles?","",["Тихонов"],"","","",[]]],
 "M","?",
-"Del Rio, TX",
+"Del Rio, Val Verde, TX, USA",
 "?",
-"Del Rio, TX",
+"Del Rio, Val Verde, TX, USA",
 "unknown",
 [
-	["E2215","Birth","","",206,"Birth of Тихонов, Miles?","",[],[]],
-	["E2216","Death","","",206,"Death of Тихонов, Miles?","",[],[]]
+	["E2215","Birth","","",298,"Birth of Тихонов, Miles?","",[],[]],
+	["E2216","Death","","",298,"Death of Тихонов, Miles?","",[],[]]
 ],
 [
 
@@ -46808,14 +46808,14 @@ I = [
 ["I0091","Тихонов, Moses","Тихонов, Moses",
 [["Тихонов, Moses","Birth Name","","","","Moses","",["Тихонов"],"","","",[]]],
 "M","1827",
-"Eugene, OR",
+"Eugene, OR, USA",
 "1872",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "45 years",
 [
-	["E2548","Birth","1827","1827",248,"Birth of Тихонов, Moses","",[],[]],
-	["E2549","Death","1872","1872",586,"Death of Тихонов, Moses","",[],[]],
-	["E2550","Burial","","",446,"Burial of Тихонов, Moses","",[],[]]
+	["E2548","Birth","1827","1827",363,"Birth of Тихонов, Moses","",[],[]],
+	["E2549","Death","1872","1872",893,"Death of Тихонов, Moses","",[],[]],
+	["E2550","Burial","","",656,"Burial of Тихонов, Moses","",[],[]]
 ],
 [
 
@@ -46832,12 +46832,12 @@ I = [
 ["I0709","Тихонов, Myles","Тихонов, Myles",
 [["Тихонов, Myles","Birth Name","","","","Myles","",["Тихонов"],"","","",[]]],
 "M","?",
-"Hutchinson, KS",
+"Hutchinson, Reno, KS, USA",
 "",
 "",
 "",
 [
-	["E2174","Birth","","",364,"Birth of Тихонов, Myles","",[],[]]
+	["E2174","Birth","","",527,"Birth of Тихонов, Myles","",[],[]]
 ],
 [
 
@@ -46849,28 +46849,6 @@ I = [
 [],
 [],
 [[725,"Birth","Birth","",[]]],
-[]
-],
-["I1838","Федоров","Федоров",
-[["Федоров","Birth Name","","","","","",["Федоров"],"","","",[]]],
-"F","?",
-"",
-"",
-"",
-"",
-[
-
-],
-[
-
-],
-"",
-[],
-[],
-[],
-[],
-[],
-[[727,"Birth","Birth","",[]]],
 []
 ],
 ["I1836","Федоров","Федоров",
@@ -46898,6 +46876,28 @@ I = [
 ["I1837","Федоров","Федоров",
 [["Федоров","Birth Name","","","","","",["Федоров"],"","","",[]]],
 "M","?",
+"",
+"",
+"",
+"",
+[
+
+],
+[
+
+],
+"",
+[],
+[],
+[],
+[],
+[],
+[[727,"Birth","Birth","",[]]],
+[]
+],
+["I1838","Федоров","Федоров",
+[["Федоров","Birth Name","","","","","",["Федоров"],"","","",[]]],
+"F","?",
 "",
 "",
 "",
@@ -46964,13 +46964,13 @@ I = [
 ["I0747","Филиппов, Elizabeth","Филиппов, Elizabeth",
 [["Филиппов, Elizabeth","Birth Name","","","","Elizabeth","",["Филиппов"],"","","",[]]],
 "F","1657",
-"Brevard, NC",
+"Brevard, NC, USA",
 "1747",
-"Anchorage, AK",
+"Anchorage, AK, USA",
 "90 years, 7 months, 2 days",
 [
-	["E2228","Birth","1657-02-00","FEB 1657",100,"Birth of Филиппов, Elizabeth","",[],[]],
-	["E2229","Death","1747-09-03","3 SEP 1747",28,"Death of Филиппов, Elizabeth","",[],[]]
+	["E2228","Birth","1657-02-00","FEB 1657",135,"Birth of Филиппов, Elizabeth","",[],[]],
+	["E2229","Death","1747-09-03","3 SEP 1747",37,"Death of Филиппов, Elizabeth","",[],[]]
 ],
 [
 
@@ -47077,11 +47077,11 @@ I = [
 "M","1883",
 "",
 "1973",
-"Troy, AL",
+"Troy, Pike, AL, USA",
 "90 years, 3 months, 30 days",
 [
 	["E0547","Birth","1883-08-09","9 AUG 1883",-1,"Birth of Черкашин, Thomas","",[],[]],
-	["E0548","Death","1973-12-08","8 DEC 1973",776,"Death of Черкашин, Thomas","",[],[]]
+	["E0548","Death","1973-12-08","8 DEC 1973",1159,"Death of Черкашин, Thomas","",[],[]]
 ],
 [
 
@@ -47120,12 +47120,12 @@ I = [
 ["I0147","Черных, Mary Helen","Черных, Mary Helen",
 [["Черных, Mary Helen","Birth Name","","","","Mary Helen","",["Черных"],"","","",[]]],
 "F","1916",
-"Cleveland, TN",
+"Cleveland, TN, USA",
 "",
 "",
 "",
 [
-	["E0623","Birth","1916-05-08","8 MAY 1916",157,"Birth of Черных, Mary Helen","",[],[]],
+	["E0623","Birth","1916-05-08","8 MAY 1916",217,"Birth of Черных, Mary Helen","",[],[]],
 	["E0624","LVG","","",-1,"Custom FTW5 tag to specify LIVING not specified in GEDCOM 5.5","",[],[]]
 ],
 [
@@ -47165,14 +47165,14 @@ I = [
 ["I0972","Шестаков, George","Шестаков, George",
 [["Шестаков, George","Birth Name","","","","George","",["Шестаков"],"","","",[]]],
 "M","?",
-"Bogalusa, LA",
+"Bogalusa, Washington, LA, USA",
 "1864",
-"Orlando, FL",
+"Orlando, Orange, FL, USA",
 "about 79 years, 6 months, 8 days",
 [
-	["E2679","Birth","about 1784-09-00","ABT SEP 1784",88,"Birth of Шестаков, George","",[],[]],
-	["E2680","Death","1864-03-09","9 MAR 1864",583,"Death of Шестаков, George","",[],[]],
-	["E2681","Burial","1864-03-00","MAR 1864",508,"Burial of Шестаков, George","",[],[]]
+	["E2679","Birth","about 1784-09-00","ABT SEP 1784",116,"Birth of Шестаков, George","",[],[]],
+	["E2680","Death","1864-03-09","9 MAR 1864",888,"Death of Шестаков, George","",[],[]],
+	["E2681","Burial","1864-03-00","MAR 1864",763,"Burial of Шестаков, George","",[],[]]
 ],
 [
 
@@ -47235,10 +47235,10 @@ I = [
 "M","?",
 "",
 "?",
-"Sterling, IL",
+"Sterling, Whiteside, IL, USA",
 "",
 [
-	["E2087","Burial","","",746,"Burial of Яковлев, George","",[],[]]
+	["E2087","Burial","","",1108,"Burial of Яковлев, George","",[],[]]
 ],
 [
 
@@ -47388,12 +47388,12 @@ I = [
 ["I0766","山本, Antoine Desaure Perronett","山本, Antoine Desaure Perronett",
 [["山本, Antoine Desaure Perronett","Birth Name","","","","Antoine Desaure Perronett","",["山本"],"","","",[]]],
 "M","1643",
-"San Luis Obispo, CA",
+"San Luis Obispo, San Luis Obispo, CA, USA",
 "",
 "",
 "",
 [
-	["E2267","Birth","1643-07-10","10 JUL 1643",685,"Birth of 山本, Antoine Desaure Perronett","",[],[]]
+	["E2267","Birth","1643-07-10","10 JUL 1643",1023,"Birth of 山本, Antoine Desaure Perronett","",[],[]]
 ],
 [
 
@@ -47410,12 +47410,12 @@ I = [
 ["I1593","山本, Gabriel Gustav","山本, Gabriel Gustav",
 [["山本, Gabriel Gustav","Birth Name","","","","Gabriel Gustav","",["山本"],"","","",[]]],
 "M","1672",
-"Tallahassee, FL",
+"Tallahassee, Leon, FL, USA",
 "",
 "",
 "",
 [
-	["E0713","Birth","1672-10-12","12 OCT 1672",760,"Birth of 山本, Gabriel Gustav","",[],[]]
+	["E0713","Birth","1672-10-12","12 OCT 1672",1132,"Birth of 山本, Gabriel Gustav","",[],[]]
 ],
 [
 
@@ -47454,13 +47454,13 @@ I = [
 ["I0761","斎藤, Zariakius Cyriacus","斎藤, Zariakius Cyriacus",
 [["斎藤, Zariakius Cyriacus","Birth Name","","","","Zariakius Cyriacus","",["斎藤"],"","","",[]]],
 "M","?",
-"Canton, OH",
+"Canton, OH, USA",
 "?",
-"Auburn, AL",
+"Auburn, Lee, AL, USA",
 "more than about 73 years, 6 months",
 [
-	["E2260","Birth","about 1675","ABT 1675",126,"Birth of 斎藤, Zariakius Cyriacus","",[],[]],
-	["E2261","Death","after 1748-07-01","AFT 1 JUL 1748",48,"Death of 斎藤, Zariakius Cyriacus","",[],[]]
+	["E2260","Birth","about 1675","ABT 1675",171,"Birth of 斎藤, Zariakius Cyriacus","",[],[]],
+	["E2261","Death","after 1748-07-01","AFT 1 JUL 1748",62,"Death of 斎藤, Zariakius Cyriacus","",[],[]]
 ],
 [
 
@@ -47477,14 +47477,14 @@ I = [
 ["I0082","渡辺, Mary (Polly)","渡辺, Mary (Polly)",
 [["渡辺, Mary (Polly)","Birth Name","","","","Mary (Polly)","",["渡辺"],"","","",[]]],
 "F","1802",
-"Jefferson City, MO",
+"Jefferson City, MO, USA",
 "1869",
-"Ottawa, IL",
+"Ottawa, La Salle, IL, USA",
 "66 years, 7 months, 10 days",
 [
-	["E2365","Birth","1802-06-15","15 JUN 1802",382,"Birth of 渡辺, Mary (Polly)","",[],[]],
-	["E2366","Death","1869-01-25","25 JAN 1869",586,"Death of 渡辺, Mary (Polly)","",[],[]],
-	["E2367","Burial","","",261,"Burial of 渡辺, Mary (Polly)","",[],[]]
+	["E2365","Birth","1802-06-15","15 JUN 1802",558,"Birth of 渡辺, Mary (Polly)","",[],[]],
+	["E2366","Death","1869-01-25","25 JAN 1869",893,"Death of 渡辺, Mary (Polly)","",[],[]],
+	["E2367","Burial","","",379,"Burial of 渡辺, Mary (Polly)","",[],[]]
 ],
 [
 
