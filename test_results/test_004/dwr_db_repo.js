@@ -2,23 +2,22 @@
 
 // 'R' is sorted by repository name
 // 'R' gives for each repository:
-//   - Gramps ID
-//   - The repository name
-//   - The repository type
-//   - A list of addresses, with for each address:
-//       - The address date
-//       - The address date in ISO format (sortable)
-//       - The address place in the form:
+//   - gid: Gramps ID
+//   - name: The repository name
+//   - type: The repository type
+//   - addrs: A list of addresses, with for each address:
+//       - date: The address date
+//       - date_iso: The address date in ISO format (sortable)
+//       - location: The address place in the form:
 //           [street, locality, parish, city, state, county, zip, country]
-//       - The address notes
-//       - A list of the address source citations index (in table 'C')
-//   - The repository notes
-//   - The list of the repository URL in the form:
+//       - note: The address notes
+//       - cita: A list of the address source citations index (in table 'C')
+//   - note: The repository notes
+//   - urls: The list of the repository URL in the form:
 //       [type, url, description]
-//   - A list of the sources referencing this repository, in the form:
-//       - source index (in table 'S')
-//       - media type
-//       - call number
-//       - notes of the repository reference
-R = [
-];
+//   - bks: A list of the sources referencing this repository, in the form:
+//       - s_idx: source index (in table 'S')
+//       - media_type: media type
+//       - call_number: call number
+//       - note: notes of the repository reference
+R = []

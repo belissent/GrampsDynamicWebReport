@@ -33,7 +33,7 @@ GRAMPS_PREFERENCES['color-gender-unknown-death'] = "#f3dbb6";
 SVG_TREE_COLOR_SCHEME0 = ["#ffffff", "#ffffff"];
 SVG_TREE_COLOR_SCHEME1 = ["#ff3f00", "#ffaf0f", "#ffdf57", "#ffff6f", "#9fff9f", "#6fd7ff", "#4f97ff", "#e717ff", "#e71779", "#d2aa7c", "#bd9970"];
 SVG_TREE_COLOR_SCHEME2 = ["#e5bffc", "#bfbffc", "#bfdefc", "#b7dbc5", "#cef6d1"];
-FOOTER="<div class=\"grampsstylednote\">\n<p>\nFooter: exported by  <a href=\'http://gramps-project.org/\' class=\'gramps_homepage\'>Gramps</a> on 2015-08-10\n</p>\n</div>";
+FOOTER="<div class=\"grampsstylednote\">\n<p>\nFooter: exported by  <a href=\'http://gramps-project.org/\' class=\'gramps_homepage\'>Gramps</a> on 2015-08-13\n</p>\n</div>";
 HEADER="<div class=\"grampsstylednote\">\n<p>\n<span style=\"color:#ef2929;\"></span><span style=\"font-family:\'Serif\';\"><span style=\"color:#ef2929;\"></span></span><span style=\"font-size:8px;\"><span style=\"font-family:\'Serif\';\"><span style=\"color:#ef2929;\">Title for the example pages</span></span></span><span style=\"font-family:\'Serif\';\"><span style=\"color:#ef2929;\"></span></span><span style=\"color:#ef2929;\"></span>\n</p>\n</div>";
 COPYRIGHT="";
 INDEX_SHOW_BIRTH=true;

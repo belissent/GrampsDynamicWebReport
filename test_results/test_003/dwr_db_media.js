@@ -2,146 +2,316 @@
 
 // 'M' is sorted by media title
 // 'M' gives for each media object:
-//   - Gramps ID
-//   - The media title
-//   - The media path in Gramps
-//   - The media path were the media is really located
-//   - The media MIME type
-//   - The media date
-//   - The media date in ISO format (sortable)
-//   - The media notes
-//   - A list of the media source citations index (in table 'C')
-//   - The list of the media attributes in the form:
+//   - gid: Gramps ID
+//   - title: The media title
+//   - gramps_path: The media path in Gramps
+//   - path: The media path were the media is really located
+//   - mime: The media MIME type
+//   - date: The media date
+//   - date_iso: The media date in ISO format (sortable)
+//   - note: The media notes
+//   - cita: A list of the media source citations index (in table 'C')
+//   - attr: The list of the media attributes in the form:
 //       [attribute, value, note, list of citations]
-//   - Media thumbnail path
-//   - A list of the person referencing this media (including the person events referencing this media), in the form:
-//       - person index (in table 'I')
-//       - media thumbnail path
-//       - [x1, y1, x2, y2] of the media reference
-//       - notes of the media reference
-//       - list of the media reference source citations index (in table 'C')
-//   - A list of the family referencing this media (including the family events referencing this media), in the form:
-//       - family index (in table 'F')
-//       - media thumbnail path
-//       - [x1, y1, x2, y2] of the media reference
-//       - notes of the media reference
-//       - list of the media reference source citations index (in table 'C')
-//   - A list of the source referencing this media (including the source citations referencing this media), in the form:
-//       - source index (in table 'S')
-//       - media thumbnail path
-//       - [x1, y1, x2, y2] of the media reference
-//       - notes of the media reference
-//       - list of the media reference source citations index (in table 'C')
-//   - A list of the places referencing this media, in the form:
-//       - place index (in table 'P')
-//       - media thumbnail path
-//       - [x1, y1, x2, y2] of the media reference
-//       - notes of the media reference
-//       - list of the media reference source citations index (in table 'C')
+//   - thumb: Media thumbnail path
+//   - bki: A list of the person referencing this media (including the person events referencing this media), in the form:
+//       - bk_idx: person index (in table 'I')
+//       - thumb: media thumbnail path
+//       - rect: [x1, y1, x2, y2] of the media reference
+//       - note: notes of the media reference
+//       - cita: list of the media reference source citations index (in table 'C')
+//   - bkf: A list of the family referencing this media (including the family events referencing this media), in the form:
+//       - bk_idx: family index (in table 'F')
+//       - thumb: media thumbnail path
+//       - rect: [x1, y1, x2, y2] of the media reference
+//       - note: notes of the media reference
+//       - cita: list of the media reference source citations index (in table 'C')
+//   - bks: A list of the source referencing this media (including the source citations referencing this media), in the form:
+//       - bk_idx: source index (in table 'S')
+//       - thumb: media thumbnail path
+//       - rect: [x1, y1, x2, y2] of the media reference
+//       - note: notes of the media reference
+//       - cita: list of the media reference source citations index (in table 'C')
+//   - bkp: A list of the places referencing this media, in the form:
+//       - bk_idx: place index (in table 'P')
+//       - thumb: media thumbnail path
+//       - rect: [x1, y1, x2, y2] of the media reference
+//       - note: notes of the media reference
+//       - cita: list of the media reference source citations index (in table 'C')
 M = [
-["O0000","1855-06-25 scanned birth record",
-"scanned_microfilm.png",
-"../../../../gramps.42/example/gramps/scanned_microfilm.png",
-"image/png",
-"",
-"",
-"",
-[],
-[],
-"thumb/b39fe1cfc1305ac4a21.png",
-[[657,"thumb/b39fe1cfc1305ac4a21.png",[0,0,100,100],"<div>\n<p>\n<b>Father\'s Age</b>: 25\n</p>\n</div>",[1973,1974,1974]]],
-[],
-[[1,"thumb/b39fe1cfc1305ac4a21.png",[0,0,100,100],"",[]]],
-[]
-],
-["O0006","Alimehemet",
-"Alimehemet.jpg",
-"../../../../gramps.42/example/gramps/Alimehemet.jpg",
-"image/jpeg",
-"",
-"",
-"",
-[],
-[],
-"thumb/F0QIGQFT275JFJ75E8.png",
-[],
-[[246,"thumb/F0QIGQFT275JFJ75E8.png",[0,0,100,100],"<div>\n<p>\n<b>Identification Number</b>: 12345\n</p>\n</div>",[1598,1599,1599]]],
-[],
-[]
-],
-["O0008","654px-Aksel_Andersson",
-"654px-Aksel_Andersson.jpg",
-"../../../../gramps.42/example/gramps/654px-Aksel_Andersson.jpg",
-"image/jpeg",
-"",
-"",
-"",
-[1984],
-[["Description","This seems to be a photo of a relative","",[1985]]],
-"thumb/B1AUFQV7H8R9NR4SZM.png",
-[[657,"thumb/B1AUFQV7H8R9NR4SZM.png",[0,0,100,100],"<div>\n<p>\n<b>Age</b>: 50\n</p>\n</div>",[1982,1983,1983]]],
-[],
-[],
-[]
-],
-["O0009","Yawn",
-"Gunnlaugur_Larusson_-_Yawn.jpg",
-"../../../../gramps.42/example/gramps/Gunnlaugur_Larusson_-_Yawn.jpg",
-"image/jpeg",
-"",
-"",
-"",
-[],
-[],
-"thumb/78V2GQX2FKNSYQ3OHE.png",
-[[640,"thumb/78V2GQX2FKNSYQ3OHE.png",[0,0,100,100],"",[]]],
-[],
-[],
-[]
-],
-["O0007","E_W_Dahlgren",
-"E_W_Dahlgren.jpg",
-"../../../../gramps.42/example/gramps/E_W_Dahlgren.jpg",
-"image/jpeg",
-"",
-"",
-"",
-[],
-[],
-"thumb/F8JYGQFL2PKLSYH79X.png",
-[[651,"thumb/F8JYGQFL2PKLSYH79X.png",[0,0,100,100],"",[]]],
-[],
-[],
-[]
-],
-["O0010","1897_expeditionsmannschaft_rio_a",
-"1897_expeditionsmannschaft_rio_a.jpg",
-"../../../../gramps.42/example/gramps/1897_expeditionsmannschaft_rio_a.jpg",
-"image/jpeg",
-"1897",
-"1897",
-"",
-[],
-[],
-"thumb/238CGQ939HG18SS5MG.png",
-[[679,"thumb/238CGQ939HG18SS5MG-15,27-25,43.png",[15,27,25,43],"",[]],[657,"thumb/238CGQ939HG18SS5MG-51,19-59,33.png",[51,19,59,33],"",[]]],
-[],
-[],
-[[782,"thumb/238CGQ939HG18SS5MG.png",[0,0,100,100],"<div>\n<p>\n<b>Nickname</b>: Fred\n</p>\n</div>",[694,695,695]]]
-],
-["O0011","AntoineClaudet",
-"AntoineClaudet.png",
-"../../../../gramps.42/example/gramps/AntoineClaudet.png",
-"image/png",
-"",
-"",
-"",
-[],
-[],
-"thumb/Y3ARGQWE088EQRTTDH.png",
-[[1098,"thumb/Y3ARGQWE088EQRTTDH.png",[0,0,100,100],"",[]]],
-[],
-[],
-[]
+    {
+        "attr": [],
+        "bkf": [],
+        "bki": [
+            {
+                "bk_idx": 657,
+                "cita": [
+                    1973,
+                    1974,
+                    1974
+                ],
+                "note": "<div>\n<p>\n<b>Father's Age</b>: 25\n</p>\n</div>",
+                "rect": [
+                    0,
+                    0,
+                    100,
+                    100
+                ],
+                "thumb": "thumb/b39fe1cfc1305ac4a21.png"
+            }
+        ],
+        "bkp": [],
+        "bks": [
+            {
+                "bk_idx": 1,
+                "cita": [],
+                "note": "",
+                "rect": [
+                    0,
+                    0,
+                    100,
+                    100
+                ],
+                "thumb": "thumb/b39fe1cfc1305ac4a21.png"
+            }
+        ],
+        "cita": [],
+        "date": "",
+        "date_iso": "",
+        "gid": "O0000",
+        "gramps_path": "scanned_microfilm.png",
+        "mime": "image/png",
+        "note": "",
+        "path": "../../../../gramps.42/example/gramps/scanned_microfilm.png",
+        "thumb": "thumb/b39fe1cfc1305ac4a21.png",
+        "title": "1855-06-25 scanned birth record"
+    },
+    {
+        "attr": [],
+        "bkf": [],
+        "bki": [
+            {
+                "bk_idx": 657,
+                "cita": [],
+                "note": "",
+                "rect": [
+                    51,
+                    19,
+                    59,
+                    33
+                ],
+                "thumb": "thumb/238CGQ939HG18SS5MG-51,19-59,33.png"
+            },
+            {
+                "bk_idx": 679,
+                "cita": [],
+                "note": "",
+                "rect": [
+                    15,
+                    27,
+                    25,
+                    43
+                ],
+                "thumb": "thumb/238CGQ939HG18SS5MG-15,27-25,43.png"
+            }
+        ],
+        "bkp": [
+            {
+                "bk_idx": 782,
+                "cita": [
+                    694,
+                    695,
+                    695
+                ],
+                "note": "<div>\n<p>\n<b>Nickname</b>: Fred\n</p>\n</div>",
+                "rect": [
+                    0,
+                    0,
+                    100,
+                    100
+                ],
+                "thumb": "thumb/238CGQ939HG18SS5MG.png"
+            }
+        ],
+        "bks": [],
+        "cita": [],
+        "date": "1897",
+        "date_iso": "1897",
+        "gid": "O0010",
+        "gramps_path": "1897_expeditionsmannschaft_rio_a.jpg",
+        "mime": "image/jpeg",
+        "note": "",
+        "path": "../../../../gramps.42/example/gramps/1897_expeditionsmannschaft_rio_a.jpg",
+        "thumb": "thumb/238CGQ939HG18SS5MG.png",
+        "title": "1897_expeditionsmannschaft_rio_a"
+    },
+    {
+        "attr": [
+            {
+                "cita": [
+                    1985
+                ],
+                "note": "",
+                "type": "Description",
+                "value": "This seems to be a photo of a relative"
+            }
+        ],
+        "bkf": [],
+        "bki": [
+            {
+                "bk_idx": 657,
+                "cita": [
+                    1982,
+                    1983,
+                    1983
+                ],
+                "note": "<div>\n<p>\n<b>Age</b>: 50\n</p>\n</div>",
+                "rect": [
+                    0,
+                    0,
+                    100,
+                    100
+                ],
+                "thumb": "thumb/B1AUFQV7H8R9NR4SZM.png"
+            }
+        ],
+        "bkp": [],
+        "bks": [],
+        "cita": [
+            1984
+        ],
+        "date": "",
+        "date_iso": "",
+        "gid": "O0008",
+        "gramps_path": "654px-Aksel_Andersson.jpg",
+        "mime": "image/jpeg",
+        "note": "",
+        "path": "../../../../gramps.42/example/gramps/654px-Aksel_Andersson.jpg",
+        "thumb": "thumb/B1AUFQV7H8R9NR4SZM.png",
+        "title": "654px-Aksel_Andersson"
+    },
+    {
+        "attr": [],
+        "bkf": [
+            {
+                "bk_idx": 246,
+                "cita": [
+                    1598,
+                    1599,
+                    1599
+                ],
+                "note": "<div>\n<p>\n<b>Identification Number</b>: 12345\n</p>\n</div>",
+                "rect": [
+                    0,
+                    0,
+                    100,
+                    100
+                ],
+                "thumb": "thumb/F0QIGQFT275JFJ75E8.png"
+            }
+        ],
+        "bki": [],
+        "bkp": [],
+        "bks": [],
+        "cita": [],
+        "date": "",
+        "date_iso": "",
+        "gid": "O0006",
+        "gramps_path": "Alimehemet.jpg",
+        "mime": "image/jpeg",
+        "note": "",
+        "path": "../../../../gramps.42/example/gramps/Alimehemet.jpg",
+        "thumb": "thumb/F0QIGQFT275JFJ75E8.png",
+        "title": "Alimehemet"
+    },
+    {
+        "attr": [],
+        "bkf": [],
+        "bki": [
+            {
+                "bk_idx": 1098,
+                "cita": [],
+                "note": "",
+                "rect": [
+                    0,
+                    0,
+                    100,
+                    100
+                ],
+                "thumb": "thumb/Y3ARGQWE088EQRTTDH.png"
+            }
+        ],
+        "bkp": [],
+        "bks": [],
+        "cita": [],
+        "date": "",
+        "date_iso": "",
+        "gid": "O0011",
+        "gramps_path": "AntoineClaudet.png",
+        "mime": "image/png",
+        "note": "",
+        "path": "../../../../gramps.42/example/gramps/AntoineClaudet.png",
+        "thumb": "thumb/Y3ARGQWE088EQRTTDH.png",
+        "title": "AntoineClaudet"
+    },
+    {
+        "attr": [],
+        "bkf": [],
+        "bki": [
+            {
+                "bk_idx": 651,
+                "cita": [],
+                "note": "",
+                "rect": [
+                    0,
+                    0,
+                    100,
+                    100
+                ],
+                "thumb": "thumb/F8JYGQFL2PKLSYH79X.png"
+            }
+        ],
+        "bkp": [],
+        "bks": [],
+        "cita": [],
+        "date": "",
+        "date_iso": "",
+        "gid": "O0007",
+        "gramps_path": "E_W_Dahlgren.jpg",
+        "mime": "image/jpeg",
+        "note": "",
+        "path": "../../../../gramps.42/example/gramps/E_W_Dahlgren.jpg",
+        "thumb": "thumb/F8JYGQFL2PKLSYH79X.png",
+        "title": "E_W_Dahlgren"
+    },
+    {
+        "attr": [],
+        "bkf": [],
+        "bki": [
+            {
+                "bk_idx": 640,
+                "cita": [],
+                "note": "",
+                "rect": [
+                    0,
+                    0,
+                    100,
+                    100
+                ],
+                "thumb": "thumb/78V2GQX2FKNSYQ3OHE.png"
+            }
+        ],
+        "bkp": [],
+        "bks": [],
+        "cita": [],
+        "date": "",
+        "date_iso": "",
+        "gid": "O0009",
+        "gramps_path": "Gunnlaugur_Larusson_-_Yawn.jpg",
+        "mime": "image/jpeg",
+        "note": "",
+        "path": "../../../../gramps.42/example/gramps/Gunnlaugur_Larusson_-_Yawn.jpg",
+        "thumb": "thumb/78V2GQX2FKNSYQ3OHE.png",
+        "title": "Yawn"
+    }
 ]
-];
