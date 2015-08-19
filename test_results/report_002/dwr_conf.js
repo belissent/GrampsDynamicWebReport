@@ -98,7 +98,7 @@ __ = {
 "File ready": "Fichier prêt",
 "Gender": "Genre",
 "Graph help": "Aide sur le graphe",
-"Indexes": "Indexes",
+"Indexes": "Index",
 "Latitude": "Latitude",
 "Link": "Lien",
 "Loading...": "En charge...",
