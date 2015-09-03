@@ -46,7 +46,7 @@ R = [
                 "call_number": "nothing-0",
                 "media_type": "Manuscript",
                 "note": "",
-                "s_idx": 3
+                "s_idx": 2
             }
         ],
         "gid": "R0003",
@@ -88,13 +88,13 @@ R = [
                 "call_number": "CA-123-LL-456_Num/ber",
                 "media_type": "Film",
                 "note": "",
-                "s_idx": 2
+                "s_idx": 1
             },
             {
                 "call_number": "what-321-ever",
                 "media_type": "Photo",
                 "note": "",
-                "s_idx": 3
+                "s_idx": 2
             }
         ],
         "gid": "R0002",
@@ -128,7 +128,7 @@ R = [
                 "call_number": "32Z-345",
                 "media_type": "Microfilm",
                 "note": "",
-                "s_idx": 1
+                "s_idx": 3
             }
         ],
         "gid": "R0000",
