@@ -152,9 +152,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2631
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -193,9 +191,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2138
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -234,9 +230,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2704
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -275,9 +269,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2398
-        ],
+        "cita": [],
         "events": [],
         "gid": "F0704",
         "marr_place": "",
@@ -293,9 +285,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2135
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -326,9 +316,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2344
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -359,9 +347,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2300
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -392,9 +378,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2745
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -440,9 +424,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2129
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -488,9 +470,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2797
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -599,9 +579,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2755
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -632,9 +610,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2506
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -694,9 +670,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2093
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -727,9 +701,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2134
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -768,9 +740,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2259
-        ],
+        "cita": [],
         "events": [],
         "gid": "F0692",
         "marr_place": "",
@@ -786,9 +756,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2466
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -819,9 +787,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2105
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -852,9 +818,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2493
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -907,9 +871,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2213
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -940,9 +902,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2131
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -973,9 +933,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2534
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -1035,9 +993,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2547
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -1076,9 +1032,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2578
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -1117,9 +1071,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2430
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -1158,9 +1110,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2485
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -1199,9 +1149,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2721
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -1247,9 +1195,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2498
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -1280,9 +1226,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2455
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -1321,9 +1265,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2403
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -1362,9 +1304,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2707
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -1403,9 +1343,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2123
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -1444,9 +1382,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2380
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -1527,9 +1463,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2627
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -1568,9 +1502,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2245
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -1637,9 +1569,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2310
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -1692,9 +1622,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2262
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -1733,9 +1661,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2289
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -1774,9 +1700,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2291
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -1807,9 +1731,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2438
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -1862,9 +1784,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2618
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -1895,9 +1815,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2461
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -1928,9 +1846,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2235
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -2011,9 +1927,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2752
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -2122,9 +2036,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2142
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -2155,9 +2067,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2222
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -2259,9 +2169,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2775
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -2292,9 +2200,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2120
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -2325,9 +2231,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2512
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -2358,9 +2262,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2552
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -2391,9 +2293,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2479
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -2424,9 +2324,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2581
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -2457,9 +2355,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2241
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -2498,9 +2394,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2798
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -2539,9 +2433,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2099
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -2587,9 +2479,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2150
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -2635,9 +2525,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2662
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -2676,9 +2564,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2175
-        ],
+        "cita": [],
         "events": [],
         "gid": "F0698",
         "marr_place": "",
@@ -2694,9 +2580,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2671
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -2735,9 +2619,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2491
-        ],
+        "cita": [],
         "events": [],
         "gid": "F0699",
         "marr_place": "",
@@ -2817,9 +2699,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2535
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -2921,9 +2801,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2163
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -2954,9 +2832,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2338
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -2987,9 +2863,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2782
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -3028,9 +2902,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2467
-        ],
+        "cita": [],
         "events": [],
         "gid": "F0697",
         "marr_place": "",
@@ -3046,9 +2918,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2638
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -3079,9 +2949,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2539
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -3120,9 +2988,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2392
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -3153,9 +3019,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2597
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -3194,9 +3058,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2360
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -3235,9 +3097,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2246
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -3276,9 +3136,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2702
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -3345,9 +3203,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2469
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -3386,9 +3242,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2705
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -3427,9 +3281,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2468
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -3468,9 +3320,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2139
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -3501,9 +3351,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2414
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -3542,9 +3390,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2440
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -3632,9 +3478,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2303
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -3665,9 +3509,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2301
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -3755,9 +3597,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2121
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -3824,9 +3664,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2111
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -3865,9 +3703,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2101
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -3955,9 +3791,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2203
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -3996,9 +3830,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2595
-        ],
+        "cita": [],
         "events": [],
         "gid": "F0732",
         "marr_place": "",
@@ -4043,9 +3875,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2238
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -4119,9 +3949,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2822
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -4160,9 +3988,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2453
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -4201,9 +4027,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2305
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -4263,9 +4087,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2102
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -4311,9 +4133,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2292
-        ],
+        "cita": [],
         "events": [],
         "gid": "F0701",
         "marr_place": "",
@@ -4344,9 +4164,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2518
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -4385,9 +4203,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2541
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -4426,9 +4242,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2690
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -4467,9 +4281,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2689
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -4508,9 +4320,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2674
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -4549,9 +4359,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2372
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -4597,9 +4405,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2654
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -4659,9 +4465,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2589
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -4735,9 +4539,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2800
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -4804,9 +4606,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2823
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -4852,9 +4652,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2748
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -4893,9 +4691,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2180
-        ],
+        "cita": [],
         "events": [],
         "gid": "F0674",
         "marr_place": "",
@@ -4911,9 +4707,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2151
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -4944,9 +4738,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2351
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -4992,9 +4784,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2628
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -5040,9 +4830,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2509
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -5095,9 +4883,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2825
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -5143,9 +4929,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2334
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -5184,9 +4968,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2147
-        ],
+        "cita": [],
         "events": [],
         "gid": "F0710",
         "marr_place": "",
@@ -5217,9 +4999,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2817
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -5258,9 +5038,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2171
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -5348,9 +5126,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2387
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -5381,9 +5157,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2114
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -5414,9 +5188,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2110
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -5455,9 +5227,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2596
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -5538,9 +5308,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2232
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -5571,9 +5339,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2260
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -5626,9 +5392,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2401
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -5667,9 +5431,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2770
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -5708,9 +5470,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2792
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -5741,9 +5501,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2441
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -5774,9 +5532,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2685
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -5815,9 +5571,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2167
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -5856,9 +5610,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2194
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -5889,9 +5641,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2367
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -5937,9 +5687,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2368
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -5978,9 +5726,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2333
-        ],
+        "cita": [],
         "events": [],
         "gid": "F0681",
         "marr_place": "",
@@ -6004,9 +5750,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2146
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -6045,9 +5789,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2427
-        ],
+        "cita": [],
         "events": [],
         "gid": "F0707",
         "marr_place": "",
@@ -6071,9 +5813,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2330
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -6112,9 +5852,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2609
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -6160,9 +5898,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2815
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -6201,9 +5937,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2410
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -6234,9 +5968,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2229
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -6267,9 +5999,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2193
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -6300,9 +6030,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2421
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -6333,9 +6061,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2424
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -6366,9 +6092,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2391
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -6399,9 +6123,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2508
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -6432,9 +6154,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2762
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -6465,9 +6185,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2635
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -6548,9 +6266,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2615
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -6603,9 +6319,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2530
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -6651,9 +6365,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2140
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -6706,9 +6418,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2383
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -6768,9 +6478,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2319
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -6830,9 +6538,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2513
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -6878,9 +6584,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2313
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -6919,9 +6623,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2619
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -6974,9 +6676,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2378
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -7022,9 +6722,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2793
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -7077,9 +6775,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2776
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -7118,9 +6814,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2192
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -7159,9 +6853,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2314
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -7192,9 +6884,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2766
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -7233,9 +6923,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2429
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -7266,9 +6954,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2629
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -7307,9 +6993,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2727
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -7348,9 +7032,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2606
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -7389,9 +7071,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2325
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -7430,9 +7110,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2767
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -7463,9 +7141,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2239
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -7496,9 +7172,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2794
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -7544,9 +7218,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2258
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -7577,9 +7249,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2324
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -7610,9 +7280,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2568
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -7643,9 +7311,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2443
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -7712,9 +7378,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2448
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -7745,9 +7409,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2462
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -7814,9 +7476,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2499
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -7855,9 +7515,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2715
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -7888,9 +7546,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2494
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -7950,9 +7606,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2588
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -8019,9 +7673,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2256
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -8074,9 +7726,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2248
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -8115,9 +7765,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2559
-        ],
+        "cita": [],
         "events": [],
         "gid": "F0725",
         "marr_place": "",
@@ -8141,9 +7789,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2698
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -8174,9 +7820,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2811
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -8236,9 +7880,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2777
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -8312,9 +7954,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2097
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -8345,9 +7985,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2125
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -8378,9 +8016,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2145
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -8461,9 +8097,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2095
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -8572,9 +8206,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2223
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -8605,9 +8237,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2274
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -8638,9 +8268,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2320
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -8700,9 +8328,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2626
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -8733,9 +8359,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2492
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -8766,9 +8390,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2419
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -8807,9 +8429,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2402
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -8869,9 +8489,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2456
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -8966,9 +8584,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2298
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -8999,9 +8615,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2796
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -9068,9 +8682,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2278
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -9101,9 +8713,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2128
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -9134,9 +8744,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2336
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -9167,9 +8775,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2363
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -9200,9 +8806,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2224
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -9241,9 +8845,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2683
-        ],
+        "cita": [],
         "events": [],
         "gid": "F0694",
         "marr_place": "",
@@ -9274,9 +8876,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2701
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -9315,9 +8915,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2681
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -9370,9 +8968,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2676
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -9403,9 +8999,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2779
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -9436,9 +9030,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2653
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -9469,9 +9061,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2108
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -9517,9 +9107,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2697
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -9572,9 +9160,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2264
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -9605,9 +9191,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2376
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -9638,9 +9222,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2737
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -9671,9 +9253,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2149
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -9704,9 +9284,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2594
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -9737,9 +9315,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2703
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -9778,9 +9354,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2732
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -9819,9 +9393,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2282
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -9860,9 +9432,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2600
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -9901,9 +9471,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2165
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -9942,9 +9510,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2810
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -9990,9 +9556,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2633
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -10031,9 +9595,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2211
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -10072,9 +9634,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2501
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -10113,9 +9673,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2183
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -10154,9 +9712,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2563
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -10195,9 +9751,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2545
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -10228,9 +9782,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2726
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -10261,9 +9813,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2803
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -10309,9 +9859,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2575
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -10342,9 +9890,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2373
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -10375,9 +9921,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2821
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -10416,9 +9960,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2802
-        ],
+        "cita": [],
         "events": [],
         "gid": "F0730",
         "marr_place": "",
@@ -10442,9 +9984,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2740
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -10475,9 +10015,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2408
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -10530,9 +10068,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2225
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -10648,9 +10184,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2322
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -10681,9 +10215,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2337
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -10722,9 +10254,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2271
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -10770,9 +10300,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2277
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -10846,9 +10374,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2564
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -10894,9 +10420,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2434
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -10942,9 +10466,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2431
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -10975,9 +10497,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2780
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -11008,9 +10528,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2761
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -11063,9 +10581,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2771
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -11096,10 +10612,7 @@ F = [
     {
         "attr": [
             {
-                "cita": [
-                    2834,
-                    2840
-                ],
+                "cita": [],
                 "note": "",
                 "type": "Number of Children",
                 "value": "8"
@@ -11107,9 +10620,7 @@ F = [
         ],
         "chil": [
             {
-                "cita": [
-                    2835
-                ],
+                "cita": [],
                 "index": 640,
                 "note": "",
                 "to_father": "Birth",
@@ -11165,15 +10676,10 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2323,
-            2832
-        ],
+        "cita": [],
         "events": [
             {
-                "cita": [
-                    2837
-                ],
+                "cita": [],
                 "date": "1875-04-01",
                 "date_iso": "1 APR 1875",
                 "descr": "Marriage of Garner, Lewis Anderson and Martel, Luella Jacques",
@@ -11201,9 +10707,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2366
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -11249,9 +10753,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2347
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -11297,9 +10799,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2778
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -11330,9 +10830,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2361
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -11378,9 +10876,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2526
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -11433,9 +10929,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2639
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -11466,9 +10960,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2181
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -11584,9 +11076,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2299
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -11625,9 +11115,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2321
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -11673,9 +11161,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2197
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -11706,9 +11192,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2473
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -11768,9 +11252,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2449
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -11823,9 +11305,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2670
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -11864,9 +11344,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2348
-        ],
+        "cita": [],
         "events": [],
         "gid": "F0675",
         "marr_place": "",
@@ -11882,9 +11360,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2540
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -11915,9 +11391,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2765
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -11963,9 +11437,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2717
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -12004,9 +11476,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2404
-        ],
+        "cita": [],
         "events": [],
         "gid": "F0678",
         "marr_place": "",
@@ -12030,9 +11500,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2754
-        ],
+        "cita": [],
         "events": [],
         "gid": "F0708",
         "marr_place": "",
@@ -12048,9 +11516,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2731
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -12089,9 +11555,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2470
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -12122,9 +11586,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2412
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -12184,9 +11646,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2813
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -12217,9 +11677,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2622
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -12250,9 +11708,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2573
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -12291,9 +11747,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2103
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -12332,9 +11786,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2107
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -12373,9 +11825,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2439
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -12414,9 +11864,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2422
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -12455,9 +11903,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2820
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -12496,9 +11942,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2816
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -12529,9 +11973,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2669
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -12570,9 +12012,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2249
-        ],
+        "cita": [],
         "events": [],
         "gid": "F0714",
         "marr_place": "",
@@ -12596,9 +12036,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2450
-        ],
+        "cita": [],
         "events": [],
         "gid": "F0713",
         "marr_place": "",
@@ -12622,9 +12060,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2275
-        ],
+        "cita": [],
         "events": [],
         "gid": "F0717",
         "marr_place": "",
@@ -12648,9 +12084,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2624
-        ],
+        "cita": [],
         "events": [],
         "gid": "F0716",
         "marr_place": "",
@@ -12674,9 +12108,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2643
-        ],
+        "cita": [],
         "events": [],
         "gid": "F0715",
         "marr_place": "",
@@ -12700,9 +12132,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2720
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -12755,9 +12185,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2243
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -12817,9 +12245,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2393
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -12850,9 +12276,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2255
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -12883,9 +12307,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2306
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -12931,9 +12353,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2174
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -12993,9 +12413,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2722
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -13034,9 +12452,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2326
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -13067,9 +12483,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2187
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -13122,9 +12536,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2787
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -13155,9 +12567,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2819
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -13203,9 +12613,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2405
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -13265,9 +12673,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2613
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -13306,9 +12712,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2533
-        ],
+        "cita": [],
         "events": [],
         "gid": "F0691",
         "marr_place": "",
@@ -13346,9 +12750,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2579
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -13387,9 +12789,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2652
-        ],
+        "cita": [],
         "events": [],
         "gid": "F0741",
         "marr_place": "",
@@ -13427,9 +12827,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2460
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -13475,9 +12873,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2458
-        ],
+        "cita": [],
         "events": [],
         "gid": "F0742",
         "marr_place": "",
@@ -13522,9 +12918,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2481
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -13555,9 +12949,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2267
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -13596,9 +12988,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2161
-        ],
+        "cita": [],
         "events": [],
         "gid": "F0700",
         "marr_place": "",
@@ -13614,9 +13004,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2307
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -13647,9 +13035,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2244
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -13702,9 +13088,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2166
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -13735,9 +13119,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2785
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -13776,9 +13158,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2130
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -13817,9 +13197,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2477
-        ],
+        "cita": [],
         "events": [],
         "gid": "F0683",
         "marr_place": "",
@@ -13843,9 +13221,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2572
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -13884,9 +13260,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2592
-        ],
+        "cita": [],
         "events": [],
         "gid": "F0705",
         "marr_place": "",
@@ -13902,9 +13276,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2216
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -13935,9 +13307,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2454
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -14039,9 +13409,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2741
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -14072,9 +13440,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2680
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -14113,9 +13479,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2500
-        ],
+        "cita": [],
         "events": [],
         "gid": "F0690",
         "marr_place": "",
@@ -14131,9 +13495,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2678
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -14172,9 +13534,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2436
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -14205,9 +13565,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2375
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -14238,9 +13596,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2342
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -14328,9 +13684,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2799
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -14361,9 +13715,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2354
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -14394,9 +13746,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2377
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -14498,9 +13848,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2736
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -14539,9 +13887,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2425
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -14572,9 +13918,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2136
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -14605,9 +13949,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2177
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -14638,9 +13980,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2112
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -14728,9 +14068,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2126
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -14825,9 +14163,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2328
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -14915,9 +14251,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2311
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -14948,9 +14282,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2205
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -14989,9 +14321,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2484
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -15022,9 +14352,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2202
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -15055,9 +14383,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2302
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -15096,9 +14422,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2786
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -15129,9 +14453,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2679
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -15177,9 +14499,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2385
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -15246,9 +14566,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2413
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -15279,9 +14597,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2465
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -15320,9 +14636,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2660
-        ],
+        "cita": [],
         "events": [],
         "gid": "F0688",
         "marr_place": "",
@@ -15338,9 +14652,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2119
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -15371,9 +14683,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2487
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -15404,9 +14714,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2636
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -15437,9 +14745,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2709
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -15478,9 +14784,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2357
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -15519,9 +14823,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2807
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -15560,9 +14862,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2729
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -15593,9 +14893,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2749
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -15634,9 +14932,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2516
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -15675,9 +14971,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2315
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -15708,9 +15002,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2176
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -15741,9 +15033,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2524
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -15789,9 +15079,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2155
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -15837,9 +15125,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2416
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -15878,9 +15164,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2452
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -15975,9 +15259,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2340
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -16023,9 +15305,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2185
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -16064,9 +15344,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2308
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -16105,9 +15383,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2285
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -16146,9 +15422,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2666
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -16187,9 +15461,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2632
-        ],
+        "cita": [],
         "events": [],
         "gid": "F0721",
         "marr_place": "",
@@ -16213,9 +15485,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2555
-        ],
+        "cita": [],
         "events": [],
         "gid": "F0720",
         "marr_place": "",
@@ -16231,9 +15501,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2212
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -16300,9 +15568,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2576
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -16341,9 +15607,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2691
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -16374,9 +15638,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2148
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -16415,9 +15677,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2127
-        ],
+        "cita": [],
         "events": [],
         "gid": "F0682",
         "marr_place": "",
@@ -16441,9 +15701,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2548
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -16482,9 +15740,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2586
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -16515,9 +15771,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2620
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -16570,9 +15824,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2221
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -16639,9 +15891,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2317
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -16694,9 +15944,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2230
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -16727,9 +15975,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2503
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -16760,9 +16006,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2781
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -16850,9 +16094,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2252
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -16912,9 +16154,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2520
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -16945,9 +16185,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2598
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -16978,9 +16216,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2824
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -17011,9 +16247,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2476
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -17044,9 +16278,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2270
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -17077,9 +16309,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2610
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -17110,9 +16340,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2677
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -17151,9 +16379,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2269
-        ],
+        "cita": [],
         "events": [],
         "gid": "F0680",
         "marr_place": "",
@@ -17191,9 +16417,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2764
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -17274,9 +16498,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2763
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -17329,9 +16551,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2601
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -17370,9 +16590,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2220
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -17403,9 +16621,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2605
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -17444,9 +16660,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2280
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -17477,9 +16691,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2160
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -17518,9 +16730,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2482
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -17551,9 +16761,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2283
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -17584,9 +16792,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2758
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -17625,9 +16831,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2218
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -17666,9 +16870,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2514
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -17707,9 +16909,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2329
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -17748,9 +16948,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2231
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -17781,9 +16979,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2711
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -17814,9 +17010,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2156
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -17847,9 +17041,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2696
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -17902,9 +17094,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2388
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -17971,9 +17161,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2406
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -18004,9 +17192,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2750
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -18037,9 +17223,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2569
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -18078,9 +17262,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2287
-        ],
+        "cita": [],
         "events": [],
         "gid": "F0685",
         "marr_place": "",
@@ -18096,9 +17278,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2463
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -18137,9 +17317,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2718
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -18169,9 +17347,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2658
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -18202,9 +17378,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2196
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -18243,9 +17417,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2168
-        ],
+        "cita": [],
         "events": [],
         "gid": "F0684",
         "marr_place": "",
@@ -18325,9 +17497,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2186
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -18358,9 +17528,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2495
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -18399,9 +17567,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2630
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -18468,9 +17634,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2144
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -18509,9 +17673,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2261
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -18550,9 +17712,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2115
-        ],
+        "cita": [],
         "events": [],
         "gid": "F0676",
         "marr_place": "",
@@ -18576,9 +17736,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2510
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -18617,9 +17775,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2656
-        ],
+        "cita": [],
         "events": [],
         "gid": "F0677",
         "marr_place": "",
@@ -18720,9 +17876,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2355
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -18753,9 +17907,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2350
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -18815,9 +17967,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2331
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -18848,9 +17998,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2733
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -18889,9 +18037,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2384
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -18979,9 +18125,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2294
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -19027,9 +18171,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2345
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -19103,9 +18245,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2386
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -19144,9 +18284,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2190
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -19213,9 +18351,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2591
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -19254,9 +18390,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2371
-        ],
+        "cita": [],
         "events": [],
         "gid": "F0718",
         "marr_place": "",
@@ -19280,9 +18414,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2735
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -19363,9 +18495,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2475
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -19404,9 +18534,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2446
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -19452,9 +18580,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2772
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -19549,9 +18675,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2663
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -19625,9 +18749,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2650
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -19666,9 +18788,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2625
-        ],
+        "cita": [],
         "events": [],
         "gid": "F0740",
         "marr_place": "",
@@ -19684,9 +18804,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2451
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -19725,9 +18843,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2708
-        ],
+        "cita": [],
         "events": [],
         "gid": "F0686",
         "marr_place": "",
@@ -19751,9 +18867,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2684
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -19792,9 +18906,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2445
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -19833,9 +18945,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2200
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -19888,9 +18998,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2411
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -19929,9 +19037,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2675
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -19984,9 +19090,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2647
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -20039,9 +19143,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2753
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -20072,9 +19174,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2607
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -20105,9 +19205,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2497
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -20167,9 +19265,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2551
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -20229,9 +19325,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2169
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -20284,9 +19378,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2219
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -20388,9 +19480,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2228
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -20471,9 +19561,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2608
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -20533,9 +19621,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2570
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -20574,9 +19660,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2096
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -20622,9 +19706,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2585
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -20655,9 +19737,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2694
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -20696,9 +19776,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2712
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -20751,9 +19829,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2459
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -20806,9 +19882,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2728
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -20847,9 +19921,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2143
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -20930,9 +20002,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2756
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -20971,9 +20041,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2812
-        ],
+        "cita": [],
         "events": [],
         "gid": "F0689",
         "marr_place": "",
@@ -21004,9 +20072,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2515
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -21045,9 +20111,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2640
-        ],
+        "cita": [],
         "events": [],
         "gid": "F0679",
         "marr_place": "",
@@ -21063,9 +20127,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2309
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -21096,9 +20158,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2141
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -21129,9 +20189,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2358
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -21170,9 +20228,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2234
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -21203,9 +20259,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2276
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -21236,9 +20290,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2341
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -21269,9 +20321,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2159
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -21302,9 +20352,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2116
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -21335,9 +20383,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2700
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -21439,9 +20485,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2577
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -21480,9 +20524,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2743
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -21521,9 +20563,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2757
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -21554,9 +20594,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2784
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -21595,9 +20633,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2189
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -21628,9 +20664,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2296
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -21676,9 +20710,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2423
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -21717,9 +20749,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2583
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -21758,9 +20788,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2641
-        ],
+        "cita": [],
         "events": [],
         "gid": "F0703",
         "marr_place": "",
@@ -21784,9 +20812,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2247
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -21817,9 +20843,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2273
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -21858,9 +20882,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2582
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -21899,9 +20921,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2381
-        ],
+        "cita": [],
         "events": [],
         "gid": "F0687",
         "marr_place": "",
@@ -21932,9 +20952,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2751
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -21987,9 +21005,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2814
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -22020,9 +21036,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2505
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -22082,9 +21096,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2646
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -22123,9 +21135,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2157
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -22178,9 +21188,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2206
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -22219,9 +21227,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2471
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -22252,9 +21258,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2528
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -22293,9 +21297,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2668
-        ],
+        "cita": [],
         "events": [],
         "gid": "F0711",
         "marr_place": "",
@@ -22319,9 +21321,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2092
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -22374,9 +21374,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2124
-        ],
+        "cita": [],
         "events": [],
         "gid": "F0735",
         "marr_place": "",
@@ -22392,9 +21390,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2152
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -22482,9 +21478,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2133
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -22515,9 +21509,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2207
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -22605,9 +21597,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2132
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -22709,9 +21699,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2098
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -22750,9 +21738,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2415
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -22819,9 +21805,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2370
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -22860,9 +21844,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2464
-        ],
+        "cita": [],
         "events": [],
         "gid": "F0734",
         "marr_place": "",
@@ -22878,9 +21860,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2353
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -22947,9 +21927,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2742
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -23023,9 +22001,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2714
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -23064,9 +22040,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2233
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -23097,9 +22071,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2645
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -23166,9 +22138,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2304
-        ],
+        "cita": [],
         "events": [],
         "gid": "F0737",
         "marr_place": "",
@@ -23206,9 +22176,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2747
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -23239,9 +22207,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2673
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -23329,9 +22295,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2286
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -23370,9 +22334,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2094
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -23403,9 +22365,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2365
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -23444,9 +22404,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2417
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -23485,9 +22443,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2154
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -23526,9 +22482,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2699
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -23567,9 +22521,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2538
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -23608,9 +22560,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2399
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -23649,9 +22599,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2153
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -23697,9 +22645,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2804
-        ],
+        "cita": [],
         "events": [],
         "gid": "F0706",
         "marr_place": "",
@@ -23744,9 +22690,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2593
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -23777,9 +22721,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2773
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -23839,9 +22781,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2409
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -23887,9 +22827,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2480
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -23998,9 +22936,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2374
-        ],
+        "cita": [],
         "events": [],
         "gid": "F0729",
         "marr_place": "",
@@ -24016,9 +22952,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2426
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -24049,9 +22983,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2566
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -24082,9 +23014,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2546
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -24115,9 +23045,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2253
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -24226,9 +23154,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2400
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -24259,9 +23185,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2395
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -24300,9 +23224,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2293
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -24341,9 +23263,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2394
-        ],
+        "cita": [],
         "events": [],
         "gid": "F0709",
         "marr_place": "",
@@ -24374,9 +23294,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2507
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -24422,9 +23340,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2254
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -24470,9 +23386,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2170
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -24518,9 +23432,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2488
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -24559,9 +23471,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2738
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -24600,9 +23510,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2532
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -24641,9 +23549,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2651
-        ],
+        "cita": [],
         "events": [],
         "gid": "F0736",
         "marr_place": "",
@@ -24688,9 +23594,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2173
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -24721,9 +23625,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2805
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -24754,9 +23656,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2519
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -24787,9 +23687,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2604
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -24820,9 +23718,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2809
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -24882,9 +23778,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2695
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -24923,9 +23817,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2769
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -24971,9 +23863,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2692
-        ],
+        "cita": [],
         "events": [],
         "gid": "F0727",
         "marr_place": "",
@@ -24997,9 +23887,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2486
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -25052,9 +23940,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2801
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -25093,9 +23979,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2435
-        ],
+        "cita": [],
         "events": [],
         "gid": "F0726",
         "marr_place": "",
@@ -25111,9 +23995,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2686
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -25152,9 +24034,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2723
-        ],
+        "cita": [],
         "events": [],
         "gid": "F0696",
         "marr_place": "",
@@ -25170,9 +24050,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2184
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -25203,9 +24081,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2208
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -25236,9 +24112,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2178
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -25269,9 +24143,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2359
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -25310,9 +24182,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2164
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -25343,9 +24213,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2791
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -25376,9 +24244,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2242
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -25431,9 +24297,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2265
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -25493,9 +24357,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2447
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -25541,9 +24403,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2290
-        ],
+        "cita": [],
         "events": [],
         "gid": "F0722",
         "marr_place": "",
@@ -25559,9 +24419,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2198
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -25592,9 +24450,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2617
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -25625,9 +24481,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2279
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -25666,9 +24520,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2567
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -25699,9 +24551,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2584
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -25747,9 +24597,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2543
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -25788,9 +24636,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2343
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -25821,9 +24667,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2611
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -25854,9 +24698,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2693
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -25895,9 +24737,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2795
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -25936,9 +24776,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2335
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -25977,9 +24815,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2316
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -26018,9 +24854,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2428
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -26059,9 +24893,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2226
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -26163,9 +24995,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2297
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -26204,9 +25034,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2483
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -26237,9 +25065,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2444
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -26270,9 +25096,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2760
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -26303,9 +25127,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2281
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -26365,9 +25187,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2590
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -26406,9 +25226,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2599
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -26447,9 +25265,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2352
-        ],
+        "cita": [],
         "events": [],
         "gid": "F0731",
         "marr_place": "",
@@ -26480,9 +25296,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2284
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -26549,9 +25363,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2188
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -26590,9 +25402,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2542
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -26645,9 +25455,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2318
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -26700,9 +25508,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2730
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -26741,9 +25547,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2117
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -26824,9 +25628,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2118
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -26857,9 +25659,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2237
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -26919,9 +25719,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2432
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -26967,9 +25765,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2472
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -27008,9 +25804,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2808
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -27063,9 +25857,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2433
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -27096,9 +25888,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2137
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -27158,9 +25948,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2191
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -27213,9 +26001,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2113
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -27261,9 +26047,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2580
-        ],
+        "cita": [],
         "events": [],
         "gid": "F0738",
         "marr_place": "",
@@ -27294,9 +26078,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2209
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -27327,9 +26109,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2420
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -27368,9 +26148,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2550
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -27444,9 +26222,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2272
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -27499,9 +26275,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2179
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -27561,9 +26335,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2688
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -27686,9 +26458,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2554
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -27832,9 +26602,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2724
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -27887,9 +26655,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2713
-        ],
+        "cita": [],
         "events": [],
         "gid": "F0702",
         "marr_place": "",
@@ -27905,9 +26671,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2257
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -27967,9 +26731,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2199
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -28008,9 +26770,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2346
-        ],
+        "cita": [],
         "events": [],
         "gid": "F0739",
         "marr_place": "",
@@ -28041,9 +26801,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2560
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -28103,9 +26861,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2521
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -28136,9 +26892,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2214
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -28198,9 +26952,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2616
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -28239,9 +26991,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2407
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -28287,9 +27037,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2457
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -28342,9 +27090,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2536
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -28375,9 +27121,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2759
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -28416,9 +27160,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2621
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -28464,9 +27206,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2716
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -28497,9 +27237,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2644
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -28573,9 +27311,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2517
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -28621,9 +27357,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2789
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -28662,9 +27396,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2806
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -28703,9 +27435,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2634
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -28758,9 +27488,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2369
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -28820,9 +27548,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2162
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -28931,9 +27657,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2623
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -28972,9 +27696,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2602
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -29020,9 +27742,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2574
-        ],
+        "cita": [],
         "events": [],
         "gid": "F0728",
         "marr_place": "",
@@ -29067,9 +27787,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2195
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -29171,9 +27889,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2725
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -29219,9 +27935,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2783
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -29274,9 +27988,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2525
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -29329,9 +28041,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2818
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -29370,9 +28080,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2109
-        ],
+        "cita": [],
         "events": [],
         "gid": "F0724",
         "marr_place": "",
@@ -29396,9 +28104,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2549
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -29437,9 +28143,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2719
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -29485,9 +28189,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2739
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -29526,9 +28228,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2210
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -29581,9 +28281,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2474
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -29622,9 +28320,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2104
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -29670,9 +28366,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2442
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -29703,9 +28397,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2227
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -29736,9 +28428,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2251
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -29784,9 +28474,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2332
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -29817,9 +28505,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2390
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -29872,9 +28558,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2364
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -29905,9 +28589,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2790
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -29946,9 +28628,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2529
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -30001,9 +28681,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2571
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -30034,9 +28712,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2556
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -30075,9 +28751,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2100
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -30151,9 +28825,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2489
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -30186,9 +28858,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2182
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -30227,9 +28897,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2562
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -30275,9 +28943,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2774
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -30308,9 +28974,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2349
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -30341,9 +29005,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2734
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -30374,9 +29036,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2478
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -30407,9 +29067,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2201
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -30440,9 +29098,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2661
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -30481,9 +29137,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2561
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -30522,9 +29176,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2553
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -30555,9 +29207,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2339
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -30588,9 +29238,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2204
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -30621,9 +29269,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2614
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -30654,9 +29300,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2511
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -30737,9 +29381,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2558
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -30770,9 +29412,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2531
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -30803,9 +29443,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2746
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -30844,9 +29482,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2379
-        ],
+        "cita": [],
         "events": [],
         "gid": "F0695",
         "marr_place": "",
@@ -30862,9 +29498,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2502
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -30903,9 +29537,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2642
-        ],
+        "cita": [],
         "events": [],
         "gid": "F0712",
         "marr_place": "",
@@ -30921,9 +29553,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2667
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -30954,9 +29584,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2382
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -31009,9 +29637,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2312
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -31078,9 +29704,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2295
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -31111,9 +29735,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2565
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -31201,9 +29823,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2557
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -31298,9 +29918,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2240
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -31331,9 +29949,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2268
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -31364,9 +29980,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2418
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -31397,9 +30011,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2637
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -31430,9 +30042,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2396
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -31463,9 +30073,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2665
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -31511,9 +30119,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2587
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -31552,9 +30158,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2706
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -31593,9 +30197,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2682
-        ],
+        "cita": [],
         "events": [],
         "gid": "F0693",
         "marr_place": "",
@@ -31619,9 +30221,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2327
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -31660,9 +30260,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2362
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -31708,9 +30306,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2504
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -31749,9 +30345,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2490
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -31797,9 +30391,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2657
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -31838,9 +30430,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2236
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -31871,9 +30461,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2612
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -31904,9 +30492,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2437
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -31952,9 +30538,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2122
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -31993,9 +30577,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2603
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -32025,9 +30607,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2537
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -32066,9 +30646,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2744
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -32114,9 +30692,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2215
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -32147,9 +30723,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2288
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -32188,9 +30762,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2522
-        ],
+        "cita": [],
         "events": [],
         "gid": "F0719",
         "marr_place": "",
@@ -32206,9 +30778,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2397
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -32254,9 +30824,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2710
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -32295,9 +30863,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2788
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -32328,9 +30894,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2659
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -32361,9 +30925,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2356
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -32423,9 +30985,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2389
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -32464,9 +31024,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2496
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -32505,9 +31063,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2544
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -32546,9 +31102,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2687
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -32579,9 +31133,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2266
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -32620,9 +31172,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2655
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -32682,9 +31232,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2106
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -32723,9 +31271,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2158
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -32778,9 +31324,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2263
-        ],
+        "cita": [],
         "events": [],
         "gid": "F0733",
         "marr_place": "",
@@ -32811,9 +31355,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2672
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -32887,9 +31429,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2217
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -32942,9 +31482,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2250
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -32975,9 +31513,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2527
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -33008,9 +31544,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2664
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -33091,9 +31625,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2649
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -33132,9 +31664,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2648
-        ],
+        "cita": [],
         "events": [],
         "gid": "F0723",
         "marr_place": "",
@@ -33158,9 +31688,7 @@ F = [
                 "to_mother": "Birth"
             }
         ],
-        "cita": [
-            2523
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -33191,9 +31719,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2172
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],
@@ -33224,9 +31750,7 @@ F = [
     {
         "attr": [],
         "chil": [],
-        "cita": [
-            2768
-        ],
+        "cita": [],
         "events": [
             {
                 "cita": [],

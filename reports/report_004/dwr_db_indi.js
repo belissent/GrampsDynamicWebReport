@@ -660,9 +660,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            450
-        ],
+        "cita": [],
         "death_age": "about 50 years",
         "death_place": "",
         "death_year": "?",
@@ -734,9 +732,7 @@ I = [
         "attr": [],
         "birth_place": "Plattsburgh, Clinton, NY, USA",
         "birth_year": "?",
-        "cita": [
-            518
-        ],
+        "cita": [],
         "death_age": "between -6 years, 1 day and 109 years, 11 months, 30 days",
         "death_place": "Jefferson City, MO, USA",
         "death_year": "?",
@@ -816,9 +812,7 @@ I = [
         "attr": [],
         "birth_place": "Dyersburg, TN, USA",
         "birth_year": "?",
-        "cita": [
-            928
-        ],
+        "cita": [],
         "death_age": "about 86 years, 4 months, 15 days",
         "death_place": "Hattiesburg, MS, USA",
         "death_year": "1787",
@@ -905,9 +899,7 @@ I = [
         "attr": [],
         "birth_place": "Maryville, MO, USA",
         "birth_year": "?",
-        "cita": [
-            832
-        ],
+        "cita": [],
         "death_age": "less than 49 years, 7 months, 18 days",
         "death_place": "Wooster, OH, USA",
         "death_year": "1787",
@@ -987,9 +979,7 @@ I = [
         "attr": [],
         "birth_place": "Shelton, WA, USA",
         "birth_year": "?",
-        "cita": [
-            1293
-        ],
+        "cita": [],
         "death_age": "more than 65 years, 2 months, 16 days",
         "death_place": "Jefferson City, MO, USA",
         "death_year": "1828",
@@ -1084,9 +1074,7 @@ I = [
         "attr": [],
         "birth_place": "Palm Coast, Flagler, FL, USA",
         "birth_year": "?",
-        "cita": [
-            1382
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -1143,9 +1131,7 @@ I = [
         "attr": [],
         "birth_place": "Ketchikan, AK, USA",
         "birth_year": "?",
-        "cita": [
-            1161
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -1202,9 +1188,7 @@ I = [
         "attr": [],
         "birth_place": "Hickory-Morganton-Lenoir, NC, USA",
         "birth_year": "?",
-        "cita": [
-            1446
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Plattsburgh, Clinton, NY, USA",
         "death_year": "?",
@@ -1284,9 +1268,7 @@ I = [
         "attr": [],
         "birth_place": "Ketchikan, AK, USA",
         "birth_year": "?",
-        "cita": [
-            264
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Wooster, OH, USA",
         "death_year": "?",
@@ -1358,9 +1340,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1489
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -1401,9 +1381,7 @@ I = [
         "attr": [],
         "birth_place": "Topeka, Shawnee, KS, USA",
         "birth_year": "1690",
-        "cita": [
-            617
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -1469,9 +1447,7 @@ I = [
         "attr": [],
         "birth_place": "Topeka, Shawnee, KS, USA",
         "birth_year": "?",
-        "cita": [
-            931
-        ],
+        "cita": [],
         "death_age": "about 62 years, 2 months, 9 days",
         "death_place": "Crossville, TN, USA",
         "death_year": "1762",
@@ -1551,9 +1527,7 @@ I = [
         "attr": [],
         "birth_place": "Beeville, Bee, TX, USA",
         "birth_year": "1667",
-        "cita": [
-            1488
-        ],
+        "cita": [],
         "death_age": "22 years, 10 months, 20 days",
         "death_place": "Topeka, Shawnee, KS, USA",
         "death_year": "1689",
@@ -1631,9 +1605,7 @@ I = [
         "attr": [],
         "birth_place": "Sikeston, MO, USA",
         "birth_year": "?",
-        "cita": [
-            1689
-        ],
+        "cita": [],
         "death_age": "about 26 years",
         "death_place": "Topeka, Shawnee, KS, USA",
         "death_year": "?",
@@ -1713,9 +1685,7 @@ I = [
         "attr": [],
         "birth_place": "Poplar Bluff, MO, USA",
         "birth_year": "1670",
-        "cita": [
-            1079
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -1780,9 +1750,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1694",
-        "cita": [
-            1040
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -1845,9 +1813,7 @@ I = [
         "attr": [],
         "birth_place": "Sikeston, MO, USA",
         "birth_year": "1674",
-        "cita": [
-            1491
-        ],
+        "cita": [],
         "death_age": "52 years, 7 months, 8 days",
         "death_place": "Topeka, Shawnee, KS, USA",
         "death_year": "1727",
@@ -1927,9 +1893,7 @@ I = [
         "attr": [],
         "birth_place": "Sikeston, MO, USA",
         "birth_year": "1683",
-        "cita": [
-            230
-        ],
+        "cita": [],
         "death_age": "49 years, 11 months, 10 days",
         "death_place": "Topeka, Shawnee, KS, USA",
         "death_year": "1733",
@@ -2007,9 +1971,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1692",
-        "cita": [
-            1329
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -2074,9 +2036,7 @@ I = [
         "attr": [],
         "birth_place": "Sikeston, MO, USA",
         "birth_year": "1679",
-        "cita": [
-            1387
-        ],
+        "cita": [],
         "death_age": "about 1 year",
         "death_place": "Topeka, Shawnee, KS, USA",
         "death_year": "?",
@@ -2154,9 +2114,7 @@ I = [
         "attr": [],
         "birth_place": "Topeka, Shawnee, KS, USA",
         "birth_year": "1698",
-        "cita": [
-            2083
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -2219,9 +2177,7 @@ I = [
         "attr": [],
         "birth_place": "Beeville, Bee, TX, USA",
         "birth_year": "1666",
-        "cita": [
-            210
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -2284,9 +2240,7 @@ I = [
         "attr": [],
         "birth_place": "Sikeston, MO, USA",
         "birth_year": "1696",
-        "cita": [
-            1964
-        ],
+        "cita": [],
         "death_age": "50 years, 7 months, 20 days",
         "death_place": "",
         "death_year": "1747",
@@ -2366,9 +2320,7 @@ I = [
         "attr": [],
         "birth_place": "Sikeston, MO, USA",
         "birth_year": "1668",
-        "cita": [
-            867
-        ],
+        "cita": [],
         "death_age": "34 years",
         "death_place": "Topeka, Shawnee, KS, USA",
         "death_year": "1702",
@@ -2448,9 +2400,7 @@ I = [
         "attr": [],
         "birth_place": "Del Rio, Val Verde, TX, USA",
         "birth_year": "?",
-        "cita": [
-            1447
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -2507,9 +2457,7 @@ I = [
         "attr": [],
         "birth_place": "Erie, PA, USA",
         "birth_year": "1989",
-        "cita": [
-            1915
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -2572,9 +2520,7 @@ I = [
         "attr": [],
         "birth_place": "Erie, PA, USA",
         "birth_year": "1985",
-        "cita": [
-            349
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -2637,9 +2583,7 @@ I = [
         "attr": [],
         "birth_place": "Rockland, ME, USA",
         "birth_year": "1984",
-        "cita": [
-            988
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -2717,9 +2661,7 @@ I = [
         "attr": [],
         "birth_place": "Orangeburg, SC, USA",
         "birth_year": "?",
-        "cita": [
-            1461
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Clarksdale, MS, USA",
         "death_year": "?",
@@ -2791,9 +2733,7 @@ I = [
         "attr": [],
         "birth_place": "Cookeville, TN, USA",
         "birth_year": "?",
-        "cita": [
-            578
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Cookeville, TN, USA",
         "death_year": "?",
@@ -2871,9 +2811,7 @@ I = [
         "attr": [],
         "birth_place": "Mineral Wells, Palo Pinto, TX, USA",
         "birth_year": "?",
-        "cita": [
-            200
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Marshall, Harrison, TX, USA",
         "death_year": "1864",
@@ -2968,9 +2906,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1514
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -3017,9 +2953,7 @@ I = [
         "attr": [],
         "birth_place": "Rockland, ME, USA",
         "birth_year": "1971",
-        "cita": [
-            2037
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -3097,9 +3031,7 @@ I = [
         "attr": [],
         "birth_place": "Cookeville, TN, USA",
         "birth_year": "?",
-        "cita": [
-            1494
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -3164,9 +3096,7 @@ I = [
         "attr": [],
         "birth_place": "Cookeville, TN, USA",
         "birth_year": "?",
-        "cita": [
-            567
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -3231,9 +3161,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1947",
-        "cita": [
-            2035
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -3305,9 +3233,7 @@ I = [
         "attr": [],
         "birth_place": "Marshall, MN, USA",
         "birth_year": "1821",
-        "cita": [
-            1148
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Racine, WI, USA",
         "death_year": "?",
@@ -3385,9 +3311,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            642
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -3434,9 +3358,7 @@ I = [
         "attr": [],
         "birth_place": "Cookeville, TN, USA",
         "birth_year": "?",
-        "cita": [
-            445
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Cookeville, TN, USA",
         "death_year": "?",
@@ -3514,9 +3436,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1955",
-        "cita": [
-            1122
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -3588,9 +3508,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1884
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -3631,9 +3549,7 @@ I = [
         "attr": [],
         "birth_place": "Marshall, MN, USA",
         "birth_year": "1825",
-        "cita": [
-            385
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -3698,9 +3614,7 @@ I = [
         "attr": [],
         "birth_place": "Florence, SC, USA",
         "birth_year": "?",
-        "cita": [
-            1921
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Cookeville, TN, USA",
         "death_year": "?",
@@ -3778,9 +3692,7 @@ I = [
         "attr": [],
         "birth_place": "Cookeville, TN, USA",
         "birth_year": "?",
-        "cita": [
-            1498
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -3845,9 +3757,7 @@ I = [
         "attr": [],
         "birth_place": "Rocky Mount, NC, USA",
         "birth_year": "?",
-        "cita": [
-            1319
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Poplar Bluff, MO, USA",
         "death_year": "1760",
@@ -3927,9 +3837,7 @@ I = [
         "attr": [],
         "birth_place": "Rockland, ME, USA",
         "birth_year": "1986",
-        "cita": [
-            56
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -4007,9 +3915,7 @@ I = [
         "attr": [],
         "birth_place": "Rockland, ME, USA",
         "birth_year": "1968",
-        "cita": [
-            879
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -4087,9 +3993,7 @@ I = [
         "attr": [],
         "birth_place": "Mountain Home, Elmore, ID, USA",
         "birth_year": "?",
-        "cita": [
-            797
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Clearlake, Lake, CA, USA",
         "death_year": "1861",
@@ -4169,9 +4073,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1864
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -4220,9 +4122,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1577
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -4269,9 +4169,7 @@ I = [
         "attr": [],
         "birth_place": "Cookeville, TN, USA",
         "birth_year": "?",
-        "cita": [
-            499
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -4336,9 +4234,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            711
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -4379,9 +4275,7 @@ I = [
         "attr": [],
         "birth_place": "Cookeville, TN, USA",
         "birth_year": "?",
-        "cita": [
-            1556
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -4446,9 +4340,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            89
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -4489,9 +4381,7 @@ I = [
         "attr": [],
         "birth_place": "Ukiah, Mendocino, CA, USA",
         "birth_year": "?",
-        "cita": [
-            523
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "",
         "death_year": "1727",
@@ -4571,9 +4461,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1708
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -4620,9 +4508,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            155
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -4669,9 +4555,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            138
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -4712,9 +4596,7 @@ I = [
         "attr": [],
         "birth_place": "Marion, Edwards, IL, USA",
         "birth_year": "?",
-        "cita": [
-            1889
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "McPherson, McPherson, KS, USA",
         "death_year": "1858",
@@ -4786,9 +4668,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            555
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -4835,9 +4715,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1438
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -4884,9 +4762,7 @@ I = [
         "attr": [],
         "birth_place": "Shelby, NC, USA",
         "birth_year": "1719",
-        "cita": [
-            368
-        ],
+        "cita": [],
         "death_age": "76 years, 3 months, 19 days",
         "death_place": "",
         "death_year": "1795",
@@ -4966,9 +4842,7 @@ I = [
         "attr": [],
         "birth_place": "Miami, OK, USA",
         "birth_year": "1685",
-        "cita": [
-            1658
-        ],
+        "cita": [],
         "death_age": "89 years, 10 months, 26 days",
         "death_place": "Pittsburg, Crawford, KS, USA",
         "death_year": "1774",
@@ -5048,9 +4922,7 @@ I = [
         "attr": [],
         "birth_place": "Baton Rouge, East Baton Rouge, LA, USA",
         "birth_year": "1654",
-        "cita": [
-            558
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Gettysburg, PA, USA",
         "death_year": "?",
@@ -5130,9 +5002,7 @@ I = [
         "attr": [],
         "birth_place": "Lancaster, SC, USA",
         "birth_year": "?",
-        "cita": [
-            1778
-        ],
+        "cita": [],
         "death_age": "about 59 years",
         "death_place": "Fort Dodge, Webster, IA, USA",
         "death_year": "1687",
@@ -5204,9 +5074,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            343
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "Albert Lea, MN, USA",
         "death_year": "?",
@@ -5263,9 +5131,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1933",
-        "cita": [
-            123
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -5343,9 +5209,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            2066
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -5392,9 +5256,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            199
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -5443,9 +5305,7 @@ I = [
         "attr": [],
         "birth_place": "Williamsport, PA, USA",
         "birth_year": "1906",
-        "cita": [
-            1588
-        ],
+        "cita": [],
         "death_age": "88 years, 11 months, 16 days",
         "death_place": "Alexandria, Rapides, LA, USA",
         "death_year": "1995",
@@ -5517,9 +5377,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            232
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -5560,9 +5418,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            360
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -5603,9 +5459,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1632",
-        "cita": [
-            1175
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -5670,9 +5524,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1667",
-        "cita": [
-            188
-        ],
+        "cita": [],
         "death_age": "74 years, 5 months, 24 days",
         "death_place": "",
         "death_year": "1741",
@@ -5744,9 +5596,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            672
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Louisville, Jefferson, KY, USA",
         "death_year": "?",
@@ -5841,9 +5691,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            656
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -5884,9 +5732,7 @@ I = [
         "attr": [],
         "birth_place": "Oxnard, Ventura, CA, USA",
         "birth_year": "1869",
-        "cita": [
-            101
-        ],
+        "cita": [],
         "death_age": "72 years, 9 months, 13 days",
         "death_place": "Kokomo, Howard, IN, USA",
         "death_year": "1942",
@@ -5981,9 +5827,7 @@ I = [
         "attr": [],
         "birth_place": "Mooresville, NC, USA",
         "birth_year": "?",
-        "cita": [
-            2044
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Mooresville, NC, USA",
         "death_year": "?",
@@ -6055,9 +5899,7 @@ I = [
         "attr": [],
         "birth_place": "Columbus, OH, USA",
         "birth_year": "1876",
-        "cita": [
-            1808
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -6120,9 +5962,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            253
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -6169,9 +6009,7 @@ I = [
         "attr": [],
         "birth_place": "Vero Beach, Indian River, FL, USA",
         "birth_year": "1848",
-        "cita": [
-            1994
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -6236,9 +6074,7 @@ I = [
         "attr": [],
         "birth_place": "Wausau, WI, USA",
         "birth_year": "1846",
-        "cita": [
-            1472
-        ],
+        "cita": [],
         "death_age": "59 years, 7 months, 21 days",
         "death_place": "Oxnard, Ventura, CA, USA",
         "death_year": "1906",
@@ -6333,9 +6169,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1761
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -6382,9 +6216,7 @@ I = [
         "attr": [],
         "birth_place": "Columbus, OH, USA",
         "birth_year": "1870",
-        "cita": [
-            892
-        ],
+        "cita": [],
         "death_age": "1 month, 2 days",
         "death_place": "Baltimore, MD, USA",
         "death_year": "1870",
@@ -6462,9 +6294,7 @@ I = [
         "attr": [],
         "birth_place": "Columbus, OH, USA",
         "birth_year": "?",
-        "cita": [
-            461
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -6527,9 +6357,7 @@ I = [
         "attr": [],
         "birth_place": "Columbus, OH, USA",
         "birth_year": "1878",
-        "cita": [
-            1070
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -6592,9 +6420,7 @@ I = [
         "attr": [],
         "birth_place": "Vero Beach, Indian River, FL, USA",
         "birth_year": "1852",
-        "cita": [
-            1179
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -6659,9 +6485,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            533
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -6708,9 +6532,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1840",
-        "cita": [
-            1301
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -6773,9 +6595,7 @@ I = [
         "attr": [],
         "birth_place": "Chillicothe, OH, USA",
         "birth_year": "1767",
-        "cita": [
-            1183
-        ],
+        "cita": [],
         "death_age": "80 years, 10 months, 11 days",
         "death_place": "New Philadelphia, OH, USA",
         "death_year": "1848",
@@ -6855,9 +6675,7 @@ I = [
         "attr": [],
         "birth_place": "Amarillo, Potter, TX, USA",
         "birth_year": "1810",
-        "cita": [
-            652
-        ],
+        "cita": [],
         "death_age": "77 years, 4 months, 16 days",
         "death_place": "Portland, OR, USA",
         "death_year": "1887",
@@ -6954,9 +6772,7 @@ I = [
         "attr": [],
         "birth_place": "Columbus, OH, USA",
         "birth_year": "?",
-        "cita": [
-            1000
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Honolulu, HI, USA",
         "death_year": "?",
@@ -7034,9 +6850,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1470
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -7083,9 +6897,7 @@ I = [
         "attr": [],
         "birth_place": "Boise City, ID, USA",
         "birth_year": "1871",
-        "cita": [
-            1933
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -7148,9 +6960,7 @@ I = [
         "attr": [],
         "birth_place": "Mooresville, NC, USA",
         "birth_year": "1728",
-        "cita": [
-            844
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -7215,9 +7025,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            952
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -7264,9 +7072,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1386
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -7307,9 +7113,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1861",
-        "cita": [
-            1267
-        ],
+        "cita": [],
         "death_age": "41 years, 7 months, 1 day",
         "death_place": "",
         "death_year": "1903",
@@ -7381,9 +7185,7 @@ I = [
         "attr": [],
         "birth_place": "Jacksonville, Duval, FL, USA",
         "birth_year": "1925",
-        "cita": [
-            1330
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -7455,9 +7257,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            165
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -7498,9 +7298,7 @@ I = [
         "attr": [],
         "birth_place": "Barnstable Town, MA, USA",
         "birth_year": "?",
-        "cita": [
-            1462
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Columbus, Jefferson, GA-AL, USA",
         "death_year": "1965",
@@ -7587,9 +7385,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1752",
-        "cita": [
-            761
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -7646,9 +7442,7 @@ I = [
         "attr": [],
         "birth_place": "Durant, OK, USA",
         "birth_year": "?",
-        "cita": [
-            682
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -7705,9 +7499,7 @@ I = [
         "attr": [],
         "birth_place": "Mexico, MO, USA",
         "birth_year": "?",
-        "cita": [
-            785
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Santa Fe, NM, USA",
         "death_year": "1823",
@@ -7779,9 +7571,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1984",
-        "cita": [
-            355
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -7859,9 +7649,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1982",
-        "cita": [
-            1403
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -7939,9 +7727,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1977",
-        "cita": [
-            235
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -8019,9 +7805,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1950",
-        "cita": [
-            1402
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -8093,9 +7877,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1709",
-        "cita": [
-            716
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -8158,9 +7940,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1706",
-        "cita": [
-            1506
-        ],
+        "cita": [],
         "death_age": "66 years",
         "death_place": "",
         "death_year": "1772",
@@ -8240,9 +8020,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1724",
-        "cita": [
-            2054
-        ],
+        "cita": [],
         "death_age": "36 years",
         "death_place": "",
         "death_year": "1760",
@@ -8322,9 +8100,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1726",
-        "cita": [
-            539
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -8389,9 +8165,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1755",
-        "cita": [
-            1273
-        ],
+        "cita": [],
         "death_age": "41 years",
         "death_place": "",
         "death_year": "1796",
@@ -8471,9 +8245,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1715",
-        "cita": [
-            1524
-        ],
+        "cita": [],
         "death_age": "47 years",
         "death_place": "",
         "death_year": "1762",
@@ -8553,9 +8325,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1749",
-        "cita": [
-            1912
-        ],
+        "cita": [],
         "death_age": "1 year",
         "death_place": "",
         "death_year": "1750",
@@ -8633,9 +8403,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1722",
-        "cita": [
-            1698
-        ],
+        "cita": [],
         "death_age": "71 years",
         "death_place": "",
         "death_year": "1793",
@@ -8715,9 +8483,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1717",
-        "cita": [
-            185
-        ],
+        "cita": [],
         "death_age": "86 years",
         "death_place": "",
         "death_year": "1803",
@@ -8797,9 +8563,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1738",
-        "cita": [
-            1841
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -8862,9 +8626,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1745",
-        "cita": [
-            1561
-        ],
+        "cita": [],
         "death_age": "81 years",
         "death_place": "",
         "death_year": "1826",
@@ -8944,9 +8706,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1711",
-        "cita": [
-            1420
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -9011,9 +8771,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1742",
-        "cita": [
-            1119
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -9078,9 +8836,7 @@ I = [
         "attr": [],
         "birth_place": "Jennings, Jefferson Davis, LA, USA",
         "birth_year": "1682",
-        "cita": [
-            1529
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -9137,9 +8893,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1728",
-        "cita": [
-            1539
-        ],
+        "cita": [],
         "death_age": "43 years",
         "death_place": "",
         "death_year": "1771",
@@ -9219,9 +8973,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1719",
-        "cita": [
-            528
-        ],
+        "cita": [],
         "death_age": "61 years",
         "death_place": "",
         "death_year": "1780",
@@ -9301,9 +9053,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1708",
-        "cita": [
-            243
-        ],
+        "cita": [],
         "death_age": "94 years",
         "death_place": "",
         "death_year": "1802",
@@ -9383,9 +9133,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1735",
-        "cita": [
-            566
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -9450,9 +9198,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            607
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -9493,9 +9239,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1814
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -9536,9 +9280,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1452
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -9579,9 +9321,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            431
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -9622,9 +9362,7 @@ I = [
         "attr": [],
         "birth_place": "Mankato, MN, USA",
         "birth_year": "1965",
-        "cita": [
-            1253
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -9687,9 +9425,7 @@ I = [
         "attr": [],
         "birth_place": "Mankato, MN, USA",
         "birth_year": "1944",
-        "cita": [
-            1250
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -9754,9 +9490,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1916",
-        "cita": [
-            1269
-        ],
+        "cita": [],
         "death_age": "48 years, 2 months, 26 days",
         "death_place": "",
         "death_year": "1964",
@@ -9843,9 +9577,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1940",
-        "cita": [
-            1005
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -9925,9 +9657,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1946",
-        "cita": [
-            841
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -10005,9 +9735,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1980",
-        "cita": [
-            1405
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -10085,9 +9813,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1950",
-        "cita": [
-            698
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -10159,9 +9885,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1977",
-        "cita": [
-            410
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -10239,9 +9963,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            428
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -10288,9 +10010,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1087
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -10337,9 +10057,7 @@ I = [
         "attr": [],
         "birth_place": "Valdosta, Lowndes, GA, USA",
         "birth_year": "1786",
-        "cita": [
-            1559
-        ],
+        "cita": [],
         "death_age": "49 years, 6 months, 20 days",
         "death_place": "Holland-Grand Haven, MI, USA",
         "death_year": "1836",
@@ -10417,9 +10135,7 @@ I = [
         "attr": [],
         "birth_place": "Olympia, WA, USA",
         "birth_year": "1742",
-        "cita": [
-            1206
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -10482,9 +10198,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1730",
-        "cita": [
-            1441
-        ],
+        "cita": [],
         "death_age": "47 years",
         "death_place": "",
         "death_year": "1777",
@@ -10564,9 +10278,7 @@ I = [
         "attr": [],
         "birth_place": "Waterloo-Cedar Falls, IA, USA",
         "birth_year": "1715",
-        "cita": [
-            1311
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -10629,9 +10341,7 @@ I = [
         "attr": [],
         "birth_place": "Peoria, Peoria, IL, USA",
         "birth_year": "1685",
-        "cita": [
-            1484
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -10694,9 +10404,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1495
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -10745,9 +10453,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1199
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -10796,9 +10502,7 @@ I = [
         "attr": [],
         "birth_place": "Peoria, Peoria, IL, USA",
         "birth_year": "1674",
-        "cita": [
-            1315
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -10861,9 +10565,7 @@ I = [
         "attr": [],
         "birth_place": "Waterloo-Cedar Falls, IA, USA",
         "birth_year": "1711",
-        "cita": [
-            1367
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -10926,9 +10628,7 @@ I = [
         "attr": [],
         "birth_place": "Waterloo-Cedar Falls, IA, USA",
         "birth_year": "1713",
-        "cita": [
-            266
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -10991,9 +10691,7 @@ I = [
         "attr": [],
         "birth_place": "Hope, Hempstead, AR, USA",
         "birth_year": "1707",
-        "cita": [
-            145
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -11056,9 +10754,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1750",
-        "cita": [
-            619
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -11123,9 +10819,7 @@ I = [
         "attr": [],
         "birth_place": "Cordele, Crisp, GA, USA",
         "birth_year": "1702",
-        "cita": [
-            320
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Anderson, Madison, IN, USA",
         "death_year": "?",
@@ -11220,9 +10914,7 @@ I = [
         "attr": [],
         "birth_place": "Iowa City, Johnson, IA, USA",
         "birth_year": "1676",
-        "cita": [
-            2072
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -11287,9 +10979,7 @@ I = [
         "attr": [],
         "birth_place": "Peoria, Peoria, IL, USA",
         "birth_year": "1680",
-        "cita": [
-            1437
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -11352,9 +11042,7 @@ I = [
         "attr": [],
         "birth_place": "Waterloo-Cedar Falls, IA, USA",
         "birth_year": "1719",
-        "cita": [
-            147
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -11417,9 +11105,7 @@ I = [
         "attr": [],
         "birth_place": "Laredo, Webb, TX, USA",
         "birth_year": "?",
-        "cita": [
-            158
-        ],
+        "cita": [],
         "death_age": "less than about 59 years",
         "death_place": "Davenport, Scott, IA, USA",
         "death_year": "?",
@@ -11499,9 +11185,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1909
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -11550,9 +11234,7 @@ I = [
         "attr": [],
         "birth_place": "Peoria, Peoria, IL, USA",
         "birth_year": "1682",
-        "cita": [
-            382
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -11615,9 +11297,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1151
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -11666,9 +11346,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            868
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "Paris, TN, USA",
         "death_year": "?",
@@ -11731,9 +11409,7 @@ I = [
         "attr": [],
         "birth_place": "Peoria, Peoria, IL, USA",
         "birth_year": "1678",
-        "cita": [
-            381
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -11796,9 +11472,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1740",
-        "cita": [
-            37
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -11863,9 +11537,7 @@ I = [
         "attr": [],
         "birth_place": "Cordele, Crisp, GA, USA",
         "birth_year": "1704",
-        "cita": [
-            1189
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -11928,9 +11600,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1487
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -11979,9 +11649,7 @@ I = [
         "attr": [],
         "birth_place": "Wahpeton, ND, USA",
         "birth_year": "1709",
-        "cita": [
-            220
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -12046,9 +11714,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            128
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "Richmond, Madison, KY, USA",
         "death_year": "?",
@@ -12118,9 +11784,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            2003
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -12161,9 +11825,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1300
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "Tyler, Smith, TX, USA",
         "death_year": "1922",
@@ -12220,9 +11882,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            2028
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -12263,9 +11923,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1847",
-        "cita": [
-            1388
-        ],
+        "cita": [],
         "death_age": "50 years",
         "death_place": "",
         "death_year": "1897",
@@ -12335,9 +11993,7 @@ I = [
         "attr": [],
         "birth_place": "Houston, Harris, TX, USA",
         "birth_year": "1664",
-        "cita": [
-            1669
-        ],
+        "cita": [],
         "death_age": "more than 52 years, 3 months, 3 days",
         "death_place": "Waterloo-Cedar Falls, IA, USA",
         "death_year": "?",
@@ -12417,9 +12073,7 @@ I = [
         "attr": [],
         "birth_place": "Akron, OH, USA",
         "birth_year": "?",
-        "cita": [
-            238
-        ],
+        "cita": [],
         "death_age": "less than 57 years, 4 months, 16 days",
         "death_place": "Akron, OH, USA",
         "death_year": "1683",
@@ -12491,9 +12145,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1155
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -12550,9 +12202,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1803",
-        "cita": [
-            403
-        ],
+        "cita": [],
         "death_age": "62 years, 9 months, 18 days",
         "death_place": "",
         "death_year": "1866",
@@ -12624,9 +12274,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            116
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -12667,9 +12315,7 @@ I = [
         "attr": [],
         "birth_place": "Laredo, Webb, TX, USA",
         "birth_year": "?",
-        "cita": [
-            953
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Dallas, Dallas, TX, USA",
         "death_year": "?",
@@ -12741,9 +12387,7 @@ I = [
         "attr": [],
         "birth_place": "Lock Haven, PA, USA",
         "birth_year": "1806",
-        "cita": [
-            1232
-        ],
+        "cita": [],
         "death_age": "78 years, 11 months, 16 days",
         "death_place": "San Diego, San Diego, CA, USA",
         "death_year": "1885",
@@ -12838,9 +12482,7 @@ I = [
         "attr": [],
         "birth_place": "Lock Haven, PA, USA",
         "birth_year": "1832",
-        "cita": [
-            1072
-        ],
+        "cita": [],
         "death_age": "88 years, 8 months, 20 days",
         "death_place": "Guaynabo, PR, USA",
         "death_year": "1921",
@@ -12935,9 +12577,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1795
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -12986,9 +12626,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            224
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -13035,9 +12673,7 @@ I = [
         "attr": [],
         "birth_place": "Middlesborough, KY, USA",
         "birth_year": "1555",
-        "cita": [
-            57
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -13094,9 +12730,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1041
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -13143,9 +12777,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1752",
-        "cita": [
-            702
-        ],
+        "cita": [],
         "death_age": "53 years",
         "death_place": "",
         "death_year": "1805",
@@ -13223,9 +12855,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            443
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -13272,9 +12902,7 @@ I = [
         "attr": [],
         "birth_place": "Norwalk, OH, USA",
         "birth_year": "1718",
-        "cita": [
-            875
-        ],
+        "cita": [],
         "death_age": "65 years, 2 months, 30 days",
         "death_place": "Monroe, WI, USA",
         "death_year": "1783",
@@ -13354,9 +12982,7 @@ I = [
         "attr": [],
         "birth_place": "Traverse City, MI, USA",
         "birth_year": "1528",
-        "cita": [
-            115
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -13411,9 +13037,7 @@ I = [
         "attr": [],
         "birth_place": "Middlesborough, KY, USA",
         "birth_year": "1582",
-        "cita": [
-            1162
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -13478,9 +13102,7 @@ I = [
         "attr": [],
         "birth_place": "Albany, OR, USA",
         "birth_year": "1494",
-        "cita": [
-            1216
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -13535,9 +13157,7 @@ I = [
         "attr": [],
         "birth_place": "Casper, WY, USA",
         "birth_year": "1680",
-        "cita": [
-            1741
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Plattsburgh, Clinton, NY, USA",
         "death_year": "?",
@@ -13617,9 +13237,7 @@ I = [
         "attr": [],
         "birth_place": "Middlesborough, KY, USA",
         "birth_year": "1639",
-        "cita": [
-            1576
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -13684,9 +13302,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            98
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "1847",
@@ -13751,9 +13367,7 @@ I = [
         "attr": [],
         "birth_place": "Cambridge, MD, USA",
         "birth_year": "?",
-        "cita": [
-            1794
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Lincoln, Logan, IL, USA",
         "death_year": "?",
@@ -13848,9 +13462,7 @@ I = [
         "attr": [],
         "birth_place": "Scottsbluff, NE, USA",
         "birth_year": "1838",
-        "cita": [
-            1632
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -13913,9 +13525,7 @@ I = [
         "attr": [],
         "birth_place": "Cambridge, OH, USA",
         "birth_year": "1856",
-        "cita": [
-            650
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -13978,9 +13588,7 @@ I = [
         "attr": [],
         "birth_place": "Lynchburg, VA, USA",
         "birth_year": "1849",
-        "cita": [
-            532
-        ],
+        "cita": [],
         "death_age": "83 years, 8 months, 27 days",
         "death_place": "Oxford, MS, USA",
         "death_year": "1932",
@@ -14075,9 +13683,7 @@ I = [
         "attr": [],
         "birth_place": "Scottsbluff, NE, USA",
         "birth_year": "1836",
-        "cita": [
-            1158
-        ],
+        "cita": [],
         "death_age": "81 years, 3 months, 22 days",
         "death_place": "Muskegon, MI, USA",
         "death_year": "1918",
@@ -14172,9 +13778,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1264
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -14221,9 +13825,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1677
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -14270,9 +13872,7 @@ I = [
         "attr": [],
         "birth_place": "Scottsbluff, NE, USA",
         "birth_year": "1846",
-        "cita": [
-            1282
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -14337,9 +13937,7 @@ I = [
         "attr": [],
         "birth_place": "Stephenville, Erath, TX, USA",
         "birth_year": "1854",
-        "cita": [
-            646
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -14402,9 +14000,7 @@ I = [
         "attr": [],
         "birth_place": "Albany, OR, USA",
         "birth_year": "?",
-        "cita": [
-            114
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -14459,9 +14055,7 @@ I = [
         "attr": [],
         "birth_place": "Scottsbluff, NE, USA",
         "birth_year": "1846",
-        "cita": [
-            298
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -14524,9 +14118,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1790
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -14575,9 +14167,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            2075
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -14626,9 +14216,7 @@ I = [
         "attr": [],
         "birth_place": "Cambridge, MD, USA",
         "birth_year": "20",
-        "cita": [
-            1277
-        ],
+        "cita": [],
         "death_age": "greater than 110 years",
         "death_place": "Billings, MT, USA",
         "death_year": "1866",
@@ -14723,9 +14311,7 @@ I = [
         "attr": [],
         "birth_place": "Monroe, WI, USA",
         "birth_year": "1759",
-        "cita": [
-            1501
-        ],
+        "cita": [],
         "death_age": "81 years, 12 days",
         "death_place": "",
         "death_year": "1840",
@@ -14803,9 +14389,7 @@ I = [
         "attr": [],
         "birth_place": "Burlington, VT, USA",
         "birth_year": "1851",
-        "cita": [
-            302
-        ],
+        "cita": [],
         "death_age": "51 years, 11 months, 24 days",
         "death_place": "Corbin, Whitley, KY, USA",
         "death_year": "1903",
@@ -14898,9 +14482,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            836
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -14941,9 +14523,7 @@ I = [
         "attr": [],
         "birth_place": "Andrews, Andrews, TX, USA",
         "birth_year": "1968",
-        "cita": [
-            406
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -15023,9 +14603,7 @@ I = [
         "attr": [],
         "birth_place": "Kerrville, Kerr, TX, USA",
         "birth_year": "1962",
-        "cita": [
-            1630
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -15105,9 +14683,7 @@ I = [
         "attr": [],
         "birth_place": "Ellensburg, WA, USA",
         "birth_year": "?",
-        "cita": [
-            512
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -15170,9 +14746,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1850",
-        "cita": [
-            769
-        ],
+        "cita": [],
         "death_age": "71 years, 11 months, 28 days",
         "death_place": "",
         "death_year": "1922",
@@ -15250,9 +14824,7 @@ I = [
         "attr": [],
         "birth_place": "Andrews, Andrews, TX, USA",
         "birth_year": "?",
-        "cita": [
-            958
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -15315,9 +14887,7 @@ I = [
         "attr": [],
         "birth_place": "Andrews, Andrews, TX, USA",
         "birth_year": "1965",
-        "cita": [
-            1281
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -15397,9 +14967,7 @@ I = [
         "attr": [],
         "birth_place": "Andrews, Andrews, TX, USA",
         "birth_year": "1816",
-        "cita": [
-            75
-        ],
+        "cita": [],
         "death_age": "41 years",
         "death_place": "Hinesville, Liberty, GA, USA",
         "death_year": "1857",
@@ -15494,9 +15062,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1869",
-        "cita": [
-            452
-        ],
+        "cita": [],
         "death_age": "20 years, 6 months, 14 days",
         "death_place": "",
         "death_year": "1890",
@@ -15566,9 +15132,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1163
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -15615,9 +15179,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1959
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -15666,9 +15228,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1984
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -15715,9 +15275,7 @@ I = [
         "attr": [],
         "birth_place": "Allentown, PA, USA",
         "birth_year": "1961",
-        "cita": [
-            1609
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -15797,9 +15355,7 @@ I = [
         "attr": [],
         "birth_place": "East Liverpool, OH, USA",
         "birth_year": "?",
-        "cita": [
-            1184
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Fargo, ND, USA",
         "death_year": "?",
@@ -15886,9 +15442,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1213
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -15927,9 +15481,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1846
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -15968,9 +15520,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            160
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -16017,9 +15567,7 @@ I = [
         "attr": [],
         "birth_place": "Kerrville, Kerr, TX, USA",
         "birth_year": "1976",
-        "cita": [
-            1824
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -16097,9 +15645,7 @@ I = [
         "attr": [],
         "birth_place": "Summerville, Chattooga, GA, USA",
         "birth_year": "?",
-        "cita": [
-            659
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Emporia, Lyon, KS, USA",
         "death_year": "?",
@@ -16177,9 +15723,7 @@ I = [
         "attr": [],
         "birth_place": "Summerville, Chattooga, GA, USA",
         "birth_year": "?",
-        "cita": [
-            1750
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -16242,9 +15786,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1896",
-        "cita": [
-            837
-        ],
+        "cita": [],
         "death_age": "75 years, 9 months, 10 days",
         "death_place": "",
         "death_year": "1972",
@@ -16329,9 +15871,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1985
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -16378,9 +15918,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            632
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -16427,9 +15965,7 @@ I = [
         "attr": [],
         "birth_place": "Loveland, Larimer, CO, USA",
         "birth_year": "1824",
-        "cita": [
-            402
-        ],
+        "cita": [],
         "death_age": "71 years, 1 month, 8 days",
         "death_place": "Ottawa, La Salle, IL, USA",
         "death_year": "1895",
@@ -16516,9 +16052,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1793
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -16557,9 +16091,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            236
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -16598,9 +16130,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "?",
-        "cita": [
-            1258
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -16665,9 +16195,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            984
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -16716,9 +16244,7 @@ I = [
         "attr": [],
         "birth_place": "Hastings, NE, USA",
         "birth_year": "1929",
-        "cita": [
-            1385
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -16798,9 +16324,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1991",
-        "cita": [
-            915
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -16878,9 +16402,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            752
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -16927,9 +16449,7 @@ I = [
         "attr": [],
         "birth_place": "Kerrville, Kerr, TX, USA",
         "birth_year": "1963",
-        "cita": [
-            2039
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -17009,9 +16529,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1554
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -17058,9 +16576,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1647
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -17123,9 +16639,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            286
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -17172,9 +16686,7 @@ I = [
         "attr": [],
         "birth_place": "Andrews, Andrews, TX, USA",
         "birth_year": "1963",
-        "cita": [
-            823
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -17254,9 +16766,7 @@ I = [
         "attr": [],
         "birth_place": "Worthington, MN, USA",
         "birth_year": "1890",
-        "cita": [
-            1688
-        ],
+        "cita": [],
         "death_age": "55 years, 3 months, 15 days",
         "death_place": "Worthington, MN, USA",
         "death_year": "1945",
@@ -17351,9 +16861,7 @@ I = [
         "attr": [],
         "birth_place": "Summerville, Chattooga, GA, USA",
         "birth_year": "1885",
-        "cita": [
-            1903
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -17416,9 +16924,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            170
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "1920",
@@ -17481,9 +16987,7 @@ I = [
         "attr": [],
         "birth_place": "Andrews, Andrews, TX, USA",
         "birth_year": "1820",
-        "cita": [
-            172
-        ],
+        "cita": [],
         "death_age": "39 years, 8 days",
         "death_place": "Beaumont, Jefferson, TX, USA",
         "death_year": "1859",
@@ -17578,9 +17082,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            447
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -17619,9 +17121,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            843
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -17678,9 +17178,7 @@ I = [
         "attr": [],
         "birth_place": "Andrews, Andrews, TX, USA",
         "birth_year": "?",
-        "cita": [
-            910
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -17735,9 +17233,7 @@ I = [
         "attr": [],
         "birth_place": "Andrews, Andrews, TX, USA",
         "birth_year": "1883",
-        "cita": [
-            1623
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Andrews, Andrews, TX, USA",
         "death_year": "?",
@@ -17832,9 +17328,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1883",
-        "cita": [
-            90
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -17897,9 +17391,7 @@ I = [
         "attr": [],
         "birth_place": "Willimantic, Windham, CT, USA",
         "birth_year": "?",
-        "cita": [
-            2034
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -17964,9 +17456,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1874
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -18029,9 +17519,7 @@ I = [
         "attr": [],
         "birth_place": "Kerrville, Kerr, TX, USA",
         "birth_year": "1973",
-        "cita": [
-            1088
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -18111,9 +17599,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            757
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -18152,9 +17638,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1879",
-        "cita": [
-            862
-        ],
+        "cita": [],
         "death_age": "60 years, 28 days",
         "death_place": "",
         "death_year": "1939",
@@ -18234,9 +17718,7 @@ I = [
         "attr": [],
         "birth_place": "Andrews, Andrews, TX, USA",
         "birth_year": "1970",
-        "cita": [
-            1634
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -18316,9 +17798,7 @@ I = [
         "attr": [],
         "birth_place": "Andrews, Andrews, TX, USA",
         "birth_year": "?",
-        "cita": [
-            144
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Port St, Lucie, FL, USA",
         "death_year": "?",
@@ -18413,9 +17893,7 @@ I = [
         "attr": [],
         "birth_place": "Summerville, Chattooga, GA, USA",
         "birth_year": "?",
-        "cita": [
-            1553
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -18480,9 +17958,7 @@ I = [
         "attr": [],
         "birth_place": "Summerville, Chattooga, GA, USA",
         "birth_year": "1886",
-        "cita": [
-            247
-        ],
+        "cita": [],
         "death_age": "91 years, 25 days",
         "death_place": "Emporia, Lyon, KS, USA",
         "death_year": "1977",
@@ -18560,9 +18036,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1940",
-        "cita": [
-            1604
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -18634,9 +18108,7 @@ I = [
         "attr": [],
         "birth_place": "Philadelphia, PA, USA",
         "birth_year": "1926",
-        "cita": [
-            91
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -18716,9 +18188,7 @@ I = [
         "attr": [],
         "birth_place": "Andrews, Andrews, TX, USA",
         "birth_year": "1837",
-        "cita": [
-            2027
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Andrews, Andrews, TX, USA",
         "death_year": "?",
@@ -18813,9 +18283,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1943",
-        "cita": [
-            1574
-        ],
+        "cita": [],
         "death_age": "29 years, 6 months, 15 days",
         "death_place": "",
         "death_year": "1973",
@@ -18895,9 +18363,7 @@ I = [
         "attr": [],
         "birth_place": "Summerville, Chattooga, GA, USA",
         "birth_year": "?",
-        "cita": [
-            334
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Summerville, Chattooga, GA, USA",
         "death_year": "1975",
@@ -18992,9 +18458,7 @@ I = [
         "attr": [],
         "birth_place": "Vallejo, Solano, CA, USA",
         "birth_year": "1963",
-        "cita": [
-            28
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -19074,9 +18538,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1562
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -19115,9 +18577,7 @@ I = [
         "attr": [],
         "birth_place": "Andrews, Andrews, TX, USA",
         "birth_year": "?",
-        "cita": [
-            161
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Andrews, Andrews, TX, USA",
         "death_year": "?",
@@ -19212,9 +18672,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1840",
-        "cita": [
-            618
-        ],
+        "cita": [],
         "death_age": "44 years, 7 months, 5 days",
         "death_place": "",
         "death_year": "1885",
@@ -19292,9 +18750,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            622
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -19333,9 +18789,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1557
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -19382,9 +18836,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1888",
-        "cita": [
-            1782
-        ],
+        "cita": [],
         "death_age": "53 years, 3 months, 27 days",
         "death_place": "",
         "death_year": "1942",
@@ -19464,9 +18916,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1984",
-        "cita": [
-            718
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -19544,9 +18994,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            592
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -19609,9 +19057,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            568
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -19658,9 +19104,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1870",
-        "cita": [
-            1797
-        ],
+        "cita": [],
         "death_age": "72 years, 9 months, 16 days",
         "death_place": "",
         "death_year": "1943",
@@ -19730,9 +19174,7 @@ I = [
         "attr": [],
         "birth_place": "Andrews, Andrews, TX, USA",
         "birth_year": "?",
-        "cita": [
-            1887
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Andrews, Andrews, TX, USA",
         "death_year": "?",
@@ -19827,9 +19269,7 @@ I = [
         "attr": [],
         "birth_place": "Andrews, Andrews, TX, USA",
         "birth_year": "?",
-        "cita": [
-            1896
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Summerville, Chattooga, GA, USA",
         "death_year": "?",
@@ -19924,9 +19364,7 @@ I = [
         "attr": [],
         "birth_place": "Summerville, Chattooga, GA, USA",
         "birth_year": "1851",
-        "cita": [
-            1899
-        ],
+        "cita": [],
         "death_age": "101 years, 5 months, 24 days",
         "death_place": "Summerville, Chattooga, GA, USA",
         "death_year": "1952",
@@ -20021,9 +19459,7 @@ I = [
         "attr": [],
         "birth_place": "Union, SC, USA",
         "birth_year": "1854",
-        "cita": [
-            397
-        ],
+        "cita": [],
         "death_age": "74 years, 11 months, 2 days",
         "death_place": "Worthington, MN, USA",
         "death_year": "1928",
@@ -20118,9 +19554,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            501
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "1944",
@@ -20175,9 +19609,7 @@ I = [
         "attr": [],
         "birth_place": "Cornelia, Habersham, GA, USA",
         "birth_year": "?",
-        "cita": [
-            418
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -20232,9 +19664,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1336
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -20283,9 +19713,7 @@ I = [
         "attr": [],
         "birth_place": "Newberry, SC, USA",
         "birth_year": "1941",
-        "cita": [
-            1633
-        ],
+        "cita": [],
         "death_age": "53 years, 9 months, 20 days",
         "death_place": "Moberly, MO, USA",
         "death_year": "1994",
@@ -20378,9 +19806,7 @@ I = [
         "attr": [],
         "birth_place": "Hutchinson, Reno, KS, USA",
         "birth_year": "1971",
-        "cita": [
-            1910
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -20435,9 +19861,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1796
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -20486,9 +19910,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1032
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -20529,9 +19951,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            713
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -20572,9 +19992,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1897",
-        "cita": [
-            710
-        ],
+        "cita": [],
         "death_age": "51 years, 10 months, 3 days",
         "death_place": "",
         "death_year": "1949",
@@ -20654,9 +20072,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1868",
-        "cita": [
-            1965
-        ],
+        "cita": [],
         "death_age": "51 years, 11 months, 25 days",
         "death_place": "",
         "death_year": "1920",
@@ -20729,9 +20145,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1901",
-        "cita": [
-            1980
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -20796,9 +20210,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1789",
-        "cita": [
-            328
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -20855,9 +20267,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1929
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -20920,9 +20330,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1039
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -20963,9 +20371,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            582
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -21028,9 +20434,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            886
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -21093,9 +20497,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            829
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -21152,9 +20554,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1988",
-        "cita": [
-            939
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -21232,9 +20632,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1805
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -21297,9 +20695,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1637
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -21356,9 +20752,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1939",
-        "cita": [
-            384
-        ],
+        "cita": [],
         "death_age": "45 years, 4 months, 27 days",
         "death_place": "Iron Mountain, MI, USA",
         "death_year": "1985",
@@ -21430,9 +20824,7 @@ I = [
         "attr": [],
         "birth_place": "Statesboro, Bulloch, GA, USA",
         "birth_year": "1971",
-        "cita": [
-            561
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -21510,9 +20902,7 @@ I = [
         "attr": [],
         "birth_place": "Chico, Butte, CA, USA",
         "birth_year": "1969",
-        "cita": [
-            1146
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -21590,9 +20980,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1948",
-        "cita": [
-            1091
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -21664,9 +21052,7 @@ I = [
         "attr": [],
         "birth_place": "Durham, NC, USA",
         "birth_year": "?",
-        "cita": [
-            1320
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Dickinson, ND, USA",
         "death_year": "?",
@@ -21761,9 +21147,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            543
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -21810,9 +21194,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1476
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -21859,9 +21241,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1642",
-        "cita": [
-            1774
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -21918,9 +21298,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1656
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -21967,9 +21345,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1659
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -22016,9 +21392,7 @@ I = [
         "attr": [],
         "birth_place": "Bennettsville, SC, USA",
         "birth_year": "1705",
-        "cita": [
-            742
-        ],
+        "cita": [],
         "death_age": "50 years, 4 months, 9 days",
         "death_place": "Duluth, MN, USA",
         "death_year": "1755",
@@ -22098,9 +21472,7 @@ I = [
         "attr": [],
         "birth_place": "Tampa, Hillsborough, FL, USA",
         "birth_year": "1675",
-        "cita": [
-            271
-        ],
+        "cita": [],
         "death_age": "66 years",
         "death_place": "Martinsville, VA, USA",
         "death_year": "1741",
@@ -22180,9 +21552,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1755",
-        "cita": [
-            474
-        ],
+        "cita": [],
         "death_age": "83 years, 11 months, 12 days",
         "death_place": "",
         "death_year": "1839",
@@ -22260,9 +21630,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            601
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -22309,9 +21677,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            676
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -22358,9 +21724,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1702
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -22407,9 +21771,7 @@ I = [
         "attr": [],
         "birth_place": "Martinsville, VA, USA",
         "birth_year": "1727",
-        "cita": [
-            1765
-        ],
+        "cita": [],
         "death_age": "46 years, 8 months, 1 day",
         "death_place": "Duluth, MN, USA",
         "death_year": "1773",
@@ -22489,9 +21851,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            515
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -22532,9 +21892,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1873
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -22575,9 +21933,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1584",
-        "cita": [
-            516
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -22634,9 +21990,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            449
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -22677,9 +22031,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1291
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -22720,9 +22072,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            52
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "Guayama, PR, USA",
         "death_year": "?",
@@ -22779,9 +22129,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1781",
-        "cita": [
-            1682
-        ],
+        "cita": [],
         "death_age": "67 years, 5 months, 26 days",
         "death_place": "",
         "death_year": "1849",
@@ -22861,9 +22209,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1963
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -22910,9 +22256,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            2084
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -22959,9 +22303,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            287
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -23008,9 +22350,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1846",
-        "cita": [
-            1842
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -23067,9 +22407,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1558
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -23116,9 +22454,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1153
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -23165,9 +22501,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1879",
-        "cita": [
-            569
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -23230,9 +22564,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1156
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -23279,9 +22611,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            919
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -23322,9 +22652,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1984",
-        "cita": [
-            1063
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -23402,9 +22730,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1986",
-        "cita": [
-            1067
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -23482,9 +22808,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1985",
-        "cita": [
-            5
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -23562,9 +22886,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1868
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -23621,9 +22943,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            634
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -23664,9 +22984,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            942
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -23707,9 +23025,7 @@ I = [
         "attr": [],
         "birth_place": "Brevard, NC, USA",
         "birth_year": "?",
-        "cita": [
-            1483
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -23766,9 +23082,7 @@ I = [
         "attr": [],
         "birth_place": "Brownwood, Harris, TX, USA",
         "birth_year": "1858",
-        "cita": [
-            394
-        ],
+        "cita": [],
         "death_age": "36 years, 1 month, 8 days",
         "death_place": "Beckley, WV, USA",
         "death_year": "1895",
@@ -23863,9 +23177,7 @@ I = [
         "attr": [],
         "birth_place": "City of The Dalles, OR, USA",
         "birth_year": "1791",
-        "cita": [
-            1169
-        ],
+        "cita": [],
         "death_age": "71 years, 1 month, 12 days",
         "death_place": "Marshall, MN, USA",
         "death_year": "1863",
@@ -23960,9 +23272,7 @@ I = [
         "attr": [],
         "birth_place": "Albany, Dougherty, GA, USA",
         "birth_year": "1705",
-        "cita": [
-            1252
-        ],
+        "cita": [],
         "death_age": "58 years",
         "death_place": "Savannah, Chatham, GA, USA",
         "death_year": "1763",
@@ -24042,9 +23352,7 @@ I = [
         "attr": [],
         "birth_place": "Lock Haven, PA, USA",
         "birth_year": "1742",
-        "cita": [
-            834
-        ],
+        "cita": [],
         "death_age": "75 years",
         "death_place": "Merced, Merced, CA, USA",
         "death_year": "1817",
@@ -24124,9 +23432,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1954",
-        "cita": [
-            985
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -24198,9 +23504,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1580
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -24241,9 +23545,7 @@ I = [
         "attr": [],
         "birth_place": "Davenport, Scott, IA, USA",
         "birth_year": "?",
-        "cita": [
-            1940
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -24301,9 +23603,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1346
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -24344,9 +23644,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            386
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -24387,9 +23685,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1495",
-        "cita": [
-            191
-        ],
+        "cita": [],
         "death_age": "75 years",
         "death_place": "",
         "death_year": "1570",
@@ -24469,9 +23765,7 @@ I = [
         "attr": [],
         "birth_place": "Hilo, HI, USA",
         "birth_year": "1530",
-        "cita": [
-            542
-        ],
+        "cita": [],
         "death_age": "58 years",
         "death_place": "Elizabeth City, NC, USA",
         "death_year": "1588",
@@ -24566,9 +23860,7 @@ I = [
         "attr": [],
         "birth_place": "Corvallis, OR, USA",
         "birth_year": "?",
-        "cita": [
-            1086
-        ],
+        "cita": [],
         "death_age": "about 31 years",
         "death_place": "Safford, Graham, AZ, USA",
         "death_year": "1614",
@@ -24664,9 +23956,7 @@ I = [
         "attr": [],
         "birth_place": "Amsterdam, Montgomery, NY, USA",
         "birth_year": "1607",
-        "cita": [
-            1546
-        ],
+        "cita": [],
         "death_age": "77 years",
         "death_place": "Lake County, IL, USA",
         "death_year": "1684",
@@ -24746,9 +24036,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            110
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "1796",
@@ -24813,9 +24101,7 @@ I = [
         "attr": [],
         "birth_place": "Lake County, IL, USA",
         "birth_year": "1688",
-        "cita": [
-            17
-        ],
+        "cita": [],
         "death_age": "54 years, 4 months, 22 days",
         "death_place": "Red Bluff, Tehama, CA, USA",
         "death_year": "1742",
@@ -24895,9 +24181,7 @@ I = [
         "attr": [],
         "birth_place": "Plainview, Houston, TX, USA",
         "birth_year": "1662",
-        "cita": [
-            1714
-        ],
+        "cita": [],
         "death_age": "64 years, 11 months",
         "death_place": "Poplar Bluff, MO, USA",
         "death_year": "1727",
@@ -24977,9 +24261,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1455",
-        "cita": [
-            2053
-        ],
+        "cita": [],
         "death_age": "59 years",
         "death_place": "",
         "death_year": "1514",
@@ -25059,9 +24341,7 @@ I = [
         "attr": [],
         "birth_place": "Plainview, Houston, TX, USA",
         "birth_year": "1655",
-        "cita": [
-            1536
-        ],
+        "cita": [],
         "death_age": "70 years, 10 months",
         "death_place": "Lake County, IL, USA",
         "death_year": "1726",
@@ -25141,9 +24421,7 @@ I = [
         "attr": [],
         "birth_place": "Poplar Bluff, MO, USA",
         "birth_year": "1703",
-        "cita": [
-            1911
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Chillicothe, OH, USA",
         "death_year": "?",
@@ -25223,9 +24501,7 @@ I = [
         "attr": [],
         "birth_place": "Poplar Bluff, MO, USA",
         "birth_year": "1693",
-        "cita": [
-            1308
-        ],
+        "cita": [],
         "death_age": "72 years, 11 months, 23 days",
         "death_place": "",
         "death_year": "1766",
@@ -25305,9 +24581,7 @@ I = [
         "attr": [],
         "birth_place": "Plainview, Houston, TX, USA",
         "birth_year": "1642",
-        "cita": [
-            432
-        ],
+        "cita": [],
         "death_age": "71 years, 6 months, 6 days",
         "death_place": "Poplar Bluff, MO, USA",
         "death_year": "1713",
@@ -25387,9 +24661,7 @@ I = [
         "attr": [],
         "birth_place": "Plainview, Houston, TX, USA",
         "birth_year": "1668",
-        "cita": [
-            1900
-        ],
+        "cita": [],
         "death_age": "86 years, 5 months, 24 days",
         "death_place": "Poplar Bluff, MO, USA",
         "death_year": "1754",
@@ -25469,9 +24741,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1785",
-        "cita": [
-            1816
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -25526,9 +24796,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1195
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -25569,9 +24837,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1727",
-        "cita": [
-            268
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -25628,9 +24894,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1540
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "Ashtabula, OH, USA",
         "death_year": "1757",
@@ -25685,9 +24949,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1892
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -25728,9 +24990,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1926",
-        "cita": [
-            1114
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -25800,9 +25060,7 @@ I = [
         "attr": [],
         "birth_place": "Cincinnati, OH, USA",
         "birth_year": "1812",
-        "cita": [
-            1377
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Norfolk, NE, USA",
         "death_year": "?",
@@ -25889,9 +25147,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1907
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -25932,9 +25188,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1112
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -25975,9 +25229,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1244
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -26018,9 +25270,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            2089
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -26061,9 +25311,7 @@ I = [
         "attr": [],
         "birth_place": "Hammond, Tangipahoa, LA, USA",
         "birth_year": "?",
-        "cita": [
-            1641
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -26118,9 +25366,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1964",
-        "cita": [
-            1383
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -26192,9 +25438,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1728
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "Anderson, SC, USA",
         "death_year": "?",
@@ -26251,9 +25495,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1073
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -26294,9 +25536,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1563
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -26337,9 +25577,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            295
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -26380,9 +25618,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            281
-        ],
+        "cita": [],
         "death_age": "less than about 59 years",
         "death_place": "Greenville, SC, USA",
         "death_year": "?",
@@ -26454,9 +25690,7 @@ I = [
         "attr": [],
         "birth_place": "Lake Havasu City, Mohave, AZ, USA",
         "birth_year": "1896",
-        "cita": [
-            997
-        ],
+        "cita": [],
         "death_age": "91 years, 10 months, 3 days",
         "death_place": "Montrose, Montrose, CO, USA",
         "death_year": "1988",
@@ -26551,9 +25785,7 @@ I = [
         "attr": [],
         "birth_place": "Racine, WI, USA",
         "birth_year": "?",
-        "cita": [
-            64
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -26616,9 +25848,7 @@ I = [
         "attr": [],
         "birth_place": "Williamsport, PA, USA",
         "birth_year": "1911",
-        "cita": [
-            944
-        ],
+        "cita": [],
         "death_age": "81 years, 5 months, 2 days",
         "death_place": "Grand Forks, ND, USA",
         "death_year": "1992",
@@ -26713,9 +25943,7 @@ I = [
         "attr": [],
         "birth_place": "Racine, WI, USA",
         "birth_year": "?",
-        "cita": [
-            1990
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -26778,9 +26006,7 @@ I = [
         "attr": [],
         "birth_place": "Racine, WI, USA",
         "birth_year": "?",
-        "cita": [
-            1223
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -26843,9 +26069,7 @@ I = [
         "attr": [],
         "birth_place": "Racine, WI, USA",
         "birth_year": "?",
-        "cita": [
-            1003
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -26908,9 +26132,7 @@ I = [
         "attr": [],
         "birth_place": "Racine, WI, USA",
         "birth_year": "?",
-        "cita": [
-            308
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -26973,9 +26195,7 @@ I = [
         "attr": [],
         "birth_place": "Detroit, MI, USA",
         "birth_year": "?",
-        "cita": [
-            1860
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -27032,9 +26252,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1968",
-        "cita": [
-            1683
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -27114,9 +26332,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1921",
-        "cita": [
-            460
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -27196,9 +26412,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1947",
-        "cita": [
-            1292
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -27278,9 +26492,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1948",
-        "cita": [
-            1997
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -27360,9 +26572,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1894",
-        "cita": [
-            1344
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -27419,9 +26629,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1975",
-        "cita": [
-            914
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -27499,9 +26707,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1944",
-        "cita": [
-            525
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -27581,9 +26787,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1925",
-        "cita": [
-            1995
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -27663,9 +26867,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1950",
-        "cita": [
-            840
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -27745,9 +26947,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1972",
-        "cita": [
-            766
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -27825,9 +27025,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1947",
-        "cita": [
-            1587
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -27907,9 +27105,7 @@ I = [
         "attr": [],
         "birth_place": "Youngstown, OH, USA",
         "birth_year": "1990",
-        "cita": [
-            1036
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -27987,9 +27183,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1973",
-        "cita": [
-            1898
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -28067,9 +27261,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1971",
-        "cita": [
-            804
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -28147,9 +27339,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1978",
-        "cita": [
-            746
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -28227,9 +27417,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1949",
-        "cita": [
-            1811
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -28309,9 +27497,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1952",
-        "cita": [
-            723
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -28392,9 +27578,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1975",
-        "cita": [
-            637
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -28472,9 +27656,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1972",
-        "cita": [
-            1736
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -28552,9 +27734,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1973",
-        "cita": [
-            706
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -28634,9 +27814,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1942",
-        "cita": [
-            240
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -28716,9 +27894,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1968",
-        "cita": [
-            708
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -28798,9 +27974,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1956",
-        "cita": [
-            2067
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -28880,9 +28054,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1959",
-        "cita": [
-            1678
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -28963,9 +28135,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1918",
-        "cita": [
-            120
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -29045,9 +28215,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1976",
-        "cita": [
-            1799
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -29125,9 +28293,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1940",
-        "cita": [
-            1289
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -29207,9 +28373,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1927",
-        "cita": [
-            1233
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -29289,9 +28453,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            97
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -29332,9 +28494,7 @@ I = [
         "attr": [],
         "birth_place": "Ocean City, NJ, USA",
         "birth_year": "?",
-        "cita": [
-            2007
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Marquette, MI, USA",
         "death_year": "1832",
@@ -29421,9 +28581,7 @@ I = [
         "attr": [],
         "birth_place": "Canon City, CO, USA",
         "birth_year": "1805",
-        "cita": [
-            1120
-        ],
+        "cita": [],
         "death_age": "61 years, 4 months, 24 days",
         "death_place": "San Diego, San Diego, CA, USA",
         "death_year": "1867",
@@ -29518,9 +28676,7 @@ I = [
         "attr": [],
         "birth_place": "Woodward, OK, USA",
         "birth_year": "1765",
-        "cita": [
-            139
-        ],
+        "cita": [],
         "death_age": "106 years, 23 days",
         "death_place": "Morristown, TN, USA",
         "death_year": "1871",
@@ -29615,9 +28771,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            229
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -29658,9 +28812,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            78
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -29701,9 +28853,7 @@ I = [
         "attr": [],
         "birth_place": "Phoenix, Maricopa, AZ, USA",
         "birth_year": "?",
-        "cita": [
-            260
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -29768,9 +28918,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            475
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -29811,9 +28959,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1978
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -29854,9 +29000,7 @@ I = [
         "attr": [],
         "birth_place": "Bogalusa, Washington, LA, USA",
         "birth_year": "?",
-        "cita": [
-            1866
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -29913,9 +29057,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1894",
-        "cita": [
-            2009
-        ],
+        "cita": [],
         "death_age": "85 years, 7 months, 27 days",
         "death_place": "",
         "death_year": "1980",
@@ -29987,9 +29129,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            610
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -30038,9 +29178,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            970
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -30081,9 +29219,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1743",
-        "cita": [
-            982
-        ],
+        "cita": [],
         "death_age": "81 years, 4 months, 19 days",
         "death_place": "",
         "death_year": "1824",
@@ -30163,9 +29299,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1762",
-        "cita": [
-            511
-        ],
+        "cita": [],
         "death_age": "83 years, 1 month, 25 days",
         "death_place": "Keene, NH, USA",
         "death_year": "1845",
@@ -30260,9 +29394,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            233
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -30303,9 +29435,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1881
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -30352,9 +29482,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            771
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -30395,9 +29523,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            419
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -30438,9 +29564,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1140
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "Rolla, MO, USA",
         "death_year": "?",
@@ -30512,9 +29636,7 @@ I = [
         "attr": [],
         "birth_place": "Waterloo-Cedar Falls, IA, USA",
         "birth_year": "?",
-        "cita": [
-            485
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -30579,9 +29701,7 @@ I = [
         "attr": [],
         "birth_place": "Madera, Madera, CA, USA",
         "birth_year": "1825",
-        "cita": [
-            35
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "London, Laurel, KY, USA",
         "death_year": "?",
@@ -30661,9 +29781,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            620
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -30702,9 +29820,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1974
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -30745,9 +29861,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            923
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -30788,9 +29902,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            493
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "Summerville, Chattooga, GA, USA",
         "death_year": "1932",
@@ -30847,9 +29959,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1843
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -30890,9 +30000,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            732
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -30939,9 +30047,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1471
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -30988,9 +30094,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1653
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -31037,9 +30141,7 @@ I = [
         "attr": [],
         "birth_place": "Columbia, MO, USA",
         "birth_year": "1761",
-        "cita": [
-            1924
-        ],
+        "cita": [],
         "death_age": "90 years, 1 month, 30 days",
         "death_place": "Jackson, MI, USA",
         "death_year": "1851",
@@ -31134,9 +30236,7 @@ I = [
         "attr": [],
         "birth_place": "Jamestowna, NY, USA",
         "birth_year": "1763",
-        "cita": [
-            1581
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Toledo, OH, USA",
         "death_year": "?",
@@ -31231,9 +30331,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            2008
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -31280,9 +30378,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            192
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "Redding, Shasta, CA, USA",
         "death_year": "1631",
@@ -31345,9 +30441,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1187
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -31394,9 +30488,7 @@ I = [
         "attr": [],
         "birth_place": "York, PA, USA",
         "birth_year": "?",
-        "cita": [
-            1660
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "",
         "death_year": "1822",
@@ -31476,9 +30568,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            470
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -31525,9 +30615,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            376
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -31574,9 +30662,7 @@ I = [
         "attr": [],
         "birth_place": "Gaffney, SC, USA",
         "birth_year": "?",
-        "cita": [
-            1533
-        ],
+        "cita": [],
         "death_age": "about 52 years, 8 months, 15 days",
         "death_place": "Coldwater, MI, USA",
         "death_year": "1700",
@@ -31657,9 +30743,7 @@ I = [
         "attr": [],
         "birth_place": "Kennewick, WA, USA",
         "birth_year": "?",
-        "cita": [
-            249
-        ],
+        "cita": [],
         "death_age": "about 57 years, 9 months, 11 days",
         "death_place": "McAlester, OK, USA",
         "death_year": "?",
@@ -31731,9 +30815,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1035
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -31774,9 +30856,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1972",
-        "cita": [
-            218
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -31854,9 +30934,7 @@ I = [
         "attr": [],
         "birth_place": "Hanover, PA, USA",
         "birth_year": "?",
-        "cita": [
-            1565
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -31913,9 +30991,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1625
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -31962,9 +31038,7 @@ I = [
         "attr": [],
         "birth_place": "Lock Haven, PA, USA",
         "birth_year": "1811",
-        "cita": [
-            1596
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -32021,9 +31095,7 @@ I = [
         "attr": [],
         "birth_place": "Orlando, Orange, FL, USA",
         "birth_year": "?",
-        "cita": [
-            1222
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -32086,9 +31158,7 @@ I = [
         "attr": [],
         "birth_place": "Mountain Home, Elmore, ID, USA",
         "birth_year": "1839",
-        "cita": [
-            1828
-        ],
+        "cita": [],
         "death_age": "54 years, 6 months, 15 days",
         "death_place": "Elkhart, Elkhart, IN, USA",
         "death_year": "1893",
@@ -32183,9 +31253,7 @@ I = [
         "attr": [],
         "birth_place": "New Ulm, MN, USA",
         "birth_year": "?",
-        "cita": [
-            1620
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -32248,9 +31316,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            76
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -32297,9 +31363,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            14
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -32346,9 +31410,7 @@ I = [
         "attr": [],
         "birth_place": "Fallon, NV, USA",
         "birth_year": "1821",
-        "cita": [
-            903
-        ],
+        "cita": [],
         "death_age": "79 years, 10 months, 24 days",
         "death_place": "Dixon, Lee, IL, USA",
         "death_year": "1901",
@@ -32444,9 +31506,7 @@ I = [
         "attr": [],
         "birth_place": "Marshall, MN, USA",
         "birth_year": "1827",
-        "cita": [
-            416
-        ],
+        "cita": [],
         "death_age": "86 years, 1 month, 25 days",
         "death_place": "",
         "death_year": "1913",
@@ -32526,9 +31586,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1260
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -32575,9 +31633,7 @@ I = [
         "attr": [],
         "birth_place": "Cookeville, TN, USA",
         "birth_year": "?",
-        "cita": [
-            1735
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -32640,9 +31696,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            865
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -32689,9 +31743,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1141
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -32738,9 +31790,7 @@ I = [
         "attr": [],
         "birth_place": "Port Angeles, WA, USA",
         "birth_year": "1818",
-        "cita": [
-            1523
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -32805,9 +31855,7 @@ I = [
         "attr": [],
         "birth_place": "Cookeville, TN, USA",
         "birth_year": "?",
-        "cita": [
-            1100
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -32870,9 +31918,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            545
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -32919,9 +31965,7 @@ I = [
         "attr": [],
         "birth_place": "Cookeville, TN, USA",
         "birth_year": "1850",
-        "cita": [
-            979
-        ],
+        "cita": [],
         "death_age": "64 years, 4 months, 25 days",
         "death_place": "",
         "death_year": "1915",
@@ -33001,9 +32045,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            30
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -33050,9 +32092,7 @@ I = [
         "attr": [],
         "birth_place": "Dixon, Lee, IL, USA",
         "birth_year": "1853",
-        "cita": [
-            857
-        ],
+        "cita": [],
         "death_age": "36 years, 11 months, 17 days",
         "death_place": "Point Pleasant, WV, USA",
         "death_year": "1890",
@@ -33147,9 +32187,7 @@ I = [
         "attr": [],
         "birth_place": "Port Angeles, WA, USA",
         "birth_year": "1808",
-        "cita": [
-            1642
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -33214,9 +32252,7 @@ I = [
         "attr": [],
         "birth_place": "Marshall, MN, USA",
         "birth_year": "1830",
-        "cita": [
-            1752
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -33281,9 +32317,7 @@ I = [
         "attr": [],
         "birth_place": "Cookeville, TN, USA",
         "birth_year": "?",
-        "cita": [
-            1507
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -33346,9 +32380,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            437
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -33395,9 +32427,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            808
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -33444,9 +32474,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1960
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "Dover, Kent, DE, USA",
         "death_year": "?",
@@ -33503,9 +32531,7 @@ I = [
         "attr": [],
         "birth_place": "Albany, Dougherty, GA, USA",
         "birth_year": "?",
-        "cita": [
-            258
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Terre Haute, Vigo, IN, USA",
         "death_year": "?",
@@ -33593,9 +32619,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1324
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -33642,9 +32666,7 @@ I = [
         "attr": [],
         "birth_place": "Port Angeles, WA, USA",
         "birth_year": "1813",
-        "cita": [
-            65
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Dixon, Lee, IL, USA",
         "death_year": "?",
@@ -33722,9 +32744,7 @@ I = [
         "attr": [],
         "birth_place": "Cookeville, TN, USA",
         "birth_year": "?",
-        "cita": [
-            292
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -33787,9 +32807,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            900
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -33836,9 +32854,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1306
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -33885,9 +32901,7 @@ I = [
         "attr": [],
         "birth_place": "Marshall, MN, USA",
         "birth_year": "1824",
-        "cita": [
-            2050
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Bemidji, MN, USA",
         "death_year": "?",
@@ -33965,9 +32979,7 @@ I = [
         "attr": [],
         "birth_place": "Bogalusa, Washington, LA, USA",
         "birth_year": "?",
-        "cita": [
-            800
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Rome, Floyd, GA, USA",
         "death_year": "?",
@@ -34048,9 +33060,7 @@ I = [
         "attr": [],
         "birth_place": "Colorado Springs, El Paso, CO, USA",
         "birth_year": "1739",
-        "cita": [
-            323
-        ],
+        "cita": [],
         "death_age": "81 years, 10 months, 7 days",
         "death_place": "Selinsgrove, PA, USA",
         "death_year": "1821",
@@ -34146,9 +33156,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            2018
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -34195,9 +33203,7 @@ I = [
         "attr": [],
         "birth_place": "Sterling, Logan, CO, USA",
         "birth_year": "1787",
-        "cita": [
-            937
-        ],
+        "cita": [],
         "death_age": "69 years, 6 months, 2 days",
         "death_place": "Marshall, MN, USA",
         "death_year": "1857",
@@ -34292,9 +33298,7 @@ I = [
         "attr": [],
         "birth_place": "Marshall, MN, USA",
         "birth_year": "1833",
-        "cita": [
-            1117
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -34359,9 +33363,7 @@ I = [
         "attr": [],
         "birth_place": "Lewistown, PA, USA",
         "birth_year": "1785",
-        "cita": [
-            1916
-        ],
+        "cita": [],
         "death_age": "57 years, 4 months, 3 days",
         "death_place": "Tuskegee, Macon, AL, USA",
         "death_year": "1842",
@@ -34456,9 +33458,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1716
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -34505,9 +33505,7 @@ I = [
         "attr": [],
         "birth_place": "Port Angeles, WA, USA",
         "birth_year": "1815",
-        "cita": [
-            71
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -34570,9 +33568,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            424
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -34619,9 +33615,7 @@ I = [
         "attr": [],
         "birth_place": "Marshall, MN, USA",
         "birth_year": "1836",
-        "cita": [
-            1008
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -34686,9 +33680,7 @@ I = [
         "attr": [],
         "birth_place": "Cookeville, TN, USA",
         "birth_year": "?",
-        "cita": [
-            507
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -34751,9 +33743,7 @@ I = [
         "attr": [],
         "birth_place": "Cookeville, TN, USA",
         "birth_year": "?",
-        "cita": [
-            1791
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Cookeville, TN, USA",
         "death_year": "?",
@@ -34831,9 +33821,7 @@ I = [
         "attr": [],
         "birth_place": "Waterloo-Cedar Falls, IA, USA",
         "birth_year": "1773",
-        "cita": [
-            905
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -34890,9 +33878,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1786",
-        "cita": [
-            492
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -34949,9 +33935,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            969
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -34992,9 +33976,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            510
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -35035,9 +34017,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            47
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "Columbus, MS, USA",
         "death_year": "?",
@@ -35094,9 +34074,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1914
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -35159,9 +34137,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            878
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -35224,9 +34200,7 @@ I = [
         "attr": [],
         "birth_place": "Columbus, MS, USA",
         "birth_year": "?",
-        "cita": [
-            1502
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -35304,9 +34278,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            877
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -35369,9 +34341,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            465
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "San Angelo, Tom Green, TX, USA",
         "death_year": "?",
@@ -35428,9 +34398,7 @@ I = [
         "attr": [],
         "birth_place": "Jamestowna, NY, USA",
         "birth_year": "1799",
-        "cita": [
-            241
-        ],
+        "cita": [],
         "death_age": "80 years, 2 months, 16 days",
         "death_place": "",
         "death_year": "1879",
@@ -35518,9 +34486,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1560
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -35561,9 +34527,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            336
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -35604,9 +34568,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1283
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -35647,9 +34609,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1977
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -35690,9 +34650,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1406
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -35733,9 +34691,7 @@ I = [
         "attr": [],
         "birth_place": "Pampa, Gray, TX, USA",
         "birth_year": "1969",
-        "cita": [
-            1742
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -35813,9 +34769,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1977",
-        "cita": [
-            1065
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -35893,9 +34847,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1945",
-        "cita": [
-            237
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -35975,9 +34927,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1973",
-        "cita": [
-            457
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -36055,9 +35005,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1976",
-        "cita": [
-            1409
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -36135,9 +35083,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1786",
-        "cita": [
-            1832
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -36202,9 +35148,7 @@ I = [
         "attr": [],
         "birth_place": "Plattsburgh, Clinton, NY, USA",
         "birth_year": "1812",
-        "cita": [
-            613
-        ],
+        "cita": [],
         "death_age": "61 years, 7 months, 10 days",
         "death_place": "Fremont, NE, USA",
         "death_year": "1873",
@@ -36299,9 +35243,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1818",
-        "cita": [
-            853
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -36366,9 +35308,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1798",
-        "cita": [
-            1717
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -36433,9 +35373,7 @@ I = [
         "attr": [],
         "birth_place": "Palatka, Putnam, FL, USA",
         "birth_year": "1855",
-        "cita": [
-            1245
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -36498,9 +35436,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            854
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -36549,9 +35485,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1792",
-        "cita": [
-            2021
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -36616,9 +35550,7 @@ I = [
         "attr": [],
         "birth_place": "Salinas, Monterey, CA, USA",
         "birth_year": "1850",
-        "cita": [
-            693
-        ],
+        "cita": [],
         "death_age": "81 years, 1 month, 24 days",
         "death_place": "Milledgeville, Baldwin, GA, USA",
         "death_year": "1931",
@@ -36713,9 +35645,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1796",
-        "cita": [
-            1670
-        ],
+        "cita": [],
         "death_age": "87 years",
         "death_place": "",
         "death_year": "1883",
@@ -36795,9 +35725,7 @@ I = [
         "attr": [],
         "birth_place": "Palatka, Putnam, FL, USA",
         "birth_year": "1858",
-        "cita": [
-            82
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -36860,9 +35788,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1542
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -36911,9 +35837,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1777",
-        "cita": [
-            1116
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -36978,9 +35902,7 @@ I = [
         "attr": [],
         "birth_place": "Troy, Pike, AL, USA",
         "birth_year": "1860",
-        "cita": [
-            961
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -37043,9 +35965,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1832",
-        "cita": [
-            679
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -37108,9 +36028,7 @@ I = [
         "attr": [],
         "birth_place": "Thomaston, Upson, GA, USA",
         "birth_year": "1842",
-        "cita": [
-            1818
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -37173,9 +36091,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1775",
-        "cita": [
-            1376
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -37240,9 +36156,7 @@ I = [
         "attr": [],
         "birth_place": "Thomaston, Upson, GA, USA",
         "birth_year": "1852",
-        "cita": [
-            377
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -37305,9 +36219,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1790",
-        "cita": [
-            1779
-        ],
+        "cita": [],
         "death_age": "55 years",
         "death_place": "",
         "death_year": "1845",
@@ -37387,9 +36299,7 @@ I = [
         "attr": [],
         "birth_place": "Thomaston, Upson, GA, USA",
         "birth_year": "1840",
-        "cita": [
-            675
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -37452,9 +36362,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1815",
-        "cita": [
-            534
-        ],
+        "cita": [],
         "death_age": "60 years",
         "death_place": "",
         "death_year": "1875",
@@ -37534,9 +36442,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1784",
-        "cita": [
-            1433
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -37601,9 +36507,7 @@ I = [
         "attr": [],
         "birth_place": "Thomaston, Upson, GA, USA",
         "birth_year": "1844",
-        "cita": [
-            677
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -37666,9 +36570,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1779",
-        "cita": [
-            1606
-        ],
+        "cita": [],
         "death_age": "54 years",
         "death_place": "",
         "death_year": "1833",
@@ -37748,9 +36650,7 @@ I = [
         "attr": [],
         "birth_place": "Thomaston, Upson, GA, USA",
         "birth_year": "1847",
-        "cita": [
-            1605
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -37813,9 +36713,7 @@ I = [
         "attr": [],
         "birth_place": "Santa Ana, Orange, CA, USA",
         "birth_year": "?",
-        "cita": [
-            1312
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -37879,9 +36777,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1527
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -37923,9 +36819,7 @@ I = [
         "attr": [],
         "birth_place": "Worthington, MN, USA",
         "birth_year": "1855",
-        "cita": [
-            849
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -37988,9 +36882,7 @@ I = [
         "attr": [],
         "birth_place": "Escanaba, MI, USA",
         "birth_year": "1825",
-        "cita": [
-            51
-        ],
+        "cita": [],
         "death_age": "76 years, 11 months, 29 days",
         "death_place": "Ottawa, La Salle, IL, USA",
         "death_year": "1902",
@@ -38086,9 +36978,7 @@ I = [
         "attr": [],
         "birth_place": "Laramie, WY, USA",
         "birth_year": "1787",
-        "cita": [
-            1339
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Oshkosh, WI, USA",
         "death_year": "?",
@@ -38160,9 +37050,7 @@ I = [
         "attr": [],
         "birth_place": "Del Rio, Val Verde, TX, USA",
         "birth_year": "?",
-        "cita": [
-            712
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Lumberton, NC, USA",
         "death_year": "?",
@@ -38249,9 +37137,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1559",
-        "cita": [
-            1218
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -38308,9 +37194,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1341
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -38351,9 +37235,7 @@ I = [
         "attr": [],
         "birth_place": "Salina, Saline, KS, USA",
         "birth_year": "1959",
-        "cita": [
-            1422
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -38425,9 +37307,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            2079
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -38468,9 +37348,7 @@ I = [
         "attr": [],
         "birth_place": "Chillicothe, OH, USA",
         "birth_year": "1985",
-        "cita": [
-            4
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -38548,9 +37426,7 @@ I = [
         "attr": [],
         "birth_place": "Hot Springs, Garland, AR, USA",
         "birth_year": "1983",
-        "cita": [
-            645
-        ],
+        "cita": [],
         "death_age": "1 month, 27 days",
         "death_place": "Hot Springs, Garland, AR, USA",
         "death_year": "1983",
@@ -38628,9 +37504,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            2026
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -38671,9 +37545,7 @@ I = [
         "attr": [],
         "birth_place": "Carbondale, Jackson, IL, USA",
         "birth_year": "1988",
-        "cita": [
-            1411
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -38751,9 +37623,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            504
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -38794,9 +37664,7 @@ I = [
         "attr": [],
         "birth_place": "Lakeland, Polk, FL, USA",
         "birth_year": "1802",
-        "cita": [
-            1202
-        ],
+        "cita": [],
         "death_age": "91 years",
         "death_place": "Norfolk, NE, USA",
         "death_year": "1893",
@@ -38883,9 +37751,7 @@ I = [
         "attr": [],
         "birth_place": "Provo, UT, USA",
         "birth_year": "1843",
-        "cita": [
-            2085
-        ],
+        "cita": [],
         "death_age": "69 years, 11 months, 4 days",
         "death_place": "Syracuse, Onondaga, NY, USA",
         "death_year": "1913",
@@ -38981,9 +37847,7 @@ I = [
         "attr": [],
         "birth_place": "Steubenville, OH, USA",
         "birth_year": "1774",
-        "cita": [
-            951
-        ],
+        "cita": [],
         "death_age": "75 years, 10 months, 25 days",
         "death_place": "Orlando, Orange, FL, USA",
         "death_year": "1849",
@@ -39055,9 +37919,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1950",
-        "cita": [
-            1516
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -39129,9 +37991,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1865
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "Olean, Cattaraugus, NY, USA",
         "death_year": "?",
@@ -39211,9 +38071,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1570
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -39254,9 +38112,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1749
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -39295,9 +38151,7 @@ I = [
         "attr": [],
         "birth_place": "Kendallville, Noble, IN, USA",
         "birth_year": "1916",
-        "cita": [
-            1520
-        ],
+        "cita": [],
         "death_age": "67 years, 27 days",
         "death_place": "Ottawa, La Salle, IL, USA",
         "death_year": "1983",
@@ -39384,9 +38238,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1748
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -39443,9 +38295,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            562
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -39486,9 +38336,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1917
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -39529,9 +38377,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            177
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -39572,9 +38418,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            414
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -39613,9 +38457,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1664",
-        "cita": [
-            1011
-        ],
+        "cita": [],
         "death_age": "80 years, 5 months, 22 days",
         "death_place": "",
         "death_year": "1744",
@@ -39695,9 +38537,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            167
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -39760,9 +38600,7 @@ I = [
         "attr": [],
         "birth_place": "Wilmington, OH, USA",
         "birth_year": "?",
-        "cita": [
-            327
-        ],
+        "cita": [],
         "death_age": "about 43 years, 30 days",
         "death_place": "Wilmington, OH, USA",
         "death_year": "1598",
@@ -39842,9 +38680,7 @@ I = [
         "attr": [],
         "birth_place": "Hilo, HI, USA",
         "birth_year": "?",
-        "cita": [
-            901
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -39901,9 +38737,7 @@ I = [
         "attr": [],
         "birth_place": "Bainbridge, Decatur, GA, USA",
         "birth_year": "?",
-        "cita": [
-            731
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Hilo, HI, USA",
         "death_year": "1557",
@@ -39983,9 +38817,7 @@ I = [
         "attr": [],
         "birth_place": "Wilmington, OH, USA",
         "birth_year": "1582",
-        "cita": [
-            1333
-        ],
+        "cita": [],
         "death_age": "76 years, 1 month, 17 days",
         "death_place": "Portales, NM, USA",
         "death_year": "1658",
@@ -40065,9 +38897,7 @@ I = [
         "attr": [],
         "birth_place": "Ukiah, Mendocino, CA, USA",
         "birth_year": "?",
-        "cita": [
-            720
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -40132,9 +38962,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1328
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -40175,9 +39003,7 @@ I = [
         "attr": [],
         "birth_place": "Bangor, ME, USA",
         "birth_year": "1738",
-        "cita": [
-            1764
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Thomasville, Fulton, GA, USA",
         "death_year": "?",
@@ -40272,9 +39098,7 @@ I = [
         "attr": [],
         "birth_place": "Warren-Farmington Hills-Troy, MI, USA",
         "birth_year": "1798",
-        "cita": [
-            1855
-        ],
+        "cita": [],
         "death_age": "70 years, 9 days",
         "death_place": "Arlington, VA, USA",
         "death_year": "1868",
@@ -40369,9 +39193,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1769",
-        "cita": [
-            257
-        ],
+        "cita": [],
         "death_age": "55 years, 7 months, 2 days",
         "death_place": "Springfield, MO, USA",
         "death_year": "1824",
@@ -40451,9 +39273,7 @@ I = [
         "attr": [],
         "birth_place": "Lawton, OK, USA",
         "birth_year": "1823",
-        "cita": [
-            954
-        ],
+        "cita": [],
         "death_age": "80 years, 1 month, 18 days",
         "death_place": "Bridgeton, NJ, USA",
         "death_year": "1904",
@@ -40548,9 +39368,7 @@ I = [
         "attr": [],
         "birth_place": "Yazoo City, MS, USA",
         "birth_year": "1700",
-        "cita": [
-            1598
-        ],
+        "cita": [],
         "death_age": "44 years",
         "death_place": "Pecos, Reeves, TX, USA",
         "death_year": "1744",
@@ -40645,9 +39463,7 @@ I = [
         "attr": [],
         "birth_place": "Sherman-Denison, TX, USA",
         "birth_year": "?",
-        "cita": [
-            734
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Raleigh-Cary, NC, USA",
         "death_year": "1709",
@@ -40734,9 +39550,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1022
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "Little Rock, Pulaski, AR, USA",
         "death_year": "?",
@@ -40808,9 +39622,7 @@ I = [
         "attr": [],
         "birth_place": "Davenport, Scott, IA, USA",
         "birth_year": "?",
-        "cita": [
-            1603
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -40865,9 +39677,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1746",
-        "cita": [
-            108
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -40924,9 +39734,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1748",
-        "cita": [
-            350
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -40983,9 +39791,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1712",
-        "cita": [
-            1644
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -41042,9 +39848,7 @@ I = [
         "attr": [],
         "birth_place": "Medford, OR, USA",
         "birth_year": "1981",
-        "cita": [
-            1190
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -41122,9 +39926,7 @@ I = [
         "attr": [],
         "birth_place": "Muskogee, OK, USA",
         "birth_year": "1947",
-        "cita": [
-            597
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -41196,9 +39998,7 @@ I = [
         "attr": [],
         "birth_place": "Taos, NM, USA",
         "birth_year": "1973",
-        "cita": [
-            1817
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -41276,9 +40076,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1204
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "Mount Vernon, WA, USA",
         "death_year": "?",
@@ -41335,9 +40133,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1923",
-        "cita": [
-            1009
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -41409,9 +40205,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1050
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "Sterling, Whiteside, IL, USA",
         "death_year": "?",
@@ -41468,9 +40262,7 @@ I = [
         "attr": [],
         "birth_place": "Del Rio, Val Verde, TX, USA",
         "birth_year": "?",
-        "cita": [
-            835
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Andrews, Andrews, TX, USA",
         "death_year": "?",
@@ -41557,9 +40349,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            573
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "Whitewater, WI, USA",
         "death_year": "1963",
@@ -41639,9 +40429,7 @@ I = [
         "attr": [],
         "birth_place": "Loveland, Larimer, CO, USA",
         "birth_year": "?",
-        "cita": [
-            1526
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -41698,9 +40486,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1322
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -41741,9 +40527,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            221
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -41790,9 +40574,7 @@ I = [
         "attr": [],
         "birth_place": "Fergus Falls, MN, USA",
         "birth_year": "1997",
-        "cita": [
-            1950
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -41870,9 +40652,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1984",
-        "cita": [
-            348
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -41950,9 +40730,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1989",
-        "cita": [
-            1567
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -42030,9 +40808,7 @@ I = [
         "attr": [],
         "birth_place": "Steubenville, OH, USA",
         "birth_year": "1825",
-        "cita": [
-            1831
-        ],
+        "cita": [],
         "death_age": "62 years, 2 months, 10 days",
         "death_place": "Oakland, Alameda, CA, USA",
         "death_year": "1887",
@@ -42125,9 +40901,7 @@ I = [
         "attr": [],
         "birth_place": "Worthington, MN, USA",
         "birth_year": "1999",
-        "cita": [
-            536
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -42205,9 +40979,7 @@ I = [
         "attr": [],
         "birth_place": "Centralia, WA, USA",
         "birth_year": "1870",
-        "cita": [
-            989
-        ],
+        "cita": [],
         "death_age": "30 years, 3 months, 21 days",
         "death_place": "Columbus, Bartholomew, IN, USA",
         "death_year": "1900",
@@ -42302,9 +41074,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1950",
-        "cita": [
-            87
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -42384,9 +41154,7 @@ I = [
         "attr": [],
         "birth_place": "Starkville, MS, USA",
         "birth_year": "1870",
-        "cita": [
-            1803
-        ],
+        "cita": [],
         "death_age": "less than 9 years, 6 months, 19 days",
         "death_place": "",
         "death_year": "?",
@@ -42464,9 +41232,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1949",
-        "cita": [
-            1017
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -42546,9 +41312,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1948",
-        "cita": [
-            1029
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -42628,9 +41392,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1957",
-        "cita": [
-            197
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -42710,9 +41472,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1912",
-        "cita": [
-            1493
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -42784,9 +41544,7 @@ I = [
         "attr": [],
         "birth_place": "Hagerstown, MD, USA",
         "birth_year": "1888",
-        "cita": [
-            1373
-        ],
+        "cita": [],
         "death_age": "30 years, 23 days",
         "death_place": "Columbus, Bartholomew, IN, USA",
         "death_year": "1918",
@@ -42881,9 +41639,7 @@ I = [
         "attr": [],
         "birth_place": "Denver-Aurora, CO, USA",
         "birth_year": "1920",
-        "cita": [
-            1619
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -42955,9 +41711,7 @@ I = [
         "attr": [],
         "birth_place": "McMinnville, TN, USA",
         "birth_year": "1908",
-        "cita": [
-            32
-        ],
+        "cita": [],
         "death_age": "67 years, 9 days",
         "death_place": "Baraboo, WI, USA",
         "death_year": "1975",
@@ -43044,9 +41798,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1960",
-        "cita": [
-            681
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -43126,9 +41878,7 @@ I = [
         "attr": [],
         "birth_place": "Bloomington, Monroe, IN, USA",
         "birth_year": "1914",
-        "cita": [
-            616
-        ],
+        "cita": [],
         "death_age": "2 years, 25 days",
         "death_place": "Paragould, Greene, AR, USA",
         "death_year": "1916",
@@ -43213,9 +41963,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1985",
-        "cita": [
-            1085
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -43293,9 +42041,7 @@ I = [
         "attr": [],
         "birth_place": "Hood River, OR, USA",
         "birth_year": "1883",
-        "cita": [
-            1139
-        ],
+        "cita": [],
         "death_age": "52 years, 5 months, 2 days",
         "death_place": "Gary, Lake, IN, USA",
         "death_year": "1936",
@@ -43390,9 +42136,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1956",
-        "cita": [
-            866
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -43470,9 +42214,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1883",
-        "cita": [
-            1251
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Hays, Ellis, KS, USA",
         "death_year": "?",
@@ -43550,9 +42292,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1868",
-        "cita": [
-            1510
-        ],
+        "cita": [],
         "death_age": "6 months, 5 days",
         "death_place": "",
         "death_year": "1869",
@@ -43645,9 +42385,7 @@ I = [
         "attr": [],
         "birth_place": "Portsmouth, OH, USA",
         "birth_year": "1895",
-        "cita": [
-            816
-        ],
+        "cita": [],
         "death_age": "88 years, 3 months",
         "death_place": "Twin Falls, Twin Falls, ID, USA",
         "death_year": "1984",
@@ -43700,9 +42438,7 @@ I = [
         ],
         "famc": [
             {
-                "cita": [
-                    2835
-                ],
+                "cita": [],
                 "index": 246,
                 "note": "",
                 "to_father": "Birth",
@@ -43744,9 +42480,7 @@ I = [
         "attr": [],
         "birth_place": "Vernon, Wilbarger, TX, USA",
         "birth_year": "?",
-        "cita": [
-            1671
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -43827,9 +42561,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1945",
-        "cita": [
-            1763
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -43909,9 +42641,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1955",
-        "cita": [
-            1197
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -43991,9 +42721,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1972",
-        "cita": [
-            205
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -44071,9 +42799,7 @@ I = [
         "attr": [],
         "birth_place": "Ponca City, OK, USA",
         "birth_year": "1909",
-        "cita": [
-            93
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -44145,9 +42871,7 @@ I = [
         "attr": [],
         "birth_place": "LaGrange, GA, USA",
         "birth_year": "1928",
-        "cita": [
-            1701
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -44212,9 +42936,7 @@ I = [
         "attr": [],
         "birth_place": "Orlando, Orange, FL, USA",
         "birth_year": "1860",
-        "cita": [
-            1334
-        ],
+        "cita": [],
         "death_age": "80 years, 5 months, 16 days",
         "death_place": "Killeen, Bell, TX, USA",
         "death_year": "1941",
@@ -44309,9 +43031,7 @@ I = [
         "attr": [],
         "birth_place": "Norwich, New London, CT, USA",
         "birth_year": "1950",
-        "cita": [
-            661
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -44391,9 +43111,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1975",
-        "cita": [
-            208
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -44473,9 +43191,7 @@ I = [
         "attr": [],
         "birth_place": "Paragould, Greene, AR, USA",
         "birth_year": "1880",
-        "cita": [
-            738
-        ],
+        "cita": [],
         "death_age": "83 years, 9 months, 9 days",
         "death_place": "Columbus, Bartholomew, IN, USA",
         "death_year": "1964",
@@ -44570,9 +43286,7 @@ I = [
         "attr": [],
         "birth_place": "Paragould, Greene, AR, USA",
         "birth_year": "1876",
-        "cita": [
-            1133
-        ],
+        "cita": [],
         "death_age": "52 years, 7 months, 3 days",
         "death_place": "Cedar City, UT, USA",
         "death_year": "1929",
@@ -44667,9 +43381,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1961",
-        "cita": [
-            1193
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -44749,9 +43461,7 @@ I = [
         "attr": [],
         "birth_place": "Lafayette, Tippecanoe, IN, USA",
         "birth_year": "1925",
-        "cita": [
-            975
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -44831,9 +43541,7 @@ I = [
         "attr": [],
         "birth_place": "Steubenville, OH, USA",
         "birth_year": "1792",
-        "cita": [
-            782
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Shawnee, OK, USA",
         "death_year": "?",
@@ -44905,9 +43613,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1952",
-        "cita": [
-            16
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -44987,9 +43693,7 @@ I = [
         "attr": [],
         "birth_place": "Moscow, Latah, ID, USA",
         "birth_year": "1823",
-        "cita": [
-            1953
-        ],
+        "cita": [],
         "death_age": "87 years, 2 months, 3 days",
         "death_place": "Twin Falls, Twin Falls, ID, USA",
         "death_year": "1911",
@@ -45080,9 +43784,7 @@ I = [
         "addrs": [],
         "assoc": [
             {
-                "cita": [
-                    2829
-                ],
+                "cita": [],
                 "note": "",
                 "person": 621,
                 "relationship": "Godfather"
@@ -45104,22 +43806,13 @@ I = [
         ],
         "birth_place": "Great Falls, MT, USA",
         "birth_year": "1855",
-        "cita": [
-            973,
-            974,
-            2826
-        ],
+        "cita": [],
         "death_age": "56 years, 7 days",
         "death_place": "Twin Falls, Twin Falls, ID, USA",
         "death_year": "1911",
         "events": [
             {
-                "cita": [
-                    0,
-                    2831,
-                    2838,
-                    2839
-                ],
+                "cita": [],
                 "date": "1855-06-21",
                 "date_iso": "21 JUN 1855",
                 "descr": "Birth of Garner, Lewis Anderson",
@@ -45183,9 +43876,7 @@ I = [
         "names": [
             {
                 "call": "Anderson",
-                "cita": [
-                    2827
-                ],
+                "cita": [],
                 "date": "1875-04-01",
                 "fam_nick": "Beauregard",
                 "full": "Garner von Zieli\u0144ski, Lewis Anderson Sr",
@@ -45202,9 +43893,7 @@ I = [
             },
             {
                 "call": "",
-                "cita": [
-                    2833
-                ],
+                "cita": [],
                 "date": "",
                 "fam_nick": "",
                 "full": "Garner, Louis",
@@ -45251,9 +43940,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "?",
-        "cita": [
-            1428
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -45334,9 +44021,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1951",
-        "cita": [
-            24
-        ],
+        "cita": [],
         "death_age": "6 months, 23 days",
         "death_place": "Ottawa, La Salle, IL, USA",
         "death_year": "1952",
@@ -45414,9 +44099,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            883
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -45463,9 +44146,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1626
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -45514,9 +44195,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1962",
-        "cita": [
-            2064
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -45596,9 +44275,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1851",
-        "cita": [
-            872
-        ],
+        "cita": [],
         "death_age": "5 months, 20 days",
         "death_place": "",
         "death_year": "1852",
@@ -45691,9 +44368,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1851",
-        "cita": [
-            565
-        ],
+        "cita": [],
         "death_age": "6 years, 7 months, 12 days",
         "death_place": "",
         "death_year": "1858",
@@ -45786,9 +44461,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            709
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -45837,9 +44510,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1978",
-        "cita": [
-            2073
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -45917,9 +44588,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1969",
-        "cita": [
-            331
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -45999,9 +44668,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1975",
-        "cita": [
-            918
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -46079,9 +44746,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1948",
-        "cita": [
-            1945
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -46161,9 +44826,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1954",
-        "cita": [
-            1132
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -46243,9 +44906,7 @@ I = [
         "attr": [],
         "birth_place": "Orlando, Orange, FL, USA",
         "birth_year": "1850",
-        "cita": [
-            1674
-        ],
+        "cita": [],
         "death_age": "less than 10 years",
         "death_place": "",
         "death_year": "?",
@@ -46323,9 +44984,7 @@ I = [
         "attr": [],
         "birth_place": "Paragould, Greene, AR, USA",
         "birth_year": "1878",
-        "cita": [
-            1310
-        ],
+        "cita": [],
         "death_age": "42 years, 7 months, 16 days",
         "death_place": "Astoria, OR, USA",
         "death_year": "1921",
@@ -46403,9 +45062,7 @@ I = [
         "attr": [],
         "birth_place": "Columbus, Bartholomew, IN, USA",
         "birth_year": "1956",
-        "cita": [
-            1998
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -46485,9 +45142,7 @@ I = [
         "attr": [],
         "birth_place": "Columbus, Bartholomew, IN, USA",
         "birth_year": "1918",
-        "cita": [
-            441
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -46559,9 +45214,7 @@ I = [
         "attr": [],
         "birth_place": "Denver-Aurora, CO, USA",
         "birth_year": "1857",
-        "cita": [
-            1445
-        ],
+        "cita": [],
         "death_age": "79 years, 10 months, 10 days",
         "death_place": "Alice, Jim Wells, TX, USA",
         "death_year": "1937",
@@ -46656,9 +45309,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1973",
-        "cita": [
-            1317
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -46736,9 +45387,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1947",
-        "cita": [
-            790
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -46818,9 +45467,7 @@ I = [
         "attr": [],
         "birth_place": "Worthington, MN, USA",
         "birth_year": "1952",
-        "cita": [
-            669
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -46900,9 +45547,7 @@ I = [
         "attr": [],
         "birth_place": "Paragould, Greene, AR, USA",
         "birth_year": "1863",
-        "cita": [
-            630
-        ],
+        "cita": [],
         "death_age": "76 years, 10 months, 13 days",
         "death_place": "Marshalltown, Marshall, IA, USA",
         "death_year": "1940",
@@ -47012,9 +45657,7 @@ I = [
         "attr": [],
         "birth_place": "Aberdeen, WA, USA",
         "birth_year": "1827",
-        "cita": [
-            182
-        ],
+        "cita": [],
         "death_age": "88 years, 8 months, 28 days",
         "death_place": "Portsmouth, OH, USA",
         "death_year": "1916",
@@ -47109,9 +45752,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1983",
-        "cita": [
-            81
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -47189,9 +45830,7 @@ I = [
         "attr": [],
         "birth_place": "Worthington, MN, USA",
         "birth_year": "1965",
-        "cita": [
-            1835
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -47271,9 +45910,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1993",
-        "cita": [
-            863
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -47351,9 +45988,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1275
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -47400,9 +46035,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1318
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -47449,9 +46082,7 @@ I = [
         "attr": [],
         "birth_place": "Paragould, Greene, AR, USA",
         "birth_year": "1882",
-        "cita": [
-            801
-        ],
+        "cita": [],
         "death_age": "64 years, 8 months, 6 days",
         "death_place": "Battle Creek, MI, USA",
         "death_year": "1946",
@@ -47546,9 +46177,7 @@ I = [
         "attr": [],
         "birth_place": "Gloversville, Fulton, NY, USA",
         "birth_year": "1923",
-        "cita": [
-            898
-        ],
+        "cita": [],
         "death_age": "73 years, 3 months, 17 days",
         "death_place": "Ottawa, La Salle, IL, USA",
         "death_year": "1997",
@@ -47628,9 +46257,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1950",
-        "cita": [
-            326
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -47711,9 +46338,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1952",
-        "cita": [
-            1607
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -47791,9 +46416,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1936",
-        "cita": [
-            602
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -47871,9 +46494,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1956",
-        "cita": [
-            58
-        ],
+        "cita": [],
         "death_age": "42 years, 9 days",
         "death_place": "",
         "death_year": "1998",
@@ -47953,9 +46574,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1961",
-        "cita": [
-            411
-        ],
+        "cita": [],
         "death_age": "5 years, 1 month, 11 days",
         "death_place": "Ottawa, La Salle, IL, USA",
         "death_year": "1967",
@@ -48033,9 +46652,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1927",
-        "cita": [
-            322
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -48115,9 +46732,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1890",
-        "cita": [
-            12
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -48174,9 +46789,7 @@ I = [
         "attr": [],
         "birth_place": "Wheeling, WV-OH, USA",
         "birth_year": "1987",
-        "cita": [
-            1692
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -48254,9 +46867,7 @@ I = [
         "attr": [],
         "birth_place": "Port Angeles, WA, USA",
         "birth_year": "1810",
-        "cita": [
-            781
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -48319,9 +46930,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1957",
-        "cita": [
-            1134
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -48393,9 +47002,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            480
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -48434,9 +47041,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            908
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -48475,9 +47080,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1943",
-        "cita": [
-            1432
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -48549,9 +47152,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1480
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -48592,9 +47193,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            670
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "Kingsport, TN, USA",
         "death_year": "1979",
@@ -48651,9 +47250,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            760
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "Sioux Falls, SD, USA",
         "death_year": "?",
@@ -48710,9 +47307,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1270
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -48753,9 +47348,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1159
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -48796,9 +47389,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            535
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -48839,9 +47430,7 @@ I = [
         "attr": [],
         "birth_place": "Deming, NM, USA",
         "birth_year": "?",
-        "cita": [
-            959
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -48898,9 +47487,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1918
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -48957,9 +47544,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1268
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -49000,9 +47585,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1780
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "Worcester, Worcester, MA, USA",
         "death_year": "1936",
@@ -49059,9 +47642,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            963
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -49102,9 +47683,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1922
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -49145,9 +47724,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1417
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -49204,9 +47781,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1905
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -49247,9 +47822,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            2080
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -49290,9 +47863,7 @@ I = [
         "attr": [],
         "birth_place": "Del Rio, Val Verde, TX, USA",
         "birth_year": "?",
-        "cita": [
-            1691
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Andrews, Andrews, TX, USA",
         "death_year": "?",
@@ -49379,9 +47950,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            228
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -49422,9 +47991,7 @@ I = [
         "attr": [],
         "birth_place": "Washington, OH, USA",
         "birth_year": "?",
-        "cita": [
-            1127
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -49502,9 +48069,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1230
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -49545,9 +48110,7 @@ I = [
         "attr": [],
         "birth_place": "Hobbs, NM, USA",
         "birth_year": "1968",
-        "cita": [
-            2049
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -49627,9 +48190,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1946",
-        "cita": [
-            755
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -49701,9 +48262,7 @@ I = [
         "attr": [],
         "birth_place": "Stockton, San Joaquin, CA, USA",
         "birth_year": "?",
-        "cita": [
-            1299
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -49783,9 +48342,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1991
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -49826,9 +48383,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            930
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -49869,9 +48424,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1473",
-        "cita": [
-            1304
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -49928,9 +48481,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1499",
-        "cita": [
-            1768
-        ],
+        "cita": [],
         "death_age": "74 years",
         "death_place": "",
         "death_year": "1573",
@@ -50010,9 +48561,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1949",
-        "cita": [
-            893
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -50082,9 +48631,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1952",
-        "cita": [
-            1996
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -50154,9 +48701,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1242
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -50197,9 +48742,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            74
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -50240,9 +48783,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1708",
-        "cita": [
-            977
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -50299,9 +48840,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            38
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -50340,9 +48879,7 @@ I = [
         "attr": [],
         "birth_place": "Grenada, MS, USA",
         "birth_year": "?",
-        "cita": [
-            344
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Milwaukee, WI, USA",
         "death_year": "1626",
@@ -50414,9 +48951,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1261
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -50457,9 +48992,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1142
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -50500,9 +49033,7 @@ I = [
         "attr": [],
         "birth_place": "Shelbyville, TN, USA",
         "birth_year": "?",
-        "cita": [
-            387
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Shelbyville, TN, USA",
         "death_year": "?",
@@ -50589,9 +49120,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1297
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -50632,9 +49161,7 @@ I = [
         "attr": [],
         "birth_place": "Palm Bay, Brevard, FL, USA",
         "birth_year": "1988",
-        "cita": [
-            851
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -50712,9 +49239,7 @@ I = [
         "attr": [],
         "birth_place": "Palm Bay, Brevard, FL, USA",
         "birth_year": "1990",
-        "cita": [
-            924
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -50792,9 +49317,7 @@ I = [
         "attr": [],
         "birth_place": "Statesboro, Bulloch, GA, USA",
         "birth_year": "1983",
-        "cita": [
-            727
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -50872,9 +49395,7 @@ I = [
         "attr": [],
         "birth_place": "Palm Bay, Brevard, FL, USA",
         "birth_year": "1985",
-        "cita": [
-            1883
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -50952,9 +49473,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1958",
-        "cita": [
-            1648
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -51026,9 +49545,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            2010
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -51069,9 +49586,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1757
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -51112,9 +49627,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            550
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -51153,9 +49666,7 @@ I = [
         "attr": [],
         "birth_place": "Lock Haven, PA, USA",
         "birth_year": "1798",
-        "cita": [
-            725
-        ],
+        "cita": [],
         "death_age": "64 years, 3 months, 27 days",
         "death_place": "Fort Walton Beach, Okaloosa, FL, USA",
         "death_year": "1862",
@@ -51242,9 +49753,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1050",
-        "cita": [
-            1737
-        ],
+        "cita": [],
         "death_age": "62 years",
         "death_place": "",
         "death_year": "1112",
@@ -51316,9 +49825,7 @@ I = [
         "attr": [],
         "birth_place": "Bellingham, WA, USA",
         "birth_year": "1685",
-        "cita": [
-            392
-        ],
+        "cita": [],
         "death_age": "71 years, 4 months, 14 days",
         "death_place": "",
         "death_year": "1756",
@@ -51398,9 +49905,7 @@ I = [
         "attr": [],
         "birth_place": "Ketchikan, AK, USA",
         "birth_year": "?",
-        "cita": [
-            871
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Minot, ND, USA",
         "death_year": "1688",
@@ -51480,9 +49985,7 @@ I = [
         "attr": [],
         "birth_place": "Poplar Bluff, MO, USA",
         "birth_year": "1804",
-        "cita": [
-            1404
-        ],
+        "cita": [],
         "death_age": "82 years, 9 days",
         "death_place": "Arlington, VA, USA",
         "death_year": "1886",
@@ -51577,9 +50080,7 @@ I = [
         "attr": [],
         "birth_place": "Minot, ND, USA",
         "birth_year": "1739",
-        "cita": [
-            1389
-        ],
+        "cita": [],
         "death_age": "66 years, 7 months, 21 days",
         "death_place": "",
         "death_year": "1805",
@@ -51659,9 +50160,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1768",
-        "cita": [
-            575
-        ],
+        "cita": [],
         "death_age": "70 years",
         "death_place": "Keene, NH, USA",
         "death_year": "1838",
@@ -51756,9 +50255,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            899
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "1683",
@@ -51815,9 +50312,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            279
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -51858,9 +50353,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1731
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -51901,9 +50394,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            156
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -51944,9 +50435,7 @@ I = [
         "attr": [],
         "birth_place": "Hilo, HI, USA",
         "birth_year": "1605",
-        "cita": [
-            283
-        ],
+        "cita": [],
         "death_age": "42 years, 11 months, 3 days",
         "death_place": "Roswell, NM, USA",
         "death_year": "1647",
@@ -52033,9 +50522,7 @@ I = [
         "attr": [],
         "birth_place": "Lamesa, Dawson, TX, USA",
         "birth_year": "?",
-        "cita": [
-            806
-        ],
+        "cita": [],
         "death_age": "about 65 years, 6 months, 11 days",
         "death_place": "Poplar Bluff, MO, USA",
         "death_year": "1703",
@@ -52115,9 +50602,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            574
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -52158,9 +50643,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            2068
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -52201,9 +50684,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            962
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -52268,9 +50749,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1430",
-        "cita": [
-            1821
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -52335,9 +50814,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            858
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -52378,9 +50855,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            913
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -52445,9 +50920,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            2017
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -52512,9 +50985,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1205
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "Ottawa, La Salle, IL, USA",
         "death_year": "?",
@@ -52592,9 +51063,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1924",
-        "cita": [
-            359
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -52659,9 +51128,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1927",
-        "cita": [
-            1288
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -52726,9 +51193,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            383
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -52769,9 +51234,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1921",
-        "cita": [
-            1458
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -52836,9 +51299,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1896",
-        "cita": [
-            644
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -52895,9 +51356,7 @@ I = [
         "attr": [],
         "birth_place": "McAlester, OK, USA",
         "birth_year": "?",
-        "cita": [
-            146
-        ],
+        "cita": [],
         "death_age": "more than about 5 years",
         "death_place": "McAlester, OK, USA",
         "death_year": "?",
@@ -52969,9 +51428,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1982",
-        "cita": [
-            1023
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -53049,9 +51506,7 @@ I = [
         "attr": [],
         "birth_place": "Jefferson City, MO, USA",
         "birth_year": "1988",
-        "cita": [
-            22
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -53129,9 +51584,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1975",
-        "cita": [
-            1020
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -53209,9 +51662,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1950",
-        "cita": [
-            1948
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -53291,9 +51742,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1977",
-        "cita": [
-            2060
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -53371,9 +51820,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            217
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "Duluth, MN, USA",
         "death_year": "?",
@@ -53445,9 +51892,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1968",
-        "cita": [
-            514
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -53519,9 +51964,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            986
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -53562,9 +52005,7 @@ I = [
         "attr": [],
         "birth_place": "Omaha, NE, USA",
         "birth_year": "1982",
-        "cita": [
-            503
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -53627,9 +52068,7 @@ I = [
         "attr": [],
         "birth_place": "Tifton, Tift, GA, USA",
         "birth_year": "?",
-        "cita": [
-            442
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -53694,9 +52133,7 @@ I = [
         "attr": [],
         "birth_place": "Omaha, NE, USA",
         "birth_year": "1979",
-        "cita": [
-            1681
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -53759,9 +52196,7 @@ I = [
         "attr": [],
         "birth_place": "Tifton, Tift, GA, USA",
         "birth_year": "?",
-        "cita": [
-            1496
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -53826,9 +52261,7 @@ I = [
         "attr": [],
         "birth_place": "Tifton, Tift, GA, USA",
         "birth_year": "1953",
-        "cita": [
-            1375
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -53908,9 +52341,7 @@ I = [
         "attr": [],
         "birth_place": "Tifton, Tift, GA, USA",
         "birth_year": "?",
-        "cita": [
-            694
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -53975,9 +52406,7 @@ I = [
         "attr": [],
         "birth_place": "Willimantic, Windham, CT, USA",
         "birth_year": "?",
-        "cita": [
-            94
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -54049,9 +52478,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1110",
-        "cita": [
-            1455
-        ],
+        "cita": [],
         "death_age": "75 years",
         "death_place": "",
         "death_year": "1185",
@@ -54131,9 +52558,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1705",
-        "cita": [
-            894
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -54190,9 +52615,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1671",
-        "cita": [
-            1034
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -54249,9 +52672,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            29
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -54292,9 +52713,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            179
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -54335,9 +52754,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            577
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -54378,9 +52795,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1535
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -54421,9 +52836,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1337
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -54470,9 +52883,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            234
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -54519,9 +52930,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1053
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -54568,9 +52977,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1986",
-        "cita": [
-            1584
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -54648,9 +53055,7 @@ I = [
         "attr": [],
         "birth_place": "Rockland, ME, USA",
         "birth_year": "1988",
-        "cita": [
-            603
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -54728,9 +53133,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            438
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -54771,9 +53174,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1958",
-        "cita": [
-            655
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -54845,9 +53246,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1992
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -54904,9 +53303,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            945
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -54969,9 +53366,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            946
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -55034,9 +53429,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1938
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -55099,9 +53492,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1986",
-        "cita": [
-            2046
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -55179,9 +53570,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            791
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -55222,9 +53611,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1652
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -55273,9 +53660,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            654
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -55316,9 +53701,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1929",
-        "cita": [
-            666
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -55398,9 +53781,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            317
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -55465,9 +53846,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            665
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -55530,9 +53909,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1762
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -55595,9 +53972,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            73
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -55662,9 +54037,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            722
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -55729,9 +54102,7 @@ I = [
         "attr": [],
         "birth_place": "Hutchinson, Reno, KS, USA",
         "birth_year": "1973",
-        "cita": [
-            874
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -55811,9 +54182,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            366
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -55878,9 +54247,7 @@ I = [
         "attr": [],
         "birth_place": "Harrisonburg, VA, USA",
         "birth_year": "1926",
-        "cita": [
-            1415
-        ],
+        "cita": [],
         "death_age": "73 years, 16 days",
         "death_place": "Worthington, MN, USA",
         "death_year": "1999",
@@ -55976,9 +54343,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1969",
-        "cita": [
-            1755
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -56050,9 +54415,7 @@ I = [
         "attr": [],
         "birth_place": "Bremerton, WA, USA",
         "birth_year": "1986",
-        "cita": [
-            1545
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -56130,9 +54493,7 @@ I = [
         "attr": [],
         "birth_place": "Bremerton, WA, USA",
         "birth_year": "1980",
-        "cita": [
-            426
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -56210,9 +54571,7 @@ I = [
         "attr": [],
         "birth_place": "San Francisco, San Francisco, CA, USA",
         "birth_year": "1950",
-        "cita": [
-            1888
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -56284,9 +54643,7 @@ I = [
         "attr": [],
         "birth_place": "Bremerton, WA, USA",
         "birth_year": "1990",
-        "cita": [
-            2001
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -56364,9 +54721,7 @@ I = [
         "attr": [],
         "birth_place": "Bremerton, WA, USA",
         "birth_year": "1977",
-        "cita": [
-            1136
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -56444,9 +54799,7 @@ I = [
         "attr": [],
         "birth_place": "Canton, Fulton, IL, USA",
         "birth_year": "?",
-        "cita": [
-            1572
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -56503,9 +54856,7 @@ I = [
         "attr": [],
         "birth_place": "Ardmore, OK, USA",
         "birth_year": "?",
-        "cita": [
-            1413
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "",
         "death_year": "1843",
@@ -56577,9 +54928,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1965",
-        "cita": [
-            537
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -56651,9 +55000,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1770",
-        "cita": [
-            590
-        ],
+        "cita": [],
         "death_age": "66 years, 1 month, 13 days",
         "death_place": "Springfield, Hampden, MA, USA",
         "death_year": "1836",
@@ -56748,9 +55095,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1876
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -56791,9 +55136,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1449
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -56834,9 +55177,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1425
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -56877,9 +55218,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            960
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -56920,9 +55259,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1751",
-        "cita": [
-            978
-        ],
+        "cita": [],
         "death_age": "66 years",
         "death_place": "",
         "death_year": "1817",
@@ -57002,9 +55339,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1043
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -57061,9 +55396,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            451
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -57104,9 +55437,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1977",
-        "cita": [
-            1276
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -57184,9 +55515,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1979",
-        "cita": [
-            227
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -57264,9 +55593,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1980",
-        "cita": [
-            1215
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -57344,9 +55671,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            290
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -57387,9 +55712,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1982
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -57430,9 +55753,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1879
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -57473,9 +55794,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1685",
-        "cita": [
-            1469
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -57532,9 +55851,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1956",
-        "cita": [
-            1454
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -57606,9 +55923,7 @@ I = [
         "attr": [],
         "birth_place": "Del Rio, Val Verde, TX, USA",
         "birth_year": "?",
-        "cita": [
-            1263
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Del Rio, Val Verde, TX, USA",
         "death_year": "?",
@@ -57680,9 +55995,7 @@ I = [
         "attr": [],
         "birth_place": "Bishop, Inyo, CA, USA",
         "birth_year": "1795",
-        "cita": [
-            1859
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Del Rio, Val Verde, TX, USA",
         "death_year": "?",
@@ -57762,9 +56075,7 @@ I = [
         "attr": [],
         "birth_place": "Manchester, NH, USA",
         "birth_year": "1829",
-        "cita": [
-            2029
-        ],
+        "cita": [],
         "death_age": "74 years, 2 months, 13 days",
         "death_place": "Ottawa, La Salle, IL, USA",
         "death_year": "1904",
@@ -57859,9 +56170,7 @@ I = [
         "attr": [],
         "birth_place": "Lawrenceburg, TN, USA",
         "birth_year": "1786",
-        "cita": [
-            13
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Sandusky, OH, USA",
         "death_year": "?",
@@ -57939,9 +56248,7 @@ I = [
         "attr": [],
         "birth_place": "Ardmore, OK, USA",
         "birth_year": "1805",
-        "cita": [
-            1124
-        ],
+        "cita": [],
         "death_age": "59 years, 6 months, 24 days",
         "death_place": "Visalia, Tulare, CA, USA",
         "death_year": "1865",
@@ -58028,9 +56335,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1790",
-        "cita": [
-            826
-        ],
+        "cita": [],
         "death_age": "65 years, 1 month, 9 days",
         "death_place": "Stevens Point, WI, USA",
         "death_year": "1855",
@@ -58117,9 +56422,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1473
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -58168,9 +56471,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            596
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -58211,9 +56512,7 @@ I = [
         "attr": [],
         "birth_place": "Loveland, Larimer, CO, USA",
         "birth_year": "?",
-        "cita": [
-            23
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Del Rio, Val Verde, TX, USA",
         "death_year": "?",
@@ -58300,9 +56599,7 @@ I = [
         "attr": [],
         "birth_place": "Fajardo, PR, USA",
         "birth_year": "1615",
-        "cita": [
-            2012
-        ],
+        "cita": [],
         "death_age": "29 years, 11 months, 27 days",
         "death_place": "",
         "death_year": "1644",
@@ -58374,9 +56671,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            175
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "Newberry, SC, USA",
         "death_year": "?",
@@ -58433,9 +56728,7 @@ I = [
         "attr": [],
         "birth_place": "Oneonta, Otsego, NY, USA",
         "birth_year": "1945",
-        "cita": [
-            15
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -58507,9 +56800,7 @@ I = [
         "attr": [],
         "birth_place": "Ogdensburg, St. Lawrence, NY, USA",
         "birth_year": "1641",
-        "cita": [
-            2023
-        ],
+        "cita": [],
         "death_age": "44 years, 10 months, 20 days",
         "death_place": "Anchorage, AK, USA",
         "death_year": "1686",
@@ -58604,9 +56895,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1082
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -58663,9 +56952,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1074
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -58704,9 +56991,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            688
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -58745,9 +57030,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            2014
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -58786,9 +57069,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1220",
-        "cita": [
-            125
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -58845,9 +57126,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1300",
-        "cita": [
-            1229
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -58905,9 +57184,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            788
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -58948,9 +57225,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1798
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -58991,9 +57266,7 @@ I = [
         "attr": [],
         "birth_place": "Fresno, Fresno, CA, USA",
         "birth_year": "?",
-        "cita": [
-            1365
-        ],
+        "cita": [],
         "death_age": "about 63 years, 6 months, 28 days",
         "death_place": "Sylacauga, Talladega, AL, USA",
         "death_year": "1688",
@@ -59065,9 +57338,7 @@ I = [
         "attr": [],
         "birth_place": "Denver-Aurora, CO, USA",
         "birth_year": "?",
-        "cita": [
-            747
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Sterling, Whiteside, IL, USA",
         "death_year": "?",
@@ -59137,9 +57408,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1710
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -59180,9 +57449,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            967
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -59221,9 +57488,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1742",
-        "cita": [
-            701
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -59286,9 +57551,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            925
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -59335,9 +57598,7 @@ I = [
         "attr": [],
         "birth_place": "La Follette, TN, USA",
         "birth_year": "1768",
-        "cita": [
-            1852
-        ],
+        "cita": [],
         "death_age": "0 days",
         "death_place": "Waterloo-Cedar Falls, IA, USA",
         "death_year": "1768",
@@ -59417,9 +57678,7 @@ I = [
         "attr": [],
         "birth_place": "Cleveland, OH, USA",
         "birth_year": "1705",
-        "cita": [
-            1713
-        ],
+        "cita": [],
         "death_age": "80 years",
         "death_place": "Coffeyville, Montgomery, KS, USA",
         "death_year": "1785",
@@ -59499,9 +57758,7 @@ I = [
         "attr": [],
         "birth_place": "La Follette, TN, USA",
         "birth_year": "?",
-        "cita": [
-            1104
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -59566,9 +57823,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            663
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -59609,9 +57864,7 @@ I = [
         "attr": [],
         "birth_place": "Lock Haven, PA, USA",
         "birth_year": "?",
-        "cita": [
-            805
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Marshall, MN, USA",
         "death_year": "1846",
@@ -59692,9 +57945,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1739",
-        "cita": [
-            980
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -59757,9 +58008,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1741",
-        "cita": [
-            1849
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -59822,9 +58071,7 @@ I = [
         "attr": [],
         "birth_place": "Waterloo-Cedar Falls, IA, USA",
         "birth_year": "1773",
-        "cita": [
-            293
-        ],
+        "cita": [],
         "death_age": "50 years, 9 months, 29 days",
         "death_place": "Orlando, Orange, FL, USA",
         "death_year": "1824",
@@ -59904,9 +58151,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1037
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -59953,9 +58198,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1737",
-        "cita": [
-            1209
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -60020,9 +58263,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1735",
-        "cita": [
-            758
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -60087,9 +58328,7 @@ I = [
         "attr": [],
         "birth_place": "La Follette, TN, USA",
         "birth_year": "1770",
-        "cita": [
-            1391
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -60154,9 +58393,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1925
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -60197,9 +58434,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1219
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -60249,9 +58484,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1729",
-        "cita": [
-            100
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -60314,9 +58547,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1595
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -60365,9 +58596,7 @@ I = [
         "attr": [],
         "birth_place": "La Follette, TN, USA",
         "birth_year": "?",
-        "cita": [
-            2088
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -60433,9 +58662,7 @@ I = [
         "attr": [],
         "birth_place": "Philadelphia, PA, USA",
         "birth_year": "1745",
-        "cita": [
-            556
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Marshall, MN, USA",
         "death_year": "?",
@@ -60515,9 +58742,7 @@ I = [
         "attr": [],
         "birth_place": "La Follette, TN, USA",
         "birth_year": "?",
-        "cita": [
-            54
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -60583,9 +58808,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1733",
-        "cita": [
-            1962
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -60648,9 +58871,7 @@ I = [
         "attr": [],
         "birth_place": "Palm Coast, Flagler, FL, USA",
         "birth_year": "1886",
-        "cita": [
-            611
-        ],
+        "cita": [],
         "death_age": "64 years, 8 months",
         "death_place": "Troy, Pike, AL, USA",
         "death_year": "1951",
@@ -60743,9 +58964,7 @@ I = [
         "attr": [],
         "birth_place": "Palm Coast, Flagler, FL, USA",
         "birth_year": "1847",
-        "cita": [
-            196
-        ],
+        "cita": [],
         "death_age": "83 years, 1 month",
         "death_place": "Troy, Pike, AL, USA",
         "death_year": "1930",
@@ -60832,9 +59051,7 @@ I = [
         "attr": [],
         "birth_place": "Palm Coast, Flagler, FL, USA",
         "birth_year": "1882",
-        "cita": [
-            807
-        ],
+        "cita": [],
         "death_age": "60 years, 7 months, 20 days",
         "death_place": "Troy, Pike, AL, USA",
         "death_year": "1942",
@@ -60927,9 +59144,7 @@ I = [
         "attr": [],
         "birth_place": "Palm Coast, Flagler, FL, USA",
         "birth_year": "1878",
-        "cita": [
-            84
-        ],
+        "cita": [],
         "death_age": "47 years, 11 days",
         "death_place": "Troy, Pike, AL, USA",
         "death_year": "1925",
@@ -61009,9 +59224,7 @@ I = [
         "attr": [],
         "birth_place": "Palm Coast, Flagler, FL, USA",
         "birth_year": "1876",
-        "cita": [
-            379
-        ],
+        "cita": [],
         "death_age": "63 years, 6 months, 14 days",
         "death_place": "Troy, Pike, AL, USA",
         "death_year": "1939",
@@ -61104,9 +59317,7 @@ I = [
         "attr": [],
         "birth_place": "Palm Coast, Flagler, FL, USA",
         "birth_year": "1889",
-        "cita": [
-            614
-        ],
+        "cita": [],
         "death_age": "70 years, 7 months, 8 days",
         "death_place": "Troy, Pike, AL, USA",
         "death_year": "1960",
@@ -61186,9 +59397,7 @@ I = [
         "attr": [],
         "birth_place": "Palm Coast, Flagler, FL, USA",
         "birth_year": "1885",
-        "cita": [
-            489
-        ],
+        "cita": [],
         "death_age": "39 years, 7 months, 15 days",
         "death_place": "Troy, Pike, AL, USA",
         "death_year": "1925",
@@ -61268,9 +59477,7 @@ I = [
         "attr": [],
         "birth_place": "Palm Coast, Flagler, FL, USA",
         "birth_year": "1892",
-        "cita": [
-            1838
-        ],
+        "cita": [],
         "death_age": "91 years, 7 months, 15 days",
         "death_place": "Palm Coast, Flagler, FL, USA",
         "death_year": "1984",
@@ -61350,9 +59557,7 @@ I = [
         "attr": [],
         "birth_place": "Palm Coast, Flagler, FL, USA",
         "birth_year": "1872",
-        "cita": [
-            1886
-        ],
+        "cita": [],
         "death_age": "70 years, 4 months, 6 days",
         "death_place": "Troy, Pike, AL, USA",
         "death_year": "1943",
@@ -61445,9 +59650,7 @@ I = [
         "attr": [],
         "birth_place": "Palm Coast, Flagler, FL, USA",
         "birth_year": "1874",
-        "cita": [
-            80
-        ],
+        "cita": [],
         "death_age": "73 years, 2 months, 9 days",
         "death_place": "Troy, Pike, AL, USA",
         "death_year": "1948",
@@ -61527,9 +59730,7 @@ I = [
         "attr": [],
         "birth_place": "Palm Coast, Flagler, FL, USA",
         "birth_year": "?",
-        "cita": [
-            739
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Palm Coast, Flagler, FL, USA",
         "death_year": "?",
@@ -61607,9 +59808,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1630",
-        "cita": [
-            130
-        ],
+        "cita": [],
         "death_age": "78 years, 5 months, 24 days",
         "death_place": "",
         "death_year": "1708",
@@ -61689,9 +59888,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1607",
-        "cita": [
-            62
-        ],
+        "cita": [],
         "death_age": "73 years, 9 months, 13 days",
         "death_place": "",
         "death_year": "1680",
@@ -61763,9 +59960,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            949
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -61806,9 +60001,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1335
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -61849,9 +60042,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1835",
-        "cita": [
-            153
-        ],
+        "cita": [],
         "death_age": "47 years, 9 months, 12 days",
         "death_place": "Marquette, MI, USA",
         "death_year": "1883",
@@ -61944,9 +60135,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1792",
-        "cita": [
-            1726
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -62011,9 +60200,7 @@ I = [
         "attr": [],
         "birth_place": "Orlando, Orange, FL, USA",
         "birth_year": "?",
-        "cita": [
-            2
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -62076,9 +60263,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1805",
-        "cita": [
-            1280
-        ],
+        "cita": [],
         "death_age": "60 years, 7 months, 9 days",
         "death_place": "",
         "death_year": "1866",
@@ -62158,9 +60343,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1790",
-        "cita": [
-            390
-        ],
+        "cita": [],
         "death_age": "37 years, 4 months, 4 days",
         "death_place": "",
         "death_year": "1828",
@@ -62240,9 +60423,7 @@ I = [
         "attr": [],
         "birth_place": "Orlando, Orange, FL, USA",
         "birth_year": "?",
-        "cita": [
-            307
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -62305,9 +60486,7 @@ I = [
         "attr": [],
         "birth_place": "Adrian, MI, USA",
         "birth_year": "1826",
-        "cita": [
-            1592
-        ],
+        "cita": [],
         "death_age": "81 years, 2 months, 10 days",
         "death_place": "Sanford, NC, USA",
         "death_year": "1907",
@@ -62387,9 +60566,7 @@ I = [
         "attr": [],
         "birth_place": "Springfield, Hampden, MA, USA",
         "birth_year": "1802",
-        "cita": [
-            364
-        ],
+        "cita": [],
         "death_age": "66 years, 4 months, 20 days",
         "death_place": "Guaynabo, PR, USA",
         "death_year": "1869",
@@ -62484,9 +60661,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1760",
-        "cita": [
-            1178
-        ],
+        "cita": [],
         "death_age": "67 years, 5 months, 18 days",
         "death_place": "Effingham, Effingham, IL, USA",
         "death_year": "1827",
@@ -62573,9 +60748,7 @@ I = [
         "attr": [],
         "birth_place": "New Ulm, MN, USA",
         "birth_year": "1839",
-        "cita": [
-            335
-        ],
+        "cita": [],
         "death_age": "0 days",
         "death_place": "Marquette, MI, USA",
         "death_year": "1839",
@@ -62668,9 +60841,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1794",
-        "cita": [
-            1568
-        ],
+        "cita": [],
         "death_age": "26 years, 2 months, 23 days",
         "death_place": "",
         "death_year": "1821",
@@ -62750,9 +60921,7 @@ I = [
         "attr": [],
         "birth_place": "Marquette, MI, USA",
         "birth_year": "1829",
-        "cita": [
-            559
-        ],
+        "cita": [],
         "death_age": "21 years, 9 months, 21 days",
         "death_place": "New Ulm, MN, USA",
         "death_year": "1851",
@@ -62845,9 +61014,7 @@ I = [
         "attr": [],
         "birth_place": "Orlando, Orange, FL, USA",
         "birth_year": "?",
-        "cita": [
-            1807
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -62910,9 +61077,7 @@ I = [
         "attr": [],
         "birth_place": "Marquette, MI, USA",
         "birth_year": "?",
-        "cita": [
-            696
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -62975,9 +61140,7 @@ I = [
         "attr": [],
         "birth_place": "Guaynabo, PR, USA",
         "birth_year": "1870",
-        "cita": [
-            689
-        ],
+        "cita": [],
         "death_age": "79 years, 16 days",
         "death_place": "Kendallville, Noble, IN, USA",
         "death_year": "1949",
@@ -63072,9 +61235,7 @@ I = [
         "attr": [],
         "birth_place": "Marquette, MI, USA",
         "birth_year": "1849",
-        "cita": [
-            563
-        ],
+        "cita": [],
         "death_age": "19 years, 10 months, 2 days",
         "death_place": "Marquette, MI, USA",
         "death_year": "1869",
@@ -63167,9 +61328,7 @@ I = [
         "attr": [],
         "birth_place": "Orlando, Orange, FL, USA",
         "birth_year": "?",
-        "cita": [
-            991
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -63232,9 +61391,7 @@ I = [
         "attr": [],
         "birth_place": "Marquette, MI, USA",
         "birth_year": "?",
-        "cita": [
-            753
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -63297,9 +61454,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1844",
-        "cita": [
-            488
-        ],
+        "cita": [],
         "death_age": "3 years, 8 months, 22 days",
         "death_place": "New Ulm, MN, USA",
         "death_year": "1848",
@@ -63392,9 +61547,7 @@ I = [
         "attr": [],
         "birth_place": "Orlando, Orange, FL, USA",
         "birth_year": "?",
-        "cita": [
-            1060
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -63457,9 +61610,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1788",
-        "cita": [
-            759
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -63524,9 +61675,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1799",
-        "cita": [
-            1393
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -63591,9 +61740,7 @@ I = [
         "attr": [],
         "birth_place": "Marquette, MI, USA",
         "birth_year": "?",
-        "cita": [
-            1784
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -63656,9 +61803,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1797",
-        "cita": [
-            1732
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -63723,9 +61868,7 @@ I = [
         "attr": [],
         "birth_place": "Orlando, Orange, FL, USA",
         "birth_year": "?",
-        "cita": [
-            1804
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -63788,9 +61931,7 @@ I = [
         "attr": [],
         "birth_place": "Orlando, Orange, FL, USA",
         "birth_year": "?",
-        "cita": [
-            938
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -63853,9 +61994,7 @@ I = [
         "attr": [],
         "birth_place": "Anniston, Calhoun, AL, USA",
         "birth_year": "1750",
-        "cita": [
-            1847
-        ],
+        "cita": [],
         "death_age": "84 years, 7 months, 28 days",
         "death_place": "Newport, TN, USA",
         "death_year": "1835",
@@ -63933,9 +62072,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1515
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "Coamo, PR, USA",
         "death_year": "?",
@@ -64000,9 +62137,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            552
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -64043,9 +62178,7 @@ I = [
         "attr": [],
         "birth_place": "Tupelo, MS, USA",
         "birth_year": "1917",
-        "cita": [
-            697
-        ],
+        "cita": [],
         "death_age": "65 years, 8 months, 9 days",
         "death_place": "",
         "death_year": "1982",
@@ -64132,9 +62265,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            927
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -64175,9 +62306,7 @@ I = [
         "attr": [],
         "birth_place": "Safford, Graham, AZ, USA",
         "birth_year": "1550",
-        "cita": [
-            1631
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -64242,9 +62371,7 @@ I = [
         "attr": [],
         "birth_place": "Safford, Graham, AZ, USA",
         "birth_year": "?",
-        "cita": [
-            401
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -64301,9 +62428,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1876",
-        "cita": [
-            833
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -64360,9 +62485,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1115
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -64403,9 +62526,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1966",
-        "cita": [
-            1706
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -64477,9 +62598,7 @@ I = [
         "attr": [],
         "birth_place": "Palm Bay, Brevard, FL, USA",
         "birth_year": "1993",
-        "cita": [
-            1926
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -64557,9 +62676,7 @@ I = [
         "attr": [],
         "birth_place": "Palm Bay, Brevard, FL, USA",
         "birth_year": "1990",
-        "cita": [
-            1908
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -64637,9 +62754,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            41
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -64686,9 +62801,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            497
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -64735,9 +62848,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            873
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -64784,9 +62895,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1443
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -64833,9 +62942,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1720
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -64882,9 +62989,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1262
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -64925,9 +63030,7 @@ I = [
         "attr": [],
         "birth_place": "Boston, Suffolk, MA, USA",
         "birth_year": "?",
-        "cita": [
-            783
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Point Pleasant, WV, USA",
         "death_year": "1904",
@@ -65014,9 +63117,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1435
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -65057,9 +63158,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1410
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -65100,9 +63199,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1231
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -65149,9 +63246,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1177
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -65192,9 +63287,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1819
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -65235,9 +63328,7 @@ I = [
         "attr": [],
         "birth_place": "Rockland, ME, USA",
         "birth_year": "1990",
-        "cita": [
-            1975
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -65307,9 +63398,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1217
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -65348,9 +63437,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1052
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -65391,9 +63478,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1551
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -65434,9 +63519,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            251
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -65477,9 +63560,7 @@ I = [
         "attr": [],
         "birth_place": "Punta Gorda, Charlotte, FL, USA",
         "birth_year": "1885",
-        "cita": [
-            887
-        ],
+        "cita": [],
         "death_age": "27 years, 10 months, 28 days",
         "death_place": "Palatka, Putnam, FL, USA",
         "death_year": "1913",
@@ -65566,9 +63647,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1901
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -65609,9 +63688,7 @@ I = [
         "attr": [],
         "birth_place": "Atchison, Atchison, KS, USA",
         "birth_year": "1325",
-        "cita": [
-            70
-        ],
+        "cita": [],
         "death_age": "43 years",
         "death_place": "",
         "death_year": "1368",
@@ -65691,9 +63768,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1345",
-        "cita": [
-            132
-        ],
+        "cita": [],
         "death_age": "43 years",
         "death_place": "",
         "death_year": "1388",
@@ -65763,9 +63838,7 @@ I = [
         "attr": [],
         "birth_place": "Atchison, Atchison, KS, USA",
         "birth_year": "1250",
-        "cita": [
-            1002
-        ],
+        "cita": [],
         "death_age": "66 years",
         "death_place": "",
         "death_year": "1316",
@@ -65845,9 +63918,7 @@ I = [
         "attr": [],
         "birth_place": "Bethesda, MD, USA",
         "birth_year": "1300",
-        "cita": [
-            1585
-        ],
+        "cita": [],
         "death_age": "43 years",
         "death_place": "",
         "death_year": "1343",
@@ -65927,9 +63998,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1220",
-        "cita": [
-            999
-        ],
+        "cita": [],
         "death_age": "74 years",
         "death_place": "",
         "death_year": "1294",
@@ -66001,9 +64070,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1192",
-        "cita": [
-            180
-        ],
+        "cita": [],
         "death_age": "60 years, 11 months, 6 days",
         "death_place": "",
         "death_year": "1252",
@@ -66083,9 +64150,7 @@ I = [
         "attr": [],
         "birth_place": "Burlington, Des Moines, IA, USA",
         "birth_year": "1590",
-        "cita": [
-            1942
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Allegan, MI, USA",
         "death_year": "?",
@@ -66165,9 +64230,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1560",
-        "cita": [
-            1697
-        ],
+        "cita": [],
         "death_age": "70 years, 7 months, 29 days",
         "death_place": "Burlington, Des Moines, IA, USA",
         "death_year": "1630",
@@ -66247,9 +64310,7 @@ I = [
         "attr": [],
         "birth_place": "Decatur, Morgan, AL, USA",
         "birth_year": "?",
-        "cita": [
-            792
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -66306,9 +64367,7 @@ I = [
         "attr": [],
         "birth_place": "Wilmington, OH, USA",
         "birth_year": "?",
-        "cita": [
-            1024
-        ],
+        "cita": [],
         "death_age": "less than about 63 years",
         "death_place": "Wilmington, OH, USA",
         "death_year": "?",
@@ -66380,9 +64439,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1956",
-        "cita": [
-            623
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -66454,9 +64511,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1899",
-        "cita": [
-            42
-        ],
+        "cita": [],
         "death_age": "89 years, 1 month, 28 days",
         "death_place": "Ottawa, La Salle, IL, USA",
         "death_year": "1988",
@@ -66551,9 +64606,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1892",
-        "cita": [
-            159
-        ],
+        "cita": [],
         "death_age": "34 years, 8 days",
         "death_place": "",
         "death_year": "1926",
@@ -66633,9 +64686,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1889",
-        "cita": [
-            338
-        ],
+        "cita": [],
         "death_age": "49 years, 13 days",
         "death_place": "",
         "death_year": "1938",
@@ -66715,9 +64766,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1894",
-        "cita": [
-            1673
-        ],
+        "cita": [],
         "death_age": "79 years, 7 months, 19 days",
         "death_place": "Ottawa, La Salle, IL, USA",
         "death_year": "1974",
@@ -66812,9 +64861,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1887",
-        "cita": [
-            204
-        ],
+        "cita": [],
         "death_age": "31 years, 4 months, 8 days",
         "death_place": "",
         "death_year": "1918",
@@ -66894,9 +64941,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1897",
-        "cita": [
-            1613
-        ],
+        "cita": [],
         "death_age": "74 years, 9 months, 18 days",
         "death_place": "Athens, Clarke, GA, USA",
         "death_year": "1971",
@@ -66989,9 +65034,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1885",
-        "cita": [
-            557
-        ],
+        "cita": [],
         "death_age": "40 years, 6 months, 9 days",
         "death_place": "Ottawa, La Salle, IL, USA",
         "death_year": "1926",
@@ -67084,9 +65127,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1107
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -67125,9 +65166,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1912",
-        "cita": [
-            2074
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -67199,9 +65238,7 @@ I = [
         "attr": [],
         "birth_place": "Minden, Webster, LA, USA",
         "birth_year": "1917",
-        "cita": [
-            1165
-        ],
+        "cita": [],
         "death_age": "73 years, 9 months, 25 days",
         "death_place": "Ottawa, La Salle, IL, USA",
         "death_year": "1991",
@@ -67288,9 +65325,7 @@ I = [
         "attr": [],
         "birth_place": "Alexandria, MN, USA",
         "birth_year": "1900",
-        "cita": [
-            1102
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -67370,9 +65405,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1895",
-        "cita": [
-            347
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -67450,9 +65483,7 @@ I = [
         "attr": [],
         "birth_place": "Scottsburg, Scott, IN, USA",
         "birth_year": "1922",
-        "cita": [
-            1636
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -67530,9 +65561,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1894",
-        "cita": [
-            1384
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -67610,9 +65639,7 @@ I = [
         "attr": [],
         "birth_place": "Worthington, MN, USA",
         "birth_year": "1864",
-        "cita": [
-            169
-        ],
+        "cita": [],
         "death_age": "71 years, 11 days",
         "death_place": "Adjuntas, PR, USA",
         "death_year": "1935",
@@ -67707,9 +65734,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1924",
-        "cita": [
-            1408
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -67787,9 +65812,7 @@ I = [
         "attr": [],
         "birth_place": "Alexandria, MN, USA",
         "birth_year": "1906",
-        "cita": [
-            1395
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Ottawa, La Salle, IL, USA",
         "death_year": "?",
@@ -67867,9 +65890,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1897",
-        "cita": [
-            1503
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -67949,9 +65970,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1926",
-        "cita": [
-            412
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -68029,9 +66048,7 @@ I = [
         "attr": [],
         "birth_place": "Alexandria, MN, USA",
         "birth_year": "1902",
-        "cita": [
-            294
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -68109,9 +66126,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            33
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -68158,9 +66173,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1889",
-        "cita": [
-            821
-        ],
+        "cita": [],
         "death_age": "66 years, 5 months, 21 days",
         "death_place": "",
         "death_year": "1955",
@@ -68238,9 +66251,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1891",
-        "cita": [
-            2030
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -68321,9 +66332,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1921",
-        "cita": [
-            640
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -68401,9 +66410,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1855",
-        "cita": [
-            1097
-        ],
+        "cita": [],
         "death_age": "72 years, 2 months, 27 days",
         "death_place": "Ottawa, La Salle, IL, USA",
         "death_year": "1927",
@@ -68490,9 +66497,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1374
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -68539,9 +66544,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1457
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -68588,9 +66591,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            506
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -68653,9 +66654,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1886",
-        "cita": [
-            1845
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -68718,9 +66717,7 @@ I = [
         "attr": [],
         "birth_place": "Sierra Vista, Cochise, AZ, USA",
         "birth_year": "1972",
-        "cita": [
-            111
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -68798,9 +66795,7 @@ I = [
         "attr": [],
         "birth_place": "Bay City, MI, USA",
         "birth_year": "1974",
-        "cita": [
-            1392
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -68878,9 +66873,7 @@ I = [
         "attr": [],
         "birth_place": "Midland, MI, USA",
         "birth_year": "1943",
-        "cita": [
-            1401
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -68960,9 +66953,7 @@ I = [
         "attr": [],
         "birth_place": "Dalton, Madison, GA, USA",
         "birth_year": "1908",
-        "cita": [
-            881
-        ],
+        "cita": [],
         "death_age": "80 years, 14 days",
         "death_place": "Midland, MI, USA",
         "death_year": "1988",
@@ -69057,9 +67048,7 @@ I = [
         "attr": [],
         "birth_place": "Barnstable Town, MA, USA",
         "birth_year": "?",
-        "cita": [
-            1743
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "",
         "death_year": "1919",
@@ -69146,9 +67135,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            767
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -69197,9 +67184,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            795
-        ],
+        "cita": [],
         "death_age": "about 23 years",
         "death_place": "",
         "death_year": "?",
@@ -69279,9 +67264,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1989
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -69322,9 +67305,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1066
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -69373,9 +67354,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1694
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -69416,9 +67395,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            27
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "Riverside, CA, USA",
         "death_year": "1834",
@@ -69490,9 +67467,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            828
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -69533,9 +67508,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            55
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -69576,9 +67549,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            256
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -69625,9 +67596,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            726
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -69668,9 +67637,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            674
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -69717,9 +67684,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1078
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -69766,9 +67731,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1538
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -69815,9 +67778,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1947
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -69864,9 +67825,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1028
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -69907,9 +67866,7 @@ I = [
         "attr": [],
         "birth_place": "Winona, MN, USA",
         "birth_year": "?",
-        "cita": [
-            615
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -69974,9 +67931,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1654",
-        "cita": [
-            494
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -70041,9 +67996,7 @@ I = [
         "attr": [],
         "birth_place": "Caguas, PR, USA",
         "birth_year": "1584",
-        "cita": [
-            811
-        ],
+        "cita": [],
         "death_age": "68 years, 10 months, 14 days",
         "death_place": "Plainview, Houston, TX, USA",
         "death_year": "1653",
@@ -70124,9 +68077,7 @@ I = [
         "attr": [],
         "birth_place": "Phoenix, Maricopa, AZ, USA",
         "birth_year": "1511",
-        "cita": [
-            150
-        ],
+        "cita": [],
         "death_age": "47 years, 9 months, 19 days",
         "death_place": "Caguas, PR, USA",
         "death_year": "1558",
@@ -70206,9 +68157,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            926
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -70249,9 +68198,7 @@ I = [
         "attr": [],
         "birth_place": "Waterloo-Cedar Falls, IA, USA",
         "birth_year": "?",
-        "cita": [
-            1033
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -70308,9 +68255,7 @@ I = [
         "attr": [],
         "birth_place": "Mountain Home, Elmore, ID, USA",
         "birth_year": "?",
-        "cita": [
-            1010
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -70367,9 +68312,7 @@ I = [
         "attr": [],
         "birth_place": "Sanford, NC, USA",
         "birth_year": "1904",
-        "cita": [
-            1083
-        ],
+        "cita": [],
         "death_age": "80 years, 11 months, 5 days",
         "death_place": "Worthington, MN, USA",
         "death_year": "1985",
@@ -70464,9 +68407,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1926",
-        "cita": [
-            1833
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -70546,9 +68487,7 @@ I = [
         "attr": [],
         "birth_place": "Worthington, MN, USA",
         "birth_year": "1931",
-        "cita": [
-            1654
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -70628,9 +68567,7 @@ I = [
         "attr": [],
         "birth_place": "Orlando, Orange, FL, USA",
         "birth_year": "1868",
-        "cita": [
-            1313
-        ],
+        "cita": [],
         "death_age": "65 years",
         "death_place": "Dublin, Laurens, GA, USA",
         "death_year": "1933",
@@ -70710,9 +68647,7 @@ I = [
         "attr": [],
         "birth_place": "Morehead City, NC, USA",
         "birth_year": "1908",
-        "cita": [
-            1090
-        ],
+        "cita": [],
         "death_age": "88 years, 11 months, 7 days",
         "death_place": "Ottawa, La Salle, IL, USA",
         "death_year": "1997",
@@ -70792,9 +68727,7 @@ I = [
         "attr": [],
         "birth_place": "Macon, Bibb, GA, USA",
         "birth_year": "1871",
-        "cita": [
-            741
-        ],
+        "cita": [],
         "death_age": "53 years, 6 months",
         "death_place": "Ogden, UT, USA",
         "death_year": "1924",
@@ -70889,9 +68822,7 @@ I = [
         "attr": [],
         "birth_place": "Mountain Home, Elmore, ID, USA",
         "birth_year": "1828",
-        "cita": [
-            686
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -70956,9 +68887,7 @@ I = [
         "attr": [],
         "birth_place": "Orlando, Orange, FL, USA",
         "birth_year": "?",
-        "cita": [
-            345
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Lake Charles, Calcasieu, LA, USA",
         "death_year": "1902",
@@ -71038,9 +68967,7 @@ I = [
         "attr": [],
         "birth_place": "Edwards, Eagle, CO, USA",
         "birth_year": "1898",
-        "cita": [
-            554
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "?",
@@ -71120,9 +69047,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1937",
-        "cita": [
-            861
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -71202,9 +69127,7 @@ I = [
         "attr": [],
         "birth_place": "Sanford, NC, USA",
         "birth_year": "1895",
-        "cita": [
-            270
-        ],
+        "cita": [],
         "death_age": "73 years, 11 months, 19 days",
         "death_place": "",
         "death_year": "1969",
@@ -71284,9 +69207,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            313
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -71327,9 +69248,7 @@ I = [
         "attr": [],
         "birth_place": "Sanford, NC, USA",
         "birth_year": "1896",
-        "cita": [
-            1707
-        ],
+        "cita": [],
         "death_age": "85 years, 26 days",
         "death_place": "",
         "death_year": "1981",
@@ -71409,9 +69328,7 @@ I = [
         "attr": [],
         "birth_place": "Reno-Sparks, NV, USA",
         "birth_year": "?",
-        "cita": [
-            1976
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -71474,9 +69391,7 @@ I = [
         "attr": [],
         "birth_place": "Orlando, Orange, FL, USA",
         "birth_year": "1893",
-        "cita": [
-            1045
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -71541,9 +69456,7 @@ I = [
         "attr": [],
         "birth_place": "Orlando, Orange, FL, USA",
         "birth_year": "1899",
-        "cita": [
-            827
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -71606,9 +69519,7 @@ I = [
         "attr": [],
         "birth_place": "Orlando, Orange, FL, USA",
         "birth_year": "1866",
-        "cita": [
-            819
-        ],
+        "cita": [],
         "death_age": "51 years, 10 months",
         "death_place": "Van Wert, OH, USA",
         "death_year": "1918",
@@ -71680,9 +69591,7 @@ I = [
         "attr": [],
         "birth_place": "Orlando, Orange, FL, USA",
         "birth_year": "1890",
-        "cita": [
-            1851
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -71745,9 +69654,7 @@ I = [
         "attr": [],
         "birth_place": "Orlando, Orange, FL, USA",
         "birth_year": "1898",
-        "cita": [
-            1051
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -71810,9 +69717,7 @@ I = [
         "attr": [],
         "birth_place": "Orlando, Orange, FL, USA",
         "birth_year": "1896",
-        "cita": [
-            824
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -71877,9 +69782,7 @@ I = [
         "attr": [],
         "birth_place": "Reno-Sparks, NV, USA",
         "birth_year": "?",
-        "cita": [
-            448
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -71942,9 +69845,7 @@ I = [
         "attr": [],
         "birth_place": "Reno-Sparks, NV, USA",
         "birth_year": "?",
-        "cita": [
-            932
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -72009,9 +69910,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            316
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -72058,9 +69957,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            587
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -72107,9 +70004,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1351
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -72156,9 +70051,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1525
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -72205,9 +70098,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1667
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -72248,9 +70139,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            252
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -72291,9 +70180,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1569
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -72334,9 +70221,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1695
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -72377,9 +70262,7 @@ I = [
         "attr": [],
         "birth_place": "Lafayette, Tippecanoe, IN, USA",
         "birth_year": "1982",
-        "cita": [
-            1617
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -72457,9 +70340,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1715",
-        "cita": [
-            591
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -72516,9 +70397,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            848
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -72559,9 +70438,7 @@ I = [
         "attr": [],
         "birth_place": "Wheeling, WV-OH, USA",
         "birth_year": "1959",
-        "cita": [
-            1466
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -72631,9 +70508,7 @@ I = [
         "attr": [],
         "birth_place": "Wheeling, WV-OH, USA",
         "birth_year": "1958",
-        "cita": [
-            462
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -72703,9 +70578,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1967
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "Morgantown, WV, USA",
         "death_year": "?",
@@ -72762,9 +70635,7 @@ I = [
         "attr": [],
         "birth_place": "Cambridge, MD, USA",
         "birth_year": "1780",
-        "cita": [
-            2032
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Berlin, NH, USA",
         "death_year": "?",
@@ -72851,9 +70722,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1672
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -72900,9 +70769,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            560
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -72965,9 +70832,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            49
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -73008,9 +70873,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            310
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -73051,9 +70914,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            847
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -73094,9 +70955,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1759",
-        "cita": [
-            1121
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Grand Junction, Mesa, CO, USA",
         "death_year": "?",
@@ -73191,9 +71050,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            793
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -73234,9 +71091,7 @@ I = [
         "attr": [],
         "birth_place": "McComb, MS, USA",
         "birth_year": "?",
-        "cita": [
-            1331
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -73293,9 +71148,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1940",
-        "cita": [
-            222
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -73367,9 +71220,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1895",
-        "cita": [
-            46
-        ],
+        "cita": [],
         "death_age": "69 years, 9 months, 18 days",
         "death_place": "",
         "death_year": "1965",
@@ -73462,9 +71313,7 @@ I = [
         "attr": [],
         "birth_place": "Paducah, McCracken, KY-IL, USA",
         "birth_year": "?",
-        "cita": [
-            1792
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Worthington, MN, USA",
         "death_year": "1864",
@@ -73559,9 +71408,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1781
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -73611,9 +71458,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1928",
-        "cita": [
-            1956
-        ],
+        "cita": [],
         "death_age": "2 months, 18 days",
         "death_place": "Ottawa, La Salle, IL, USA",
         "death_year": "1928",
@@ -73706,9 +71551,7 @@ I = [
         "attr": [],
         "birth_place": "Ottumwa, Wapello, IA, USA",
         "birth_year": "1813",
-        "cita": [
-            855
-        ],
+        "cita": [],
         "death_age": "78 years, 6 months, 7 days",
         "death_place": "Spearfish, SD, USA",
         "death_year": "1891",
@@ -73803,9 +71646,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            389
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "Ottawa, La Salle, IL, USA",
         "death_year": "1956",
@@ -73883,9 +71724,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1920",
-        "cita": [
-            44
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Ottawa, La Salle, IL, USA",
         "death_year": "?",
@@ -73978,9 +71817,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1883",
-        "cita": [
-            1853
-        ],
+        "cita": [],
         "death_age": "77 years, 11 months, 28 days",
         "death_place": "Midland, MI, USA",
         "death_year": "1961",
@@ -74060,9 +71897,7 @@ I = [
         "attr": [],
         "birth_place": "Worthington, MN, USA",
         "birth_year": "1927",
-        "cita": [
-            736
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -74142,9 +71977,7 @@ I = [
         "attr": [],
         "birth_place": "Riverton, WY, USA",
         "birth_year": "1862",
-        "cita": [
-            391
-        ],
+        "cita": [],
         "death_age": "47 years, 4 months",
         "death_place": "Worthington, MN, USA",
         "death_year": "1909",
@@ -74239,9 +72072,7 @@ I = [
         "attr": [],
         "birth_place": "Paris, TN, USA",
         "birth_year": "?",
-        "cita": [
-            608
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -74306,9 +72137,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1685
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -74355,9 +72184,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1897
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -74396,9 +72223,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1897",
-        "cita": [
-            1966
-        ],
+        "cita": [],
         "death_age": "65 years, 7 days",
         "death_place": "",
         "death_year": "1962",
@@ -74491,9 +72316,7 @@ I = [
         "attr": [],
         "birth_place": "Worthington, MN, USA",
         "birth_year": "1893",
-        "cita": [
-            2036
-        ],
+        "cita": [],
         "death_age": "75 years, 18 days",
         "death_place": "Worthington, MN, USA",
         "death_year": "1969",
@@ -74588,9 +72411,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1968
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "Hutchinson, Reno, KS, USA",
         "death_year": "1906",
@@ -74668,9 +72489,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            671
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "Lewisburg, PA, USA",
         "death_year": "?",
@@ -74742,9 +72561,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            940
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -74791,9 +72608,7 @@ I = [
         "attr": [],
         "birth_place": "New Castle, PA, USA",
         "birth_year": "1822",
-        "cita": [
-            1829
-        ],
+        "cita": [],
         "death_age": "71 years, 1 month, 21 days",
         "death_place": "Ottawa, La Salle, IL, USA",
         "death_year": "1894",
@@ -74888,9 +72703,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1612",
-        "cita": [
-            1348
-        ],
+        "cita": [],
         "death_age": "68 years, 4 months, 19 days",
         "death_place": "",
         "death_year": "1680",
@@ -74962,9 +72775,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1812
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -75005,9 +72816,7 @@ I = [
         "attr": [],
         "birth_place": "Wauchula, Hardee, FL, USA",
         "birth_year": "1805",
-        "cita": [
-            1349
-        ],
+        "cita": [],
         "death_age": "96 years, 2 months, 22 days",
         "death_place": "Helena, MT, USA",
         "death_year": "1902",
@@ -75094,9 +72903,7 @@ I = [
         "attr": [],
         "birth_place": "Eureka, Humboldt, CA, USA",
         "birth_year": "1852",
-        "cita": [
-            922
-        ],
+        "cita": [],
         "death_age": "69 years, 3 months, 5 days",
         "death_place": "Myrtle Beach, SC, USA",
         "death_year": "1921",
@@ -75191,9 +72998,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            586
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -75234,9 +73039,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1478
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -75277,9 +73080,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1993",
-        "cita": [
-            272
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -75357,9 +73158,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            936
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -75400,9 +73199,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            157
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -75443,9 +73240,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            907
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -75486,9 +73281,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1773
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -75529,9 +73322,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1420",
-        "cita": [
-            1528
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -75588,9 +73379,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            502
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -75631,9 +73420,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1995",
-        "cita": [
-            1463
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -75711,9 +73498,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1810
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -75762,9 +73547,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1007
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -75805,9 +73588,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1257
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Greenville, SC, USA",
         "death_year": "?",
@@ -75887,9 +73668,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            813
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -75946,9 +73725,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1954",
-        "cita": [
-            1703
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -76020,9 +73797,7 @@ I = [
         "attr": [],
         "birth_place": "Malone, Franklin, NY, USA",
         "birth_year": "?",
-        "cita": [
-            1575
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Los Angeles, Los Angeles, CA, USA",
         "death_year": "?",
@@ -76109,9 +73884,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            508
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -76152,9 +73925,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            171
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -76195,9 +73966,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1943
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -76260,9 +74029,7 @@ I = [
         "attr": [],
         "birth_place": "Tallulah, Madison, LA, USA",
         "birth_year": "1975",
-        "cita": [
-            1662
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -76340,9 +74107,7 @@ I = [
         "attr": [],
         "birth_place": "Tallulah, Madison, LA, USA",
         "birth_year": "1971",
-        "cita": [
-            1359
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -76422,9 +74187,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1014
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -76471,9 +74234,7 @@ I = [
         "attr": [],
         "birth_place": "Reading, PA, USA",
         "birth_year": "1890",
-        "cita": [
-            1027
-        ],
+        "cita": [],
         "death_age": "71 years, 11 months, 27 days",
         "death_place": "Evanston, WY, USA",
         "death_year": "1962",
@@ -76545,9 +74306,7 @@ I = [
         "attr": [],
         "birth_place": "Tallulah, Madison, LA, USA",
         "birth_year": "1984",
-        "cita": [
-            1775
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -76625,9 +74384,7 @@ I = [
         "attr": [],
         "birth_place": "Tallulah, Madison, LA, USA",
         "birth_year": "1979",
-        "cita": [
-            737
-        ],
+        "cita": [],
         "death_age": "4 years, 4 months, 25 days",
         "death_place": "Havre, MT, USA",
         "death_year": "1983",
@@ -76705,9 +74462,7 @@ I = [
         "attr": [],
         "birth_place": "Reading, PA, USA",
         "birth_year": "1940",
-        "cita": [
-            1882
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -76787,9 +74542,7 @@ I = [
         "attr": [],
         "birth_place": "Rexburg, Madison, ID, USA",
         "birth_year": "?",
-        "cita": [
-            164
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -76846,9 +74599,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1936
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -76889,9 +74640,7 @@ I = [
         "attr": [],
         "birth_place": "Magnolia, Columbia, AR, USA",
         "birth_year": "?",
-        "cita": [
-            1226
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Marshall, Harrison, TX, USA",
         "death_year": "?",
@@ -76978,9 +74727,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            496
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -77021,9 +74768,7 @@ I = [
         "attr": [],
         "birth_place": "Las Vegas, NV, USA",
         "birth_year": "1825",
-        "cita": [
-            885
-        ],
+        "cita": [],
         "death_age": "85 years, 7 months, 11 days",
         "death_place": "Cadillac, MI, USA",
         "death_year": "1911",
@@ -77118,9 +74863,7 @@ I = [
         "attr": [],
         "birth_place": "Kapaa, HI, USA",
         "birth_year": "?",
-        "cita": [
-            1396
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Kapaa, HI, USA",
         "death_year": "?",
@@ -77207,9 +74950,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1716",
-        "cita": [
-            1421
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -77266,9 +75007,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1715",
-        "cita": [
-            1537
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -77325,9 +75064,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1590
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -77368,9 +75105,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            735
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -77411,9 +75146,7 @@ I = [
         "attr": [],
         "birth_place": "Plattsburgh, Clinton, NY, USA",
         "birth_year": "1818",
-        "cita": [
-            920
-        ],
+        "cita": [],
         "death_age": "56 years, 7 months, 15 days",
         "death_place": "Monroe, Ouachita, LA, USA",
         "death_year": "1874",
@@ -77500,9 +75233,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1740",
-        "cita": [
-            1913
-        ],
+        "cita": [],
         "death_age": "84 years, 10 months, 5 days",
         "death_place": "",
         "death_year": "1824",
@@ -77574,9 +75305,7 @@ I = [
         "attr": [],
         "birth_place": "Phoenix, Maricopa, AZ, USA",
         "birth_year": "1450",
-        "cita": [
-            265
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -77641,9 +75370,7 @@ I = [
         "attr": [],
         "birth_place": "Topeka, Shawnee, KS, USA",
         "birth_year": "?",
-        "cita": [
-            1285
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -77700,9 +75427,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            884
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -77743,9 +75468,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            2045
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -77786,9 +75509,7 @@ I = [
         "attr": [],
         "birth_place": "Yauco, PR, USA",
         "birth_year": "1952",
-        "cita": [
-            1259
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -77860,9 +75581,7 @@ I = [
         "attr": [],
         "birth_place": "Miami, Miami-Dade, FL, USA",
         "birth_year": "?",
-        "cita": [
-            476
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Manhattan, Riley, KS, USA",
         "death_year": "?",
@@ -77950,9 +75669,7 @@ I = [
         "attr": [],
         "birth_place": "Homosassa Springs, Citrus, FL, USA",
         "birth_year": "?",
-        "cita": [
-            684
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Las Cruces, NM, USA",
         "death_year": "1801",
@@ -78032,9 +75749,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            425
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -78081,9 +75796,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1247
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -78130,9 +75843,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1430
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -78179,9 +75890,7 @@ I = [
         "attr": [],
         "birth_place": "Harriman, TN, USA",
         "birth_year": "1784",
-        "cita": [
-            1061
-        ],
+        "cita": [],
         "death_age": "62 years, 13 days",
         "death_place": "Clearlake, Lake, CA, USA",
         "death_year": "1846",
@@ -78276,9 +75985,7 @@ I = [
         "attr": [],
         "birth_place": "Bismarck, ND, USA",
         "birth_year": "1823",
-        "cita": [
-            1004
-        ],
+        "cita": [],
         "death_age": "30 years, 2 months, 20 days",
         "death_place": "Hutchinson, MN, USA",
         "death_year": "1853",
@@ -78373,9 +76080,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1786",
-        "cita": [
-            353
-        ],
+        "cita": [],
         "death_age": "52 years, 3 months, 2 days",
         "death_place": "",
         "death_year": "1838",
@@ -78468,9 +76173,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            576
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -78519,9 +76222,7 @@ I = [
         "attr": [],
         "birth_place": "Kinston, NC, USA",
         "birth_year": "1693",
-        "cita": [
-            2040
-        ],
+        "cita": [],
         "death_age": "79 years, 3 months, 15 days",
         "death_place": "Spencer, Clay, IA, USA",
         "death_year": "1772",
@@ -78616,9 +76317,7 @@ I = [
         "attr": [],
         "birth_place": "Paris, TN, USA",
         "birth_year": "1825",
-        "cita": [
-            1492
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -78681,9 +76380,7 @@ I = [
         "attr": [],
         "birth_place": "Virginia Beach, VA, USA",
         "birth_year": "1828",
-        "cita": [
-            1429
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -78748,9 +76445,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            122
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -78799,9 +76494,7 @@ I = [
         "attr": [],
         "birth_place": "Paris, TN, USA",
         "birth_year": "1818",
-        "cita": [
-            329
-        ],
+        "cita": [],
         "death_age": "53 years, 3 days",
         "death_place": "Kokomo, Howard, IN, USA",
         "death_year": "1871",
@@ -78881,9 +76574,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            231
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -78932,9 +76623,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            994
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -78981,9 +76670,7 @@ I = [
         "attr": [],
         "birth_place": "Bloomsburg, PA, USA",
         "birth_year": "1799",
-        "cita": [
-            1412
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -79046,9 +76733,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1790",
-        "cita": [
-            1988
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -79113,9 +76798,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1860",
-        "cita": [
-            2086
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -79178,9 +76861,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1844",
-        "cita": [
-            544
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -79243,9 +76924,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1220
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "Campbellsville, Taylor, KY, USA",
         "death_year": "?",
@@ -79302,9 +76981,7 @@ I = [
         "attr": [],
         "birth_place": "Albany, Dougherty, GA, USA",
         "birth_year": "1726",
-        "cita": [
-            1983
-        ],
+        "cita": [],
         "death_age": "71 years, 25 days",
         "death_place": "Harriman, TN, USA",
         "death_year": "1797",
@@ -79384,9 +77061,7 @@ I = [
         "attr": [],
         "birth_place": "McComb, MS, USA",
         "birth_year": "?",
-        "cita": [
-            408
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Campbellsville, Taylor, KY, USA",
         "death_year": "?",
@@ -79466,9 +77141,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1782",
-        "cita": [
-            1573
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -79531,9 +77204,7 @@ I = [
         "attr": [],
         "birth_place": "Paris, TN, USA",
         "birth_year": "1816",
-        "cita": [
-            1021
-        ],
+        "cita": [],
         "death_age": "26 years, 5 months, 2 days",
         "death_place": "",
         "death_year": "1842",
@@ -79611,9 +77282,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1794",
-        "cita": [
-            60
-        ],
+        "cita": [],
         "death_age": "81 years, 1 month, 25 days",
         "death_place": "",
         "death_year": "1875",
@@ -79693,9 +77362,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1858",
-        "cita": [
-            109
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -79760,9 +77427,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1864",
-        "cita": [
-            1734
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -79825,9 +77490,7 @@ I = [
         "attr": [],
         "birth_place": "Roanoke Rapids, NC, USA",
         "birth_year": "1752",
-        "cita": [
-            1518
-        ],
+        "cita": [],
         "death_age": "70 years, 9 months, 21 days",
         "death_place": "Santa Fe, NM, USA",
         "death_year": "1823",
@@ -79907,9 +77570,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1862",
-        "cita": [
-            933
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -79972,9 +77633,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1746
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -80023,9 +77682,7 @@ I = [
         "attr": [],
         "birth_place": "Paris, TN, USA",
         "birth_year": "1820",
-        "cita": [
-            1031
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -80090,9 +77747,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1830",
-        "cita": [
-            342
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -80157,9 +77812,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1981
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -80206,9 +77859,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1856",
-        "cita": [
-            395
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -80273,9 +77924,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            405
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -80322,9 +77971,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1832",
-        "cita": [
-            166
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -80389,9 +78036,7 @@ I = [
         "attr": [],
         "birth_place": "Paris, TN, USA",
         "birth_year": "1814",
-        "cita": [
-            2056
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -80456,9 +78101,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1742",
-        "cita": [
-            163
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -80515,9 +78158,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            137
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "Albany, Albany, NY, USA",
         "death_year": "?",
@@ -80574,9 +78215,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1234
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "Pottsville, PA, USA",
         "death_year": "1795",
@@ -80633,9 +78272,7 @@ I = [
         "attr": [],
         "birth_place": "Palatka, Putnam, FL, USA",
         "birth_year": "1830",
-        "cita": [
-            1358
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -80698,9 +78335,7 @@ I = [
         "attr": [],
         "birth_place": "Palatka, Putnam, FL, USA",
         "birth_year": "1832",
-        "cita": [
-            195
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -80763,9 +78398,7 @@ I = [
         "attr": [],
         "birth_place": "Roanoke, VA, USA",
         "birth_year": "20",
-        "cita": [
-            667
-        ],
+        "cita": [],
         "death_age": "greater than 110 years",
         "death_place": "Silver City, NM, USA",
         "death_year": "1852",
@@ -80860,9 +78493,7 @@ I = [
         "attr": [],
         "birth_place": "Champaign, Champaign, IL, USA",
         "birth_year": "1822",
-        "cita": [
-            1030
-        ],
+        "cita": [],
         "death_age": "54 years, 5 months, 3 days",
         "death_place": "Fayetteville, Washington, AR, USA",
         "death_year": "1877",
@@ -80957,9 +78588,7 @@ I = [
         "attr": [],
         "birth_place": "Palatka, Putnam, FL, USA",
         "birth_year": "1841",
-        "cita": [
-            2011
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -81022,9 +78651,7 @@ I = [
         "attr": [],
         "birth_place": "Palatka, Putnam, FL, USA",
         "birth_year": "1837",
-        "cita": [
-            19
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -81087,9 +78714,7 @@ I = [
         "attr": [],
         "birth_place": "Palatka, Putnam, FL, USA",
         "birth_year": "1839",
-        "cita": [
-            957
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -81152,9 +78777,7 @@ I = [
         "attr": [],
         "birth_place": "Palatka, Putnam, FL, USA",
         "birth_year": "1835",
-        "cita": [
-            1188
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -81217,9 +78840,7 @@ I = [
         "attr": [],
         "birth_place": "Palatka, Putnam, FL, USA",
         "birth_year": "1824",
-        "cita": [
-            375
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -81282,9 +78903,7 @@ I = [
         "attr": [],
         "birth_place": "Loveland, Larimer, CO, USA",
         "birth_year": "?",
-        "cita": [
-            1601
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Fargo, ND, USA",
         "death_year": "?",
@@ -81371,9 +78990,7 @@ I = [
         "attr": [],
         "birth_place": "Cullman, Cullman, AL, USA",
         "birth_year": "1951",
-        "cita": [
-            1834
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -81445,9 +79062,7 @@ I = [
         "attr": [],
         "birth_place": "Mount Vernon, OH, USA",
         "birth_year": "1981",
-        "cita": [
-            34
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -81525,9 +79140,7 @@ I = [
         "attr": [],
         "birth_place": "Mount Vernon, OH, USA",
         "birth_year": "1980",
-        "cita": [
-            917
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -81605,9 +79218,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            477
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -81648,9 +79259,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1236
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "Cambridge, Middlesex, MA, USA",
         "death_year": "?",
@@ -81707,9 +79316,7 @@ I = [
         "attr": [],
         "birth_place": "Cambridge, Middlesex, MA, USA",
         "birth_year": "?",
-        "cita": [
-            1927
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -81772,9 +79379,7 @@ I = [
         "attr": [],
         "birth_place": "Cambridge, Middlesex, MA, USA",
         "birth_year": "?",
-        "cita": [
-            407
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -81837,9 +79442,7 @@ I = [
         "attr": [],
         "birth_place": "Cambridge, Middlesex, MA, USA",
         "birth_year": "?",
-        "cita": [
-            118
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -81902,9 +79505,7 @@ I = [
         "attr": [],
         "birth_place": "Cambridge, Middlesex, MA, USA",
         "birth_year": "?",
-        "cita": [
-            1057
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -81967,9 +79568,7 @@ I = [
         "attr": [],
         "birth_place": "Cambridge, Middlesex, MA, USA",
         "birth_year": "?",
-        "cita": [
-            776
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -82032,9 +79631,7 @@ I = [
         "attr": [],
         "birth_place": "Cambridge, Middlesex, MA, USA",
         "birth_year": "?",
-        "cita": [
-            1400
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -82097,9 +79694,7 @@ I = [
         "attr": [],
         "birth_place": "Laredo, Webb, TX, USA",
         "birth_year": "?",
-        "cita": [
-            772
-        ],
+        "cita": [],
         "death_age": "about 39 years, 7 months, 12 days",
         "death_place": "Dumas, Moore, TX, USA",
         "death_year": "1828",
@@ -82186,9 +79781,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1776
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -82235,9 +79828,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            996
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -82276,9 +79867,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            275
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -82325,9 +79914,7 @@ I = [
         "attr": [],
         "birth_place": "Washington, District of Columbia, DC, USA",
         "birth_year": "?",
-        "cita": [
-            1089
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -82390,9 +79977,7 @@ I = [
         "attr": [],
         "birth_place": "Washington, District of Columbia, DC, USA",
         "birth_year": "?",
-        "cita": [
-            332
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -82455,9 +80040,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            909
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -82498,9 +80081,7 @@ I = [
         "attr": [],
         "birth_place": "Washington, District of Columbia, DC, USA",
         "birth_year": "?",
-        "cita": [
-            1372
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -82563,9 +80144,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            2033
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -82622,9 +80201,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            278
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -82689,9 +80266,7 @@ I = [
         "attr": [],
         "birth_place": "Yuma, Yuma, AZ, USA",
         "birth_year": "1813",
-        "cita": [
-            1744
-        ],
+        "cita": [],
         "death_age": "83 years, 5 months, 3 days",
         "death_place": "Staunton-Waynesboro, VA, USA",
         "death_year": "1896",
@@ -82778,9 +80353,7 @@ I = [
         "attr": [],
         "birth_place": "Staunton-Waynesboro, VA, USA",
         "birth_year": "1857",
-        "cita": [
-            413
-        ],
+        "cita": [],
         "death_age": "76 years, 3 months, 14 days",
         "death_place": "Ottawa, La Salle, IL, USA",
         "death_year": "1934",
@@ -82873,9 +80446,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1897",
-        "cita": [
-            129
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -82945,9 +80516,7 @@ I = [
         "attr": [],
         "birth_place": "Fort Morgan, Morgan, CO, USA",
         "birth_year": "?",
-        "cita": [
-            1772
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -83010,9 +80579,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1482
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -83051,9 +80618,7 @@ I = [
         "attr": [],
         "birth_place": "Palm Coast, Flagler, FL, USA",
         "birth_year": "?",
-        "cita": [
-            838
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -83116,9 +80681,7 @@ I = [
         "attr": [],
         "birth_place": "Palm Coast, Flagler, FL, USA",
         "birth_year": "?",
-        "cita": [
-            1751
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Newton, Jasper, IA, USA",
         "death_year": "1903",
@@ -83198,9 +80761,7 @@ I = [
         "attr": [],
         "birth_place": "Palm Coast, Flagler, FL, USA",
         "birth_year": "?",
-        "cita": [
-            1650
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -83263,9 +80824,7 @@ I = [
         "attr": [],
         "birth_place": "Grand Forks, ND, USA",
         "birth_year": "1916",
-        "cita": [
-            968
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -83330,9 +80889,7 @@ I = [
         "attr": [],
         "birth_place": "Palm Coast, Flagler, FL, USA",
         "birth_year": "?",
-        "cita": [
-            1416
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -83395,9 +80952,7 @@ I = [
         "attr": [],
         "birth_place": "Palm Coast, Flagler, FL, USA",
         "birth_year": "?",
-        "cita": [
-            1747
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -83454,9 +81009,7 @@ I = [
         "attr": [],
         "birth_place": "Crescent City North, CA, USA",
         "birth_year": "1872",
-        "cita": [
-            1759
-        ],
+        "cita": [],
         "death_age": "56 years, 3 months, 15 days",
         "death_place": "Newton, Jasper, IA, USA",
         "death_year": "1928",
@@ -83536,9 +81089,7 @@ I = [
         "attr": [],
         "birth_place": "Palm Coast, Flagler, FL, USA",
         "birth_year": "?",
-        "cita": [
-            1468
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -83603,9 +81154,7 @@ I = [
         "attr": [],
         "birth_place": "McAllen, Hidalgo, TX, USA",
         "birth_year": "1877",
-        "cita": [
-            11
-        ],
+        "cita": [],
         "death_age": "68 years, 10 months, 23 days",
         "death_place": "",
         "death_year": "1946",
@@ -83685,9 +81234,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            86
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -83728,9 +81275,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            309
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -83771,9 +81316,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1982",
-        "cita": [
-            1272
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -83851,9 +81394,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1947",
-        "cita": [
-            1212
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -83925,9 +81466,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1981",
-        "cita": [
-            48
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -84005,9 +81544,7 @@ I = [
         "attr": [],
         "birth_place": "Williston, ND, USA",
         "birth_year": "1711",
-        "cita": [
-            639
-        ],
+        "cita": [],
         "death_age": "57 years, 3 months, 12 days",
         "death_place": "Williston, ND, USA",
         "death_year": "1768",
@@ -84079,9 +81616,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            131
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -84122,9 +81657,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            668
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -84163,9 +81696,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1721
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -84204,9 +81735,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -84247,9 +81776,7 @@ I = [
         "attr": [],
         "birth_place": "Alma, MI, USA",
         "birth_year": "1914",
-        "cita": [
-            255
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -84321,9 +81848,7 @@ I = [
         "attr": [],
         "birth_place": "Sikeston, MO, USA",
         "birth_year": "?",
-        "cita": [
-            628
-        ],
+        "cita": [],
         "death_age": "about 52 years, 4 months, 9 days",
         "death_place": "Garden City, Finney, KS, USA",
         "death_year": "1731",
@@ -84418,9 +81943,7 @@ I = [
         "attr": [],
         "birth_place": "Rio Grande City, Starr, TX, USA",
         "birth_year": "1633",
-        "cita": [
-            2071
-        ],
+        "cita": [],
         "death_age": "78 years, 11 months, 19 days",
         "death_place": "Anchorage, AK, USA",
         "death_year": "1712",
@@ -84516,9 +82039,7 @@ I = [
         "attr": [],
         "birth_place": "Phoenix Lake, Tuolumne, CA, USA",
         "birth_year": "?",
-        "cita": [
-            1143
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -84575,9 +82096,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1983",
-        "cita": [
-            1160
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -84649,9 +82168,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1945",
-        "cita": [
-            802
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -84723,9 +82240,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            889
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "Palatka, Putnam, FL, USA",
         "death_year": "?",
@@ -84782,9 +82297,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1948",
-        "cita": [
-            1844
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -84856,9 +82369,7 @@ I = [
         "attr": [],
         "birth_place": "Tallulah, Madison, LA, USA",
         "birth_year": "1981",
-        "cita": [
-            605
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -84936,9 +82447,7 @@ I = [
         "attr": [],
         "birth_place": "Texarkana, Miller, AR, USA",
         "birth_year": "?",
-        "cita": [
-            1419
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Clinton, Clinton, IA, USA",
         "death_year": "?",
@@ -85018,9 +82527,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1228
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -85061,9 +82568,7 @@ I = [
         "attr": [],
         "birth_place": "Rockford, Winnebago, IL, USA",
         "birth_year": "?",
-        "cita": [
-            69
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Napa, Napa, CA, USA",
         "death_year": "?",
@@ -85158,9 +82663,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            8
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "Napa, Napa, CA, USA",
         "death_year": "?",
@@ -85225,9 +82728,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            609
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -85268,9 +82769,7 @@ I = [
         "attr": [],
         "birth_place": "Loveland, Larimer, CO, USA",
         "birth_year": "1843",
-        "cita": [
-            117
-        ],
+        "cita": [],
         "death_age": "33 years",
         "death_place": "",
         "death_year": "1876",
@@ -85342,9 +82841,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            213
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -85409,9 +82906,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            2081
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -85452,9 +82947,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            340
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -85501,9 +82994,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1993",
-        "cita": [
-            1296
-        ],
+        "cita": [],
         "death_age": "1 year, 4 months, 22 days",
         "death_place": "Ottawa, La Salle, IL, USA",
         "death_year": "1995",
@@ -85596,9 +83087,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1996",
-        "cita": [
-            1173
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -85676,9 +83165,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1961",
-        "cita": [
-            1442
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -85758,9 +83245,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1933",
-        "cita": [
-            1621
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -85832,9 +83317,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1967",
-        "cita": [
-            136
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -85914,9 +83397,7 @@ I = [
         "attr": [],
         "birth_place": "Worthington, MN, USA",
         "birth_year": "1998",
-        "cita": [
-            274
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -85994,9 +83475,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1963",
-        "cita": [
-            1181
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -86076,9 +83555,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            2069
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -86119,9 +83596,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1902
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -86162,9 +83637,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            798
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -86205,9 +83678,7 @@ I = [
         "attr": [],
         "birth_place": "Oskaloosa, Mahaska, IA, USA",
         "birth_year": "1887",
-        "cita": [
-            1616
-        ],
+        "cita": [],
         "death_age": "92 years, 7 months, 22 days",
         "death_place": "Elmira, Chemung, NY, USA",
         "death_year": "1979",
@@ -86302,9 +83773,7 @@ I = [
         "attr": [],
         "birth_place": "Palm Coast, Flagler, FL, USA",
         "birth_year": "1867",
-        "cita": [
-            581
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -86369,9 +83838,7 @@ I = [
         "attr": [],
         "birth_place": "Palm Coast, Flagler, FL, USA",
         "birth_year": "?",
-        "cita": [
-            468
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Albany, Albany, NY, USA",
         "death_year": "?",
@@ -86451,9 +83918,7 @@ I = [
         "attr": [],
         "birth_place": "Butte, MT, USA",
         "birth_year": "1982",
-        "cita": [
-            1826
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -86531,9 +83996,7 @@ I = [
         "attr": [],
         "birth_place": "Oskaloosa, Mahaska, IA, USA",
         "birth_year": "1889",
-        "cita": [
-            546
-        ],
+        "cita": [],
         "death_age": "80 years, 2 months, 6 days",
         "death_place": "Scranton, PA, USA",
         "death_year": "1969",
@@ -86628,9 +84091,7 @@ I = [
         "attr": [],
         "birth_place": "Palm Bay, Brevard, FL, USA",
         "birth_year": "1967",
-        "cita": [
-            750
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -86708,9 +84169,7 @@ I = [
         "attr": [],
         "birth_place": "Watertown, SD, USA",
         "birth_year": "1850",
-        "cita": [
-            548
-        ],
+        "cita": [],
         "death_age": "72 years, 9 months, 12 days",
         "death_place": "Point Pleasant, WV, USA",
         "death_year": "1922",
@@ -86805,9 +84264,7 @@ I = [
         "attr": [],
         "birth_place": "Troy, Pike, AL, USA",
         "birth_year": "?",
-        "cita": [
-            1294
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Troy, Pike, AL, USA",
         "death_year": "1909",
@@ -86885,9 +84342,7 @@ I = [
         "attr": [],
         "birth_place": "Santa Rosa-Petaluma, CA, USA",
         "birth_year": "1981",
-        "cita": [
-            1368
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -86965,9 +84420,7 @@ I = [
         "attr": [],
         "birth_place": "Wheeling, WV-OH, USA",
         "birth_year": "1963",
-        "cita": [
-            2020
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -87047,9 +84500,7 @@ I = [
         "attr": [],
         "birth_place": "Wheeling, WV-OH, USA",
         "birth_year": "1950",
-        "cita": [
-            1602
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -87129,9 +84580,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1054
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -87180,9 +84629,7 @@ I = [
         "attr": [],
         "birth_place": "Oskaloosa, Mahaska, IA, USA",
         "birth_year": "1885",
-        "cita": [
-            1379
-        ],
+        "cita": [],
         "death_age": "79 years, 11 months, 5 days",
         "death_place": "Clearlake, Lake, CA, USA",
         "death_year": "1965",
@@ -87277,9 +84724,7 @@ I = [
         "attr": [],
         "birth_place": "Bozeman, MT, USA",
         "birth_year": "1921",
-        "cita": [
-            124
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -87360,9 +84805,7 @@ I = [
         "attr": [],
         "birth_place": "Oskaloosa, Mahaska, IA, USA",
         "birth_year": "1883",
-        "cita": [
-            1719
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Clearlake, Lake, CA, USA",
         "death_year": "?",
@@ -87457,9 +84900,7 @@ I = [
         "attr": [],
         "birth_place": "Watertown, SD, USA",
         "birth_year": "1841",
-        "cita": [
-            63
-        ],
+        "cita": [],
         "death_age": "74 years",
         "death_place": "",
         "death_year": "1915",
@@ -87539,9 +84980,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1513
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -87588,9 +85027,7 @@ I = [
         "attr": [],
         "birth_place": "Racine, WI, USA",
         "birth_year": "?",
-        "cita": [
-            631
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -87653,9 +85090,7 @@ I = [
         "attr": [],
         "birth_place": "Findlay, OH, USA",
         "birth_year": "?",
-        "cita": [
-            762
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -87720,9 +85155,7 @@ I = [
         "attr": [],
         "birth_place": "Racine, WI, USA",
         "birth_year": "?",
-        "cita": [
-            396
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Brookings, OR, USA",
         "death_year": "?",
@@ -87802,9 +85235,7 @@ I = [
         "attr": [],
         "birth_place": "Racine, WI, USA",
         "birth_year": "1914",
-        "cita": [
-            983
-        ],
+        "cita": [],
         "death_age": "21 years, 5 months, 20 days",
         "death_place": "Troy, Pike, AL, USA",
         "death_year": "1936",
@@ -87897,9 +85328,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            299
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -87946,9 +85375,7 @@ I = [
         "attr": [],
         "birth_place": "Muncie, Delaware, IN, USA",
         "birth_year": "?",
-        "cita": [
-            1064
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Point Pleasant, WV, USA",
         "death_year": "?",
@@ -88035,9 +85462,7 @@ I = [
         "attr": [],
         "birth_place": "Boone, NC, USA",
         "birth_year": "?",
-        "cita": [
-            1932
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -88100,9 +85525,7 @@ I = [
         "attr": [],
         "birth_place": "Crescent City North, CA, USA",
         "birth_year": "?",
-        "cita": [
-            43
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Troy, Pike, AL, USA",
         "death_year": "1943",
@@ -88198,9 +85621,7 @@ I = [
         "attr": [],
         "birth_place": "Brenham, Washington, TX, USA",
         "birth_year": "1951",
-        "cita": [
-            1370
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -88265,9 +85686,7 @@ I = [
         "attr": [],
         "birth_place": "Alpena, MI, USA",
         "birth_year": "?",
-        "cita": [
-            1928
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -88330,9 +85749,7 @@ I = [
         "attr": [],
         "birth_place": "Muncie, Delaware, IN, USA",
         "birth_year": "1851",
-        "cita": [
-            1946
-        ],
+        "cita": [],
         "death_age": "74 years, 9 months, 12 days",
         "death_place": "Newton, Jasper, IA, USA",
         "death_year": "1925",
@@ -88427,9 +85844,7 @@ I = [
         "attr": [],
         "birth_place": "Wheeling, WV-OH, USA",
         "birth_year": "1941",
-        "cita": [
-            600
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -88509,9 +85924,7 @@ I = [
         "attr": [],
         "birth_place": "Palm Coast, Flagler, FL, USA",
         "birth_year": "1880",
-        "cita": [
-            1353
-        ],
+        "cita": [],
         "death_age": "0 days",
         "death_place": "Palm Coast, Flagler, FL, USA",
         "death_year": "1880",
@@ -88591,9 +86004,7 @@ I = [
         "attr": [],
         "birth_place": "Alpena, MI, USA",
         "birth_year": "?",
-        "cita": [
-            998
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -88656,9 +86067,7 @@ I = [
         "attr": [],
         "birth_place": "Palm Coast, Flagler, FL, USA",
         "birth_year": "?",
-        "cita": [
-            1302
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Cambridge, Middlesex, MA, USA",
         "death_year": "?",
@@ -88738,9 +86147,7 @@ I = [
         "attr": [],
         "birth_place": "Corsicana, Navarro, TX, USA",
         "birth_year": "1900",
-        "cita": [
-            1451
-        ],
+        "cita": [],
         "death_age": "86 years, 6 months, 3 days",
         "death_place": "Brookhaven, MS, USA",
         "death_year": "1987",
@@ -88833,9 +86240,7 @@ I = [
         "attr": [],
         "birth_place": "Racine, WI, USA",
         "birth_year": "?",
-        "cita": [
-            1686
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -88900,9 +86305,7 @@ I = [
         "attr": [],
         "birth_place": "Santa Rosa-Petaluma, CA, USA",
         "birth_year": "1983",
-        "cita": [
-            547
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -88980,9 +86383,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            106
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -89023,9 +86424,7 @@ I = [
         "attr": [],
         "birth_place": "Palm Coast, Flagler, FL, USA",
         "birth_year": "1880",
-        "cita": [
-            845
-        ],
+        "cita": [],
         "death_age": "0 days",
         "death_place": "Palm Coast, Flagler, FL, USA",
         "death_year": "1880",
@@ -89103,9 +86502,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            950
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "1974",
@@ -89170,9 +86567,7 @@ I = [
         "attr": [],
         "birth_place": "Palm Coast, Flagler, FL, USA",
         "birth_year": "1847",
-        "cita": [
-            472
-        ],
+        "cita": [],
         "death_age": "80 years, 9 months, 11 days",
         "death_place": "Newton, Jasper, IA, USA",
         "death_year": "1928",
@@ -89252,9 +86647,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1271
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "Findlay, OH, USA",
         "death_year": "?",
@@ -89317,9 +86710,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            524
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -89366,9 +86757,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1279
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -89409,9 +86798,7 @@ I = [
         "attr": [],
         "birth_place": "Wheeling, WV-OH, USA",
         "birth_year": "1939",
-        "cita": [
-            259
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -89491,9 +86878,7 @@ I = [
         "attr": [],
         "birth_place": "Santa Rosa-Petaluma, CA, USA",
         "birth_year": "1992",
-        "cita": [
-            1664
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -89571,9 +86956,7 @@ I = [
         "attr": [],
         "birth_place": "Gaithersburg, MD, USA",
         "birth_year": "1911",
-        "cita": [
-            585
-        ],
+        "cita": [],
         "death_age": "87 years, 6 months, 3 days",
         "death_place": "",
         "death_year": "1998",
@@ -89653,9 +87036,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            768
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -89696,9 +87077,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1770
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -89739,9 +87118,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            624
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -89782,9 +87159,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1361
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "Springfield, MO, USA",
         "death_year": "1819",
@@ -89849,9 +87224,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1076
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -89892,9 +87265,7 @@ I = [
         "attr": [],
         "birth_place": "Marshall, MO, USA",
         "birth_year": "?",
-        "cita": [
-            203
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Cleveland, MS, USA",
         "death_year": "1811",
@@ -89989,9 +87360,7 @@ I = [
         "attr": [],
         "birth_place": "Santa Cruz, Santa Cruz, CA, USA",
         "birth_year": "1799",
-        "cita": [
-            330
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Marshall, Harrison, TX, USA",
         "death_year": "?",
@@ -90086,9 +87455,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1600
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -90135,9 +87502,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            262
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -90184,9 +87549,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            422
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -90233,9 +87596,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            321
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -90282,9 +87643,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1875
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -90325,9 +87684,7 @@ I = [
         "attr": [],
         "birth_place": "San Sebasti\u00e1n, PR, USA",
         "birth_year": "1797",
-        "cita": [
-            370
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -90392,9 +87749,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1597
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -90441,9 +87796,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1237
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -90490,9 +87843,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            778
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -90542,9 +87893,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            20
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -90585,9 +87934,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            728
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "Mountain Home, Elmore, ID, USA",
         "death_year": "1871",
@@ -90652,9 +87999,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            935
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -90695,9 +88040,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1414
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -90754,9 +88097,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1369
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -90797,9 +88138,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            756
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -90840,9 +88179,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1555
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "Warren, PA, USA",
         "death_year": "1999",
@@ -90905,9 +88242,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            864
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -90948,9 +88283,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1101
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -90991,9 +88324,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1578
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -91043,9 +88374,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1772",
-        "cita": [
-            896
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Seymour, Jackson, IN, USA",
         "death_year": "?",
@@ -91117,9 +88446,7 @@ I = [
         "attr": [],
         "birth_place": "De Ridder, LA, USA",
         "birth_year": "1788",
-        "cita": [
-            880
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -91184,9 +88511,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            50
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -91233,9 +88558,7 @@ I = [
         "attr": [],
         "birth_place": "Lock Haven, PA, USA",
         "birth_year": "1747",
-        "cita": [
-            201
-        ],
+        "cita": [],
         "death_age": "73 years, 10 months, 18 days",
         "death_place": "Jackson, MI, USA",
         "death_year": "1821",
@@ -91330,9 +88653,7 @@ I = [
         "attr": [],
         "birth_place": "Steubenville, OH, USA",
         "birth_year": "?",
-        "cita": [
-            1861
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -91395,9 +88716,7 @@ I = [
         "attr": [],
         "birth_place": "Laredo, Webb, TX, USA",
         "birth_year": "?",
-        "cita": [
-            68
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Norfolk, NE, USA",
         "death_year": "1873",
@@ -91492,9 +88811,7 @@ I = [
         "attr": [],
         "birth_place": "Fort Lauderdale, Broward, FL, USA",
         "birth_year": "?",
-        "cita": [
-            1614
-        ],
+        "cita": [],
         "death_age": "about 90 years, 9 months",
         "death_place": "Duluth, MN, USA",
         "death_year": "1745",
@@ -91581,9 +88898,7 @@ I = [
         "attr": [],
         "birth_place": "Duluth, MN, USA",
         "birth_year": "?",
-        "cita": [
-            1840
-        ],
+        "cita": [],
         "death_age": "more than 37 years",
         "death_place": "Duluth, MN, USA",
         "death_year": "?",
@@ -91678,9 +88993,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            119
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -91727,9 +89040,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            992
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -91776,9 +89087,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            990
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -91825,9 +89134,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            777
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -91874,9 +89181,7 @@ I = [
         "attr": [],
         "birth_place": "De Ridder, LA, USA",
         "birth_year": "?",
-        "cita": [
-            934
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -91941,9 +89246,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1930",
-        "cita": [
-            1208
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -92015,9 +89318,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            285
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -92058,9 +89359,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            149
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -92101,9 +89400,7 @@ I = [
         "attr": [],
         "birth_place": "Levelland, Hockley, TX, USA",
         "birth_year": "1922",
-        "cita": [
-            1125
-        ],
+        "cita": [],
         "death_age": "76 years, 8 days",
         "death_place": "Worthington, MN, USA",
         "death_year": "1998",
@@ -92183,9 +89480,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            183
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -92226,9 +89521,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            2000
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -92269,9 +89562,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            699
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -92312,9 +89603,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1926",
-        "cita": [
-            1364
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -92371,9 +89660,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1200
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -92414,9 +89701,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            799
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -92465,9 +89750,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            965
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -92514,9 +89797,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1979",
-        "cita": [
-            1343
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -92594,9 +89875,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1287
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "1981",
@@ -92653,9 +89932,7 @@ I = [
         "attr": [],
         "birth_place": "Salisbury, NC, USA",
         "birth_year": "?",
-        "cita": [
-            541
-        ],
+        "cita": [],
         "death_age": "more than 65 years",
         "death_place": "Lamesa, Dawson, TX, USA",
         "death_year": "1648",
@@ -92750,9 +90027,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1131
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -92793,9 +90068,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1946",
-        "cita": [
-            1789
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -92867,9 +90140,7 @@ I = [
         "attr": [],
         "birth_place": "Hilo, HI, USA",
         "birth_year": "1608",
-        "cita": [
-            538
-        ],
+        "cita": [],
         "death_age": "87 years",
         "death_place": "Florence, Lauderdale, AL, USA",
         "death_year": "1695",
@@ -92964,9 +90235,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            850
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -93007,9 +90276,7 @@ I = [
         "attr": [],
         "birth_place": "Decatur, Macon, IL, USA",
         "birth_year": "1947",
-        "cita": [
-            2051
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -93081,9 +90348,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            434
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -93124,9 +90389,7 @@ I = [
         "attr": [],
         "birth_place": "Daphne, Baldwin, AL, USA",
         "birth_year": "1613",
-        "cita": [
-            142
-        ],
+        "cita": [],
         "death_age": "57 years",
         "death_place": "Ashtabula, OH, USA",
         "death_year": "1670",
@@ -93198,9 +90461,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1890
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "1677",
@@ -93263,9 +90524,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            902
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -93306,9 +90565,7 @@ I = [
         "attr": [],
         "birth_place": "Hilo, HI, USA",
         "birth_year": "?",
-        "cita": [
-            1869
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Hilo, HI, USA",
         "death_year": "?",
@@ -93380,9 +90637,7 @@ I = [
         "attr": [],
         "birth_place": "Hilo, HI, USA",
         "birth_year": "?",
-        "cita": [
-            2048
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Hilo, HI, USA",
         "death_year": "?",
@@ -93460,9 +90715,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            481
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -93519,9 +90772,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1788
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -93562,9 +90813,7 @@ I = [
         "attr": [],
         "birth_place": "DuBois, PA, USA",
         "birth_year": "1971",
-        "cita": [
-            500
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -93644,9 +90893,7 @@ I = [
         "attr": [],
         "birth_place": "Altoona, PA, USA",
         "birth_year": "1974",
-        "cita": [
-            2031
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -93724,9 +90971,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            354
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -93767,9 +91012,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1109
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -93816,9 +91059,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            2041
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -93865,9 +91106,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1059
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -93914,9 +91153,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1550
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "1957",
@@ -93973,9 +91210,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            691
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -94022,9 +91257,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1906
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -94071,9 +91304,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            2019
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -94114,9 +91345,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            809
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -94165,9 +91394,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1095
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -94214,9 +91441,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            141
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -94263,9 +91488,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            641
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -94306,9 +91529,7 @@ I = [
         "attr": [],
         "birth_place": "Vallejo, Solano, CA, USA",
         "birth_year": "1986",
-        "cita": [
-            304
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -94386,9 +91607,7 @@ I = [
         "attr": [],
         "birth_place": "Vallejo, Solano, CA, USA",
         "birth_year": "1991",
-        "cita": [
-            526
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -94466,9 +91685,7 @@ I = [
         "attr": [],
         "birth_place": "Vallejo, Solano, CA, USA",
         "birth_year": "1988",
-        "cita": [
-            1579
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -94546,9 +91763,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1963",
-        "cita": [
-            629
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -94620,9 +91835,7 @@ I = [
         "attr": [],
         "birth_place": "Connersville, Fayette, IN, USA",
         "birth_year": "?",
-        "cita": [
-            288
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Milwaukee, WI, USA",
         "death_year": "1611",
@@ -94694,9 +91907,7 @@ I = [
         "attr": [],
         "birth_place": "Santa Rosa-Petaluma, CA, USA",
         "birth_year": "1945",
-        "cita": [
-            1303
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -94768,9 +91979,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1955
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -94811,9 +92020,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1508
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -94854,9 +92061,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1838",
-        "cita": [
-            339
-        ],
+        "cita": [],
         "death_age": "77 years, 9 months, 23 days",
         "death_place": "Reno-Sparks, NV, USA",
         "death_year": "1916",
@@ -94928,9 +92133,7 @@ I = [
         "attr": [],
         "birth_place": "Mountain Home, Elmore, ID, USA",
         "birth_year": "1838",
-        "cita": [
-            1342
-        ],
+        "cita": [],
         "death_age": "77 years, 9 months, 23 days",
         "death_place": "Deltona, Volusia, FL, USA",
         "death_year": "1916",
@@ -95015,9 +92218,7 @@ I = [
         "attr": [],
         "birth_place": "Reno-Sparks, NV, USA",
         "birth_year": "1867",
-        "cita": [
-            1836
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Reno-Sparks, NV, USA",
         "death_year": "?",
@@ -95097,9 +92298,7 @@ I = [
         "attr": [],
         "birth_place": "Del Rio, Val Verde, TX, USA",
         "birth_year": "?",
-        "cita": [
-            1680
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -95156,9 +92355,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1624
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -95199,9 +92396,7 @@ I = [
         "attr": [],
         "birth_place": "McAlester, OK, USA",
         "birth_year": "1526",
-        "cita": [
-            673
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -95258,9 +92453,7 @@ I = [
         "attr": [],
         "birth_place": "Lebanon, PA, USA",
         "birth_year": "?",
-        "cita": [
-            2062
-        ],
+        "cita": [],
         "death_age": "about 32 years, 6 days",
         "death_place": "Caguas, PR, USA",
         "death_year": "1588",
@@ -95355,9 +92548,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            678
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -95398,9 +92589,7 @@ I = [
         "attr": [],
         "birth_place": "Medford, OR, USA",
         "birth_year": "1944",
-        "cita": [
-            1894
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -95472,9 +92661,7 @@ I = [
         "attr": [],
         "birth_place": "South Bend, St. Joseph, IN, USA",
         "birth_year": "1878",
-        "cita": [
-            482
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -95537,9 +92724,7 @@ I = [
         "attr": [],
         "birth_place": "Kingsport, TN, USA",
         "birth_year": "?",
-        "cita": [
-            1105
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -95604,9 +92789,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            509
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -95653,9 +92836,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1740
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -95704,9 +92885,7 @@ I = [
         "attr": [],
         "birth_place": "Alexandria, MD, USA",
         "birth_year": "1885",
-        "cita": [
-            1427
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Kearney, NE, USA",
         "death_year": "?",
@@ -95784,9 +92963,7 @@ I = [
         "attr": [],
         "birth_place": "Gulfport, MS, USA",
         "birth_year": "1850",
-        "cita": [
-            704
-        ],
+        "cita": [],
         "death_age": "51 years, 6 months, 25 days",
         "death_place": "Alexandria, Rapides, LA, USA",
         "death_year": "1901",
@@ -95864,9 +93041,7 @@ I = [
         "attr": [],
         "birth_place": "Niles, MI, USA",
         "birth_year": "1938",
-        "cita": [
-            495
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -95946,9 +93121,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            981
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -95997,9 +93170,7 @@ I = [
         "attr": [],
         "birth_place": "Gulfport, MS, USA",
         "birth_year": "1842",
-        "cita": [
-            943
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Ottawa, La Salle, IL, USA",
         "death_year": "?",
@@ -96079,9 +93250,7 @@ I = [
         "attr": [],
         "birth_place": "Dodge City, Ford, KS, USA",
         "birth_year": "?",
-        "cita": [
-            1338
-        ],
+        "cita": [],
         "death_age": "about 93 years, 4 months, 1 day",
         "death_place": "",
         "death_year": "1994",
@@ -96161,9 +93330,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1541
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -96204,9 +93371,7 @@ I = [
         "attr": [],
         "birth_place": "El Campo, Wharton, TX, USA",
         "birth_year": "1847",
-        "cita": [
-            647
-        ],
+        "cita": [],
         "death_age": "44 years, 8 months, 7 days",
         "death_place": "Plymouth, Marshall, IN, USA",
         "death_year": "1892",
@@ -96286,9 +93451,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1665
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -96329,9 +93492,7 @@ I = [
         "attr": [],
         "birth_place": "Jacksonville, NC, USA",
         "birth_year": "?",
-        "cita": [
-            458
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -96388,9 +93549,7 @@ I = [
         "attr": [],
         "birth_place": "Worthington, MN, USA",
         "birth_year": "1902",
-        "cita": [
-            113
-        ],
+        "cita": [],
         "death_age": "86 years, 1 month, 1 day",
         "death_place": "Worthington, MN, USA",
         "death_year": "1988",
@@ -96486,9 +93645,7 @@ I = [
         "attr": [],
         "birth_place": "Mount Sterling, Montgomery, KY, USA",
         "birth_year": "1857",
-        "cita": [
-            570
-        ],
+        "cita": [],
         "death_age": "87 years, 10 months",
         "death_place": "Ottawa, La Salle, IL, USA",
         "death_year": "1945",
@@ -96584,9 +93741,7 @@ I = [
         "attr": [],
         "birth_place": "Coshocton, OH, USA",
         "birth_year": "?",
-        "cita": [
-            1941
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -96664,9 +93819,7 @@ I = [
         "attr": [],
         "birth_place": "Mount Sterling, Montgomery, KY, USA",
         "birth_year": "1853",
-        "cita": [
-            1727
-        ],
+        "cita": [],
         "death_age": "63 years, 10 months, 11 days",
         "death_place": "Ottawa, La Salle, IL, USA",
         "death_year": "1917",
@@ -96744,9 +93897,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            859
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -96793,9 +93944,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            551
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -96844,9 +93993,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1110
-        ],
+        "cita": [],
         "death_age": "about 78 years, 1 month, 24 days",
         "death_place": "Poughkeepsie, Dutchess, NY, USA",
         "death_year": "1976",
@@ -96926,9 +94073,7 @@ I = [
         "attr": [],
         "birth_place": "Kingsport, TN, USA",
         "birth_year": "?",
-        "cita": [
-            1954
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -96991,9 +94136,7 @@ I = [
         "attr": [],
         "birth_place": "Niles, MI, USA",
         "birth_year": "1943",
-        "cita": [
-            814
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -97073,9 +94216,7 @@ I = [
         "attr": [],
         "birth_place": "Shelbyville, TN, USA",
         "birth_year": "?",
-        "cita": [
-            564
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Shelbyville, TN, USA",
         "death_year": "1886",
@@ -97162,9 +94303,7 @@ I = [
         "attr": [],
         "birth_place": "Defiance, OH, USA",
         "birth_year": "1844",
-        "cita": [
-            1214
-        ],
+        "cita": [],
         "death_age": "81 years, 10 months, 9 days",
         "death_place": "",
         "death_year": "1926",
@@ -97244,9 +94383,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            626
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -97293,9 +94430,7 @@ I = [
         "attr": [],
         "birth_place": "Kingsport, TN, USA",
         "birth_year": "?",
-        "cita": [
-            1552
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -97358,9 +94493,7 @@ I = [
         "attr": [],
         "birth_place": "Mount Sterling, Montgomery, KY, USA",
         "birth_year": "1839",
-        "cita": [
-            174
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Mount Sterling, Montgomery, KY, USA",
         "death_year": "?",
@@ -97438,9 +94571,7 @@ I = [
         "attr": [],
         "birth_place": "Columbus, NE, USA",
         "birth_year": "1878",
-        "cita": [
-            1431
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -97503,9 +94634,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1407
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -97554,9 +94683,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            486
-        ],
+        "cita": [],
         "death_age": "about 80 years, 9 months, 20 days",
         "death_place": "Worcester, Worcester, MA, USA",
         "death_year": "1927",
@@ -97628,9 +94755,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1684
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -97679,9 +94804,7 @@ I = [
         "attr": [],
         "birth_place": "El Centro, Imperial, CA, USA",
         "birth_year": "?",
-        "cita": [
-            104
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -97738,9 +94861,7 @@ I = [
         "attr": [],
         "birth_place": "Kingsport, TN, USA",
         "birth_year": "?",
-        "cita": [
-            812
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Rock Springs, WY, USA",
         "death_year": "?",
@@ -97818,9 +94939,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1255
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "Worcester, Worcester, MA, USA",
         "death_year": "1925",
@@ -97883,9 +95002,7 @@ I = [
         "attr": [],
         "birth_place": "Lebanon, MO, USA",
         "birth_year": "?",
-        "cita": [
-            2016
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -97950,9 +95067,7 @@ I = [
         "attr": [],
         "birth_place": "Kingsport, TN, USA",
         "birth_year": "?",
-        "cita": [
-            1711
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -98017,9 +95132,7 @@ I = [
         "attr": [],
         "birth_place": "Decatur, Morgan, AL, USA",
         "birth_year": "1928",
-        "cita": [
-            1363
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -98097,9 +95210,7 @@ I = [
         "attr": [],
         "birth_place": "Niles, MI, USA",
         "birth_year": "1934",
-        "cita": [
-            1722
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -98179,9 +95290,7 @@ I = [
         "attr": [],
         "birth_place": "Kearney, NE, USA",
         "birth_year": "?",
-        "cita": [
-            143
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -98246,9 +95355,7 @@ I = [
         "attr": [],
         "birth_place": "Mount Sterling, Montgomery, KY, USA",
         "birth_year": "1836",
-        "cita": [
-            363
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Decatur, Morgan, AL, USA",
         "death_year": "?",
@@ -98326,9 +95433,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1046
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "St, Louis, St, Louis, MO-IL, USA",
         "death_year": "1967",
@@ -98408,9 +95513,7 @@ I = [
         "attr": [],
         "birth_place": "Niles, MI, USA",
         "birth_year": "1936",
-        "cita": [
-            2024
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -98490,9 +95593,7 @@ I = [
         "attr": [],
         "birth_place": "Columbus, NE, USA",
         "birth_year": "?",
-        "cita": [
-            267
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -98555,9 +95656,7 @@ I = [
         "attr": [],
         "birth_place": "Worcester, Worcester, MA, USA",
         "birth_year": "?",
-        "cita": [
-            435
-        ],
+        "cita": [],
         "death_age": "about 77 years, 3 months, 11 days",
         "death_place": "Faribault-Northfield, MN, USA",
         "death_year": "1981",
@@ -98637,9 +95736,7 @@ I = [
         "attr": [],
         "birth_place": "Hayward, Alameda, CA, USA",
         "birth_year": "?",
-        "cita": [
-            1016
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -98696,9 +95793,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1739
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -98747,9 +95842,7 @@ I = [
         "attr": [],
         "birth_place": "Worcester, Worcester, MA, USA",
         "birth_year": "1906",
-        "cita": [
-            912
-        ],
+        "cita": [],
         "death_age": "78 years, 1 month, 11 days",
         "death_place": "Worcester, Worcester, MA, USA",
         "death_year": "1984",
@@ -98829,9 +95922,7 @@ I = [
         "attr": [],
         "birth_place": "Gadsden, Etowah, AL, USA",
         "birth_year": "?",
-        "cita": [
-            1643
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -98894,9 +95985,7 @@ I = [
         "attr": [],
         "birth_place": "Laconia, NH, USA",
         "birth_year": "1876",
-        "cita": [
-            325
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -98959,9 +96048,7 @@ I = [
         "attr": [],
         "birth_place": "Niles, MI, USA",
         "birth_year": "1948",
-        "cita": [
-            1615
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -99041,9 +96128,7 @@ I = [
         "attr": [],
         "birth_place": "Greeley, Weld, CO, USA",
         "birth_year": "?",
-        "cita": [
-            152
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Centralia, Marion, IL, USA",
         "death_year": "?",
@@ -99123,9 +96208,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1733
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -99172,9 +96255,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            2082
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -99223,9 +96304,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1522
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "Mooresville, NC, USA",
         "death_year": "?",
@@ -99297,9 +96376,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1718
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "Mount Vernon, WA, USA",
         "death_year": "?",
@@ -99364,9 +96441,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            2070
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -99415,9 +96490,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            440
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "Mount Vernon, WA, USA",
         "death_year": "?",
@@ -99482,9 +96555,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            707
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -99523,9 +96594,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            31
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -99574,9 +96643,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1883",
-        "cita": [
-            1284
-        ],
+        "cita": [],
         "death_age": "25 years, 7 months, 18 days",
         "death_place": "",
         "death_year": "1908",
@@ -99646,9 +96713,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            176
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -99687,9 +96752,7 @@ I = [
         "attr": [],
         "birth_place": "Hereford, Deaf Smith, TX, USA",
         "birth_year": "1819",
-        "cita": [
-            774
-        ],
+        "cita": [],
         "death_age": "78 years, 3 months, 18 days",
         "death_place": "Cadillac, MI, USA",
         "death_year": "1897",
@@ -99784,9 +96847,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            409
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -99825,9 +96886,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1038
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -99876,9 +96935,7 @@ I = [
         "attr": [],
         "birth_place": "Toccoa, Stephens, GA, USA",
         "birth_year": "?",
-        "cita": [
-            1049
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Lewiston, ME, USA",
         "death_year": "?",
@@ -99965,9 +97022,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1439
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -100014,9 +97069,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1892",
-        "cita": [
-            1923
-        ],
+        "cita": [],
         "death_age": "45 years, 10 months, 5 days",
         "death_place": "",
         "death_year": "1938",
@@ -100086,9 +97139,7 @@ I = [
         "attr": [],
         "birth_place": "Big Spring, Howard, TX, USA",
         "birth_year": "1856",
-        "cita": [
-            399
-        ],
+        "cita": [],
         "death_age": "72 years, 2 months, 3 days",
         "death_place": "Worthington, MN, USA",
         "death_year": "1929",
@@ -100183,9 +97234,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1880",
-        "cita": [
-            882
-        ],
+        "cita": [],
         "death_age": "69 years, 3 months, 14 days",
         "death_place": "",
         "death_year": "1950",
@@ -100255,9 +97304,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            209
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -100304,9 +97351,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1512
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -100345,9 +97390,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            2038
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -100394,9 +97437,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1094
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -100459,9 +97500,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1694",
-        "cita": [
-            1077
-        ],
+        "cita": [],
         "death_age": "46 years, 9 months, 16 days",
         "death_place": "Kalamazoo, MI, USA",
         "death_year": "1740",
@@ -100556,9 +97595,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1644",
-        "cita": [
-            1352
-        ],
+        "cita": [],
         "death_age": "63 years, 11 months, 5 days",
         "death_place": "",
         "death_year": "1707",
@@ -100630,9 +97667,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1246
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -100673,9 +97708,7 @@ I = [
         "attr": [],
         "birth_place": "Las Vegas, NM, USA",
         "birth_year": "1622",
-        "cita": [
-            621
-        ],
+        "cita": [],
         "death_age": "48 years",
         "death_place": "Laredo, Webb, TX, USA",
         "death_year": "1670",
@@ -100770,9 +97803,7 @@ I = [
         "attr": [],
         "birth_place": "Spokane, WA, USA",
         "birth_year": "1669",
-        "cita": [
-            388
-        ],
+        "cita": [],
         "death_age": "26 years",
         "death_place": "Sidney, OH, USA",
         "death_year": "1695",
@@ -100867,9 +97898,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            400
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "Easton, MD, USA",
         "death_year": "1788",
@@ -100949,9 +97978,7 @@ I = [
         "attr": [],
         "birth_place": "Las Vegas, NM, USA",
         "birth_year": "?",
-        "cita": [
-            1618
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Corning, Steuben, NY, USA",
         "death_year": "?",
@@ -101031,9 +98058,7 @@ I = [
         "attr": [],
         "birth_place": "Las Vegas, NM, USA",
         "birth_year": "?",
-        "cita": [
-            1848
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -101090,9 +98115,7 @@ I = [
         "attr": [],
         "birth_place": "Carson City, NV, USA",
         "birth_year": "?",
-        "cita": [
-            987
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Winchester, VA, USA",
         "death_year": "?",
@@ -101172,9 +98195,7 @@ I = [
         "attr": [],
         "birth_place": "Chester, SC, USA",
         "birth_year": "1643",
-        "cita": [
-            1332
-        ],
+        "cita": [],
         "death_age": "less than 52 years",
         "death_place": "Sidney, OH, USA",
         "death_year": "?",
@@ -101269,9 +98290,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1111
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -101318,9 +98337,7 @@ I = [
         "attr": [],
         "birth_place": "Moses Lake, WA, USA",
         "birth_year": "?",
-        "cita": [
-            1504
-        ],
+        "cita": [],
         "death_age": "about 93 years",
         "death_place": "Manhattan, Riley, KS, USA",
         "death_year": "?",
@@ -101415,9 +98432,7 @@ I = [
         "attr": [],
         "birth_place": "Crowley, Acadia, LA, USA",
         "birth_year": "?",
-        "cita": [
-            1055
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Crowley, Acadia, LA, USA",
         "death_year": "?",
@@ -101495,9 +98510,7 @@ I = [
         "attr": [],
         "birth_place": "Springfield, OH, USA",
         "birth_year": "1928",
-        "cita": [
-            300
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "Clearlake, Lake, CA, USA",
         "death_year": "?",
@@ -101590,9 +98603,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1922",
-        "cita": [
-            59
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -101673,9 +98684,7 @@ I = [
         "attr": [],
         "birth_place": "Springfield, OH, USA",
         "birth_year": "?",
-        "cita": [
-            1340
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -101738,9 +98747,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1961
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "Ottawa, La Salle, IL, USA",
         "death_year": "?",
@@ -101797,9 +98804,7 @@ I = [
         "attr": [],
         "birth_place": "Arkadelphia, Clark, AR, USA",
         "birth_year": "1723",
-        "cita": [
-            61
-        ],
+        "cita": [],
         "death_age": "57 years",
         "death_place": "Lafayette, Lafayette, LA, USA",
         "death_year": "1780",
@@ -101894,9 +98899,7 @@ I = [
         "attr": [],
         "birth_place": "Bartlesville, OK, USA",
         "birth_year": "1703",
-        "cita": [
-            594
-        ],
+        "cita": [],
         "death_age": "89 years",
         "death_place": "Lawrence, Douglas, KS, USA",
         "death_year": "1792",
@@ -101983,9 +98986,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            754
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -102026,9 +99027,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            888
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "Ruston, Lincoln, LA, USA",
         "death_year": "?",
@@ -102100,9 +99099,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1018",
-        "cita": [
-            1509
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -102159,9 +99156,7 @@ I = [
         "attr": [],
         "birth_place": "Dubuque, Dubuque, IA, USA",
         "birth_year": "1924",
-        "cita": [
-            346
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -102233,9 +99228,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1922",
-        "cita": [
-            1583
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -102307,9 +99300,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            2055
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "1703",
@@ -102366,9 +99357,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            357
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -102415,9 +99404,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1690
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "Sterling, Whiteside, IL, USA",
         "death_year": "?",
@@ -102474,9 +99461,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1347
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -102523,9 +99508,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1638
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -102572,9 +99555,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            775
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -102621,9 +99602,7 @@ I = [
         "attr": [],
         "birth_place": "Santa Rosa-Petaluma, CA, USA",
         "birth_year": "1975",
-        "cita": [
-            1640
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -102701,9 +99680,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1806
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -102744,9 +99721,7 @@ I = [
         "attr": [],
         "birth_place": "Santa Rosa-Petaluma, CA, USA",
         "birth_year": "1979",
-        "cita": [
-            520
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -102824,9 +99799,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1080",
-        "cita": [
-            1221
-        ],
+        "cita": [],
         "death_age": "62 years",
         "death_place": "",
         "death_year": "1142",
@@ -102898,9 +99871,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            478
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -102941,9 +99912,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1069
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -102984,9 +99953,7 @@ I = [
         "attr": [],
         "birth_place": "Mayag\u00fcez, PR, USA",
         "birth_year": "?",
-        "cita": [
-            664
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -103049,9 +100016,7 @@ I = [
         "attr": [],
         "birth_place": "Mayag\u00fcez, PR, USA",
         "birth_year": "1820",
-        "cita": [
-            1944
-        ],
+        "cita": [],
         "death_age": "82 years, 4 months, 21 days",
         "death_place": "Juneau, AK, USA",
         "death_year": "1902",
@@ -103129,9 +100094,7 @@ I = [
         "attr": [],
         "birth_place": "La Follette, TN, USA",
         "birth_year": "?",
-        "cita": [
-            2013
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -103194,9 +100157,7 @@ I = [
         "attr": [],
         "birth_place": "La Follette, TN, USA",
         "birth_year": "?",
-        "cita": [
-            1316
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -103259,9 +100220,7 @@ I = [
         "attr": [],
         "birth_place": "Mayag\u00fcez, PR, USA",
         "birth_year": "1816",
-        "cita": [
-            2002
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -103324,9 +100283,7 @@ I = [
         "attr": [],
         "birth_place": "La Follette, TN, USA",
         "birth_year": "1776",
-        "cita": [
-            856
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -103389,9 +100346,7 @@ I = [
         "attr": [],
         "birth_place": "Mayag\u00fcez, PR, USA",
         "birth_year": "1807",
-        "cita": [
-            1594
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -103454,9 +100409,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1871
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "Huntsville, Walker, TX, USA",
         "death_year": "1849",
@@ -103521,9 +100474,7 @@ I = [
         "attr": [],
         "birth_place": "La Follette, TN, USA",
         "birth_year": "1781",
-        "cita": [
-            1610
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -103586,9 +100537,7 @@ I = [
         "attr": [],
         "birth_place": "Mayag\u00fcez, PR, USA",
         "birth_year": "1825",
-        "cita": [
-            1129
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -103651,9 +100600,7 @@ I = [
         "attr": [],
         "birth_place": "Santa Isabel, PR, USA",
         "birth_year": "1814",
-        "cita": [
-            1274
-        ],
+        "cita": [],
         "death_age": "86 years, 3 months, 17 days",
         "death_place": "Billings, MT, USA",
         "death_year": "1900",
@@ -103748,9 +100695,7 @@ I = [
         "attr": [],
         "birth_place": "Lewiston, Nez Perce, ID, USA",
         "birth_year": "1770",
-        "cita": [
-            2059
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -103815,9 +100760,7 @@ I = [
         "attr": [],
         "birth_place": "Mayag\u00fcez, PR, USA",
         "birth_year": "1823",
-        "cita": [
-            140
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -103880,9 +100823,7 @@ I = [
         "attr": [],
         "birth_place": "Mayag\u00fcez, PR, USA",
         "birth_year": "1828",
-        "cita": [
-            2005
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -103945,9 +100886,7 @@ I = [
         "attr": [],
         "birth_place": "La Follette, TN, USA",
         "birth_year": "1772",
-        "cita": [
-            21
-        ],
+        "cita": [],
         "death_age": "81 years, 5 months, 26 days",
         "death_place": "Augusta, ME, USA",
         "death_year": "1853",
@@ -104028,9 +100967,7 @@ I = [
         "attr": [],
         "birth_place": "Mayag\u00fcez, PR, USA",
         "birth_year": "1821",
-        "cita": [
-            1238
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -104093,9 +101030,7 @@ I = [
         "attr": [],
         "birth_place": "La Follette, TN, USA",
         "birth_year": "?",
-        "cita": [
-            1019
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -104158,9 +101093,7 @@ I = [
         "attr": [],
         "birth_place": "La Follette, TN, USA",
         "birth_year": "1778",
-        "cita": [
-            1827
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -104225,9 +101158,7 @@ I = [
         "attr": [],
         "birth_place": "La Follette, TN, USA",
         "birth_year": "?",
-        "cita": [
-            430
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -104290,9 +101221,7 @@ I = [
         "attr": [],
         "birth_place": "Mayag\u00fcez, PR, USA",
         "birth_year": "1806",
-        "cita": [
-            420
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -104355,9 +101284,7 @@ I = [
         "attr": [],
         "birth_place": "Mayag\u00fcez, PR, USA",
         "birth_year": "1818",
-        "cita": [
-            1013
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -104420,9 +101347,7 @@ I = [
         "attr": [],
         "birth_place": "Manhattan, Riley, KS, USA",
         "birth_year": "1785",
-        "cita": [
-            1154
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Juneau, AK, USA",
         "death_year": "?",
@@ -104517,9 +101442,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1759",
-        "cita": [
-            1307
-        ],
+        "cita": [],
         "death_age": "about 25 years, 10 months, 15 days",
         "death_place": "",
         "death_year": "?",
@@ -104591,9 +101514,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1207
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -104634,9 +101555,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1607",
-        "cita": [
-            818
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -104693,9 +101612,7 @@ I = [
         "attr": [],
         "birth_place": "Tullahoma, TN, USA",
         "birth_year": "1955",
-        "cita": [
-            378
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -104767,9 +101684,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            906
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -104810,9 +101725,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1398
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "Huntsville, Madison, AL, USA",
         "death_year": "?",
@@ -104869,9 +101782,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            897
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -104912,9 +101823,7 @@ I = [
         "attr": [],
         "birth_place": "Pittsburgh, PA, USA",
         "birth_year": "1709",
-        "cita": [
-            433
-        ],
+        "cita": [],
         "death_age": "42 years, 9 months, 5 days",
         "death_place": "Laredo, Webb, TX, USA",
         "death_year": "1751",
@@ -105009,9 +101918,7 @@ I = [
         "attr": [],
         "birth_place": "Laredo, Webb, TX, USA",
         "birth_year": "1786",
-        "cita": [
-            421
-        ],
+        "cita": [],
         "death_age": "91 years, 5 months, 5 days",
         "death_place": "Dallas, Dallas, TX, USA",
         "death_year": "1877",
@@ -105098,9 +102005,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1968",
-        "cita": [
-            1152
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -105180,9 +102085,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1964",
-        "cita": [
-            393
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -105262,9 +102165,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1990",
-        "cita": [
-            852
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -105342,9 +102243,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1942",
-        "cita": [
-            740
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -105425,9 +102324,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1936",
-        "cita": [
-            1666
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -105507,9 +102404,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1987",
-        "cita": [
-            1767
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -105587,9 +102482,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1908",
-        "cita": [
-            1544
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Alexandria, Rapides, LA, USA",
         "death_year": "?",
@@ -105676,9 +102569,7 @@ I = [
         "attr": [],
         "birth_place": "Wilmington, OH, USA",
         "birth_year": "?",
-        "cita": [
-            820
-        ],
+        "cita": [],
         "death_age": "about 72 years",
         "death_place": "Wilmington, OH, USA",
         "death_year": "1628",
@@ -105750,9 +102641,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1508",
-        "cita": [
-            1949
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -105809,9 +102698,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            584
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -105852,9 +102739,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1951",
-        "cita": [
-            1490
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -105926,9 +102811,7 @@ I = [
         "attr": [],
         "birth_place": "Phoenix, Maricopa, AZ, USA",
         "birth_year": "?",
-        "cita": [
-            549
-        ],
+        "cita": [],
         "death_age": "about 65 years",
         "death_place": "Phoenix, Maricopa, AZ, USA",
         "death_year": "1545",
@@ -106008,9 +102891,7 @@ I = [
         "attr": [],
         "birth_place": "Statesboro, Bulloch, GA, USA",
         "birth_year": "1991",
-        "cita": [
-            1676
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -106088,9 +102969,7 @@ I = [
         "attr": [],
         "birth_place": "Statesboro, Bulloch, GA, USA",
         "birth_year": "1988",
-        "cita": [
-            1837
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -106168,9 +103047,7 @@ I = [
         "attr": [],
         "birth_place": "Redwood City, San Mateo, CA, USA",
         "birth_year": "?",
-        "cita": [
-            1723
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "",
         "death_year": "1658",
@@ -106242,9 +103119,7 @@ I = [
         "attr": [],
         "birth_place": "Camden, NJ, USA",
         "birth_year": "?",
-        "cita": [
-            372
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -106309,9 +103184,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            2025
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -106360,9 +103233,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1150
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -106411,9 +103282,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            612
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -106454,9 +103323,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            341
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -106505,9 +103372,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1787
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -106570,9 +103435,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            219
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -106619,9 +103482,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1635
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -106662,9 +103523,7 @@ I = [
         "attr": [],
         "birth_place": "Decatur, Morgan, AL, USA",
         "birth_year": "?",
-        "cita": [
-            1700
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -106721,9 +103580,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1869",
-        "cita": [
-            1608
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Troy, Pike, AL, USA",
         "death_year": "?",
@@ -106795,9 +103652,7 @@ I = [
         "attr": [],
         "birth_place": "Greenville, MS, USA",
         "birth_year": "?",
-        "cita": [
-            151
-        ],
+        "cita": [],
         "death_age": "about 60 years",
         "death_place": "Bucyrus, OH, USA",
         "death_year": "1740",
@@ -106869,9 +103724,7 @@ I = [
         "attr": [],
         "birth_place": "Del Rio, Val Verde, TX, USA",
         "birth_year": "1817",
-        "cita": [
-            1225
-        ],
+        "cita": [],
         "death_age": "85 years, 3 months",
         "death_place": "Summerville, Chattooga, GA, USA",
         "death_year": "1902",
@@ -106958,9 +103811,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            289
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -107001,9 +103852,7 @@ I = [
         "attr": [],
         "birth_place": "Cheyenne, WY, USA",
         "birth_year": "?",
-        "cita": [
-            519
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -107060,9 +103909,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1235
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -107103,9 +103950,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1885",
-        "cita": [
-            1777
-        ],
+        "cita": [],
         "death_age": "75 years, 7 months, 26 days",
         "death_place": "",
         "death_year": "1960",
@@ -107177,9 +104022,7 @@ I = [
         "attr": [],
         "birth_place": "Lock Haven, PA, USA",
         "birth_year": "?",
-        "cita": [
-            830
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "",
         "death_year": "1860",
@@ -107274,9 +104117,7 @@ I = [
         "attr": [],
         "birth_place": "Peru, Miami, IN, USA",
         "birth_year": "?",
-        "cita": [
-            794
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Seneca Falls, Seneca, NY, USA",
         "death_year": "?",
@@ -107371,9 +104212,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1110",
-        "cita": [
-            1058
-        ],
+        "cita": [],
         "death_age": "85 years",
         "death_place": "",
         "death_year": "1195",
@@ -107446,9 +104285,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            729
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -107489,9 +104326,7 @@ I = [
         "attr": [],
         "birth_place": "Reno-Sparks, NV, USA",
         "birth_year": "?",
-        "cita": [
-            1149
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -107556,9 +104391,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1804",
-        "cita": [
-            1485
-        ],
+        "cita": [],
         "death_age": "37 years, 11 months, 2 days",
         "death_place": "Reno-Sparks, NV, USA",
         "death_year": "1842",
@@ -107645,9 +104478,7 @@ I = [
         "attr": [],
         "birth_place": "Waterloo-Cedar Falls, IA, USA",
         "birth_year": "1711",
-        "cita": [
-            1323
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Auburn, Cayuga, NY, USA",
         "death_year": "?",
@@ -107719,9 +104550,7 @@ I = [
         "attr": [],
         "birth_place": "Reno-Sparks, NV, USA",
         "birth_year": "?",
-        "cita": [
-            1970
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -107786,9 +104615,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            154
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -107851,9 +104678,7 @@ I = [
         "attr": [],
         "birth_place": "Reno-Sparks, NV, USA",
         "birth_year": "?",
-        "cita": [
-            1857
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -107918,9 +104743,7 @@ I = [
         "attr": [],
         "birth_place": "Boulder, Boulder, CO, USA",
         "birth_year": "1834",
-        "cita": [
-            1254
-        ],
+        "cita": [],
         "death_age": "65 years, 6 months, 29 days",
         "death_place": "Reno-Sparks, NV, USA",
         "death_year": "1899",
@@ -108015,9 +104838,7 @@ I = [
         "attr": [],
         "birth_place": "Reno-Sparks, NV, USA",
         "birth_year": "?",
-        "cita": [
-            1321
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -108082,9 +104903,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1092
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -108133,9 +104952,7 @@ I = [
         "attr": [],
         "birth_place": "Watertown-Fort Drum, NY, USA",
         "birth_year": "?",
-        "cita": [
-            1823
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Kahului, HI, USA",
         "death_year": "9",
@@ -108222,9 +105039,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            18
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -108265,9 +105080,7 @@ I = [
         "attr": [],
         "birth_place": "Davenport, Scott, IA, USA",
         "birth_year": "1805",
-        "cita": [
-            947
-        ],
+        "cita": [],
         "death_age": "63 years, 7 months, 4 days",
         "death_place": "Guaynabo, PR, USA",
         "death_year": "1869",
@@ -108354,9 +105167,7 @@ I = [
         "attr": [],
         "birth_place": "Iowa City, Johnson, IA, USA",
         "birth_year": "?",
-        "cita": [
-            1147
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -108421,9 +105232,7 @@ I = [
         "attr": [],
         "birth_place": "Sweetwater, Nolan, TX, USA",
         "birth_year": "?",
-        "cita": [
-            96
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -108480,9 +105289,7 @@ I = [
         "attr": [],
         "birth_place": "Akron, OH, USA",
         "birth_year": "?",
-        "cita": [
-            1867
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -108539,9 +105346,7 @@ I = [
         "attr": [],
         "birth_place": "Pahrump, NV, USA",
         "birth_year": "1945",
-        "cita": [
-            1878
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -108613,9 +105418,7 @@ I = [
         "attr": [],
         "birth_place": "Del Rio, Val Verde, TX, USA",
         "birth_year": "?",
-        "cita": [
-            479
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Del Rio, Val Verde, TX, USA",
         "death_year": "?",
@@ -108687,9 +105490,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            134
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "1840",
@@ -108746,9 +105547,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            105
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -108789,9 +105588,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1479
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -108832,9 +105629,7 @@ I = [
         "attr": [],
         "birth_place": "Valley, Chambers, AL, USA",
         "birth_year": "?",
-        "cita": [
-            1500
-        ],
+        "cita": [],
         "death_age": "about 77 years, 11 months, 19 days",
         "death_place": "Portales, NM, USA",
         "death_year": "1662",
@@ -108906,9 +105701,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1858
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -108965,9 +105758,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1440
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "Dover, Kent, DE, USA",
         "death_year": "?",
@@ -109024,9 +105815,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            705
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -109067,9 +105856,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            625
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -109110,9 +105897,7 @@ I = [
         "attr": [],
         "birth_place": "Wisconsin Rapids, WI, USA",
         "birth_year": "?",
-        "cita": [
-            822
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -109169,9 +105954,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            692
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -109212,9 +105995,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1182
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -109255,9 +106036,7 @@ I = [
         "attr": [],
         "birth_place": "Missoula, MT, USA",
         "birth_year": "1966",
-        "cita": [
-            956
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -109329,9 +106108,7 @@ I = [
         "attr": [],
         "birth_place": "Jackson, WY, USA",
         "birth_year": "1997",
-        "cita": [
-            324
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -109409,9 +106186,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            239
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -109452,9 +106227,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            595
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -109495,9 +106268,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1656",
-        "cita": [
-            1877
-        ],
+        "cita": [],
         "death_age": "74 years, 7 months, 15 days",
         "death_place": "",
         "death_year": "1731",
@@ -109577,9 +106348,7 @@ I = [
         "attr": [],
         "birth_place": "Quincy, Adams, IL-MO, USA",
         "birth_year": "1691",
-        "cita": [
-            1286
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -109636,9 +106405,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1718",
-        "cita": [
-            530
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -109695,9 +106462,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1543
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -109744,9 +106509,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            683
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -109793,9 +106556,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            593
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -109842,9 +106603,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1951
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -109891,9 +106650,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1357
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -109940,9 +106697,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1137
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -109989,9 +106744,7 @@ I = [
         "attr": [],
         "birth_place": "Flagstaff, Coconino, AZ, USA",
         "birth_year": "?",
-        "cita": [
-            1758
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "St, Marys, St, Marys, PA, USA",
         "death_year": "?",
@@ -110071,9 +106824,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            269
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -110120,9 +106871,7 @@ I = [
         "attr": [],
         "birth_place": "Hannibal, MO, USA",
         "birth_year": "1620",
-        "cita": [
-            1068
-        ],
+        "cita": [],
         "death_age": "64 years, 9 months, 14 days",
         "death_place": "Mobile, Mobile, AL, USA",
         "death_year": "1684",
@@ -110203,9 +106952,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1166
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -110246,9 +106993,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1780",
-        "cita": [
-            687
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -110305,9 +107050,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1934
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -110348,9 +107091,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            700
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -110391,9 +107132,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            921
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -110434,9 +107173,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1771
-        ],
+        "cita": [],
         "death_age": "about 52 years",
         "death_place": "Hudson, Columbia, NY, USA",
         "death_year": "1632",
@@ -110508,9 +107245,7 @@ I = [
         "attr": [],
         "birth_place": "Ashland, OH, USA",
         "birth_year": "1620",
-        "cita": [
-            1138
-        ],
+        "cita": [],
         "death_age": "93 years",
         "death_place": "Wilmington, New Castle, DE-MD-NJ, USA",
         "death_year": "1713",
@@ -110590,9 +107325,7 @@ I = [
         "attr": [],
         "birth_place": "Del Rio, Val Verde, TX, USA",
         "birth_year": "?",
-        "cita": [
-            1164
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Lumberton, NC, USA",
         "death_year": "?",
@@ -110679,9 +107412,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1241
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -110720,9 +107451,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1885
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -110763,9 +107492,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            2087
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -110804,9 +107531,7 @@ I = [
         "attr": [],
         "birth_place": "Flint, MI, USA",
         "birth_year": "?",
-        "cita": [
-            351
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -110863,9 +107588,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1913",
-        "cita": [
-            1800
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -110945,9 +107668,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1911",
-        "cita": [
-            1394
-        ],
+        "cita": [],
         "death_age": "72 years, 4 months, 21 days",
         "death_place": "",
         "death_year": "1983",
@@ -111042,9 +107763,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            583
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -111083,9 +107802,7 @@ I = [
         "attr": [],
         "birth_place": "Midland, MI, USA",
         "birth_year": "1949",
-        "cita": [
-            763
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -111165,9 +107882,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1266
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -111208,9 +107923,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1891",
-        "cita": [
-            1651
-        ],
+        "cita": [],
         "death_age": "76 years, 4 months, 21 days",
         "death_place": "Nashville, TN, USA",
         "death_year": "1968",
@@ -111303,9 +108016,7 @@ I = [
         "attr": [],
         "birth_place": "Natchez, Natchitoches, MS-LA, USA",
         "birth_year": "1727",
-        "cita": [
-            796
-        ],
+        "cita": [],
         "death_age": "77 years, 10 months, 22 days",
         "death_place": "West Palm Beach, Palm Beach, FL, USA",
         "death_year": "1805",
@@ -111377,9 +108088,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1889",
-        "cita": [
-            190
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Nashville, TN, USA",
         "death_year": "?",
@@ -111472,9 +108181,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1873",
-        "cita": [
-            948
-        ],
+        "cita": [],
         "death_age": "76 years, 7 months, 5 days",
         "death_place": "Frederick, MD, USA",
         "death_year": "1950",
@@ -111569,9 +108276,7 @@ I = [
         "attr": [],
         "birth_place": "Waco, McLennan, TX, USA",
         "birth_year": "1820",
-        "cita": [
-            1196
-        ],
+        "cita": [],
         "death_age": "75 years, 1 month, 14 days",
         "death_place": "Fayetteville, Washington, AR, USA",
         "death_year": "1895",
@@ -111666,9 +108371,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1879",
-        "cita": [
-            589
-        ],
+        "cita": [],
         "death_age": "40 years, 3 months, 25 days",
         "death_place": "",
         "death_year": "1919",
@@ -111746,9 +108449,7 @@ I = [
         "attr": [],
         "birth_place": "Ashtabula, OH, USA",
         "birth_year": "1678",
-        "cita": [
-            1657
-        ],
+        "cita": [],
         "death_age": "72 years",
         "death_place": "Ashtabula, OH, USA",
         "death_year": "1750",
@@ -111826,9 +108527,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1769
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "Ashtabula, OH, USA",
         "death_year": "1699",
@@ -111893,9 +108592,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1886",
-        "cita": [
-            724
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Nashville, TN, USA",
         "death_year": "?",
@@ -111988,9 +108685,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1881",
-        "cita": [
-            1760
-        ],
+        "cita": [],
         "death_age": "76 years, 3 months, 2 days",
         "death_place": "Shreveport, Caddo, LA, USA",
         "death_year": "1957",
@@ -112068,9 +108763,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            471
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -112111,9 +108804,7 @@ I = [
         "attr": [],
         "birth_place": "Shelton, WA, USA",
         "birth_year": "1765",
-        "cita": [
-            1192
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Clearlake, Lake, CA, USA",
         "death_year": "?",
@@ -112193,9 +108884,7 @@ I = [
         "attr": [],
         "birth_place": "Fayetteville, Washington, AR, USA",
         "birth_year": "1851",
-        "cita": [
-            860
-        ],
+        "cita": [],
         "death_age": "69 years, 8 months, 16 days",
         "death_place": "Milledgeville, Baldwin, GA, USA",
         "death_year": "1921",
@@ -112290,9 +108979,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1884",
-        "cita": [
-            1012
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Nashville, TN, USA",
         "death_year": "?",
@@ -112385,9 +109072,7 @@ I = [
         "attr": [],
         "birth_place": "Gardnerville Ranchos, NV, USA",
         "birth_year": "1877",
-        "cita": [
-            337
-        ],
+        "cita": [],
         "death_age": "87 years, 10 months",
         "death_place": "Saginaw, MI, USA",
         "death_year": "1965",
@@ -112482,9 +109167,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1905",
-        "cita": [
-            815
-        ],
+        "cita": [],
         "death_age": "90 years, 2 months, 24 days",
         "death_place": "Cortland, Cortland, NY, USA",
         "death_year": "1995",
@@ -112571,9 +109254,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            417
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -112614,9 +109295,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1894",
-        "cita": [
-            1130
-        ],
+        "cita": [],
         "death_age": "55 years, 8 months, 20 days",
         "death_place": "Shreveport, Caddo, LA, USA",
         "death_year": "1950",
@@ -112709,9 +109388,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1874",
-        "cita": [
-            1467
-        ],
+        "cita": [],
         "death_age": "66 years, 1 month, 1 day",
         "death_place": "",
         "death_year": "1940",
@@ -112789,9 +109466,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1096
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "Johnstown, PA, USA",
         "death_year": "?",
@@ -112861,9 +109536,7 @@ I = [
         "attr": [],
         "birth_place": "Jacksonville, Cherokee, TX, USA",
         "birth_year": "1790",
-        "cita": [
-            1477
-        ],
+        "cita": [],
         "death_age": "55 years, 9 months, 7 days",
         "death_place": "Branson, MO, USA",
         "death_year": "1846",
@@ -112958,9 +109631,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1354
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -113001,9 +109672,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            466
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -113044,9 +109713,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1366
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -113087,9 +109754,7 @@ I = [
         "attr": [],
         "birth_place": "Meridian, MS, USA",
         "birth_year": "1785",
-        "cita": [
-            916
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Rolla, MO, USA",
         "death_year": "?",
@@ -113176,9 +109841,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            929
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -113219,9 +109882,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            714
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -113262,9 +109923,7 @@ I = [
         "attr": [],
         "birth_place": "Waterloo-Cedar Falls, IA, USA",
         "birth_year": "?",
-        "cita": [
-            749
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Waterloo-Cedar Falls, IA, USA",
         "death_year": "?",
@@ -113336,9 +109995,7 @@ I = [
         "attr": [],
         "birth_place": "Aberdeen, SD, USA",
         "birth_year": "1963",
-        "cita": [
-            572
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -113410,9 +110067,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1566
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -113453,9 +110108,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1381
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -113496,9 +110149,7 @@ I = [
         "attr": [],
         "birth_place": "Portland, ME, USA",
         "birth_year": "1928",
-        "cita": [
-            744
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -113578,9 +110229,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            579
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -113627,9 +110276,7 @@ I = [
         "attr": [],
         "birth_place": "Medford, OR, USA",
         "birth_year": "1951",
-        "cita": [
-            1001
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -113710,9 +110357,7 @@ I = [
         "attr": [],
         "birth_place": "Chillicothe, OH, USA",
         "birth_year": "?",
-        "cita": [
-            1256
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -113769,9 +110414,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1955",
-        "cita": [
-            553
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -113843,9 +110486,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            972
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -113886,9 +110527,7 @@ I = [
         "attr": [],
         "birth_place": "Del Rio, Val Verde, TX, USA",
         "birth_year": "1864",
-        "cita": [
-            398
-        ],
+        "cita": [],
         "death_age": "73 years, 3 months, 5 days",
         "death_place": "Ann Arbor, MI, USA",
         "death_year": "1937",
@@ -113983,9 +110622,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1250",
-        "cita": [
-            415
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -114042,9 +110679,7 @@ I = [
         "attr": [],
         "birth_place": "Allentown, PA, USA",
         "birth_year": "1980",
-        "cita": [
-            1249
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -114122,9 +110757,7 @@ I = [
         "attr": [],
         "birth_place": "Frankfort, Clinton, IN, USA",
         "birth_year": "1944",
-        "cita": [
-            606
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -114196,9 +110829,7 @@ I = [
         "attr": [],
         "birth_place": "Allentown, PA, USA",
         "birth_year": "1978",
-        "cita": [
-            1893
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -114276,9 +110907,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1464
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -114325,9 +110954,7 @@ I = [
         "attr": [],
         "birth_place": "Worthington, MN, USA",
         "birth_year": "1952",
-        "cita": [
-            531
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -114407,9 +111034,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1505
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -114456,9 +111081,7 @@ I = [
         "attr": [],
         "birth_place": "Bluefield, WV-VA, USA",
         "birth_year": "1985",
-        "cita": [
-            178
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -114536,9 +111159,7 @@ I = [
         "attr": [],
         "birth_place": "Wheeling, WV-OH, USA",
         "birth_year": "1969",
-        "cita": [
-            463
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -114618,9 +111239,7 @@ I = [
         "attr": [],
         "birth_place": "Morgan City, St. Mary, LA, USA",
         "birth_year": "1740",
-        "cita": [
-            1809
-        ],
+        "cita": [],
         "death_age": "87 years, 1 month, 30 days",
         "death_place": "",
         "death_year": "1827",
@@ -114700,9 +111319,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1954",
-        "cita": [
-            1822
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -114782,9 +111399,7 @@ I = [
         "attr": [],
         "birth_place": "Wheeling, WV-OH, USA",
         "birth_year": "1974",
-        "cita": [
-            254
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -114862,9 +111477,7 @@ I = [
         "attr": [],
         "birth_place": "Big Rapids, MI, USA",
         "birth_year": "1940",
-        "cita": [
-            627
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -114942,9 +111555,7 @@ I = [
         "attr": [],
         "birth_place": "Big Rapids, MI, USA",
         "birth_year": "1947",
-        "cita": [
-            1103
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -115024,9 +111635,7 @@ I = [
         "attr": [],
         "birth_place": "Frankfort, Franklin, KY, USA",
         "birth_year": "1684",
-        "cita": [
-            1993
-        ],
+        "cita": [],
         "death_age": "69 years, 11 months, 22 days",
         "death_place": "Lake County, IL, USA",
         "death_year": "1754",
@@ -115121,9 +111730,7 @@ I = [
         "attr": [],
         "birth_place": "Tahlequah, OK, USA",
         "birth_year": "1618",
-        "cita": [
-            1081
-        ],
+        "cita": [],
         "death_age": "69 years, 8 months, 23 days",
         "death_place": "Victoria, Limestone, TX, USA",
         "death_year": "1687",
@@ -115203,9 +111810,7 @@ I = [
         "attr": [],
         "birth_place": "Chicago, Cook, IL, USA",
         "birth_year": "1650",
-        "cita": [
-            361
-        ],
+        "cita": [],
         "death_age": "60 years, 10 months, 7 days",
         "death_place": "State College, PA, USA",
         "death_year": "1710",
@@ -115300,9 +111905,7 @@ I = [
         "attr": [],
         "birth_place": "Gainesville, Llano, TX, USA",
         "birth_year": "1981",
-        "cita": [
-            1696
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -115380,9 +111983,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1399
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -115429,9 +112030,7 @@ I = [
         "attr": [],
         "birth_place": "Forest City, NC, USA",
         "birth_year": "1982",
-        "cita": [
-            1180
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -115509,9 +112108,7 @@ I = [
         "attr": [],
         "birth_place": "Altoona, PA, USA",
         "birth_year": "1981",
-        "cita": [
-            1854
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -115589,9 +112186,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            876
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -115654,9 +112249,7 @@ I = [
         "attr": [],
         "birth_place": "Wheeling, WV-OH, USA",
         "birth_year": "1976",
-        "cita": [
-            1305
-        ],
+        "cita": [],
         "death_age": "18 years, 3 months, 23 days",
         "death_place": "Rockland, ME, USA",
         "death_year": "1994",
@@ -115749,9 +112342,7 @@ I = [
         "attr": [],
         "birth_place": "Williston, ND, USA",
         "birth_year": "1682",
-        "cita": [
-            1627
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -115816,9 +112407,7 @@ I = [
         "attr": [],
         "birth_place": "Forest City, NC, USA",
         "birth_year": "1992",
-        "cita": [
-            39
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -115888,9 +112477,7 @@ I = [
         "attr": [],
         "birth_place": "Wheeling, WV-OH, USA",
         "birth_year": "1960",
-        "cita": [
-            522
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -115968,9 +112555,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1511
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -116017,9 +112602,7 @@ I = [
         "attr": [],
         "birth_place": "Portland, ME, USA",
         "birth_year": "1921",
-        "cita": [
-            26
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -116099,9 +112682,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1945",
-        "cita": [
-            296
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -116181,9 +112762,7 @@ I = [
         "attr": [],
         "birth_place": "Wheeling, WV-OH, USA",
         "birth_year": "1973",
-        "cita": [
-            318
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -116261,9 +112840,7 @@ I = [
         "attr": [],
         "birth_place": "Portland, ME, USA",
         "birth_year": "1922",
-        "cita": [
-            1248
-        ],
+        "cita": [],
         "death_age": "56 years, 11 months, 18 days",
         "death_place": "Palatka, Putnam, FL, USA",
         "death_year": "1979",
@@ -116341,9 +112918,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1639
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -116390,9 +112965,7 @@ I = [
         "attr": [],
         "birth_place": "Wheeling, WV-OH, USA",
         "birth_year": "1978",
-        "cita": [
-            1655
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -116470,9 +113043,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            173
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -116519,9 +113090,7 @@ I = [
         "attr": [],
         "birth_place": "Anchorage, AK, USA",
         "birth_year": "1713",
-        "cita": [
-            246
-        ],
+        "cita": [],
         "death_age": "63 years, 8 months, 21 days",
         "death_place": "Vicksburg, MS, USA",
         "death_year": "1776",
@@ -116616,9 +113185,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            651
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -116665,9 +113232,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1920
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -116714,9 +113279,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1856
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -116763,9 +113326,7 @@ I = [
         "attr": [],
         "birth_place": "Kill Devil Hills, NC, USA",
         "birth_year": "?",
-        "cita": [
-            1239
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -116822,9 +113383,7 @@ I = [
         "attr": [],
         "birth_place": "Garden City, Finney, KS, USA",
         "birth_year": "1683",
-        "cita": [
-            1971
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -116887,9 +113446,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1172
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -116936,9 +113493,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            715
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -116985,9 +113540,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1956",
-        "cita": [
-            85
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -117067,9 +113620,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1678",
-        "cita": [
-            1042
-        ],
+        "cita": [],
         "death_age": "4 months, 28 days",
         "death_place": "",
         "death_year": "1679",
@@ -117147,9 +113698,7 @@ I = [
         "attr": [],
         "birth_place": "Garden City, Finney, KS, USA",
         "birth_year": "1709",
-        "cita": [
-            1106
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -117214,9 +113763,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1850
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -117263,9 +113810,7 @@ I = [
         "attr": [],
         "birth_place": "Corinth, MS, USA",
         "birth_year": "1926",
-        "cita": [
-            1766
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -117345,9 +113890,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            580
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -117394,9 +113937,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1681",
-        "cita": [
-            764
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -117459,9 +114000,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1946",
-        "cita": [
-            1397
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -117541,9 +114080,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1167
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -117590,9 +114127,7 @@ I = [
         "attr": [],
         "birth_place": "Altoona, PA, USA",
         "birth_year": "1979",
-        "cita": [
-            765
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -117670,9 +114205,7 @@ I = [
         "attr": [],
         "birth_place": "Gainesville, Llano, TX, USA",
         "birth_year": "1984",
-        "cita": [
-            662
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -117750,9 +114283,7 @@ I = [
         "attr": [],
         "birth_place": "Palm Bay, Brevard, FL, USA",
         "birth_year": "1992",
-        "cita": [
-            1499
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -117830,9 +114361,7 @@ I = [
         "attr": [],
         "birth_place": "Clovis, NM, USA",
         "birth_year": "1973",
-        "cita": [
-            717
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -117912,9 +114441,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1047
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -117963,9 +114490,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            456
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -118006,9 +114531,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1062
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -118055,9 +114578,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1345
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -118104,9 +114625,7 @@ I = [
         "attr": [],
         "birth_place": "New Haven, New Haven, CT, USA",
         "birth_year": "1979",
-        "cita": [
-            1530
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -118184,9 +114703,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            657
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -118233,9 +114750,7 @@ I = [
         "attr": [],
         "birth_place": "Big Rapids, MI, USA",
         "birth_year": "1944",
-        "cita": [
-            1628
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -118315,9 +114830,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            358
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -118364,9 +114877,7 @@ I = [
         "attr": [],
         "birth_place": "Garden City, Finney, KS, USA",
         "birth_year": "?",
-        "cita": [
-            2091
-        ],
+        "cita": [],
         "death_age": "about 65 years, 6 months",
         "death_place": "",
         "death_year": "1754",
@@ -118446,9 +114957,7 @@ I = [
         "attr": [],
         "birth_place": "New Castle, Henry, IN, USA",
         "birth_year": "1892",
-        "cita": [
-            280
-        ],
+        "cita": [],
         "death_age": "78 years, 2 months, 22 days",
         "death_place": "",
         "death_year": "1970",
@@ -118541,9 +115050,7 @@ I = [
         "attr": [],
         "birth_place": "Wheeling, WV-OH, USA",
         "birth_year": "1952",
-        "cita": [
-            263
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -118623,9 +115130,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            297
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -118672,9 +115177,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            635
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -118721,9 +115224,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1958",
-        "cita": [
-            1371
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -118803,9 +115304,7 @@ I = [
         "attr": [],
         "birth_place": "Wheeling, WV-OH, USA",
         "birth_year": "1949",
-        "cita": [
-            1802
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -118885,9 +115384,7 @@ I = [
         "attr": [],
         "birth_place": "Wheeling, WV-OH, USA",
         "birth_year": "1950",
-        "cita": [
-            404
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -118968,9 +115465,7 @@ I = [
         "attr": [],
         "birth_place": "Bremerton, WA, USA",
         "birth_year": "1985",
-        "cita": [
-            1786
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -119048,9 +115543,7 @@ I = [
         "attr": [],
         "birth_place": "Panama City, Bay, FL, USA",
         "birth_year": "1889",
-        "cita": [
-            869
-        ],
+        "cita": [],
         "death_age": "72 years, 1 day",
         "death_place": "Butte, MT, USA",
         "death_year": "1961",
@@ -119146,9 +115639,7 @@ I = [
         "attr": [],
         "birth_place": "Brownsville, TN, USA",
         "birth_year": "1679",
-        "cita": [
-            225
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -119213,9 +115704,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1044
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -119262,9 +115751,7 @@ I = [
         "attr": [],
         "birth_place": "Wheeling, WV-OH, USA",
         "birth_year": "1954",
-        "cita": [
-            993
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -119344,9 +115831,7 @@ I = [
         "attr": [],
         "birth_place": "Central City, Muhlenberg, KY, USA",
         "birth_year": "1906",
-        "cita": [
-            40
-        ],
+        "cita": [],
         "death_age": "86 years, 9 months, 1 day",
         "death_place": "Sevierville, TN, USA",
         "death_year": "1993",
@@ -119439,9 +115924,7 @@ I = [
         "attr": [],
         "birth_place": "New Haven, New Haven, CT, USA",
         "birth_year": "1977",
-        "cita": [
-            730
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -119519,9 +116002,7 @@ I = [
         "attr": [],
         "birth_place": "Palm Bay, Brevard, FL, USA",
         "birth_year": "1987",
-        "cita": [
-            469
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -119599,9 +116080,7 @@ I = [
         "attr": [],
         "birth_place": "Wheeling, WV-OH, USA",
         "birth_year": "1958",
-        "cita": [
-            1459
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -119679,9 +116158,7 @@ I = [
         "attr": [],
         "birth_place": "Forest City, NC, USA",
         "birth_year": "1985",
-        "cita": [
-            371
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -119759,9 +116236,7 @@ I = [
         "attr": [],
         "birth_place": "Big Rapids, MI, USA",
         "birth_year": "1936",
-        "cita": [
-            1448
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -119841,9 +116316,7 @@ I = [
         "attr": [],
         "birth_place": "Lancaster, PA, USA",
         "birth_year": "1913",
-        "cita": [
-            483
-        ],
+        "cita": [],
         "death_age": "69 years, 2 months, 20 days",
         "death_place": "Ottawa, La Salle, IL, USA",
         "death_year": "1983",
@@ -119923,9 +116396,7 @@ I = [
         "attr": [],
         "birth_place": "Isabela, PR, USA",
         "birth_year": "1962",
-        "cita": [
-            1460
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -120003,9 +116474,7 @@ I = [
         "attr": [],
         "birth_place": "Palm Bay, Brevard, FL, USA",
         "birth_year": "1990",
-        "cita": [
-            870
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -120083,9 +116552,7 @@ I = [
         "attr": [],
         "birth_place": "Wheeling, WV-OH, USA",
         "birth_year": "1951",
-        "cita": [
-            831
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -120165,9 +116632,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            311
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -120214,9 +116679,7 @@ I = [
         "attr": [],
         "birth_place": "Weirton, WV, USA",
         "birth_year": "1996",
-        "cita": [
-            250
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -120294,9 +116757,7 @@ I = [
         "attr": [],
         "birth_place": "Morgan City, St. Mary, LA, USA",
         "birth_year": "1779",
-        "cita": [
-            1725
-        ],
+        "cita": [],
         "death_age": "64 years, 8 months, 20 days",
         "death_place": "Lake City, Columbia, FL, USA",
         "death_year": "1844",
@@ -120391,9 +116852,7 @@ I = [
         "attr": [],
         "birth_place": "Birmingham, Jefferson, AL, USA",
         "birth_year": "1998",
-        "cita": [
-            1185
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -120471,9 +116930,7 @@ I = [
         "attr": [],
         "birth_place": "Mount Pleasant, Taylor, TX, USA",
         "birth_year": "1821",
-        "cita": [
-            1186
-        ],
+        "cita": [],
         "death_age": "68 years, 6 months, 2 days",
         "death_place": "Arlington, VA, USA",
         "death_year": "1889",
@@ -120568,9 +117025,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1930
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -120617,9 +117072,7 @@ I = [
         "attr": [],
         "birth_place": "Durant, OK, USA",
         "birth_year": "?",
-        "cita": [
-            187
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Naples, Collier, FL, USA",
         "death_year": "?",
@@ -120699,9 +117152,7 @@ I = [
         "attr": [],
         "birth_place": "Portland, ME, USA",
         "birth_year": "1925",
-        "cita": [
-            1611
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -120782,9 +117233,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            121
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -120833,9 +117282,7 @@ I = [
         "attr": [],
         "birth_place": "Medford, OR, USA",
         "birth_year": "1962",
-        "cita": [
-            365
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -120915,9 +117362,7 @@ I = [
         "attr": [],
         "birth_place": "Portland, ME, USA",
         "birth_year": "1923",
-        "cita": [
-            484
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -120997,9 +117442,7 @@ I = [
         "attr": [],
         "birth_place": "Santa Rosa-Petaluma, CA, USA",
         "birth_year": "1977",
-        "cita": [
-            189
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -121077,9 +117520,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            703
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -121126,9 +117567,7 @@ I = [
         "attr": [],
         "birth_place": "Wheeling, WV-OH, USA",
         "birth_year": "1953",
-        "cita": [
-            1979
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -121208,9 +117647,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1937
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -121257,9 +117694,7 @@ I = [
         "attr": [],
         "birth_place": "Gainesville, Llano, TX, USA",
         "birth_year": "1987",
-        "cita": [
-            367
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -121337,9 +117772,7 @@ I = [
         "attr": [],
         "birth_place": "Salem, OR, USA",
         "birth_year": "1972",
-        "cita": [
-            1075
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -121417,9 +117850,7 @@ I = [
         "attr": [],
         "birth_place": "Medford, OR, USA",
         "birth_year": "1957",
-        "cita": [
-            1350
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -121499,9 +117930,7 @@ I = [
         "attr": [],
         "birth_place": "Tucson, Pima, AZ, USA",
         "birth_year": "1543",
-        "cita": [
-            1880
-        ],
+        "cita": [],
         "death_age": "53 years, 27 days",
         "death_place": "Lexington Park, MD, USA",
         "death_year": "1596",
@@ -121594,9 +118023,7 @@ I = [
         "attr": [],
         "birth_place": "Statesboro, Bulloch, GA, USA",
         "birth_year": "1963",
-        "cita": [
-            1987
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -121674,9 +118101,7 @@ I = [
         "attr": [],
         "birth_place": "Jonesboro, Craighead, AR, USA",
         "birth_year": "1950",
-        "cita": [
-            356
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -121754,9 +118179,7 @@ I = [
         "attr": [],
         "birth_place": "Bremerton, WA, USA",
         "birth_year": "1951",
-        "cita": [
-            1519
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -121836,9 +118259,7 @@ I = [
         "attr": [],
         "birth_place": "Bremerton, WA, USA",
         "birth_year": "1955",
-        "cita": [
-            779
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -121918,9 +118339,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1108
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -121967,9 +118386,7 @@ I = [
         "attr": [],
         "birth_place": "Nogales, Santa Cruz, AZ, USA",
         "birth_year": "1556",
-        "cita": [
-            369
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -122034,9 +118451,7 @@ I = [
         "attr": [],
         "birth_place": "Medford, OR, USA",
         "birth_year": "1954",
-        "cita": [
-            242
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -122116,9 +118531,7 @@ I = [
         "attr": [],
         "birth_place": "Palatka, Putnam, FL, USA",
         "birth_year": "1865",
-        "cita": [
-            1456
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Palatka, Putnam, FL, USA",
         "death_year": "?",
@@ -122196,9 +118609,7 @@ I = [
         "attr": [],
         "birth_place": "Durango, La Plata, CO, USA",
         "birth_year": "1867",
-        "cita": [
-            1675
-        ],
+        "cita": [],
         "death_age": "52 years, 1 month, 18 days",
         "death_place": "Kokomo, Howard, IN, USA",
         "death_year": "1919",
@@ -122293,9 +118704,7 @@ I = [
         "attr": [],
         "birth_place": "Bluefield, WV-VA, USA",
         "birth_year": "1986",
-        "cita": [
-            373
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -122373,9 +118782,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1521
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -122422,9 +118829,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            459
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -122465,9 +118870,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1645
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -122508,9 +118911,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1699
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -122551,9 +118952,7 @@ I = [
         "attr": [],
         "birth_place": "Harrisburg, PA, USA",
         "birth_year": "?",
-        "cita": [
-            374
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Troy, Pike, AL, USA",
         "death_year": "?",
@@ -122633,9 +119032,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1940",
-        "cita": [
-            2004
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -122715,9 +119112,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1309
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -122780,9 +119175,7 @@ I = [
         "attr": [],
         "birth_place": "Memphis, TN, USA",
         "birth_year": "?",
-        "cita": [
-            1015
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -122847,9 +119240,7 @@ I = [
         "attr": [],
         "birth_place": "Memphis, TN, USA",
         "birth_year": "?",
-        "cita": [
-            1661
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -122912,9 +119303,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            2015
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -122955,9 +119344,7 @@ I = [
         "attr": [],
         "birth_place": "Memphis, TN, USA",
         "birth_year": "?",
-        "cita": [
-            955
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -123022,9 +119409,7 @@ I = [
         "attr": [],
         "birth_place": "Memphis, TN, USA",
         "birth_year": "?",
-        "cita": [
-            1018
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -123089,9 +119474,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            2061
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -123154,9 +119537,7 @@ I = [
         "attr": [],
         "birth_place": "Memphis, TN, USA",
         "birth_year": "?",
-        "cita": [
-            680
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -123219,9 +119600,7 @@ I = [
         "attr": [],
         "birth_place": "Watertown, SD, USA",
         "birth_year": "1871",
-        "cita": [
-            1599
-        ],
+        "cita": [],
         "death_age": "66 years, 10 months, 19 days",
         "death_place": "",
         "death_year": "1938",
@@ -123308,9 +119687,7 @@ I = [
         "attr": [],
         "birth_place": "Beaver Dam, WI, USA",
         "birth_year": "1950",
-        "cita": [
-            1325
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -123382,9 +119759,7 @@ I = [
         "attr": [],
         "birth_place": "Lafayette, Tippecanoe, IN, USA",
         "birth_year": "1980",
-        "cita": [
-            439
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -123462,9 +119837,7 @@ I = [
         "attr": [],
         "birth_place": "Red Wing, MN, USA",
         "birth_year": "1948",
-        "cita": [
-            1593
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -123536,9 +119909,7 @@ I = [
         "attr": [],
         "birth_place": "Santa Rosa-Petaluma, CA, USA",
         "birth_year": "1983",
-        "cita": [
-            719
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -123616,9 +119987,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1378
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -123657,9 +120026,7 @@ I = [
         "attr": [],
         "birth_place": "Gainesville, Alachua, FL, USA",
         "birth_year": "1995",
-        "cita": [
-            126
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -123737,9 +120104,7 @@ I = [
         "attr": [],
         "birth_place": "Jasper, Dubois, IN, USA",
         "birth_year": "?",
-        "cita": [
-            1170
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -123796,9 +120161,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            148
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -123839,9 +120202,7 @@ I = [
         "attr": [],
         "birth_place": "Ontario, OR-ID, USA",
         "birth_year": "1821",
-        "cita": [
-            1198
-        ],
+        "cita": [],
         "death_age": "33 years, 1 month, 1 day",
         "death_place": "Janesville, WI, USA",
         "death_year": "1854",
@@ -123936,9 +120297,7 @@ I = [
         "attr": [],
         "birth_place": "Loveland, Larimer, CO, USA",
         "birth_year": "1788",
-        "cita": [
-            1825
-        ],
+        "cita": [],
         "death_age": "less than 62 years",
         "death_place": "Rolla, MO, USA",
         "death_year": "?",
@@ -124033,9 +120392,7 @@ I = [
         "attr": [],
         "birth_place": "Reno-Sparks, NV, USA",
         "birth_year": "1890",
-        "cita": [
-            648
-        ],
+        "cita": [],
         "death_age": "76 years, 9 months, 10 days",
         "death_place": "",
         "death_year": "1967",
@@ -124115,9 +120472,7 @@ I = [
         "attr": [],
         "birth_place": "Reno-Sparks, NV, USA",
         "birth_year": "1901",
-        "cita": [
-            103
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -124180,9 +120535,7 @@ I = [
         "attr": [],
         "birth_place": "Rockingham, NC, USA",
         "birth_year": "1834",
-        "cita": [
-            1201
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -124245,9 +120598,7 @@ I = [
         "attr": [],
         "birth_place": "Burlington, VT, USA",
         "birth_year": "1878",
-        "cita": [
-            1006
-        ],
+        "cita": [],
         "death_age": "75 years, 8 months, 9 days",
         "death_place": "Troy, Pike, AL, USA",
         "death_year": "1953",
@@ -124340,9 +120691,7 @@ I = [
         "attr": [],
         "birth_place": "Reno-Sparks, NV, USA",
         "birth_year": "1883",
-        "cita": [
-            1453
-        ],
+        "cita": [],
         "death_age": "67 years, 6 months, 1 day",
         "death_place": "",
         "death_year": "1950",
@@ -124420,9 +120769,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            25
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -124463,9 +120810,7 @@ I = [
         "attr": [],
         "birth_place": "Reno-Sparks, NV, USA",
         "birth_year": "1884",
-        "cita": [
-            455
-        ],
+        "cita": [],
         "death_age": "72 years, 10 months, 20 days",
         "death_place": "",
         "death_year": "1957",
@@ -124545,9 +120890,7 @@ I = [
         "attr": [],
         "birth_place": "Reno-Sparks, NV, USA",
         "birth_year": "1899",
-        "cita": [
-            362
-        ],
+        "cita": [],
         "death_age": "90 years, 3 months, 1 day",
         "death_place": "",
         "death_year": "1989",
@@ -124625,9 +120968,7 @@ I = [
         "attr": [],
         "birth_place": "Richmond, Wayne, IN, USA",
         "birth_year": "1869",
-        "cita": [
-            490
-        ],
+        "cita": [],
         "death_age": "87 years, 9 months, 9 days",
         "death_place": "Granbury, Hood, TX, USA",
         "death_year": "1957",
@@ -124722,9 +121063,7 @@ I = [
         "attr": [],
         "birth_place": "Reno-Sparks, NV, USA",
         "birth_year": "1895",
-        "cita": [
-            1171
-        ],
+        "cita": [],
         "death_age": "30 years, 27 days",
         "death_place": "",
         "death_year": "1925",
@@ -124802,9 +121141,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1668
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -124851,9 +121188,7 @@ I = [
         "attr": [],
         "birth_place": "Reno-Sparks, NV, USA",
         "birth_year": "?",
-        "cita": [
-            1801
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -124916,9 +121251,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1939",
-        "cita": [
-            1549
-        ],
+        "cita": [],
         "death_age": "55 years, 5 months",
         "death_place": "Ottawa, La Salle, IL, USA",
         "death_year": "1994",
@@ -125011,9 +121344,7 @@ I = [
         "attr": [],
         "birth_place": "Reno-Sparks, NV, USA",
         "birth_year": "1886",
-        "cita": [
-            773
-        ],
+        "cita": [],
         "death_age": "76 years, 2 months, 16 days",
         "death_place": "",
         "death_year": "1963",
@@ -125091,9 +121422,7 @@ I = [
         "attr": [],
         "birth_place": "Eau Claire, WI, USA",
         "birth_year": "1856",
-        "cita": [
-            102
-        ],
+        "cita": [],
         "death_age": "81 years, 8 months",
         "death_place": "Pullman, WA, USA",
         "death_year": "1938",
@@ -125188,9 +121517,7 @@ I = [
         "attr": [],
         "birth_place": "Sault Ste, MI, USA",
         "birth_year": "?",
-        "cita": [
-            1203
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -125253,9 +121580,7 @@ I = [
         "attr": [],
         "birth_place": "Wheeling, WV-OH, USA",
         "birth_year": "1946",
-        "cita": [
-            1026
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -125337,9 +121662,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            638
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -125386,9 +121709,7 @@ I = [
         "attr": [],
         "birth_place": "Decatur, Adams, IN, USA",
         "birth_year": "1837",
-        "cita": [
-            36
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -125451,9 +121772,7 @@ I = [
         "attr": [],
         "birth_place": "Bridgeport, Fairfield, CT, USA",
         "birth_year": "1908",
-        "cita": [
-            88
-        ],
+        "cita": [],
         "death_age": "87 years, 1 month, 23 days",
         "death_place": "Longview-Kelso, WA, USA",
         "death_year": "1996",
@@ -125548,9 +121867,7 @@ I = [
         "attr": [],
         "birth_place": "Concord, NH, USA",
         "birth_year": "1847",
-        "cita": [
-            966
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -125613,9 +121930,7 @@ I = [
         "attr": [],
         "birth_place": "Burlington, VT, USA",
         "birth_year": "1878",
-        "cita": [
-            842
-        ],
+        "cita": [],
         "death_age": "70 years, 4 months, 14 days",
         "death_place": "Troy, Pike, AL, USA",
         "death_year": "1948",
@@ -125708,9 +122023,7 @@ I = [
         "attr": [],
         "birth_place": "Billings, MT, USA",
         "birth_year": "1903",
-        "cita": [
-            491
-        ],
+        "cita": [],
         "death_age": "39 years, 8 months, 25 days",
         "death_place": "Kendallville, Noble, IN, USA",
         "death_year": "1942",
@@ -125805,9 +122118,7 @@ I = [
         "attr": [],
         "birth_place": "Concord, NH, USA",
         "birth_year": "1846",
-        "cita": [
-            789
-        ],
+        "cita": [],
         "death_age": "56 years, 1 month, 28 days",
         "death_place": "Ottawa, La Salle, IL, USA",
         "death_year": "1902",
@@ -125902,9 +122213,7 @@ I = [
         "attr": [],
         "birth_place": "Carlsbad, NM, USA",
         "birth_year": "?",
-        "cita": [
-            429
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -125967,9 +122276,7 @@ I = [
         "attr": [],
         "birth_place": "La Crosse, WI, USA",
         "birth_year": "1899",
-        "cita": [
-            206
-        ],
+        "cita": [],
         "death_age": "72 years, 3 months, 21 days",
         "death_place": "Ada, OK, USA",
         "death_year": "1971",
@@ -126062,9 +122369,7 @@ I = [
         "attr": [],
         "birth_place": "Tuscaloosa, Tuscaloosa, AL, USA",
         "birth_year": "1906",
-        "cita": [
-            904
-        ],
+        "cita": [],
         "death_age": "79 years, 11 months, 1 day",
         "death_place": "Worthington, MN, USA",
         "death_year": "1986",
@@ -126159,9 +122464,7 @@ I = [
         "attr": [],
         "birth_place": "Loveland, Larimer, CO, USA",
         "birth_year": "1800",
-        "cita": [
-            1952
-        ],
+        "cita": [],
         "death_age": "more than 60 years",
         "death_place": "Rolla, MO, USA",
         "death_year": "?",
@@ -126256,9 +122559,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1950",
-        "cita": [
-            202
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -126338,9 +122639,7 @@ I = [
         "attr": [],
         "birth_place": "Niles, MI, USA",
         "birth_year": "1803",
-        "cita": [
-            911
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -126405,9 +122704,7 @@ I = [
         "attr": [],
         "birth_place": "Greenwood, SC, USA",
         "birth_year": "1827",
-        "cita": [
-            1093
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -126472,9 +122769,7 @@ I = [
         "attr": [],
         "birth_place": "Reno-Sparks, NV, USA",
         "birth_year": "1892",
-        "cita": [
-            1986
-        ],
+        "cita": [],
         "death_age": "63 years, 11 months, 14 days",
         "death_place": "",
         "death_year": "1956",
@@ -126552,9 +122847,7 @@ I = [
         "attr": [],
         "birth_place": "Reno-Sparks, NV, USA",
         "birth_year": "1888",
-        "cita": [
-            2042
-        ],
+        "cita": [],
         "death_age": "81 years, 8 months, 4 days",
         "death_place": "",
         "death_year": "1970",
@@ -126632,9 +122925,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            276
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -126681,9 +122972,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "?",
-        "cita": [
-            273
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Ottawa, La Salle, IL, USA",
         "death_year": "?",
@@ -126761,9 +123050,7 @@ I = [
         "attr": [],
         "birth_place": "Orlando, Orange, FL, USA",
         "birth_year": "1842",
-        "cita": [
-            282
-        ],
+        "cita": [],
         "death_age": "69 years, 9 months, 15 days",
         "death_place": "Lafayette, Tippecanoe, IN, USA",
         "death_year": "1912",
@@ -126856,9 +123143,7 @@ I = [
         "attr": [],
         "birth_place": "Eau Claire, WI, USA",
         "birth_year": "1925",
-        "cita": [
-            505
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Reno-Sparks, NV, USA",
         "death_year": "?",
@@ -126936,9 +123221,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1612
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -126985,9 +123268,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1928",
-        "cita": [
-            1144
-        ],
+        "cita": [],
         "death_age": "65 years, 11 months, 22 days",
         "death_place": "Ottawa, La Salle, IL, USA",
         "death_year": "1994",
@@ -127080,9 +123361,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            743
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -127129,9 +123408,7 @@ I = [
         "attr": [],
         "birth_place": "Niles, MI, USA",
         "birth_year": "?",
-        "cita": [
-            1891
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -127194,9 +123471,7 @@ I = [
         "attr": [],
         "birth_place": "Rockingham, NC, USA",
         "birth_year": "1832",
-        "cita": [
-            92
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -127259,9 +123534,7 @@ I = [
         "attr": [],
         "birth_place": "Pullman, WA, USA",
         "birth_year": "1881",
-        "cita": [
-            1099
-        ],
+        "cita": [],
         "death_age": "70 years, 9 months, 27 days",
         "death_place": "Reno-Sparks, NV, USA",
         "death_year": "1952",
@@ -127341,9 +123614,7 @@ I = [
         "attr": [],
         "birth_place": "Rockingham, NC, USA",
         "birth_year": "1829",
-        "cita": [
-            212
-        ],
+        "cita": [],
         "death_age": "58 years, 9 months, 3 days",
         "death_place": "",
         "death_year": "1888",
@@ -127423,9 +123694,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            780
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -127466,9 +123735,7 @@ I = [
         "attr": [],
         "birth_place": "Jesup, Wayne, GA, USA",
         "birth_year": "1679",
-        "cita": [
-            427
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Savannah, Chatham, GA, USA",
         "death_year": "?",
@@ -127548,9 +123815,7 @@ I = [
         "attr": [],
         "birth_place": "Midland, MI, USA",
         "birth_year": "1951",
-        "cita": [
-            1830
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -127630,9 +123895,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1966",
-        "cita": [
-            1629
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -127712,9 +123975,7 @@ I = [
         "attr": [],
         "birth_place": "Torrington, Litchfield, CT, USA",
         "birth_year": "1920",
-        "cita": [
-            2063
-        ],
+        "cita": [],
         "death_age": "58 years, 7 months, 28 days",
         "death_place": "Medford, OR, USA",
         "death_year": "1979",
@@ -127801,9 +124062,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1982",
-        "cita": [
-            1754
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -127881,9 +124140,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1962",
-        "cita": [
-            1729
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -127963,9 +124220,7 @@ I = [
         "attr": [],
         "birth_place": "Vallejo, Solano, CA, USA",
         "birth_year": "1995",
-        "cita": [
-            660
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -128043,9 +124298,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1959",
-        "cita": [
-            784
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -128117,9 +124370,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1940",
-        "cita": [
-            1839
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -128191,9 +124442,7 @@ I = [
         "attr": [],
         "birth_place": "Medford, OR, USA",
         "birth_year": "1956",
-        "cita": [
-            211
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -128273,9 +124522,7 @@ I = [
         "attr": [],
         "birth_place": "Midland, MI, USA",
         "birth_year": "1949",
-        "cita": [
-            1663
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -128356,9 +124603,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1715
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -128399,9 +124644,7 @@ I = [
         "attr": [],
         "birth_place": "Burlington, Des Moines, IA, USA",
         "birth_year": "?",
-        "cita": [
-            1424
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "McAlester, OK, USA",
         "death_year": "1653",
@@ -128473,9 +124716,7 @@ I = [
         "attr": [],
         "birth_place": "Coos Bay, OR, USA",
         "birth_year": "1985",
-        "cita": [
-            1738
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -128553,9 +124794,7 @@ I = [
         "attr": [],
         "birth_place": "Rockland, ME, USA",
         "birth_year": "1989",
-        "cita": [
-            10
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -128633,9 +124872,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1953",
-        "cita": [
-            817
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -128707,9 +124944,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1863
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -128750,9 +124985,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1157
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -128793,9 +125026,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1977",
-        "cita": [
-            53
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -128873,9 +125104,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1970",
-        "cita": [
-            1048
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -128953,9 +125182,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1967",
-        "cita": [
-            1972
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -129033,9 +125260,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            305
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -129076,9 +125301,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            446
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -129125,9 +125348,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1724
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -129168,9 +125389,7 @@ I = [
         "attr": [],
         "birth_place": "Wheeling, WV-OH, USA",
         "birth_year": "1993",
-        "cita": [
-            846
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -129248,9 +125467,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1999
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -129291,9 +125508,7 @@ I = [
         "attr": [],
         "birth_place": "Russellville, Pope, AR, USA",
         "birth_year": "1996",
-        "cita": [
-            1227
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -129371,9 +125586,7 @@ I = [
         "attr": [],
         "birth_place": "Hartford, Hartford, CT, USA",
         "birth_year": "1996",
-        "cita": [
-            1532
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -129451,9 +125664,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1355
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -129494,9 +125705,7 @@ I = [
         "attr": [],
         "birth_place": "Hanford-Corcoran, CA, USA",
         "birth_year": "1536",
-        "cita": [
-            1709
-        ],
+        "cita": [],
         "death_age": "70 years, 3 months, 20 days",
         "death_place": "East Stroudsburg, PA, USA",
         "death_year": "1606",
@@ -129576,9 +125785,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            135
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -129619,9 +125826,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1679
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "1967",
@@ -129693,9 +125898,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1944",
-        "cita": [
-            1113
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -129773,9 +125976,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1949",
-        "cita": [
-            6
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -129853,9 +126054,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1932",
-        "cita": [
-            67
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -129933,9 +126132,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1930",
-        "cita": [
-            1224
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -130013,9 +126210,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1929",
-        "cita": [
-            181
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -130093,9 +126288,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1928",
-        "cita": [
-            1290
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -130173,9 +126366,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            636
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -130216,9 +126407,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            976
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -130259,9 +126448,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1813
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -130302,9 +126489,7 @@ I = [
         "attr": [],
         "birth_place": "Cedartown, Polk, GA, USA",
         "birth_year": "1771",
-        "cita": [
-            2052
-        ],
+        "cita": [],
         "death_age": "less than 78 years, 11 months, 3 days",
         "death_place": "Burley, Cassia, ID, USA",
         "death_year": "?",
@@ -130384,9 +126569,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            314
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -130427,9 +126610,7 @@ I = [
         "attr": [],
         "birth_place": "Waterloo-Cedar Falls, IA, USA",
         "birth_year": "1777",
-        "cita": [
-            77
-        ],
+        "cita": [],
         "death_age": "76 years, 11 months, 16 days",
         "death_place": "Indiana, PA, USA",
         "death_year": "1854",
@@ -130509,9 +126690,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1465
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -130560,9 +126739,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1904
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -130603,9 +126780,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            2047
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "Alexandria, MN, USA",
         "death_year": "?",
@@ -130660,9 +126835,7 @@ I = [
         "attr": [],
         "birth_place": "Loveland, Larimer, CO, USA",
         "birth_year": "?",
-        "cita": [
-            1704
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Del Rio, Val Verde, TX, USA",
         "death_year": "?",
@@ -130749,9 +126922,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            194
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -130792,9 +126963,7 @@ I = [
         "attr": [],
         "birth_place": "Bogalusa, Washington, LA, USA",
         "birth_year": "1827",
-        "cita": [
-            245
-        ],
+        "cita": [],
         "death_age": "54 years, 10 months, 25 days",
         "death_place": "Albuquerque, NM, USA",
         "death_year": "1882",
@@ -130905,9 +127074,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1887",
-        "cita": [
-            1423
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -130962,9 +127129,7 @@ I = [
         "attr": [],
         "birth_place": "Atlanta, Fulton, GA, USA",
         "birth_year": "1890",
-        "cita": [
-            2076
-        ],
+        "cita": [],
         "death_age": "72 years, 7 months, 1 day",
         "death_place": "Kokomo, Howard, IN, USA",
         "death_year": "1962",
@@ -131051,9 +127216,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1730",
-        "cita": [
-            733
-        ],
+        "cita": [],
         "death_age": "87 years",
         "death_place": "",
         "death_year": "1817",
@@ -131125,9 +127288,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1721",
-        "cita": [
-            1474
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -131184,9 +127345,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            695
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -131227,9 +127386,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1314
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -131270,9 +127427,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1582
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -131313,9 +127468,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1815",
-        "cita": [
-            1128
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -131372,9 +127525,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            226
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -131415,9 +127566,7 @@ I = [
         "attr": [],
         "birth_place": "Enterprise, Coffee, AL, USA",
         "birth_year": "1717",
-        "cita": [
-            1497
-        ],
+        "cita": [],
         "death_age": "71 years, 2 months, 25 days",
         "death_place": "Grants, NM, USA",
         "death_year": "1788",
@@ -131512,9 +127661,7 @@ I = [
         "attr": [],
         "birth_place": "Kalamazoo, MI, USA",
         "birth_year": "1658",
-        "cita": [
-            1591
-        ],
+        "cita": [],
         "death_age": "60 years, 7 months, 15 days",
         "death_place": "Kalamazoo, MI, USA",
         "death_year": "1718",
@@ -131601,9 +127748,7 @@ I = [
         "attr": [],
         "birth_place": "Kalamazoo, MI, USA",
         "birth_year": "1690",
-        "cita": [
-            1356
-        ],
+        "cita": [],
         "death_age": "60 years, 10 months, 2 days",
         "death_place": "Kalamazoo, MI, USA",
         "death_year": "1750",
@@ -131698,9 +127843,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1210
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -131741,9 +127884,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            312
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -131784,9 +127925,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1862
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -131827,9 +127966,7 @@ I = [
         "attr": [],
         "birth_place": "Duncan, OK, USA",
         "birth_year": "1915",
-        "cita": [
-            1815
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -131901,9 +128038,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1123
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -131952,9 +128087,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1126
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -132003,9 +128136,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            653
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -132054,9 +128185,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            941
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -132105,9 +128234,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1931
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -132148,9 +128275,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            527
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -132199,9 +128324,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            839
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -132250,9 +128373,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            786
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -132301,9 +128422,7 @@ I = [
         "attr": [],
         "birth_place": "Carson City, NV, USA",
         "birth_year": "1732",
-        "cita": [
-            1240
-        ],
+        "cita": [],
         "death_age": "57 years, 4 months, 12 days",
         "death_place": "Duluth, MN, USA",
         "death_year": "1789",
@@ -132375,9 +128494,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1705
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -132418,9 +128535,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            306
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -132469,9 +128584,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1957
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -132512,9 +128625,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1818",
-        "cita": [
-            1191
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -132571,9 +128682,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1956",
-        "cita": [
-            649
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -132645,9 +128754,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            599
-        ],
+        "cita": [],
         "death_age": "about 57 years",
         "death_place": "Phoenix, Maricopa, AZ, USA",
         "death_year": "1572",
@@ -132727,9 +128834,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1362
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -132770,9 +128875,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1548
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -132813,9 +128916,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1754",
-        "cita": [
-            319
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -132872,9 +128973,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            423
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -132915,9 +129014,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1955",
-        "cita": [
-            895
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -132997,9 +129094,7 @@ I = [
         "attr": [],
         "birth_place": "Wheeling, WV-OH, USA",
         "birth_year": "1984",
-        "cita": [
-            1649
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -133077,9 +129172,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1953",
-        "cita": [
-            1872
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -133159,9 +129252,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            444
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -133202,9 +129293,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1951",
-        "cita": [
-            787
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -133284,9 +129373,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1948",
-        "cita": [
-            1753
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -133366,9 +129453,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1958",
-        "cita": [
-            72
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -133448,9 +129533,7 @@ I = [
         "attr": [],
         "birth_place": "Wheeling, WV-OH, USA",
         "birth_year": "1982",
-        "cita": [
-            521
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -133528,9 +129611,7 @@ I = [
         "attr": [],
         "birth_place": "Greenwood, MS, USA",
         "birth_year": "1771",
-        "cita": [
-            2006
-        ],
+        "cita": [],
         "death_age": "66 years, 8 months, 28 days",
         "death_place": "Indiana, PA, USA",
         "death_year": "1838",
@@ -133610,9 +129691,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            770
-        ],
+        "cita": [],
         "death_age": "about 57 years",
         "death_place": "",
         "death_year": "?",
@@ -133690,9 +129769,7 @@ I = [
         "attr": [],
         "birth_place": "Keokuk, Lee, IA, USA",
         "birth_year": "?",
-        "cita": [
-            598
-        ],
+        "cita": [],
         "death_age": "about 63 years, 4 months, 12 days",
         "death_place": "Seneca, SC, USA",
         "death_year": "1750",
@@ -133772,9 +129849,7 @@ I = [
         "attr": [],
         "birth_place": "Cabo Rojo, PR, USA",
         "birth_year": "?",
-        "cita": [
-            1935
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Union City, TN, USA",
         "death_year": "?",
@@ -133852,9 +129927,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            2090
-        ],
+        "cita": [],
         "death_age": "about 70 years",
         "death_place": "",
         "death_year": "1807",
@@ -133932,9 +130005,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            303
-        ],
+        "cita": [],
         "death_age": "about 37 years",
         "death_place": "",
         "death_year": "?",
@@ -134012,9 +130083,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1056
-        ],
+        "cita": [],
         "death_age": "about 23 years",
         "death_place": "",
         "death_year": "1762",
@@ -134092,9 +130161,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            352
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -134159,9 +130226,7 @@ I = [
         "attr": [],
         "birth_place": "Waterloo-Cedar Falls, IA, USA",
         "birth_year": "?",
-        "cita": [
-            1534
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Steubenville, OH, USA",
         "death_year": "?",
@@ -134241,9 +130306,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1919
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -134308,9 +130371,7 @@ I = [
         "attr": [],
         "birth_place": "Willmar, MN, USA",
         "birth_year": "1735",
-        "cita": [
-            825
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Richmond, VA, USA",
         "death_year": "?",
@@ -134405,9 +130466,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1939
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -134456,9 +130515,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1767",
-        "cita": [
-            1646
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Winchester, VA, USA",
         "death_year": "?",
@@ -134538,9 +130595,7 @@ I = [
         "attr": [],
         "birth_place": "York, PA, USA",
         "birth_year": "1768",
-        "cita": [
-            186
-        ],
+        "cita": [],
         "death_age": "84 years, 9 months",
         "death_place": "New Orleans, Orleans, LA, USA",
         "death_year": "1853",
@@ -134620,9 +130675,7 @@ I = [
         "attr": [],
         "birth_place": "Pueblo, Pueblo, CO, USA",
         "birth_year": "1727",
-        "cita": [
-            1730
-        ],
+        "cita": [],
         "death_age": "39 years, 4 months, 11 days",
         "death_place": "",
         "death_year": "1766",
@@ -134702,9 +130755,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            66
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "Troy, Pike, AL, USA",
         "death_year": "?",
@@ -134761,9 +130812,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            162
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -134804,9 +130853,7 @@ I = [
         "attr": [],
         "birth_place": "Silverthorne, Summit, CO, USA",
         "birth_year": "?",
-        "cita": [
-            1080
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -134871,9 +130918,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1564
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -134914,9 +130959,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            803
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -134957,9 +131000,7 @@ I = [
         "attr": [],
         "birth_place": "Silverthorne, Summit, CO, USA",
         "birth_year": "?",
-        "cita": [
-            2057
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -135022,9 +131063,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1547
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -135065,9 +131104,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            193
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -135108,9 +131145,7 @@ I = [
         "attr": [],
         "birth_place": "Eagle Pass, Maverick, TX, USA",
         "birth_year": "?",
-        "cita": [
-            2043
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "St, FL, USA",
         "death_year": "1771",
@@ -135205,9 +131240,7 @@ I = [
         "attr": [],
         "birth_place": "Ketchikan, AK, USA",
         "birth_year": "1695",
-        "cita": [
-            2065
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Eagle Pass, Maverick, TX, USA",
         "death_year": "?",
@@ -135279,9 +131312,7 @@ I = [
         "attr": [],
         "birth_place": "Moultrie, Colquitt, GA, USA",
         "birth_year": "1756",
-        "cita": [
-            1174
-        ],
+        "cita": [],
         "death_age": "45 years, 5 months, 25 days",
         "death_place": "Altus, OK, USA",
         "death_year": "1801",
@@ -135361,9 +131392,7 @@ I = [
         "attr": [],
         "birth_place": "Searcy, White, AR, USA",
         "birth_year": "1790",
-        "cita": [
-            9
-        ],
+        "cita": [],
         "death_age": "59 years, 4 months, 29 days",
         "death_place": "",
         "death_year": "1849",
@@ -135458,9 +131487,7 @@ I = [
         "attr": [],
         "birth_place": "Sheboygan, WI, USA",
         "birth_year": "?",
-        "cita": [
-            214
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -135515,9 +131542,7 @@ I = [
         "attr": [],
         "birth_place": "Fairmont, WV, USA",
         "birth_year": "1846",
-        "cita": [
-            1360
-        ],
+        "cita": [],
         "death_age": "45 years, 2 months, 14 days",
         "death_place": "Oxnard, Ventura, CA, USA",
         "death_year": "1891",
@@ -135612,9 +131637,7 @@ I = [
         "attr": [],
         "birth_place": "Ardmore, OK, USA",
         "birth_year": "1795",
-        "cita": [
-            588
-        ],
+        "cita": [],
         "death_age": "80 years, 1 month, 6 days",
         "death_place": "Visalia, Tulare, CA, USA",
         "death_year": "1875",
@@ -135701,9 +131724,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1118
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -135744,9 +131765,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1977",
-        "cita": [
-            1176
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -135824,9 +131843,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1950",
-        "cita": [
-            127
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -135898,9 +131915,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1981",
-        "cita": [
-            184
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -135978,9 +131993,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1768",
-        "cita": [
-            1820
-        ],
+        "cita": [],
         "death_age": "60 years, 11 months, 17 days",
         "death_place": "Gallup, NM, USA",
         "death_year": "1828",
@@ -136052,9 +132065,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1858",
-        "cita": [
-            315
-        ],
+        "cita": [],
         "death_age": "55 years, 8 months, 1 day",
         "death_place": "Hutchinson, Reno, KS, USA",
         "death_year": "1913",
@@ -136126,9 +132137,7 @@ I = [
         "attr": [],
         "birth_place": "Indianola, MS, USA",
         "birth_year": "?",
-        "cita": [
-            498
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -136185,9 +132194,7 @@ I = [
         "attr": [],
         "birth_place": "West Helena, Phillips, AR, USA",
         "birth_year": "1987",
-        "cita": [
-            223
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -136265,9 +132272,7 @@ I = [
         "attr": [],
         "birth_place": "Safford, Graham, AZ, USA",
         "birth_year": "?",
-        "cita": [
-            1390
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -136324,9 +132329,7 @@ I = [
         "attr": [],
         "birth_place": "Wheeling, WV-OH, USA",
         "birth_year": "1985",
-        "cita": [
-            745
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -136404,9 +132407,7 @@ I = [
         "attr": [],
         "birth_place": "Fond du Lac, WI, USA",
         "birth_year": "1952",
-        "cita": [
-            207
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -136478,9 +132479,7 @@ I = [
         "attr": [],
         "birth_place": "Wheeling, WV-OH, USA",
         "birth_year": "1983",
-        "cita": [
-            1486
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -136558,9 +132557,7 @@ I = [
         "attr": [],
         "birth_place": "McAlester, OK, USA",
         "birth_year": "?",
-        "cita": [
-            2077
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Las Vegas, NM, USA",
         "death_year": "?",
@@ -136641,9 +132638,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1969
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -136692,9 +132687,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1295
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -136735,9 +132728,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1481
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -136784,9 +132775,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            244
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -136827,9 +132816,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            215
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "1972",
@@ -136886,9 +132873,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1194
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -136927,9 +132912,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            685
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -136970,9 +132953,7 @@ I = [
         "attr": [],
         "birth_place": "Klamath Falls, OR, USA",
         "birth_year": "?",
-        "cita": [
-            1973
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -137029,9 +133010,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1326
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -137072,9 +133051,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1947",
-        "cita": [
-            1426
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -137155,9 +133132,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1949",
-        "cita": [
-            1243
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -137237,9 +133212,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1922",
-        "cita": [
-            473
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -137311,9 +133284,7 @@ I = [
         "attr": [],
         "birth_place": "Canton, Fulton, IL, USA",
         "birth_year": "?",
-        "cita": [
-            284
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -137370,9 +133341,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            964
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -137421,9 +133390,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1785
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -137464,9 +133431,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1265
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "1749",
@@ -137531,9 +133496,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1380
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -137574,9 +133537,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1970",
-        "cita": [
-            1145
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -137656,9 +133617,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1973",
-        "cita": [
-            216
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -137736,9 +133695,7 @@ I = [
         "attr": [],
         "birth_place": "Mountain Home, Elmore, ID, USA",
         "birth_year": "?",
-        "cita": [
-            529
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Pontiac, St. Clair, IL, USA",
         "death_year": "1849",
@@ -137833,9 +133790,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1945",
-        "cita": [
-            2022
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -137907,9 +133862,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1420",
-        "cita": [
-            721
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -137966,9 +133919,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            890
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -138009,9 +133960,7 @@ I = [
         "attr": [],
         "birth_place": "Albany, Dougherty, GA, USA",
         "birth_year": "?",
-        "cita": [
-            107
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Menomonie, WI, USA",
         "death_year": "1829",
@@ -138083,9 +134032,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            3
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -138126,9 +134073,7 @@ I = [
         "attr": [],
         "birth_place": "Batavia, Genesee, NY, USA",
         "birth_year": "1930",
-        "cita": [
-            45
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -138200,9 +134145,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1788",
-        "cita": [
-            248
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -138259,9 +134202,7 @@ I = [
         "attr": [],
         "birth_place": "Lexington, Fayette, KY, USA",
         "birth_year": "?",
-        "cita": [
-            83
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Mountain Home, White, AR, USA",
         "death_year": "?",
@@ -138333,9 +134274,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1586
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -138376,9 +134315,7 @@ I = [
         "attr": [],
         "birth_place": "Danville, Boyle, KY, USA",
         "birth_year": "1704",
-        "cita": [
-            748
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -138443,9 +134380,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1517
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -138486,9 +134421,7 @@ I = [
         "attr": [],
         "birth_place": "Beeville, Bee, TX, USA",
         "birth_year": "1660",
-        "cita": [
-            1783
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -138545,9 +134478,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1211
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -138588,9 +134519,7 @@ I = [
         "attr": [],
         "birth_place": "Del Rio, Val Verde, TX, USA",
         "birth_year": "?",
-        "cita": [
-            517
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Del Rio, Val Verde, TX, USA",
         "death_year": "?",
@@ -138662,9 +134591,7 @@ I = [
         "attr": [],
         "birth_place": "Cookeville, TN, USA",
         "birth_year": "?",
-        "cita": [
-            380
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -138727,9 +134654,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            604
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -138770,9 +134695,7 @@ I = [
         "attr": [],
         "birth_place": "Cookeville, TN, USA",
         "birth_year": "?",
-        "cita": [
-            1434
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -138835,9 +134758,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1771",
-        "cita": [
-            1298
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Huntsville, Walker, TX, USA",
         "death_year": "?",
@@ -138909,9 +134830,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1080",
-        "cita": [
-            301
-        ],
+        "cita": [],
         "death_age": "88 years",
         "death_place": "",
         "death_year": "1168",
@@ -138991,9 +134910,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            540
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -139034,9 +134951,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            7
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -139077,9 +134992,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1168
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -139120,9 +135033,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1645",
-        "cita": [
-            464
-        ],
+        "cita": [],
         "death_age": "54 years, 2 months, 1 day",
         "death_place": "",
         "death_year": "1699",
@@ -139194,9 +135105,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1971",
-        "cita": [
-            1444
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -139276,9 +135185,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            99
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -139319,9 +135226,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1981",
-        "cita": [
-            1098
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -139399,9 +135304,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1978",
-        "cita": [
-            1327
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -139479,9 +135382,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1984",
-        "cita": [
-            168
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -139559,9 +135460,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1014",
-        "cita": [
-            633
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -139618,9 +135517,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1050",
-        "cita": [
-            454
-        ],
+        "cita": [],
         "death_age": "71 years",
         "death_place": "",
         "death_year": "1121",
@@ -139700,9 +135597,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            198
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -139743,9 +135638,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1135
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -139802,9 +135695,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1025
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -139869,9 +135760,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            79
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -139928,9 +135817,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            467
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -139971,9 +135858,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            751
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -140036,9 +135921,7 @@ I = [
         "attr": [],
         "birth_place": "Waterloo-Cedar Falls, IA, USA",
         "birth_year": "?",
-        "cita": [
-            971
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -140101,9 +135984,7 @@ I = [
         "attr": [],
         "birth_place": "Duluth, MN, USA",
         "birth_year": "1812",
-        "cita": [
-            810
-        ],
+        "cita": [],
         "death_age": "68 years, 8 months, 20 days",
         "death_place": "Starkville, MS, USA",
         "death_year": "1880",
@@ -140196,9 +136077,7 @@ I = [
         "attr": [],
         "birth_place": "Steubenville, OH, USA",
         "birth_year": "1825",
-        "cita": [
-            1958
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -140261,9 +136140,7 @@ I = [
         "attr": [],
         "birth_place": "Miami Beach, Miami-Dade, FL, USA",
         "birth_year": "1813",
-        "cita": [
-            487
-        ],
+        "cita": [],
         "death_age": "63 years, 11 months, 12 days",
         "death_place": "Jamestown, ND, USA",
         "death_year": "1877",
@@ -140356,9 +136233,7 @@ I = [
         "attr": [],
         "birth_place": "Ottawa, La Salle, IL, USA",
         "birth_year": "1864",
-        "cita": [
-            571
-        ],
+        "cita": [],
         "death_age": "39 years, 10 months",
         "death_place": "Ottawa, La Salle, IL, USA",
         "death_year": "1903",
@@ -140453,9 +136328,7 @@ I = [
         "attr": [],
         "birth_place": "Hutchinson, Reno, KS, USA",
         "birth_year": "?",
-        "cita": [
-            513
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -140518,9 +136391,7 @@ I = [
         "attr": [],
         "birth_place": "Hutchinson, Reno, KS, USA",
         "birth_year": "?",
-        "cita": [
-            1571
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -140585,9 +136456,7 @@ I = [
         "attr": [],
         "birth_place": "Del Rio, Val Verde, TX, USA",
         "birth_year": "?",
-        "cita": [
-            1084
-        ],
+        "cita": [],
         "death_age": "unknown",
         "death_place": "Del Rio, Val Verde, TX, USA",
         "death_year": "?",
@@ -140659,9 +136528,7 @@ I = [
         "attr": [],
         "birth_place": "Eugene, OR, USA",
         "birth_year": "1827",
-        "cita": [
-            2078
-        ],
+        "cita": [],
         "death_age": "45 years",
         "death_place": "Ottawa, La Salle, IL, USA",
         "death_year": "1872",
@@ -140756,9 +136623,7 @@ I = [
         "attr": [],
         "birth_place": "Hutchinson, Reno, KS, USA",
         "birth_year": "?",
-        "cita": [
-            1687
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -140821,9 +136686,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            643
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -140864,9 +136727,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            891
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -140913,9 +136774,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1589
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -140962,9 +136821,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1693
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -141011,9 +136868,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1745
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -141078,9 +136933,7 @@ I = [
         "attr": [],
         "birth_place": "Brevard, NC, USA",
         "birth_year": "1657",
-        "cita": [
-            277
-        ],
+        "cita": [],
         "death_age": "90 years, 7 months, 2 days",
         "death_place": "Anchorage, AK, USA",
         "death_year": "1747",
@@ -141152,9 +137005,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            261
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -141195,9 +137046,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1531
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -141238,9 +137087,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1071
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "1928",
@@ -141303,9 +137150,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            133
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -141352,9 +137197,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1883",
-        "cita": [
-            95
-        ],
+        "cita": [],
         "death_age": "90 years, 3 months, 30 days",
         "death_place": "Troy, Pike, AL, USA",
         "death_year": "1973",
@@ -141426,9 +137269,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1325",
-        "cita": [
-            1418
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -141483,9 +137324,7 @@ I = [
         "attr": [],
         "birth_place": "Cleveland, TN, USA",
         "birth_year": "1916",
-        "cita": [
-            291
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -141557,9 +137396,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "1734",
-        "cita": [
-            1756
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -141616,9 +137453,7 @@ I = [
         "attr": [],
         "birth_place": "Bogalusa, Washington, LA, USA",
         "birth_year": "?",
-        "cita": [
-            995
-        ],
+        "cita": [],
         "death_age": "about 79 years, 6 months, 8 days",
         "death_place": "Orlando, Orange, FL, USA",
         "death_year": "1864",
@@ -141705,9 +137540,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            453
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -141756,9 +137589,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1278
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -141805,9 +137636,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            112
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "Sterling, Whiteside, IL, USA",
         "death_year": "?",
@@ -141864,9 +137693,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1450
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -142041,9 +137868,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1622
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -142084,9 +137909,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1870
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "1941",
@@ -142143,9 +137966,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            2058
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -142186,9 +138007,7 @@ I = [
         "attr": [],
         "birth_place": "San Luis Obispo, San Luis Obispo, CA, USA",
         "birth_year": "1643",
-        "cita": [
-            690
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -142253,9 +138072,7 @@ I = [
         "attr": [],
         "birth_place": "Tallahassee, Leon, FL, USA",
         "birth_year": "1672",
-        "cita": [
-            333
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -142318,9 +138135,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1475
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -142361,9 +138176,7 @@ I = [
         "attr": [],
         "birth_place": "Canton, OH, USA",
         "birth_year": "?",
-        "cita": [
-            1895
-        ],
+        "cita": [],
         "death_age": "more than about 73 years, 6 months",
         "death_place": "Auburn, Lee, AL, USA",
         "death_year": "?",
@@ -142443,9 +138256,7 @@ I = [
         "attr": [],
         "birth_place": "Jefferson City, MO, USA",
         "birth_year": "1802",
-        "cita": [
-            1436
-        ],
+        "cita": [],
         "death_age": "66 years, 7 months, 10 days",
         "death_place": "Ottawa, La Salle, IL, USA",
         "death_year": "1869",
@@ -142532,9 +138343,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            1712
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -142575,9 +138384,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            436
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",
@@ -142624,9 +138431,7 @@ I = [
         "attr": [],
         "birth_place": "",
         "birth_year": "?",
-        "cita": [
-            658
-        ],
+        "cita": [],
         "death_age": "",
         "death_place": "",
         "death_year": "",

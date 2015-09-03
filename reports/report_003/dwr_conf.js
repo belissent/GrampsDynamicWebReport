@@ -74,7 +74,7 @@ MAP_PLACE=true;
 MAP_FAMILY=true;
 MAP_SERVICE="Google";
 SOURCE_AUTHOR_IN_TITLE=true;
-TABBED_PANELS=false;
+TABBED_PANELS=true;
 __ = {
 "(filtered from _MAX_ total entries)": "(filtered from _MAX_ total entries)",
 "(sort by name)": "(sort by name)",
