@@ -248,7 +248,7 @@ __ = {
 "Title": "Title",
 "Type": "Type",
 "Unknown": "Unknown",
-"Use the search box above in order to find a person.<br>Women are listed with their maiden name.": "Use the search box above in order to find a person.<br>Women are listed with their maiden name.",
+"Use the search box above in order to find a person.<br>Women are listed with their birth name.": "Use the search box above in order to find a person.<br>Women are listed with their birth name.",
 "Used for family": "Used for family",
 "Used for media": "Used for media",
 "Used for person": "Used for person",

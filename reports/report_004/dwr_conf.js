@@ -56,8 +56,8 @@ HEADER="<div class=\"grampsstylednote\">\n<p>\n<span style=\"color:#ef2929;\"></
 BRAND_TITLE="";
 COPYRIGHT="";
 INDEX_SHOW_BIRTH=true;
-INDEX_SHOW_DEATH=true;
-INDEX_SHOW_MARRIAGE=false;
+INDEX_SHOW_DEATH=false;
+INDEX_SHOW_MARRIAGE=true;
 INDEX_SHOW_PARTNER=true;
 INDEX_SHOW_PARENTS=true;
 INDEX_SHOW_BKREF_TYPE=true;
@@ -248,7 +248,7 @@ __ = {
 "Title": "Title",
 "Type": "Type",
 "Unknown": "Unknown",
-"Use the search box above in order to find a person.<br>Women are listed with their maiden name.": "Use the search box above in order to find a person.<br>Women are listed with their maiden name.",
+"Use the search box above in order to find a person.<br>Women are listed with their birth name.": "Use the search box above in order to find a person.<br>Women are listed with their birth name.",
 "Used for family": "Used for family",
 "Used for media": "Used for media",
 "Used for person": "Used for person",

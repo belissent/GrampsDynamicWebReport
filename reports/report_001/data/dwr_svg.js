@@ -1146,7 +1146,7 @@ function SvgPopupShow(elt, event)
 	if (idx != svgPopupIdx)
 	{
 		var html = '<div class="popover-title">' + I[idx].name + '</div>';
-		html += '<div class="popover-content"><p>';
+		html += '<div class="popover-content">';
 		html += '* ' + I[idx].birth_year;
 		if (I[idx].birth_place != "") html += ' (' + I[idx].birth_place + ')';
 		if (fdx >= 0)
@@ -1159,7 +1159,7 @@ function SvgPopupShow(elt, event)
 			html += '<br>+ ' + I[idx].death_year;
 			if (I[idx].death_place != "") html += ' (' + I[idx].death_place + ')';
 		}
-		html += '</p></div>';
+		html += '</div>';
 		$('#svg-popup').html(html);
 		svgPopupIdx = idx;
 	}

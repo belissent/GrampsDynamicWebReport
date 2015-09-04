@@ -60,7 +60,7 @@ INDEX_SHOW_DEATH=true;
 INDEX_SHOW_MARRIAGE=true;
 INDEX_SHOW_PARTNER=true;
 INDEX_SHOW_PARENTS=true;
-INDEX_SHOW_BKREF_TYPE=false;
+INDEX_SHOW_BKREF_TYPE=true;
 SHOW_ALL_SIBLINGS=true;
 INC_EVENTS=false;
 INC_FAMILIES=true;
@@ -248,7 +248,7 @@ __ = {
 "Title": "Titre",
 "Type": "Type ",
 "Unknown": "Inconnu",
-"Use the search box above in order to find a person.<br>Women are listed with their maiden name.": "Utilisez le formulaire de recherche ci-dessus pour trouver un individu.<br>Les femmes sont référencées avec leur nom de jeune fille.",
+"Use the search box above in order to find a person.<br>Women are listed with their birth name.": "Use the search box above in order to find a person.<br>Women are listed with their birth name.",
 "Used for family": "Référencé par les familles",
 "Used for media": "Référencé par les médias",
 "Used for person": "Référencé par les personnes",
