@@ -431,6 +431,20 @@ function eventTable(events, idx, fdx)
 		if (e.text != '') notes.push('<span class="dwr-attr-header">' + _('Notes') + '</span>:<br>' + notePara(e.text, '<p>'));
 		var mlinks = mediaLinks(e.media);
 		if (mlinks != '') notes.push('<span class="dwr-attr-header">' + _('Media') + '</span>:<br>' + mlinks);
+		// Get participants
+		participants = '';
+		for (var i = 0; i < e.part_person.length; i += 1)
+		{
+			var p_idx = e.part_person[i];
+			if (p_idx != idx) participants += '<br>' + indiLinked(p_idx, false);
+		}
+		for (var i = 0; i < e.part_family.length; i += 1)
+		{
+			var p_fdx = e.part_family[i];
+			if (p_fdx != fdx) participants += '<br>' + indiLinked(p_fdx, false);
+		}
+		if (participants != '') notes.push('<span class="dwr-attr-header">' + _('Other participants') + '</span>:' + participants);
+		// Build notes from notes + description + media + participants + etc.
 		txt += '<td class="dwr-attr-value">' + notes.join('<p>') + '</td>';
 		txt += '</tr>';
 	}
@@ -1334,7 +1348,6 @@ function printMediaRefArea(bk_table, fref, fname)
 		}
 		if (!isNaN(rect[0]) && rect.join(',') != '0,0,100,100')
 		{
-		
 			html += '<a href="' + fref(idx) + '"';
 			html += ' title="' + fname(idx) + '" class="dwr-imgmap" style="';
 			html += 'left: ' + rect[0] + '%;';
@@ -1765,26 +1778,31 @@ function printFamiliesIndex()
 {
 	document.write(htmlFamiliesIndex());
 }
-function htmlFamiliesIndex()
+function htmlFamiliesIndex(data)
 {
 	var html = '';
-	html += '<h2 class="page-header">' + _('Families Index') + '</h2>';
+	if (typeof(data) == 'undefined')
+	{
+		html += '<h2 class="page-header">' + _('Families Index') + '</h2>';
+		data = [];
+		for (var x = 0; x < F.length; x++) data.push(x);
+	}
 	var columns = [{
 		title: _('Father'),
-		ftext: printIndexSpouseText,
-		fhref: famHref,
-		fsort: printIndexSpouseIdx
+		ftext: function(x, col) {return(printIndexSpouseText(data[x], col));},
+		fhref: function(x) {return(famHref(data[x]));},
+		fsort: function(x, col) {return(printIndexSpouseIdx(data[x], col));}
 	}, {
 		title: _('Mother'),
-		ftext: printIndexSpouseText,
-		fhref: famHref,
-		fsort: printIndexSpouseIdx
+		ftext: function(x, col) {return(printIndexSpouseText(data[x], col));},
+		fhref: function(x) {return(famHref(data[x]));},
+		fsort: function(x, col) {return(printIndexSpouseIdx(data[x], col));}
 	}];
 	if (INDEX_SHOW_MARRIAGE) columns.push({
 		title: _('Marriage'),
-		ftext: function(fdx, col) {return(F[fdx].marr_year);}
+		ftext: function(x, col) {return(F[data[x]].marr_year);}
 	});
-	html += printIndex(F, [0, 'asc'], columns);
+	html += printIndex(data, [0, 'asc'], columns);
 	return(html);
 }
 
@@ -2362,7 +2380,7 @@ function printMap(enabled)
 	}
 	if (!found) return([]);
 	// Schedule the differed update of the map
-	if (TABBED_PANELS)
+	if (TABBED_PANELS && !search.MapExpanded)
 		$(window).load(function () {
 			if ($(".tab-pane.active.dwr-panel-map").length > 0)
 			{
@@ -2723,7 +2741,7 @@ function mapResize()
 	var h = $(window).height();
 	div.width(w);
 	div.height(h);
-	mapObject.checkResize();
+	if (mapObject) mapObject.checkResize();
 	return(true);
 }
 
