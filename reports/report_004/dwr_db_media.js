@@ -8,7 +8,7 @@
 //   - path: The media path were the media is really located
 //   - mime: The media MIME type
 //   - date: The media date
-//   - date_iso: The media date in ISO format (sortable)
+//   - date_sdn: The media serial date number
 //   - note: The media notes
 //   - cita: A list of the media source citations index (in table 'C')
 //   - attr: The list of the media attributes in the form:

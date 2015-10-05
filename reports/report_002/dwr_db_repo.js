@@ -7,7 +7,7 @@
 //   - type: The repository type
 //   - addrs: A list of addresses, with for each address:
 //       - date: The address date
-//       - date_iso: The address date in ISO format (sortable)
+//       - date_sdn: The address serial date number
 //       - location: The address place in the form:
 //           [street, locality, parish, city, state, county, zip, country]
 //       - note: The address notes
@@ -26,7 +26,7 @@ R = [
             {
                 "cita": [],
                 "date": "",
-                "date_iso": "",
+                "date_sdn": 0,
                 "location": [
                     "123 Main St",
                     "",
@@ -68,7 +68,7 @@ R = [
                     2852
                 ],
                 "date": "",
-                "date_iso": "",
+                "date_sdn": 0,
                 "location": [
                     "5th Ave at 42 street",
                     "",
@@ -108,7 +108,7 @@ R = [
             {
                 "cita": [],
                 "date": "",
-                "date_iso": "",
+                "date_sdn": 0,
                 "location": [
                     "Bookstore street 5",
                     "",

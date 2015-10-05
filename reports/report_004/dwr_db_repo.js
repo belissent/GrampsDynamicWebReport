@@ -7,7 +7,7 @@
 //   - type: The repository type
 //   - addrs: A list of addresses, with for each address:
 //       - date: The address date
-//       - date_iso: The address date in ISO format (sortable)
+//       - date_sdn: The address serial date number
 //       - location: The address place in the form:
 //           [street, locality, parish, city, state, county, zip, country]
 //       - note: The address notes

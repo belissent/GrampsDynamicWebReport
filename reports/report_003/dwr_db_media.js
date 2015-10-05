@@ -8,7 +8,7 @@
 //   - path: The media path were the media is really located
 //   - mime: The media MIME type
 //   - date: The media date
-//   - date_iso: The media date in ISO format (sortable)
+//   - date_sdn: The media serial date number
 //   - note: The media notes
 //   - cita: A list of the media source citations index (in table 'C')
 //   - attr: The list of the media attributes in the form:
@@ -77,7 +77,7 @@ M = [
         ],
         "cita": [],
         "date": "",
-        "date_iso": "",
+        "date_sdn": 0,
         "gid": "O0000",
         "gramps_path": "scanned_microfilm.png",
         "mime": "image/png",
@@ -136,7 +136,7 @@ M = [
         "bks": [],
         "cita": [],
         "date": "1897",
-        "date_iso": "1897",
+        "date_sdn": 2413926,
         "gid": "O0010",
         "gramps_path": "1897_expeditionsmannschaft_rio_a.jpg",
         "mime": "image/jpeg",
@@ -181,7 +181,7 @@ M = [
             2847
         ],
         "date": "",
-        "date_iso": "",
+        "date_sdn": 0,
         "gid": "O0008",
         "gramps_path": "654px-Aksel_Andersson.jpg",
         "mime": "image/jpeg",
@@ -215,7 +215,7 @@ M = [
         "bks": [],
         "cita": [],
         "date": "",
-        "date_iso": "",
+        "date_sdn": 0,
         "gid": "O0006",
         "gramps_path": "Alimehemet.jpg",
         "mime": "image/jpeg",
@@ -245,7 +245,7 @@ M = [
         "bks": [],
         "cita": [],
         "date": "",
-        "date_iso": "",
+        "date_sdn": 0,
         "gid": "O0011",
         "gramps_path": "AntoineClaudet.png",
         "mime": "image/png",
@@ -275,7 +275,7 @@ M = [
         "bks": [],
         "cita": [],
         "date": "",
-        "date_iso": "",
+        "date_sdn": 0,
         "gid": "O0007",
         "gramps_path": "E_W_Dahlgren.jpg",
         "mime": "image/jpeg",
@@ -305,7 +305,7 @@ M = [
         "bks": [],
         "cita": [],
         "date": "",
-        "date_iso": "",
+        "date_sdn": 0,
         "gid": "O0009",
         "gramps_path": "Gunnlaugur_Larusson_-_Yawn.jpg",
         "mime": "image/jpeg",
