@@ -82,7 +82,7 @@ M = [
         "gramps_path": "scanned_microfilm.png",
         "mime": "image/png",
         "note": "",
-        "path": "../../../../gramps.42/example/gramps/scanned_microfilm.png",
+        "path": "../../../../../../../Gramps/gramps.50/example/gramps/scanned_microfilm.png",
         "thumb": "thumb/b39fe1cfc1305ac4a21.png",
         "title": "1855-06-25 scanned birth record"
     },
@@ -117,7 +117,7 @@ M = [
         ],
         "bkp": [
             {
-                "bk_idx": 782,
+                "bk_idx": 1169,
                 "cita": [
                     2850,
                     2851,
@@ -141,7 +141,7 @@ M = [
         "gramps_path": "1897_expeditionsmannschaft_rio_a.jpg",
         "mime": "image/jpeg",
         "note": "",
-        "path": "../../../../gramps.42/example/gramps/1897_expeditionsmannschaft_rio_a.jpg",
+        "path": "../../../../../../../Gramps/gramps.50/example/gramps/1897_expeditionsmannschaft_rio_a.jpg",
         "thumb": "thumb/238CGQ939HG18SS5MG.png",
         "title": "1897_expeditionsmannschaft_rio_a"
     },
@@ -186,7 +186,7 @@ M = [
         "gramps_path": "654px-Aksel_Andersson.jpg",
         "mime": "image/jpeg",
         "note": "",
-        "path": "../../../../gramps.42/example/gramps/654px-Aksel_Andersson.jpg",
+        "path": "../../../../../../../Gramps/gramps.50/example/gramps/654px-Aksel_Andersson.jpg",
         "thumb": "thumb/B1AUFQV7H8R9NR4SZM.png",
         "title": "654px-Aksel_Andersson"
     },
@@ -220,7 +220,7 @@ M = [
         "gramps_path": "Alimehemet.jpg",
         "mime": "image/jpeg",
         "note": "",
-        "path": "../../../../gramps.42/example/gramps/Alimehemet.jpg",
+        "path": "../../../../../../../Gramps/gramps.50/example/gramps/Alimehemet.jpg",
         "thumb": "thumb/F0QIGQFT275JFJ75E8.png",
         "title": "Alimehemet"
     },
@@ -250,7 +250,7 @@ M = [
         "gramps_path": "AntoineClaudet.png",
         "mime": "image/png",
         "note": "",
-        "path": "../../../../gramps.42/example/gramps/AntoineClaudet.png",
+        "path": "../../../../../../../Gramps/gramps.50/example/gramps/AntoineClaudet.png",
         "thumb": "thumb/Y3ARGQWE088EQRTTDH.png",
         "title": "AntoineClaudet"
     },
@@ -280,7 +280,7 @@ M = [
         "gramps_path": "E_W_Dahlgren.jpg",
         "mime": "image/jpeg",
         "note": "",
-        "path": "../../../../gramps.42/example/gramps/E_W_Dahlgren.jpg",
+        "path": "../../../../../../../Gramps/gramps.50/example/gramps/E_W_Dahlgren.jpg",
         "thumb": "thumb/F8JYGQFL2PKLSYH79X.png",
         "title": "E_W_Dahlgren"
     },
@@ -310,7 +310,7 @@ M = [
         "gramps_path": "Gunnlaugur_Larusson_-_Yawn.jpg",
         "mime": "image/jpeg",
         "note": "",
-        "path": "../../../../gramps.42/example/gramps/Gunnlaugur_Larusson_-_Yawn.jpg",
+        "path": "../../../../../../../Gramps/gramps.50/example/gramps/Gunnlaugur_Larusson_-_Yawn.jpg",
         "thumb": "thumb/78V2GQX2FKNSYQ3OHE.png",
         "title": "Yawn"
     }

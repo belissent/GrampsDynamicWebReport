@@ -3,12 +3,21 @@
 // 'P' is sorted by place name
 // 'P' gives for each media object:
 //   - gid: Gramps ID
-//   - name: The place name
-//   - locations: The place locations parts for the main and alternate names, in the form:
-//       (index 0 is main name, others are for alternate names)
-//       [street, locality, parish, city, state, county, zip, country]
+//   - name: The place long name
+//   - names: list of place names in the form {name, date, date_sdn} (empty for version 4.0 and below)
+//   - type: The place type ('' for version 4.0 and below)
+//   - locations: The place locations parts for the main and alternate names (empty for version 4.1 and above), in the form:
+//         [{
+//         type: type as a string ('street', 'locality', 'parish', 'city', 'state', 'county', etc.)
+//         name: name as a string
+//         }]
+//   - enclosed_by: List of places enclosing this place (empty for version 4.0 and below), in the form:
+//         {
+//         pdx: place index (in table 'P')
+//         date, date_sdn
+//         }
 //   - coords: The coordinates [latitude, longitude]
-
+//   - code: The place code
 //   - note: The place notes
 //   - media: A list of the place media references, in the form:
 //       - m_idx: media index (in table 'M')
@@ -22,6 +31,7 @@
 //   - bki: A list of the person index (in table 'I') for events referencing this place
 //     (including the persons directly referencing this place)
 //   - bkf: A list of the family index (in table 'F') for events referencing this place
+//   - bkp: A list of the places index (in table 'P') for places enclosed by this place (empty for version 4.0 and below)
 P = [
     {
         "gid": "P1643",
@@ -56,12 +66,12 @@ P = [
         "name": "Alamogordo, NM, USA"
     },
     {
-        "gid": "P0970",
-        "name": "Albany, Dougherty, GA, USA"
-    },
-    {
         "gid": "P1446",
         "name": "Albany, Albany, NY, USA"
+    },
+    {
+        "gid": "P0970",
+        "name": "Albany, Dougherty, GA, USA"
     },
     {
         "gid": "P1085",
@@ -80,16 +90,16 @@ P = [
         "name": "Albuquerque, NM, USA"
     },
     {
-        "gid": "P0960",
-        "name": "Alexandria, Rapides, LA, USA"
-    },
-    {
         "gid": "P0894",
         "name": "Alexandria, MD, USA"
     },
     {
         "gid": "P1568",
         "name": "Alexandria, MN, USA"
+    },
+    {
+        "gid": "P0960",
+        "name": "Alexandria, Rapides, LA, USA"
     },
     {
         "gid": "P0964",
@@ -204,24 +214,24 @@ P = [
         "name": "Athens, Clarke, GA, USA"
     },
     {
-        "gid": "P0874",
-        "name": "Athens, OH, USA"
-    },
-    {
         "gid": "P1326",
         "name": "Athens, Henderson, TX, USA"
+    },
+    {
+        "gid": "P0874",
+        "name": "Athens, OH, USA"
     },
     {
         "gid": "P1029",
         "name": "Atlanta, Fulton, GA, USA"
     },
     {
-        "gid": "P1211",
-        "name": "Auburn, Lee, AL, USA"
-    },
-    {
         "gid": "P0921",
         "name": "Auburn, Cayuga, NY, USA"
+    },
+    {
+        "gid": "P1211",
+        "name": "Auburn, Lee, AL, USA"
     },
     {
         "gid": "P1210",
@@ -272,12 +282,12 @@ P = [
         "name": "Battle Creek, MI, USA"
     },
     {
-        "gid": "P1687",
-        "name": "Bay City, MI, USA"
-    },
-    {
         "gid": "P1027",
         "name": "Bay City, Matagorda, TX, USA"
+    },
+    {
+        "gid": "P1687",
+        "name": "Bay City, MI, USA"
     },
     {
         "gid": "P1348",
@@ -444,12 +454,12 @@ P = [
         "name": "Brookings, OR, USA"
     },
     {
-        "gid": "P1143",
-        "name": "Brownsville, TN, USA"
-    },
-    {
         "gid": "P1664",
         "name": "Brownsville, Cameron, TX, USA"
+    },
+    {
+        "gid": "P1143",
+        "name": "Brownsville, TN, USA"
     },
     {
         "gid": "P1190",
@@ -496,24 +506,24 @@ P = [
         "name": "Caguas, PR, USA"
     },
     {
-        "gid": "P1036",
-        "name": "Cambridge, Middlesex, MA, USA"
-    },
-    {
         "gid": "P1569",
         "name": "Cambridge, MD, USA"
+    },
+    {
+        "gid": "P1036",
+        "name": "Cambridge, Middlesex, MA, USA"
     },
     {
         "gid": "P1297",
         "name": "Cambridge, OH, USA"
     },
     {
-        "gid": "P1127",
-        "name": "Camden, Ouachita, AR, USA"
-    },
-    {
         "gid": "P1208",
         "name": "Camden, NJ, USA"
+    },
+    {
+        "gid": "P1127",
+        "name": "Camden, Ouachita, AR, USA"
     },
     {
         "gid": "P1648",
@@ -700,12 +710,12 @@ P = [
         "name": "Columbia, TN, USA"
     },
     {
-        "gid": "P0975",
-        "name": "Columbus, Jefferson, GA-AL, USA"
-    },
-    {
         "gid": "P1553",
         "name": "Columbus, Bartholomew, IN, USA"
+    },
+    {
+        "gid": "P0975",
+        "name": "Columbus, Jefferson, GA-AL, USA"
     },
     {
         "gid": "P1167",
@@ -804,16 +814,16 @@ P = [
         "name": "Dalton, Madison, GA, USA"
     },
     {
-        "gid": "P0968",
-        "name": "Danville, Vermilion, IL, USA"
-    },
-    {
         "gid": "P1367",
         "name": "Danville, Boyle, KY, USA"
     },
     {
         "gid": "P0932",
         "name": "Danville, VA, USA"
+    },
+    {
+        "gid": "P0968",
+        "name": "Danville, Vermilion, IL, USA"
     },
     {
         "gid": "P1070",
@@ -832,16 +842,16 @@ P = [
         "name": "De Ridder, LA, USA"
     },
     {
-        "gid": "P1351",
-        "name": "Decatur, Morgan, AL, USA"
+        "gid": "P1044",
+        "name": "Decatur, Adams, IN, USA"
     },
     {
         "gid": "P1107",
         "name": "Decatur, Macon, IL, USA"
     },
     {
-        "gid": "P1044",
-        "name": "Decatur, Adams, IN, USA"
+        "gid": "P1351",
+        "name": "Decatur, Morgan, AL, USA"
     },
     {
         "gid": "P1567",
@@ -1480,12 +1490,12 @@ P = [
         "name": "Huron, SD, USA"
     },
     {
-        "gid": "P1145",
-        "name": "Hutchinson, Reno, KS, USA"
-    },
-    {
         "gid": "P1576",
         "name": "Hutchinson, MN, USA"
+    },
+    {
+        "gid": "P1145",
+        "name": "Hutchinson, Reno, KS, USA"
     },
     {
         "gid": "P1438",
@@ -1524,16 +1534,16 @@ P = [
         "name": "Jackson, WY, USA"
     },
     {
+        "gid": "P1632",
+        "name": "Jacksonville, Cherokee, TX, USA"
+    },
+    {
         "gid": "P1642",
         "name": "Jacksonville, Duval, FL, USA"
     },
     {
         "gid": "P1222",
         "name": "Jacksonville, NC, USA"
-    },
-    {
-        "gid": "P1632",
-        "name": "Jacksonville, Cherokee, TX, USA"
     },
     {
         "gid": "P1558",
@@ -1684,12 +1694,12 @@ P = [
         "name": "Laconia, NH, USA"
     },
     {
-        "gid": "P1502",
-        "name": "Lafayette, Tippecanoe, IN, USA"
-    },
-    {
         "gid": "P1271",
         "name": "Lafayette, Lafayette, LA, USA"
+    },
+    {
+        "gid": "P1502",
+        "name": "Lafayette, Tippecanoe, IN, USA"
     },
     {
         "gid": "P0896",
@@ -1788,12 +1798,12 @@ P = [
         "name": "Lewisburg, PA, USA"
     },
     {
-        "gid": "P1019",
-        "name": "Lewiston, Nez Perce, ID, USA"
-    },
-    {
         "gid": "P1702",
         "name": "Lewiston, ME, USA"
+    },
+    {
+        "gid": "P1019",
+        "name": "Lewiston, Nez Perce, ID, USA"
     },
     {
         "gid": "P0984",
@@ -1952,16 +1962,16 @@ P = [
         "name": "Marquette, MI, USA"
     },
     {
+        "gid": "P1407",
+        "name": "Marshall, Harrison, TX, USA"
+    },
+    {
         "gid": "P1556",
         "name": "Marshall, MN, USA"
     },
     {
         "gid": "P1115",
         "name": "Marshall, MO, USA"
-    },
-    {
-        "gid": "P1407",
-        "name": "Marshall, Harrison, TX, USA"
     },
     {
         "gid": "P1504",
@@ -2116,12 +2126,12 @@ P = [
         "name": "Modesto, Stanislaus, CA, USA"
     },
     {
-        "gid": "P1563",
-        "name": "Monroe, Ouachita, LA, USA"
-    },
-    {
         "gid": "P1456",
         "name": "Monroe, MI, USA"
+    },
+    {
+        "gid": "P1563",
+        "name": "Monroe, Ouachita, LA, USA"
     },
     {
         "gid": "P1077",
@@ -2188,12 +2198,12 @@ P = [
         "name": "Mount Vernon, WA, USA"
     },
     {
-        "gid": "P1336",
-        "name": "Mountain Home, White, AR, USA"
-    },
-    {
         "gid": "P1309",
         "name": "Mountain Home, Elmore, ID, USA"
+    },
+    {
+        "gid": "P1336",
+        "name": "Mountain Home, White, AR, USA"
     },
     {
         "gid": "P1492",
@@ -2628,16 +2638,16 @@ P = [
         "name": "Rexburg, Madison, ID, USA"
     },
     {
-        "gid": "P1236",
-        "name": "Richmond, Wayne, IN, USA"
-    },
-    {
         "gid": "P1223",
         "name": "Richmond, Madison, KY, USA"
     },
     {
         "gid": "P1615",
         "name": "Richmond, VA, USA"
+    },
+    {
+        "gid": "P1236",
+        "name": "Richmond, Wayne, IN, USA"
     },
     {
         "gid": "P1024",
@@ -2916,12 +2926,12 @@ P = [
         "name": "Sioux Falls, SD, USA"
     },
     {
-        "gid": "P1431",
-        "name": "Somerset, Pulaski, KY, USA"
-    },
-    {
         "gid": "P1371",
         "name": "Somerset, PA, USA"
+    },
+    {
+        "gid": "P1431",
+        "name": "Somerset, Pulaski, KY, USA"
     },
     {
         "gid": "P1254",
@@ -2952,10 +2962,6 @@ P = [
         "name": "Spokane, WA, USA"
     },
     {
-        "gid": "P1172",
-        "name": "Springfield, Sangamon, IL, USA"
-    },
-    {
         "gid": "P1444",
         "name": "Springfield, Hampden, MA, USA"
     },
@@ -2968,6 +2974,14 @@ P = [
         "name": "Springfield, OH, USA"
     },
     {
+        "gid": "P1172",
+        "name": "Springfield, Sangamon, IL, USA"
+    },
+    {
+        "gid": "P1221",
+        "name": "St, FL, USA"
+    },
+    {
         "gid": "P1192",
         "name": "St, George, UT, USA"
     },
@@ -2978,10 +2992,6 @@ P = [
     {
         "gid": "P1155",
         "name": "St, Marys, St, Marys, PA, USA"
-    },
-    {
-        "gid": "P1221",
-        "name": "St, FL, USA"
     },
     {
         "gid": "P1606",
@@ -3264,12 +3274,12 @@ P = [
         "name": "Warsaw, Kosciusko, IN, USA"
     },
     {
-        "gid": "P1499",
-        "name": "Washington, District of Columbia, DC, USA"
-    },
-    {
         "gid": "P1279",
         "name": "Washington, Daviess, IN, USA"
+    },
+    {
+        "gid": "P1499",
+        "name": "Washington, District of Columbia, DC, USA"
     },
     {
         "gid": "P1359",
@@ -3352,12 +3362,12 @@ P = [
         "name": "Willmar, MN, USA"
     },
     {
-        "gid": "P0899",
-        "name": "Wilmington, New Castle, DE-MD-NJ, USA"
-    },
-    {
         "gid": "P1156",
         "name": "Wilmington, NC, USA"
+    },
+    {
+        "gid": "P0899",
+        "name": "Wilmington, New Castle, DE-MD-NJ, USA"
     },
     {
         "gid": "P1611",

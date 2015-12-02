@@ -448,7 +448,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 724,
+                "place": 723,
                 "text": "",
                 "type": "Marriage"
             }
@@ -3482,7 +3482,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 119,
+                "place": 118,
                 "text": "",
                 "type": "Marriage"
             }
@@ -5052,7 +5052,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 16,
+                "place": 15,
                 "text": "",
                 "type": "Marriage"
             }
@@ -5828,7 +5828,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 833,
+                "place": 832,
                 "text": "",
                 "type": "Marriage"
             }
@@ -8791,7 +8791,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 45,
+                "place": 46,
                 "text": "",
                 "type": "Marriage"
             }
@@ -11991,7 +11991,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 415,
+                "place": 416,
                 "text": "",
                 "type": "Marriage"
             }
@@ -13736,7 +13736,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 49,
+                "place": 48,
                 "text": "",
                 "type": "Marriage"
             }
@@ -15335,7 +15335,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 202,
+                "place": 204,
                 "text": "",
                 "type": "Marriage"
             }
@@ -18611,7 +18611,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 415,
+                "place": 416,
                 "text": "",
                 "type": "Marriage"
             }
@@ -19667,7 +19667,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 63,
+                "place": 62,
                 "text": "",
                 "type": "Marriage"
             }
@@ -23322,7 +23322,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 170,
+                "place": 169,
                 "text": "",
                 "type": "Marriage"
             }
@@ -23987,7 +23987,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 16,
+                "place": 15,
                 "text": "",
                 "type": "Marriage"
             }
@@ -27728,7 +27728,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 732,
+                "place": 735,
                 "text": "",
                 "type": "Marriage"
             }

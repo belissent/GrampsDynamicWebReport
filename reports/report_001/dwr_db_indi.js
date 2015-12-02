@@ -778,7 +778,7 @@ I = [
                 "part_person": [
                     11
                 ],
-                "place": 618,
+                "place": 936,
                 "text": "",
                 "type": "Birth"
             },
@@ -793,7 +793,7 @@ I = [
                 "part_person": [
                     11
                 ],
-                "place": 382,
+                "place": 558,
                 "text": "",
                 "type": "Death"
             }
@@ -862,7 +862,7 @@ I = [
                 "part_person": [
                     12
                 ],
-                "place": 228,
+                "place": 331,
                 "text": "",
                 "type": "Birth"
             },
@@ -877,7 +877,7 @@ I = [
                 "part_person": [
                     12
                 ],
-                "place": 340,
+                "place": 488,
                 "text": "",
                 "type": "Death"
             },
@@ -892,7 +892,7 @@ I = [
                 "part_person": [
                     12
                 ],
-                "place": 605,
+                "place": 918,
                 "text": "",
                 "type": "Burial"
             }
@@ -953,7 +953,7 @@ I = [
                 "part_person": [
                     13
                 ],
-                "place": 489,
+                "place": 729,
                 "text": "",
                 "type": "Birth"
             },
@@ -968,7 +968,7 @@ I = [
                 "part_person": [
                     13
                 ],
-                "place": 841,
+                "place": 1270,
                 "text": "",
                 "type": "Death"
             }
@@ -1037,7 +1037,7 @@ I = [
                 "part_person": [
                     14
                 ],
-                "place": 712,
+                "place": 1064,
                 "text": "",
                 "type": "Birth"
             },
@@ -1052,7 +1052,7 @@ I = [
                 "part_person": [
                     14
                 ],
-                "place": 382,
+                "place": 558,
                 "text": "",
                 "type": "Death"
             },
@@ -1067,7 +1067,7 @@ I = [
                 "part_person": [
                     14
                 ],
-                "place": 382,
+                "place": 558,
                 "text": "",
                 "type": "Burial"
             }
@@ -1136,7 +1136,7 @@ I = [
                 "part_person": [
                     15
                 ],
-                "place": 597,
+                "place": 908,
                 "text": "",
                 "type": "Birth"
             }
@@ -1197,7 +1197,7 @@ I = [
                 "part_person": [
                     16
                 ],
-                "place": 400,
+                "place": 587,
                 "text": "",
                 "type": "Birth"
             }
@@ -1258,7 +1258,7 @@ I = [
                 "part_person": [
                     17
                 ],
-                "place": 347,
+                "place": 499,
                 "text": "",
                 "type": "Birth"
             },
@@ -1273,7 +1273,7 @@ I = [
                 "part_person": [
                     17
                 ],
-                "place": 618,
+                "place": 936,
                 "text": "",
                 "type": "Death"
             }
@@ -1342,7 +1342,7 @@ I = [
                 "part_person": [
                     18
                 ],
-                "place": 400,
+                "place": 587,
                 "text": "",
                 "type": "Birth"
             },
@@ -1357,7 +1357,7 @@ I = [
                 "part_person": [
                     18
                 ],
-                "place": 841,
+                "place": 1270,
                 "text": "",
                 "type": "Death"
             }
@@ -1463,7 +1463,7 @@ I = [
                 "part_person": [
                     20
                 ],
-                "place": 773,
+                "place": 1156,
                 "text": "",
                 "type": "Birth"
             }
@@ -1533,7 +1533,7 @@ I = [
                 "part_person": [
                     21
                 ],
-                "place": 773,
+                "place": 1156,
                 "text": "",
                 "type": "Birth"
             },
@@ -1548,7 +1548,7 @@ I = [
                 "part_person": [
                     21
                 ],
-                "place": 190,
+                "place": 269,
                 "text": "",
                 "type": "Death"
             }
@@ -1617,7 +1617,7 @@ I = [
                 "part_person": [
                     22
                 ],
-                "place": 68,
+                "place": 90,
                 "text": "",
                 "type": "Birth"
             },
@@ -1632,7 +1632,7 @@ I = [
                 "part_person": [
                     22
                 ],
-                "place": 773,
+                "place": 1156,
                 "text": "",
                 "type": "Death"
             }
@@ -1699,7 +1699,7 @@ I = [
                 "part_person": [
                     23
                 ],
-                "place": 718,
+                "place": 1070,
                 "text": "",
                 "type": "Birth"
             },
@@ -1714,7 +1714,7 @@ I = [
                 "part_person": [
                     23
                 ],
-                "place": 773,
+                "place": 1156,
                 "text": "",
                 "type": "Death"
             }
@@ -1783,7 +1783,7 @@ I = [
                 "part_person": [
                     24
                 ],
-                "place": 625,
+                "place": 947,
                 "text": "",
                 "type": "Birth"
             }
@@ -1919,7 +1919,7 @@ I = [
                 "part_person": [
                     26
                 ],
-                "place": 718,
+                "place": 1070,
                 "text": "",
                 "type": "Birth"
             },
@@ -1934,7 +1934,7 @@ I = [
                 "part_person": [
                     26
                 ],
-                "place": 773,
+                "place": 1156,
                 "text": "",
                 "type": "Death"
             }
@@ -2003,7 +2003,7 @@ I = [
                 "part_person": [
                     27
                 ],
-                "place": 718,
+                "place": 1070,
                 "text": "",
                 "type": "Birth"
             },
@@ -2018,7 +2018,7 @@ I = [
                 "part_person": [
                     27
                 ],
-                "place": 773,
+                "place": 1156,
                 "text": "",
                 "type": "Death"
             }
@@ -2154,7 +2154,7 @@ I = [
                 "part_person": [
                     29
                 ],
-                "place": 718,
+                "place": 1070,
                 "text": "",
                 "type": "Birth"
             },
@@ -2169,7 +2169,7 @@ I = [
                 "part_person": [
                     29
                 ],
-                "place": 773,
+                "place": 1156,
                 "text": "",
                 "type": "Death"
             }
@@ -2236,7 +2236,7 @@ I = [
                 "part_person": [
                     30
                 ],
-                "place": 773,
+                "place": 1156,
                 "text": "",
                 "type": "Birth"
             }
@@ -2303,7 +2303,7 @@ I = [
                 "part_person": [
                     31
                 ],
-                "place": 68,
+                "place": 90,
                 "text": "",
                 "type": "Birth"
             }
@@ -2370,7 +2370,7 @@ I = [
                 "part_person": [
                     32
                 ],
-                "place": 718,
+                "place": 1070,
                 "text": "",
                 "type": "Birth"
             },
@@ -2454,7 +2454,7 @@ I = [
                 "part_person": [
                     33
                 ],
-                "place": 718,
+                "place": 1070,
                 "text": "",
                 "type": "Birth"
             },
@@ -2469,7 +2469,7 @@ I = [
                 "part_person": [
                     33
                 ],
-                "place": 773,
+                "place": 1156,
                 "text": "",
                 "type": "Death"
             }
@@ -2538,7 +2538,7 @@ I = [
                 "part_person": [
                     34
                 ],
-                "place": 206,
+                "place": 298,
                 "text": "",
                 "type": "Birth"
             }
@@ -2599,7 +2599,7 @@ I = [
                 "part_person": [
                     35
                 ],
-                "place": 246,
+                "place": 359,
                 "text": "",
                 "type": "Birth"
             }
@@ -2666,7 +2666,7 @@ I = [
                 "part_person": [
                     36
                 ],
-                "place": 246,
+                "place": 359,
                 "text": "",
                 "type": "Birth"
             }
@@ -2733,7 +2733,7 @@ I = [
                 "part_person": [
                     37
                 ],
-                "place": 664,
+                "place": 997,
                 "text": "",
                 "type": "Birth"
             },
@@ -2815,7 +2815,7 @@ I = [
                 "part_person": [
                     38
                 ],
-                "place": 582,
+                "place": 887,
                 "text": "",
                 "type": "Birth"
             },
@@ -2830,7 +2830,7 @@ I = [
                 "part_person": [
                     38
                 ],
-                "place": 152,
+                "place": 211,
                 "text": "",
                 "type": "Death"
             }
@@ -2891,7 +2891,7 @@ I = [
                 "part_person": [
                     39
                 ],
-                "place": 176,
+                "place": 250,
                 "text": "",
                 "type": "Birth"
             },
@@ -2906,7 +2906,7 @@ I = [
                 "part_person": [
                     39
                 ],
-                "place": 176,
+                "place": 250,
                 "text": "",
                 "type": "Death"
             }
@@ -2973,7 +2973,7 @@ I = [
                 "part_person": [
                     40
                 ],
-                "place": 515,
+                "place": 773,
                 "text": "",
                 "type": "Birth"
             },
@@ -2988,7 +2988,7 @@ I = [
                 "part_person": [
                     40
                 ],
-                "place": 484,
+                "place": 719,
                 "text": "",
                 "type": "Death"
             },
@@ -3003,7 +3003,7 @@ I = [
                 "part_person": [
                     40
                 ],
-                "place": 484,
+                "place": 719,
                 "text": "",
                 "type": "Burial"
             }
@@ -3123,7 +3123,7 @@ I = [
                 "part_person": [
                     42
                 ],
-                "place": 664,
+                "place": 997,
                 "text": "",
                 "type": "Birth"
             },
@@ -3205,7 +3205,7 @@ I = [
                 "part_person": [
                     43
                 ],
-                "place": 176,
+                "place": 250,
                 "text": "",
                 "type": "Birth"
             }
@@ -3274,7 +3274,7 @@ I = [
                 "part_person": [
                     44
                 ],
-                "place": 176,
+                "place": 250,
                 "text": "",
                 "type": "Birth"
             }
@@ -3419,7 +3419,7 @@ I = [
                 "part_person": [
                     46
                 ],
-                "place": 482,
+                "place": 722,
                 "text": "",
                 "type": "Birth"
             },
@@ -3434,7 +3434,7 @@ I = [
                 "part_person": [
                     46
                 ],
-                "place": 642,
+                "place": 970,
                 "text": "",
                 "type": "Death"
             }
@@ -3552,7 +3552,7 @@ I = [
                 "part_person": [
                     48
                 ],
-                "place": 176,
+                "place": 250,
                 "text": "",
                 "type": "Birth"
             },
@@ -3567,7 +3567,7 @@ I = [
                 "part_person": [
                     48
                 ],
-                "place": 176,
+                "place": 250,
                 "text": "",
                 "type": "Death"
             }
@@ -3755,7 +3755,7 @@ I = [
                 "part_person": [
                     51
                 ],
-                "place": 482,
+                "place": 722,
                 "text": "",
                 "type": "Birth"
             }
@@ -3824,7 +3824,7 @@ I = [
                 "part_person": [
                     52
                 ],
-                "place": 268,
+                "place": 389,
                 "text": "",
                 "type": "Birth"
             },
@@ -3839,7 +3839,7 @@ I = [
                 "part_person": [
                     52
                 ],
-                "place": 176,
+                "place": 250,
                 "text": "",
                 "type": "Death"
             }
@@ -3906,7 +3906,7 @@ I = [
                 "part_person": [
                     53
                 ],
-                "place": 176,
+                "place": 250,
                 "text": "",
                 "type": "Birth"
             }
@@ -3975,7 +3975,7 @@ I = [
                 "part_person": [
                     54
                 ],
-                "place": 665,
+                "place": 998,
                 "text": "",
                 "type": "Birth"
             },
@@ -3990,7 +3990,7 @@ I = [
                 "part_person": [
                     54
                 ],
-                "place": 625,
+                "place": 947,
                 "text": "",
                 "type": "Death"
             }
@@ -4059,7 +4059,7 @@ I = [
                 "part_person": [
                     55
                 ],
-                "place": 664,
+                "place": 997,
                 "text": "",
                 "type": "Birth"
             },
@@ -4141,7 +4141,7 @@ I = [
                 "part_person": [
                     56
                 ],
-                "place": 664,
+                "place": 997,
                 "text": "",
                 "type": "Birth"
             },
@@ -4223,7 +4223,7 @@ I = [
                 "part_person": [
                     57
                 ],
-                "place": 542,
+                "place": 815,
                 "text": "",
                 "type": "Birth"
             },
@@ -4238,7 +4238,7 @@ I = [
                 "part_person": [
                     57
                 ],
-                "place": 153,
+                "place": 213,
                 "text": "",
                 "type": "Death"
             }
@@ -4411,7 +4411,7 @@ I = [
                 "part_person": [
                     60
                 ],
-                "place": 176,
+                "place": 250,
                 "text": "",
                 "type": "Birth"
             }
@@ -4525,7 +4525,7 @@ I = [
                 "part_person": [
                     62
                 ],
-                "place": 176,
+                "place": 250,
                 "text": "",
                 "type": "Birth"
             }
@@ -4639,7 +4639,7 @@ I = [
                 "part_person": [
                     64
                 ],
-                "place": 784,
+                "place": 1172,
                 "text": "",
                 "type": "Birth"
             },
@@ -4870,7 +4870,7 @@ I = [
                 "part_person": [
                     68
                 ],
-                "place": 478,
+                "place": 712,
                 "text": "",
                 "type": "Birth"
             },
@@ -4885,7 +4885,7 @@ I = [
                 "part_person": [
                     68
                 ],
-                "place": 497,
+                "place": 744,
                 "text": "",
                 "type": "Death"
             }
@@ -5048,7 +5048,7 @@ I = [
                 "part_person": [
                     71
                 ],
-                "place": 710,
+                "place": 1062,
                 "text": "",
                 "type": "Birth"
             },
@@ -5132,7 +5132,7 @@ I = [
                 "part_person": [
                     72
                 ],
-                "place": 507,
+                "place": 762,
                 "text": "",
                 "type": "Birth"
             },
@@ -5147,7 +5147,7 @@ I = [
                 "part_person": [
                     72
                 ],
-                "place": 614,
+                "place": 932,
                 "text": "",
                 "type": "Death"
             }
@@ -5216,7 +5216,7 @@ I = [
                 "part_person": [
                     73
                 ],
-                "place": 60,
+                "place": 80,
                 "text": "",
                 "type": "Birth"
             },
@@ -5231,7 +5231,7 @@ I = [
                 "part_person": [
                     73
                 ],
-                "place": 300,
+                "place": 434,
                 "text": "",
                 "type": "Death"
             }
@@ -5300,7 +5300,7 @@ I = [
                 "part_person": [
                     74
                 ],
-                "place": 425,
+                "place": 624,
                 "text": "",
                 "type": "Birth"
             },
@@ -5315,7 +5315,7 @@ I = [
                 "part_person": [
                     74
                 ],
-                "place": 273,
+                "place": 396,
                 "text": "",
                 "type": "Death"
             }
@@ -5376,7 +5376,7 @@ I = [
                 "part_person": [
                     75
                 ],
-                "place": 11,
+                "place": 19,
                 "text": "",
                 "type": "Death"
             }
@@ -5623,7 +5623,7 @@ I = [
                 "part_person": [
                     79
                 ],
-                "place": 828,
+                "place": 1254,
                 "text": "",
                 "type": "Birth"
             },
@@ -5638,7 +5638,7 @@ I = [
                 "part_person": [
                     79
                 ],
-                "place": 14,
+                "place": 24,
                 "text": "",
                 "type": "Death"
             }
@@ -5949,7 +5949,7 @@ I = [
                 "part_person": [
                     84
                 ],
-                "place": 460,
+                "place": 679,
                 "text": "",
                 "type": "Death"
             },
@@ -5964,7 +5964,7 @@ I = [
                 "part_person": [
                     84
                 ],
-                "place": 460,
+                "place": 679,
                 "text": "",
                 "type": "Burial"
             }
@@ -6078,7 +6078,7 @@ I = [
                 "part_person": [
                     86
                 ],
-                "place": 591,
+                "place": 900,
                 "text": "",
                 "type": "Birth"
             },
@@ -6093,7 +6093,7 @@ I = [
                 "part_person": [
                     86
                 ],
-                "place": 410,
+                "place": 598,
                 "text": "",
                 "type": "Death"
             },
@@ -6108,7 +6108,7 @@ I = [
                 "part_person": [
                     86
                 ],
-                "place": 345,
+                "place": 494,
                 "text": "",
                 "type": "Burial"
             }
@@ -6177,7 +6177,7 @@ I = [
                 "part_person": [
                     87
                 ],
-                "place": 528,
+                "place": 800,
                 "text": "",
                 "type": "Birth"
             },
@@ -6192,7 +6192,7 @@ I = [
                 "part_person": [
                     87
                 ],
-                "place": 528,
+                "place": 800,
                 "text": "",
                 "type": "Death"
             }
@@ -6253,7 +6253,7 @@ I = [
                 "part_person": [
                     88
                 ],
-                "place": 173,
+                "place": 246,
                 "text": "",
                 "type": "Birth"
             }
@@ -6371,7 +6371,7 @@ I = [
                 "part_person": [
                     90
                 ],
-                "place": 796,
+                "place": 1195,
                 "text": "",
                 "type": "Birth"
             }
@@ -6440,7 +6440,7 @@ I = [
                 "part_person": [
                     91
                 ],
-                "place": 818,
+                "place": 1230,
                 "text": "",
                 "type": "Birth"
             },
@@ -6455,7 +6455,7 @@ I = [
                 "part_person": [
                     91
                 ],
-                "place": 591,
+                "place": 900,
                 "text": "",
                 "type": "Death"
             },
@@ -6470,7 +6470,7 @@ I = [
                 "part_person": [
                     91
                 ],
-                "place": 591,
+                "place": 900,
                 "text": "",
                 "type": "Burial"
             }
@@ -6590,7 +6590,7 @@ I = [
                 "part_person": [
                     93
                 ],
-                "place": 173,
+                "place": 246,
                 "text": "",
                 "type": "Birth"
             },
@@ -6605,7 +6605,7 @@ I = [
                 "part_person": [
                     93
                 ],
-                "place": 53,
+                "place": 70,
                 "text": "",
                 "type": "Death"
             }
@@ -6672,7 +6672,7 @@ I = [
                 "part_person": [
                     94
                 ],
-                "place": 173,
+                "place": 246,
                 "text": "",
                 "type": "Birth"
             }
@@ -6739,7 +6739,7 @@ I = [
                 "part_person": [
                     95
                 ],
-                "place": 173,
+                "place": 246,
                 "text": "",
                 "type": "Birth"
             }
@@ -6806,7 +6806,7 @@ I = [
                 "part_person": [
                     96
                 ],
-                "place": 796,
+                "place": 1195,
                 "text": "",
                 "type": "Birth"
             }
@@ -6993,7 +6993,7 @@ I = [
                 "part_person": [
                     99
                 ],
-                "place": 148,
+                "place": 203,
                 "text": "",
                 "type": "Birth"
             },
@@ -7008,7 +7008,7 @@ I = [
                 "part_person": [
                     99
                 ],
-                "place": 557,
+                "place": 845,
                 "text": "",
                 "type": "Death"
             }
@@ -7077,7 +7077,7 @@ I = [
                 "part_person": [
                     100
                 ],
-                "place": 24,
+                "place": 33,
                 "text": "",
                 "type": "Birth"
             },
@@ -7092,7 +7092,7 @@ I = [
                 "part_person": [
                     100
                 ],
-                "place": 631,
+                "place": 953,
                 "text": "",
                 "type": "Death"
             },
@@ -7107,7 +7107,7 @@ I = [
                 "part_person": [
                     100
                 ],
-                "place": 602,
+                "place": 914,
                 "text": "",
                 "type": "Burial"
             }
@@ -7178,7 +7178,7 @@ I = [
                 "part_person": [
                     101
                 ],
-                "place": 173,
+                "place": 246,
                 "text": "",
                 "type": "Birth"
             },
@@ -7193,7 +7193,7 @@ I = [
                 "part_person": [
                     101
                 ],
-                "place": 354,
+                "place": 509,
                 "text": "",
                 "type": "Burial"
             }
@@ -7311,7 +7311,7 @@ I = [
                 "part_person": [
                     103
                 ],
-                "place": 89,
+                "place": 117,
                 "text": "",
                 "type": "Birth"
             }
@@ -7378,7 +7378,7 @@ I = [
                 "part_person": [
                     104
                 ],
-                "place": 528,
+                "place": 800,
                 "text": "",
                 "type": "Birth"
             }
@@ -7619,7 +7619,7 @@ I = [
                 "part_person": [
                     108
                 ],
-                "place": 375,
+                "place": 551,
                 "text": "",
                 "type": "Birth"
             },
@@ -7740,7 +7740,7 @@ I = [
                 "part_person": [
                     110
                 ],
-                "place": 56,
+                "place": 74,
                 "text": "",
                 "type": "Birth"
             },
@@ -7755,7 +7755,7 @@ I = [
                 "part_person": [
                     110
                 ],
-                "place": 169,
+                "place": 243,
                 "text": "",
                 "type": "Death"
             },
@@ -7770,7 +7770,7 @@ I = [
                 "part_person": [
                     110
                 ],
-                "place": 492,
+                "place": 735,
                 "text": "",
                 "type": "Burial"
             }
@@ -7892,7 +7892,7 @@ I = [
                 "part_person": [
                     112
                 ],
-                "place": 226,
+                "place": 327,
                 "text": "",
                 "type": "Birth"
             }
@@ -7953,7 +7953,7 @@ I = [
                 "part_person": [
                     113
                 ],
-                "place": 504,
+                "place": 756,
                 "text": "",
                 "type": "Birth"
             },
@@ -7968,7 +7968,7 @@ I = [
                 "part_person": [
                     113
                 ],
-                "place": 691,
+                "place": 1034,
                 "text": "",
                 "type": "Death"
             }
@@ -8029,7 +8029,7 @@ I = [
                 "part_person": [
                     114
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -8111,7 +8111,7 @@ I = [
                 "part_person": [
                     115
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -8193,7 +8193,7 @@ I = [
                 "part_person": [
                     116
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -9362,7 +9362,7 @@ I = [
                 "part_person": [
                     131
                 ],
-                "place": 383,
+                "place": 566,
                 "text": "",
                 "type": "Birth"
             }
@@ -9924,7 +9924,7 @@ I = [
                 "part_person": [
                     140
                 ],
-                "place": 475,
+                "place": 708,
                 "text": "",
                 "type": "Birth"
             }
@@ -9991,7 +9991,7 @@ I = [
                 "part_person": [
                     141
                 ],
-                "place": 475,
+                "place": 708,
                 "text": "",
                 "type": "Birth"
             }
@@ -10090,7 +10090,7 @@ I = [
                 "part_person": [
                     142
                 ],
-                "place": 746,
+                "place": 1108,
                 "text": "",
                 "type": "Burial"
             }
@@ -10659,7 +10659,7 @@ I = [
                 "part_person": [
                     150
                 ],
-                "place": 790,
+                "place": 1186,
                 "text": "",
                 "type": "Birth"
             },
@@ -10674,7 +10674,7 @@ I = [
                 "part_person": [
                     150
                 ],
-                "place": 352,
+                "place": 507,
                 "text": "",
                 "type": "Death"
             }
@@ -10741,7 +10741,7 @@ I = [
                 "part_person": [
                     151
                 ],
-                "place": 578,
+                "place": 878,
                 "text": "",
                 "type": "Birth"
             }
@@ -10892,7 +10892,7 @@ I = [
                 "part_person": [
                     153
                 ],
-                "place": 814,
+                "place": 1226,
                 "text": "",
                 "type": "Birth"
             }
@@ -10959,7 +10959,7 @@ I = [
                 "part_person": [
                     154
                 ],
-                "place": 606,
+                "place": 920,
                 "text": "",
                 "type": "Birth"
             }
@@ -11132,7 +11132,7 @@ I = [
                 "part_person": [
                     157
                 ],
-                "place": 606,
+                "place": 920,
                 "text": "",
                 "type": "Birth"
             }
@@ -11199,7 +11199,7 @@ I = [
                 "part_person": [
                     158
                 ],
-                "place": 814,
+                "place": 1226,
                 "text": "",
                 "type": "Birth"
             }
@@ -11266,7 +11266,7 @@ I = [
                 "part_person": [
                     159
                 ],
-                "place": 814,
+                "place": 1226,
                 "text": "",
                 "type": "Birth"
             }
@@ -11333,7 +11333,7 @@ I = [
                 "part_person": [
                     160
                 ],
-                "place": 356,
+                "place": 512,
                 "text": "",
                 "type": "Birth"
             }
@@ -11469,7 +11469,7 @@ I = [
                 "part_person": [
                     162
                 ],
-                "place": 179,
+                "place": 253,
                 "text": "",
                 "type": "Birth"
             },
@@ -11484,7 +11484,7 @@ I = [
                 "part_person": [
                     162
                 ],
-                "place": 29,
+                "place": 38,
                 "text": "",
                 "type": "Death"
             },
@@ -11499,7 +11499,7 @@ I = [
                 "part_person": [
                     162
                 ],
-                "place": 29,
+                "place": 38,
                 "text": "",
                 "type": "Burial"
             }
@@ -11568,7 +11568,7 @@ I = [
                 "part_person": [
                     163
                 ],
-                "place": 369,
+                "place": 542,
                 "text": "",
                 "type": "Birth"
             }
@@ -11637,7 +11637,7 @@ I = [
                 "part_person": [
                     164
                 ],
-                "place": 606,
+                "place": 920,
                 "text": "",
                 "type": "Birth"
             }
@@ -11704,7 +11704,7 @@ I = [
                 "part_person": [
                     165
                 ],
-                "place": 814,
+                "place": 1226,
                 "text": "",
                 "type": "Birth"
             }
@@ -11771,7 +11771,7 @@ I = [
                 "part_person": [
                     166
                 ],
-                "place": 428,
+                "place": 628,
                 "text": "",
                 "type": "Birth"
             },
@@ -11786,7 +11786,7 @@ I = [
                 "part_person": [
                     166
                 ],
-                "place": 199,
+                "place": 282,
                 "text": "",
                 "type": "Death"
             }
@@ -11908,7 +11908,7 @@ I = [
                 "part_person": [
                     168
                 ],
-                "place": 606,
+                "place": 920,
                 "text": "",
                 "type": "Birth"
             }
@@ -12028,7 +12028,7 @@ I = [
                 "part_person": [
                     170
                 ],
-                "place": 601,
+                "place": 913,
                 "text": "",
                 "type": "Death"
             }
@@ -12095,7 +12095,7 @@ I = [
                 "part_person": [
                     171
                 ],
-                "place": 606,
+                "place": 920,
                 "text": "",
                 "type": "Birth"
             }
@@ -12231,7 +12231,7 @@ I = [
                 "part_person": [
                     173
                 ],
-                "place": 179,
+                "place": 253,
                 "text": "",
                 "type": "Birth"
             }
@@ -12351,7 +12351,7 @@ I = [
                 "part_person": [
                     175
                 ],
-                "place": 803,
+                "place": 1207,
                 "text": "",
                 "type": "Birth"
             }
@@ -12420,7 +12420,7 @@ I = [
                 "part_person": [
                     176
                 ],
-                "place": 652,
+                "place": 983,
                 "text": "",
                 "type": "Death"
             },
@@ -12435,7 +12435,7 @@ I = [
                 "part_person": [
                     176
                 ],
-                "place": 251,
+                "place": 366,
                 "text": "",
                 "type": "Burial"
             }
@@ -12539,7 +12539,7 @@ I = [
                 "part_person": [
                     178
                 ],
-                "place": 783,
+                "place": 1171,
                 "text": "",
                 "type": "Death"
             }
@@ -12719,7 +12719,7 @@ I = [
                 "part_person": [
                     181
                 ],
-                "place": 359,
+                "place": 518,
                 "text": "",
                 "type": "Birth"
             },
@@ -12734,7 +12734,7 @@ I = [
                 "part_person": [
                     181
                 ],
-                "place": 814,
+                "place": 1226,
                 "text": "",
                 "type": "Death"
             }
@@ -12803,7 +12803,7 @@ I = [
                 "part_person": [
                     182
                 ],
-                "place": 6,
+                "place": 10,
                 "text": "",
                 "type": "Birth"
             },
@@ -12818,7 +12818,7 @@ I = [
                 "part_person": [
                     182
                 ],
-                "place": 6,
+                "place": 10,
                 "text": "",
                 "type": "Death"
             }
@@ -13061,7 +13061,7 @@ I = [
                 "part_person": [
                     186
                 ],
-                "place": 428,
+                "place": 628,
                 "text": "",
                 "type": "Birth"
             },
@@ -13076,7 +13076,7 @@ I = [
                 "part_person": [
                     186
                 ],
-                "place": 193,
+                "place": 275,
                 "text": "",
                 "type": "Death"
             }
@@ -13137,7 +13137,7 @@ I = [
                 "part_person": [
                     187
                 ],
-                "place": 454,
+                "place": 669,
                 "text": "",
                 "type": "Birth"
             },
@@ -13152,7 +13152,7 @@ I = [
                 "part_person": [
                     187
                 ],
-                "place": 681,
+                "place": 1017,
                 "text": "",
                 "type": "Death"
             },
@@ -13167,7 +13167,7 @@ I = [
                 "part_person": [
                     187
                 ],
-                "place": 326,
+                "place": 467,
                 "text": "",
                 "type": "Burial"
             }
@@ -13236,7 +13236,7 @@ I = [
                 "part_person": [
                     188
                 ],
-                "place": 454,
+                "place": 669,
                 "text": "",
                 "type": "Birth"
             },
@@ -13251,7 +13251,7 @@ I = [
                 "part_person": [
                     188
                 ],
-                "place": 326,
+                "place": 467,
                 "text": "",
                 "type": "Death"
             },
@@ -13266,7 +13266,7 @@ I = [
                 "part_person": [
                     188
                 ],
-                "place": 326,
+                "place": 467,
                 "text": "",
                 "type": "Burial"
             }
@@ -13439,7 +13439,7 @@ I = [
                 "part_person": [
                     191
                 ],
-                "place": 509,
+                "place": 764,
                 "text": "",
                 "type": "Birth"
             }
@@ -13684,7 +13684,7 @@ I = [
                 "part_person": [
                     195
                 ],
-                "place": 567,
+                "place": 861,
                 "text": "",
                 "type": "Birth"
             },
@@ -13699,7 +13699,7 @@ I = [
                 "part_person": [
                     195
                 ],
-                "place": 525,
+                "place": 789,
                 "text": "",
                 "type": "Death"
             }
@@ -13768,7 +13768,7 @@ I = [
                 "part_person": [
                     196
                 ],
-                "place": 775,
+                "place": 1158,
                 "text": "",
                 "type": "Birth"
             }
@@ -13827,7 +13827,7 @@ I = [
                 "part_person": [
                     197
                 ],
-                "place": 509,
+                "place": 764,
                 "text": "",
                 "type": "Birth"
             }
@@ -13896,7 +13896,7 @@ I = [
                 "part_person": [
                     198
                 ],
-                "place": 10,
+                "place": 18,
                 "text": "",
                 "type": "Birth"
             }
@@ -13955,7 +13955,7 @@ I = [
                 "part_person": [
                     199
                 ],
-                "place": 132,
+                "place": 177,
                 "text": "",
                 "type": "Birth"
             },
@@ -13970,7 +13970,7 @@ I = [
                 "part_person": [
                     199
                 ],
-                "place": 618,
+                "place": 936,
                 "text": "",
                 "type": "Death"
             }
@@ -14039,7 +14039,7 @@ I = [
                 "part_person": [
                     200
                 ],
-                "place": 509,
+                "place": 764,
                 "text": "",
                 "type": "Birth"
             }
@@ -14177,7 +14177,7 @@ I = [
                 "part_person": [
                     202
                 ],
-                "place": 119,
+                "place": 162,
                 "text": "",
                 "type": "Birth"
             },
@@ -14192,7 +14192,7 @@ I = [
                 "part_person": [
                     202
                 ],
-                "place": 450,
+                "place": 663,
                 "text": "",
                 "type": "Death"
             },
@@ -14207,7 +14207,7 @@ I = [
                 "part_person": [
                     202
                 ],
-                "place": 112,
+                "place": 151,
                 "text": "",
                 "type": "Burial"
             }
@@ -14276,7 +14276,7 @@ I = [
                 "part_person": [
                     203
                 ],
-                "place": 696,
+                "place": 1042,
                 "text": "",
                 "type": "Birth"
             }
@@ -14343,7 +14343,7 @@ I = [
                 "part_person": [
                     204
                 ],
-                "place": 120,
+                "place": 164,
                 "text": "",
                 "type": "Birth"
             }
@@ -14410,7 +14410,7 @@ I = [
                 "part_person": [
                     205
                 ],
-                "place": 464,
+                "place": 685,
                 "text": "",
                 "type": "Birth"
             },
@@ -14425,7 +14425,7 @@ I = [
                 "part_person": [
                     205
                 ],
-                "place": 590,
+                "place": 899,
                 "text": "",
                 "type": "Death"
             },
@@ -14440,7 +14440,7 @@ I = [
                 "part_person": [
                     205
                 ],
-                "place": 188,
+                "place": 266,
                 "text": "",
                 "type": "Burial"
             }
@@ -14509,7 +14509,7 @@ I = [
                 "part_person": [
                     206
                 ],
-                "place": 696,
+                "place": 1042,
                 "text": "",
                 "type": "Birth"
             },
@@ -14524,7 +14524,7 @@ I = [
                 "part_person": [
                     206
                 ],
-                "place": 545,
+                "place": 824,
                 "text": "",
                 "type": "Death"
             },
@@ -14539,7 +14539,7 @@ I = [
                 "part_person": [
                     206
                 ],
-                "place": 121,
+                "place": 166,
                 "text": "",
                 "type": "Burial"
             }
@@ -14710,7 +14710,7 @@ I = [
                 "part_person": [
                     209
                 ],
-                "place": 696,
+                "place": 1042,
                 "text": "",
                 "type": "Birth"
             }
@@ -14779,7 +14779,7 @@ I = [
                 "part_person": [
                     210
                 ],
-                "place": 744,
+                "place": 1106,
                 "text": "",
                 "type": "Birth"
             }
@@ -14846,7 +14846,7 @@ I = [
                 "part_person": [
                     211
                 ],
-                "place": 10,
+                "place": 18,
                 "text": "",
                 "type": "Birth"
             }
@@ -14905,7 +14905,7 @@ I = [
                 "part_person": [
                     212
                 ],
-                "place": 696,
+                "place": 1042,
                 "text": "",
                 "type": "Birth"
             }
@@ -15078,7 +15078,7 @@ I = [
                 "part_person": [
                     215
                 ],
-                "place": 119,
+                "place": 162,
                 "text": "",
                 "type": "Birth"
             },
@@ -15093,7 +15093,7 @@ I = [
                 "part_person": [
                     215
                 ],
-                "place": 77,
+                "place": 104,
                 "text": "",
                 "type": "Death"
             },
@@ -15108,7 +15108,7 @@ I = [
                 "part_person": [
                     215
                 ],
-                "place": 684,
+                "place": 1022,
                 "text": "",
                 "type": "Burial"
             }
@@ -15177,7 +15177,7 @@ I = [
                 "part_person": [
                     216
                 ],
-                "place": 525,
+                "place": 789,
                 "text": "",
                 "type": "Birth"
             },
@@ -15259,7 +15259,7 @@ I = [
                 "part_person": [
                     217
                 ],
-                "place": 113,
+                "place": 152,
                 "text": "",
                 "type": "Birth"
             },
@@ -15274,7 +15274,7 @@ I = [
                 "part_person": [
                     217
                 ],
-                "place": 178,
+                "place": 252,
                 "text": "",
                 "type": "Death"
             },
@@ -15289,7 +15289,7 @@ I = [
                 "part_person": [
                     217
                 ],
-                "place": 106,
+                "place": 142,
                 "text": "",
                 "type": "Burial"
             }
@@ -15401,7 +15401,7 @@ I = [
                 "part_person": [
                     219
                 ],
-                "place": 31,
+                "place": 40,
                 "text": "",
                 "type": "Birth"
             },
@@ -15485,7 +15485,7 @@ I = [
                 "part_person": [
                     220
                 ],
-                "place": 399,
+                "place": 586,
                 "text": "",
                 "type": "Birth"
             },
@@ -15569,7 +15569,7 @@ I = [
                 "part_person": [
                     221
                 ],
-                "place": 241,
+                "place": 350,
                 "text": "",
                 "type": "Birth"
             }
@@ -15718,7 +15718,7 @@ I = [
                 "part_person": [
                     223
                 ],
-                "place": 31,
+                "place": 40,
                 "text": "",
                 "type": "Birth"
             }
@@ -15785,7 +15785,7 @@ I = [
                 "part_person": [
                     224
                 ],
-                "place": 31,
+                "place": 40,
                 "text": "",
                 "type": "Birth"
             },
@@ -15869,7 +15869,7 @@ I = [
                 "part_person": [
                     225
                 ],
-                "place": 31,
+                "place": 40,
                 "text": "",
                 "type": "Birth"
             },
@@ -15884,7 +15884,7 @@ I = [
                 "part_person": [
                     225
                 ],
-                "place": 350,
+                "place": 504,
                 "text": "",
                 "type": "Death"
             },
@@ -15899,7 +15899,7 @@ I = [
                 "part_person": [
                     225
                 ],
-                "place": 787,
+                "place": 1177,
                 "text": "",
                 "type": "Burial"
             }
@@ -16197,7 +16197,7 @@ I = [
                 "part_person": [
                     230
                 ],
-                "place": 19,
+                "place": 28,
                 "text": "",
                 "type": "Birth"
             },
@@ -16281,7 +16281,7 @@ I = [
                 "part_person": [
                     231
                 ],
-                "place": 230,
+                "place": 335,
                 "text": "",
                 "type": "Birth"
             },
@@ -16296,7 +16296,7 @@ I = [
                 "part_person": [
                     231
                 ],
-                "place": 257,
+                "place": 373,
                 "text": "",
                 "type": "Death"
             },
@@ -16311,7 +16311,7 @@ I = [
                 "part_person": [
                     231
                 ],
-                "place": 724,
+                "place": 1077,
                 "text": "",
                 "type": "Burial"
             }
@@ -16509,7 +16509,7 @@ I = [
                 "part_person": [
                     235
                 ],
-                "place": 399,
+                "place": 586,
                 "text": "",
                 "type": "Birth"
             },
@@ -16591,7 +16591,7 @@ I = [
                 "part_person": [
                     236
                 ],
-                "place": 754,
+                "place": 1120,
                 "text": "",
                 "type": "Birth"
             },
@@ -16606,7 +16606,7 @@ I = [
                 "part_person": [
                     236
                 ],
-                "place": 243,
+                "place": 354,
                 "text": "",
                 "type": "Death"
             }
@@ -16673,7 +16673,7 @@ I = [
                 "part_person": [
                     237
                 ],
-                "place": 754,
+                "place": 1120,
                 "text": "",
                 "type": "Birth"
             }
@@ -16770,7 +16770,7 @@ I = [
                 "part_person": [
                     238
                 ],
-                "place": 703,
+                "place": 1051,
                 "text": "",
                 "type": "Burial"
             }
@@ -16931,7 +16931,7 @@ I = [
                 "part_person": [
                     241
                 ],
-                "place": 461,
+                "place": 680,
                 "text": "",
                 "type": "Birth"
             },
@@ -16946,7 +16946,7 @@ I = [
                 "part_person": [
                     241
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Death"
             },
@@ -16961,7 +16961,7 @@ I = [
                 "part_person": [
                     241
                 ],
-                "place": 447,
+                "place": 657,
                 "text": "",
                 "type": "Burial"
             }
@@ -17108,7 +17108,7 @@ I = [
                 "part_person": [
                     244
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             }
@@ -17230,7 +17230,7 @@ I = [
                 "part_person": [
                     246
                 ],
-                "place": 339,
+                "place": 487,
                 "text": "",
                 "type": "Birth"
             },
@@ -17447,7 +17447,7 @@ I = [
                 "part_person": [
                     249
                 ],
-                "place": 399,
+                "place": 586,
                 "text": "",
                 "type": "Birth"
             },
@@ -17700,7 +17700,7 @@ I = [
                 "part_person": [
                     253
                 ],
-                "place": 31,
+                "place": 40,
                 "text": "",
                 "type": "Birth"
             },
@@ -17784,7 +17784,7 @@ I = [
                 "part_person": [
                     254
                 ],
-                "place": 843,
+                "place": 1273,
                 "text": "",
                 "type": "Birth"
             },
@@ -17799,7 +17799,7 @@ I = [
                 "part_person": [
                     254
                 ],
-                "place": 843,
+                "place": 1273,
                 "text": "",
                 "type": "Death"
             },
@@ -17814,7 +17814,7 @@ I = [
                 "part_person": [
                     254
                 ],
-                "place": 843,
+                "place": 1273,
                 "text": "",
                 "type": "Burial"
             }
@@ -17883,7 +17883,7 @@ I = [
                 "part_person": [
                     255
                 ],
-                "place": 754,
+                "place": 1120,
                 "text": "",
                 "type": "Birth"
             }
@@ -18017,7 +18017,7 @@ I = [
                 "part_person": [
                     257
                 ],
-                "place": 31,
+                "place": 40,
                 "text": "",
                 "type": "Birth"
             },
@@ -18032,7 +18032,7 @@ I = [
                 "part_person": [
                     257
                 ],
-                "place": 64,
+                "place": 85,
                 "text": "",
                 "type": "Death"
             },
@@ -18047,7 +18047,7 @@ I = [
                 "part_person": [
                     257
                 ],
-                "place": 447,
+                "place": 657,
                 "text": "",
                 "type": "Burial"
             }
@@ -18220,7 +18220,7 @@ I = [
                 "part_person": [
                     260
                 ],
-                "place": 31,
+                "place": 40,
                 "text": "",
                 "type": "Birth"
             }
@@ -18279,7 +18279,7 @@ I = [
                 "part_person": [
                     261
                 ],
-                "place": 31,
+                "place": 40,
                 "text": "",
                 "type": "Birth"
             },
@@ -18294,7 +18294,7 @@ I = [
                 "part_person": [
                     261
                 ],
-                "place": 31,
+                "place": 40,
                 "text": "",
                 "type": "Death"
             },
@@ -18309,7 +18309,7 @@ I = [
                 "part_person": [
                     261
                 ],
-                "place": 724,
+                "place": 1077,
                 "text": "",
                 "type": "Burial"
             }
@@ -18378,7 +18378,7 @@ I = [
                 "part_person": [
                     262
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             }
@@ -18445,7 +18445,7 @@ I = [
                 "part_person": [
                     263
                 ],
-                "place": 829,
+                "place": 1255,
                 "text": "",
                 "type": "Birth"
             }
@@ -18581,7 +18581,7 @@ I = [
                 "part_person": [
                     265
                 ],
-                "place": 399,
+                "place": 586,
                 "text": "",
                 "type": "Birth"
             },
@@ -18708,7 +18708,7 @@ I = [
                 "part_person": [
                     267
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -18792,7 +18792,7 @@ I = [
                 "part_person": [
                     268
                 ],
-                "place": 31,
+                "place": 40,
                 "text": "",
                 "type": "Birth"
             },
@@ -18876,7 +18876,7 @@ I = [
                 "part_person": [
                     269
                 ],
-                "place": 31,
+                "place": 40,
                 "text": "",
                 "type": "Birth"
             },
@@ -18891,7 +18891,7 @@ I = [
                 "part_person": [
                     269
                 ],
-                "place": 627,
+                "place": 949,
                 "text": "",
                 "type": "Death"
             },
@@ -18906,7 +18906,7 @@ I = [
                 "part_person": [
                     269
                 ],
-                "place": 135,
+                "place": 183,
                 "text": "",
                 "type": "Burial"
             }
@@ -18975,7 +18975,7 @@ I = [
                 "part_person": [
                     270
                 ],
-                "place": 754,
+                "place": 1120,
                 "text": "",
                 "type": "Birth"
             }
@@ -19044,7 +19044,7 @@ I = [
                 "part_person": [
                     271
                 ],
-                "place": 754,
+                "place": 1120,
                 "text": "",
                 "type": "Birth"
             },
@@ -19059,7 +19059,7 @@ I = [
                 "part_person": [
                     271
                 ],
-                "place": 243,
+                "place": 354,
                 "text": "",
                 "type": "Death"
             }
@@ -19202,7 +19202,7 @@ I = [
                 "part_person": [
                     273
                 ],
-                "place": 609,
+                "place": 923,
                 "text": "",
                 "type": "Birth"
             },
@@ -19286,7 +19286,7 @@ I = [
                 "part_person": [
                     274
                 ],
-                "place": 31,
+                "place": 40,
                 "text": "",
                 "type": "Birth"
             },
@@ -19301,7 +19301,7 @@ I = [
                 "part_person": [
                     274
                 ],
-                "place": 31,
+                "place": 40,
                 "text": "",
                 "type": "Death"
             },
@@ -19316,7 +19316,7 @@ I = [
                 "part_person": [
                     274
                 ],
-                "place": 724,
+                "place": 1077,
                 "text": "",
                 "type": "Burial"
             }
@@ -19469,7 +19469,7 @@ I = [
                 "part_person": [
                     276
                 ],
-                "place": 754,
+                "place": 1120,
                 "text": "",
                 "type": "Birth"
             },
@@ -19484,7 +19484,7 @@ I = [
                 "part_person": [
                     276
                 ],
-                "place": 754,
+                "place": 1120,
                 "text": "",
                 "type": "Death"
             },
@@ -19499,7 +19499,7 @@ I = [
                 "part_person": [
                     276
                 ],
-                "place": 488,
+                "place": 728,
                 "text": "",
                 "type": "Burial"
             }
@@ -19568,7 +19568,7 @@ I = [
                 "part_person": [
                     277
                 ],
-                "place": 791,
+                "place": 1187,
                 "text": "",
                 "type": "Birth"
             },
@@ -19695,7 +19695,7 @@ I = [
                 "part_person": [
                     279
                 ],
-                "place": 31,
+                "place": 40,
                 "text": "",
                 "type": "Birth"
             },
@@ -19710,7 +19710,7 @@ I = [
                 "part_person": [
                     279
                 ],
-                "place": 31,
+                "place": 40,
                 "text": "",
                 "type": "Death"
             },
@@ -19725,7 +19725,7 @@ I = [
                 "part_person": [
                     279
                 ],
-                "place": 724,
+                "place": 1077,
                 "text": "",
                 "type": "Burial"
             }
@@ -19970,7 +19970,7 @@ I = [
                 "part_person": [
                     283
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -20328,7 +20328,7 @@ I = [
                 "part_person": [
                     288
                 ],
-                "place": 31,
+                "place": 40,
                 "text": "",
                 "type": "Birth"
             },
@@ -20343,7 +20343,7 @@ I = [
                 "part_person": [
                     288
                 ],
-                "place": 31,
+                "place": 40,
                 "text": "",
                 "type": "Death"
             },
@@ -20358,7 +20358,7 @@ I = [
                 "part_person": [
                     288
                 ],
-                "place": 724,
+                "place": 1077,
                 "text": "",
                 "type": "Burial"
             }
@@ -20427,7 +20427,7 @@ I = [
                 "part_person": [
                     289
                 ],
-                "place": 31,
+                "place": 40,
                 "text": "",
                 "type": "Birth"
             },
@@ -20442,7 +20442,7 @@ I = [
                 "part_person": [
                     289
                 ],
-                "place": 754,
+                "place": 1120,
                 "text": "",
                 "type": "Death"
             },
@@ -20457,7 +20457,7 @@ I = [
                 "part_person": [
                     289
                 ],
-                "place": 488,
+                "place": 728,
                 "text": "",
                 "type": "Burial"
             }
@@ -20526,7 +20526,7 @@ I = [
                 "part_person": [
                     290
                 ],
-                "place": 754,
+                "place": 1120,
                 "text": "",
                 "type": "Birth"
             },
@@ -20541,7 +20541,7 @@ I = [
                 "part_person": [
                     290
                 ],
-                "place": 754,
+                "place": 1120,
                 "text": "",
                 "type": "Death"
             },
@@ -20556,7 +20556,7 @@ I = [
                 "part_person": [
                     290
                 ],
-                "place": 488,
+                "place": 728,
                 "text": "",
                 "type": "Burial"
             }
@@ -20625,7 +20625,7 @@ I = [
                 "part_person": [
                     291
                 ],
-                "place": 786,
+                "place": 1175,
                 "text": "",
                 "type": "Birth"
             },
@@ -20640,7 +20640,7 @@ I = [
                 "part_person": [
                     291
                 ],
-                "place": 843,
+                "place": 1273,
                 "text": "",
                 "type": "Death"
             },
@@ -20655,7 +20655,7 @@ I = [
                 "part_person": [
                     291
                 ],
-                "place": 843,
+                "place": 1273,
                 "text": "",
                 "type": "Burial"
             }
@@ -20783,7 +20783,7 @@ I = [
                 "part_person": [
                     293
                 ],
-                "place": 181,
+                "place": 255,
                 "text": "",
                 "type": "Birth"
             }
@@ -20895,7 +20895,7 @@ I = [
                 "part_person": [
                     295
                 ],
-                "place": 559,
+                "place": 847,
                 "text": "",
                 "type": "Birth"
             },
@@ -20910,7 +20910,7 @@ I = [
                 "part_person": [
                     295
                 ],
-                "place": 520,
+                "place": 781,
                 "text": "",
                 "type": "Death"
             },
@@ -20925,7 +20925,7 @@ I = [
                 "part_person": [
                     295
                 ],
-                "place": 462,
+                "place": 683,
                 "text": "",
                 "type": "Burial"
             }
@@ -20992,7 +20992,7 @@ I = [
                 "part_person": [
                     296
                 ],
-                "place": 364,
+                "place": 528,
                 "text": "",
                 "type": "Birth"
             }
@@ -22017,7 +22017,7 @@ I = [
                 "part_person": [
                     312
                 ],
-                "place": 370,
+                "place": 543,
                 "text": "",
                 "type": "Death"
             }
@@ -22078,7 +22078,7 @@ I = [
                 "part_person": [
                     313
                 ],
-                "place": 742,
+                "place": 1103,
                 "text": "",
                 "type": "Birth"
             },
@@ -22160,7 +22160,7 @@ I = [
                 "part_person": [
                     314
                 ],
-                "place": 147,
+                "place": 202,
                 "text": "",
                 "type": "Birth"
             },
@@ -22318,7 +22318,7 @@ I = [
                 "part_person": [
                     316
                 ],
-                "place": 227,
+                "place": 328,
                 "text": "",
                 "type": "Birth"
             },
@@ -22333,7 +22333,7 @@ I = [
                 "part_person": [
                     316
                 ],
-                "place": 212,
+                "place": 308,
                 "text": "",
                 "type": "Death"
             },
@@ -22348,7 +22348,7 @@ I = [
                 "part_person": [
                     316
                 ],
-                "place": 668,
+                "place": 1001,
                 "text": "",
                 "type": "Burial"
             }
@@ -22682,7 +22682,7 @@ I = [
                 "part_person": [
                     322
                 ],
-                "place": 71,
+                "place": 95,
                 "text": "",
                 "type": "Birth"
             },
@@ -22697,7 +22697,7 @@ I = [
                 "part_person": [
                     322
                 ],
-                "place": 221,
+                "place": 322,
                 "text": "",
                 "type": "Death"
             }
@@ -22766,7 +22766,7 @@ I = [
                 "part_person": [
                     323
                 ],
-                "place": 762,
+                "place": 1134,
                 "text": "",
                 "type": "Birth"
             },
@@ -22781,7 +22781,7 @@ I = [
                 "part_person": [
                     323
                 ],
-                "place": 487,
+                "place": 726,
                 "text": "",
                 "type": "Death"
             }
@@ -23085,7 +23085,7 @@ I = [
                 "part_person": [
                     328
                 ],
-                "place": 487,
+                "place": 726,
                 "text": "",
                 "type": "Birth"
             },
@@ -23100,7 +23100,7 @@ I = [
                 "part_person": [
                     328
                 ],
-                "place": 221,
+                "place": 322,
                 "text": "",
                 "type": "Death"
             }
@@ -23410,7 +23410,7 @@ I = [
                 "part_person": [
                     334
                 ],
-                "place": 325,
+                "place": 466,
                 "text": "",
                 "type": "Death"
             }
@@ -24431,7 +24431,7 @@ I = [
                 "part_person": [
                     351
                 ],
-                "place": 100,
+                "place": 135,
                 "text": "",
                 "type": "Birth"
             }
@@ -24492,7 +24492,7 @@ I = [
                 "part_person": [
                     352
                 ],
-                "place": 107,
+                "place": 144,
                 "text": "",
                 "type": "Birth"
             },
@@ -24507,7 +24507,7 @@ I = [
                 "part_person": [
                     352
                 ],
-                "place": 66,
+                "place": 87,
                 "text": "",
                 "type": "Death"
             },
@@ -24522,7 +24522,7 @@ I = [
                 "part_person": [
                     352
                 ],
-                "place": 751,
+                "place": 1115,
                 "text": "",
                 "type": "Burial"
             }
@@ -24591,7 +24591,7 @@ I = [
                 "part_person": [
                     353
                 ],
-                "place": 150,
+                "place": 207,
                 "text": "",
                 "type": "Birth"
             },
@@ -24606,7 +24606,7 @@ I = [
                 "part_person": [
                     353
                 ],
-                "place": 482,
+                "place": 722,
                 "text": "",
                 "type": "Death"
             },
@@ -24621,7 +24621,7 @@ I = [
                 "part_person": [
                     353
                 ],
-                "place": 484,
+                "place": 719,
                 "text": "",
                 "type": "Burial"
             }
@@ -24690,7 +24690,7 @@ I = [
                 "part_person": [
                     354
                 ],
-                "place": 8,
+                "place": 16,
                 "text": "",
                 "type": "Birth"
             },
@@ -24705,7 +24705,7 @@ I = [
                 "part_person": [
                     354
                 ],
-                "place": 695,
+                "place": 1038,
                 "text": "",
                 "type": "Death"
             }
@@ -24774,7 +24774,7 @@ I = [
                 "part_person": [
                     355
                 ],
-                "place": 454,
+                "place": 669,
                 "text": "",
                 "type": "Birth"
             },
@@ -24789,7 +24789,7 @@ I = [
                 "part_person": [
                     355
                 ],
-                "place": 501,
+                "place": 752,
                 "text": "",
                 "type": "Death"
             }
@@ -24979,7 +24979,7 @@ I = [
                 "part_person": [
                     358
                 ],
-                "place": 199,
+                "place": 282,
                 "text": "",
                 "type": "Birth"
             }
@@ -25215,7 +25215,7 @@ I = [
                 "part_person": [
                     362
                 ],
-                "place": 348,
+                "place": 502,
                 "text": "",
                 "type": "Birth"
             },
@@ -25230,7 +25230,7 @@ I = [
                 "part_person": [
                     362
                 ],
-                "place": 239,
+                "place": 347,
                 "text": "",
                 "type": "Death"
             },
@@ -25245,7 +25245,7 @@ I = [
                 "part_person": [
                     362
                 ],
-                "place": 348,
+                "place": 502,
                 "text": "",
                 "type": "Burial"
             }
@@ -25314,7 +25314,7 @@ I = [
                 "part_person": [
                     363
                 ],
-                "place": 186,
+                "place": 261,
                 "text": "",
                 "type": "Birth"
             },
@@ -25329,7 +25329,7 @@ I = [
                 "part_person": [
                     363
                 ],
-                "place": 672,
+                "place": 1006,
                 "text": "",
                 "type": "Death"
             },
@@ -25344,7 +25344,7 @@ I = [
                 "part_person": [
                     363
                 ],
-                "place": 348,
+                "place": 502,
                 "text": "",
                 "type": "Burial"
             }
@@ -25414,7 +25414,7 @@ I = [
                 "part_person": [
                     364
                 ],
-                "place": 27,
+                "place": 36,
                 "text": "",
                 "type": "Birth"
             },
@@ -25429,7 +25429,7 @@ I = [
                 "part_person": [
                     364
                 ],
-                "place": 420,
+                "place": 617,
                 "text": "",
                 "type": "Death"
             }
@@ -25567,7 +25567,7 @@ I = [
                 "part_person": [
                     366
                 ],
-                "place": 420,
+                "place": 617,
                 "text": "",
                 "type": "Birth"
             },
@@ -25582,7 +25582,7 @@ I = [
                 "part_person": [
                     366
                 ],
-                "place": 645,
+                "place": 974,
                 "text": "",
                 "type": "Death"
             }
@@ -25651,7 +25651,7 @@ I = [
                 "part_person": [
                     367
                 ],
-                "place": 617,
+                "place": 935,
                 "text": "",
                 "type": "Birth"
             },
@@ -25666,7 +25666,7 @@ I = [
                 "part_person": [
                     367
                 ],
-                "place": 625,
+                "place": 947,
                 "text": "",
                 "type": "Death"
             }
@@ -25819,7 +25819,7 @@ I = [
                 "part_person": [
                     369
                 ],
-                "place": 617,
+                "place": 935,
                 "text": "",
                 "type": "Birth"
             },
@@ -25834,7 +25834,7 @@ I = [
                 "part_person": [
                     369
                 ],
-                "place": 420,
+                "place": 617,
                 "text": "",
                 "type": "Death"
             }
@@ -25903,7 +25903,7 @@ I = [
                 "part_person": [
                     370
                 ],
-                "place": 625,
+                "place": 947,
                 "text": "",
                 "type": "Birth"
             },
@@ -25918,7 +25918,7 @@ I = [
                 "part_person": [
                     370
                 ],
-                "place": 148,
+                "place": 203,
                 "text": "",
                 "type": "Death"
             }
@@ -25987,7 +25987,7 @@ I = [
                 "part_person": [
                     371
                 ],
-                "place": 625,
+                "place": 947,
                 "text": "",
                 "type": "Birth"
             },
@@ -26071,7 +26071,7 @@ I = [
                 "part_person": [
                     372
                 ],
-                "place": 617,
+                "place": 935,
                 "text": "",
                 "type": "Birth"
             },
@@ -26086,7 +26086,7 @@ I = [
                 "part_person": [
                     372
                 ],
-                "place": 625,
+                "place": 947,
                 "text": "",
                 "type": "Death"
             }
@@ -26155,7 +26155,7 @@ I = [
                 "part_person": [
                     373
                 ],
-                "place": 617,
+                "place": 935,
                 "text": "",
                 "type": "Birth"
             },
@@ -26170,7 +26170,7 @@ I = [
                 "part_person": [
                     373
                 ],
-                "place": 625,
+                "place": 947,
                 "text": "",
                 "type": "Death"
             }
@@ -26404,7 +26404,7 @@ I = [
                 "part_person": [
                     377
                 ],
-                "place": 41,
+                "place": 54,
                 "text": "",
                 "type": "Death"
             }
@@ -26508,7 +26508,7 @@ I = [
                 "part_person": [
                     379
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -26582,7 +26582,7 @@ I = [
                 "part_person": [
                     380
                 ],
-                "place": 149,
+                "place": 205,
                 "text": "",
                 "type": "Birth"
             },
@@ -26597,7 +26597,7 @@ I = [
                 "part_person": [
                     380
                 ],
-                "place": 564,
+                "place": 858,
                 "text": "",
                 "type": "Death"
             },
@@ -26612,7 +26612,7 @@ I = [
                 "part_person": [
                     380
                 ],
-                "place": 220,
+                "place": 320,
                 "text": "",
                 "type": "Burial"
             }
@@ -26853,7 +26853,7 @@ I = [
                 "part_person": [
                     385
                 ],
-                "place": 330,
+                "place": 473,
                 "text": "",
                 "type": "Birth"
             }
@@ -26988,7 +26988,7 @@ I = [
                 "part_person": [
                     387
                 ],
-                "place": 30,
+                "place": 39,
                 "text": "",
                 "type": "Death"
             }
@@ -27199,7 +27199,7 @@ I = [
                 "part_person": [
                     391
                 ],
-                "place": 321,
+                "place": 461,
                 "text": "",
                 "type": "Death"
             }
@@ -27260,7 +27260,7 @@ I = [
                 "part_person": [
                     392
                 ],
-                "place": 421,
+                "place": 618,
                 "text": "",
                 "type": "Birth"
             },
@@ -27275,7 +27275,7 @@ I = [
                 "part_person": [
                     392
                 ],
-                "place": 527,
+                "place": 798,
                 "text": "",
                 "type": "Death"
             },
@@ -27290,7 +27290,7 @@ I = [
                 "part_person": [
                     392
                 ],
-                "place": 809,
+                "place": 1218,
                 "text": "",
                 "type": "Burial"
             }
@@ -27359,7 +27359,7 @@ I = [
                 "part_person": [
                     393
                 ],
-                "place": 642,
+                "place": 970,
                 "text": "",
                 "type": "Birth"
             }
@@ -27426,7 +27426,7 @@ I = [
                 "part_person": [
                     394
                 ],
-                "place": 828,
+                "place": 1254,
                 "text": "",
                 "type": "Birth"
             },
@@ -27441,7 +27441,7 @@ I = [
                 "part_person": [
                     394
                 ],
-                "place": 307,
+                "place": 443,
                 "text": "",
                 "type": "Death"
             },
@@ -27456,7 +27456,7 @@ I = [
                 "part_person": [
                     394
                 ],
-                "place": 307,
+                "place": 443,
                 "text": "",
                 "type": "Burial"
             }
@@ -27525,7 +27525,7 @@ I = [
                 "part_person": [
                     395
                 ],
-                "place": 642,
+                "place": 970,
                 "text": "",
                 "type": "Birth"
             }
@@ -27592,7 +27592,7 @@ I = [
                 "part_person": [
                     396
                 ],
-                "place": 642,
+                "place": 970,
                 "text": "",
                 "type": "Birth"
             }
@@ -27659,7 +27659,7 @@ I = [
                 "part_person": [
                     397
                 ],
-                "place": 642,
+                "place": 970,
                 "text": "",
                 "type": "Birth"
             }
@@ -27726,7 +27726,7 @@ I = [
                 "part_person": [
                     398
                 ],
-                "place": 642,
+                "place": 970,
                 "text": "",
                 "type": "Birth"
             }
@@ -27793,7 +27793,7 @@ I = [
                 "part_person": [
                     399
                 ],
-                "place": 211,
+                "place": 306,
                 "text": "",
                 "type": "Birth"
             }
@@ -28251,7 +28251,7 @@ I = [
                 "part_person": [
                     405
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -28751,7 +28751,7 @@ I = [
                 "part_person": [
                     411
                 ],
-                "place": 849,
+                "place": 1283,
                 "text": "",
                 "type": "Birth"
             },
@@ -28833,7 +28833,7 @@ I = [
                 "part_person": [
                     412
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -28915,7 +28915,7 @@ I = [
                 "part_person": [
                     413
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -28997,7 +28997,7 @@ I = [
                 "part_person": [
                     414
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -30212,7 +30212,7 @@ I = [
                 "part_person": [
                     429
                 ],
-                "place": 571,
+                "place": 868,
                 "text": "",
                 "type": "Birth"
             },
@@ -30227,7 +30227,7 @@ I = [
                 "part_person": [
                     429
                 ],
-                "place": 481,
+                "place": 717,
                 "text": "",
                 "type": "Death"
             },
@@ -30242,7 +30242,7 @@ I = [
                 "part_person": [
                     429
                 ],
-                "place": 723,
+                "place": 1078,
                 "text": "",
                 "type": "Burial"
             }
@@ -30303,7 +30303,7 @@ I = [
                 "part_person": [
                     430
                 ],
-                "place": 124,
+                "place": 169,
                 "text": "",
                 "type": "Birth"
             },
@@ -30318,7 +30318,7 @@ I = [
                 "part_person": [
                     430
                 ],
-                "place": 681,
+                "place": 1017,
                 "text": "",
                 "type": "Death"
             },
@@ -30333,7 +30333,7 @@ I = [
                 "part_person": [
                     430
                 ],
-                "place": 326,
+                "place": 467,
                 "text": "",
                 "type": "Burial"
             }
@@ -30402,7 +30402,7 @@ I = [
                 "part_person": [
                     431
                 ],
-                "place": 840,
+                "place": 1269,
                 "text": "",
                 "type": "Birth"
             },
@@ -30417,7 +30417,7 @@ I = [
                 "part_person": [
                     431
                 ],
-                "place": 532,
+                "place": 806,
                 "text": "",
                 "type": "Death"
             },
@@ -30432,7 +30432,7 @@ I = [
                 "part_person": [
                     431
                 ],
-                "place": 96,
+                "place": 129,
                 "text": "",
                 "type": "Burial"
             }
@@ -30591,7 +30591,7 @@ I = [
                 "part_person": [
                     434
                 ],
-                "place": 611,
+                "place": 926,
                 "text": "",
                 "type": "Birth"
             }
@@ -30750,7 +30750,7 @@ I = [
                 "part_person": [
                     437
                 ],
-                "place": 88,
+                "place": 116,
                 "text": "",
                 "type": "Birth"
             }
@@ -31084,7 +31084,7 @@ I = [
                 "part_person": [
                     442
                 ],
-                "place": 394,
+                "place": 579,
                 "text": "",
                 "type": "Death"
             },
@@ -31099,7 +31099,7 @@ I = [
                 "part_person": [
                     442
                 ],
-                "place": 394,
+                "place": 579,
                 "text": "",
                 "type": "Burial"
             }
@@ -31354,7 +31354,7 @@ I = [
                 "part_person": [
                     447
                 ],
-                "place": 666,
+                "place": 999,
                 "text": "",
                 "type": "Death"
             },
@@ -31369,7 +31369,7 @@ I = [
                 "part_person": [
                     447
                 ],
-                "place": 666,
+                "place": 999,
                 "text": "",
                 "type": "Burial"
             }
@@ -31430,7 +31430,7 @@ I = [
                 "part_person": [
                     448
                 ],
-                "place": 814,
+                "place": 1226,
                 "text": "",
                 "type": "Birth"
             }
@@ -31499,7 +31499,7 @@ I = [
                 "part_person": [
                     449
                 ],
-                "place": 467,
+                "place": 693,
                 "text": "",
                 "type": "Birth"
             },
@@ -31514,7 +31514,7 @@ I = [
                 "part_person": [
                     449
                 ],
-                "place": 456,
+                "place": 673,
                 "text": "",
                 "type": "Death"
             }
@@ -31716,7 +31716,7 @@ I = [
                 "part_person": [
                     453
                 ],
-                "place": 754,
+                "place": 1120,
                 "text": "",
                 "type": "Death"
             }
@@ -31975,7 +31975,7 @@ I = [
                 "part_person": [
                     458
                 ],
-                "place": 166,
+                "place": 238,
                 "text": "",
                 "type": "Birth"
             },
@@ -31990,7 +31990,7 @@ I = [
                 "part_person": [
                     458
                 ],
-                "place": 372,
+                "place": 547,
                 "text": "",
                 "type": "Death"
             },
@@ -32005,7 +32005,7 @@ I = [
                 "part_person": [
                     458
                 ],
-                "place": 372,
+                "place": 547,
                 "text": "",
                 "type": "Burial"
             }
@@ -32074,7 +32074,7 @@ I = [
                 "part_person": [
                     459
                 ],
-                "place": 379,
+                "place": 554,
                 "text": "",
                 "type": "Birth"
             },
@@ -32089,7 +32089,7 @@ I = [
                 "part_person": [
                     459
                 ],
-                "place": 772,
+                "place": 1154,
                 "text": "",
                 "type": "Death"
             },
@@ -32104,7 +32104,7 @@ I = [
                 "part_person": [
                     459
                 ],
-                "place": 835,
+                "place": 1261,
                 "text": "",
                 "type": "Burial"
             }
@@ -32224,7 +32224,7 @@ I = [
                 "part_person": [
                     461
                 ],
-                "place": 647,
+                "place": 976,
                 "text": "",
                 "type": "Death"
             }
@@ -32342,7 +32342,7 @@ I = [
                 "part_person": [
                     463
                 ],
-                "place": 848,
+                "place": 1282,
                 "text": "",
                 "type": "Birth"
             },
@@ -32528,7 +32528,7 @@ I = [
                 "part_person": [
                     466
                 ],
-                "place": 290,
+                "place": 421,
                 "text": "",
                 "type": "Birth"
             },
@@ -32543,7 +32543,7 @@ I = [
                 "part_person": [
                     466
                 ],
-                "place": 163,
+                "place": 231,
                 "text": "",
                 "type": "Death"
             }
@@ -32613,7 +32613,7 @@ I = [
                 "part_person": [
                     467
                 ],
-                "place": 397,
+                "place": 582,
                 "text": "",
                 "type": "Birth"
             },
@@ -32628,7 +32628,7 @@ I = [
                 "part_person": [
                     467
                 ],
-                "place": 493,
+                "place": 736,
                 "text": "",
                 "type": "Death"
             }
@@ -32816,7 +32816,7 @@ I = [
                 "part_person": [
                     470
                 ],
-                "place": 333,
+                "place": 477,
                 "text": "",
                 "type": "Birth"
             }
@@ -32928,7 +32928,7 @@ I = [
                 "part_person": [
                     472
                 ],
-                "place": 454,
+                "place": 669,
                 "text": "",
                 "type": "Birth"
             }
@@ -32989,7 +32989,7 @@ I = [
                 "part_person": [
                     473
                 ],
-                "place": 583,
+                "place": 888,
                 "text": "",
                 "type": "Birth"
             }
@@ -33056,7 +33056,7 @@ I = [
                 "part_person": [
                     474
                 ],
-                "place": 542,
+                "place": 815,
                 "text": "",
                 "type": "Birth"
             },
@@ -33071,7 +33071,7 @@ I = [
                 "part_person": [
                     474
                 ],
-                "place": 240,
+                "place": 348,
                 "text": "",
                 "type": "Death"
             },
@@ -33086,7 +33086,7 @@ I = [
                 "part_person": [
                     474
                 ],
-                "place": 604,
+                "place": 917,
                 "text": "",
                 "type": "Burial"
             }
@@ -33155,7 +33155,7 @@ I = [
                 "part_person": [
                     475
                 ],
-                "place": 558,
+                "place": 846,
                 "text": "",
                 "type": "Birth"
             }
@@ -33324,7 +33324,7 @@ I = [
                 "part_person": [
                     478
                 ],
-                "place": 256,
+                "place": 372,
                 "text": "",
                 "type": "Birth"
             },
@@ -33339,7 +33339,7 @@ I = [
                 "part_person": [
                     478
                 ],
-                "place": 213,
+                "place": 310,
                 "text": "",
                 "type": "Death"
             },
@@ -33354,7 +33354,7 @@ I = [
                 "part_person": [
                     478
                 ],
-                "place": 213,
+                "place": 310,
                 "text": "",
                 "type": "Burial"
             }
@@ -33424,7 +33424,7 @@ I = [
                 "part_person": [
                     479
                 ],
-                "place": 482,
+                "place": 722,
                 "text": "",
                 "type": "Birth"
             },
@@ -33559,7 +33559,7 @@ I = [
                 "part_person": [
                     481
                 ],
-                "place": 176,
+                "place": 250,
                 "text": "",
                 "type": "Birth"
             }
@@ -33728,7 +33728,7 @@ I = [
                 "part_person": [
                     484
                 ],
-                "place": 626,
+                "place": 948,
                 "text": "",
                 "type": "Birth"
             }
@@ -33797,7 +33797,7 @@ I = [
                 "part_person": [
                     485
                 ],
-                "place": 176,
+                "place": 250,
                 "text": "",
                 "type": "Birth"
             }
@@ -33915,7 +33915,7 @@ I = [
                 "part_person": [
                     487
                 ],
-                "place": 176,
+                "place": 250,
                 "text": "",
                 "type": "Birth"
             },
@@ -34050,7 +34050,7 @@ I = [
                 "part_person": [
                     489
                 ],
-                "place": 213,
+                "place": 310,
                 "text": "",
                 "type": "Birth"
             },
@@ -34065,7 +34065,7 @@ I = [
                 "part_person": [
                     489
                 ],
-                "place": 621,
+                "place": 939,
                 "text": "",
                 "type": "Death"
             },
@@ -34080,7 +34080,7 @@ I = [
                 "part_person": [
                     489
                 ],
-                "place": 621,
+                "place": 939,
                 "text": "",
                 "type": "Burial"
             }
@@ -34149,7 +34149,7 @@ I = [
                 "part_person": [
                     490
                 ],
-                "place": 626,
+                "place": 948,
                 "text": "",
                 "type": "Birth"
             }
@@ -34218,7 +34218,7 @@ I = [
                 "part_person": [
                     491
                 ],
-                "place": 482,
+                "place": 722,
                 "text": "",
                 "type": "Birth"
             }
@@ -34287,7 +34287,7 @@ I = [
                 "part_person": [
                     492
                 ],
-                "place": 176,
+                "place": 250,
                 "text": "",
                 "type": "Birth"
             }
@@ -34456,7 +34456,7 @@ I = [
                 "part_person": [
                     495
                 ],
-                "place": 217,
+                "place": 316,
                 "text": "",
                 "type": "Death"
             }
@@ -34517,7 +34517,7 @@ I = [
                 "part_person": [
                     496
                 ],
-                "place": 8,
+                "place": 16,
                 "text": "",
                 "type": "Birth"
             },
@@ -34532,7 +34532,7 @@ I = [
                 "part_person": [
                     496
                 ],
-                "place": 765,
+                "place": 1142,
                 "text": "",
                 "type": "Death"
             },
@@ -34547,7 +34547,7 @@ I = [
                 "part_person": [
                     496
                 ],
-                "place": 279,
+                "place": 402,
                 "text": "",
                 "type": "Burial"
             }
@@ -34660,7 +34660,7 @@ I = [
                 "part_person": [
                     498
                 ],
-                "place": 626,
+                "place": 948,
                 "text": "",
                 "type": "Birth"
             },
@@ -34675,7 +34675,7 @@ I = [
                 "part_person": [
                     498
                 ],
-                "place": 213,
+                "place": 310,
                 "text": "",
                 "type": "Death"
             }
@@ -34742,7 +34742,7 @@ I = [
                 "part_person": [
                     499
                 ],
-                "place": 176,
+                "place": 250,
                 "text": "",
                 "type": "Birth"
             }
@@ -34911,7 +34911,7 @@ I = [
                 "part_person": [
                     502
                 ],
-                "place": 482,
+                "place": 722,
                 "text": "",
                 "type": "Birth"
             },
@@ -34926,7 +34926,7 @@ I = [
                 "part_person": [
                     502
                 ],
-                "place": 70,
+                "place": 93,
                 "text": "",
                 "type": "Death"
             }
@@ -34993,7 +34993,7 @@ I = [
                 "part_person": [
                     503
                 ],
-                "place": 88,
+                "place": 116,
                 "text": "",
                 "type": "Birth"
             },
@@ -35008,7 +35008,7 @@ I = [
                 "part_person": [
                     503
                 ],
-                "place": 667,
+                "place": 1000,
                 "text": "",
                 "type": "Death"
             }
@@ -35078,7 +35078,7 @@ I = [
                 "part_person": [
                     504
                 ],
-                "place": 165,
+                "place": 234,
                 "text": "",
                 "type": "Birth"
             },
@@ -35093,7 +35093,7 @@ I = [
                 "part_person": [
                     504
                 ],
-                "place": 702,
+                "place": 1050,
                 "text": "",
                 "type": "Death"
             },
@@ -35108,7 +35108,7 @@ I = [
                 "part_person": [
                     504
                 ],
-                "place": 844,
+                "place": 1278,
                 "text": "",
                 "type": "Burial"
             }
@@ -35229,7 +35229,7 @@ I = [
                 "part_person": [
                     506
                 ],
-                "place": 745,
+                "place": 1107,
                 "text": "",
                 "type": "Birth"
             },
@@ -35244,7 +35244,7 @@ I = [
                 "part_person": [
                     506
                 ],
-                "place": 482,
+                "place": 722,
                 "text": "",
                 "type": "Death"
             },
@@ -35259,7 +35259,7 @@ I = [
                 "part_person": [
                     506
                 ],
-                "place": 484,
+                "place": 719,
                 "text": "",
                 "type": "Burial"
             }
@@ -35328,7 +35328,7 @@ I = [
                 "part_person": [
                     507
                 ],
-                "place": 482,
+                "place": 722,
                 "text": "",
                 "type": "Birth"
             }
@@ -35397,7 +35397,7 @@ I = [
                 "part_person": [
                     508
                 ],
-                "place": 443,
+                "place": 653,
                 "text": "",
                 "type": "Birth"
             },
@@ -35412,7 +35412,7 @@ I = [
                 "part_person": [
                     508
                 ],
-                "place": 781,
+                "place": 1167,
                 "text": "",
                 "type": "Death"
             },
@@ -35427,7 +35427,7 @@ I = [
                 "part_person": [
                     508
                 ],
-                "place": 366,
+                "place": 532,
                 "text": "",
                 "type": "Burial"
             }
@@ -35547,7 +35547,7 @@ I = [
                 "part_person": [
                     510
                 ],
-                "place": 626,
+                "place": 948,
                 "text": "",
                 "type": "Birth"
             }
@@ -35665,7 +35665,7 @@ I = [
                 "part_person": [
                     512
                 ],
-                "place": 482,
+                "place": 722,
                 "text": "",
                 "type": "Birth"
             }
@@ -35734,7 +35734,7 @@ I = [
                 "part_person": [
                     513
                 ],
-                "place": 176,
+                "place": 250,
                 "text": "",
                 "type": "Birth"
             }
@@ -35801,7 +35801,7 @@ I = [
                 "part_person": [
                     514
                 ],
-                "place": 176,
+                "place": 250,
                 "text": "",
                 "type": "Birth"
             },
@@ -35816,7 +35816,7 @@ I = [
                 "part_person": [
                     514
                 ],
-                "place": 176,
+                "place": 250,
                 "text": "",
                 "type": "Death"
             }
@@ -35883,7 +35883,7 @@ I = [
                 "part_person": [
                     515
                 ],
-                "place": 814,
+                "place": 1226,
                 "text": "",
                 "type": "Birth"
             }
@@ -36095,7 +36095,7 @@ I = [
                 "part_person": [
                     519
                 ],
-                "place": 171,
+                "place": 244,
                 "text": "",
                 "type": "Death"
             }
@@ -36290,7 +36290,7 @@ I = [
                 "part_person": [
                     522
                 ],
-                "place": 171,
+                "place": 244,
                 "text": "",
                 "type": "Birth"
             },
@@ -36439,7 +36439,7 @@ I = [
                 "part_person": [
                     524
                 ],
-                "place": 679,
+                "place": 1014,
                 "text": "",
                 "type": "Burial"
             }
@@ -36500,7 +36500,7 @@ I = [
                 "part_person": [
                     525
                 ],
-                "place": 379,
+                "place": 554,
                 "text": "",
                 "type": "Birth"
             },
@@ -36530,7 +36530,7 @@ I = [
                 "part_person": [
                     525
                 ],
-                "place": 455,
+                "place": 672,
                 "text": "",
                 "type": "Burial"
             }
@@ -36817,7 +36817,7 @@ I = [
                 "part_person": [
                     531
                 ],
-                "place": 598,
+                "place": 910,
                 "text": "",
                 "type": "Birth"
             },
@@ -36899,7 +36899,7 @@ I = [
                 "part_person": [
                     532
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -36981,7 +36981,7 @@ I = [
                 "part_person": [
                     533
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -37065,7 +37065,7 @@ I = [
                 "part_person": [
                     534
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -37147,7 +37147,7 @@ I = [
                 "part_person": [
                     535
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -37298,7 +37298,7 @@ I = [
                 "part_person": [
                     537
                 ],
-                "place": 618,
+                "place": 936,
                 "text": "",
                 "type": "Birth"
             },
@@ -37313,7 +37313,7 @@ I = [
                 "part_person": [
                     537
                 ],
-                "place": 287,
+                "place": 412,
                 "text": "",
                 "type": "Death"
             },
@@ -37328,7 +37328,7 @@ I = [
                 "part_person": [
                     537
                 ],
-                "place": 142,
+                "place": 193,
                 "text": "",
                 "type": "Burial"
             }
@@ -37535,7 +37535,7 @@ I = [
                 "part_person": [
                     540
                 ],
-                "place": 594,
+                "place": 904,
                 "text": "",
                 "type": "Birth"
             }
@@ -37724,7 +37724,7 @@ I = [
                 "part_person": [
                     543
                 ],
-                "place": 676,
+                "place": 1010,
                 "text": "",
                 "type": "Birth"
             },
@@ -37739,7 +37739,7 @@ I = [
                 "part_person": [
                     543
                 ],
-                "place": 512,
+                "place": 769,
                 "text": "",
                 "type": "Death"
             },
@@ -37754,7 +37754,7 @@ I = [
                 "part_person": [
                     543
                 ],
-                "place": 188,
+                "place": 266,
                 "text": "",
                 "type": "Burial"
             }
@@ -37907,7 +37907,7 @@ I = [
                 "part_person": [
                     545
                 ],
-                "place": 594,
+                "place": 904,
                 "text": "",
                 "type": "Birth"
             }
@@ -38096,7 +38096,7 @@ I = [
                 "part_person": [
                     548
                 ],
-                "place": 776,
+                "place": 1159,
                 "text": "",
                 "type": "Birth"
             }
@@ -38230,7 +38230,7 @@ I = [
                 "part_person": [
                     550
                 ],
-                "place": 768,
+                "place": 1146,
                 "text": "",
                 "type": "Birth"
             }
@@ -38366,7 +38366,7 @@ I = [
                 "part_person": [
                     552
                 ],
-                "place": 768,
+                "place": 1146,
                 "text": "",
                 "type": "Birth"
             }
@@ -38517,7 +38517,7 @@ I = [
                 "part_person": [
                     554
                 ],
-                "place": 768,
+                "place": 1146,
                 "text": "",
                 "type": "Birth"
             }
@@ -38737,7 +38737,7 @@ I = [
                 "part_person": [
                     557
                 ],
-                "place": 768,
+                "place": 1146,
                 "text": "",
                 "type": "Birth"
             }
@@ -38888,7 +38888,7 @@ I = [
                 "part_person": [
                     559
                 ],
-                "place": 768,
+                "place": 1146,
                 "text": "",
                 "type": "Birth"
             }
@@ -38955,7 +38955,7 @@ I = [
                 "part_person": [
                     560
                 ],
-                "place": 689,
+                "place": 1030,
                 "text": "",
                 "type": "Birth"
             }
@@ -39069,7 +39069,7 @@ I = [
                 "part_person": [
                     562
                 ],
-                "place": 843,
+                "place": 1273,
                 "text": "",
                 "type": "Birth"
             }
@@ -39136,7 +39136,7 @@ I = [
                 "part_person": [
                     563
                 ],
-                "place": 247,
+                "place": 361,
                 "text": "",
                 "type": "Birth"
             },
@@ -39151,7 +39151,7 @@ I = [
                 "part_person": [
                     563
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Death"
             },
@@ -39166,7 +39166,7 @@ I = [
                 "part_person": [
                     563
                 ],
-                "place": 767,
+                "place": 1145,
                 "text": "",
                 "type": "Burial"
             }
@@ -39236,7 +39236,7 @@ I = [
                 "part_person": [
                     564
                 ],
-                "place": 427,
+                "place": 627,
                 "text": "",
                 "type": "Birth"
             },
@@ -39251,7 +39251,7 @@ I = [
                 "part_person": [
                     564
                 ],
-                "place": 584,
+                "place": 890,
                 "text": "",
                 "type": "Death"
             }
@@ -39312,7 +39312,7 @@ I = [
                 "part_person": [
                     565
                 ],
-                "place": 206,
+                "place": 298,
                 "text": "",
                 "type": "Birth"
             },
@@ -39327,7 +39327,7 @@ I = [
                 "part_person": [
                     565
                 ],
-                "place": 463,
+                "place": 684,
                 "text": "",
                 "type": "Death"
             },
@@ -39342,7 +39342,7 @@ I = [
                 "part_person": [
                     565
                 ],
-                "place": 724,
+                "place": 1077,
                 "text": "",
                 "type": "Burial"
             }
@@ -39509,7 +39509,7 @@ I = [
                 "part_person": [
                     568
                 ],
-                "place": 675,
+                "place": 1009,
                 "text": "",
                 "type": "Birth"
             },
@@ -39630,7 +39630,7 @@ I = [
                 "part_person": [
                     570
                 ],
-                "place": 148,
+                "place": 203,
                 "text": "",
                 "type": "Birth"
             },
@@ -39712,7 +39712,7 @@ I = [
                 "part_person": [
                     571
                 ],
-                "place": 357,
+                "place": 514,
                 "text": "",
                 "type": "Birth"
             },
@@ -39727,7 +39727,7 @@ I = [
                 "part_person": [
                     571
                 ],
-                "place": 357,
+                "place": 514,
                 "text": "",
                 "type": "Death"
             }
@@ -39839,7 +39839,7 @@ I = [
                 "part_person": [
                     573
                 ],
-                "place": 129,
+                "place": 174,
                 "text": "",
                 "type": "Birth"
             },
@@ -39966,7 +39966,7 @@ I = [
                 "part_person": [
                     575
                 ],
-                "place": 422,
+                "place": 621,
                 "text": "",
                 "type": "Birth"
             },
@@ -39981,7 +39981,7 @@ I = [
                 "part_person": [
                     575
                 ],
-                "place": 564,
+                "place": 858,
                 "text": "",
                 "type": "Death"
             },
@@ -39996,7 +39996,7 @@ I = [
                 "part_person": [
                     575
                 ],
-                "place": 220,
+                "place": 320,
                 "text": "",
                 "type": "Burial"
             }
@@ -40057,7 +40057,7 @@ I = [
                 "part_person": [
                     576
                 ],
-                "place": 636,
+                "place": 960,
                 "text": "",
                 "type": "Birth"
             },
@@ -40072,7 +40072,7 @@ I = [
                 "part_person": [
                     576
                 ],
-                "place": 758,
+                "place": 1129,
                 "text": "",
                 "type": "Death"
             },
@@ -40087,7 +40087,7 @@ I = [
                 "part_person": [
                     576
                 ],
-                "place": 183,
+                "place": 257,
                 "text": "",
                 "type": "Burial"
             }
@@ -40157,7 +40157,7 @@ I = [
                 "part_person": [
                     577
                 ],
-                "place": 747,
+                "place": 1111,
                 "text": "",
                 "type": "Birth"
             },
@@ -40172,7 +40172,7 @@ I = [
                 "part_person": [
                     577
                 ],
-                "place": 583,
+                "place": 888,
                 "text": "",
                 "type": "Death"
             }
@@ -40309,7 +40309,7 @@ I = [
                 "part_person": [
                     579
                 ],
-                "place": 577,
+                "place": 877,
                 "text": "",
                 "type": "Death"
             },
@@ -40324,7 +40324,7 @@ I = [
                 "part_person": [
                     579
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Burial"
             }
@@ -40481,7 +40481,7 @@ I = [
                 "part_person": [
                     582
                 ],
-                "place": 395,
+                "place": 580,
                 "text": "",
                 "type": "Birth"
             },
@@ -40496,7 +40496,7 @@ I = [
                 "part_person": [
                     582
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Death"
             },
@@ -40511,7 +40511,7 @@ I = [
                 "part_person": [
                     582
                 ],
-                "place": 283,
+                "place": 406,
                 "text": "",
                 "type": "Burial"
             }
@@ -40962,7 +40962,7 @@ I = [
                 "part_person": [
                     590
                 ],
-                "place": 834,
+                "place": 1260,
                 "text": "",
                 "type": "Birth"
             },
@@ -40977,7 +40977,7 @@ I = [
                 "part_person": [
                     590
                 ],
-                "place": 834,
+                "place": 1260,
                 "text": "",
                 "type": "Death"
             }
@@ -41046,7 +41046,7 @@ I = [
                 "part_person": [
                     591
                 ],
-                "place": 348,
+                "place": 502,
                 "text": "",
                 "type": "Birth"
             }
@@ -41107,7 +41107,7 @@ I = [
                 "part_person": [
                     592
                 ],
-                "place": 52,
+                "place": 67,
                 "text": "",
                 "type": "Birth"
             },
@@ -41122,7 +41122,7 @@ I = [
                 "part_person": [
                     592
                 ],
-                "place": 348,
+                "place": 502,
                 "text": "",
                 "type": "Death"
             }
@@ -41191,7 +41191,7 @@ I = [
                 "part_person": [
                     593
                 ],
-                "place": 834,
+                "place": 1260,
                 "text": "",
                 "type": "Birth"
             },
@@ -41206,7 +41206,7 @@ I = [
                 "part_person": [
                     593
                 ],
-                "place": 628,
+                "place": 950,
                 "text": "",
                 "type": "Death"
             }
@@ -41275,7 +41275,7 @@ I = [
                 "part_person": [
                     594
                 ],
-                "place": 784,
+                "place": 1172,
                 "text": "",
                 "type": "Birth"
             }
@@ -41389,7 +41389,7 @@ I = [
                 "part_person": [
                     596
                 ],
-                "place": 54,
+                "place": 71,
                 "text": "",
                 "type": "Birth"
             },
@@ -41404,7 +41404,7 @@ I = [
                 "part_person": [
                     596
                 ],
-                "place": 769,
+                "place": 1147,
                 "text": "",
                 "type": "Death"
             },
@@ -41419,7 +41419,7 @@ I = [
                 "part_person": [
                     596
                 ],
-                "place": 769,
+                "place": 1147,
                 "text": "",
                 "type": "Burial"
             }
@@ -41488,7 +41488,7 @@ I = [
                 "part_person": [
                     597
                 ],
-                "place": 806,
+                "place": 1213,
                 "text": "",
                 "type": "Birth"
             },
@@ -41503,7 +41503,7 @@ I = [
                 "part_person": [
                     597
                 ],
-                "place": 38,
+                "place": 51,
                 "text": "",
                 "type": "Death"
             },
@@ -41518,7 +41518,7 @@ I = [
                 "part_person": [
                     597
                 ],
-                "place": 275,
+                "place": 398,
                 "text": "",
                 "type": "Burial"
             }
@@ -41602,7 +41602,7 @@ I = [
                 "part_person": [
                     598
                 ],
-                "place": 734,
+                "place": 1087,
                 "text": "",
                 "type": "Death"
             }
@@ -41671,7 +41671,7 @@ I = [
                 "part_person": [
                     599
                 ],
-                "place": 436,
+                "place": 642,
                 "text": "",
                 "type": "Birth"
             },
@@ -41686,7 +41686,7 @@ I = [
                 "part_person": [
                     599
                 ],
-                "place": 102,
+                "place": 137,
                 "text": "",
                 "type": "Death"
             },
@@ -41701,7 +41701,7 @@ I = [
                 "part_person": [
                     599
                 ],
-                "place": 275,
+                "place": 398,
                 "text": "",
                 "type": "Burial"
             }
@@ -41770,7 +41770,7 @@ I = [
                 "part_person": [
                     600
                 ],
-                "place": 847,
+                "place": 1281,
                 "text": "",
                 "type": "Birth"
             },
@@ -41785,7 +41785,7 @@ I = [
                 "part_person": [
                     600
                 ],
-                "place": 603,
+                "place": 916,
                 "text": "",
                 "type": "Death"
             },
@@ -41800,7 +41800,7 @@ I = [
                 "part_person": [
                     600
                 ],
-                "place": 769,
+                "place": 1147,
                 "text": "",
                 "type": "Burial"
             }
@@ -41869,7 +41869,7 @@ I = [
                 "part_person": [
                     601
                 ],
-                "place": 714,
+                "place": 1066,
                 "text": "",
                 "type": "Birth"
             },
@@ -41884,7 +41884,7 @@ I = [
                 "part_person": [
                     601
                 ],
-                "place": 643,
+                "place": 971,
                 "text": "",
                 "type": "Death"
             },
@@ -41899,7 +41899,7 @@ I = [
                 "part_person": [
                     601
                 ],
-                "place": 35,
+                "place": 48,
                 "text": "",
                 "type": "Burial"
             }
@@ -41960,7 +41960,7 @@ I = [
                 "part_person": [
                     602
                 ],
-                "place": 452,
+                "place": 666,
                 "text": "",
                 "type": "Death"
             },
@@ -41975,7 +41975,7 @@ I = [
                 "part_person": [
                     602
                 ],
-                "place": 452,
+                "place": 666,
                 "text": "",
                 "type": "Burial"
             }
@@ -42036,7 +42036,7 @@ I = [
                 "part_person": [
                     603
                 ],
-                "place": 199,
+                "place": 282,
                 "text": "",
                 "type": "Birth"
             }
@@ -42278,7 +42278,7 @@ I = [
                 "part_person": [
                     607
                 ],
-                "place": 498,
+                "place": 747,
                 "text": "",
                 "type": "Birth"
             },
@@ -42360,7 +42360,7 @@ I = [
                 "part_person": [
                     608
                 ],
-                "place": 546,
+                "place": 825,
                 "text": "",
                 "type": "Birth"
             },
@@ -42436,7 +42436,7 @@ I = [
                 "part_person": [
                     609
                 ],
-                "place": 763,
+                "place": 1136,
                 "text": "",
                 "type": "Birth"
             },
@@ -42518,7 +42518,7 @@ I = [
                 "part_person": [
                     610
                 ],
-                "place": 540,
+                "place": 814,
                 "text": "",
                 "type": "Death"
             }
@@ -42655,7 +42655,7 @@ I = [
                 "part_person": [
                     612
                 ],
-                "place": 746,
+                "place": 1108,
                 "text": "",
                 "type": "Burial"
             }
@@ -42716,7 +42716,7 @@ I = [
                 "part_person": [
                     613
                 ],
-                "place": 206,
+                "place": 298,
                 "text": "",
                 "type": "Birth"
             },
@@ -42731,7 +42731,7 @@ I = [
                 "part_person": [
                     613
                 ],
-                "place": 31,
+                "place": 40,
                 "text": "",
                 "type": "Death"
             },
@@ -42746,7 +42746,7 @@ I = [
                 "part_person": [
                     613
                 ],
-                "place": 724,
+                "place": 1077,
                 "text": "",
                 "type": "Burial"
             }
@@ -42807,7 +42807,7 @@ I = [
                 "part_person": [
                     614
                 ],
-                "place": 826,
+                "place": 1247,
                 "text": "",
                 "type": "Death"
             },
@@ -42822,7 +42822,7 @@ I = [
                 "part_person": [
                     614
                 ],
-                "place": 488,
+                "place": 728,
                 "text": "",
                 "type": "Burial"
             }
@@ -42891,7 +42891,7 @@ I = [
                 "part_person": [
                     615
                 ],
-                "place": 461,
+                "place": 680,
                 "text": "",
                 "type": "Birth"
             }
@@ -43048,7 +43048,7 @@ I = [
                 "part_person": [
                     618
                 ],
-                "place": 262,
+                "place": 380,
                 "text": "",
                 "type": "Birth"
             },
@@ -43294,7 +43294,7 @@ I = [
                 "part_person": [
                     621
                 ],
-                "place": 747,
+                "place": 1111,
                 "text": "",
                 "type": "Birth"
             },
@@ -43309,7 +43309,7 @@ I = [
                 "part_person": [
                     621
                 ],
-                "place": 569,
+                "place": 866,
                 "text": "",
                 "type": "Death"
             },
@@ -43324,7 +43324,7 @@ I = [
                 "part_person": [
                     621
                 ],
-                "place": 569,
+                "place": 866,
                 "text": "",
                 "type": "Burial"
             }
@@ -43391,7 +43391,7 @@ I = [
                 "part_person": [
                     622
                 ],
-                "place": 843,
+                "place": 1273,
                 "text": "",
                 "type": "Birth"
             },
@@ -43473,7 +43473,7 @@ I = [
                 "part_person": [
                     623
                 ],
-                "place": 138,
+                "place": 186,
                 "text": "",
                 "type": "Birth"
             },
@@ -43488,7 +43488,7 @@ I = [
                 "part_person": [
                     623
                 ],
-                "place": 170,
+                "place": 242,
                 "text": "",
                 "type": "Death"
             },
@@ -43503,7 +43503,7 @@ I = [
                 "part_person": [
                     623
                 ],
-                "place": 751,
+                "place": 1115,
                 "text": "",
                 "type": "Burial"
             }
@@ -43572,7 +43572,7 @@ I = [
                 "part_person": [
                     624
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -43656,7 +43656,7 @@ I = [
                 "part_person": [
                     625
                 ],
-                "place": 740,
+                "place": 1100,
                 "text": "",
                 "type": "Birth"
             },
@@ -43738,7 +43738,7 @@ I = [
                 "part_person": [
                     626
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -43822,7 +43822,7 @@ I = [
                 "part_person": [
                     627
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -43906,7 +43906,7 @@ I = [
                 "part_person": [
                     628
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -44066,7 +44066,7 @@ I = [
                 "part_person": [
                     630
                 ],
-                "place": 329,
+                "place": 471,
                 "text": "",
                 "type": "Birth"
             },
@@ -44081,7 +44081,7 @@ I = [
                 "part_person": [
                     630
                 ],
-                "place": 170,
+                "place": 242,
                 "text": "",
                 "type": "Death"
             },
@@ -44096,7 +44096,7 @@ I = [
                 "part_person": [
                     630
                 ],
-                "place": 746,
+                "place": 1108,
                 "text": "",
                 "type": "Burial"
             }
@@ -44165,7 +44165,7 @@ I = [
                 "part_person": [
                     631
                 ],
-                "place": 209,
+                "place": 302,
                 "text": "",
                 "type": "Birth"
             },
@@ -44241,7 +44241,7 @@ I = [
                 "part_person": [
                     632
                 ],
-                "place": 496,
+                "place": 742,
                 "text": "",
                 "type": "Birth"
             },
@@ -44256,7 +44256,7 @@ I = [
                 "part_person": [
                     632
                 ],
-                "place": 55,
+                "place": 73,
                 "text": "",
                 "type": "Death"
             },
@@ -44271,7 +44271,7 @@ I = [
                 "part_person": [
                     632
                 ],
-                "place": 746,
+                "place": 1108,
                 "text": "",
                 "type": "Burial"
             }
@@ -44332,7 +44332,7 @@ I = [
                 "part_person": [
                     633
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -44416,7 +44416,7 @@ I = [
                 "part_person": [
                     634
                 ],
-                "place": 84,
+                "place": 112,
                 "text": "",
                 "type": "Birth"
             },
@@ -44431,7 +44431,7 @@ I = [
                 "part_person": [
                     634
                 ],
-                "place": 600,
+                "place": 912,
                 "text": "",
                 "type": "Death"
             },
@@ -44446,7 +44446,7 @@ I = [
                 "part_person": [
                     634
                 ],
-                "place": 746,
+                "place": 1108,
                 "text": "",
                 "type": "Burial"
             }
@@ -44505,7 +44505,7 @@ I = [
                 "part_person": [
                     635
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -44587,7 +44587,7 @@ I = [
                 "part_person": [
                     636
                 ],
-                "place": 355,
+                "place": 510,
                 "text": "",
                 "type": "Birth"
             },
@@ -44602,7 +44602,7 @@ I = [
                 "part_person": [
                     636
                 ],
-                "place": 298,
+                "place": 430,
                 "text": "",
                 "type": "Death"
             },
@@ -44617,7 +44617,7 @@ I = [
                 "part_person": [
                     636
                 ],
-                "place": 746,
+                "place": 1108,
                 "text": "",
                 "type": "Burial"
             }
@@ -44686,7 +44686,7 @@ I = [
                 "part_person": [
                     637
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -44783,7 +44783,7 @@ I = [
                 "part_person": [
                     638
                 ],
-                "place": 342,
+                "place": 490,
                 "text": "",
                 "type": "Burial"
             }
@@ -44880,7 +44880,7 @@ I = [
                 "part_person": [
                     639
                 ],
-                "place": 751,
+                "place": 1115,
                 "text": "",
                 "type": "Burial"
             }
@@ -44947,7 +44947,7 @@ I = [
                 "part_person": [
                     640
                 ],
-                "place": 632,
+                "place": 954,
                 "text": "",
                 "type": "Birth"
             },
@@ -44962,7 +44962,7 @@ I = [
                 "part_person": [
                     640
                 ],
-                "place": 782,
+                "place": 1169,
                 "text": "",
                 "type": "Death"
             },
@@ -44977,7 +44977,7 @@ I = [
                 "part_person": [
                     640
                 ],
-                "place": 782,
+                "place": 1169,
                 "text": "",
                 "type": "Burial"
             }
@@ -45061,7 +45061,7 @@ I = [
                 "part_person": [
                     641
                 ],
-                "place": 795,
+                "place": 1194,
                 "text": "",
                 "type": "Birth"
             },
@@ -45230,7 +45230,7 @@ I = [
                 "part_person": [
                     643
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -45396,7 +45396,7 @@ I = [
                 "part_person": [
                     645
                 ],
-                "place": 622,
+                "place": 943,
                 "text": "",
                 "type": "Birth"
             },
@@ -45472,7 +45472,7 @@ I = [
                 "part_person": [
                     646
                 ],
-                "place": 417,
+                "place": 614,
                 "text": "",
                 "type": "Birth"
             }
@@ -45541,7 +45541,7 @@ I = [
                 "part_person": [
                     647
                 ],
-                "place": 583,
+                "place": 888,
                 "text": "",
                 "type": "Birth"
             },
@@ -45556,7 +45556,7 @@ I = [
                 "part_person": [
                     647
                 ],
-                "place": 403,
+                "place": 590,
                 "text": "",
                 "type": "Death"
             },
@@ -45571,7 +45571,7 @@ I = [
                 "part_person": [
                     647
                 ],
-                "place": 164,
+                "place": 232,
                 "text": "",
                 "type": "Burial"
             }
@@ -45640,7 +45640,7 @@ I = [
                 "part_person": [
                     648
                 ],
-                "place": 568,
+                "place": 862,
                 "text": "",
                 "type": "Birth"
             },
@@ -45808,7 +45808,7 @@ I = [
                 "part_person": [
                     650
                 ],
-                "place": 600,
+                "place": 912,
                 "text": "",
                 "type": "Birth"
             },
@@ -45823,7 +45823,7 @@ I = [
                 "part_person": [
                     650
                 ],
-                "place": 170,
+                "place": 242,
                 "text": "",
                 "type": "Death"
             },
@@ -45838,7 +45838,7 @@ I = [
                 "part_person": [
                     650
                 ],
-                "place": 746,
+                "place": 1108,
                 "text": "",
                 "type": "Burial"
             }
@@ -45907,7 +45907,7 @@ I = [
                 "part_person": [
                     651
                 ],
-                "place": 600,
+                "place": 912,
                 "text": "",
                 "type": "Birth"
             },
@@ -45922,7 +45922,7 @@ I = [
                 "part_person": [
                     651
                 ],
-                "place": 133,
+                "place": 181,
                 "text": "",
                 "type": "Death"
             },
@@ -45937,7 +45937,7 @@ I = [
                 "part_person": [
                     651
                 ],
-                "place": 746,
+                "place": 1108,
                 "text": "",
                 "type": "Burial"
             }
@@ -46019,7 +46019,7 @@ I = [
                 "part_person": [
                     652
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -46103,7 +46103,7 @@ I = [
                 "part_person": [
                     653
                 ],
-                "place": 415,
+                "place": 613,
                 "text": "",
                 "type": "Birth"
             },
@@ -46187,7 +46187,7 @@ I = [
                 "part_person": [
                     654
                 ],
-                "place": 747,
+                "place": 1111,
                 "text": "",
                 "type": "Birth"
             },
@@ -46202,7 +46202,7 @@ I = [
                 "part_person": [
                     654
                 ],
-                "place": 708,
+                "place": 1060,
                 "text": "",
                 "type": "Death"
             }
@@ -46263,7 +46263,7 @@ I = [
                 "part_person": [
                     655
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -46347,7 +46347,7 @@ I = [
                 "part_person": [
                     656
                 ],
-                "place": 533,
+                "place": 807,
                 "text": "",
                 "type": "Birth"
             },
@@ -46362,7 +46362,7 @@ I = [
                 "part_person": [
                     656
                 ],
-                "place": 782,
+                "place": 1169,
                 "text": "<div>\n<p>\n<b>Age</b>: 88 years\n</p>\n</div>",
                 "type": "Death"
             },
@@ -46377,7 +46377,7 @@ I = [
                 "part_person": [
                     656
                 ],
-                "place": 409,
+                "place": 597,
                 "text": "",
                 "type": "Burial"
             }
@@ -46517,7 +46517,7 @@ I = [
                 "part_person": [
                     657
                 ],
-                "place": 312,
+                "place": 451,
                 "text": "<div>\n<p>\n<b>Time</b>: 10:00 pm\n</p>\n<p>\n<b>Father's Age</b>: 28\n</p>\n</div>",
                 "type": "Birth"
             },
@@ -46532,8 +46532,8 @@ I = [
                 "part_person": [
                     657
                 ],
-                "place": 782,
-                "text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nHow did he die? <span style=\"color:#ff0909;\"></span><span style=\"font-size:14px;\"><span style=\"color:#ff0909;\">We need to find out!</span></span><span style=\"color:#ff0909;\"></span>\n</p>\n<p>\nPerhaps we find info in <span style=\"background-color:#fbd50a;\">the new york</span> library\n</p>\n</div>\n<p>\n<b>Cause</b>: Laughter\n</p>\n</div>",
+                "place": 1169,
+                "text": "<div>\n<i class=\"NoteType\">\nEvent Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\n<span style=\"text-decoration:underline;\">How</span> did he die? <span style=\"color:#ff0909;\"></span><span style=\"font-size:14px;\"><span style=\"color:#ff0909;\">We need to find out!</span></span><span style=\"color:#ff0909;\"></span>\n</p>\n<p>\nPerhaps we find info in <strong></strong><span style=\"background-color:#fbd50a;\"><strong>the new york</strong></span><strong></strong> library\n</p>\n</div>\n<p>\n<b>Cause</b>: Laughter\n</p>\n</div>",
                 "type": "Death"
             },
             {
@@ -46547,7 +46547,7 @@ I = [
                 "part_person": [
                     657
                 ],
-                "place": 782,
+                "place": 1169,
                 "text": "",
                 "type": "Burial"
             }
@@ -46651,7 +46651,7 @@ I = [
                 "type": "Other Name"
             }
         ],
-        "note": "<div>\n<i class=\"NoteType\">\nPerson Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nWe have committed to synergistically disseminate resource-leveling methods of empowerment to set us apart from the competition. We envision to globally integrate inexpensive paradigms and professionally engineer timely technology while promoting personal employee growth. Our mission is to assertively build world-class methods of empowerment so that we may professionally promote parallel services to set us apart from the competition. It's our responsibility to dramatically maintain value-added services as well as to professionally simplify principle-centered technology for 100% customer satisfaction.\n</p>\n<p>\nThanks to the Mission Statement Generator from http://www.dilbert.com.\n</p>\n</div>\n<i class=\"NoteType\">\nPerson Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nThis is a note <span style=\"font-size:18px;\"></span><span style=\"font-family:'Bitstream Vera Sans Mono';\"><span style=\"font-size:18px;\">showing a lot of differen</span></span><span style=\"font-size:18px;\"></span>t markup that mixes with each other making it a good stress test for markup notes.<br />\nThis is a note showing a lot of different markup that mixes with each other making it a good stress<span style=\"color:#e611bf;\"> test for markup notes.</span>\n</p>\n<p>\n<span style=\"color:#e611bf;\">This is</span><span style=\"background-color:#f29103;\"><span style=\"color:#e611bf;\"> a no</span></span><span style=\"background-color:#f29103;\">te showing</span> a lot of different markup that mixes with each other making it a good stress test for markup notes.\n</p>\n</div>\n<i class=\"NoteType\">\nPerson Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nThis is a <span style=\"font-size:13px;\">preformatted</span> note showing a lot of differe<span style=\"font-size:13px;\"></span><span style=\"font-family:'Bitstream Vera Sans Mono';\"><span style=\"font-size:13px;\">nt markup that mixes with e</span></span><span style=\"font-size:13px;\"></span>ach other making it a good stress test for markup notes.<br />\n&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This is a note<span style=\"color:#f61a1a;\"> </span><span style=\"background-color:#73980c;\"><span style=\"color:#f61a1a;\">showing a lot o</span></span><span style=\"background-color:#73980c;\">f</span> different markup that mixes with each other making it a good stress test for markup notes.\n</p>\n<p>\nThis is<br />\n&nbsp; &nbsp; &nbsp; &nbsp; a note showing<br />\n&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;a lot of different markup<br />\n&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; that mixes with each<br />\nother making it a good stress test for markup notes.\n</p>\n<p>\n<span style=\"font-family:'Bitstream Vera Sans Mono';\">&nbsp; &nbsp;test &nbsp;| &nbsp; &nbsp;val1 &nbsp;| &nbsp; &nbsp; val2</span><br />\n<span style=\"font-family:'Bitstream Vera Sans Mono';\">&nbsp; ------------------------------</span><br />\n<span style=\"font-family:'Bitstream Vera Sans Mono';\">&nbsp; &nbsp; me &nbsp; | &nbsp; blue &nbsp; | &nbsp; &nbsp;red</span>\n</p>\n</div>\n<i class=\"NoteType\">\nGeneral\n</i>\n<div class=\"grampsstylednote\">\n<p>\n<span style=\"font-size:12px;\"></span><span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">This source has all possible references pointing to it. The references are as follows:</span></span>\n</p>\n<p>\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">This note appears as a note to the source and also as a note for the person.</span></span>\n</p>\n<p>\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 01 &nbsp;Person</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 02 &nbsp; &nbsp;Name</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 03 &nbsp; &nbsp;Address</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 04 &nbsp; &nbsp;Attribute</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 05 &nbsp; &nbsp;PersonRef</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 06 &nbsp; &nbsp;MediaRef</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 07 &nbsp; &nbsp; &nbsp;Attribute</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 08 &nbsp; &nbsp;LdsOrd</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 09 &nbsp; &nbsp;EventRef:Attribute </span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 10 &nbsp;Family</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 11 &nbsp; &nbsp;Attribute</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 12 &nbsp; &nbsp;ChildRef</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 13 &nbsp; &nbsp;MediaRef</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 14 &nbsp; &nbsp; &nbsp;Attribute</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 15 &nbsp; &nbsp;LdsOrd</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 16 &nbsp; &nbsp;EventRef:Attribute</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 17 &nbsp;Event</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 18 &nbsp; &nbsp;Attribute</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 19 &nbsp; &nbsp;MediaRef</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 20 &nbsp; &nbsp; &nbsp;Attribute</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 21 &nbsp;MediaObject</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 22 &nbsp; &nbsp;Attribute</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 23 &nbsp;Place</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 24 &nbsp; &nbsp;MediaRef</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 25 &nbsp; &nbsp; &nbsp;Attribute</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 26 &nbsp;Repository:Address</span></span><span style=\"font-size:12px;\"></span>\n</p>\n</div>\n</div>",
+        "note": "<div>\n<i class=\"NoteType\">\nPerson Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nWe have committed to synergistically disseminate resource-leveling methods of empowerment to set us apart from the competition. We envision to globally integrate inexpensive paradigms and professionally engineer timely technology while promoting personal employee growth. Our mission is to assertively build world-class methods of empowerment so that we may professionally promote parallel services to set us apart from the competition. It's our responsibility to dramatically maintain value-added services as well as to professionally simplify principle-centered technology for 100% customer satisfaction.\n</p>\n<p>\nThanks to the Mission Statement Generator from http://www.dilbert.com.\n</p>\n</div>\n<i class=\"NoteType\">\nPerson Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nThis is<strong> a note </strong><span style=\"font-size:18px;\"><strong></strong></span><span style=\"font-family:'Bitstream Vera Sans Mono';\"><span style=\"font-size:18px;\"><strong>showing a lot of differen</strong></span></span><span style=\"font-size:18px;\"><strong></strong></span><strong>t markup that mixes with each other making it a good str</strong><span style=\"text-decoration:underline;\"><strong>ess test for </strong></span><span style=\"text-decoration:underline;\">mar</span>kup notes.<br />\nThis is a note showing a lot of different markup that mixes with each other making it a good stress<span style=\"color:#e611bf;\"> test for markup notes.</span>\n</p>\n<p>\n<span style=\"color:#e611bf;\">This is</span><span style=\"background-color:#f29103;\"><span style=\"color:#e611bf;\"> a no</span></span><span style=\"background-color:#f29103;\">te showing</span> a lot of different<em> markup that </em><strong><em>mixes</em></strong><strong> with</strong> each <span style=\"text-decoration:underline;\">other </span>making it a good stress test for markup notes.\n</p>\n</div>\n<i class=\"NoteType\">\nPerson Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nThis is <strong>a </strong><span style=\"font-size:13px;\"><strong>preformatted</strong></span><strong> note showing a lot</strong> of differe<span style=\"font-size:13px;\"></span><span style=\"font-family:'Bitstream Vera Sans Mono';\"><span style=\"font-size:13px;\">nt markup that mixes with e</span></span><span style=\"font-size:13px;\"></span>ach other making it a good stress test for markup notes.<br />\n&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; This is a note<span style=\"color:#f61a1a;\"> </span><span style=\"background-color:#73980c;\"><span style=\"color:#f61a1a;\">showing a lot o</span></span><span style=\"background-color:#73980c;\">f</span> different markup that mixes with each other making it a good stress test for markup notes.\n</p>\n<p>\nThis is<br />\n&nbsp; &nbsp; &nbsp; &nbsp; a note showing<br />\n&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;a lot of different markup<br />\n&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; that mixes with each<br />\nother making it a good stress test for markup notes.\n</p>\n<p>\n<span style=\"font-family:'Bitstream Vera Sans Mono';\">&nbsp; &nbsp;test &nbsp;| &nbsp; &nbsp;val1 &nbsp;| &nbsp; &nbsp; val2</span><br />\n<span style=\"font-family:'Bitstream Vera Sans Mono';\">&nbsp; ------------------------------</span><br />\n<span style=\"font-family:'Bitstream Vera Sans Mono';\">&nbsp; &nbsp; me &nbsp; | &nbsp; blue &nbsp; | &nbsp; &nbsp;red</span>\n</p>\n</div>\n<i class=\"NoteType\">\nGeneral\n</i>\n<div class=\"grampsstylednote\">\n<p>\n<span style=\"font-size:12px;\"></span><span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">This source has all possible references pointing to it. The references are as follows:</span></span>\n</p>\n<p>\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">This note appears as a note to the source and also as a note for the person.</span></span>\n</p>\n<p>\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 01 &nbsp;Person</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 02 &nbsp; &nbsp;Name</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 03 &nbsp; &nbsp;Address</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 04 &nbsp; &nbsp;Attribute</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 05 &nbsp; &nbsp;PersonRef</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 06 &nbsp; &nbsp;MediaRef</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 07 &nbsp; &nbsp; &nbsp;Attribute</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 08 &nbsp; &nbsp;LdsOrd</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 09 &nbsp; &nbsp;EventRef:Attribute </span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 10 &nbsp;Family</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 11 &nbsp; &nbsp;Attribute</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 12 &nbsp; &nbsp;ChildRef</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 13 &nbsp; &nbsp;MediaRef</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 14 &nbsp; &nbsp; &nbsp;Attribute</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 15 &nbsp; &nbsp;LdsOrd</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 16 &nbsp; &nbsp;EventRef:Attribute</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 17 &nbsp;Event</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 18 &nbsp; &nbsp;Attribute</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 19 &nbsp; &nbsp;MediaRef</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 20 &nbsp; &nbsp; &nbsp;Attribute</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 21 &nbsp;MediaObject</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 22 &nbsp; &nbsp;Attribute</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 23 &nbsp;Place</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 24 &nbsp; &nbsp;MediaRef</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 25 &nbsp; &nbsp; &nbsp;Attribute</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 26 &nbsp;Repository:Address</span></span><span style=\"font-size:12px;\"></span>\n</p>\n</div>\n</div>",
         "short_name": "Garner von Zieli\u0144ski, Lewis Anderson Sr",
         "urls": [
             {
@@ -46687,7 +46687,7 @@ I = [
                 "part_person": [
                     658
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -46772,7 +46772,7 @@ I = [
                 "part_person": [
                     659
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -46787,7 +46787,7 @@ I = [
                 "part_person": [
                     659
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Death"
             }
@@ -46958,7 +46958,7 @@ I = [
                 "part_person": [
                     662
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -47072,7 +47072,7 @@ I = [
                 "part_person": [
                     663
                 ],
-                "place": 751,
+                "place": 1115,
                 "text": "",
                 "type": "Burial"
             }
@@ -47169,7 +47169,7 @@ I = [
                 "part_person": [
                     664
                 ],
-                "place": 751,
+                "place": 1115,
                 "text": "",
                 "type": "Burial"
             }
@@ -47537,7 +47537,7 @@ I = [
                 "part_person": [
                     669
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -47621,7 +47621,7 @@ I = [
                 "part_person": [
                     670
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -47705,7 +47705,7 @@ I = [
                 "part_person": [
                     671
                 ],
-                "place": 583,
+                "place": 888,
                 "text": "",
                 "type": "Birth"
             },
@@ -47787,7 +47787,7 @@ I = [
                 "part_person": [
                     672
                 ],
-                "place": 600,
+                "place": 912,
                 "text": "",
                 "type": "Birth"
             },
@@ -47802,7 +47802,7 @@ I = [
                 "part_person": [
                     672
                 ],
-                "place": 42,
+                "place": 55,
                 "text": "",
                 "type": "Death"
             }
@@ -47869,7 +47869,7 @@ I = [
                 "part_person": [
                     673
                 ],
-                "place": 170,
+                "place": 242,
                 "text": "",
                 "type": "Birth"
             },
@@ -47953,7 +47953,7 @@ I = [
                 "part_person": [
                     674
                 ],
-                "place": 170,
+                "place": 242,
                 "text": "",
                 "type": "Birth"
             },
@@ -48029,7 +48029,7 @@ I = [
                 "part_person": [
                     675
                 ],
-                "place": 209,
+                "place": 302,
                 "text": "",
                 "type": "Birth"
             },
@@ -48044,7 +48044,7 @@ I = [
                 "part_person": [
                     675
                 ],
-                "place": 17,
+                "place": 25,
                 "text": "",
                 "type": "Death"
             },
@@ -48059,7 +48059,7 @@ I = [
                 "part_person": [
                     675
                 ],
-                "place": 480,
+                "place": 716,
                 "text": "",
                 "type": "Burial"
             }
@@ -48210,7 +48210,7 @@ I = [
                 "part_person": [
                     677
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -48294,7 +48294,7 @@ I = [
                 "part_person": [
                     678
                 ],
-                "place": 843,
+                "place": 1273,
                 "text": "",
                 "type": "Birth"
             },
@@ -48378,7 +48378,7 @@ I = [
                 "part_person": [
                     679
                 ],
-                "place": 600,
+                "place": 912,
                 "text": "",
                 "type": "Birth"
             },
@@ -48408,7 +48408,7 @@ I = [
                 "part_person": [
                     679
                 ],
-                "place": 485,
+                "place": 724,
                 "text": "",
                 "type": "Death"
             },
@@ -48423,7 +48423,7 @@ I = [
                 "part_person": [
                     679
                 ],
-                "place": 209,
+                "place": 302,
                 "text": "",
                 "type": "Burial"
             }
@@ -48520,7 +48520,7 @@ I = [
                 "part_person": [
                     680
                 ],
-                "place": 632,
+                "place": 954,
                 "text": "",
                 "type": "Death"
             },
@@ -48535,7 +48535,7 @@ I = [
                 "part_person": [
                     680
                 ],
-                "place": 409,
+                "place": 597,
                 "text": "",
                 "type": "Burial"
             }
@@ -48604,7 +48604,7 @@ I = [
                 "part_person": [
                     681
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -48686,7 +48686,7 @@ I = [
                 "part_person": [
                     682
                 ],
-                "place": 843,
+                "place": 1273,
                 "text": "",
                 "type": "Birth"
             },
@@ -48954,7 +48954,7 @@ I = [
                 "part_person": [
                     686
                 ],
-                "place": 600,
+                "place": 912,
                 "text": "",
                 "type": "Birth"
             },
@@ -48969,7 +48969,7 @@ I = [
                 "part_person": [
                     686
                 ],
-                "place": 61,
+                "place": 81,
                 "text": "",
                 "type": "Death"
             },
@@ -48984,7 +48984,7 @@ I = [
                 "part_person": [
                     686
                 ],
-                "place": 746,
+                "place": 1108,
                 "text": "",
                 "type": "Burial"
             }
@@ -49053,7 +49053,7 @@ I = [
                 "part_person": [
                     687
                 ],
-                "place": 304,
+                "place": 439,
                 "text": "",
                 "type": "Birth"
             },
@@ -49068,7 +49068,7 @@ I = [
                 "part_person": [
                     687
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Death"
             }
@@ -49137,7 +49137,7 @@ I = [
                 "part_person": [
                     688
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -49222,7 +49222,7 @@ I = [
                 "part_person": [
                     689
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -49386,7 +49386,7 @@ I = [
                 "part_person": [
                     691
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -49470,7 +49470,7 @@ I = [
                 "part_person": [
                     692
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -49485,7 +49485,7 @@ I = [
                 "part_person": [
                     692
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Death"
             }
@@ -49697,7 +49697,7 @@ I = [
                 "part_person": [
                     695
                 ],
-                "place": 825,
+                "place": 1244,
                 "text": "",
                 "type": "Birth"
             },
@@ -49779,7 +49779,7 @@ I = [
                 "part_person": [
                     696
                 ],
-                "place": 626,
+                "place": 948,
                 "text": "",
                 "type": "Birth"
             }
@@ -50129,7 +50129,7 @@ I = [
                 "part_person": [
                     702
                 ],
-                "place": 404,
+                "place": 591,
                 "text": "",
                 "type": "Death"
             }
@@ -50190,7 +50190,7 @@ I = [
                 "part_person": [
                     703
                 ],
-                "place": 722,
+                "place": 1074,
                 "text": "",
                 "type": "Death"
             }
@@ -50386,7 +50386,7 @@ I = [
                 "part_person": [
                     707
                 ],
-                "place": 208,
+                "place": 301,
                 "text": "",
                 "type": "Birth"
             }
@@ -50553,7 +50553,7 @@ I = [
                 "part_person": [
                     710
                 ],
-                "place": 842,
+                "place": 1272,
                 "text": "",
                 "type": "Death"
             }
@@ -50855,7 +50855,7 @@ I = [
                 "part_person": [
                     716
                 ],
-                "place": 206,
+                "place": 298,
                 "text": "",
                 "type": "Birth"
             },
@@ -50870,7 +50870,7 @@ I = [
                 "part_person": [
                     716
                 ],
-                "place": 31,
+                "place": 40,
                 "text": "",
                 "type": "Death"
             },
@@ -50885,7 +50885,7 @@ I = [
                 "part_person": [
                     716
                 ],
-                "place": 724,
+                "place": 1077,
                 "text": "",
                 "type": "Burial"
             }
@@ -50991,7 +50991,7 @@ I = [
                 "part_person": [
                     718
                 ],
-                "place": 813,
+                "place": 1224,
                 "text": "",
                 "type": "Birth"
             },
@@ -51118,7 +51118,7 @@ I = [
                 "part_person": [
                     720
                 ],
-                "place": 351,
+                "place": 505,
                 "text": "",
                 "type": "Birth"
             },
@@ -51278,7 +51278,7 @@ I = [
                 "part_person": [
                     722
                 ],
-                "place": 750,
+                "place": 1114,
                 "text": "",
                 "type": "Birth"
             },
@@ -51597,7 +51597,7 @@ I = [
                 "part_person": [
                     727
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -51671,7 +51671,7 @@ I = [
                 "part_person": [
                     728
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -51939,7 +51939,7 @@ I = [
                 "part_person": [
                     733
                 ],
-                "place": 324,
+                "place": 465,
                 "text": "",
                 "type": "Birth"
             },
@@ -51954,7 +51954,7 @@ I = [
                 "part_person": [
                     733
                 ],
-                "place": 513,
+                "place": 771,
                 "text": "",
                 "type": "Burial"
             }
@@ -52105,7 +52105,7 @@ I = [
                 "part_person": [
                     736
                 ],
-                "place": 711,
+                "place": 1063,
                 "text": "",
                 "type": "Birth"
             },
@@ -52120,7 +52120,7 @@ I = [
                 "part_person": [
                     736
                 ],
-                "place": 711,
+                "place": 1063,
                 "text": "",
                 "type": "Death"
             },
@@ -52135,7 +52135,7 @@ I = [
                 "part_person": [
                     736
                 ],
-                "place": 461,
+                "place": 680,
                 "text": "",
                 "type": "Burial"
             }
@@ -52241,7 +52241,7 @@ I = [
                 "part_person": [
                     738
                 ],
-                "place": 596,
+                "place": 906,
                 "text": "",
                 "type": "Birth"
             },
@@ -52323,7 +52323,7 @@ I = [
                 "part_person": [
                     739
                 ],
-                "place": 596,
+                "place": 906,
                 "text": "",
                 "type": "Birth"
             },
@@ -52405,7 +52405,7 @@ I = [
                 "part_person": [
                     740
                 ],
-                "place": 742,
+                "place": 1103,
                 "text": "",
                 "type": "Birth"
             },
@@ -52487,7 +52487,7 @@ I = [
                 "part_person": [
                     741
                 ],
-                "place": 596,
+                "place": 906,
                 "text": "",
                 "type": "Birth"
             },
@@ -52778,7 +52778,7 @@ I = [
                 "part_person": [
                     746
                 ],
-                "place": 454,
+                "place": 669,
                 "text": "",
                 "type": "Birth"
             },
@@ -52793,7 +52793,7 @@ I = [
                 "part_person": [
                     746
                 ],
-                "place": 280,
+                "place": 403,
                 "text": "",
                 "type": "Death"
             },
@@ -52808,7 +52808,7 @@ I = [
                 "part_person": [
                     746
                 ],
-                "place": 261,
+                "place": 379,
                 "text": "",
                 "type": "Burial"
             }
@@ -52945,7 +52945,7 @@ I = [
                 "part_person": [
                     748
                 ],
-                "place": 69,
+                "place": 92,
                 "text": "",
                 "type": "Birth"
             },
@@ -53029,7 +53029,7 @@ I = [
                 "part_person": [
                     749
                 ],
-                "place": 400,
+                "place": 587,
                 "text": "",
                 "type": "Birth"
             },
@@ -53044,7 +53044,7 @@ I = [
                 "part_person": [
                     749
                 ],
-                "place": 517,
+                "place": 775,
                 "text": "",
                 "type": "Death"
             }
@@ -53113,7 +53113,7 @@ I = [
                 "part_person": [
                     750
                 ],
-                "place": 625,
+                "place": 947,
                 "text": "",
                 "type": "Birth"
             },
@@ -53128,7 +53128,7 @@ I = [
                 "part_person": [
                     750
                 ],
-                "place": 38,
+                "place": 51,
                 "text": "",
                 "type": "Death"
             },
@@ -53143,7 +53143,7 @@ I = [
                 "part_person": [
                     750
                 ],
-                "place": 275,
+                "place": 398,
                 "text": "",
                 "type": "Burial"
             }
@@ -53212,7 +53212,7 @@ I = [
                 "part_person": [
                     751
                 ],
-                "place": 517,
+                "place": 775,
                 "text": "",
                 "type": "Birth"
             },
@@ -53311,7 +53311,7 @@ I = [
                 "part_person": [
                     752
                 ],
-                "place": 394,
+                "place": 579,
                 "text": "",
                 "type": "Death"
             },
@@ -53326,7 +53326,7 @@ I = [
                 "part_person": [
                     752
                 ],
-                "place": 394,
+                "place": 579,
                 "text": "",
                 "type": "Burial"
             }
@@ -53591,7 +53591,7 @@ I = [
                 "part_person": [
                     757
                 ],
-                "place": 348,
+                "place": 502,
                 "text": "",
                 "type": "Birth"
             },
@@ -53606,7 +53606,7 @@ I = [
                 "part_person": [
                     757
                 ],
-                "place": 669,
+                "place": 1002,
                 "text": "",
                 "type": "Death"
             },
@@ -53621,7 +53621,7 @@ I = [
                 "part_person": [
                     757
                 ],
-                "place": 224,
+                "place": 325,
                 "text": "",
                 "type": "Burial"
             }
@@ -53682,7 +53682,7 @@ I = [
                 "part_person": [
                     758
                 ],
-                "place": 423,
+                "place": 622,
                 "text": "",
                 "type": "Birth"
             },
@@ -53697,7 +53697,7 @@ I = [
                 "part_person": [
                     758
                 ],
-                "place": 625,
+                "place": 947,
                 "text": "",
                 "type": "Death"
             }
@@ -54177,7 +54177,7 @@ I = [
                 "part_person": [
                     766
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Death"
             },
@@ -54192,7 +54192,7 @@ I = [
                 "part_person": [
                     766
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Burial"
             }
@@ -54572,7 +54572,7 @@ I = [
                 "part_person": [
                     772
                 ],
-                "place": 493,
+                "place": 736,
                 "text": "",
                 "type": "Birth"
             },
@@ -54587,7 +54587,7 @@ I = [
                 "part_person": [
                     772
                 ],
-                "place": 493,
+                "place": 736,
                 "text": "",
                 "type": "Death"
             }
@@ -54648,7 +54648,7 @@ I = [
                 "part_person": [
                     773
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -54730,7 +54730,7 @@ I = [
                 "part_person": [
                     774
                 ],
-                "place": 382,
+                "place": 558,
                 "text": "",
                 "type": "Birth"
             },
@@ -54812,7 +54812,7 @@ I = [
                 "part_person": [
                     775
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -54894,7 +54894,7 @@ I = [
                 "part_person": [
                     776
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -54978,7 +54978,7 @@ I = [
                 "part_person": [
                     777
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -55060,7 +55060,7 @@ I = [
                 "part_person": [
                     778
                 ],
-                "place": 221,
+                "place": 322,
                 "text": "",
                 "type": "Death"
             },
@@ -55075,7 +55075,7 @@ I = [
                 "part_person": [
                     778
                 ],
-                "place": 221,
+                "place": 322,
                 "text": "",
                 "type": "Burial"
             }
@@ -55257,7 +55257,7 @@ I = [
                 "part_person": [
                     781
                 ],
-                "place": 579,
+                "place": 879,
                 "text": "",
                 "type": "Birth"
             }
@@ -55324,7 +55324,7 @@ I = [
                 "part_person": [
                     782
                 ],
-                "place": 770,
+                "place": 1149,
                 "text": "",
                 "type": "Birth"
             }
@@ -55393,7 +55393,7 @@ I = [
                 "part_person": [
                     783
                 ],
-                "place": 579,
+                "place": 879,
                 "text": "",
                 "type": "Birth"
             }
@@ -55460,7 +55460,7 @@ I = [
                 "part_person": [
                     784
                 ],
-                "place": 770,
+                "place": 1149,
                 "text": "",
                 "type": "Birth"
             }
@@ -55529,7 +55529,7 @@ I = [
                 "part_person": [
                     785
                 ],
-                "place": 770,
+                "place": 1149,
                 "text": "",
                 "type": "Birth"
             },
@@ -55613,7 +55613,7 @@ I = [
                 "part_person": [
                     786
                 ],
-                "place": 770,
+                "place": 1149,
                 "text": "",
                 "type": "Birth"
             }
@@ -55682,7 +55682,7 @@ I = [
                 "part_person": [
                     787
                 ],
-                "place": 829,
+                "place": 1255,
                 "text": "",
                 "type": "Birth"
             },
@@ -56379,7 +56379,7 @@ I = [
                 "part_person": [
                     799
                 ],
-                "place": 664,
+                "place": 997,
                 "text": "",
                 "type": "Birth"
             },
@@ -57494,7 +57494,7 @@ I = [
                 "part_person": [
                     816
                 ],
-                "place": 364,
+                "place": 528,
                 "text": "",
                 "type": "Birth"
             },
@@ -57647,7 +57647,7 @@ I = [
                 "part_person": [
                     818
                 ],
-                "place": 337,
+                "place": 484,
                 "text": "",
                 "type": "Birth"
             },
@@ -57662,7 +57662,7 @@ I = [
                 "part_person": [
                     818
                 ],
-                "place": 843,
+                "place": 1273,
                 "text": "",
                 "type": "Death"
             },
@@ -57677,7 +57677,7 @@ I = [
                 "part_person": [
                     818
                 ],
-                "place": 843,
+                "place": 1273,
                 "text": "",
                 "type": "Burial"
             }
@@ -57823,7 +57823,7 @@ I = [
                 "part_person": [
                     820
                 ],
-                "place": 98,
+                "place": 132,
                 "text": "",
                 "type": "Birth"
             },
@@ -57905,7 +57905,7 @@ I = [
                 "part_person": [
                     821
                 ],
-                "place": 98,
+                "place": 132,
                 "text": "",
                 "type": "Birth"
             },
@@ -57987,7 +57987,7 @@ I = [
                 "part_person": [
                     822
                 ],
-                "place": 682,
+                "place": 1019,
                 "text": "",
                 "type": "Birth"
             },
@@ -58063,7 +58063,7 @@ I = [
                 "part_person": [
                     823
                 ],
-                "place": 98,
+                "place": 132,
                 "text": "",
                 "type": "Birth"
             },
@@ -58145,7 +58145,7 @@ I = [
                 "part_person": [
                     824
                 ],
-                "place": 98,
+                "place": 132,
                 "text": "",
                 "type": "Birth"
             },
@@ -58227,7 +58227,7 @@ I = [
                 "part_person": [
                     825
                 ],
-                "place": 125,
+                "place": 170,
                 "text": "",
                 "type": "Birth"
             }
@@ -58288,7 +58288,7 @@ I = [
                 "part_person": [
                     826
                 ],
-                "place": 36,
+                "place": 49,
                 "text": "",
                 "type": "Birth"
             },
@@ -58364,7 +58364,7 @@ I = [
                 "part_person": [
                     827
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -58455,7 +58455,7 @@ I = [
                 "part_person": [
                     828
                 ],
-                "place": 733,
+                "place": 1086,
                 "text": "",
                 "type": "Death"
             },
@@ -58470,7 +58470,7 @@ I = [
                 "part_person": [
                     828
                 ],
-                "place": 264,
+                "place": 383,
                 "text": "",
                 "type": "Burial"
             }
@@ -59427,7 +59427,7 @@ I = [
                 "part_person": [
                     844
                 ],
-                "place": 206,
+                "place": 298,
                 "text": "",
                 "type": "Birth"
             },
@@ -59442,7 +59442,7 @@ I = [
                 "part_person": [
                     844
                 ],
-                "place": 206,
+                "place": 298,
                 "text": "",
                 "type": "Death"
             }
@@ -59503,7 +59503,7 @@ I = [
                 "part_person": [
                     845
                 ],
-                "place": 80,
+                "place": 108,
                 "text": "",
                 "type": "Birth"
             },
@@ -59518,7 +59518,7 @@ I = [
                 "part_person": [
                     845
                 ],
-                "place": 206,
+                "place": 298,
                 "text": "",
                 "type": "Death"
             }
@@ -59587,7 +59587,7 @@ I = [
                 "part_person": [
                     846
                 ],
-                "place": 472,
+                "place": 705,
                 "text": "",
                 "type": "Birth"
             },
@@ -59602,7 +59602,7 @@ I = [
                 "part_person": [
                     846
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Death"
             },
@@ -59617,7 +59617,7 @@ I = [
                 "part_person": [
                     846
                 ],
-                "place": 446,
+                "place": 656,
                 "text": "",
                 "type": "Burial"
             }
@@ -59686,7 +59686,7 @@ I = [
                 "part_person": [
                     847
                 ],
-                "place": 435,
+                "place": 641,
                 "text": "",
                 "type": "Birth"
             },
@@ -59701,7 +59701,7 @@ I = [
                 "part_person": [
                     847
                 ],
-                "place": 687,
+                "place": 1027,
                 "text": "",
                 "type": "Death"
             }
@@ -59768,7 +59768,7 @@ I = [
                 "part_person": [
                     848
                 ],
-                "place": 36,
+                "place": 49,
                 "text": "",
                 "type": "Birth"
             },
@@ -59783,7 +59783,7 @@ I = [
                 "part_person": [
                     848
                 ],
-                "place": 800,
+                "place": 1200,
                 "text": "",
                 "type": "Death"
             },
@@ -59798,7 +59798,7 @@ I = [
                 "part_person": [
                     848
                 ],
-                "place": 94,
+                "place": 126,
                 "text": "",
                 "type": "Burial"
             }
@@ -59874,7 +59874,7 @@ I = [
                 "part_person": [
                     849
                 ],
-                "place": 748,
+                "place": 1112,
                 "text": "",
                 "type": "Death"
             },
@@ -59889,7 +59889,7 @@ I = [
                 "part_person": [
                     849
                 ],
-                "place": 522,
+                "place": 784,
                 "text": "",
                 "type": "Burial"
             }
@@ -60048,7 +60048,7 @@ I = [
                 "part_person": [
                     852
                 ],
-                "place": 461,
+                "place": 680,
                 "text": "",
                 "type": "Birth"
             },
@@ -60063,7 +60063,7 @@ I = [
                 "part_person": [
                     852
                 ],
-                "place": 206,
+                "place": 298,
                 "text": "",
                 "type": "Death"
             },
@@ -60078,7 +60078,7 @@ I = [
                 "part_person": [
                     852
                 ],
-                "place": 206,
+                "place": 298,
                 "text": "",
                 "type": "Burial"
             }
@@ -60139,7 +60139,7 @@ I = [
                 "part_person": [
                     853
                 ],
-                "place": 255,
+                "place": 371,
                 "text": "",
                 "type": "Birth"
             },
@@ -60215,7 +60215,7 @@ I = [
                 "part_person": [
                     854
                 ],
-                "place": 559,
+                "place": 847,
                 "text": "",
                 "type": "Burial"
             }
@@ -60276,7 +60276,7 @@ I = [
                 "part_person": [
                     855
                 ],
-                "place": 580,
+                "place": 880,
                 "text": "",
                 "type": "Birth"
             },
@@ -60352,7 +60352,7 @@ I = [
                 "part_person": [
                     856
                 ],
-                "place": 574,
+                "place": 871,
                 "text": "",
                 "type": "Birth"
             },
@@ -60367,7 +60367,7 @@ I = [
                 "part_person": [
                     856
                 ],
-                "place": 28,
+                "place": 37,
                 "text": "",
                 "type": "Death"
             },
@@ -60382,7 +60382,7 @@ I = [
                 "part_person": [
                     856
                 ],
-                "place": 28,
+                "place": 37,
                 "text": "",
                 "type": "Burial"
             }
@@ -60854,7 +60854,7 @@ I = [
                 "part_person": [
                     865
                 ],
-                "place": 288,
+                "place": 414,
                 "text": "",
                 "type": "Birth"
             },
@@ -60869,7 +60869,7 @@ I = [
                 "part_person": [
                     865
                 ],
-                "place": 757,
+                "place": 1128,
                 "text": "",
                 "type": "Death"
             }
@@ -60930,7 +60930,7 @@ I = [
                 "part_person": [
                     866
                 ],
-                "place": 209,
+                "place": 302,
                 "text": "",
                 "type": "Birth"
             },
@@ -60945,7 +60945,7 @@ I = [
                 "part_person": [
                     866
                 ],
-                "place": 746,
+                "place": 1108,
                 "text": "",
                 "type": "Burial"
             }
@@ -61210,7 +61210,7 @@ I = [
                 "part_person": [
                     871
                 ],
-                "place": 412,
+                "place": 605,
                 "text": "",
                 "type": "Birth"
             },
@@ -61225,7 +61225,7 @@ I = [
                 "part_person": [
                     871
                 ],
-                "place": 814,
+                "place": 1226,
                 "text": "",
                 "type": "Death"
             }
@@ -61294,7 +61294,7 @@ I = [
                 "part_person": [
                     872
                 ],
-                "place": 156,
+                "place": 216,
                 "text": "",
                 "type": "Birth"
             },
@@ -61309,7 +61309,7 @@ I = [
                 "part_person": [
                     872
                 ],
-                "place": 162,
+                "place": 230,
                 "text": "",
                 "type": "Death"
             }
@@ -61378,7 +61378,7 @@ I = [
                 "part_person": [
                     873
                 ],
-                "place": 412,
+                "place": 605,
                 "text": "",
                 "type": "Birth"
             }
@@ -61492,7 +61492,7 @@ I = [
                 "part_person": [
                     875
                 ],
-                "place": 454,
+                "place": 669,
                 "text": "",
                 "type": "Birth"
             },
@@ -61507,7 +61507,7 @@ I = [
                 "part_person": [
                     875
                 ],
-                "place": 482,
+                "place": 722,
                 "text": "",
                 "type": "Death"
             }
@@ -61711,7 +61711,7 @@ I = [
                 "part_person": [
                     878
                 ],
-                "place": 814,
+                "place": 1226,
                 "text": "",
                 "type": "Birth"
             },
@@ -61726,7 +61726,7 @@ I = [
                 "part_person": [
                     878
                 ],
-                "place": 583,
+                "place": 888,
                 "text": "",
                 "type": "Death"
             }
@@ -61984,7 +61984,7 @@ I = [
                 "part_person": [
                     882
                 ],
-                "place": 412,
+                "place": 605,
                 "text": "",
                 "type": "Birth"
             }
@@ -62272,7 +62272,7 @@ I = [
                 "part_person": [
                     887
                 ],
-                "place": 412,
+                "place": 605,
                 "text": "",
                 "type": "Birth"
             }
@@ -62342,7 +62342,7 @@ I = [
                 "part_person": [
                     888
                 ],
-                "place": 608,
+                "place": 922,
                 "text": "",
                 "type": "Birth"
             },
@@ -62357,7 +62357,7 @@ I = [
                 "part_person": [
                     888
                 ],
-                "place": 482,
+                "place": 722,
                 "text": "",
                 "type": "Death"
             }
@@ -62426,7 +62426,7 @@ I = [
                 "part_person": [
                     889
                 ],
-                "place": 412,
+                "place": 605,
                 "text": "",
                 "type": "Birth"
             }
@@ -62563,7 +62563,7 @@ I = [
                 "part_person": [
                     891
                 ],
-                "place": 597,
+                "place": 908,
                 "text": "",
                 "type": "Birth"
             },
@@ -62578,7 +62578,7 @@ I = [
                 "part_person": [
                     891
                 ],
-                "place": 776,
+                "place": 1159,
                 "text": "",
                 "type": "Death"
             },
@@ -62593,7 +62593,7 @@ I = [
                 "part_person": [
                     891
                 ],
-                "place": 585,
+                "place": 891,
                 "text": "",
                 "type": "Burial"
             }
@@ -62660,7 +62660,7 @@ I = [
                 "part_person": [
                     892
                 ],
-                "place": 597,
+                "place": 908,
                 "text": "",
                 "type": "Birth"
             },
@@ -62675,7 +62675,7 @@ I = [
                 "part_person": [
                     892
                 ],
-                "place": 776,
+                "place": 1159,
                 "text": "",
                 "type": "Death"
             },
@@ -62690,7 +62690,7 @@ I = [
                 "part_person": [
                     892
                 ],
-                "place": 621,
+                "place": 939,
                 "text": "",
                 "type": "Burial"
             }
@@ -62751,7 +62751,7 @@ I = [
                 "part_person": [
                     893
                 ],
-                "place": 597,
+                "place": 908,
                 "text": "",
                 "type": "Birth"
             },
@@ -62766,7 +62766,7 @@ I = [
                 "part_person": [
                     893
                 ],
-                "place": 776,
+                "place": 1159,
                 "text": "",
                 "type": "Death"
             },
@@ -62781,7 +62781,7 @@ I = [
                 "part_person": [
                     893
                 ],
-                "place": 585,
+                "place": 891,
                 "text": "",
                 "type": "Burial"
             }
@@ -62848,7 +62848,7 @@ I = [
                 "part_person": [
                     894
                 ],
-                "place": 597,
+                "place": 908,
                 "text": "",
                 "type": "Birth"
             },
@@ -62863,7 +62863,7 @@ I = [
                 "part_person": [
                     894
                 ],
-                "place": 776,
+                "place": 1159,
                 "text": "",
                 "type": "Death"
             }
@@ -62932,7 +62932,7 @@ I = [
                 "part_person": [
                     895
                 ],
-                "place": 597,
+                "place": 908,
                 "text": "",
                 "type": "Birth"
             },
@@ -62947,7 +62947,7 @@ I = [
                 "part_person": [
                     895
                 ],
-                "place": 776,
+                "place": 1159,
                 "text": "",
                 "type": "Death"
             },
@@ -62962,7 +62962,7 @@ I = [
                 "part_person": [
                     895
                 ],
-                "place": 585,
+                "place": 891,
                 "text": "",
                 "type": "Burial"
             }
@@ -63029,7 +63029,7 @@ I = [
                 "part_person": [
                     896
                 ],
-                "place": 597,
+                "place": 908,
                 "text": "",
                 "type": "Birth"
             },
@@ -63044,7 +63044,7 @@ I = [
                 "part_person": [
                     896
                 ],
-                "place": 776,
+                "place": 1159,
                 "text": "",
                 "type": "Death"
             }
@@ -63113,7 +63113,7 @@ I = [
                 "part_person": [
                     897
                 ],
-                "place": 597,
+                "place": 908,
                 "text": "",
                 "type": "Birth"
             },
@@ -63128,7 +63128,7 @@ I = [
                 "part_person": [
                     897
                 ],
-                "place": 776,
+                "place": 1159,
                 "text": "",
                 "type": "Death"
             }
@@ -63197,7 +63197,7 @@ I = [
                 "part_person": [
                     898
                 ],
-                "place": 597,
+                "place": 908,
                 "text": "",
                 "type": "Birth"
             },
@@ -63212,7 +63212,7 @@ I = [
                 "part_person": [
                     898
                 ],
-                "place": 597,
+                "place": 908,
                 "text": "",
                 "type": "Death"
             }
@@ -63281,7 +63281,7 @@ I = [
                 "part_person": [
                     899
                 ],
-                "place": 597,
+                "place": 908,
                 "text": "",
                 "type": "Birth"
             },
@@ -63296,7 +63296,7 @@ I = [
                 "part_person": [
                     899
                 ],
-                "place": 776,
+                "place": 1159,
                 "text": "",
                 "type": "Death"
             },
@@ -63311,7 +63311,7 @@ I = [
                 "part_person": [
                     899
                 ],
-                "place": 811,
+                "place": 1220,
                 "text": "",
                 "type": "Burial"
             }
@@ -63378,7 +63378,7 @@ I = [
                 "part_person": [
                     900
                 ],
-                "place": 597,
+                "place": 908,
                 "text": "",
                 "type": "Birth"
             },
@@ -63393,7 +63393,7 @@ I = [
                 "part_person": [
                     900
                 ],
-                "place": 776,
+                "place": 1159,
                 "text": "",
                 "type": "Death"
             }
@@ -63462,7 +63462,7 @@ I = [
                 "part_person": [
                     901
                 ],
-                "place": 597,
+                "place": 908,
                 "text": "",
                 "type": "Birth"
             },
@@ -63477,7 +63477,7 @@ I = [
                 "part_person": [
                     901
                 ],
-                "place": 597,
+                "place": 908,
                 "text": "",
                 "type": "Death"
             }
@@ -63809,7 +63809,7 @@ I = [
                 "part_person": [
                     906
                 ],
-                "place": 481,
+                "place": 717,
                 "text": "",
                 "type": "Death"
             },
@@ -63824,7 +63824,7 @@ I = [
                 "part_person": [
                     906
                 ],
-                "place": 749,
+                "place": 1113,
                 "text": "",
                 "type": "Burial"
             }
@@ -63960,7 +63960,7 @@ I = [
                 "part_person": [
                     908
                 ],
-                "place": 583,
+                "place": 888,
                 "text": "",
                 "type": "Birth"
             }
@@ -64195,7 +64195,7 @@ I = [
                 "part_person": [
                     911
                 ],
-                "place": 583,
+                "place": 888,
                 "text": "",
                 "type": "Birth"
             }
@@ -64262,7 +64262,7 @@ I = [
                 "part_person": [
                     912
                 ],
-                "place": 4,
+                "place": 7,
                 "text": "",
                 "type": "Birth"
             },
@@ -64277,7 +64277,7 @@ I = [
                 "part_person": [
                     912
                 ],
-                "place": 688,
+                "place": 1028,
                 "text": "",
                 "type": "Death"
             }
@@ -64346,7 +64346,7 @@ I = [
                 "part_person": [
                     913
                 ],
-                "place": 733,
+                "place": 1086,
                 "text": "",
                 "type": "Birth"
             },
@@ -64361,7 +64361,7 @@ I = [
                 "part_person": [
                     913
                 ],
-                "place": 326,
+                "place": 467,
                 "text": "",
                 "type": "Death"
             },
@@ -64376,7 +64376,7 @@ I = [
                 "part_person": [
                     913
                 ],
-                "place": 197,
+                "place": 279,
                 "text": "",
                 "type": "Burial"
             }
@@ -64460,7 +64460,7 @@ I = [
                 "part_person": [
                     914
                 ],
-                "place": 236,
+                "place": 342,
                 "text": "",
                 "type": "Death"
             },
@@ -64475,7 +64475,7 @@ I = [
                 "part_person": [
                     914
                 ],
-                "place": 264,
+                "place": 383,
                 "text": "",
                 "type": "Burial"
             }
@@ -64536,7 +64536,7 @@ I = [
                 "part_person": [
                     915
                 ],
-                "place": 558,
+                "place": 846,
                 "text": "",
                 "type": "Birth"
             },
@@ -64551,7 +64551,7 @@ I = [
                 "part_person": [
                     915
                 ],
-                "place": 481,
+                "place": 717,
                 "text": "",
                 "type": "Death"
             },
@@ -64566,7 +64566,7 @@ I = [
                 "part_person": [
                     915
                 ],
-                "place": 278,
+                "place": 401,
                 "text": "",
                 "type": "Burial"
             }
@@ -64717,7 +64717,7 @@ I = [
                 "part_person": [
                     917
                 ],
-                "place": 481,
+                "place": 717,
                 "text": "",
                 "type": "Birth"
             },
@@ -64732,7 +64732,7 @@ I = [
                 "part_person": [
                     917
                 ],
-                "place": 558,
+                "place": 846,
                 "text": "",
                 "type": "Death"
             },
@@ -64747,7 +64747,7 @@ I = [
                 "part_person": [
                     917
                 ],
-                "place": 396,
+                "place": 581,
                 "text": "",
                 "type": "Burial"
             }
@@ -64814,7 +64814,7 @@ I = [
                 "part_person": [
                     918
                 ],
-                "place": 583,
+                "place": 888,
                 "text": "",
                 "type": "Birth"
             }
@@ -64881,7 +64881,7 @@ I = [
                 "part_person": [
                     919
                 ],
-                "place": 481,
+                "place": 717,
                 "text": "",
                 "type": "Birth"
             }
@@ -64948,7 +64948,7 @@ I = [
                 "part_person": [
                     920
                 ],
-                "place": 326,
+                "place": 467,
                 "text": "",
                 "type": "Birth"
             },
@@ -64963,7 +64963,7 @@ I = [
                 "part_person": [
                     920
                 ],
-                "place": 395,
+                "place": 580,
                 "text": "",
                 "type": "Death"
             },
@@ -64978,7 +64978,7 @@ I = [
                 "part_person": [
                     920
                 ],
-                "place": 188,
+                "place": 266,
                 "text": "",
                 "type": "Burial"
             }
@@ -65047,7 +65047,7 @@ I = [
                 "part_person": [
                     921
                 ],
-                "place": 481,
+                "place": 717,
                 "text": "",
                 "type": "Birth"
             },
@@ -65062,7 +65062,7 @@ I = [
                 "part_person": [
                     921
                 ],
-                "place": 481,
+                "place": 717,
                 "text": "",
                 "type": "Death"
             },
@@ -65077,7 +65077,7 @@ I = [
                 "part_person": [
                     921
                 ],
-                "place": 278,
+                "place": 401,
                 "text": "",
                 "type": "Burial"
             }
@@ -65144,7 +65144,7 @@ I = [
                 "part_person": [
                     922
                 ],
-                "place": 583,
+                "place": 888,
                 "text": "",
                 "type": "Birth"
             }
@@ -65211,7 +65211,7 @@ I = [
                 "part_person": [
                     923
                 ],
-                "place": 481,
+                "place": 717,
                 "text": "",
                 "type": "Birth"
             }
@@ -65293,7 +65293,7 @@ I = [
                 "part_person": [
                     924
                 ],
-                "place": 558,
+                "place": 846,
                 "text": "",
                 "type": "Death"
             },
@@ -65308,7 +65308,7 @@ I = [
                 "part_person": [
                     924
                 ],
-                "place": 197,
+                "place": 279,
                 "text": "",
                 "type": "Burial"
             }
@@ -65375,7 +65375,7 @@ I = [
                 "part_person": [
                     925
                 ],
-                "place": 583,
+                "place": 888,
                 "text": "",
                 "type": "Birth"
             }
@@ -65580,7 +65580,7 @@ I = [
                 "part_person": [
                     928
                 ],
-                "place": 481,
+                "place": 717,
                 "text": "",
                 "type": "Birth"
             }
@@ -65716,7 +65716,7 @@ I = [
                 "part_person": [
                     930
                 ],
-                "place": 583,
+                "place": 888,
                 "text": "",
                 "type": "Birth"
             }
@@ -65783,7 +65783,7 @@ I = [
                 "part_person": [
                     931
                 ],
-                "place": 583,
+                "place": 888,
                 "text": "",
                 "type": "Birth"
             }
@@ -65850,7 +65850,7 @@ I = [
                 "part_person": [
                     932
                 ],
-                "place": 34,
+                "place": 45,
                 "text": "",
                 "type": "Birth"
             },
@@ -65865,7 +65865,7 @@ I = [
                 "part_person": [
                     932
                 ],
-                "place": 560,
+                "place": 848,
                 "text": "",
                 "type": "Death"
             }
@@ -65932,7 +65932,7 @@ I = [
                 "part_person": [
                     933
                 ],
-                "place": 160,
+                "place": 224,
                 "text": "",
                 "type": "Death"
             }
@@ -66046,7 +66046,7 @@ I = [
                 "part_person": [
                     935
                 ],
-                "place": 779,
+                "place": 1164,
                 "text": "",
                 "type": "Birth"
             },
@@ -66076,7 +66076,7 @@ I = [
                 "part_person": [
                     935
                 ],
-                "place": 746,
+                "place": 1108,
                 "text": "",
                 "type": "Burial"
             }
@@ -66182,7 +66182,7 @@ I = [
                 "part_person": [
                     937
                 ],
-                "place": 672,
+                "place": 1006,
                 "text": "",
                 "type": "Birth"
             }
@@ -66251,7 +66251,7 @@ I = [
                 "part_person": [
                     938
                 ],
-                "place": 672,
+                "place": 1006,
                 "text": "",
                 "type": "Birth"
             }
@@ -66494,7 +66494,7 @@ I = [
                 "part_person": [
                     942
                 ],
-                "place": 596,
+                "place": 906,
                 "text": "",
                 "type": "Birth"
             },
@@ -66576,7 +66576,7 @@ I = [
                 "part_person": [
                     943
                 ],
-                "place": 596,
+                "place": 906,
                 "text": "",
                 "type": "Birth"
             },
@@ -66958,7 +66958,7 @@ I = [
                 "part_person": [
                     950
                 ],
-                "place": 92,
+                "place": 123,
                 "text": "",
                 "type": "Birth"
             },
@@ -66973,7 +66973,7 @@ I = [
                 "part_person": [
                     950
                 ],
-                "place": 621,
+                "place": 939,
                 "text": "",
                 "type": "Death"
             },
@@ -66988,7 +66988,7 @@ I = [
                 "part_person": [
                     950
                 ],
-                "place": 621,
+                "place": 939,
                 "text": "",
                 "type": "Burial"
             }
@@ -67280,7 +67280,7 @@ I = [
                 "part_person": [
                     956
                 ],
-                "place": 664,
+                "place": 997,
                 "text": "",
                 "type": "Birth"
             },
@@ -67532,7 +67532,7 @@ I = [
                 "part_person": [
                     961
                 ],
-                "place": 640,
+                "place": 967,
                 "text": "",
                 "type": "Birth"
             },
@@ -67547,7 +67547,7 @@ I = [
                 "part_person": [
                     961
                 ],
-                "place": 594,
+                "place": 904,
                 "text": "",
                 "type": "Death"
             },
@@ -67562,7 +67562,7 @@ I = [
                 "part_person": [
                     961
                 ],
-                "place": 570,
+                "place": 867,
                 "text": "",
                 "type": "Burial"
             }
@@ -67668,7 +67668,7 @@ I = [
                 "part_person": [
                     963
                 ],
-                "place": 43,
+                "place": 56,
                 "text": "",
                 "type": "Birth"
             },
@@ -67826,7 +67826,7 @@ I = [
                 "part_person": [
                     965
                 ],
-                "place": 43,
+                "place": 56,
                 "text": "",
                 "type": "Birth"
             },
@@ -67910,7 +67910,7 @@ I = [
                 "part_person": [
                     966
                 ],
-                "place": 74,
+                "place": 99,
                 "text": "",
                 "type": "Birth"
             },
@@ -68154,7 +68154,7 @@ I = [
                 "part_person": [
                     969
                 ],
-                "place": 111,
+                "place": 150,
                 "text": "",
                 "type": "Birth"
             },
@@ -68169,7 +68169,7 @@ I = [
                 "part_person": [
                     969
                 ],
-                "place": 18,
+                "place": 26,
                 "text": "",
                 "type": "Death"
             }
@@ -68253,7 +68253,7 @@ I = [
                 "part_person": [
                     970
                 ],
-                "place": 111,
+                "place": 150,
                 "text": "",
                 "type": "Death"
             }
@@ -68322,7 +68322,7 @@ I = [
                 "part_person": [
                     971
                 ],
-                "place": 202,
+                "place": 296,
                 "text": "",
                 "type": "Birth"
             }
@@ -68383,7 +68383,7 @@ I = [
                 "part_person": [
                     972
                 ],
-                "place": 834,
+                "place": 1260,
                 "text": "",
                 "type": "Birth"
             },
@@ -68398,7 +68398,7 @@ I = [
                 "part_person": [
                     972
                 ],
-                "place": 834,
+                "place": 1260,
                 "text": "",
                 "type": "Death"
             }
@@ -68535,7 +68535,7 @@ I = [
                 "part_person": [
                     974
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -68550,7 +68550,7 @@ I = [
                 "part_person": [
                     974
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Death"
             },
@@ -68565,7 +68565,7 @@ I = [
                 "part_person": [
                     974
                 ],
-                "place": 446,
+                "place": 656,
                 "text": "",
                 "type": "Burial"
             }
@@ -68634,7 +68634,7 @@ I = [
                 "part_person": [
                     975
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -68802,7 +68802,7 @@ I = [
                 "part_person": [
                     977
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -68817,7 +68817,7 @@ I = [
                 "part_person": [
                     977
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Death"
             },
@@ -68832,7 +68832,7 @@ I = [
                 "part_person": [
                     977
                 ],
-                "place": 446,
+                "place": 656,
                 "text": "",
                 "type": "Burial"
             }
@@ -68901,7 +68901,7 @@ I = [
                 "part_person": [
                     978
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -68985,7 +68985,7 @@ I = [
                 "part_person": [
                     979
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -69000,7 +69000,7 @@ I = [
                 "part_person": [
                     979
                 ],
-                "place": 44,
+                "place": 58,
                 "text": "",
                 "type": "Death"
             },
@@ -69015,7 +69015,7 @@ I = [
                 "part_person": [
                     979
                 ],
-                "place": 127,
+                "place": 172,
                 "text": "",
                 "type": "Burial"
             }
@@ -69082,7 +69082,7 @@ I = [
                 "part_person": [
                     980
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -69097,7 +69097,7 @@ I = [
                 "part_person": [
                     980
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Death"
             },
@@ -69112,7 +69112,7 @@ I = [
                 "part_person": [
                     980
                 ],
-                "place": 446,
+                "place": 656,
                 "text": "",
                 "type": "Burial"
             }
@@ -69298,7 +69298,7 @@ I = [
                 "part_person": [
                     983
                 ],
-                "place": 514,
+                "place": 772,
                 "text": "",
                 "type": "Birth"
             },
@@ -69313,7 +69313,7 @@ I = [
                 "part_person": [
                     983
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Death"
             },
@@ -69328,7 +69328,7 @@ I = [
                 "part_person": [
                     983
                 ],
-                "place": 168,
+                "place": 241,
                 "text": "",
                 "type": "Burial"
             }
@@ -69389,7 +69389,7 @@ I = [
                 "part_person": [
                     984
                 ],
-                "place": 16,
+                "place": 23,
                 "text": "",
                 "type": "Birth"
             },
@@ -69473,7 +69473,7 @@ I = [
                 "part_person": [
                     985
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -69555,7 +69555,7 @@ I = [
                 "part_person": [
                     986
                 ],
-                "place": 697,
+                "place": 1043,
                 "text": "",
                 "type": "Birth"
             },
@@ -69637,7 +69637,7 @@ I = [
                 "part_person": [
                     987
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -69719,7 +69719,7 @@ I = [
                 "part_person": [
                     988
                 ],
-                "place": 843,
+                "place": 1273,
                 "text": "",
                 "type": "Birth"
             },
@@ -69734,7 +69734,7 @@ I = [
                 "part_person": [
                     988
                 ],
-                "place": 3,
+                "place": 6,
                 "text": "",
                 "type": "Death"
             },
@@ -69749,7 +69749,7 @@ I = [
                 "part_person": [
                     988
                 ],
-                "place": 843,
+                "place": 1273,
                 "text": "",
                 "type": "Burial"
             }
@@ -69900,7 +69900,7 @@ I = [
                 "part_person": [
                     990
                 ],
-                "place": 16,
+                "place": 23,
                 "text": "",
                 "type": "Birth"
             },
@@ -69915,7 +69915,7 @@ I = [
                 "part_person": [
                     990
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Death"
             }
@@ -69982,7 +69982,7 @@ I = [
                 "part_person": [
                     991
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -70066,7 +70066,7 @@ I = [
                 "part_person": [
                     992
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -70148,7 +70148,7 @@ I = [
                 "part_person": [
                     993
                 ],
-                "place": 16,
+                "place": 23,
                 "text": "",
                 "type": "Birth"
             },
@@ -70281,7 +70281,7 @@ I = [
                 "part_person": [
                     995
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -70363,7 +70363,7 @@ I = [
                 "part_person": [
                     996
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -70530,7 +70530,7 @@ I = [
                 "part_person": [
                     998
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -70545,7 +70545,7 @@ I = [
                 "part_person": [
                     998
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Death"
             },
@@ -70560,7 +70560,7 @@ I = [
                 "part_person": [
                     998
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Burial"
             }
@@ -70790,7 +70790,7 @@ I = [
                 "part_person": [
                     1002
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             }
@@ -70857,7 +70857,7 @@ I = [
                 "part_person": [
                     1003
                 ],
-                "place": 717,
+                "place": 1069,
                 "text": "",
                 "type": "Birth"
             },
@@ -70939,7 +70939,7 @@ I = [
                 "part_person": [
                     1004
                 ],
-                "place": 62,
+                "place": 83,
                 "text": "",
                 "type": "Birth"
             },
@@ -71021,7 +71021,7 @@ I = [
                 "part_person": [
                     1005
                 ],
-                "place": 510,
+                "place": 766,
                 "text": "",
                 "type": "Birth"
             },
@@ -71105,7 +71105,7 @@ I = [
                 "part_person": [
                     1006
                 ],
-                "place": 194,
+                "place": 277,
                 "text": "",
                 "type": "Birth"
             },
@@ -71120,7 +71120,7 @@ I = [
                 "part_person": [
                     1006
                 ],
-                "place": 510,
+                "place": 766,
                 "text": "",
                 "type": "Death"
             },
@@ -71135,7 +71135,7 @@ I = [
                 "part_person": [
                     1006
                 ],
-                "place": 492,
+                "place": 735,
                 "text": "",
                 "type": "Burial"
             }
@@ -71204,7 +71204,7 @@ I = [
                 "part_person": [
                     1007
                 ],
-                "place": 56,
+                "place": 74,
                 "text": "",
                 "type": "Birth"
             },
@@ -71234,7 +71234,7 @@ I = [
                 "part_person": [
                     1007
                 ],
-                "place": 492,
+                "place": 735,
                 "text": "",
                 "type": "Burial"
             }
@@ -71575,7 +71575,7 @@ I = [
                 "part_person": [
                     1013
                 ],
-                "place": 655,
+                "place": 988,
                 "text": "",
                 "type": "Death"
             },
@@ -71590,7 +71590,7 @@ I = [
                 "part_person": [
                     1013
                 ],
-                "place": 32,
+                "place": 43,
                 "text": "",
                 "type": "Burial"
             }
@@ -72086,7 +72086,7 @@ I = [
                 "part_person": [
                     1023
                 ],
-                "place": 837,
+                "place": 1265,
                 "text": "",
                 "type": "Birth"
             }
@@ -72224,7 +72224,7 @@ I = [
                 "part_person": [
                     1025
                 ],
-                "place": 117,
+                "place": 159,
                 "text": "",
                 "type": "Birth"
             },
@@ -72239,7 +72239,7 @@ I = [
                 "part_person": [
                     1025
                 ],
-                "place": 617,
+                "place": 935,
                 "text": "",
                 "type": "Death"
             }
@@ -72309,7 +72309,7 @@ I = [
                 "part_person": [
                     1026
                 ],
-                "place": 611,
+                "place": 926,
                 "text": "",
                 "type": "Birth"
             },
@@ -72324,7 +72324,7 @@ I = [
                 "part_person": [
                     1026
                 ],
-                "place": 117,
+                "place": 159,
                 "text": "",
                 "type": "Death"
             }
@@ -72438,7 +72438,7 @@ I = [
                 "part_person": [
                     1028
                 ],
-                "place": 814,
+                "place": 1226,
                 "text": "",
                 "type": "Birth"
             }
@@ -72499,7 +72499,7 @@ I = [
                 "part_person": [
                     1029
                 ],
-                "place": 542,
+                "place": 815,
                 "text": "",
                 "type": "Birth"
             }
@@ -72560,7 +72560,7 @@ I = [
                 "part_person": [
                     1030
                 ],
-                "place": 688,
+                "place": 1028,
                 "text": "",
                 "type": "Birth"
             },
@@ -72575,7 +72575,7 @@ I = [
                 "part_person": [
                     1030
                 ],
-                "place": 843,
+                "place": 1273,
                 "text": "",
                 "type": "Death"
             },
@@ -72590,7 +72590,7 @@ I = [
                 "part_person": [
                     1030
                 ],
-                "place": 90,
+                "place": 120,
                 "text": "",
                 "type": "Burial"
             }
@@ -72659,7 +72659,7 @@ I = [
                 "part_person": [
                     1031
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -72743,7 +72743,7 @@ I = [
                 "part_person": [
                     1032
                 ],
-                "place": 843,
+                "place": 1273,
                 "text": "",
                 "type": "Birth"
             },
@@ -72827,7 +72827,7 @@ I = [
                 "part_person": [
                     1033
                 ],
-                "place": 583,
+                "place": 888,
                 "text": "",
                 "type": "Birth"
             },
@@ -72842,7 +72842,7 @@ I = [
                 "part_person": [
                     1033
                 ],
-                "place": 218,
+                "place": 317,
                 "text": "",
                 "type": "Death"
             }
@@ -72911,7 +72911,7 @@ I = [
                 "part_person": [
                     1034
                 ],
-                "place": 529,
+                "place": 801,
                 "text": "",
                 "type": "Birth"
             },
@@ -72926,7 +72926,7 @@ I = [
                 "part_person": [
                     1034
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Death"
             }
@@ -72995,7 +72995,7 @@ I = [
                 "part_person": [
                     1035
                 ],
-                "place": 466,
+                "place": 690,
                 "text": "",
                 "type": "Birth"
             },
@@ -73010,7 +73010,7 @@ I = [
                 "part_person": [
                     1035
                 ],
-                "place": 573,
+                "place": 870,
                 "text": "",
                 "type": "Death"
             },
@@ -73025,7 +73025,7 @@ I = [
                 "part_person": [
                     1035
                 ],
-                "place": 188,
+                "place": 266,
                 "text": "",
                 "type": "Burial"
             }
@@ -73094,7 +73094,7 @@ I = [
                 "part_person": [
                     1036
                 ],
-                "place": 542,
+                "place": 815,
                 "text": "",
                 "type": "Birth"
             }
@@ -73163,7 +73163,7 @@ I = [
                 "part_person": [
                     1037
                 ],
-                "place": 583,
+                "place": 888,
                 "text": "",
                 "type": "Birth"
             },
@@ -73178,7 +73178,7 @@ I = [
                 "part_person": [
                     1037
                 ],
-                "place": 418,
+                "place": 615,
                 "text": "",
                 "type": "Death"
             }
@@ -73247,7 +73247,7 @@ I = [
                 "part_person": [
                     1038
                 ],
-                "place": 235,
+                "place": 340,
                 "text": "",
                 "type": "Birth"
             },
@@ -73331,7 +73331,7 @@ I = [
                 "part_person": [
                     1039
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -73415,7 +73415,7 @@ I = [
                 "part_person": [
                     1040
                 ],
-                "place": 688,
+                "place": 1028,
                 "text": "",
                 "type": "Birth"
             },
@@ -73544,7 +73544,7 @@ I = [
                 "part_person": [
                     1042
                 ],
-                "place": 688,
+                "place": 1028,
                 "text": "",
                 "type": "Birth"
             },
@@ -73628,7 +73628,7 @@ I = [
                 "part_person": [
                     1043
                 ],
-                "place": 649,
+                "place": 979,
                 "text": "",
                 "type": "Birth"
             }
@@ -73695,7 +73695,7 @@ I = [
                 "part_person": [
                     1044
                 ],
-                "place": 583,
+                "place": 888,
                 "text": "",
                 "type": "Birth"
             }
@@ -73764,7 +73764,7 @@ I = [
                 "part_person": [
                     1045
                 ],
-                "place": 583,
+                "place": 888,
                 "text": "",
                 "type": "Birth"
             }
@@ -73831,7 +73831,7 @@ I = [
                 "part_person": [
                     1046
                 ],
-                "place": 583,
+                "place": 888,
                 "text": "",
                 "type": "Birth"
             },
@@ -73846,7 +73846,7 @@ I = [
                 "part_person": [
                     1046
                 ],
-                "place": 793,
+                "place": 1189,
                 "text": "",
                 "type": "Death"
             }
@@ -73907,7 +73907,7 @@ I = [
                 "part_person": [
                     1047
                 ],
-                "place": 583,
+                "place": 888,
                 "text": "",
                 "type": "Birth"
             }
@@ -73974,7 +73974,7 @@ I = [
                 "part_person": [
                     1048
                 ],
-                "place": 583,
+                "place": 888,
                 "text": "",
                 "type": "Birth"
             }
@@ -74041,7 +74041,7 @@ I = [
                 "part_person": [
                     1049
                 ],
-                "place": 583,
+                "place": 888,
                 "text": "",
                 "type": "Birth"
             }
@@ -74110,7 +74110,7 @@ I = [
                 "part_person": [
                     1050
                 ],
-                "place": 649,
+                "place": 979,
                 "text": "",
                 "type": "Birth"
             }
@@ -74177,7 +74177,7 @@ I = [
                 "part_person": [
                     1051
                 ],
-                "place": 649,
+                "place": 979,
                 "text": "",
                 "type": "Birth"
             }
@@ -74630,7 +74630,7 @@ I = [
                 "part_person": [
                     1060
                 ],
-                "place": 415,
+                "place": 613,
                 "text": "",
                 "type": "Birth"
             },
@@ -74818,7 +74818,7 @@ I = [
                 "part_person": [
                     1063
                 ],
-                "place": 825,
+                "place": 1244,
                 "text": "",
                 "type": "Birth"
             },
@@ -74892,7 +74892,7 @@ I = [
                 "part_person": [
                     1064
                 ],
-                "place": 825,
+                "place": 1244,
                 "text": "",
                 "type": "Birth"
             },
@@ -74966,7 +74966,7 @@ I = [
                 "part_person": [
                     1065
                 ],
-                "place": 531,
+                "place": 805,
                 "text": "",
                 "type": "Death"
             }
@@ -75027,7 +75027,7 @@ I = [
                 "part_person": [
                     1066
                 ],
-                "place": 119,
+                "place": 162,
                 "text": "",
                 "type": "Birth"
             },
@@ -75042,7 +75042,7 @@ I = [
                 "part_person": [
                     1066
                 ],
-                "place": 73,
+                "place": 98,
                 "text": "",
                 "type": "Death"
             },
@@ -75057,7 +75057,7 @@ I = [
                 "part_person": [
                     1066
                 ],
-                "place": 73,
+                "place": 98,
                 "text": "",
                 "type": "Burial"
             }
@@ -75386,7 +75386,7 @@ I = [
                 "part_person": [
                     1072
                 ],
-                "place": 308,
+                "place": 444,
                 "text": "",
                 "type": "Death"
             },
@@ -75401,7 +75401,7 @@ I = [
                 "part_person": [
                     1072
                 ],
-                "place": 308,
+                "place": 444,
                 "text": "",
                 "type": "Burial"
             }
@@ -75515,7 +75515,7 @@ I = [
                 "part_person": [
                     1074
                 ],
-                "place": 495,
+                "place": 738,
                 "text": "",
                 "type": "Birth"
             }
@@ -75576,7 +75576,7 @@ I = [
                 "part_person": [
                     1075
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -75682,7 +75682,7 @@ I = [
                 "part_person": [
                     1076
                 ],
-                "place": 519,
+                "place": 778,
                 "text": "",
                 "type": "Burial"
             }
@@ -75749,7 +75749,7 @@ I = [
                 "part_person": [
                     1077
                 ],
-                "place": 592,
+                "place": 902,
                 "text": "",
                 "type": "Birth"
             },
@@ -75764,7 +75764,7 @@ I = [
                 "part_person": [
                     1077
                 ],
-                "place": 843,
+                "place": 1273,
                 "text": "",
                 "type": "Death"
             },
@@ -75779,7 +75779,7 @@ I = [
                 "part_person": [
                     1077
                 ],
-                "place": 216,
+                "place": 314,
                 "text": "",
                 "type": "Burial"
             }
@@ -75902,7 +75902,7 @@ I = [
                 "part_person": [
                     1079
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -75917,7 +75917,7 @@ I = [
                 "part_person": [
                     1079
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Death"
             },
@@ -75932,7 +75932,7 @@ I = [
                 "part_person": [
                     1079
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Burial"
             }
@@ -75999,7 +75999,7 @@ I = [
                 "part_person": [
                     1080
                 ],
-                "place": 587,
+                "place": 894,
                 "text": "",
                 "type": "Birth"
             },
@@ -76014,7 +76014,7 @@ I = [
                 "part_person": [
                     1080
                 ],
-                "place": 728,
+                "place": 1082,
                 "text": "",
                 "type": "Death"
             },
@@ -76029,7 +76029,7 @@ I = [
                 "part_person": [
                     1080
                 ],
-                "place": 728,
+                "place": 1082,
                 "text": "",
                 "type": "Burial"
             }
@@ -76098,7 +76098,7 @@ I = [
                 "part_person": [
                     1081
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Death"
             },
@@ -76113,7 +76113,7 @@ I = [
                 "part_person": [
                     1081
                 ],
-                "place": 26,
+                "place": 35,
                 "text": "",
                 "type": "Burial"
             }
@@ -76180,7 +76180,7 @@ I = [
                 "part_person": [
                     1082
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -76195,7 +76195,7 @@ I = [
                 "part_person": [
                     1082
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Death"
             },
@@ -76210,7 +76210,7 @@ I = [
                 "part_person": [
                     1082
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Burial"
             }
@@ -76277,7 +76277,7 @@ I = [
                 "part_person": [
                     1083
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -76292,7 +76292,7 @@ I = [
                 "part_person": [
                     1083
                 ],
-                "place": 510,
+                "place": 766,
                 "text": "",
                 "type": "Death"
             }
@@ -76361,7 +76361,7 @@ I = [
                 "part_person": [
                     1084
                 ],
-                "place": 843,
+                "place": 1273,
                 "text": "",
                 "type": "Birth"
             },
@@ -76445,7 +76445,7 @@ I = [
                 "part_person": [
                     1085
                 ],
-                "place": 656,
+                "place": 989,
                 "text": "",
                 "type": "Birth"
             },
@@ -76460,7 +76460,7 @@ I = [
                 "part_person": [
                     1085
                 ],
-                "place": 843,
+                "place": 1273,
                 "text": "",
                 "type": "Death"
             },
@@ -76475,7 +76475,7 @@ I = [
                 "part_person": [
                     1085
                 ],
-                "place": 843,
+                "place": 1273,
                 "text": "",
                 "type": "Burial"
             }
@@ -76544,7 +76544,7 @@ I = [
                 "part_person": [
                     1086
                 ],
-                "place": 601,
+                "place": 913,
                 "text": "",
                 "type": "Birth"
             }
@@ -76737,7 +76737,7 @@ I = [
                 "part_person": [
                     1089
                 ],
-                "place": 736,
+                "place": 1091,
                 "text": "",
                 "type": "Burial"
             }
@@ -76804,7 +76804,7 @@ I = [
                 "part_person": [
                     1090
                 ],
-                "place": 843,
+                "place": 1273,
                 "text": "",
                 "type": "Birth"
             },
@@ -76819,7 +76819,7 @@ I = [
                 "part_person": [
                     1090
                 ],
-                "place": 843,
+                "place": 1273,
                 "text": "",
                 "type": "Death"
             },
@@ -76834,7 +76834,7 @@ I = [
                 "part_person": [
                     1090
                 ],
-                "place": 843,
+                "place": 1273,
                 "text": "",
                 "type": "Burial"
             }
@@ -76903,7 +76903,7 @@ I = [
                 "part_person": [
                     1091
                 ],
-                "place": 364,
+                "place": 528,
                 "text": "",
                 "type": "Death"
             },
@@ -76918,7 +76918,7 @@ I = [
                 "part_person": [
                     1091
                 ],
-                "place": 446,
+                "place": 656,
                 "text": "",
                 "type": "Burial"
             }
@@ -76985,7 +76985,7 @@ I = [
                 "part_person": [
                     1092
                 ],
-                "place": 440,
+                "place": 650,
                 "text": "",
                 "type": "Death"
             },
@@ -77000,7 +77000,7 @@ I = [
                 "part_person": [
                     1092
                 ],
-                "place": 713,
+                "place": 1065,
                 "text": "",
                 "type": "Burial"
             }
@@ -77112,7 +77112,7 @@ I = [
                 "part_person": [
                     1094
                 ],
-                "place": 554,
+                "place": 840,
                 "text": "",
                 "type": "Birth"
             },
@@ -77127,7 +77127,7 @@ I = [
                 "part_person": [
                     1094
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Death"
             },
@@ -77142,7 +77142,7 @@ I = [
                 "part_person": [
                     1094
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Burial"
             }
@@ -77332,7 +77332,7 @@ I = [
                 "part_person": [
                     1097
                 ],
-                "place": 817,
+                "place": 1229,
                 "text": "",
                 "type": "Birth"
             },
@@ -77347,7 +77347,7 @@ I = [
                 "part_person": [
                     1097
                 ],
-                "place": 344,
+                "place": 492,
                 "text": "",
                 "type": "Death"
             },
@@ -77362,7 +77362,7 @@ I = [
                 "part_person": [
                     1097
                 ],
-                "place": 344,
+                "place": 492,
                 "text": "",
                 "type": "Burial"
             }
@@ -77423,7 +77423,7 @@ I = [
                 "part_person": [
                     1098
                 ],
-                "place": 249,
+                "place": 364,
                 "text": "",
                 "type": "Birth"
             },
@@ -77438,7 +77438,7 @@ I = [
                 "part_person": [
                     1098
                 ],
-                "place": 547,
+                "place": 826,
                 "text": "",
                 "type": "Death"
             },
@@ -77453,7 +77453,7 @@ I = [
                 "part_person": [
                     1098
                 ],
-                "place": 547,
+                "place": 826,
                 "text": "",
                 "type": "Burial"
             }
@@ -77993,7 +77993,7 @@ I = [
                 "part_person": [
                     1108
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -78188,7 +78188,7 @@ I = [
                 "part_person": [
                     1111
                 ],
-                "place": 321,
+                "place": 461,
                 "text": "",
                 "type": "Death"
             }
@@ -78394,7 +78394,7 @@ I = [
                 "part_person": [
                     1114
                 ],
-                "place": 471,
+                "place": 704,
                 "text": "",
                 "type": "Birth"
             },
@@ -78409,7 +78409,7 @@ I = [
                 "part_person": [
                     1114
                 ],
-                "place": 459,
+                "place": 677,
                 "text": "",
                 "type": "Death"
             },
@@ -78424,7 +78424,7 @@ I = [
                 "part_person": [
                     1114
                 ],
-                "place": 752,
+                "place": 1117,
                 "text": "",
                 "type": "Burial"
             }
@@ -78642,7 +78642,7 @@ I = [
                 "part_person": [
                     1118
                 ],
-                "place": 761,
+                "place": 1133,
                 "text": "",
                 "type": "Birth"
             },
@@ -78724,7 +78724,7 @@ I = [
                 "part_person": [
                     1119
                 ],
-                "place": 761,
+                "place": 1133,
                 "text": "",
                 "type": "Birth"
             },
@@ -78859,7 +78859,7 @@ I = [
                 "part_person": [
                     1121
                 ],
-                "place": 644,
+                "place": 973,
                 "text": "",
                 "type": "Birth"
             },
@@ -78874,7 +78874,7 @@ I = [
                 "part_person": [
                     1121
                 ],
-                "place": 250,
+                "place": 365,
                 "text": "",
                 "type": "Death"
             }
@@ -78935,7 +78935,7 @@ I = [
                 "part_person": [
                     1122
                 ],
-                "place": 761,
+                "place": 1133,
                 "text": "",
                 "type": "Birth"
             },
@@ -79017,7 +79017,7 @@ I = [
                 "part_person": [
                     1123
                 ],
-                "place": 761,
+                "place": 1133,
                 "text": "",
                 "type": "Birth"
             },
@@ -79032,7 +79032,7 @@ I = [
                 "part_person": [
                     1123
                 ],
-                "place": 341,
+                "place": 489,
                 "text": "",
                 "type": "Death"
             }
@@ -79099,7 +79099,7 @@ I = [
                 "part_person": [
                     1124
                 ],
-                "place": 644,
+                "place": 973,
                 "text": "",
                 "type": "Birth"
             },
@@ -79183,7 +79183,7 @@ I = [
                 "part_person": [
                     1125
                 ],
-                "place": 650,
+                "place": 981,
                 "text": "",
                 "type": "Birth"
             }
@@ -79289,7 +79289,7 @@ I = [
                 "part_person": [
                     1127
                 ],
-                "place": 470,
+                "place": 702,
                 "text": "",
                 "type": "Birth"
             },
@@ -79304,7 +79304,7 @@ I = [
                 "part_person": [
                     1127
                 ],
-                "place": 484,
+                "place": 719,
                 "text": "",
                 "type": "Death"
             },
@@ -79319,7 +79319,7 @@ I = [
                 "part_person": [
                     1127
                 ],
-                "place": 271,
+                "place": 394,
                 "text": "",
                 "type": "Burial"
             }
@@ -79425,7 +79425,7 @@ I = [
                 "part_person": [
                     1129
                 ],
-                "place": 431,
+                "place": 632,
                 "text": "",
                 "type": "Birth"
             },
@@ -79440,7 +79440,7 @@ I = [
                 "part_person": [
                     1129
                 ],
-                "place": 116,
+                "place": 158,
                 "text": "",
                 "type": "Death"
             },
@@ -79455,7 +79455,7 @@ I = [
                 "part_person": [
                     1129
                 ],
-                "place": 272,
+                "place": 395,
                 "text": "",
                 "type": "Burial"
             }
@@ -79524,7 +79524,7 @@ I = [
                 "part_person": [
                     1130
                 ],
-                "place": 392,
+                "place": 577,
                 "text": "",
                 "type": "Birth"
             },
@@ -79539,7 +79539,7 @@ I = [
                 "part_person": [
                     1130
                 ],
-                "place": 392,
+                "place": 577,
                 "text": "",
                 "type": "Death"
             },
@@ -79554,7 +79554,7 @@ I = [
                 "part_person": [
                     1130
                 ],
-                "place": 392,
+                "place": 577,
                 "text": "",
                 "type": "Burial"
             }
@@ -79827,7 +79827,7 @@ I = [
                 "part_person": [
                     1135
                 ],
-                "place": 618,
+                "place": 936,
                 "text": "",
                 "type": "Birth"
             },
@@ -79842,7 +79842,7 @@ I = [
                 "part_person": [
                     1135
                 ],
-                "place": 523,
+                "place": 788,
                 "text": "",
                 "type": "Death"
             },
@@ -79857,7 +79857,7 @@ I = [
                 "part_person": [
                     1135
                 ],
-                "place": 142,
+                "place": 193,
                 "text": "",
                 "type": "Burial"
             }
@@ -79994,7 +79994,7 @@ I = [
                 "part_person": [
                     1137
                 ],
-                "place": 611,
+                "place": 926,
                 "text": "",
                 "type": "Birth"
             }
@@ -80063,7 +80063,7 @@ I = [
                 "part_person": [
                     1138
                 ],
-                "place": 773,
+                "place": 1156,
                 "text": "",
                 "type": "Birth"
             }
@@ -80214,7 +80214,7 @@ I = [
                 "part_person": [
                     1141
                 ],
-                "place": 846,
+                "place": 1280,
                 "text": "",
                 "type": "Birth"
             },
@@ -80290,7 +80290,7 @@ I = [
                 "part_person": [
                     1142
                 ],
-                "place": 506,
+                "place": 761,
                 "text": "",
                 "type": "Birth"
             },
@@ -80305,7 +80305,7 @@ I = [
                 "part_person": [
                     1142
                 ],
-                "place": 473,
+                "place": 706,
                 "text": "",
                 "type": "Death"
             },
@@ -80320,7 +80320,7 @@ I = [
                 "part_person": [
                     1142
                 ],
-                "place": 468,
+                "place": 698,
                 "text": "",
                 "type": "Burial"
             }
@@ -80382,7 +80382,7 @@ I = [
                 "part_person": [
                     1143
                 ],
-                "place": 353,
+                "place": 508,
                 "text": "",
                 "type": "Birth"
             },
@@ -80397,7 +80397,7 @@ I = [
                 "part_person": [
                     1143
                 ],
-                "place": 429,
+                "place": 630,
                 "text": "",
                 "type": "Death"
             }
@@ -80619,7 +80619,7 @@ I = [
                 "part_person": [
                     1147
                 ],
-                "place": 334,
+                "place": 479,
                 "text": "",
                 "type": "Birth"
             },
@@ -80634,7 +80634,7 @@ I = [
                 "part_person": [
                     1147
                 ],
-                "place": 153,
+                "place": 213,
                 "text": "",
                 "type": "Death"
             },
@@ -80649,7 +80649,7 @@ I = [
                 "part_person": [
                     1147
                 ],
-                "place": 252,
+                "place": 367,
                 "text": "",
                 "type": "Burial"
             }
@@ -80718,7 +80718,7 @@ I = [
                 "part_person": [
                     1148
                 ],
-                "place": 81,
+                "place": 109,
                 "text": "",
                 "type": "Birth"
             },
@@ -80733,7 +80733,7 @@ I = [
                 "part_person": [
                     1148
                 ],
-                "place": 365,
+                "place": 527,
                 "text": "",
                 "type": "Death"
             },
@@ -80748,7 +80748,7 @@ I = [
                 "part_person": [
                     1148
                 ],
-                "place": 602,
+                "place": 914,
                 "text": "",
                 "type": "Burial"
             }
@@ -80847,7 +80847,7 @@ I = [
                 "part_person": [
                     1149
                 ],
-                "place": 591,
+                "place": 900,
                 "text": "",
                 "type": "Burial"
             }
@@ -80967,7 +80967,7 @@ I = [
                 "part_person": [
                     1151
                 ],
-                "place": 407,
+                "place": 594,
                 "text": "",
                 "type": "Birth"
             },
@@ -80982,7 +80982,7 @@ I = [
                 "part_person": [
                     1151
                 ],
-                "place": 729,
+                "place": 1083,
                 "text": "",
                 "type": "Death"
             },
@@ -80997,7 +80997,7 @@ I = [
                 "part_person": [
                     1151
                 ],
-                "place": 413,
+                "place": 606,
                 "text": "",
                 "type": "Burial"
             }
@@ -81066,7 +81066,7 @@ I = [
                 "part_person": [
                     1152
                 ],
-                "place": 601,
+                "place": 913,
                 "text": "",
                 "type": "Birth"
             }
@@ -81133,7 +81133,7 @@ I = [
                 "part_person": [
                     1153
                 ],
-                "place": 799,
+                "place": 1199,
                 "text": "",
                 "type": "Birth"
             }
@@ -81255,7 +81255,7 @@ I = [
                 "part_person": [
                     1155
                 ],
-                "place": 601,
+                "place": 913,
                 "text": "",
                 "type": "Birth"
             },
@@ -81270,7 +81270,7 @@ I = [
                 "part_person": [
                     1155
                 ],
-                "place": 410,
+                "place": 598,
                 "text": "",
                 "type": "Death"
             }
@@ -81443,7 +81443,7 @@ I = [
                 "part_person": [
                     1158
                 ],
-                "place": 85,
+                "place": 113,
                 "text": "",
                 "type": "Birth"
             }
@@ -81713,7 +81713,7 @@ I = [
                 "part_person": [
                     1162
                 ],
-                "place": 123,
+                "place": 168,
                 "text": "",
                 "type": "Death"
             }
@@ -81774,7 +81774,7 @@ I = [
                 "part_person": [
                     1163
                 ],
-                "place": 8,
+                "place": 16,
                 "text": "",
                 "type": "Birth"
             },
@@ -81789,7 +81789,7 @@ I = [
                 "part_person": [
                     1163
                 ],
-                "place": 334,
+                "place": 479,
                 "text": "",
                 "type": "Death"
             }
@@ -81858,7 +81858,7 @@ I = [
                 "part_person": [
                     1164
                 ],
-                "place": 495,
+                "place": 738,
                 "text": "",
                 "type": "Birth"
             },
@@ -81873,7 +81873,7 @@ I = [
                 "part_person": [
                     1164
                 ],
-                "place": 123,
+                "place": 168,
                 "text": "",
                 "type": "Death"
             }
@@ -82009,7 +82009,7 @@ I = [
                 "part_person": [
                     1166
                 ],
-                "place": 601,
+                "place": 913,
                 "text": "",
                 "type": "Birth"
             },
@@ -82311,7 +82311,7 @@ I = [
                 "part_person": [
                     1170
                 ],
-                "place": 657,
+                "place": 990,
                 "text": "",
                 "type": "Birth"
             },
@@ -82326,7 +82326,7 @@ I = [
                 "part_person": [
                     1170
                 ],
-                "place": 691,
+                "place": 1034,
                 "text": "",
                 "type": "Death"
             }
@@ -82515,7 +82515,7 @@ I = [
                 "part_person": [
                     1173
                 ],
-                "place": 601,
+                "place": 913,
                 "text": "",
                 "type": "Birth"
             }
@@ -82893,7 +82893,7 @@ I = [
                 "part_person": [
                     1179
                 ],
-                "place": 601,
+                "place": 913,
                 "text": "",
                 "type": "Birth"
             }
@@ -83023,7 +83023,7 @@ I = [
                 "part_person": [
                     1181
                 ],
-                "place": 9,
+                "place": 15,
                 "text": "",
                 "type": "Death"
             }
@@ -83084,7 +83084,7 @@ I = [
                 "part_person": [
                     1182
                 ],
-                "place": 633,
+                "place": 956,
                 "text": "",
                 "type": "Death"
             }
@@ -83145,7 +83145,7 @@ I = [
                 "part_person": [
                     1183
                 ],
-                "place": 594,
+                "place": 904,
                 "text": "",
                 "type": "Birth"
             }
@@ -83212,7 +83212,7 @@ I = [
                 "part_person": [
                     1184
                 ],
-                "place": 594,
+                "place": 904,
                 "text": "",
                 "type": "Birth"
             }
@@ -83279,7 +83279,7 @@ I = [
                 "part_person": [
                     1185
                 ],
-                "place": 658,
+                "place": 991,
                 "text": "",
                 "type": "Birth"
             },
@@ -83294,7 +83294,7 @@ I = [
                 "part_person": [
                     1185
                 ],
-                "place": 719,
+                "place": 1071,
                 "text": "",
                 "type": "Death"
             },
@@ -83309,7 +83309,7 @@ I = [
                 "part_person": [
                     1185
                 ],
-                "place": 261,
+                "place": 379,
                 "text": "",
                 "type": "Burial"
             }
@@ -83378,7 +83378,7 @@ I = [
                 "part_person": [
                     1186
                 ],
-                "place": 139,
+                "place": 188,
                 "text": "",
                 "type": "Birth"
             },
@@ -83393,7 +83393,7 @@ I = [
                 "part_person": [
                     1186
                 ],
-                "place": 261,
+                "place": 379,
                 "text": "",
                 "type": "Death"
             },
@@ -83408,7 +83408,7 @@ I = [
                 "part_person": [
                     1186
                 ],
-                "place": 261,
+                "place": 379,
                 "text": "",
                 "type": "Burial"
             }
@@ -83477,7 +83477,7 @@ I = [
                 "part_person": [
                     1187
                 ],
-                "place": 594,
+                "place": 904,
                 "text": "",
                 "type": "Birth"
             }
@@ -83544,7 +83544,7 @@ I = [
                 "part_person": [
                     1188
                 ],
-                "place": 594,
+                "place": 904,
                 "text": "",
                 "type": "Birth"
             }
@@ -83611,7 +83611,7 @@ I = [
                 "part_person": [
                     1189
                 ],
-                "place": 594,
+                "place": 904,
                 "text": "",
                 "type": "Birth"
             }
@@ -83678,7 +83678,7 @@ I = [
                 "part_person": [
                     1190
                 ],
-                "place": 594,
+                "place": 904,
                 "text": "",
                 "type": "Birth"
             }
@@ -83745,7 +83745,7 @@ I = [
                 "part_person": [
                     1191
                 ],
-                "place": 594,
+                "place": 904,
                 "text": "",
                 "type": "Birth"
             }
@@ -83812,7 +83812,7 @@ I = [
                 "part_person": [
                     1192
                 ],
-                "place": 461,
+                "place": 680,
                 "text": "",
                 "type": "Birth"
             },
@@ -83827,7 +83827,7 @@ I = [
                 "part_person": [
                     1192
                 ],
-                "place": 257,
+                "place": 373,
                 "text": "",
                 "type": "Death"
             },
@@ -83842,7 +83842,7 @@ I = [
                 "part_person": [
                     1192
                 ],
-                "place": 724,
+                "place": 1077,
                 "text": "",
                 "type": "Burial"
             }
@@ -83903,7 +83903,7 @@ I = [
                 "part_person": [
                     1193
                 ],
-                "place": 192,
+                "place": 273,
                 "text": "",
                 "type": "Birth"
             },
@@ -83979,7 +83979,7 @@ I = [
                 "part_person": [
                     1194
                 ],
-                "place": 539,
+                "place": 813,
                 "text": "",
                 "type": "Birth"
             },
@@ -84061,7 +84061,7 @@ I = [
                 "part_person": [
                     1195
                 ],
-                "place": 539,
+                "place": 813,
                 "text": "",
                 "type": "Birth"
             },
@@ -84188,7 +84188,7 @@ I = [
                 "part_person": [
                     1197
                 ],
-                "place": 118,
+                "place": 163,
                 "text": "",
                 "type": "Death"
             }
@@ -84249,7 +84249,7 @@ I = [
                 "part_person": [
                     1198
                 ],
-                "place": 118,
+                "place": 163,
                 "text": "",
                 "type": "Birth"
             }
@@ -84316,7 +84316,7 @@ I = [
                 "part_person": [
                     1199
                 ],
-                "place": 118,
+                "place": 163,
                 "text": "",
                 "type": "Birth"
             }
@@ -84383,7 +84383,7 @@ I = [
                 "part_person": [
                     1200
                 ],
-                "place": 118,
+                "place": 163,
                 "text": "",
                 "type": "Birth"
             }
@@ -84450,7 +84450,7 @@ I = [
                 "part_person": [
                     1201
                 ],
-                "place": 118,
+                "place": 163,
                 "text": "",
                 "type": "Birth"
             }
@@ -84517,7 +84517,7 @@ I = [
                 "part_person": [
                     1202
                 ],
-                "place": 118,
+                "place": 163,
                 "text": "",
                 "type": "Birth"
             }
@@ -84584,7 +84584,7 @@ I = [
                 "part_person": [
                     1203
                 ],
-                "place": 118,
+                "place": 163,
                 "text": "",
                 "type": "Birth"
             }
@@ -84651,7 +84651,7 @@ I = [
                 "part_person": [
                     1204
                 ],
-                "place": 428,
+                "place": 628,
                 "text": "",
                 "type": "Birth"
             },
@@ -84666,7 +84666,7 @@ I = [
                 "part_person": [
                     1204
                 ],
-                "place": 222,
+                "place": 323,
                 "text": "",
                 "type": "Death"
             },
@@ -84681,7 +84681,7 @@ I = [
                 "part_person": [
                     1204
                 ],
-                "place": 522,
+                "place": 784,
                 "text": "",
                 "type": "Burial"
             }
@@ -84887,7 +84887,7 @@ I = [
                 "part_person": [
                     1208
                 ],
-                "place": 810,
+                "place": 1221,
                 "text": "",
                 "type": "Birth"
             }
@@ -84954,7 +84954,7 @@ I = [
                 "part_person": [
                     1209
                 ],
-                "place": 810,
+                "place": 1221,
                 "text": "",
                 "type": "Birth"
             }
@@ -85066,7 +85066,7 @@ I = [
                 "part_person": [
                     1211
                 ],
-                "place": 810,
+                "place": 1221,
                 "text": "",
                 "type": "Birth"
             }
@@ -85263,7 +85263,7 @@ I = [
                 "part_person": [
                     1214
                 ],
-                "place": 851,
+                "place": 1287,
                 "text": "",
                 "type": "Birth"
             },
@@ -85278,7 +85278,7 @@ I = [
                 "part_person": [
                     1214
                 ],
-                "place": 743,
+                "place": 1104,
                 "text": "",
                 "type": "Death"
             },
@@ -85354,7 +85354,7 @@ I = [
                 "part_person": [
                     1215
                 ],
-                "place": 743,
+                "place": 1104,
                 "text": "",
                 "type": "Birth"
             },
@@ -85369,7 +85369,7 @@ I = [
                 "part_person": [
                     1215
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Death"
             },
@@ -85525,7 +85525,7 @@ I = [
                 "part_person": [
                     1217
                 ],
-                "place": 276,
+                "place": 399,
                 "text": "",
                 "type": "Birth"
             }
@@ -85635,7 +85635,7 @@ I = [
                 "part_person": [
                     1219
                 ],
-                "place": 597,
+                "place": 908,
                 "text": "",
                 "type": "Birth"
             }
@@ -85702,7 +85702,7 @@ I = [
                 "part_person": [
                     1220
                 ],
-                "place": 597,
+                "place": 908,
                 "text": "",
                 "type": "Birth"
             },
@@ -85717,7 +85717,7 @@ I = [
                 "part_person": [
                     1220
                 ],
-                "place": 561,
+                "place": 849,
                 "text": "",
                 "type": "Death"
             }
@@ -85786,7 +85786,7 @@ I = [
                 "part_person": [
                     1221
                 ],
-                "place": 597,
+                "place": 908,
                 "text": "",
                 "type": "Birth"
             }
@@ -85853,7 +85853,7 @@ I = [
                 "part_person": [
                     1222
                 ],
-                "place": 307,
+                "place": 443,
                 "text": "",
                 "type": "Birth"
             }
@@ -85922,7 +85922,7 @@ I = [
                 "part_person": [
                     1223
                 ],
-                "place": 597,
+                "place": 908,
                 "text": "",
                 "type": "Birth"
             }
@@ -85989,7 +85989,7 @@ I = [
                 "part_person": [
                     1224
                 ],
-                "place": 597,
+                "place": 908,
                 "text": "",
                 "type": "Birth"
             }
@@ -86050,7 +86050,7 @@ I = [
                 "part_person": [
                     1225
                 ],
-                "place": 189,
+                "place": 267,
                 "text": "",
                 "type": "Birth"
             },
@@ -86065,7 +86065,7 @@ I = [
                 "part_person": [
                     1225
                 ],
-                "place": 561,
+                "place": 849,
                 "text": "",
                 "type": "Death"
             }
@@ -86134,7 +86134,7 @@ I = [
                 "part_person": [
                     1226
                 ],
-                "place": 597,
+                "place": 908,
                 "text": "",
                 "type": "Birth"
             }
@@ -86203,7 +86203,7 @@ I = [
                 "part_person": [
                     1227
                 ],
-                "place": 494,
+                "place": 737,
                 "text": "",
                 "type": "Birth"
             },
@@ -86377,7 +86377,7 @@ I = [
                 "part_person": [
                     1230
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -86535,7 +86535,7 @@ I = [
                 "part_person": [
                     1232
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -86617,7 +86617,7 @@ I = [
                 "part_person": [
                     1233
                 ],
-                "place": 830,
+                "place": 1256,
                 "text": "",
                 "type": "Birth"
             },
@@ -86632,7 +86632,7 @@ I = [
                 "part_person": [
                     1233
                 ],
-                "place": 830,
+                "place": 1256,
                 "text": "",
                 "type": "Death"
             }
@@ -86869,7 +86869,7 @@ I = [
                 "part_person": [
                     1238
                 ],
-                "place": 20,
+                "place": 29,
                 "text": "",
                 "type": "Birth"
             },
@@ -86945,7 +86945,7 @@ I = [
                 "part_person": [
                     1239
                 ],
-                "place": 718,
+                "place": 1070,
                 "text": "",
                 "type": "Birth"
             },
@@ -86960,7 +86960,7 @@ I = [
                 "part_person": [
                     1239
                 ],
-                "place": 296,
+                "place": 427,
                 "text": "",
                 "type": "Death"
             },
@@ -86975,7 +86975,7 @@ I = [
                 "part_person": [
                     1239
                 ],
-                "place": 721,
+                "place": 1073,
                 "text": "",
                 "type": "Burial"
             }
@@ -87044,7 +87044,7 @@ I = [
                 "part_person": [
                     1240
                 ],
-                "place": 654,
+                "place": 987,
                 "text": "",
                 "type": "Birth"
             },
@@ -87059,7 +87059,7 @@ I = [
                 "part_person": [
                     1240
                 ],
-                "place": 28,
+                "place": 37,
                 "text": "",
                 "type": "Death"
             },
@@ -87074,7 +87074,7 @@ I = [
                 "part_person": [
                     1240
                 ],
-                "place": 394,
+                "place": 579,
                 "text": "",
                 "type": "Burial"
             }
@@ -87144,7 +87144,7 @@ I = [
                 "part_person": [
                     1241
                 ],
-                "place": 610,
+                "place": 925,
                 "text": "",
                 "type": "Birth"
             }
@@ -87357,7 +87357,7 @@ I = [
                 "part_person": [
                     1244
                 ],
-                "place": 594,
+                "place": 904,
                 "text": "",
                 "type": "Death"
             }
@@ -87494,7 +87494,7 @@ I = [
                 "part_person": [
                     1246
                 ],
-                "place": 761,
+                "place": 1133,
                 "text": "",
                 "type": "Birth"
             },
@@ -87576,7 +87576,7 @@ I = [
                 "part_person": [
                     1247
                 ],
-                "place": 766,
+                "place": 1144,
                 "text": "",
                 "type": "Birth"
             },
@@ -87591,7 +87591,7 @@ I = [
                 "part_person": [
                     1247
                 ],
-                "place": 158,
+                "place": 218,
                 "text": "",
                 "type": "Death"
             }
@@ -87705,7 +87705,7 @@ I = [
                 "part_person": [
                     1249
                 ],
-                "place": 661,
+                "place": 994,
                 "text": "",
                 "type": "Birth"
             },
@@ -87720,7 +87720,7 @@ I = [
                 "part_person": [
                     1249
                 ],
-                "place": 548,
+                "place": 828,
                 "text": "",
                 "type": "Death"
             },
@@ -87735,7 +87735,7 @@ I = [
                 "part_person": [
                     1249
                 ],
-                "place": 548,
+                "place": 828,
                 "text": "",
                 "type": "Burial"
             }
@@ -87804,7 +87804,7 @@ I = [
                 "part_person": [
                     1250
                 ],
-                "place": 548,
+                "place": 828,
                 "text": "",
                 "type": "Death"
             }
@@ -87918,7 +87918,7 @@ I = [
                 "part_person": [
                     1252
                 ],
-                "place": 461,
+                "place": 680,
                 "text": "",
                 "type": "Birth"
             },
@@ -88159,7 +88159,7 @@ I = [
                 "part_person": [
                     1256
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -88174,7 +88174,7 @@ I = [
                 "part_person": [
                     1256
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Death"
             },
@@ -88189,7 +88189,7 @@ I = [
                 "part_person": [
                     1256
                 ],
-                "place": 82,
+                "place": 110,
                 "text": "",
                 "type": "Burial"
             }
@@ -88256,7 +88256,7 @@ I = [
                 "part_person": [
                     1257
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -88582,7 +88582,7 @@ I = [
                 "part_person": [
                     1261
                 ],
-                "place": 843,
+                "place": 1273,
                 "text": "",
                 "type": "Birth"
             },
@@ -88883,7 +88883,7 @@ I = [
                 "part_person": [
                     1266
                 ],
-                "place": 585,
+                "place": 891,
                 "text": "",
                 "type": "Birth"
             },
@@ -88898,7 +88898,7 @@ I = [
                 "part_person": [
                     1266
                 ],
-                "place": 242,
+                "place": 352,
                 "text": "",
                 "type": "Death"
             },
@@ -88913,7 +88913,7 @@ I = [
                 "part_person": [
                     1266
                 ],
-                "place": 585,
+                "place": 891,
                 "text": "",
                 "type": "Burial"
             }
@@ -88982,7 +88982,7 @@ I = [
                 "part_person": [
                     1267
                 ],
-                "place": 597,
+                "place": 908,
                 "text": "",
                 "type": "Birth"
             }
@@ -89051,7 +89051,7 @@ I = [
                 "part_person": [
                     1268
                 ],
-                "place": 597,
+                "place": 908,
                 "text": "",
                 "type": "Birth"
             },
@@ -89066,7 +89066,7 @@ I = [
                 "part_person": [
                     1268
                 ],
-                "place": 9,
+                "place": 15,
                 "text": "",
                 "type": "Death"
             }
@@ -89135,7 +89135,7 @@ I = [
                 "part_person": [
                     1269
                 ],
-                "place": 114,
+                "place": 154,
                 "text": "",
                 "type": "Birth"
             },
@@ -89217,7 +89217,7 @@ I = [
                 "part_person": [
                     1270
                 ],
-                "place": 585,
+                "place": 891,
                 "text": "",
                 "type": "Birth"
             },
@@ -89232,7 +89232,7 @@ I = [
                 "part_person": [
                     1270
                 ],
-                "place": 698,
+                "place": 1044,
                 "text": "",
                 "type": "Death"
             },
@@ -89247,7 +89247,7 @@ I = [
                 "part_person": [
                     1270
                 ],
-                "place": 345,
+                "place": 494,
                 "text": "",
                 "type": "Burial"
             }
@@ -89316,7 +89316,7 @@ I = [
                 "part_person": [
                     1271
                 ],
-                "place": 596,
+                "place": 906,
                 "text": "",
                 "type": "Birth"
             },
@@ -89398,7 +89398,7 @@ I = [
                 "part_person": [
                     1272
                 ],
-                "place": 816,
+                "place": 1228,
                 "text": "",
                 "type": "Birth"
             },
@@ -89413,7 +89413,7 @@ I = [
                 "part_person": [
                     1272
                 ],
-                "place": 621,
+                "place": 939,
                 "text": "",
                 "type": "Death"
             },
@@ -89428,7 +89428,7 @@ I = [
                 "part_person": [
                     1272
                 ],
-                "place": 621,
+                "place": 939,
                 "text": "",
                 "type": "Burial"
             }
@@ -89497,7 +89497,7 @@ I = [
                 "part_person": [
                     1273
                 ],
-                "place": 776,
+                "place": 1159,
                 "text": "",
                 "type": "Birth"
             },
@@ -89512,7 +89512,7 @@ I = [
                 "part_person": [
                     1273
                 ],
-                "place": 776,
+                "place": 1159,
                 "text": "",
                 "type": "Death"
             }
@@ -89579,7 +89579,7 @@ I = [
                 "part_person": [
                     1274
                 ],
-                "place": 693,
+                "place": 1036,
                 "text": "",
                 "type": "Birth"
             },
@@ -89661,7 +89661,7 @@ I = [
                 "part_person": [
                     1275
                 ],
-                "place": 825,
+                "place": 1244,
                 "text": "",
                 "type": "Birth"
             },
@@ -89745,7 +89745,7 @@ I = [
                 "part_person": [
                     1276
                 ],
-                "place": 825,
+                "place": 1244,
                 "text": "",
                 "type": "Birth"
             },
@@ -89882,7 +89882,7 @@ I = [
                 "part_person": [
                     1278
                 ],
-                "place": 585,
+                "place": 891,
                 "text": "",
                 "type": "Birth"
             },
@@ -89897,7 +89897,7 @@ I = [
                 "part_person": [
                     1278
                 ],
-                "place": 153,
+                "place": 213,
                 "text": "",
                 "type": "Death"
             },
@@ -89912,7 +89912,7 @@ I = [
                 "part_person": [
                     1278
                 ],
-                "place": 63,
+                "place": 82,
                 "text": "",
                 "type": "Burial"
             }
@@ -89981,7 +89981,7 @@ I = [
                 "part_person": [
                     1279
                 ],
-                "place": 95,
+                "place": 128,
                 "text": "",
                 "type": "Birth"
             },
@@ -90066,7 +90066,7 @@ I = [
                 "part_person": [
                     1280
                 ],
-                "place": 585,
+                "place": 891,
                 "text": "",
                 "type": "Birth"
             },
@@ -90081,7 +90081,7 @@ I = [
                 "part_person": [
                     1280
                 ],
-                "place": 153,
+                "place": 213,
                 "text": "",
                 "type": "Death"
             },
@@ -90096,7 +90096,7 @@ I = [
                 "part_person": [
                     1280
                 ],
-                "place": 585,
+                "place": 891,
                 "text": "",
                 "type": "Burial"
             }
@@ -90165,7 +90165,7 @@ I = [
                 "part_person": [
                     1281
                 ],
-                "place": 816,
+                "place": 1228,
                 "text": "",
                 "type": "Birth"
             },
@@ -90300,7 +90300,7 @@ I = [
                 "part_person": [
                     1283
                 ],
-                "place": 642,
+                "place": 970,
                 "text": "",
                 "type": "Birth"
             }
@@ -90367,7 +90367,7 @@ I = [
                 "part_person": [
                     1284
                 ],
-                "place": 263,
+                "place": 381,
                 "text": "",
                 "type": "Birth"
             }
@@ -90436,7 +90436,7 @@ I = [
                 "part_person": [
                     1285
                 ],
-                "place": 642,
+                "place": 970,
                 "text": "",
                 "type": "Birth"
             },
@@ -90451,7 +90451,7 @@ I = [
                 "part_person": [
                     1285
                 ],
-                "place": 104,
+                "place": 139,
                 "text": "",
                 "type": "Death"
             }
@@ -90520,7 +90520,7 @@ I = [
                 "part_person": [
                     1286
                 ],
-                "place": 642,
+                "place": 970,
                 "text": "",
                 "type": "Birth"
             },
@@ -90535,7 +90535,7 @@ I = [
                 "part_person": [
                     1286
                 ],
-                "place": 776,
+                "place": 1159,
                 "text": "",
                 "type": "Death"
             },
@@ -90550,7 +90550,7 @@ I = [
                 "part_person": [
                     1286
                 ],
-                "place": 585,
+                "place": 891,
                 "text": "",
                 "type": "Burial"
             }
@@ -90668,7 +90668,7 @@ I = [
                 "part_person": [
                     1288
                 ],
-                "place": 543,
+                "place": 821,
                 "text": "",
                 "type": "Birth"
             },
@@ -90683,7 +90683,7 @@ I = [
                 "part_person": [
                     1288
                 ],
-                "place": 621,
+                "place": 939,
                 "text": "",
                 "type": "Death"
             },
@@ -90698,7 +90698,7 @@ I = [
                 "part_person": [
                     1288
                 ],
-                "place": 621,
+                "place": 939,
                 "text": "",
                 "type": "Burial"
             }
@@ -90759,7 +90759,7 @@ I = [
                 "part_person": [
                     1289
                 ],
-                "place": 91,
+                "place": 122,
                 "text": "",
                 "type": "Birth"
             }
@@ -90826,7 +90826,7 @@ I = [
                 "part_person": [
                     1290
                 ],
-                "place": 189,
+                "place": 267,
                 "text": "",
                 "type": "Birth"
             },
@@ -90841,7 +90841,7 @@ I = [
                 "part_person": [
                     1290
                 ],
-                "place": 776,
+                "place": 1159,
                 "text": "",
                 "type": "Death"
             },
@@ -90856,7 +90856,7 @@ I = [
                 "part_person": [
                     1290
                 ],
-                "place": 585,
+                "place": 891,
                 "text": "",
                 "type": "Burial"
             }
@@ -90926,7 +90926,7 @@ I = [
                 "part_person": [
                     1291
                 ],
-                "place": 99,
+                "place": 133,
                 "text": "",
                 "type": "Birth"
             }
@@ -90995,7 +90995,7 @@ I = [
                 "part_person": [
                     1292
                 ],
-                "place": 21,
+                "place": 30,
                 "text": "",
                 "type": "Birth"
             }
@@ -91062,7 +91062,7 @@ I = [
                 "part_person": [
                     1293
                 ],
-                "place": 543,
+                "place": 821,
                 "text": "",
                 "type": "Birth"
             },
@@ -91077,7 +91077,7 @@ I = [
                 "part_person": [
                     1293
                 ],
-                "place": 561,
+                "place": 849,
                 "text": "",
                 "type": "Death"
             },
@@ -91092,7 +91092,7 @@ I = [
                 "part_person": [
                     1293
                 ],
-                "place": 621,
+                "place": 939,
                 "text": "",
                 "type": "Burial"
             }
@@ -91161,7 +91161,7 @@ I = [
                 "part_person": [
                     1294
                 ],
-                "place": 825,
+                "place": 1244,
                 "text": "",
                 "type": "Birth"
             },
@@ -91245,7 +91245,7 @@ I = [
                 "part_person": [
                     1295
                 ],
-                "place": 597,
+                "place": 908,
                 "text": "",
                 "type": "Birth"
             },
@@ -91260,7 +91260,7 @@ I = [
                 "part_person": [
                     1295
                 ],
-                "place": 597,
+                "place": 908,
                 "text": "",
                 "type": "Death"
             }
@@ -91329,7 +91329,7 @@ I = [
                 "part_person": [
                     1296
                 ],
-                "place": 21,
+                "place": 30,
                 "text": "",
                 "type": "Birth"
             }
@@ -91396,7 +91396,7 @@ I = [
                 "part_person": [
                     1297
                 ],
-                "place": 597,
+                "place": 908,
                 "text": "",
                 "type": "Birth"
             },
@@ -91411,7 +91411,7 @@ I = [
                 "part_person": [
                     1297
                 ],
-                "place": 118,
+                "place": 163,
                 "text": "",
                 "type": "Death"
             }
@@ -91480,7 +91480,7 @@ I = [
                 "part_person": [
                     1298
                 ],
-                "place": 184,
+                "place": 258,
                 "text": "",
                 "type": "Birth"
             },
@@ -91495,7 +91495,7 @@ I = [
                 "part_person": [
                     1298
                 ],
-                "place": 103,
+                "place": 138,
                 "text": "",
                 "type": "Death"
             },
@@ -91510,7 +91510,7 @@ I = [
                 "part_person": [
                     1298
                 ],
-                "place": 621,
+                "place": 939,
                 "text": "",
                 "type": "Burial"
             }
@@ -91577,7 +91577,7 @@ I = [
                 "part_person": [
                     1299
                 ],
-                "place": 642,
+                "place": 970,
                 "text": "",
                 "type": "Birth"
             }
@@ -91646,7 +91646,7 @@ I = [
                 "part_person": [
                     1300
                 ],
-                "place": 693,
+                "place": 1036,
                 "text": "",
                 "type": "Birth"
             },
@@ -91773,7 +91773,7 @@ I = [
                 "part_person": [
                     1302
                 ],
-                "place": 597,
+                "place": 908,
                 "text": "",
                 "type": "Birth"
             },
@@ -91788,7 +91788,7 @@ I = [
                 "part_person": [
                     1302
                 ],
-                "place": 597,
+                "place": 908,
                 "text": "",
                 "type": "Death"
             }
@@ -91924,7 +91924,7 @@ I = [
                 "part_person": [
                     1304
                 ],
-                "place": 597,
+                "place": 908,
                 "text": "",
                 "type": "Birth"
             },
@@ -91939,7 +91939,7 @@ I = [
                 "part_person": [
                     1304
                 ],
-                "place": 561,
+                "place": 849,
                 "text": "",
                 "type": "Death"
             }
@@ -92008,7 +92008,7 @@ I = [
                 "part_person": [
                     1305
                 ],
-                "place": 263,
+                "place": 381,
                 "text": "",
                 "type": "Death"
             }
@@ -92171,7 +92171,7 @@ I = [
                 "part_person": [
                     1308
                 ],
-                "place": 825,
+                "place": 1244,
                 "text": "",
                 "type": "Birth"
             },
@@ -92255,7 +92255,7 @@ I = [
                 "part_person": [
                     1309
                 ],
-                "place": 693,
+                "place": 1036,
                 "text": "",
                 "type": "Birth"
             },
@@ -92337,7 +92337,7 @@ I = [
                 "part_person": [
                     1310
                 ],
-                "place": 294,
+                "place": 425,
                 "text": "",
                 "type": "Birth"
             },
@@ -92556,7 +92556,7 @@ I = [
                 "part_person": [
                     1314
                 ],
-                "place": 734,
+                "place": 1087,
                 "text": "",
                 "type": "Death"
             }
@@ -92670,7 +92670,7 @@ I = [
                 "part_person": [
                     1316
                 ],
-                "place": 483,
+                "place": 723,
                 "text": "",
                 "type": "Birth"
             },
@@ -92685,7 +92685,7 @@ I = [
                 "part_person": [
                     1316
                 ],
-                "place": 155,
+                "place": 215,
                 "text": "",
                 "type": "Death"
             },
@@ -92700,7 +92700,7 @@ I = [
                 "part_person": [
                     1316
                 ],
-                "place": 210,
+                "place": 304,
                 "text": "",
                 "type": "Burial"
             }
@@ -92769,7 +92769,7 @@ I = [
                 "part_person": [
                     1317
                 ],
-                "place": 690,
+                "place": 1033,
                 "text": "",
                 "type": "Birth"
             },
@@ -92784,7 +92784,7 @@ I = [
                 "part_person": [
                     1317
                 ],
-                "place": 484,
+                "place": 719,
                 "text": "",
                 "type": "Death"
             },
@@ -92799,7 +92799,7 @@ I = [
                 "part_person": [
                     1317
                 ],
-                "place": 484,
+                "place": 719,
                 "text": "",
                 "type": "Burial"
             }
@@ -93117,7 +93117,7 @@ I = [
                 "part_person": [
                     1323
                 ],
-                "place": 686,
+                "place": 1026,
                 "text": "",
                 "type": "Birth"
             }
@@ -93387,7 +93387,7 @@ I = [
                 "part_person": [
                     1328
                 ],
-                "place": 542,
+                "place": 815,
                 "text": "",
                 "type": "Death"
             }
@@ -93652,7 +93652,7 @@ I = [
                 "part_person": [
                     1333
                 ],
-                "place": 807,
+                "place": 1216,
                 "text": "",
                 "type": "Death"
             }
@@ -93878,7 +93878,7 @@ I = [
                 "part_person": [
                     1337
                 ],
-                "place": 707,
+                "place": 1057,
                 "text": "",
                 "type": "Death"
             }
@@ -93939,7 +93939,7 @@ I = [
                 "part_person": [
                     1338
                 ],
-                "place": 201,
+                "place": 288,
                 "text": "",
                 "type": "Birth"
             }
@@ -94059,7 +94059,7 @@ I = [
                 "part_person": [
                     1340
                 ],
-                "place": 454,
+                "place": 669,
                 "text": "",
                 "type": "Birth"
             },
@@ -94074,7 +94074,7 @@ I = [
                 "part_person": [
                     1340
                 ],
-                "place": 372,
+                "place": 547,
                 "text": "",
                 "type": "Death"
             },
@@ -94089,7 +94089,7 @@ I = [
                 "part_person": [
                     1340
                 ],
-                "place": 372,
+                "place": 547,
                 "text": "",
                 "type": "Burial"
             }
@@ -94158,7 +94158,7 @@ I = [
                 "part_person": [
                     1341
                 ],
-                "place": 747,
+                "place": 1111,
                 "text": "",
                 "type": "Birth"
             }
@@ -94225,7 +94225,7 @@ I = [
                 "part_person": [
                     1342
                 ],
-                "place": 428,
+                "place": 628,
                 "text": "",
                 "type": "Birth"
             },
@@ -94240,7 +94240,7 @@ I = [
                 "part_person": [
                     1342
                 ],
-                "place": 564,
+                "place": 858,
                 "text": "",
                 "type": "Death"
             },
@@ -94255,7 +94255,7 @@ I = [
                 "part_person": [
                     1342
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Burial"
             }
@@ -94324,7 +94324,7 @@ I = [
                 "part_person": [
                     1343
                 ],
-                "place": 274,
+                "place": 397,
                 "text": "",
                 "type": "Birth"
             },
@@ -94339,7 +94339,7 @@ I = [
                 "part_person": [
                     1343
                 ],
-                "place": 221,
+                "place": 322,
                 "text": "",
                 "type": "Death"
             },
@@ -94354,7 +94354,7 @@ I = [
                 "part_person": [
                     1343
                 ],
-                "place": 221,
+                "place": 322,
                 "text": "",
                 "type": "Burial"
             }
@@ -94415,7 +94415,7 @@ I = [
                 "part_person": [
                     1344
                 ],
-                "place": 221,
+                "place": 322,
                 "text": "",
                 "type": "Birth"
             },
@@ -94430,7 +94430,7 @@ I = [
                 "part_person": [
                     1344
                 ],
-                "place": 221,
+                "place": 322,
                 "text": "",
                 "type": "Death"
             },
@@ -94445,7 +94445,7 @@ I = [
                 "part_person": [
                     1344
                 ],
-                "place": 221,
+                "place": 322,
                 "text": "",
                 "type": "Burial"
             }
@@ -94718,7 +94718,7 @@ I = [
                 "part_person": [
                     1349
                 ],
-                "place": 201,
+                "place": 288,
                 "text": "",
                 "type": "Birth"
             }
@@ -94953,7 +94953,7 @@ I = [
                 "part_person": [
                     1353
                 ],
-                "place": 439,
+                "place": 649,
                 "text": "",
                 "type": "Birth"
             },
@@ -94968,7 +94968,7 @@ I = [
                 "part_person": [
                     1353
                 ],
-                "place": 843,
+                "place": 1273,
                 "text": "",
                 "type": "Death"
             }
@@ -95525,7 +95525,7 @@ I = [
                 "part_person": [
                     1363
                 ],
-                "place": 677,
+                "place": 1012,
                 "text": "",
                 "type": "Birth"
             },
@@ -95540,7 +95540,7 @@ I = [
                 "part_person": [
                     1363
                 ],
-                "place": 423,
+                "place": 622,
                 "text": "",
                 "type": "Death"
             },
@@ -95555,7 +95555,7 @@ I = [
                 "part_person": [
                     1363
                 ],
-                "place": 458,
+                "place": 675,
                 "text": "",
                 "type": "Burial"
             }
@@ -95745,7 +95745,7 @@ I = [
                 "part_person": [
                     1366
                 ],
-                "place": 348,
+                "place": 502,
                 "text": "",
                 "type": "Birth"
             },
@@ -95760,7 +95760,7 @@ I = [
                 "part_person": [
                     1366
                 ],
-                "place": 267,
+                "place": 388,
                 "text": "",
                 "type": "Death"
             },
@@ -95775,7 +95775,7 @@ I = [
                 "part_person": [
                     1366
                 ],
-                "place": 224,
+                "place": 325,
                 "text": "",
                 "type": "Burial"
             }
@@ -95889,7 +95889,7 @@ I = [
                 "part_person": [
                     1368
                 ],
-                "place": 203,
+                "place": 295,
                 "text": "",
                 "type": "Birth"
             },
@@ -96010,7 +96010,7 @@ I = [
                 "part_person": [
                     1370
                 ],
-                "place": 198,
+                "place": 281,
                 "text": "",
                 "type": "Birth"
             },
@@ -96025,7 +96025,7 @@ I = [
                 "part_person": [
                     1370
                 ],
-                "place": 41,
+                "place": 54,
                 "text": "",
                 "type": "Death"
             }
@@ -96198,7 +96198,7 @@ I = [
                 "part_person": [
                     1373
                 ],
-                "place": 348,
+                "place": 502,
                 "text": "",
                 "type": "Birth"
             },
@@ -96213,7 +96213,7 @@ I = [
                 "part_person": [
                     1373
                 ],
-                "place": 348,
+                "place": 502,
                 "text": "",
                 "type": "Death"
             }
@@ -96274,7 +96274,7 @@ I = [
                 "part_person": [
                     1374
                 ],
-                "place": 348,
+                "place": 502,
                 "text": "",
                 "type": "Birth"
             },
@@ -96289,7 +96289,7 @@ I = [
                 "part_person": [
                     1374
                 ],
-                "place": 348,
+                "place": 502,
                 "text": "",
                 "type": "Death"
             }
@@ -96462,7 +96462,7 @@ I = [
                 "part_person": [
                     1377
                 ],
-                "place": 219,
+                "place": 319,
                 "text": "",
                 "type": "Birth"
             },
@@ -96546,7 +96546,7 @@ I = [
                 "part_person": [
                     1378
                 ],
-                "place": 22,
+                "place": 31,
                 "text": "",
                 "type": "Birth"
             },
@@ -97234,7 +97234,7 @@ I = [
                 "part_person": [
                     1391
                 ],
-                "place": 791,
+                "place": 1187,
                 "text": "",
                 "type": "Birth"
             },
@@ -97316,7 +97316,7 @@ I = [
                 "part_person": [
                     1392
                 ],
-                "place": 791,
+                "place": 1187,
                 "text": "",
                 "type": "Birth"
             },
@@ -97398,7 +97398,7 @@ I = [
                 "part_person": [
                     1393
                 ],
-                "place": 791,
+                "place": 1187,
                 "text": "",
                 "type": "Birth"
             },
@@ -97556,7 +97556,7 @@ I = [
                 "part_person": [
                     1395
                 ],
-                "place": 175,
+                "place": 248,
                 "text": "",
                 "type": "Birth"
             },
@@ -97571,7 +97571,7 @@ I = [
                 "part_person": [
                     1395
                 ],
-                "place": 513,
+                "place": 771,
                 "text": "",
                 "type": "Burial"
             }
@@ -97632,7 +97632,7 @@ I = [
                 "part_person": [
                     1396
                 ],
-                "place": 693,
+                "place": 1036,
                 "text": "",
                 "type": "Birth"
             },
@@ -97813,7 +97813,7 @@ I = [
                 "part_person": [
                     1399
                 ],
-                "place": 649,
+                "place": 979,
                 "text": "",
                 "type": "Death"
             }
@@ -97874,7 +97874,7 @@ I = [
                 "part_person": [
                     1400
                 ],
-                "place": 542,
+                "place": 815,
                 "text": "",
                 "type": "Birth"
             },
@@ -97889,7 +97889,7 @@ I = [
                 "part_person": [
                     1400
                 ],
-                "place": 207,
+                "place": 300,
                 "text": "",
                 "type": "Death"
             },
@@ -97904,7 +97904,7 @@ I = [
                 "part_person": [
                     1400
                 ],
-                "place": 46,
+                "place": 59,
                 "text": "",
                 "type": "Burial"
             }
@@ -97963,7 +97963,7 @@ I = [
                 "part_person": [
                     1401
                 ],
-                "place": 649,
+                "place": 979,
                 "text": "",
                 "type": "Birth"
             },
@@ -97978,7 +97978,7 @@ I = [
                 "part_person": [
                     1401
                 ],
-                "place": 649,
+                "place": 979,
                 "text": "",
                 "type": "Death"
             }
@@ -98047,7 +98047,7 @@ I = [
                 "part_person": [
                     1402
                 ],
-                "place": 206,
+                "place": 298,
                 "text": "",
                 "type": "Birth"
             }
@@ -98153,7 +98153,7 @@ I = [
                 "part_person": [
                     1404
                 ],
-                "place": 493,
+                "place": 736,
                 "text": "",
                 "type": "Birth"
             }
@@ -98214,7 +98214,7 @@ I = [
                 "part_person": [
                     1405
                 ],
-                "place": 438,
+                "place": 644,
                 "text": "",
                 "type": "Birth"
             },
@@ -98229,7 +98229,7 @@ I = [
                 "part_person": [
                     1405
                 ],
-                "place": 117,
+                "place": 159,
                 "text": "",
                 "type": "Death"
             },
@@ -98244,7 +98244,7 @@ I = [
                 "part_person": [
                     1405
                 ],
-                "place": 812,
+                "place": 1223,
                 "text": "",
                 "type": "Burial"
             }
@@ -98358,7 +98358,7 @@ I = [
                 "part_person": [
                     1407
                 ],
-                "place": 498,
+                "place": 747,
                 "text": "",
                 "type": "Birth"
             },
@@ -98434,7 +98434,7 @@ I = [
                 "part_person": [
                     1408
                 ],
-                "place": 725,
+                "place": 1079,
                 "text": "",
                 "type": "Birth"
             }
@@ -98501,7 +98501,7 @@ I = [
                 "part_person": [
                     1409
                 ],
-                "place": 404,
+                "place": 591,
                 "text": "",
                 "type": "Birth"
             }
@@ -98674,7 +98674,7 @@ I = [
                 "part_person": [
                     1412
                 ],
-                "place": 15,
+                "place": 22,
                 "text": "",
                 "type": "Birth"
             },
@@ -98689,7 +98689,7 @@ I = [
                 "part_person": [
                     1412
                 ],
-                "place": 393,
+                "place": 578,
                 "text": "",
                 "type": "Death"
             }
@@ -98756,7 +98756,7 @@ I = [
                 "part_person": [
                     1413
                 ],
-                "place": 327,
+                "place": 468,
                 "text": "",
                 "type": "Birth"
             },
@@ -98771,7 +98771,7 @@ I = [
                 "part_person": [
                     1413
                 ],
-                "place": 14,
+                "place": 24,
                 "text": "",
                 "type": "Death"
             }
@@ -98838,7 +98838,7 @@ I = [
                 "part_person": [
                     1414
                 ],
-                "place": 562,
+                "place": 852,
                 "text": "",
                 "type": "Birth"
             },
@@ -98975,7 +98975,7 @@ I = [
                 "part_person": [
                     1416
                 ],
-                "place": 327,
+                "place": 468,
                 "text": "",
                 "type": "Birth"
             },
@@ -98990,7 +98990,7 @@ I = [
                 "part_person": [
                     1416
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Death"
             }
@@ -99059,7 +99059,7 @@ I = [
                 "part_person": [
                     1417
                 ],
-                "place": 214,
+                "place": 311,
                 "text": "",
                 "type": "Birth"
             },
@@ -99188,7 +99188,7 @@ I = [
                 "part_person": [
                     1419
                 ],
-                "place": 237,
+                "place": 344,
                 "text": "",
                 "type": "Birth"
             },
@@ -99203,7 +99203,7 @@ I = [
                 "part_person": [
                     1419
                 ],
-                "place": 619,
+                "place": 937,
                 "text": "",
                 "type": "Death"
             }
@@ -99317,7 +99317,7 @@ I = [
                 "part_person": [
                     1421
                 ],
-                "place": 376,
+                "place": 552,
                 "text": "",
                 "type": "Birth"
             }
@@ -99378,7 +99378,7 @@ I = [
                 "part_person": [
                     1422
                 ],
-                "place": 843,
+                "place": 1273,
                 "text": "",
                 "type": "Birth"
             },
@@ -99393,7 +99393,7 @@ I = [
                 "part_person": [
                     1422
                 ],
-                "place": 843,
+                "place": 1273,
                 "text": "",
                 "type": "Death"
             },
@@ -99408,7 +99408,7 @@ I = [
                 "part_person": [
                     1422
                 ],
-                "place": 843,
+                "place": 1273,
                 "text": "",
                 "type": "Burial"
             }
@@ -99478,7 +99478,7 @@ I = [
                 "part_person": [
                     1423
                 ],
-                "place": 538,
+                "place": 812,
                 "text": "",
                 "type": "Birth"
             },
@@ -99493,7 +99493,7 @@ I = [
                 "part_person": [
                     1423
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Death"
             },
@@ -99508,7 +99508,7 @@ I = [
                 "part_person": [
                     1423
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Burial"
             }
@@ -99578,7 +99578,7 @@ I = [
                 "part_person": [
                     1424
                 ],
-                "place": 187,
+                "place": 262,
                 "text": "",
                 "type": "Birth"
             },
@@ -99660,7 +99660,7 @@ I = [
                 "part_person": [
                     1425
                 ],
-                "place": 538,
+                "place": 812,
                 "text": "",
                 "type": "Birth"
             },
@@ -99675,7 +99675,7 @@ I = [
                 "part_person": [
                     1425
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Death"
             }
@@ -99861,7 +99861,7 @@ I = [
                 "part_person": [
                     1428
                 ],
-                "place": 634,
+                "place": 957,
                 "text": "",
                 "type": "Death"
             }
@@ -99930,7 +99930,7 @@ I = [
                 "part_person": [
                     1429
                 ],
-                "place": 404,
+                "place": 591,
                 "text": "",
                 "type": "Birth"
             }
@@ -99997,7 +99997,7 @@ I = [
                 "part_person": [
                     1430
                 ],
-                "place": 562,
+                "place": 852,
                 "text": "",
                 "type": "Birth"
             },
@@ -100081,7 +100081,7 @@ I = [
                 "part_person": [
                     1431
                 ],
-                "place": 711,
+                "place": 1063,
                 "text": "",
                 "type": "Birth"
             },
@@ -100096,7 +100096,7 @@ I = [
                 "part_person": [
                     1431
                 ],
-                "place": 711,
+                "place": 1063,
                 "text": "",
                 "type": "Death"
             },
@@ -100111,7 +100111,7 @@ I = [
                 "part_person": [
                     1431
                 ],
-                "place": 711,
+                "place": 1063,
                 "text": "",
                 "type": "Burial"
             }
@@ -100172,7 +100172,7 @@ I = [
                 "part_person": [
                     1432
                 ],
-                "place": 205,
+                "place": 297,
                 "text": "",
                 "type": "Birth"
             },
@@ -100307,7 +100307,7 @@ I = [
                 "part_person": [
                     1434
                 ],
-                "place": 404,
+                "place": 591,
                 "text": "",
                 "type": "Birth"
             }
@@ -100374,7 +100374,7 @@ I = [
                 "part_person": [
                     1435
                 ],
-                "place": 538,
+                "place": 812,
                 "text": "",
                 "type": "Birth"
             },
@@ -100389,7 +100389,7 @@ I = [
                 "part_person": [
                     1435
                 ],
-                "place": 538,
+                "place": 812,
                 "text": "",
                 "type": "Death"
             }
@@ -100456,7 +100456,7 @@ I = [
                 "part_person": [
                     1436
                 ],
-                "place": 172,
+                "place": 245,
                 "text": "",
                 "type": "Birth"
             }
@@ -100591,7 +100591,7 @@ I = [
                 "part_person": [
                     1438
                 ],
-                "place": 842,
+                "place": 1272,
                 "text": "",
                 "type": "Death"
             }
@@ -100705,7 +100705,7 @@ I = [
                 "part_person": [
                     1440
                 ],
-                "place": 238,
+                "place": 345,
                 "text": "",
                 "type": "Birth"
             }
@@ -100766,7 +100766,7 @@ I = [
                 "part_person": [
                     1441
                 ],
-                "place": 404,
+                "place": 591,
                 "text": "",
                 "type": "Birth"
             },
@@ -100781,7 +100781,7 @@ I = [
                 "part_person": [
                     1441
                 ],
-                "place": 660,
+                "place": 993,
                 "text": "",
                 "type": "Death"
             }
@@ -100848,7 +100848,7 @@ I = [
                 "part_person": [
                     1442
                 ],
-                "place": 842,
+                "place": 1272,
                 "text": "",
                 "type": "Death"
             }
@@ -100915,7 +100915,7 @@ I = [
                 "part_person": [
                     1443
                 ],
-                "place": 437,
+                "place": 643,
                 "text": "",
                 "type": "Birth"
             }
@@ -100984,7 +100984,7 @@ I = [
                 "part_person": [
                     1444
                 ],
-                "place": 404,
+                "place": 591,
                 "text": "",
                 "type": "Birth"
             }
@@ -101053,7 +101053,7 @@ I = [
                 "part_person": [
                     1445
                 ],
-                "place": 202,
+                "place": 296,
                 "text": "",
                 "type": "Birth"
             },
@@ -101135,7 +101135,7 @@ I = [
                 "part_person": [
                     1446
                 ],
-                "place": 562,
+                "place": 852,
                 "text": "",
                 "type": "Birth"
             },
@@ -101219,7 +101219,7 @@ I = [
                 "part_person": [
                     1447
                 ],
-                "place": 393,
+                "place": 578,
                 "text": "",
                 "type": "Birth"
             }
@@ -101288,7 +101288,7 @@ I = [
                 "part_person": [
                     1448
                 ],
-                "place": 538,
+                "place": 812,
                 "text": "",
                 "type": "Birth"
             },
@@ -101303,7 +101303,7 @@ I = [
                 "part_person": [
                     1448
                 ],
-                "place": 202,
+                "place": 296,
                 "text": "",
                 "type": "Death"
             }
@@ -101370,7 +101370,7 @@ I = [
                 "part_person": [
                     1449
                 ],
-                "place": 737,
+                "place": 1092,
                 "text": "",
                 "type": "Death"
             },
@@ -101385,7 +101385,7 @@ I = [
                 "part_person": [
                     1449
                 ],
-                "place": 449,
+                "place": 660,
                 "text": "",
                 "type": "Burial"
             }
@@ -101454,7 +101454,7 @@ I = [
                 "part_person": [
                     1450
                 ],
-                "place": 562,
+                "place": 852,
                 "text": "",
                 "type": "Birth"
             },
@@ -101538,7 +101538,7 @@ I = [
                 "part_person": [
                     1451
                 ],
-                "place": 172,
+                "place": 245,
                 "text": "",
                 "type": "Birth"
             }
@@ -101605,7 +101605,7 @@ I = [
                 "part_person": [
                     1452
                 ],
-                "place": 842,
+                "place": 1272,
                 "text": "",
                 "type": "Birth"
             },
@@ -101620,7 +101620,7 @@ I = [
                 "part_person": [
                     1452
                 ],
-                "place": 258,
+                "place": 374,
                 "text": "",
                 "type": "Death"
             }
@@ -101689,7 +101689,7 @@ I = [
                 "part_person": [
                     1453
                 ],
-                "place": 343,
+                "place": 491,
                 "text": "",
                 "type": "Birth"
             }
@@ -101803,7 +101803,7 @@ I = [
                 "part_person": [
                     1455
                 ],
-                "place": 842,
+                "place": 1272,
                 "text": "",
                 "type": "Birth"
             },
@@ -101818,7 +101818,7 @@ I = [
                 "part_person": [
                     1455
                 ],
-                "place": 842,
+                "place": 1272,
                 "text": "",
                 "type": "Death"
             }
@@ -101887,7 +101887,7 @@ I = [
                 "part_person": [
                     1456
                 ],
-                "place": 289,
+                "place": 420,
                 "text": "",
                 "type": "Birth"
             }
@@ -101954,7 +101954,7 @@ I = [
                 "part_person": [
                     1457
                 ],
-                "place": 414,
+                "place": 610,
                 "text": "",
                 "type": "Birth"
             }
@@ -102021,7 +102021,7 @@ I = [
                 "part_person": [
                     1458
                 ],
-                "place": 562,
+                "place": 852,
                 "text": "",
                 "type": "Birth"
             },
@@ -102105,7 +102105,7 @@ I = [
                 "part_person": [
                     1459
                 ],
-                "place": 313,
+                "place": 452,
                 "text": "",
                 "type": "Birth"
             },
@@ -102120,7 +102120,7 @@ I = [
                 "part_person": [
                     1459
                 ],
-                "place": 137,
+                "place": 185,
                 "text": "",
                 "type": "Death"
             }
@@ -102293,7 +102293,7 @@ I = [
                 "part_person": [
                     1462
                 ],
-                "place": 528,
+                "place": 800,
                 "text": "",
                 "type": "Death"
             },
@@ -102308,7 +102308,7 @@ I = [
                 "part_person": [
                     1462
                 ],
-                "place": 528,
+                "place": 800,
                 "text": "",
                 "type": "Burial"
             }
@@ -102369,7 +102369,7 @@ I = [
                 "part_person": [
                     1463
                 ],
-                "place": 540,
+                "place": 814,
                 "text": "",
                 "type": "Death"
             }
@@ -102491,7 +102491,7 @@ I = [
                 "part_person": [
                     1465
                 ],
-                "place": 540,
+                "place": 814,
                 "text": "",
                 "type": "Death"
             }
@@ -102773,7 +102773,7 @@ I = [
                 "part_person": [
                     1470
                 ],
-                "place": 346,
+                "place": 497,
                 "text": "",
                 "type": "Birth"
             },
@@ -102788,7 +102788,7 @@ I = [
                 "part_person": [
                     1470
                 ],
-                "place": 116,
+                "place": 158,
                 "text": "",
                 "type": "Death"
             },
@@ -102803,7 +102803,7 @@ I = [
                 "part_person": [
                     1470
                 ],
-                "place": 272,
+                "place": 395,
                 "text": "",
                 "type": "Burial"
             }
@@ -102968,7 +102968,7 @@ I = [
                 "part_person": [
                     1473
                 ],
-                "place": 771,
+                "place": 1153,
                 "text": "",
                 "type": "Birth"
             },
@@ -102983,7 +102983,7 @@ I = [
                 "part_person": [
                     1473
                 ],
-                "place": 442,
+                "place": 651,
                 "text": "",
                 "type": "Death"
             },
@@ -102998,7 +102998,7 @@ I = [
                 "part_person": [
                     1473
                 ],
-                "place": 752,
+                "place": 1117,
                 "text": "",
                 "type": "Burial"
             }
@@ -103184,7 +103184,7 @@ I = [
                 "part_person": [
                     1476
                 ],
-                "place": 76,
+                "place": 103,
                 "text": "",
                 "type": "Birth"
             },
@@ -103199,7 +103199,7 @@ I = [
                 "part_person": [
                     1476
                 ],
-                "place": 843,
+                "place": 1273,
                 "text": "",
                 "type": "Death"
             },
@@ -103214,7 +103214,7 @@ I = [
                 "part_person": [
                     1476
                 ],
-                "place": 843,
+                "place": 1273,
                 "text": "",
                 "type": "Burial"
             }
@@ -103584,7 +103584,7 @@ I = [
                 "part_person": [
                     1482
                 ],
-                "place": 390,
+                "place": 575,
                 "text": "",
                 "type": "Death"
             },
@@ -103599,7 +103599,7 @@ I = [
                 "part_person": [
                     1482
                 ],
-                "place": 448,
+                "place": 658,
                 "text": "",
                 "type": "Burial"
             }
@@ -103789,7 +103789,7 @@ I = [
                 "part_person": [
                     1485
                 ],
-                "place": 430,
+                "place": 631,
                 "text": "",
                 "type": "Birth"
             },
@@ -103804,7 +103804,7 @@ I = [
                 "part_person": [
                     1485
                 ],
-                "place": 428,
+                "place": 628,
                 "text": "",
                 "type": "Death"
             },
@@ -103819,7 +103819,7 @@ I = [
                 "part_person": [
                     1485
                 ],
-                "place": 428,
+                "place": 628,
                 "text": "",
                 "type": "Burial"
             }
@@ -103888,7 +103888,7 @@ I = [
                 "part_person": [
                     1486
                 ],
-                "place": 731,
+                "place": 1085,
                 "text": "",
                 "type": "Birth"
             },
@@ -103903,7 +103903,7 @@ I = [
                 "part_person": [
                     1486
                 ],
-                "place": 716,
+                "place": 1068,
                 "text": "",
                 "type": "Death"
             },
@@ -103918,7 +103918,7 @@ I = [
                 "part_person": [
                     1486
                 ],
-                "place": 613,
+                "place": 928,
                 "text": "",
                 "type": "Burial"
             }
@@ -103987,7 +103987,7 @@ I = [
                 "part_person": [
                     1487
                 ],
-                "place": 232,
+                "place": 337,
                 "text": "",
                 "type": "Death"
             },
@@ -104002,7 +104002,7 @@ I = [
                 "part_person": [
                     1487
                 ],
-                "place": 428,
+                "place": 628,
                 "text": "",
                 "type": "Burial"
             }
@@ -104071,7 +104071,7 @@ I = [
                 "part_person": [
                     1488
                 ],
-                "place": 430,
+                "place": 631,
                 "text": "",
                 "type": "Birth"
             },
@@ -104086,7 +104086,7 @@ I = [
                 "part_person": [
                     1488
                 ],
-                "place": 182,
+                "place": 256,
                 "text": "",
                 "type": "Death"
             }
@@ -104155,7 +104155,7 @@ I = [
                 "part_person": [
                     1489
                 ],
-                "place": 430,
+                "place": 631,
                 "text": "",
                 "type": "Birth"
             }
@@ -104216,7 +104216,7 @@ I = [
                 "part_person": [
                     1490
                 ],
-                "place": 131,
+                "place": 176,
                 "text": "",
                 "type": "Birth"
             },
@@ -104231,7 +104231,7 @@ I = [
                 "part_person": [
                     1490
                 ],
-                "place": 835,
+                "place": 1261,
                 "text": "",
                 "type": "Death"
             }
@@ -104300,7 +104300,7 @@ I = [
                 "part_person": [
                     1491
                 ],
-                "place": 144,
+                "place": 199,
                 "text": "",
                 "type": "Birth"
             },
@@ -104315,7 +104315,7 @@ I = [
                 "part_person": [
                     1491
                 ],
-                "place": 716,
+                "place": 1068,
                 "text": "",
                 "type": "Death"
             },
@@ -104330,7 +104330,7 @@ I = [
                 "part_person": [
                     1491
                 ],
-                "place": 755,
+                "place": 1124,
                 "text": "",
                 "type": "Burial"
             }
@@ -104450,7 +104450,7 @@ I = [
                 "part_person": [
                     1493
                 ],
-                "place": 534,
+                "place": 808,
                 "text": "",
                 "type": "Birth"
             },
@@ -104465,7 +104465,7 @@ I = [
                 "part_person": [
                     1493
                 ],
-                "place": 473,
+                "place": 706,
                 "text": "",
                 "type": "Death"
             },
@@ -104480,7 +104480,7 @@ I = [
                 "part_person": [
                     1493
                 ],
-                "place": 473,
+                "place": 706,
                 "text": "",
                 "type": "Burial"
             }
@@ -104549,7 +104549,7 @@ I = [
                 "part_person": [
                     1494
                 ],
-                "place": 191,
+                "place": 270,
                 "text": "",
                 "type": "Birth"
             },
@@ -104564,7 +104564,7 @@ I = [
                 "part_person": [
                     1494
                 ],
-                "place": 191,
+                "place": 270,
                 "text": "",
                 "type": "Death"
             }
@@ -104631,7 +104631,7 @@ I = [
                 "part_person": [
                     1495
                 ],
-                "place": 735,
+                "place": 1088,
                 "text": "",
                 "type": "Birth"
             },
@@ -104646,7 +104646,7 @@ I = [
                 "part_person": [
                     1495
                 ],
-                "place": 153,
+                "place": 213,
                 "text": "",
                 "type": "Death"
             },
@@ -104661,7 +104661,7 @@ I = [
                 "part_person": [
                     1495
                 ],
-                "place": 446,
+                "place": 656,
                 "text": "",
                 "type": "Burial"
             }
@@ -104728,7 +104728,7 @@ I = [
                 "part_person": [
                     1496
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -104813,7 +104813,7 @@ I = [
                 "part_person": [
                     1497
                 ],
-                "place": 735,
+                "place": 1088,
                 "text": "",
                 "type": "Birth"
             }
@@ -104880,7 +104880,7 @@ I = [
                 "part_person": [
                     1498
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Burial"
             }
@@ -104941,7 +104941,7 @@ I = [
                 "part_person": [
                     1499
                 ],
-                "place": 37,
+                "place": 50,
                 "text": "",
                 "type": "Birth"
             },
@@ -104956,7 +104956,7 @@ I = [
                 "part_person": [
                     1499
                 ],
-                "place": 416,
+                "place": 612,
                 "text": "",
                 "type": "Death"
             },
@@ -104971,7 +104971,7 @@ I = [
                 "part_person": [
                     1499
                 ],
-                "place": 416,
+                "place": 612,
                 "text": "",
                 "type": "Burial"
             }
@@ -105040,7 +105040,7 @@ I = [
                 "part_person": [
                     1500
                 ],
-                "place": 57,
+                "place": 77,
                 "text": "",
                 "type": "Birth"
             },
@@ -105055,7 +105055,7 @@ I = [
                 "part_person": [
                     1500
                 ],
-                "place": 434,
+                "place": 639,
                 "text": "",
                 "type": "Death"
             },
@@ -105070,7 +105070,7 @@ I = [
                 "part_person": [
                     1500
                 ],
-                "place": 12,
+                "place": 20,
                 "text": "",
                 "type": "Burial"
             }
@@ -105176,7 +105176,7 @@ I = [
                 "part_person": [
                     1502
                 ],
-                "place": 671,
+                "place": 1005,
                 "text": "",
                 "type": "Death"
             },
@@ -105191,7 +105191,7 @@ I = [
                 "part_person": [
                     1502
                 ],
-                "place": 342,
+                "place": 490,
                 "text": "",
                 "type": "Burial"
             }
@@ -105313,7 +105313,7 @@ I = [
                 "part_person": [
                     1504
                 ],
-                "place": 220,
+                "place": 320,
                 "text": "",
                 "type": "Birth"
             },
@@ -105577,7 +105577,7 @@ I = [
                 "part_person": [
                     1508
                 ],
-                "place": 746,
+                "place": 1108,
                 "text": "",
                 "type": "Burial"
             }
@@ -105791,7 +105791,7 @@ I = [
                 "part_person": [
                     1512
                 ],
-                "place": 693,
+                "place": 1036,
                 "text": "",
                 "type": "Birth"
             },
@@ -105918,7 +105918,7 @@ I = [
                 "part_person": [
                     1514
                 ],
-                "place": 693,
+                "place": 1036,
                 "text": "",
                 "type": "Birth"
             },
@@ -106166,7 +106166,7 @@ I = [
                 "part_person": [
                     1518
                 ],
-                "place": 490,
+                "place": 733,
                 "text": "",
                 "type": "Birth"
             }
@@ -106233,7 +106233,7 @@ I = [
                 "part_person": [
                     1519
                 ],
-                "place": 490,
+                "place": 733,
                 "text": "",
                 "type": "Birth"
             },
@@ -106248,7 +106248,7 @@ I = [
                 "part_person": [
                     1519
                 ],
-                "place": 388,
+                "place": 573,
                 "text": "",
                 "type": "Death"
             }
@@ -106315,7 +106315,7 @@ I = [
                 "part_person": [
                     1520
                 ],
-                "place": 412,
+                "place": 605,
                 "text": "",
                 "type": "Birth"
             }
@@ -106382,7 +106382,7 @@ I = [
                 "part_person": [
                     1521
                 ],
-                "place": 412,
+                "place": 605,
                 "text": "",
                 "type": "Birth"
             }
@@ -106449,7 +106449,7 @@ I = [
                 "part_person": [
                     1522
                 ],
-                "place": 490,
+                "place": 733,
                 "text": "",
                 "type": "Birth"
             }
@@ -106516,7 +106516,7 @@ I = [
                 "part_person": [
                     1523
                 ],
-                "place": 412,
+                "place": 605,
                 "text": "",
                 "type": "Birth"
             }
@@ -106583,7 +106583,7 @@ I = [
                 "part_person": [
                     1524
                 ],
-                "place": 490,
+                "place": 733,
                 "text": "",
                 "type": "Birth"
             }
@@ -106650,7 +106650,7 @@ I = [
                 "part_person": [
                     1525
                 ],
-                "place": 362,
+                "place": 525,
                 "text": "",
                 "type": "Death"
             }
@@ -106719,7 +106719,7 @@ I = [
                 "part_person": [
                     1526
                 ],
-                "place": 412,
+                "place": 605,
                 "text": "",
                 "type": "Birth"
             }
@@ -106786,7 +106786,7 @@ I = [
                 "part_person": [
                     1527
                 ],
-                "place": 490,
+                "place": 733,
                 "text": "",
                 "type": "Birth"
             }
@@ -106853,7 +106853,7 @@ I = [
                 "part_person": [
                     1528
                 ],
-                "place": 692,
+                "place": 1035,
                 "text": "",
                 "type": "Birth"
             },
@@ -106868,7 +106868,7 @@ I = [
                 "part_person": [
                     1528
                 ],
-                "place": 77,
+                "place": 104,
                 "text": "",
                 "type": "Death"
             },
@@ -106883,7 +106883,7 @@ I = [
                 "part_person": [
                     1528
                 ],
-                "place": 310,
+                "place": 447,
                 "text": "",
                 "type": "Burial"
             }
@@ -106952,7 +106952,7 @@ I = [
                 "part_person": [
                     1529
                 ],
-                "place": 441,
+                "place": 652,
                 "text": "",
                 "type": "Birth"
             }
@@ -107021,7 +107021,7 @@ I = [
                 "part_person": [
                     1530
                 ],
-                "place": 490,
+                "place": 733,
                 "text": "",
                 "type": "Birth"
             }
@@ -107088,7 +107088,7 @@ I = [
                 "part_person": [
                     1531
                 ],
-                "place": 490,
+                "place": 733,
                 "text": "",
                 "type": "Birth"
             }
@@ -107155,7 +107155,7 @@ I = [
                 "part_person": [
                     1532
                 ],
-                "place": 412,
+                "place": 605,
                 "text": "",
                 "type": "Birth"
             },
@@ -107170,7 +107170,7 @@ I = [
                 "part_person": [
                     1532
                 ],
-                "place": 50,
+                "place": 64,
                 "text": "",
                 "type": "Death"
             }
@@ -107240,7 +107240,7 @@ I = [
                 "part_person": [
                     1533
                 ],
-                "place": 490,
+                "place": 733,
                 "text": "",
                 "type": "Birth"
             }
@@ -107307,7 +107307,7 @@ I = [
                 "part_person": [
                     1534
                 ],
-                "place": 412,
+                "place": 605,
                 "text": "",
                 "type": "Birth"
             }
@@ -107374,7 +107374,7 @@ I = [
                 "part_person": [
                     1535
                 ],
-                "place": 412,
+                "place": 605,
                 "text": "",
                 "type": "Birth"
             }
@@ -107443,7 +107443,7 @@ I = [
                 "part_person": [
                     1536
                 ],
-                "place": 412,
+                "place": 605,
                 "text": "",
                 "type": "Birth"
             }
@@ -107510,7 +107510,7 @@ I = [
                 "part_person": [
                     1537
                 ],
-                "place": 490,
+                "place": 733,
                 "text": "",
                 "type": "Birth"
             }
@@ -107577,7 +107577,7 @@ I = [
                 "part_person": [
                     1538
                 ],
-                "place": 490,
+                "place": 733,
                 "text": "",
                 "type": "Birth"
             }
@@ -107644,7 +107644,7 @@ I = [
                 "part_person": [
                     1539
                 ],
-                "place": 473,
+                "place": 706,
                 "text": "",
                 "type": "Birth"
             },
@@ -107659,7 +107659,7 @@ I = [
                 "part_person": [
                     1539
                 ],
-                "place": 388,
+                "place": 573,
                 "text": "",
                 "type": "Death"
             },
@@ -107674,7 +107674,7 @@ I = [
                 "part_person": [
                     1539
                 ],
-                "place": 683,
+                "place": 1020,
                 "text": "",
                 "type": "Burial"
             }
@@ -107925,7 +107925,7 @@ I = [
                 "part_person": [
                     1543
                 ],
-                "place": 778,
+                "place": 1162,
                 "text": "",
                 "type": "Birth"
             },
@@ -108046,7 +108046,7 @@ I = [
                 "part_person": [
                     1545
                 ],
-                "place": 361,
+                "place": 524,
                 "text": "",
                 "type": "Death"
             }
@@ -108152,7 +108152,7 @@ I = [
                 "part_person": [
                     1547
                 ],
-                "place": 615,
+                "place": 933,
                 "text": "",
                 "type": "Birth"
             },
@@ -108167,7 +108167,7 @@ I = [
                 "part_person": [
                     1547
                 ],
-                "place": 428,
+                "place": 628,
                 "text": "",
                 "type": "Death"
             },
@@ -108182,7 +108182,7 @@ I = [
                 "part_person": [
                     1547
                 ],
-                "place": 486,
+                "place": 725,
                 "text": "",
                 "type": "Burial"
             }
@@ -108251,7 +108251,7 @@ I = [
                 "part_person": [
                     1548
                 ],
-                "place": 428,
+                "place": 628,
                 "text": "",
                 "type": "Birth"
             },
@@ -108266,7 +108266,7 @@ I = [
                 "part_person": [
                     1548
                 ],
-                "place": 193,
+                "place": 275,
                 "text": "",
                 "type": "Death"
             },
@@ -108281,7 +108281,7 @@ I = [
                 "part_person": [
                     1548
                 ],
-                "place": 432,
+                "place": 636,
                 "text": "",
                 "type": "Burial"
             }
@@ -108342,7 +108342,7 @@ I = [
                 "part_person": [
                     1549
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -108426,7 +108426,7 @@ I = [
                 "part_person": [
                     1550
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -108510,7 +108510,7 @@ I = [
                 "part_person": [
                     1551
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -108677,7 +108677,7 @@ I = [
                 "part_person": [
                     1553
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -108761,7 +108761,7 @@ I = [
                 "part_person": [
                     1554
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -108858,7 +108858,7 @@ I = [
                 "part_person": [
                     1555
                 ],
-                "place": 14,
+                "place": 24,
                 "text": "",
                 "type": "Death"
             },
@@ -108873,7 +108873,7 @@ I = [
                 "part_person": [
                     1555
                 ],
-                "place": 764,
+                "place": 1140,
                 "text": "",
                 "type": "Burial"
             }
@@ -108934,7 +108934,7 @@ I = [
                 "part_person": [
                     1556
                 ],
-                "place": 834,
+                "place": 1260,
                 "text": "",
                 "type": "Birth"
             },
@@ -108949,7 +108949,7 @@ I = [
                 "part_person": [
                     1556
                 ],
-                "place": 834,
+                "place": 1260,
                 "text": "",
                 "type": "Death"
             }
@@ -109192,7 +109192,7 @@ I = [
                 "part_person": [
                     1560
                 ],
-                "place": 611,
+                "place": 926,
                 "text": "",
                 "type": "Birth"
             },
@@ -109207,7 +109207,7 @@ I = [
                 "part_person": [
                     1560
                 ],
-                "place": 611,
+                "place": 926,
                 "text": "",
                 "type": "Death"
             }
@@ -109276,7 +109276,7 @@ I = [
                 "part_person": [
                     1561
                 ],
-                "place": 742,
+                "place": 1103,
                 "text": "",
                 "type": "Birth"
             },
@@ -109358,7 +109358,7 @@ I = [
                 "part_person": [
                     1562
                 ],
-                "place": 742,
+                "place": 1103,
                 "text": "",
                 "type": "Birth"
             },
@@ -109440,7 +109440,7 @@ I = [
                 "part_person": [
                     1563
                 ],
-                "place": 648,
+                "place": 977,
                 "text": "",
                 "type": "Birth"
             },
@@ -109516,7 +109516,7 @@ I = [
                 "part_person": [
                     1564
                 ],
-                "place": 122,
+                "place": 165,
                 "text": "",
                 "type": "Birth"
             }
@@ -109952,7 +109952,7 @@ I = [
                 "part_person": [
                     1572
                 ],
-                "place": 202,
+                "place": 296,
                 "text": "",
                 "type": "Birth"
             }
@@ -110028,7 +110028,7 @@ I = [
                 "part_person": [
                     1573
                 ],
-                "place": 776,
+                "place": 1159,
                 "text": "",
                 "type": "Death"
             }
@@ -110089,7 +110089,7 @@ I = [
                 "part_person": [
                     1574
                 ],
-                "place": 318,
+                "place": 458,
                 "text": "",
                 "type": "Birth"
             },
@@ -110104,7 +110104,7 @@ I = [
                 "part_person": [
                     1574
                 ],
-                "place": 108,
+                "place": 145,
                 "text": "",
                 "type": "Death"
             }
@@ -110165,7 +110165,7 @@ I = [
                 "part_person": [
                     1575
                 ],
-                "place": 206,
+                "place": 298,
                 "text": "",
                 "type": "Birth"
             },
@@ -110180,7 +110180,7 @@ I = [
                 "part_person": [
                     1575
                 ],
-                "place": 754,
+                "place": 1120,
                 "text": "",
                 "type": "Death"
             },
@@ -110195,7 +110195,7 @@ I = [
                 "part_person": [
                     1575
                 ],
-                "place": 488,
+                "place": 728,
                 "text": "",
                 "type": "Burial"
             }
@@ -110301,7 +110301,7 @@ I = [
                 "part_person": [
                     1577
                 ],
-                "place": 145,
+                "place": 200,
                 "text": "",
                 "type": "Birth"
             }
@@ -110483,7 +110483,7 @@ I = [
                 "part_person": [
                     1580
                 ],
-                "place": 454,
+                "place": 669,
                 "text": "",
                 "type": "Birth"
             },
@@ -110582,7 +110582,7 @@ I = [
                 "part_person": [
                     1581
                 ],
-                "place": 607,
+                "place": 921,
                 "text": "",
                 "type": "Birth"
             },
@@ -110597,7 +110597,7 @@ I = [
                 "part_person": [
                     1581
                 ],
-                "place": 704,
+                "place": 1052,
                 "text": "",
                 "type": "Death"
             },
@@ -110612,7 +110612,7 @@ I = [
                 "part_person": [
                     1581
                 ],
-                "place": 638,
+                "place": 963,
                 "text": "",
                 "type": "Burial"
             }
@@ -110803,7 +110803,7 @@ I = [
                 "part_person": [
                     1584
                 ],
-                "place": 649,
+                "place": 979,
                 "text": "",
                 "type": "Birth"
             }
@@ -110887,7 +110887,7 @@ I = [
                 "part_person": [
                     1585
                 ],
-                "place": 649,
+                "place": 979,
                 "text": "",
                 "type": "Death"
             },
@@ -110902,7 +110902,7 @@ I = [
                 "part_person": [
                     1585
                 ],
-                "place": 305,
+                "place": 440,
                 "text": "",
                 "type": "Burial"
             }
@@ -110963,7 +110963,7 @@ I = [
                 "part_person": [
                     1586
                 ],
-                "place": 814,
+                "place": 1226,
                 "text": "",
                 "type": "Birth"
             },
@@ -110978,7 +110978,7 @@ I = [
                 "part_person": [
                     1586
                 ],
-                "place": 49,
+                "place": 62,
                 "text": "",
                 "type": "Death"
             }
@@ -111039,7 +111039,7 @@ I = [
                 "part_person": [
                     1587
                 ],
-                "place": 649,
+                "place": 979,
                 "text": "",
                 "type": "Birth"
             }
@@ -111175,7 +111175,7 @@ I = [
                 "part_person": [
                     1589
                 ],
-                "place": 649,
+                "place": 979,
                 "text": "",
                 "type": "Birth"
             }
@@ -111244,7 +111244,7 @@ I = [
                 "part_person": [
                     1590
                 ],
-                "place": 93,
+                "place": 124,
                 "text": "",
                 "type": "Birth"
             },
@@ -111259,7 +111259,7 @@ I = [
                 "part_person": [
                     1590
                 ],
-                "place": 649,
+                "place": 979,
                 "text": "",
                 "type": "Death"
             },
@@ -111274,7 +111274,7 @@ I = [
                 "part_person": [
                     1590
                 ],
-                "place": 552,
+                "place": 837,
                 "text": "",
                 "type": "Burial"
             }
@@ -111343,7 +111343,7 @@ I = [
                 "part_person": [
                     1591
                 ],
-                "place": 649,
+                "place": 979,
                 "text": "",
                 "type": "Birth"
             }
@@ -111465,7 +111465,7 @@ I = [
                 "part_person": [
                     1593
                 ],
-                "place": 815,
+                "place": 1227,
                 "text": "",
                 "type": "Birth"
             },
@@ -111480,7 +111480,7 @@ I = [
                 "part_person": [
                     1593
                 ],
-                "place": 389,
+                "place": 574,
                 "text": "",
                 "type": "Death"
             },
@@ -111495,7 +111495,7 @@ I = [
                 "part_person": [
                     1593
                 ],
-                "place": 827,
+                "place": 1251,
                 "text": "",
                 "type": "Burial"
             }
@@ -111601,7 +111601,7 @@ I = [
                 "part_person": [
                     1595
                 ],
-                "place": 199,
+                "place": 282,
                 "text": "",
                 "type": "Birth"
             },
@@ -111616,7 +111616,7 @@ I = [
                 "part_person": [
                     1595
                 ],
-                "place": 326,
+                "place": 467,
                 "text": "",
                 "type": "Death"
             },
@@ -111631,7 +111631,7 @@ I = [
                 "part_person": [
                     1595
                 ],
-                "place": 326,
+                "place": 467,
                 "text": "",
                 "type": "Burial"
             }
@@ -111692,7 +111692,7 @@ I = [
                 "part_person": [
                     1596
                 ],
-                "place": 369,
+                "place": 542,
                 "text": "",
                 "type": "Birth"
             }
@@ -111761,7 +111761,7 @@ I = [
                 "part_person": [
                     1597
                 ],
-                "place": 756,
+                "place": 1127,
                 "text": "",
                 "type": "Birth"
             }
@@ -111822,7 +111822,7 @@ I = [
                 "part_person": [
                     1598
                 ],
-                "place": 6,
+                "place": 10,
                 "text": "",
                 "type": "Birth"
             }
@@ -111883,7 +111883,7 @@ I = [
                 "part_person": [
                     1599
                 ],
-                "place": 593,
+                "place": 903,
                 "text": "",
                 "type": "Birth"
             },
@@ -111959,7 +111959,7 @@ I = [
                 "part_person": [
                     1600
                 ],
-                "place": 206,
+                "place": 298,
                 "text": "",
                 "type": "Birth"
             },
@@ -111974,7 +111974,7 @@ I = [
                 "part_person": [
                     1600
                 ],
-                "place": 206,
+                "place": 298,
                 "text": "",
                 "type": "Death"
             }
@@ -112186,7 +112186,7 @@ I = [
                 "part_person": [
                     1604
                 ],
-                "place": 792,
+                "place": 1188,
                 "text": "",
                 "type": "Birth"
             },
@@ -112201,7 +112201,7 @@ I = [
                 "part_person": [
                     1604
                 ],
-                "place": 628,
+                "place": 950,
                 "text": "",
                 "type": "Death"
             }
@@ -112323,7 +112323,7 @@ I = [
                 "part_person": [
                     1606
                 ],
-                "place": 217,
+                "place": 316,
                 "text": "",
                 "type": "Death"
             }
@@ -112474,7 +112474,7 @@ I = [
                 "part_person": [
                     1609
                 ],
-                "place": 839,
+                "place": 1267,
                 "text": "",
                 "type": "Birth"
             }
@@ -112625,7 +112625,7 @@ I = [
                 "part_person": [
                     1612
                 ],
-                "place": 518,
+                "place": 777,
                 "text": "",
                 "type": "Birth"
             },
@@ -112701,7 +112701,7 @@ I = [
                 "part_person": [
                     1613
                 ],
-                "place": 374,
+                "place": 549,
                 "text": "",
                 "type": "Birth"
             },
@@ -112957,7 +112957,7 @@ I = [
                 "part_person": [
                     1617
                 ],
-                "place": 641,
+                "place": 969,
                 "text": "",
                 "type": "Birth"
             }
@@ -113385,7 +113385,7 @@ I = [
                 "part_person": [
                     1625
                 ],
-                "place": 265,
+                "place": 386,
                 "text": "",
                 "type": "Birth"
             },
@@ -113400,7 +113400,7 @@ I = [
                 "part_person": [
                     1625
                 ],
-                "place": 738,
+                "place": 1093,
                 "text": "",
                 "type": "Death"
             }
@@ -113520,7 +113520,7 @@ I = [
                 "part_person": [
                     1627
                 ],
-                "place": 332,
+                "place": 476,
                 "text": "",
                 "type": "Birth"
             },
@@ -113535,7 +113535,7 @@ I = [
                 "part_person": [
                     1627
                 ],
-                "place": 521,
+                "place": 783,
                 "text": "",
                 "type": "Death"
             }
@@ -113861,7 +113861,7 @@ I = [
                 "part_person": [
                     1633
                 ],
-                "place": 360,
+                "place": 522,
                 "text": "",
                 "type": "Death"
             }
@@ -113922,7 +113922,7 @@ I = [
                 "part_person": [
                     1634
                 ],
-                "place": 40,
+                "place": 53,
                 "text": "",
                 "type": "Birth"
             },
@@ -113937,7 +113937,7 @@ I = [
                 "part_person": [
                     1634
                 ],
-                "place": 832,
+                "place": 1259,
                 "text": "",
                 "type": "Death"
             }
@@ -114006,7 +114006,7 @@ I = [
                 "part_person": [
                     1635
                 ],
-                "place": 206,
+                "place": 298,
                 "text": "",
                 "type": "Birth"
             },
@@ -114021,7 +114021,7 @@ I = [
                 "part_person": [
                     1635
                 ],
-                "place": 463,
+                "place": 684,
                 "text": "",
                 "type": "Death"
             },
@@ -114036,7 +114036,7 @@ I = [
                 "part_person": [
                     1635
                 ],
-                "place": 724,
+                "place": 1077,
                 "text": "",
                 "type": "Burial"
             }
@@ -114228,7 +114228,7 @@ I = [
                 "part_person": [
                     1639
                 ],
-                "place": 266,
+                "place": 387,
                 "text": "",
                 "type": "Birth"
             }
@@ -114289,7 +114289,7 @@ I = [
                 "part_person": [
                     1640
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -114403,7 +114403,7 @@ I = [
                 "part_person": [
                     1641
                 ],
-                "place": 736,
+                "place": 1091,
                 "text": "",
                 "type": "Burial"
             }
@@ -114515,7 +114515,7 @@ I = [
                 "part_person": [
                     1643
                 ],
-                "place": 510,
+                "place": 766,
                 "text": "",
                 "type": "Birth"
             },
@@ -114659,7 +114659,7 @@ I = [
                 "part_person": [
                     1645
                 ],
-                "place": 550,
+                "place": 830,
                 "text": "",
                 "type": "Death"
             },
@@ -114674,7 +114674,7 @@ I = [
                 "part_person": [
                     1645
                 ],
-                "place": 715,
+                "place": 1067,
                 "text": "",
                 "type": "Burial"
             }
@@ -114741,7 +114741,7 @@ I = [
                 "part_person": [
                     1646
                 ],
-                "place": 551,
+                "place": 831,
                 "text": "",
                 "type": "Birth"
             },
@@ -114756,7 +114756,7 @@ I = [
                 "part_person": [
                     1646
                 ],
-                "place": 823,
+                "place": 1241,
                 "text": "",
                 "type": "Death"
             }
@@ -114832,7 +114832,7 @@ I = [
                 "part_person": [
                     1647
                 ],
-                "place": 550,
+                "place": 830,
                 "text": "",
                 "type": "Death"
             },
@@ -114847,7 +114847,7 @@ I = [
                 "part_person": [
                     1647
                 ],
-                "place": 715,
+                "place": 1067,
                 "text": "",
                 "type": "Burial"
             }
@@ -114929,7 +114929,7 @@ I = [
                 "part_person": [
                     1648
                 ],
-                "place": 286,
+                "place": 411,
                 "text": "",
                 "type": "Death"
             },
@@ -114944,7 +114944,7 @@ I = [
                 "part_person": [
                     1648
                 ],
-                "place": 143,
+                "place": 195,
                 "text": "",
                 "type": "Burial"
             }
@@ -115013,7 +115013,7 @@ I = [
                 "part_person": [
                     1649
                 ],
-                "place": 802,
+                "place": 1206,
                 "text": "",
                 "type": "Birth"
             },
@@ -115028,7 +115028,7 @@ I = [
                 "part_person": [
                     1649
                 ],
-                "place": 261,
+                "place": 379,
                 "text": "",
                 "type": "Death"
             },
@@ -115043,7 +115043,7 @@ I = [
                 "part_person": [
                     1649
                 ],
-                "place": 261,
+                "place": 379,
                 "text": "",
                 "type": "Burial"
             }
@@ -115194,7 +115194,7 @@ I = [
                 "part_person": [
                     1651
                 ],
-                "place": 41,
+                "place": 54,
                 "text": "",
                 "type": "Birth"
             },
@@ -115209,7 +115209,7 @@ I = [
                 "part_person": [
                     1651
                 ],
-                "place": 41,
+                "place": 54,
                 "text": "",
                 "type": "Death"
             }
@@ -115276,7 +115276,7 @@ I = [
                 "part_person": [
                     1652
                 ],
-                "place": 41,
+                "place": 54,
                 "text": "",
                 "type": "Death"
             }
@@ -115360,7 +115360,7 @@ I = [
                 "part_person": [
                     1653
                 ],
-                "place": 550,
+                "place": 830,
                 "text": "",
                 "type": "Death"
             },
@@ -115375,7 +115375,7 @@ I = [
                 "part_person": [
                     1653
                 ],
-                "place": 715,
+                "place": 1067,
                 "text": "",
                 "type": "Burial"
             }
@@ -115457,7 +115457,7 @@ I = [
                 "part_person": [
                     1654
                 ],
-                "place": 715,
+                "place": 1067,
                 "text": "",
                 "type": "Death"
             }
@@ -115569,7 +115569,7 @@ I = [
                 "part_person": [
                     1656
                 ],
-                "place": 712,
+                "place": 1064,
                 "text": "",
                 "type": "Birth"
             },
@@ -115584,7 +115584,7 @@ I = [
                 "part_person": [
                     1656
                 ],
-                "place": 153,
+                "place": 213,
                 "text": "",
                 "type": "Death"
             }
@@ -115653,7 +115653,7 @@ I = [
                 "part_person": [
                     1657
                 ],
-                "place": 261,
+                "place": 379,
                 "text": "",
                 "type": "Birth"
             },
@@ -115668,7 +115668,7 @@ I = [
                 "part_person": [
                     1657
                 ],
-                "place": 512,
+                "place": 769,
                 "text": "",
                 "type": "Death"
             },
@@ -115683,7 +115683,7 @@ I = [
                 "part_person": [
                     1657
                 ],
-                "place": 188,
+                "place": 266,
                 "text": "",
                 "type": "Burial"
             }
@@ -115767,7 +115767,7 @@ I = [
                 "part_person": [
                     1658
                 ],
-                "place": 550,
+                "place": 830,
                 "text": "",
                 "type": "Death"
             },
@@ -115782,7 +115782,7 @@ I = [
                 "part_person": [
                     1658
                 ],
-                "place": 715,
+                "place": 1067,
                 "text": "",
                 "type": "Burial"
             }
@@ -115849,7 +115849,7 @@ I = [
                 "part_person": [
                     1659
                 ],
-                "place": 297,
+                "place": 428,
                 "text": "",
                 "type": "Birth"
             },
@@ -115864,7 +115864,7 @@ I = [
                 "part_person": [
                     1659
                 ],
-                "place": 673,
+                "place": 1007,
                 "text": "",
                 "type": "Death"
             },
@@ -115879,7 +115879,7 @@ I = [
                 "part_person": [
                     1659
                 ],
-                "place": 90,
+                "place": 120,
                 "text": "",
                 "type": "Burial"
             }
@@ -115963,7 +115963,7 @@ I = [
                 "part_person": [
                     1660
                 ],
-                "place": 185,
+                "place": 259,
                 "text": "",
                 "type": "Death"
             },
@@ -115978,7 +115978,7 @@ I = [
                 "part_person": [
                     1660
                 ],
-                "place": 154,
+                "place": 214,
                 "text": "",
                 "type": "Burial"
             }
@@ -116099,7 +116099,7 @@ I = [
                 "part_person": [
                     1662
                 ],
-                "place": 715,
+                "place": 1067,
                 "text": "",
                 "type": "Death"
             },
@@ -116114,7 +116114,7 @@ I = [
                 "part_person": [
                     1662
                 ],
-                "place": 715,
+                "place": 1067,
                 "text": "",
                 "type": "Burial"
             }
@@ -116263,7 +116263,7 @@ I = [
                 "part_person": [
                     1664
                 ],
-                "place": 385,
+                "place": 570,
                 "text": "",
                 "type": "Death"
             },
@@ -116278,7 +116278,7 @@ I = [
                 "part_person": [
                     1664
                 ],
-                "place": 188,
+                "place": 266,
                 "text": "",
                 "type": "Burial"
             }
@@ -116337,7 +116337,7 @@ I = [
                 "part_person": [
                     1665
                 ],
-                "place": 377,
+                "place": 550,
                 "text": "",
                 "type": "Birth"
             },
@@ -116352,7 +116352,7 @@ I = [
                 "part_person": [
                     1665
                 ],
-                "place": 97,
+                "place": 130,
                 "text": "",
                 "type": "Death"
             },
@@ -116367,7 +116367,7 @@ I = [
                 "part_person": [
                     1665
                 ],
-                "place": 261,
+                "place": 379,
                 "text": "",
                 "type": "Burial"
             }
@@ -116571,7 +116571,7 @@ I = [
                 "part_person": [
                     1669
                 ],
-                "place": 502,
+                "place": 753,
                 "text": "",
                 "type": "Birth"
             },
@@ -116586,7 +116586,7 @@ I = [
                 "part_person": [
                     1669
                 ],
-                "place": 666,
+                "place": 999,
                 "text": "",
                 "type": "Death"
             },
@@ -116601,7 +116601,7 @@ I = [
                 "part_person": [
                     1669
                 ],
-                "place": 666,
+                "place": 999,
                 "text": "",
                 "type": "Burial"
             }
@@ -116752,7 +116752,7 @@ I = [
                 "part_person": [
                     1672
                 ],
-                "place": 814,
+                "place": 1226,
                 "text": "",
                 "type": "Birth"
             },
@@ -116767,7 +116767,7 @@ I = [
                 "part_person": [
                     1672
                 ],
-                "place": 814,
+                "place": 1226,
                 "text": "",
                 "type": "Death"
             }
@@ -116994,7 +116994,7 @@ I = [
                 "part_person": [
                     1676
                 ],
-                "place": 630,
+                "place": 952,
                 "text": "",
                 "type": "Birth"
             },
@@ -117129,7 +117129,7 @@ I = [
                 "part_person": [
                     1678
                 ],
-                "place": 498,
+                "place": 747,
                 "text": "",
                 "type": "Birth"
             },
@@ -117214,7 +117214,7 @@ I = [
                 "part_person": [
                     1679
                 ],
-                "place": 148,
+                "place": 203,
                 "text": "",
                 "type": "Birth"
             }
@@ -117396,7 +117396,7 @@ I = [
                 "part_person": [
                     1682
                 ],
-                "place": 206,
+                "place": 298,
                 "text": "",
                 "type": "Birth"
             },
@@ -117411,7 +117411,7 @@ I = [
                 "part_person": [
                     1682
                 ],
-                "place": 33,
+                "place": 44,
                 "text": "",
                 "type": "Death"
             },
@@ -117426,7 +117426,7 @@ I = [
                 "part_person": [
                     1682
                 ],
-                "place": 488,
+                "place": 728,
                 "text": "",
                 "type": "Burial"
             }
@@ -117556,7 +117556,7 @@ I = [
                 "part_person": [
                     1684
                 ],
-                "place": 19,
+                "place": 28,
                 "text": "",
                 "type": "Birth"
             },
@@ -117638,7 +117638,7 @@ I = [
                 "part_person": [
                     1685
                 ],
-                "place": 284,
+                "place": 407,
                 "text": "",
                 "type": "Birth"
             },
@@ -117714,7 +117714,7 @@ I = [
                 "part_person": [
                     1686
                 ],
-                "place": 19,
+                "place": 28,
                 "text": "",
                 "type": "Birth"
             },
@@ -117847,7 +117847,7 @@ I = [
                 "part_person": [
                     1688
                 ],
-                "place": 843,
+                "place": 1273,
                 "text": "",
                 "type": "Birth"
             },
@@ -117982,7 +117982,7 @@ I = [
                 "part_person": [
                     1690
                 ],
-                "place": 86,
+                "place": 114,
                 "text": "",
                 "type": "Birth"
             },
@@ -118064,7 +118064,7 @@ I = [
                 "part_person": [
                     1691
                 ],
-                "place": 825,
+                "place": 1244,
                 "text": "",
                 "type": "Birth"
             },
@@ -118148,7 +118148,7 @@ I = [
                 "part_person": [
                     1692
                 ],
-                "place": 530,
+                "place": 802,
                 "text": "",
                 "type": "Birth"
             },
@@ -118232,7 +118232,7 @@ I = [
                 "part_person": [
                     1693
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -118316,7 +118316,7 @@ I = [
                 "part_person": [
                     1694
                 ],
-                "place": 825,
+                "place": 1244,
                 "text": "",
                 "type": "Birth"
             },
@@ -118398,7 +118398,7 @@ I = [
                 "part_person": [
                     1695
                 ],
-                "place": 75,
+                "place": 102,
                 "text": "",
                 "type": "Birth"
             },
@@ -118480,7 +118480,7 @@ I = [
                 "part_person": [
                     1696
                 ],
-                "place": 75,
+                "place": 102,
                 "text": "",
                 "type": "Birth"
             },
@@ -118564,7 +118564,7 @@ I = [
                 "part_person": [
                     1697
                 ],
-                "place": 285,
+                "place": 408,
                 "text": "",
                 "type": "Birth"
             },
@@ -118579,7 +118579,7 @@ I = [
                 "part_person": [
                     1697
                 ],
-                "place": 420,
+                "place": 617,
                 "text": "",
                 "type": "Death"
             },
@@ -118594,7 +118594,7 @@ I = [
                 "part_person": [
                     1697
                 ],
-                "place": 819,
+                "place": 1231,
                 "text": "",
                 "type": "Burial"
             }
@@ -118663,7 +118663,7 @@ I = [
                 "part_person": [
                     1698
                 ],
-                "place": 759,
+                "place": 1130,
                 "text": "",
                 "type": "Birth"
             },
@@ -118678,7 +118678,7 @@ I = [
                 "part_person": [
                     1698
                 ],
-                "place": 798,
+                "place": 1197,
                 "text": "",
                 "type": "Death"
             }
@@ -118747,7 +118747,7 @@ I = [
                 "part_person": [
                     1699
                 ],
-                "place": 146,
+                "place": 201,
                 "text": "",
                 "type": "Birth"
             },
@@ -118762,7 +118762,7 @@ I = [
                 "part_person": [
                     1699
                 ],
-                "place": 741,
+                "place": 1102,
                 "text": "",
                 "type": "Death"
             },
@@ -118777,7 +118777,7 @@ I = [
                 "part_person": [
                     1699
                 ],
-                "place": 128,
+                "place": 173,
                 "text": "",
                 "type": "Burial"
             }
@@ -118846,7 +118846,7 @@ I = [
                 "part_person": [
                     1700
                 ],
-                "place": 293,
+                "place": 424,
                 "text": "",
                 "type": "Birth"
             },
@@ -118979,7 +118979,7 @@ I = [
                 "part_person": [
                     1702
                 ],
-                "place": 270,
+                "place": 393,
                 "text": "",
                 "type": "Birth"
             },
@@ -119061,7 +119061,7 @@ I = [
                 "part_person": [
                     1703
                 ],
-                "place": 22,
+                "place": 31,
                 "text": "",
                 "type": "Birth"
             },
@@ -119210,7 +119210,7 @@ I = [
                 "part_person": [
                     1705
                 ],
-                "place": 825,
+                "place": 1244,
                 "text": "",
                 "type": "Birth"
             },
@@ -119225,7 +119225,7 @@ I = [
                 "part_person": [
                     1705
                 ],
-                "place": 664,
+                "place": 997,
                 "text": "",
                 "type": "Death"
             },
@@ -119240,7 +119240,7 @@ I = [
                 "part_person": [
                     1705
                 ],
-                "place": 536,
+                "place": 810,
                 "text": "",
                 "type": "Burial"
             }
@@ -119307,7 +119307,7 @@ I = [
                 "part_person": [
                     1706
                 ],
-                "place": 830,
+                "place": 1256,
                 "text": "",
                 "type": "Birth"
             }
@@ -119376,7 +119376,7 @@ I = [
                 "part_person": [
                     1707
                 ],
-                "place": 270,
+                "place": 393,
                 "text": "",
                 "type": "Birth"
             },
@@ -119450,7 +119450,7 @@ I = [
                 "part_person": [
                     1708
                 ],
-                "place": 825,
+                "place": 1244,
                 "text": "",
                 "type": "Birth"
             },
@@ -119583,7 +119583,7 @@ I = [
                 "part_person": [
                     1710
                 ],
-                "place": 630,
+                "place": 952,
                 "text": "",
                 "type": "Birth"
             },
@@ -119667,7 +119667,7 @@ I = [
                 "part_person": [
                     1711
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -119751,7 +119751,7 @@ I = [
                 "part_person": [
                     1712
                 ],
-                "place": 825,
+                "place": 1244,
                 "text": "",
                 "type": "Birth"
             },
@@ -119833,7 +119833,7 @@ I = [
                 "part_person": [
                     1713
                 ],
-                "place": 630,
+                "place": 952,
                 "text": "",
                 "type": "Birth"
             },
@@ -119848,7 +119848,7 @@ I = [
                 "part_person": [
                     1713
                 ],
-                "place": 594,
+                "place": 904,
                 "text": "",
                 "type": "Death"
             }
@@ -119966,7 +119966,7 @@ I = [
                 "part_person": [
                     1715
                 ],
-                "place": 825,
+                "place": 1244,
                 "text": "",
                 "type": "Birth"
             },
@@ -120099,7 +120099,7 @@ I = [
                 "part_person": [
                     1717
                 ],
-                "place": 28,
+                "place": 37,
                 "text": "",
                 "type": "Birth"
             },
@@ -120114,7 +120114,7 @@ I = [
                 "part_person": [
                     1717
                 ],
-                "place": 797,
+                "place": 1196,
                 "text": "",
                 "type": "Death"
             },
@@ -120129,7 +120129,7 @@ I = [
                 "part_person": [
                     1717
                 ],
-                "place": 309,
+                "place": 445,
                 "text": "",
                 "type": "Burial"
             }
@@ -120351,7 +120351,7 @@ I = [
                 "part_person": [
                     1721
                 ],
-                "place": 402,
+                "place": 589,
                 "text": "",
                 "type": "Birth"
             }
@@ -120412,7 +120412,7 @@ I = [
                 "part_person": [
                     1722
                 ],
-                "place": 296,
+                "place": 427,
                 "text": "",
                 "type": "Birth"
             }
@@ -120581,7 +120581,7 @@ I = [
                 "part_person": [
                     1725
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -120747,7 +120747,7 @@ I = [
                 "part_person": [
                     1727
                 ],
-                "place": 296,
+                "place": 427,
                 "text": "",
                 "type": "Birth"
             }
@@ -120867,7 +120867,7 @@ I = [
                 "part_person": [
                     1729
                 ],
-                "place": 180,
+                "place": 254,
                 "text": "",
                 "type": "Birth"
             },
@@ -121069,7 +121069,7 @@ I = [
                 "part_person": [
                     1732
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -121204,7 +121204,7 @@ I = [
                 "part_person": [
                     1734
                 ],
-                "place": 22,
+                "place": 31,
                 "text": "",
                 "type": "Birth"
             },
@@ -121286,7 +121286,7 @@ I = [
                 "part_person": [
                     1735
                 ],
-                "place": 293,
+                "place": 424,
                 "text": "",
                 "type": "Birth"
             },
@@ -121368,7 +121368,7 @@ I = [
                 "part_person": [
                     1736
                 ],
-                "place": 596,
+                "place": 906,
                 "text": "",
                 "type": "Birth"
             },
@@ -121450,7 +121450,7 @@ I = [
                 "part_person": [
                     1737
                 ],
-                "place": 159,
+                "place": 222,
                 "text": "",
                 "type": "Birth"
             },
@@ -121734,7 +121734,7 @@ I = [
                 "part_person": [
                     1742
                 ],
-                "place": 555,
+                "place": 842,
                 "text": "",
                 "type": "Birth"
             },
@@ -121867,7 +121867,7 @@ I = [
                 "part_person": [
                     1744
                 ],
-                "place": 75,
+                "place": 102,
                 "text": "",
                 "type": "Birth"
             },
@@ -122002,7 +122002,7 @@ I = [
                 "part_person": [
                     1746
                 ],
-                "place": 296,
+                "place": 427,
                 "text": "",
                 "type": "Birth"
             },
@@ -122086,7 +122086,7 @@ I = [
                 "part_person": [
                     1747
                 ],
-                "place": 553,
+                "place": 839,
                 "text": "",
                 "type": "Birth"
             },
@@ -122116,7 +122116,7 @@ I = [
                 "part_person": [
                     1747
                 ],
-                "place": 524,
+                "place": 787,
                 "text": "",
                 "type": "Burial"
             }
@@ -122183,7 +122183,7 @@ I = [
                 "part_person": [
                     1748
                 ],
-                "place": 825,
+                "place": 1244,
                 "text": "",
                 "type": "Birth"
             },
@@ -122369,7 +122369,7 @@ I = [
                 "part_person": [
                     1751
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -122453,7 +122453,7 @@ I = [
                 "part_person": [
                     1752
                 ],
-                "place": 825,
+                "place": 1244,
                 "text": "",
                 "type": "Birth"
             },
@@ -122537,7 +122537,7 @@ I = [
                 "part_person": [
                     1753
                 ],
-                "place": 825,
+                "place": 1244,
                 "text": "",
                 "type": "Birth"
             },
@@ -122622,7 +122622,7 @@ I = [
                 "part_person": [
                     1754
                 ],
-                "place": 98,
+                "place": 132,
                 "text": "",
                 "type": "Birth"
             },
@@ -122704,7 +122704,7 @@ I = [
                 "part_person": [
                     1755
                 ],
-                "place": 599,
+                "place": 911,
                 "text": "",
                 "type": "Birth"
             },
@@ -122719,7 +122719,7 @@ I = [
                 "part_person": [
                     1755
                 ],
-                "place": 114,
+                "place": 154,
                 "text": "",
                 "type": "Death"
             },
@@ -122734,7 +122734,7 @@ I = [
                 "part_person": [
                     1755
                 ],
-                "place": 345,
+                "place": 494,
                 "text": "",
                 "type": "Burial"
             }
@@ -122804,7 +122804,7 @@ I = [
                 "part_person": [
                     1756
                 ],
-                "place": 105,
+                "place": 143,
                 "text": "",
                 "type": "Birth"
             }
@@ -122924,7 +122924,7 @@ I = [
                 "part_person": [
                     1758
                 ],
-                "place": 825,
+                "place": 1244,
                 "text": "",
                 "type": "Birth"
             },
@@ -123008,7 +123008,7 @@ I = [
                 "part_person": [
                     1759
                 ],
-                "place": 136,
+                "place": 184,
                 "text": "",
                 "type": "Birth"
             },
@@ -123023,7 +123023,7 @@ I = [
                 "part_person": [
                     1759
                 ],
-                "place": 706,
+                "place": 1055,
                 "text": "",
                 "type": "Death"
             },
@@ -123038,7 +123038,7 @@ I = [
                 "part_person": [
                     1759
                 ],
-                "place": 821,
+                "place": 1239,
                 "text": "",
                 "type": "Burial"
             }
@@ -123105,7 +123105,7 @@ I = [
                 "part_person": [
                     1760
                 ],
-                "place": 555,
+                "place": 842,
                 "text": "",
                 "type": "Birth"
             },
@@ -123187,7 +123187,7 @@ I = [
                 "part_person": [
                     1761
                 ],
-                "place": 596,
+                "place": 906,
                 "text": "",
                 "type": "Birth"
             },
@@ -123269,7 +123269,7 @@ I = [
                 "part_person": [
                     1762
                 ],
-                "place": 825,
+                "place": 1244,
                 "text": "",
                 "type": "Birth"
             },
@@ -123351,7 +123351,7 @@ I = [
                 "part_person": [
                     1763
                 ],
-                "place": 270,
+                "place": 393,
                 "text": "",
                 "type": "Birth"
             },
@@ -123433,7 +123433,7 @@ I = [
                 "part_person": [
                     1764
                 ],
-                "place": 75,
+                "place": 102,
                 "text": "",
                 "type": "Birth"
             },
@@ -123517,7 +123517,7 @@ I = [
                 "part_person": [
                     1765
                 ],
-                "place": 424,
+                "place": 623,
                 "text": "",
                 "type": "Birth"
             },
@@ -123532,7 +123532,7 @@ I = [
                 "part_person": [
                     1765
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Death"
             }
@@ -123601,7 +123601,7 @@ I = [
                 "part_person": [
                     1766
                 ],
-                "place": 371,
+                "place": 544,
                 "text": "",
                 "type": "Birth"
             },
@@ -123683,7 +123683,7 @@ I = [
                 "part_person": [
                     1767
                 ],
-                "place": 596,
+                "place": 906,
                 "text": "",
                 "type": "Birth"
             },
@@ -123765,7 +123765,7 @@ I = [
                 "part_person": [
                     1768
                 ],
-                "place": 825,
+                "place": 1244,
                 "text": "",
                 "type": "Birth"
             },
@@ -123900,7 +123900,7 @@ I = [
                 "part_person": [
                     1770
                 ],
-                "place": 820,
+                "place": 1237,
                 "text": "",
                 "type": "Birth"
             },
@@ -123982,7 +123982,7 @@ I = [
                 "part_person": [
                     1771
                 ],
-                "place": 530,
+                "place": 802,
                 "text": "",
                 "type": "Birth"
             },
@@ -123997,7 +123997,7 @@ I = [
                 "part_person": [
                     1771
                 ],
-                "place": 419,
+                "place": 616,
                 "text": "",
                 "type": "Death"
             },
@@ -124012,7 +124012,7 @@ I = [
                 "part_person": [
                     1771
                 ],
-                "place": 405,
+                "place": 592,
                 "text": "",
                 "type": "Burial"
             }
@@ -124081,7 +124081,7 @@ I = [
                 "part_person": [
                     1772
                 ],
-                "place": 79,
+                "place": 107,
                 "text": "",
                 "type": "Birth"
             },
@@ -124163,7 +124163,7 @@ I = [
                 "part_person": [
                     1773
                 ],
-                "place": 537,
+                "place": 811,
                 "text": "",
                 "type": "Birth"
             },
@@ -124178,7 +124178,7 @@ I = [
                 "part_person": [
                     1773
                 ],
-                "place": 38,
+                "place": 51,
                 "text": "",
                 "type": "Death"
             },
@@ -124193,7 +124193,7 @@ I = [
                 "part_person": [
                     1773
                 ],
-                "place": 275,
+                "place": 398,
                 "text": "",
                 "type": "Burial"
             }
@@ -124313,7 +124313,7 @@ I = [
                 "part_person": [
                     1775
                 ],
-                "place": 226,
+                "place": 327,
                 "text": "",
                 "type": "Birth"
             },
@@ -124328,7 +124328,7 @@ I = [
                 "part_person": [
                     1775
                 ],
-                "place": 549,
+                "place": 829,
                 "text": "",
                 "type": "Death"
             }
@@ -124397,7 +124397,7 @@ I = [
                 "part_person": [
                     1776
                 ],
-                "place": 630,
+                "place": 952,
                 "text": "",
                 "type": "Birth"
             },
@@ -124535,7 +124535,7 @@ I = [
                 "part_person": [
                     1778
                 ],
-                "place": 498,
+                "place": 747,
                 "text": "",
                 "type": "Birth"
             },
@@ -124619,7 +124619,7 @@ I = [
                 "part_person": [
                     1779
                 ],
-                "place": 630,
+                "place": 952,
                 "text": "",
                 "type": "Birth"
             },
@@ -124703,7 +124703,7 @@ I = [
                 "part_person": [
                     1780
                 ],
-                "place": 693,
+                "place": 1036,
                 "text": "",
                 "type": "Birth"
             },
@@ -124836,7 +124836,7 @@ I = [
                 "part_person": [
                     1782
                 ],
-                "place": 825,
+                "place": 1244,
                 "text": "",
                 "type": "Birth"
             },
@@ -124971,7 +124971,7 @@ I = [
                 "part_person": [
                     1784
                 ],
-                "place": 293,
+                "place": 424,
                 "text": "",
                 "type": "Birth"
             },
@@ -125053,7 +125053,7 @@ I = [
                 "part_person": [
                     1785
                 ],
-                "place": 674,
+                "place": 1008,
                 "text": "",
                 "type": "Birth"
             },
@@ -125135,7 +125135,7 @@ I = [
                 "part_person": [
                     1786
                 ],
-                "place": 498,
+                "place": 747,
                 "text": "",
                 "type": "Birth"
             },
@@ -125219,7 +125219,7 @@ I = [
                 "part_person": [
                     1787
                 ],
-                "place": 777,
+                "place": 1160,
                 "text": "",
                 "type": "Birth"
             },
@@ -125234,7 +125234,7 @@ I = [
                 "part_person": [
                     1787
                 ],
-                "place": 444,
+                "place": 654,
                 "text": "",
                 "type": "Death"
             },
@@ -125249,7 +125249,7 @@ I = [
                 "part_person": [
                     1787
                 ],
-                "place": 444,
+                "place": 654,
                 "text": "",
                 "type": "Burial"
             }
@@ -125316,7 +125316,7 @@ I = [
                 "part_person": [
                     1788
                 ],
-                "place": 742,
+                "place": 1103,
                 "text": "",
                 "type": "Birth"
             },
@@ -125398,7 +125398,7 @@ I = [
                 "part_person": [
                     1789
                 ],
-                "place": 386,
+                "place": 571,
                 "text": "",
                 "type": "Birth"
             },
@@ -125480,7 +125480,7 @@ I = [
                 "part_person": [
                     1790
                 ],
-                "place": 98,
+                "place": 132,
                 "text": "",
                 "type": "Birth"
             },
@@ -125564,7 +125564,7 @@ I = [
                 "part_person": [
                     1791
                 ],
-                "place": 98,
+                "place": 132,
                 "text": "",
                 "type": "Birth"
             },
@@ -125699,7 +125699,7 @@ I = [
                 "part_person": [
                     1793
                 ],
-                "place": 563,
+                "place": 856,
                 "text": "",
                 "type": "Birth"
             }
@@ -125768,7 +125768,7 @@ I = [
                 "part_person": [
                     1794
                 ],
-                "place": 498,
+                "place": 747,
                 "text": "",
                 "type": "Birth"
             },
@@ -125852,7 +125852,7 @@ I = [
                 "part_person": [
                     1795
                 ],
-                "place": 594,
+                "place": 904,
                 "text": "",
                 "type": "Birth"
             },
@@ -125867,7 +125867,7 @@ I = [
                 "part_person": [
                     1795
                 ],
-                "place": 594,
+                "place": 904,
                 "text": "",
                 "type": "Death"
             }
@@ -125934,7 +125934,7 @@ I = [
                 "part_person": [
                     1796
                 ],
-                "place": 225,
+                "place": 326,
                 "text": "",
                 "type": "Birth"
             },
@@ -125949,7 +125949,7 @@ I = [
                 "part_person": [
                     1796
                 ],
-                "place": 410,
+                "place": 598,
                 "text": "",
                 "type": "Death"
             },
@@ -125964,7 +125964,7 @@ I = [
                 "part_person": [
                     1796
                 ],
-                "place": 345,
+                "place": 494,
                 "text": "",
                 "type": "Burial"
             }
@@ -126033,7 +126033,7 @@ I = [
                 "part_person": [
                     1797
                 ],
-                "place": 86,
+                "place": 114,
                 "text": "",
                 "type": "Birth"
             },
@@ -126301,7 +126301,7 @@ I = [
                 "part_person": [
                     1802
                 ],
-                "place": 335,
+                "place": 481,
                 "text": "",
                 "type": "Birth"
             },
@@ -126316,7 +126316,7 @@ I = [
                 "part_person": [
                     1802
                 ],
-                "place": 776,
+                "place": 1159,
                 "text": "",
                 "type": "Death"
             }
@@ -126536,7 +126536,7 @@ I = [
                 "part_person": [
                     1805
                 ],
-                "place": 499,
+                "place": 748,
                 "text": "",
                 "type": "Birth"
             }
@@ -126605,7 +126605,7 @@ I = [
                 "part_person": [
                     1806
                 ],
-                "place": 499,
+                "place": 748,
                 "text": "",
                 "type": "Birth"
             }
@@ -126717,7 +126717,7 @@ I = [
                 "part_person": [
                     1808
                 ],
-                "place": 499,
+                "place": 748,
                 "text": "",
                 "type": "Birth"
             }
@@ -126786,7 +126786,7 @@ I = [
                 "part_person": [
                     1809
                 ],
-                "place": 499,
+                "place": 748,
                 "text": "",
                 "type": "Birth"
             }
@@ -126922,7 +126922,7 @@ I = [
                 "part_person": [
                     1811
                 ],
-                "place": 499,
+                "place": 748,
                 "text": "",
                 "type": "Birth"
             }
@@ -126989,7 +126989,7 @@ I = [
                 "part_person": [
                     1812
                 ],
-                "place": 816,
+                "place": 1228,
                 "text": "",
                 "type": "Birth"
             },
@@ -127019,7 +127019,7 @@ I = [
                 "part_person": [
                     1812
                 ],
-                "place": 621,
+                "place": 939,
                 "text": "",
                 "type": "Burial"
             }
@@ -127080,7 +127080,7 @@ I = [
                 "part_person": [
                     1813
                 ],
-                "place": 65,
+                "place": 86,
                 "text": "",
                 "type": "Birth"
             },
@@ -127156,7 +127156,7 @@ I = [
                 "part_person": [
                     1814
                 ],
-                "place": 415,
+                "place": 613,
                 "text": "",
                 "type": "Birth"
             },
@@ -127238,7 +127238,7 @@ I = [
                 "part_person": [
                     1815
                 ],
-                "place": 646,
+                "place": 975,
                 "text": "",
                 "type": "Birth"
             },
@@ -127314,7 +127314,7 @@ I = [
                 "part_person": [
                     1816
                 ],
-                "place": 693,
+                "place": 1036,
                 "text": "",
                 "type": "Birth"
             },
@@ -127439,7 +127439,7 @@ I = [
                 "part_person": [
                     1818
                 ],
-                "place": 291,
+                "place": 422,
                 "text": "",
                 "type": "Birth"
             },
@@ -127521,7 +127521,7 @@ I = [
                 "part_person": [
                     1819
                 ],
-                "place": 381,
+                "place": 556,
                 "text": "",
                 "type": "Birth"
             }
@@ -127627,7 +127627,7 @@ I = [
                 "part_person": [
                     1821
                 ],
-                "place": 581,
+                "place": 882,
                 "text": "",
                 "type": "Birth"
             },
@@ -127642,7 +127642,7 @@ I = [
                 "part_person": [
                     1821
                 ],
-                "place": 380,
+                "place": 555,
                 "text": "",
                 "type": "Death"
             },
@@ -127657,7 +127657,7 @@ I = [
                 "part_person": [
                     1821
                 ],
-                "place": 282,
+                "place": 405,
                 "text": "",
                 "type": "Burial"
             }
@@ -127726,7 +127726,7 @@ I = [
                 "part_person": [
                     1822
                 ],
-                "place": 461,
+                "place": 680,
                 "text": "",
                 "type": "Birth"
             },
@@ -127741,7 +127741,7 @@ I = [
                 "part_person": [
                     1822
                 ],
-                "place": 666,
+                "place": 999,
                 "text": "",
                 "type": "Death"
             },
@@ -127756,7 +127756,7 @@ I = [
                 "part_person": [
                     1822
                 ],
-                "place": 244,
+                "place": 355,
                 "text": "",
                 "type": "Burial"
             }
@@ -127825,7 +127825,7 @@ I = [
                 "part_person": [
                     1823
                 ],
-                "place": 649,
+                "place": 979,
                 "text": "",
                 "type": "Birth"
             },
@@ -127909,7 +127909,7 @@ I = [
                 "part_person": [
                     1824
                 ],
-                "place": 649,
+                "place": 979,
                 "text": "",
                 "type": "Birth"
             }
@@ -127976,7 +127976,7 @@ I = [
                 "part_person": [
                     1825
                 ],
-                "place": 663,
+                "place": 996,
                 "text": "",
                 "type": "Birth"
             }
@@ -128043,7 +128043,7 @@ I = [
                 "part_person": [
                     1826
                 ],
-                "place": 113,
+                "place": 152,
                 "text": "",
                 "type": "Birth"
             },
@@ -128058,7 +128058,7 @@ I = [
                 "part_person": [
                     1826
                 ],
-                "place": 776,
+                "place": 1159,
                 "text": "",
                 "type": "Death"
             },
@@ -128073,7 +128073,7 @@ I = [
                 "part_person": [
                     1826
                 ],
-                "place": 188,
+                "place": 266,
                 "text": "",
                 "type": "Burial"
             }
@@ -128140,7 +128140,7 @@ I = [
                 "part_person": [
                     1827
                 ],
-                "place": 649,
+                "place": 979,
                 "text": "",
                 "type": "Birth"
             },
@@ -128267,7 +128267,7 @@ I = [
                 "part_person": [
                     1829
                 ],
-                "place": 649,
+                "place": 979,
                 "text": "",
                 "type": "Birth"
             },
@@ -128351,7 +128351,7 @@ I = [
                 "part_person": [
                     1830
                 ],
-                "place": 649,
+                "place": 979,
                 "text": "",
                 "type": "Birth"
             },
@@ -128433,7 +128433,7 @@ I = [
                 "part_person": [
                     1831
                 ],
-                "place": 651,
+                "place": 985,
                 "text": "",
                 "type": "Birth"
             },
@@ -128448,7 +128448,7 @@ I = [
                 "part_person": [
                     1831
                 ],
-                "place": 306,
+                "place": 442,
                 "text": "",
                 "type": "Death"
             },
@@ -128463,7 +128463,7 @@ I = [
                 "part_person": [
                     1831
                 ],
-                "place": 90,
+                "place": 120,
                 "text": "",
                 "type": "Burial"
             }
@@ -128532,7 +128532,7 @@ I = [
                 "part_person": [
                     1832
                 ],
-                "place": 649,
+                "place": 979,
                 "text": "",
                 "type": "Birth"
             },
@@ -128665,7 +128665,7 @@ I = [
                 "part_person": [
                     1834
                 ],
-                "place": 649,
+                "place": 979,
                 "text": "",
                 "type": "Birth"
             }
@@ -128732,7 +128732,7 @@ I = [
                 "part_person": [
                     1835
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -128747,7 +128747,7 @@ I = [
                 "part_person": [
                     1835
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Death"
             },
@@ -128762,7 +128762,7 @@ I = [
                 "part_person": [
                     1835
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Burial"
             }
@@ -128829,7 +128829,7 @@ I = [
                 "part_person": [
                     1836
                 ],
-                "place": 649,
+                "place": 979,
                 "text": "",
                 "type": "Birth"
             },
@@ -128911,7 +128911,7 @@ I = [
                 "part_person": [
                     1837
                 ],
-                "place": 233,
+                "place": 338,
                 "text": "",
                 "type": "Birth"
             },
@@ -128926,7 +128926,7 @@ I = [
                 "part_person": [
                     1837
                 ],
-                "place": 639,
+                "place": 966,
                 "text": "",
                 "type": "Death"
             },
@@ -128941,7 +128941,7 @@ I = [
                 "part_person": [
                     1837
                 ],
-                "place": 699,
+                "place": 1046,
                 "text": "",
                 "type": "Burial"
             }
@@ -129010,7 +129010,7 @@ I = [
                 "part_person": [
                     1838
                 ],
-                "place": 694,
+                "place": 1037,
                 "text": "",
                 "type": "Birth"
             }
@@ -129077,7 +129077,7 @@ I = [
                 "part_person": [
                     1839
                 ],
-                "place": 825,
+                "place": 1244,
                 "text": "",
                 "type": "Birth"
             },
@@ -129214,7 +129214,7 @@ I = [
                 "part_person": [
                     1841
                 ],
-                "place": 204,
+                "place": 292,
                 "text": "",
                 "type": "Birth"
             }
@@ -129281,7 +129281,7 @@ I = [
                 "part_person": [
                     1842
                 ],
-                "place": 101,
+                "place": 136,
                 "text": "",
                 "type": "Birth"
             },
@@ -129296,7 +129296,7 @@ I = [
                 "part_person": [
                     1842
                 ],
-                "place": 457,
+                "place": 674,
                 "text": "",
                 "type": "Death"
             },
@@ -129311,7 +129311,7 @@ I = [
                 "part_person": [
                     1842
                 ],
-                "place": 808,
+                "place": 1217,
                 "text": "",
                 "type": "Burial"
             }
@@ -129380,7 +129380,7 @@ I = [
                 "part_person": [
                     1843
                 ],
-                "place": 174,
+                "place": 247,
                 "text": "",
                 "type": "Birth"
             }
@@ -129447,7 +129447,7 @@ I = [
                 "part_person": [
                     1844
                 ],
-                "place": 113,
+                "place": 152,
                 "text": "",
                 "type": "Birth"
             },
@@ -129462,7 +129462,7 @@ I = [
                 "part_person": [
                     1844
                 ],
-                "place": 776,
+                "place": 1159,
                 "text": "",
                 "type": "Death"
             },
@@ -129477,7 +129477,7 @@ I = [
                 "part_person": [
                     1844
                 ],
-                "place": 188,
+                "place": 266,
                 "text": "",
                 "type": "Burial"
             }
@@ -129544,7 +129544,7 @@ I = [
                 "part_person": [
                     1845
                 ],
-                "place": 77,
+                "place": 104,
                 "text": "",
                 "type": "Birth"
             },
@@ -129559,7 +129559,7 @@ I = [
                 "part_person": [
                     1845
                 ],
-                "place": 395,
+                "place": 580,
                 "text": "",
                 "type": "Death"
             },
@@ -129574,7 +129574,7 @@ I = [
                 "part_person": [
                     1845
                 ],
-                "place": 680,
+                "place": 1015,
                 "text": "",
                 "type": "Burial"
             }
@@ -129643,7 +129643,7 @@ I = [
                 "part_person": [
                     1846
                 ],
-                "place": 174,
+                "place": 247,
                 "text": "",
                 "type": "Birth"
             },
@@ -129658,7 +129658,7 @@ I = [
                 "part_person": [
                     1846
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Death"
             },
@@ -129673,7 +129673,7 @@ I = [
                 "part_person": [
                     1846
                 ],
-                "place": 188,
+                "place": 266,
                 "text": "",
                 "type": "Burial"
             }
@@ -129742,7 +129742,7 @@ I = [
                 "part_person": [
                     1847
                 ],
-                "place": 130,
+                "place": 175,
                 "text": "",
                 "type": "Birth"
             }
@@ -129809,7 +129809,7 @@ I = [
                 "part_person": [
                     1848
                 ],
-                "place": 411,
+                "place": 604,
                 "text": "",
                 "type": "Birth"
             },
@@ -129824,7 +129824,7 @@ I = [
                 "part_person": [
                     1848
                 ],
-                "place": 2,
+                "place": 3,
                 "text": "",
                 "type": "Death"
             },
@@ -129839,7 +129839,7 @@ I = [
                 "part_person": [
                     1848
                 ],
-                "place": 188,
+                "place": 266,
                 "text": "",
                 "type": "Burial"
             }
@@ -129906,7 +129906,7 @@ I = [
                 "part_person": [
                     1849
                 ],
-                "place": 780,
+                "place": 1166,
                 "text": "",
                 "type": "Birth"
             },
@@ -129921,7 +129921,7 @@ I = [
                 "part_person": [
                     1849
                 ],
-                "place": 843,
+                "place": 1273,
                 "text": "",
                 "type": "Death"
             },
@@ -129936,7 +129936,7 @@ I = [
                 "part_person": [
                     1849
                 ],
-                "place": 90,
+                "place": 120,
                 "text": "",
                 "type": "Burial"
             }
@@ -130005,7 +130005,7 @@ I = [
                 "part_person": [
                     1850
                 ],
-                "place": 461,
+                "place": 680,
                 "text": "",
                 "type": "Birth"
             },
@@ -130020,7 +130020,7 @@ I = [
                 "part_person": [
                     1850
                 ],
-                "place": 666,
+                "place": 999,
                 "text": "",
                 "type": "Death"
             },
@@ -130035,7 +130035,7 @@ I = [
                 "part_person": [
                     1850
                 ],
-                "place": 244,
+                "place": 355,
                 "text": "",
                 "type": "Burial"
             }
@@ -130104,7 +130104,7 @@ I = [
                 "part_person": [
                     1851
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -130188,7 +130188,7 @@ I = [
                 "part_person": [
                     1852
                 ],
-                "place": 562,
+                "place": 852,
                 "text": "",
                 "type": "Birth"
             }
@@ -130257,7 +130257,7 @@ I = [
                 "part_person": [
                     1853
                 ],
-                "place": 323,
+                "place": 463,
                 "text": "",
                 "type": "Birth"
             }
@@ -130326,7 +130326,7 @@ I = [
                 "part_person": [
                     1854
                 ],
-                "place": 649,
+                "place": 979,
                 "text": "",
                 "type": "Birth"
             },
@@ -130408,7 +130408,7 @@ I = [
                 "part_person": [
                     1855
                 ],
-                "place": 649,
+                "place": 979,
                 "text": "",
                 "type": "Birth"
             },
@@ -130541,7 +130541,7 @@ I = [
                 "part_person": [
                     1857
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -130556,7 +130556,7 @@ I = [
                 "part_person": [
                     1857
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Death"
             }
@@ -130623,7 +130623,7 @@ I = [
                 "part_person": [
                     1858
                 ],
-                "place": 583,
+                "place": 888,
                 "text": "",
                 "type": "Birth"
             },
@@ -130638,7 +130638,7 @@ I = [
                 "part_person": [
                     1858
                 ],
-                "place": 415,
+                "place": 613,
                 "text": "",
                 "type": "Death"
             },
@@ -130653,7 +130653,7 @@ I = [
                 "part_person": [
                     1858
                 ],
-                "place": 699,
+                "place": 1046,
                 "text": "",
                 "type": "Burial"
             }
@@ -130720,7 +130720,7 @@ I = [
                 "part_person": [
                     1859
                 ],
-                "place": 233,
+                "place": 338,
                 "text": "",
                 "type": "Birth"
             },
@@ -130735,7 +130735,7 @@ I = [
                 "part_person": [
                     1859
                 ],
-                "place": 649,
+                "place": 979,
                 "text": "",
                 "type": "Death"
             }
@@ -130853,7 +130853,7 @@ I = [
                 "part_person": [
                     1861
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -130868,7 +130868,7 @@ I = [
                 "part_person": [
                     1861
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Death"
             },
@@ -130883,7 +130883,7 @@ I = [
                 "part_person": [
                     1861
                 ],
-                "place": 474,
+                "place": 707,
                 "text": "",
                 "type": "Burial"
             }
@@ -131001,7 +131001,7 @@ I = [
                 "part_person": [
                     1863
                 ],
-                "place": 562,
+                "place": 852,
                 "text": "",
                 "type": "Birth"
             }
@@ -131068,7 +131068,7 @@ I = [
                 "part_person": [
                     1864
                 ],
-                "place": 663,
+                "place": 996,
                 "text": "",
                 "type": "Birth"
             }
@@ -131135,7 +131135,7 @@ I = [
                 "part_person": [
                     1865
                 ],
-                "place": 639,
+                "place": 966,
                 "text": "",
                 "type": "Birth"
             },
@@ -131150,7 +131150,7 @@ I = [
                 "part_person": [
                     1865
                 ],
-                "place": 649,
+                "place": 979,
                 "text": "",
                 "type": "Death"
             }
@@ -131219,7 +131219,7 @@ I = [
                 "part_person": [
                     1866
                 ],
-                "place": 663,
+                "place": 996,
                 "text": "",
                 "type": "Birth"
             },
@@ -131348,7 +131348,7 @@ I = [
                 "part_person": [
                     1868
                 ],
-                "place": 384,
+                "place": 567,
                 "text": "",
                 "type": "Birth"
             },
@@ -131363,7 +131363,7 @@ I = [
                 "part_person": [
                     1868
                 ],
-                "place": 695,
+                "place": 1038,
                 "text": "",
                 "type": "Death"
             }
@@ -131432,7 +131432,7 @@ I = [
                 "part_person": [
                     1869
                 ],
-                "place": 510,
+                "place": 766,
                 "text": "",
                 "type": "Birth"
             },
@@ -131516,7 +131516,7 @@ I = [
                 "part_person": [
                     1870
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -131600,7 +131600,7 @@ I = [
                 "part_person": [
                     1871
                 ],
-                "place": 774,
+                "place": 1157,
                 "text": "",
                 "type": "Birth"
             },
@@ -131615,7 +131615,7 @@ I = [
                 "part_person": [
                     1871
                 ],
-                "place": 498,
+                "place": 747,
                 "text": "",
                 "type": "Death"
             },
@@ -131630,7 +131630,7 @@ I = [
                 "part_person": [
                     1871
                 ],
-                "place": 824,
+                "place": 1242,
                 "text": "",
                 "type": "Burial"
             }
@@ -131691,7 +131691,7 @@ I = [
                 "part_person": [
                     1872
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -131857,7 +131857,7 @@ I = [
                 "part_person": [
                     1874
                 ],
-                "place": 791,
+                "place": 1187,
                 "text": "",
                 "type": "Birth"
             },
@@ -132091,7 +132091,7 @@ I = [
                 "part_person": [
                     1877
                 ],
-                "place": 498,
+                "place": 747,
                 "text": "",
                 "type": "Birth"
             },
@@ -132175,7 +132175,7 @@ I = [
                 "part_person": [
                     1878
                 ],
-                "place": 510,
+                "place": 766,
                 "text": "",
                 "type": "Birth"
             },
@@ -132305,7 +132305,7 @@ I = [
                 "part_person": [
                     1880
                 ],
-                "place": 111,
+                "place": 150,
                 "text": "",
                 "type": "Birth"
             },
@@ -132320,7 +132320,7 @@ I = [
                 "part_person": [
                     1880
                 ],
-                "place": 493,
+                "place": 736,
                 "text": "",
                 "type": "Death"
             }
@@ -132381,7 +132381,7 @@ I = [
                 "part_person": [
                     1881
                 ],
-                "place": 177,
+                "place": 251,
                 "text": "",
                 "type": "Birth"
             },
@@ -132463,7 +132463,7 @@ I = [
                 "part_person": [
                     1882
                 ],
-                "place": 664,
+                "place": 997,
                 "text": "",
                 "type": "Birth"
             },
@@ -132711,7 +132711,7 @@ I = [
                 "part_person": [
                     1886
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -132793,7 +132793,7 @@ I = [
                 "part_person": [
                     1887
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -132875,7 +132875,7 @@ I = [
                 "part_person": [
                     1888
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -133098,7 +133098,7 @@ I = [
                 "part_person": [
                     1892
                 ],
-                "place": 825,
+                "place": 1244,
                 "text": "",
                 "type": "Birth"
             },
@@ -133225,7 +133225,7 @@ I = [
                 "part_person": [
                     1894
                 ],
-                "place": 670,
+                "place": 1004,
                 "text": "",
                 "type": "Birth"
             },
@@ -133307,7 +133307,7 @@ I = [
                 "part_person": [
                     1895
                 ],
-                "place": 338,
+                "place": 486,
                 "text": "",
                 "type": "Birth"
             },
@@ -133434,7 +133434,7 @@ I = [
                 "part_person": [
                     1897
                 ],
-                "place": 331,
+                "place": 475,
                 "text": "",
                 "type": "Birth"
             },
@@ -133449,7 +133449,7 @@ I = [
                 "part_person": [
                     1897
                 ],
-                "place": 231,
+                "place": 336,
                 "text": "",
                 "type": "Death"
             }
@@ -133578,7 +133578,7 @@ I = [
                 "part_person": [
                     1899
                 ],
-                "place": 789,
+                "place": 1183,
                 "text": "",
                 "type": "Burial"
             }
@@ -134266,7 +134266,7 @@ I = [
                 "part_person": [
                     1909
                 ],
-                "place": 134,
+                "place": 182,
                 "text": "",
                 "type": "Birth"
             },
@@ -134281,7 +134281,7 @@ I = [
                 "part_person": [
                     1909
                 ],
-                "place": 110,
+                "place": 149,
                 "text": "",
                 "type": "Death"
             }
@@ -134395,7 +134395,7 @@ I = [
                 "part_person": [
                     1911
                 ],
-                "place": 814,
+                "place": 1226,
                 "text": "",
                 "type": "Birth"
             },
@@ -134410,7 +134410,7 @@ I = [
                 "part_person": [
                     1911
                 ],
-                "place": 367,
+                "place": 539,
                 "text": "",
                 "type": "Death"
             }
@@ -134577,7 +134577,7 @@ I = [
                 "part_person": [
                     1914
                 ],
-                "place": 16,
+                "place": 23,
                 "text": "",
                 "type": "Burial"
             }
@@ -134636,7 +134636,7 @@ I = [
                 "part_person": [
                     1915
                 ],
-                "place": 461,
+                "place": 680,
                 "text": "",
                 "type": "Birth"
             },
@@ -134651,7 +134651,7 @@ I = [
                 "part_person": [
                     1915
                 ],
-                "place": 206,
+                "place": 298,
                 "text": "",
                 "type": "Death"
             },
@@ -134666,7 +134666,7 @@ I = [
                 "part_person": [
                     1915
                 ],
-                "place": 206,
+                "place": 298,
                 "text": "",
                 "type": "Burial"
             }
@@ -134772,7 +134772,7 @@ I = [
                 "part_person": [
                     1917
                 ],
-                "place": 88,
+                "place": 116,
                 "text": "",
                 "type": "Birth"
             },
@@ -134787,7 +134787,7 @@ I = [
                 "part_person": [
                     1917
                 ],
-                "place": 13,
+                "place": 21,
                 "text": "",
                 "type": "Death"
             },
@@ -134802,7 +134802,7 @@ I = [
                 "part_person": [
                     1917
                 ],
-                "place": 508,
+                "place": 763,
                 "text": "",
                 "type": "Burial"
             }
@@ -134946,7 +134946,7 @@ I = [
                 "part_person": [
                     1919
                 ],
-                "place": 47,
+                "place": 61,
                 "text": "",
                 "type": "Birth"
             },
@@ -134961,7 +134961,7 @@ I = [
                 "part_person": [
                     1919
                 ],
-                "place": 410,
+                "place": 598,
                 "text": "",
                 "type": "Death"
             },
@@ -134976,7 +134976,7 @@ I = [
                 "part_person": [
                     1919
                 ],
-                "place": 585,
+                "place": 891,
                 "text": "",
                 "type": "Burial"
             }
@@ -135415,7 +135415,7 @@ I = [
                 "part_person": [
                     1927
                 ],
-                "place": 245,
+                "place": 356,
                 "text": "",
                 "type": "Birth"
             },
@@ -135430,7 +135430,7 @@ I = [
                 "part_person": [
                     1927
                 ],
-                "place": 311,
+                "place": 448,
                 "text": "",
                 "type": "Death"
             },
@@ -135445,7 +135445,7 @@ I = [
                 "part_person": [
                     1927
                 ],
-                "place": 373,
+                "place": 548,
                 "text": "",
                 "type": "Burial"
             }
@@ -135514,7 +135514,7 @@ I = [
                 "part_person": [
                     1928
                 ],
-                "place": 390,
+                "place": 575,
                 "text": "",
                 "type": "Birth"
             },
@@ -135529,7 +135529,7 @@ I = [
                 "part_person": [
                     1928
                 ],
-                "place": 390,
+                "place": 575,
                 "text": "",
                 "type": "Death"
             },
@@ -135544,7 +135544,7 @@ I = [
                 "part_person": [
                     1928
                 ],
-                "place": 448,
+                "place": 658,
                 "text": "",
                 "type": "Burial"
             }
@@ -135605,7 +135605,7 @@ I = [
                 "part_person": [
                     1929
                 ],
-                "place": 390,
+                "place": 575,
                 "text": "",
                 "type": "Birth"
             },
@@ -135620,7 +135620,7 @@ I = [
                 "part_person": [
                     1929
                 ],
-                "place": 390,
+                "place": 575,
                 "text": "",
                 "type": "Death"
             },
@@ -135635,7 +135635,7 @@ I = [
                 "part_person": [
                     1929
                 ],
-                "place": 448,
+                "place": 658,
                 "text": "",
                 "type": "Burial"
             }
@@ -135839,7 +135839,7 @@ I = [
                 "part_person": [
                     1933
                 ],
-                "place": 223,
+                "place": 324,
                 "text": "",
                 "type": "Birth"
             },
@@ -136331,7 +136331,7 @@ I = [
                 "part_person": [
                     1942
                 ],
-                "place": 131,
+                "place": 176,
                 "text": "",
                 "type": "Birth"
             },
@@ -136346,7 +136346,7 @@ I = [
                 "part_person": [
                     1942
                 ],
-                "place": 221,
+                "place": 322,
                 "text": "",
                 "type": "Death"
             }
@@ -136702,7 +136702,7 @@ I = [
                 "part_person": [
                     1948
                 ],
-                "place": 611,
+                "place": 926,
                 "text": "",
                 "type": "Death"
             }
@@ -136967,7 +136967,7 @@ I = [
                 "part_person": [
                     1953
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -137051,7 +137051,7 @@ I = [
                 "part_person": [
                     1954
                 ],
-                "place": 825,
+                "place": 1244,
                 "text": "",
                 "type": "Birth"
             },
@@ -137133,7 +137133,7 @@ I = [
                 "part_person": [
                     1955
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -137262,7 +137262,7 @@ I = [
                 "part_person": [
                     1957
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -137346,7 +137346,7 @@ I = [
                 "part_person": [
                     1958
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -137430,7 +137430,7 @@ I = [
                 "part_person": [
                     1959
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -137514,7 +137514,7 @@ I = [
                 "part_person": [
                     1960
                 ],
-                "place": 825,
+                "place": 1244,
                 "text": "",
                 "type": "Birth"
             },
@@ -137596,7 +137596,7 @@ I = [
                 "part_person": [
                     1961
                 ],
-                "place": 322,
+                "place": 462,
                 "text": "",
                 "type": "Birth"
             },
@@ -137611,7 +137611,7 @@ I = [
                 "part_person": [
                     1961
                 ],
-                "place": 367,
+                "place": 539,
                 "text": "",
                 "type": "Death"
             }
@@ -137762,7 +137762,7 @@ I = [
                 "part_person": [
                     1963
                 ],
-                "place": 398,
+                "place": 584,
                 "text": "",
                 "type": "Birth"
             },
@@ -137777,7 +137777,7 @@ I = [
                 "part_person": [
                     1963
                 ],
-                "place": 705,
+                "place": 1054,
                 "text": "",
                 "type": "Death"
             }
@@ -137846,7 +137846,7 @@ I = [
                 "part_person": [
                     1964
                 ],
-                "place": 115,
+                "place": 156,
                 "text": "",
                 "type": "Birth"
             },
@@ -137861,7 +137861,7 @@ I = [
                 "part_person": [
                     1964
                 ],
-                "place": 785,
+                "place": 1174,
                 "text": "",
                 "type": "Death"
             }
@@ -138243,7 +138243,7 @@ I = [
                 "part_person": [
                     1969
                 ],
-                "place": 814,
+                "place": 1226,
                 "text": "",
                 "type": "Birth"
             },
@@ -138258,7 +138258,7 @@ I = [
                 "part_person": [
                     1969
                 ],
-                "place": 747,
+                "place": 1111,
                 "text": "",
                 "type": "Death"
             }
@@ -138396,7 +138396,7 @@ I = [
                 "part_person": [
                     1971
                 ],
-                "place": 831,
+                "place": 1257,
                 "text": "",
                 "type": "Birth"
             },
@@ -138411,7 +138411,7 @@ I = [
                 "part_person": [
                     1971
                 ],
-                "place": 653,
+                "place": 984,
                 "text": "",
                 "type": "Death"
             },
@@ -138426,7 +138426,7 @@ I = [
                 "part_person": [
                     1971
                 ],
-                "place": 195,
+                "place": 280,
                 "text": "",
                 "type": "Burial"
             }
@@ -138563,7 +138563,7 @@ I = [
                 "part_person": [
                     1973
                 ],
-                "place": 835,
+                "place": 1261,
                 "text": "",
                 "type": "Death"
             }
@@ -138632,7 +138632,7 @@ I = [
                 "part_person": [
                     1974
                 ],
-                "place": 848,
+                "place": 1282,
                 "text": "",
                 "type": "Birth"
             },
@@ -138647,7 +138647,7 @@ I = [
                 "part_person": [
                     1974
                 ],
-                "place": 556,
+                "place": 844,
                 "text": "",
                 "type": "Death"
             }
@@ -138716,7 +138716,7 @@ I = [
                 "part_person": [
                     1975
                 ],
-                "place": 637,
+                "place": 962,
                 "text": "",
                 "type": "Birth"
             },
@@ -138800,7 +138800,7 @@ I = [
                 "part_person": [
                     1976
                 ],
-                "place": 776,
+                "place": 1159,
                 "text": "",
                 "type": "Death"
             }
@@ -138906,7 +138906,7 @@ I = [
                 "part_person": [
                     1978
                 ],
-                "place": 720,
+                "place": 1072,
                 "text": "",
                 "type": "Birth"
             }
@@ -139065,7 +139065,7 @@ I = [
                 "part_person": [
                     1981
                 ],
-                "place": 720,
+                "place": 1072,
                 "text": "",
                 "type": "Birth"
             }
@@ -139222,7 +139222,7 @@ I = [
                 "part_person": [
                     1984
                 ],
-                "place": 229,
+                "place": 332,
                 "text": "",
                 "type": "Birth"
             },
@@ -139237,7 +139237,7 @@ I = [
                 "part_person": [
                     1984
                 ],
-                "place": 739,
+                "place": 1090,
                 "text": "",
                 "type": "Death"
             },
@@ -139252,7 +139252,7 @@ I = [
                 "part_person": [
                     1984
                 ],
-                "place": 623,
+                "place": 944,
                 "text": "",
                 "type": "Burial"
             }
@@ -139321,7 +139321,7 @@ I = [
                 "part_person": [
                     1985
                 ],
-                "place": 400,
+                "place": 587,
                 "text": "",
                 "type": "Birth"
             },
@@ -139336,7 +139336,7 @@ I = [
                 "part_person": [
                     1985
                 ],
-                "place": 229,
+                "place": 332,
                 "text": "",
                 "type": "Death"
             }
@@ -139397,7 +139397,7 @@ I = [
                 "part_person": [
                     1986
                 ],
-                "place": 535,
+                "place": 809,
                 "text": "",
                 "type": "Birth"
             },
@@ -139412,7 +139412,7 @@ I = [
                 "part_person": [
                     1986
                 ],
-                "place": 23,
+                "place": 32,
                 "text": "",
                 "type": "Death"
             }
@@ -139481,7 +139481,7 @@ I = [
                 "part_person": [
                     1987
                 ],
-                "place": 700,
+                "place": 1047,
                 "text": "",
                 "type": "Birth"
             },
@@ -139511,7 +139511,7 @@ I = [
                 "part_person": [
                     1987
                 ],
-                "place": 602,
+                "place": 914,
                 "text": "",
                 "type": "Burial"
             }
@@ -139580,7 +139580,7 @@ I = [
                 "part_person": [
                     1988
                 ],
-                "place": 709,
+                "place": 1061,
                 "text": "",
                 "type": "Birth"
             }
@@ -139639,7 +139639,7 @@ I = [
                 "part_person": [
                     1989
                 ],
-                "place": 254,
+                "place": 370,
                 "text": "",
                 "type": "Birth"
             },
@@ -139654,7 +139654,7 @@ I = [
                 "part_person": [
                     1989
                 ],
-                "place": 591,
+                "place": 900,
                 "text": "",
                 "type": "Death"
             },
@@ -139669,7 +139669,7 @@ I = [
                 "part_person": [
                     1989
                 ],
-                "place": 591,
+                "place": 900,
                 "text": "",
                 "type": "Burial"
             }
@@ -139738,7 +139738,7 @@ I = [
                 "part_person": [
                     1990
                 ],
-                "place": 36,
+                "place": 49,
                 "text": "",
                 "type": "Birth"
             },
@@ -139753,7 +139753,7 @@ I = [
                 "part_person": [
                     1990
                 ],
-                "place": 800,
+                "place": 1200,
                 "text": "",
                 "type": "Death"
             },
@@ -139768,7 +139768,7 @@ I = [
                 "part_person": [
                     1990
                 ],
-                "place": 94,
+                "place": 126,
                 "text": "",
                 "type": "Burial"
             }
@@ -139874,7 +139874,7 @@ I = [
                 "part_person": [
                     1992
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -140032,7 +140032,7 @@ I = [
                 "part_person": [
                     1994
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -140129,7 +140129,7 @@ I = [
                 "part_person": [
                     1995
                 ],
-                "place": 295,
+                "place": 426,
                 "text": "",
                 "type": "Death"
             }
@@ -140205,7 +140205,7 @@ I = [
                 "part_person": [
                     1996
                 ],
-                "place": 364,
+                "place": 528,
                 "text": "",
                 "type": "Death"
             }
@@ -140266,7 +140266,7 @@ I = [
                 "part_person": [
                     1997
                 ],
-                "place": 368,
+                "place": 540,
                 "text": "",
                 "type": "Birth"
             }
@@ -140327,7 +140327,7 @@ I = [
                 "part_person": [
                     1998
                 ],
-                "place": 822,
+                "place": 1240,
                 "text": "",
                 "type": "Birth"
             },
@@ -140409,7 +140409,7 @@ I = [
                 "part_person": [
                     1999
                 ],
-                "place": 672,
+                "place": 1006,
                 "text": "",
                 "type": "Birth"
             }
@@ -140470,7 +140470,7 @@ I = [
                 "part_person": [
                     2000
                 ],
-                "place": 825,
+                "place": 1244,
                 "text": "",
                 "type": "Birth"
             },
@@ -140552,7 +140552,7 @@ I = [
                 "part_person": [
                     2001
                 ],
-                "place": 269,
+                "place": 391,
                 "text": "",
                 "type": "Birth"
             },
@@ -140628,7 +140628,7 @@ I = [
                 "part_person": [
                     2002
                 ],
-                "place": 825,
+                "place": 1244,
                 "text": "",
                 "type": "Birth"
             },
@@ -140710,7 +140710,7 @@ I = [
                 "part_person": [
                     2003
                 ],
-                "place": 493,
+                "place": 736,
                 "text": "",
                 "type": "Birth"
             },
@@ -140725,7 +140725,7 @@ I = [
                 "part_person": [
                     2003
                 ],
-                "place": 430,
+                "place": 631,
                 "text": "",
                 "type": "Death"
             }
@@ -141138,7 +141138,7 @@ I = [
                 "part_person": [
                     2011
                 ],
-                "place": 408,
+                "place": 595,
                 "text": "",
                 "type": "Birth"
             }
@@ -141244,7 +141244,7 @@ I = [
                 "part_person": [
                     2013
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -141329,7 +141329,7 @@ I = [
                 "part_person": [
                     2014
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -141489,7 +141489,7 @@ I = [
                 "part_person": [
                     2016
                 ],
-                "place": 125,
+                "place": 170,
                 "text": "",
                 "type": "Birth"
             }
@@ -141762,7 +141762,7 @@ I = [
                 "part_person": [
                     2021
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -141846,7 +141846,7 @@ I = [
                 "part_person": [
                     2022
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -141928,7 +141928,7 @@ I = [
                 "part_person": [
                     2023
                 ],
-                "place": 542,
+                "place": 815,
                 "text": "",
                 "type": "Birth"
             },
@@ -141943,7 +141943,7 @@ I = [
                 "part_person": [
                     2023
                 ],
-                "place": 624,
+                "place": 945,
                 "text": "",
                 "type": "Death"
             },
@@ -141958,7 +141958,7 @@ I = [
                 "part_person": [
                     2023
                 ],
-                "place": 303,
+                "place": 438,
                 "text": "",
                 "type": "Burial"
             }
@@ -142027,7 +142027,7 @@ I = [
                 "part_person": [
                     2024
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -142209,7 +142209,7 @@ I = [
                 "part_person": [
                     2027
                 ],
-                "place": 8,
+                "place": 16,
                 "text": "",
                 "type": "Birth"
             },
@@ -142224,7 +142224,7 @@ I = [
                 "part_person": [
                     2027
                 ],
-                "place": 500,
+                "place": 750,
                 "text": "",
                 "type": "Death"
             }
@@ -142330,7 +142330,7 @@ I = [
                 "part_person": [
                     2029
                 ],
-                "place": 58,
+                "place": 78,
                 "text": "",
                 "type": "Birth"
             },
@@ -142467,7 +142467,7 @@ I = [
                 "part_person": [
                     2031
                 ],
-                "place": 445,
+                "place": 655,
                 "text": "",
                 "type": "Birth"
             },
@@ -142482,7 +142482,7 @@ I = [
                 "part_person": [
                     2031
                 ],
-                "place": 541,
+                "place": 816,
                 "text": "",
                 "type": "Death"
             }
@@ -142588,7 +142588,7 @@ I = [
                 "part_person": [
                     2033
                 ],
-                "place": 196,
+                "place": 278,
                 "text": "",
                 "type": "Birth"
             }
@@ -142702,7 +142702,7 @@ I = [
                 "part_person": [
                     2035
                 ],
-                "place": 68,
+                "place": 90,
                 "text": "",
                 "type": "Birth"
             }
@@ -142808,7 +142808,7 @@ I = [
                 "part_person": [
                     2037
                 ],
-                "place": 206,
+                "place": 298,
                 "text": "",
                 "type": "Birth"
             },
@@ -142823,7 +142823,7 @@ I = [
                 "part_person": [
                     2037
                 ],
-                "place": 206,
+                "place": 298,
                 "text": "",
                 "type": "Death"
             }
@@ -142884,7 +142884,7 @@ I = [
                 "part_person": [
                     2038
                 ],
-                "place": 176,
+                "place": 250,
                 "text": "",
                 "type": "Birth"
             }
@@ -142996,7 +142996,7 @@ I = [
                 "part_person": [
                     2040
                 ],
-                "place": 176,
+                "place": 250,
                 "text": "",
                 "type": "Birth"
             }
@@ -143078,7 +143078,7 @@ I = [
                 "part_person": [
                     2041
                 ],
-                "place": 362,
+                "place": 525,
                 "text": "",
                 "type": "Death"
             }
@@ -143434,7 +143434,7 @@ I = [
                 "part_person": [
                     2047
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -143563,7 +143563,7 @@ I = [
                 "part_person": [
                     2049
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -143645,7 +143645,7 @@ I = [
                 "part_person": [
                     2050
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -143727,7 +143727,7 @@ I = [
                 "part_person": [
                     2051
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -144302,7 +144302,7 @@ I = [
                 "part_person": [
                     2060
                 ],
-                "place": 814,
+                "place": 1226,
                 "text": "",
                 "type": "Birth"
             }
@@ -144369,7 +144369,7 @@ I = [
                 "part_person": [
                     2061
                 ],
-                "place": 221,
+                "place": 322,
                 "text": "",
                 "type": "Birth"
             },
@@ -144384,7 +144384,7 @@ I = [
                 "part_person": [
                     2061
                 ],
-                "place": 740,
+                "place": 1100,
                 "text": "",
                 "type": "Death"
             },
@@ -144399,7 +144399,7 @@ I = [
                 "part_person": [
                     2061
                 ],
-                "place": 5,
+                "place": 8,
                 "text": "",
                 "type": "Burial"
             }
@@ -144466,7 +144466,7 @@ I = [
                 "part_person": [
                     2062
                 ],
-                "place": 747,
+                "place": 1111,
                 "text": "",
                 "type": "Birth"
             }
@@ -144533,7 +144533,7 @@ I = [
                 "part_person": [
                     2063
                 ],
-                "place": 505,
+                "place": 758,
                 "text": "",
                 "type": "Birth"
             },
@@ -144548,7 +144548,7 @@ I = [
                 "part_person": [
                     2063
                 ],
-                "place": 378,
+                "place": 553,
                 "text": "",
                 "type": "Death"
             },
@@ -144563,7 +144563,7 @@ I = [
                 "part_person": [
                     2063
                 ],
-                "place": 378,
+                "place": 553,
                 "text": "",
                 "type": "Burial"
             }
@@ -144630,7 +144630,7 @@ I = [
                 "part_person": [
                     2064
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Birth"
             },
@@ -144645,7 +144645,7 @@ I = [
                 "part_person": [
                     2064
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Death"
             },
@@ -144660,7 +144660,7 @@ I = [
                 "part_person": [
                     2064
                 ],
-                "place": 446,
+                "place": 656,
                 "text": "",
                 "type": "Burial"
             }
@@ -144729,7 +144729,7 @@ I = [
                 "part_person": [
                     2065
                 ],
-                "place": 364,
+                "place": 528,
                 "text": "",
                 "type": "Birth"
             }
@@ -144796,7 +144796,7 @@ I = [
                 "part_person": [
                     2066
                 ],
-                "place": 364,
+                "place": 528,
                 "text": "",
                 "type": "Birth"
             }
@@ -144865,7 +144865,7 @@ I = [
                 "part_person": [
                     2067
                 ],
-                "place": 206,
+                "place": 298,
                 "text": "",
                 "type": "Birth"
             },
@@ -144880,7 +144880,7 @@ I = [
                 "part_person": [
                     2067
                 ],
-                "place": 206,
+                "place": 298,
                 "text": "",
                 "type": "Death"
             }
@@ -144941,7 +144941,7 @@ I = [
                 "part_person": [
                     2068
                 ],
-                "place": 248,
+                "place": 363,
                 "text": "",
                 "type": "Birth"
             },
@@ -144956,7 +144956,7 @@ I = [
                 "part_person": [
                     2068
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Death"
             },
@@ -144971,7 +144971,7 @@ I = [
                 "part_person": [
                     2068
                 ],
-                "place": 446,
+                "place": 656,
                 "text": "",
                 "type": "Burial"
             }
@@ -145040,7 +145040,7 @@ I = [
                 "part_person": [
                     2069
                 ],
-                "place": 364,
+                "place": 528,
                 "text": "",
                 "type": "Birth"
             }
@@ -145374,7 +145374,7 @@ I = [
                 "part_person": [
                     2075
                 ],
-                "place": 100,
+                "place": 135,
                 "text": "",
                 "type": "Birth"
             },
@@ -145389,7 +145389,7 @@ I = [
                 "part_person": [
                     2075
                 ],
-                "place": 28,
+                "place": 37,
                 "text": "",
                 "type": "Death"
             }
@@ -145673,7 +145673,7 @@ I = [
                 "part_person": [
                     2080
                 ],
-                "place": 776,
+                "place": 1159,
                 "text": "",
                 "type": "Death"
             }
@@ -145793,7 +145793,7 @@ I = [
                 "part_person": [
                     2082
                 ],
-                "place": 157,
+                "place": 217,
                 "text": "",
                 "type": "Birth"
             },
@@ -145930,7 +145930,7 @@ I = [
                 "part_person": [
                     2084
                 ],
-                "place": 88,
+                "place": 116,
                 "text": "",
                 "type": "Birth"
             },
@@ -145945,7 +145945,7 @@ I = [
                 "part_person": [
                     2084
                 ],
-                "place": 583,
+                "place": 888,
                 "text": "",
                 "type": "Death"
             },
@@ -145960,7 +145960,7 @@ I = [
                 "part_person": [
                     2084
                 ],
-                "place": 508,
+                "place": 763,
                 "text": "",
                 "type": "Burial"
             }
@@ -146125,7 +146125,7 @@ I = [
                 "part_person": [
                     2087
                 ],
-                "place": 746,
+                "place": 1108,
                 "text": "",
                 "type": "Burial"
             }
@@ -146520,7 +146520,7 @@ I = [
                 "part_person": [
                     2094
                 ],
-                "place": 685,
+                "place": 1024,
                 "text": "",
                 "type": "Birth"
             }
@@ -146589,7 +146589,7 @@ I = [
                 "part_person": [
                     2095
                 ],
-                "place": 760,
+                "place": 1132,
                 "text": "",
                 "type": "Birth"
             }
@@ -146701,7 +146701,7 @@ I = [
                 "part_person": [
                     2097
                 ],
-                "place": 126,
+                "place": 171,
                 "text": "",
                 "type": "Birth"
             },
@@ -146716,7 +146716,7 @@ I = [
                 "part_person": [
                     2097
                 ],
-                "place": 48,
+                "place": 63,
                 "text": "",
                 "type": "Death"
             }
@@ -146785,7 +146785,7 @@ I = [
                 "part_person": [
                     2098
                 ],
-                "place": 382,
+                "place": 558,
                 "text": "",
                 "type": "Birth"
             },
@@ -146800,7 +146800,7 @@ I = [
                 "part_person": [
                     2098
                 ],
-                "place": 586,
+                "place": 893,
                 "text": "",
                 "type": "Death"
             },
@@ -146815,7 +146815,7 @@ I = [
                 "part_person": [
                     2098
                 ],
-                "place": 261,
+                "place": 379,
                 "text": "",
                 "type": "Burial"
             }
