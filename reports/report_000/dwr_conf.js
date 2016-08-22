@@ -55,7 +55,7 @@ GRAMPS_PREFERENCES['color-gender-unknown-death'] = "#f3dbb6";
 SVG_TREE_COLOR_SCHEME0 = ["#ffffff", "#ffffff"];
 SVG_TREE_COLOR_SCHEME1 = ["#ff3f00", "#ffaf0f", "#ffdf57", "#ffff6f", "#9fff9f", "#6fd7ff", "#4f97ff", "#e717ff", "#e71779", "#d2aa7c", "#bd9970"];
 SVG_TREE_COLOR_SCHEME2 = ["#e5bffc", "#bfbffc", "#bfdefc", "#b7dbc5", "#cef6d1"];
-FOOTER="<div class=\"grampsstylednote\">\n<p>\nFooter: exported by  <a href=\'http://gramps-project.org/\' class=\'gramps_homepage\'>Gramps</a> on 2015-12-02\n</p>\n</div>";
+FOOTER="<div class=\"grampsstylednote\">\n<p>\nFooter: exported by  <a href=\'http://gramps-project.org/\' class=\'gramps_homepage\'>Gramps</a> on 2016-08-22\n</p>\n</div>";
 HEADER="<div class=\"grampsstylednote\">\n<p>\n<span style=\"color:#ef2929;\"></span><span style=\"text-decoration:underline;\"><span style=\"color:#ef2929;\"></span></span><span style=\"font-family:\'Serif\';\"><span style=\"text-decoration:underline;\"><span style=\"color:#ef2929;\"></span></span></span><strong><span style=\"font-family:\'Serif\';\"><span style=\"text-decoration:underline;\"><span style=\"color:#ef2929;\"></span></span></span></strong><span style=\"font-size:8px;\"><strong><span style=\"font-family:\'Serif\';\"><span style=\"text-decoration:underline;\"><span style=\"color:#ef2929;\">Title for the example pages</span></span></span></strong></span><strong><span style=\"font-family:\'Serif\';\"><span style=\"text-decoration:underline;\"><span style=\"color:#ef2929;\"></span></span></span></strong><span style=\"font-family:\'Serif\';\"><span style=\"text-decoration:underline;\"><span style=\"color:#ef2929;\"></span></span></span><span style=\"text-decoration:underline;\"><span style=\"color:#ef2929;\"></span></span><span style=\"color:#ef2929;\"></span>\n</p>\n</div>";
 BRAND_TITLE="";
 COPYRIGHT="";
@@ -77,8 +77,10 @@ INC_ADDRESSES=true;
 MAP_PLACE=true;
 MAP_FAMILY=true;
 MAP_SERVICE="Google";
+GOOGLE_MAP_KEY="";
 SOURCE_AUTHOR_IN_TITLE=false;
 TABBED_PANELS=false;
+INC_CHANGE_TIME=false;
 HIDE_GID=true;
 INC_PAGECONF = true;
 __ = {
@@ -125,6 +127,7 @@ __ = {
 "Event": "Event",
 "Events": "Events",
 "Examples": "Examples",
+"F": "F",
 "Families Index": "Families Index",
 "Families": "Families",
 "Family Nick Name": "Family Nick Name",
@@ -144,11 +147,13 @@ __ = {
 "Indexes": "Indexes",
 "Individuals": "Individuals",
 "Insert sources author in the sources title": "Insert sources author in the sources title",
+"Last Modified": "Last Modified",
 "Latitude": "Latitude",
 "Link": "Link",
 "Loading...": "Loading...",
 "Location": "Location",
 "Longitude": "Longitude",
+"M": "M",
 "Male": "Male",
 "Map": "Map",
 "Marriage": "Marriage",
@@ -188,6 +193,7 @@ __ = {
 "Repositories": "Repositories",
 "Repository": "Repository",
 "Restore": "Restore",
+"Show last modification time": "Show last modification time",
 "SVG tree children distribution": "SVG tree children distribution",
 "SVG tree graph shape": "SVG tree graph shape",
 "SVG tree graph type": "SVG tree graph type",
@@ -217,6 +223,7 @@ __ = {
 "Surnames": "Surnames",
 "Title": "Title",
 "Type": "Type",
+"U": "U",
 "Unknown": "Unknown",
 "Use tabbed panels instead of sections": "Use tabbed panels instead of sections",
 "Use the search box above in order to find a person.": "Use the search box above in order to find a person.",
@@ -286,4 +293,12 @@ URLTYPE_EMAIL = 1;
 URLTYPE_WEB_HOME = 2;
 URLTYPE_WEB_SEARCH = 3;
 URLTYPE_WEB_FTP = 4;
-STREET = "Street";LOCALITY = "Locality";CITY = "City";PARISH = "Church Parish";COUNTY = "County";STATE = "State/ Province";POSTAL = "Postal Code";COUNTRY = "Country";PHONE = "Phone";
+STREET = "Street";
+LOCALITY = "Locality";
+CITY = "City";
+PARISH = "Church Parish";
+COUNTY = "County";
+STATE = "State/ Province";
+POSTAL = "Postal Code";
+COUNTRY = "Country";
+PHONE = "Phone";

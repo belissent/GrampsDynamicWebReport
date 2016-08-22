@@ -38,4 +38,5 @@
 //       - rect: [x1, y1, x2, y2] of the media reference
 //       - note: notes of the media reference
 //       - cita: list of the media reference source citations index (in table 'C')
+//   - change_time: last record modification date
 M = []

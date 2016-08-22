@@ -32,11 +32,8 @@
 //     (including the persons directly referencing this place)
 //   - bkf: A list of the family index (in table 'F') for events referencing this place
 //   - bkp: A list of the places index (in table 'P') for places enclosed by this place (empty for version 4.0 and below)
+//   - change_time: last record modification date
 P = [
-    {
-        "gid": "P1643",
-        "name": "Aberdeen, SD, USA"
-    },
     {
         "gid": "P1131",
         "name": "Aberdeen, WA, USA"
@@ -66,10 +63,6 @@ P = [
         "name": "Alamogordo, NM, USA"
     },
     {
-        "gid": "P1446",
-        "name": "Albany, Albany, NY, USA"
-    },
-    {
         "gid": "P0970",
         "name": "Albany, Dougherty, GA, USA"
     },
@@ -78,24 +71,12 @@ P = [
         "name": "Albany, OR, USA"
     },
     {
-        "gid": "P1260",
-        "name": "Albert Lea, MN, USA"
-    },
-    {
         "gid": "P0866",
         "name": "Albertville, Marshall, AL, USA"
     },
     {
         "gid": "P1398",
         "name": "Albuquerque, NM, USA"
-    },
-    {
-        "gid": "P0894",
-        "name": "Alexandria, MD, USA"
-    },
-    {
-        "gid": "P1568",
-        "name": "Alexandria, MN, USA"
     },
     {
         "gid": "P0960",
@@ -110,32 +91,12 @@ P = [
         "name": "Allegan, MI, USA"
     },
     {
-        "gid": "P1096",
-        "name": "Allentown, PA, USA"
-    },
-    {
-        "gid": "P1225",
-        "name": "Alma, MI, USA"
-    },
-    {
-        "gid": "P0971",
-        "name": "Alpena, MI, USA"
-    },
-    {
-        "gid": "P1081",
-        "name": "Altoona, PA, USA"
-    },
-    {
         "gid": "P0913",
         "name": "Altus, OK, USA"
     },
     {
         "gid": "P1349",
         "name": "Amarillo, Potter, TX, USA"
-    },
-    {
-        "gid": "P1347",
-        "name": "Americus, Sumter, GA, USA"
     },
     {
         "gid": "P1460",
@@ -148,14 +109,6 @@ P = [
     {
         "gid": "P1133",
         "name": "Anchorage, AK, USA"
-    },
-    {
-        "gid": "P1474",
-        "name": "Anderson, Madison, IN, USA"
-    },
-    {
-        "gid": "P1007",
-        "name": "Anderson, SC, USA"
     },
     {
         "gid": "P1104",
@@ -226,10 +179,6 @@ P = [
         "name": "Atlanta, Fulton, GA, USA"
     },
     {
-        "gid": "P0921",
-        "name": "Auburn, Cayuga, NY, USA"
-    },
-    {
         "gid": "P1211",
         "name": "Auburn, Lee, AL, USA"
     },
@@ -238,20 +187,12 @@ P = [
         "name": "Augusta, ME, USA"
     },
     {
-        "gid": "P1401",
-        "name": "Austin, MN, USA"
-    },
-    {
         "gid": "P1480",
         "name": "Bainbridge, Decatur, GA, USA"
     },
     {
         "gid": "P1621",
         "name": "Baltimore, MD, USA"
-    },
-    {
-        "gid": "P0917",
-        "name": "Bangor, ME, USA"
     },
     {
         "gid": "P1314",
@@ -266,18 +207,6 @@ P = [
         "name": "Bartlesville, OK, USA"
     },
     {
-        "gid": "P1142",
-        "name": "Batavia, Genesee, NY, USA"
-    },
-    {
-        "gid": "P1087",
-        "name": "Batesville, Independence, AR, USA"
-    },
-    {
-        "gid": "P1256",
-        "name": "Baton Rouge, East Baton Rouge, LA, USA"
-    },
-    {
         "gid": "P1523",
         "name": "Battle Creek, MI, USA"
     },
@@ -286,24 +215,12 @@ P = [
         "name": "Bay City, Matagorda, TX, USA"
     },
     {
-        "gid": "P1687",
-        "name": "Bay City, MI, USA"
-    },
-    {
         "gid": "P1348",
         "name": "Beaumont, Jefferson, TX, USA"
     },
     {
-        "gid": "P1660",
-        "name": "Beaver Dam, WI, USA"
-    },
-    {
         "gid": "P1461",
         "name": "Beckley, WV, USA"
-    },
-    {
-        "gid": "P1258",
-        "name": "Bedford, Lawrence, IN, USA"
     },
     {
         "gid": "P1137",
@@ -314,10 +231,6 @@ P = [
         "name": "Bellingham, WA, USA"
     },
     {
-        "gid": "P1543",
-        "name": "Bemidji, MN, USA"
-    },
-    {
         "gid": "P1340",
         "name": "Bennettsville, SC, USA"
     },
@@ -326,16 +239,8 @@ P = [
         "name": "Bennington, VT, USA"
     },
     {
-        "gid": "P1146",
-        "name": "Berlin, NH, USA"
-    },
-    {
         "gid": "P0857",
         "name": "Bethesda, MD, USA"
-    },
-    {
-        "gid": "P1686",
-        "name": "Big Rapids, MI, USA"
     },
     {
         "gid": "P1197",
@@ -350,24 +255,8 @@ P = [
         "name": "Binghamton, Broome, NY, USA"
     },
     {
-        "gid": "P1578",
-        "name": "Birmingham, Jefferson, AL, USA"
-    },
-    {
-        "gid": "P0856",
-        "name": "Bishop, Inyo, CA, USA"
-    },
-    {
         "gid": "P1329",
         "name": "Bismarck, ND, USA"
-    },
-    {
-        "gid": "P1011",
-        "name": "Blackfoot, Bingham, ID, USA"
-    },
-    {
-        "gid": "P0922",
-        "name": "Blacksburg, VA, USA"
     },
     {
         "gid": "P1288",
@@ -376,14 +265,6 @@ P = [
     {
         "gid": "P1622",
         "name": "Bloomsburg, PA, USA"
-    },
-    {
-        "gid": "P1171",
-        "name": "Bluefield, WV-VA, USA"
-    },
-    {
-        "gid": "P1667",
-        "name": "Blytheville, Mississippi, AR, USA"
     },
     {
         "gid": "P1132",
@@ -398,10 +279,6 @@ P = [
         "name": "Boone, Boone, IA, USA"
     },
     {
-        "gid": "P0972",
-        "name": "Boone, NC, USA"
-    },
-    {
         "gid": "P1328",
         "name": "Boston, Suffolk, MA, USA"
     },
@@ -414,10 +291,6 @@ P = [
         "name": "Bowling Green, Warren, KY, USA"
     },
     {
-        "gid": "P1151",
-        "name": "Bozeman, MT, USA"
-    },
-    {
         "gid": "P1672",
         "name": "Brainerd, MN, USA"
     },
@@ -426,32 +299,12 @@ P = [
         "name": "Branson, MO, USA"
     },
     {
-        "gid": "P0886",
-        "name": "Bremerton, WA, USA"
-    },
-    {
-        "gid": "P1600",
-        "name": "Brenham, Washington, TX, USA"
-    },
-    {
         "gid": "P1658",
         "name": "Brevard, NC, USA"
     },
     {
-        "gid": "P1072",
-        "name": "Bridgeport, Fairfield, CT, USA"
-    },
-    {
         "gid": "P1069",
         "name": "Bridgeton, NJ, USA"
-    },
-    {
-        "gid": "P1052",
-        "name": "Brookhaven, MS, USA"
-    },
-    {
-        "gid": "P1436",
-        "name": "Brookings, OR, USA"
     },
     {
         "gid": "P1664",
@@ -482,20 +335,12 @@ P = [
         "name": "Burlington, Des Moines, IA, USA"
     },
     {
-        "gid": "P1322",
-        "name": "Burlington, NC, USA"
-    },
-    {
         "gid": "P1445",
         "name": "Burlington, VT, USA"
     },
     {
         "gid": "P1045",
         "name": "Butte, MT, USA"
-    },
-    {
-        "gid": "P0974",
-        "name": "Cabo Rojo, PR, USA"
     },
     {
         "gid": "P1618",
@@ -510,10 +355,6 @@ P = [
         "name": "Cambridge, MD, USA"
     },
     {
-        "gid": "P1036",
-        "name": "Cambridge, Middlesex, MA, USA"
-    },
-    {
         "gid": "P1297",
         "name": "Cambridge, OH, USA"
     },
@@ -524,10 +365,6 @@ P = [
     {
         "gid": "P1127",
         "name": "Camden, Ouachita, AR, USA"
-    },
-    {
-        "gid": "P1648",
-        "name": "Campbellsville, Taylor, KY, USA"
     },
     {
         "gid": "P1495",
@@ -550,20 +387,12 @@ P = [
         "name": "Cape Girardeau, MO, USA"
     },
     {
-        "gid": "P1690",
-        "name": "Carbondale, Jackson, IL, USA"
-    },
-    {
         "gid": "P1235",
         "name": "Carlsbad, NM, USA"
     },
     {
         "gid": "P1462",
         "name": "Carson City, NV, USA"
-    },
-    {
-        "gid": "P0909",
-        "name": "Casper, WY, USA"
     },
     {
         "gid": "P0871",
@@ -574,32 +403,12 @@ P = [
         "name": "Cedartown, Polk, GA, USA"
     },
     {
-        "gid": "P0895",
-        "name": "Celina, OH, USA"
-    },
-    {
-        "gid": "P1047",
-        "name": "Central City, Muhlenberg, KY, USA"
-    },
-    {
-        "gid": "P1364",
-        "name": "Centralia, Marion, IL, USA"
-    },
-    {
         "gid": "P1464",
         "name": "Centralia, WA, USA"
     },
     {
         "gid": "P1453",
         "name": "Champaign, Champaign, IL, USA"
-    },
-    {
-        "gid": "P0936",
-        "name": "Charleston, SC, USA"
-    },
-    {
-        "gid": "P1509",
-        "name": "Charleston, WV, USA"
     },
     {
         "gid": "P0901",
@@ -622,16 +431,8 @@ P = [
         "name": "Chicago, Cook, IL, USA"
     },
     {
-        "gid": "P1607",
-        "name": "Chico, Butte, CA, USA"
-    },
-    {
         "gid": "P1150",
         "name": "Chillicothe, OH, USA"
-    },
-    {
-        "gid": "P1608",
-        "name": "Cincinnati, OH, USA"
     },
     {
         "gid": "P1511",
@@ -642,16 +443,8 @@ P = [
         "name": "Clarksburg, WV, USA"
     },
     {
-        "gid": "P1059",
-        "name": "Clarksdale, MS, USA"
-    },
-    {
         "gid": "P1666",
         "name": "Clearlake, Lake, CA, USA"
-    },
-    {
-        "gid": "P0882",
-        "name": "Clearwater, Pinellas, FL, USA"
     },
     {
         "gid": "P1360",
@@ -660,26 +453,6 @@ P = [
     {
         "gid": "P0879",
         "name": "Cleveland, OH, USA"
-    },
-    {
-        "gid": "P1194",
-        "name": "Cleveland, TN, USA"
-    },
-    {
-        "gid": "P1013",
-        "name": "Clinton, Clinton, IA, USA"
-    },
-    {
-        "gid": "P1382",
-        "name": "Clovis, NM, USA"
-    },
-    {
-        "gid": "P0925",
-        "name": "Coamo, PR, USA"
-    },
-    {
-        "gid": "P1159",
-        "name": "Coeur d'Alene, Kootenai, ID, USA"
     },
     {
         "gid": "P1073",
@@ -706,20 +479,12 @@ P = [
         "name": "Columbia, SC, USA"
     },
     {
-        "gid": "P1088",
-        "name": "Columbia, TN, USA"
-    },
-    {
         "gid": "P1553",
         "name": "Columbus, Bartholomew, IN, USA"
     },
     {
         "gid": "P0975",
         "name": "Columbus, Jefferson, GA-AL, USA"
-    },
-    {
-        "gid": "P1167",
-        "name": "Columbus, MS, USA"
     },
     {
         "gid": "P1160",
@@ -742,10 +507,6 @@ P = [
         "name": "Cookeville, TN, USA"
     },
     {
-        "gid": "P0952",
-        "name": "Coos Bay, OR, USA"
-    },
-    {
         "gid": "P1440",
         "name": "Corbin, Whitley, KY, USA"
     },
@@ -754,36 +515,12 @@ P = [
         "name": "Cordele, Crisp, GA, USA"
     },
     {
-        "gid": "P0935",
-        "name": "Corinth, MS, USA"
-    },
-    {
-        "gid": "P1204",
-        "name": "Cornelia, Habersham, GA, USA"
-    },
-    {
-        "gid": "P1239",
-        "name": "Corning, Steuben, NY, USA"
-    },
-    {
         "gid": "P1437",
         "name": "Corpus Christi, Nueces, TX, USA"
     },
     {
-        "gid": "P1647",
-        "name": "Corsicana, Navarro, TX, USA"
-    },
-    {
-        "gid": "P1531",
-        "name": "Cortland, Cortland, NY, USA"
-    },
-    {
         "gid": "P1483",
         "name": "Corvallis, OR, USA"
-    },
-    {
-        "gid": "P1066",
-        "name": "Coshocton, OH, USA"
     },
     {
         "gid": "P0875",
@@ -802,16 +539,8 @@ P = [
         "name": "Crowley, Acadia, LA, USA"
     },
     {
-        "gid": "P0982",
-        "name": "Cullman, Cullman, AL, USA"
-    },
-    {
         "gid": "P1654",
         "name": "Dallas, Dallas, TX, USA"
-    },
-    {
-        "gid": "P1421",
-        "name": "Dalton, Madison, GA, USA"
     },
     {
         "gid": "P1367",
@@ -822,10 +551,6 @@ P = [
         "name": "Danville, VA, USA"
     },
     {
-        "gid": "P0968",
-        "name": "Danville, Vermilion, IL, USA"
-    },
-    {
         "gid": "P1070",
         "name": "Daphne, Baldwin, AL, USA"
     },
@@ -834,20 +559,12 @@ P = [
         "name": "Davenport, Scott, IA, USA"
     },
     {
-        "gid": "P1122",
-        "name": "Dayton, OH, USA"
-    },
-    {
         "gid": "P1420",
         "name": "De Ridder, LA, USA"
     },
     {
         "gid": "P1044",
         "name": "Decatur, Adams, IN, USA"
-    },
-    {
-        "gid": "P1107",
-        "name": "Decatur, Macon, IL, USA"
     },
     {
         "gid": "P1351",
@@ -882,36 +599,16 @@ P = [
         "name": "Detroit, MI, USA"
     },
     {
-        "gid": "P1000",
-        "name": "Dickinson, ND, USA"
-    },
-    {
         "gid": "P1408",
         "name": "Dixon, Lee, IL, USA"
-    },
-    {
-        "gid": "P1616",
-        "name": "Dodge City, Ford, KS, USA"
-    },
-    {
-        "gid": "P1703",
-        "name": "Dothan, Houston, AL, USA"
     },
     {
         "gid": "P1263",
         "name": "Douglas, Coffee, GA, USA"
     },
     {
-        "gid": "P1075",
-        "name": "Dover, Kent, DE, USA"
-    },
-    {
         "gid": "P0898",
         "name": "Dublin, Laurens, GA, USA"
-    },
-    {
-        "gid": "P1321",
-        "name": "DuBois, PA, USA"
     },
     {
         "gid": "P1242",
@@ -926,10 +623,6 @@ P = [
         "name": "Dumas, Moore, TX, USA"
     },
     {
-        "gid": "P0992",
-        "name": "Duncan, OK, USA"
-    },
-    {
         "gid": "P1536",
         "name": "Dunn, NC, USA"
     },
@@ -942,20 +635,12 @@ P = [
         "name": "Durant, OK, USA"
     },
     {
-        "gid": "P1634",
-        "name": "Durham, NC, USA"
-    },
-    {
         "gid": "P1416",
         "name": "Dyersburg, TN, USA"
     },
     {
         "gid": "P1010",
         "name": "Eagle Pass, Maverick, TX, USA"
-    },
-    {
-        "gid": "P1516",
-        "name": "East Liverpool, OH, USA"
     },
     {
         "gid": "P1118",
@@ -970,14 +655,6 @@ P = [
         "name": "Eau Claire, WI, USA"
     },
     {
-        "gid": "P1571",
-        "name": "Edison, NJ, USA"
-    },
-    {
-        "gid": "P1255",
-        "name": "Edwards, Eagle, CO, USA"
-    },
-    {
         "gid": "P1651",
         "name": "Effingham, Effingham, IL, USA"
     },
@@ -986,20 +663,12 @@ P = [
         "name": "El Campo, Wharton, TX, USA"
     },
     {
-        "gid": "P1080",
-        "name": "El Centro, Imperial, CA, USA"
-    },
-    {
         "gid": "P1549",
         "name": "Elizabeth City, NC, USA"
     },
     {
         "gid": "P1114",
         "name": "Elkhart, Elkhart, IN, USA"
-    },
-    {
-        "gid": "P1266",
-        "name": "Ellensburg, WA, USA"
     },
     {
         "gid": "P1026",
@@ -1018,10 +687,6 @@ P = [
         "name": "Enterprise, Coffee, AL, USA"
     },
     {
-        "gid": "P1169",
-        "name": "Erie, PA, USA"
-    },
-    {
         "gid": "P1051",
         "name": "Escanaba, MI, USA"
     },
@@ -1038,16 +703,8 @@ P = [
         "name": "Evanston, WY, USA"
     },
     {
-        "gid": "P1425",
-        "name": "Evansville, Vanderburgh, IN, USA"
-    },
-    {
         "gid": "P0988",
         "name": "Fairbanks, AK, USA"
-    },
-    {
-        "gid": "P0891",
-        "name": "Fairmont, MN, USA"
     },
     {
         "gid": "P1599",
@@ -1062,16 +719,8 @@ P = [
         "name": "Fallon, NV, USA"
     },
     {
-        "gid": "P0916",
-        "name": "Fargo, ND, USA"
-    },
-    {
         "gid": "P1411",
         "name": "Faribault-Northfield, MN, USA"
-    },
-    {
-        "gid": "P1179",
-        "name": "Farmington, MO, USA"
     },
     {
         "gid": "P0937",
@@ -1082,20 +731,8 @@ P = [
         "name": "Fayetteville, Washington, AR, USA"
     },
     {
-        "gid": "P1230",
-        "name": "Fergus Falls, MN, USA"
-    },
-    {
-        "gid": "P1389",
-        "name": "Findlay, OH, USA"
-    },
-    {
         "gid": "P1034",
         "name": "Fitzgerald, Ben Hill, GA, USA"
-    },
-    {
-        "gid": "P0933",
-        "name": "Flagstaff, Coconino, AZ, USA"
     },
     {
         "gid": "P1170",
@@ -1104,22 +741,6 @@ P = [
     {
         "gid": "P1478",
         "name": "Florence, Lauderdale, AL, USA"
-    },
-    {
-        "gid": "P0950",
-        "name": "Florence, SC, USA"
-    },
-    {
-        "gid": "P1162",
-        "name": "Fond du Lac, WI, USA"
-    },
-    {
-        "gid": "P1625",
-        "name": "Forest City, NC, USA"
-    },
-    {
-        "gid": "P1060",
-        "name": "Forrest City, St. Francis, AR, USA"
     },
     {
         "gid": "P0926",
@@ -1138,10 +759,6 @@ P = [
         "name": "Fort Leonard Wood, MO, USA"
     },
     {
-        "gid": "P0938",
-        "name": "Fort Morgan, Morgan, CO, USA"
-    },
-    {
         "gid": "P1419",
         "name": "Fort Polk South, LA, USA"
     },
@@ -1150,16 +767,8 @@ P = [
         "name": "Fort Smith, Sebastian, AR-OK, USA"
     },
     {
-        "gid": "P1546",
-        "name": "Fort Valley, Peach, GA, USA"
-    },
-    {
         "gid": "P1518",
         "name": "Fort Walton Beach, Okaloosa, FL, USA"
-    },
-    {
-        "gid": "P0954",
-        "name": "Fort Wayne, Allen, IN, USA"
     },
     {
         "gid": "P1121",
@@ -1168,10 +777,6 @@ P = [
     {
         "gid": "P1467",
         "name": "Fostoria, OH, USA"
-    },
-    {
-        "gid": "P1338",
-        "name": "Frankfort, Clinton, IN, USA"
     },
     {
         "gid": "P0991",
@@ -1190,28 +795,8 @@ P = [
         "name": "Fresno, Fresno, CA, USA"
     },
     {
-        "gid": "P0928",
-        "name": "Gadsden, Etowah, AL, USA"
-    },
-    {
         "gid": "P0867",
         "name": "Gaffney, SC, USA"
-    },
-    {
-        "gid": "P1153",
-        "name": "Gainesville, Alachua, FL, USA"
-    },
-    {
-        "gid": "P1535",
-        "name": "Gainesville, Hall, GA, USA"
-    },
-    {
-        "gid": "P0860",
-        "name": "Gainesville, Llano, TX, USA"
-    },
-    {
-        "gid": "P1270",
-        "name": "Gaithersburg, MD, USA"
     },
     {
         "gid": "P1039",
@@ -1230,18 +815,6 @@ P = [
         "name": "Gary, Lake, IN, USA"
     },
     {
-        "gid": "P1639",
-        "name": "Georgetown, SC, USA"
-    },
-    {
-        "gid": "P1527",
-        "name": "Gettysburg, PA, USA"
-    },
-    {
-        "gid": "P1195",
-        "name": "Gillette, WY, USA"
-    },
-    {
         "gid": "P1028",
         "name": "Glasgow, Barren, KY, USA"
     },
@@ -1250,24 +823,12 @@ P = [
         "name": "Glens Falls, Warren, NY, USA"
     },
     {
-        "gid": "P1427",
-        "name": "Gloversville, Fulton, NY, USA"
-    },
-    {
         "gid": "P1042",
         "name": "Goldsboro, NC, USA"
     },
     {
         "gid": "P1434",
         "name": "Granbury, Hood, TX, USA"
-    },
-    {
-        "gid": "P0889",
-        "name": "Grand Forks, ND, USA"
-    },
-    {
-        "gid": "P1626",
-        "name": "Grand Junction, Mesa, CO, USA"
     },
     {
         "gid": "P1542",
@@ -1284,18 +845,6 @@ P = [
     {
         "gid": "P1435",
         "name": "Great Falls, MT, USA"
-    },
-    {
-        "gid": "P1095",
-        "name": "Greeley, Weld, CO, USA"
-    },
-    {
-        "gid": "P1541",
-        "name": "Green Bay, WI, USA"
-    },
-    {
-        "gid": "P1005",
-        "name": "Greeneville, TN, USA"
     },
     {
         "gid": "P1694",
@@ -1334,10 +883,6 @@ P = [
         "name": "Grenada, MS, USA"
     },
     {
-        "gid": "P1148",
-        "name": "Guayama, PR, USA"
-    },
-    {
         "gid": "P1312",
         "name": "Guaynabo, PR, USA"
     },
@@ -1374,36 +919,12 @@ P = [
         "name": "Harriman, TN, USA"
     },
     {
-        "gid": "P1178",
-        "name": "Harrisburg, PA, USA"
-    },
-    {
-        "gid": "P1331",
-        "name": "Harrison, Boone, AR, USA"
-    },
-    {
-        "gid": "P1650",
-        "name": "Harrisonburg, VA, USA"
-    },
-    {
-        "gid": "P0893",
-        "name": "Hartford, Hartford, CT, USA"
-    },
-    {
-        "gid": "P1699",
-        "name": "Hastings, NE, USA"
-    },
-    {
         "gid": "P1662",
         "name": "Hattiesburg, MS, USA"
     },
     {
         "gid": "P1656",
         "name": "Havre, MT, USA"
-    },
-    {
-        "gid": "P0878",
-        "name": "Hays, Ellis, KS, USA"
     },
     {
         "gid": "P1477",
@@ -1438,20 +959,12 @@ P = [
         "name": "Hinesville, Liberty, GA, USA"
     },
     {
-        "gid": "P1064",
-        "name": "Hobbs, NM, USA"
-    },
-    {
         "gid": "P1079",
         "name": "Holland-Grand Haven, MI, USA"
     },
     {
         "gid": "P1308",
         "name": "Homosassa Springs, Citrus, FL, USA"
-    },
-    {
-        "gid": "P0929",
-        "name": "Honolulu, HI, USA"
     },
     {
         "gid": "P1525",
@@ -1478,10 +991,6 @@ P = [
         "name": "Hudson, Columbia, NY, USA"
     },
     {
-        "gid": "P0904",
-        "name": "Huntsville, Madison, AL, USA"
-    },
-    {
         "gid": "P1063",
         "name": "Huntsville, Walker, TX, USA"
     },
@@ -1506,20 +1015,12 @@ P = [
         "name": "Indiana, PA, USA"
     },
     {
-        "gid": "P1240",
-        "name": "Indianola, MS, USA"
-    },
-    {
         "gid": "P1025",
         "name": "Iowa City, Johnson, IA, USA"
     },
     {
         "gid": "P1369",
         "name": "Iron Mountain, MI, USA"
-    },
-    {
-        "gid": "P1692",
-        "name": "Isabela, PR, USA"
     },
     {
         "gid": "P1310",
@@ -1530,16 +1031,8 @@ P = [
         "name": "Jackson, TN, USA"
     },
     {
-        "gid": "P1251",
-        "name": "Jackson, WY, USA"
-    },
-    {
         "gid": "P1632",
         "name": "Jacksonville, Cherokee, TX, USA"
-    },
-    {
-        "gid": "P1642",
-        "name": "Jacksonville, Duval, FL, USA"
     },
     {
         "gid": "P1222",
@@ -1558,28 +1051,12 @@ P = [
         "name": "Janesville, WI, USA"
     },
     {
-        "gid": "P1491",
-        "name": "Jasper, Dubois, IN, USA"
-    },
-    {
         "gid": "P1633",
         "name": "Jefferson City, MO, USA"
     },
     {
         "gid": "P1668",
         "name": "Jennings, Jefferson Davis, LA, USA"
-    },
-    {
-        "gid": "P1233",
-        "name": "Jesup, Wayne, GA, USA"
-    },
-    {
-        "gid": "P1638",
-        "name": "Johnstown, PA, USA"
-    },
-    {
-        "gid": "P1220",
-        "name": "Jonesboro, Craighead, AR, USA"
     },
     {
         "gid": "P0915",
@@ -1596,14 +1073,6 @@ P = [
     {
         "gid": "P0859",
         "name": "Kalamazoo, MI, USA"
-    },
-    {
-        "gid": "P0907",
-        "name": "Kansas City, MO, USA"
-    },
-    {
-        "gid": "P1614",
-        "name": "Kapaa, HI, USA"
     },
     {
         "gid": "P1111",
@@ -1628,10 +1097,6 @@ P = [
     {
         "gid": "P1333",
         "name": "Keokuk, Lee, IA, USA"
-    },
-    {
-        "gid": "P0996",
-        "name": "Kerrville, Kerr, TX, USA"
     },
     {
         "gid": "P1370",
@@ -1690,20 +1155,12 @@ P = [
         "name": "La Grande, OR, USA"
     },
     {
-        "gid": "P1181",
-        "name": "Laconia, NH, USA"
-    },
-    {
         "gid": "P1271",
         "name": "Lafayette, Lafayette, LA, USA"
     },
     {
         "gid": "P1502",
         "name": "Lafayette, Tippecanoe, IN, USA"
-    },
-    {
-        "gid": "P0896",
-        "name": "LaGrange, GA, USA"
     },
     {
         "gid": "P1373",
@@ -1716,10 +1173,6 @@ P = [
     {
         "gid": "P1203",
         "name": "Lake County, IL, USA"
-    },
-    {
-        "gid": "P1466",
-        "name": "Lake Havasu City, Mohave, AZ, USA"
     },
     {
         "gid": "P1636",
@@ -1736,14 +1189,6 @@ P = [
     {
         "gid": "P0943",
         "name": "Lancaster, SC, USA"
-    },
-    {
-        "gid": "P1406",
-        "name": "Lansing, MI, USA"
-    },
-    {
-        "gid": "P1590",
-        "name": "Laramie, WY, USA"
     },
     {
         "gid": "P1426",
@@ -1766,16 +1211,8 @@ P = [
         "name": "Laurel, MS, USA"
     },
     {
-        "gid": "P1094",
-        "name": "Laurinburg, NC, USA"
-    },
-    {
         "gid": "P1519",
         "name": "Lawrence, Douglas, KS, USA"
-    },
-    {
-        "gid": "P1037",
-        "name": "Lawrenceburg, TN, USA"
     },
     {
         "gid": "P0868",
@@ -1790,18 +1227,6 @@ P = [
         "name": "Lebanon, PA, USA"
     },
     {
-        "gid": "P1515",
-        "name": "Levelland, Hockley, TX, USA"
-    },
-    {
-        "gid": "P1448",
-        "name": "Lewisburg, PA, USA"
-    },
-    {
-        "gid": "P1702",
-        "name": "Lewiston, ME, USA"
-    },
-    {
         "gid": "P1019",
         "name": "Lewiston, Nez Perce, ID, USA"
     },
@@ -1812,10 +1237,6 @@ P = [
     {
         "gid": "P1301",
         "name": "Lexington Park, MD, USA"
-    },
-    {
-        "gid": "P1092",
-        "name": "Lexington, Fayette, KY, USA"
     },
     {
         "gid": "P1588",
@@ -1834,16 +1255,8 @@ P = [
         "name": "Lima, OH, USA"
     },
     {
-        "gid": "P1103",
-        "name": "Lincoln, Logan, IL, USA"
-    },
-    {
         "gid": "P1433",
         "name": "Lincoln, NE, USA"
-    },
-    {
-        "gid": "P1547",
-        "name": "Little Rock, Pulaski, AR, USA"
     },
     {
         "gid": "P1174",
@@ -1858,68 +1271,20 @@ P = [
         "name": "Logan, UT-ID, USA"
     },
     {
-        "gid": "P1344",
-        "name": "London, Laurel, KY, USA"
-    },
-    {
-        "gid": "P1341",
-        "name": "Longview-Kelso, WA, USA"
-    },
-    {
         "gid": "P1675",
         "name": "Longview, Gregg, TX, USA"
-    },
-    {
-        "gid": "P1054",
-        "name": "Los Angeles, Los Angeles, CA, USA"
-    },
-    {
-        "gid": "P1479",
-        "name": "Louisville, Jefferson, KY, USA"
     },
     {
         "gid": "P1458",
         "name": "Loveland, Larimer, CO, USA"
     },
     {
-        "gid": "P1198",
-        "name": "Lufkin, Angelina, TX, USA"
-    },
-    {
-        "gid": "P0908",
-        "name": "Lumberton, NC, USA"
-    },
-    {
         "gid": "P1274",
         "name": "Lynchburg, VA, USA"
     },
     {
-        "gid": "P1473",
-        "name": "Macomb, McDonough, IL, USA"
-    },
-    {
         "gid": "P1339",
         "name": "Macon, Bibb, GA, USA"
-    },
-    {
-        "gid": "P1100",
-        "name": "Madera, Madera, CA, USA"
-    },
-    {
-        "gid": "P1676",
-        "name": "Madison, Jefferson, IN, USA"
-    },
-    {
-        "gid": "P1216",
-        "name": "Madison, WI, USA"
-    },
-    {
-        "gid": "P1513",
-        "name": "Magnolia, Columbia, AR, USA"
-    },
-    {
-        "gid": "P1688",
-        "name": "Malone, Franklin, NY, USA"
     },
     {
         "gid": "P1004",
@@ -1928,14 +1293,6 @@ P = [
     {
         "gid": "P1449",
         "name": "Manhattan, Riley, KS, USA"
-    },
-    {
-        "gid": "P0920",
-        "name": "Manitowoc, WI, USA"
-    },
-    {
-        "gid": "P1585",
-        "name": "Mankato, MN, USA"
     },
     {
         "gid": "P1428",
@@ -1948,10 +1305,6 @@ P = [
     {
         "gid": "P0980",
         "name": "Marion, Edwards, IL, USA"
-    },
-    {
-        "gid": "P1659",
-        "name": "Marion, Grant, IN, USA"
     },
     {
         "gid": "P1165",
@@ -1998,10 +1351,6 @@ P = [
         "name": "Mayag\u00fcez, PR, USA"
     },
     {
-        "gid": "P1683",
-        "name": "Mayfield, Graves, KY, USA"
-    },
-    {
         "gid": "P0906",
         "name": "Maysville, Mason, KY, USA"
     },
@@ -2030,10 +1379,6 @@ P = [
         "name": "Medford, OR, USA"
     },
     {
-        "gid": "P1476",
-        "name": "Memphis, TN, USA"
-    },
-    {
         "gid": "P1264",
         "name": "Menomonie, WI, USA"
     },
@@ -2042,24 +1387,12 @@ P = [
         "name": "Merced, Merced, CA, USA"
     },
     {
-        "gid": "P1557",
-        "name": "Meridian, MS, USA"
-    },
-    {
-        "gid": "P1128",
-        "name": "Merrill, WI, USA"
-    },
-    {
         "gid": "P1352",
         "name": "Mexico, MO, USA"
     },
     {
         "gid": "P1286",
         "name": "Miami Beach, Miami-Dade, FL, USA"
-    },
-    {
-        "gid": "P1229",
-        "name": "Miami, Miami-Dade, FL, USA"
     },
     {
         "gid": "P0869",
@@ -2078,20 +1411,12 @@ P = [
         "name": "Midland, MI, USA"
     },
     {
-        "gid": "P1381",
-        "name": "Midland, Midland, TX, USA"
-    },
-    {
         "gid": "P1560",
         "name": "Milledgeville, Baldwin, GA, USA"
     },
     {
         "gid": "P1372",
         "name": "Milwaukee, WI, USA"
-    },
-    {
-        "gid": "P1619",
-        "name": "Minden, Webster, LA, USA"
     },
     {
         "gid": "P1134",
@@ -2106,16 +1431,8 @@ P = [
         "name": "Minot, ND, USA"
     },
     {
-        "gid": "P1548",
-        "name": "Missoula, MT, USA"
-    },
-    {
         "gid": "P1292",
         "name": "Mitchell, SD, USA"
-    },
-    {
-        "gid": "P1008",
-        "name": "Moberly, MO, USA"
     },
     {
         "gid": "P0858",
@@ -2138,28 +1455,12 @@ P = [
         "name": "Monroe, WI, USA"
     },
     {
-        "gid": "P1540",
-        "name": "Montgomery, Montgomery, AL, USA"
-    },
-    {
-        "gid": "P0854",
-        "name": "Montrose, Montrose, CO, USA"
-    },
-    {
         "gid": "P0930",
         "name": "Mooresville, NC, USA"
     },
     {
-        "gid": "P1500",
-        "name": "Morehead City, NC, USA"
-    },
-    {
         "gid": "P0923",
         "name": "Morgan City, St. Mary, LA, USA"
-    },
-    {
-        "gid": "P1144",
-        "name": "Morgantown, WV, USA"
     },
     {
         "gid": "P1475",
@@ -2178,20 +1479,12 @@ P = [
         "name": "Moultrie, Colquitt, GA, USA"
     },
     {
-        "gid": "P1226",
-        "name": "Mount Airy, NC, USA"
-    },
-    {
         "gid": "P1517",
         "name": "Mount Pleasant, Taylor, TX, USA"
     },
     {
         "gid": "P1318",
         "name": "Mount Sterling, Montgomery, KY, USA"
-    },
-    {
-        "gid": "P1488",
-        "name": "Mount Vernon, OH, USA"
     },
     {
         "gid": "P1001",
@@ -2202,36 +1495,16 @@ P = [
         "name": "Mountain Home, Elmore, ID, USA"
     },
     {
-        "gid": "P1336",
-        "name": "Mountain Home, White, AR, USA"
-    },
-    {
         "gid": "P1492",
         "name": "Muncie, Delaware, IN, USA"
-    },
-    {
-        "gid": "P1327",
-        "name": "Muscatine, Muscatine, IA, USA"
     },
     {
         "gid": "P0949",
         "name": "Muskegon, MI, USA"
     },
     {
-        "gid": "P1356",
-        "name": "Muskogee, OK, USA"
-    },
-    {
         "gid": "P1661",
         "name": "Myrtle Beach, SC, USA"
-    },
-    {
-        "gid": "P1298",
-        "name": "Napa, Napa, CA, USA"
-    },
-    {
-        "gid": "P1273",
-        "name": "Naples, Collier, FL, USA"
     },
     {
         "gid": "P1653",
@@ -2254,10 +1527,6 @@ P = [
         "name": "New Castle, PA, USA"
     },
     {
-        "gid": "P0865",
-        "name": "New Haven, New Haven, CT, USA"
-    },
-    {
         "gid": "P1384",
         "name": "New Orleans, Orleans, LA, USA"
     },
@@ -2268,10 +1537,6 @@ P = [
     {
         "gid": "P1410",
         "name": "New Ulm, MN, USA"
-    },
-    {
-        "gid": "P1219",
-        "name": "Newberry, SC, USA"
     },
     {
         "gid": "P1191",
@@ -2294,20 +1559,8 @@ P = [
         "name": "Norfolk, NE, USA"
     },
     {
-        "gid": "P0883",
-        "name": "North Platte, NE, USA"
-    },
-    {
-        "gid": "P1149",
-        "name": "North Vernon, Jennings, IN, USA"
-    },
-    {
         "gid": "P1415",
         "name": "Norwalk, OH, USA"
-    },
-    {
-        "gid": "P1353",
-        "name": "Norwich, New London, CT, USA"
     },
     {
         "gid": "P1098",
@@ -2322,10 +1575,6 @@ P = [
         "name": "Ocean City, NJ, USA"
     },
     {
-        "gid": "P1186",
-        "name": "Ocean Pines, MD, USA"
-    },
-    {
         "gid": "P1554",
         "name": "Ogden, UT, USA"
     },
@@ -2338,40 +1587,16 @@ P = [
         "name": "Oil City, PA, USA"
     },
     {
-        "gid": "P1058",
-        "name": "Oklahoma City, OK, USA"
-    },
-    {
-        "gid": "P1056",
-        "name": "Olean, Cattaraugus, NY, USA"
-    },
-    {
         "gid": "P1532",
         "name": "Olympia, WA, USA"
-    },
-    {
-        "gid": "P1262",
-        "name": "Omaha, NE, USA"
-    },
-    {
-        "gid": "P1110",
-        "name": "Oneonta, Otsego, NY, USA"
     },
     {
         "gid": "P1529",
         "name": "Ontario, OR-ID, USA"
     },
     {
-        "gid": "P1693",
-        "name": "Orangeburg, SC, USA"
-    },
-    {
         "gid": "P1129",
         "name": "Orlando, Orange, FL, USA"
-    },
-    {
-        "gid": "P0951",
-        "name": "Oshkosh, WI, USA"
     },
     {
         "gid": "P1252",
@@ -2386,14 +1611,6 @@ P = [
         "name": "Ottumwa, Wapello, IA, USA"
     },
     {
-        "gid": "P1168",
-        "name": "Owensboro, Daviess, KY, USA"
-    },
-    {
-        "gid": "P1358",
-        "name": "Owosso, MI, USA"
-    },
-    {
         "gid": "P1496",
         "name": "Oxford, MS, USA"
     },
@@ -2406,10 +1623,6 @@ P = [
         "name": "Paducah, McCracken, KY-IL, USA"
     },
     {
-        "gid": "P1014",
-        "name": "Pahrump, NV, USA"
-    },
-    {
         "gid": "P1594",
         "name": "Palatka, Putnam, FL, USA"
     },
@@ -2418,16 +1631,8 @@ P = [
         "name": "Palestine, Hopkins, TX, USA"
     },
     {
-        "gid": "P1275",
-        "name": "Palm Bay, Brevard, FL, USA"
-    },
-    {
         "gid": "P0931",
         "name": "Palm Coast, Flagler, FL, USA"
-    },
-    {
-        "gid": "P0989",
-        "name": "Pampa, Gray, TX, USA"
     },
     {
         "gid": "P1698",
@@ -2466,24 +1671,12 @@ P = [
         "name": "Peru, Miami, IN, USA"
     },
     {
-        "gid": "P1313",
-        "name": "Philadelphia, PA, USA"
-    },
-    {
-        "gid": "P1413",
-        "name": "Philadelphia, PA, USA"
-    },
-    {
         "gid": "P1526",
         "name": "Phoenix Lake, Tuolumne, CA, USA"
     },
     {
         "gid": "P1281",
         "name": "Phoenix, Maricopa, AZ, USA"
-    },
-    {
-        "gid": "P1691",
-        "name": "Picayune, MS, USA"
     },
     {
         "gid": "P1609",
@@ -2496,10 +1689,6 @@ P = [
     {
         "gid": "P1212",
         "name": "Pittsburgh, PA, USA"
-    },
-    {
-        "gid": "P1316",
-        "name": "Pittsfield, Berkshire, MA, USA"
     },
     {
         "gid": "P1183",
@@ -2522,10 +1711,6 @@ P = [
         "name": "Point Pleasant, WV, USA"
     },
     {
-        "gid": "P1138",
-        "name": "Ponca City, OK, USA"
-    },
-    {
         "gid": "P1422",
         "name": "Ponce, PR, USA"
     },
@@ -2542,16 +1727,8 @@ P = [
         "name": "Port Angeles, WA, USA"
     },
     {
-        "gid": "P1521",
-        "name": "Port St, Lucie, FL, USA"
-    },
-    {
         "gid": "P1083",
         "name": "Portales, NM, USA"
-    },
-    {
-        "gid": "P0876",
-        "name": "Porterville, Tulare, CA, USA"
     },
     {
         "gid": "P1113",
@@ -2572,10 +1749,6 @@ P = [
     {
         "gid": "P0910",
         "name": "Poughkeepsie, Dutchess, NY, USA"
-    },
-    {
-        "gid": "P0947",
-        "name": "Providence, RI, USA"
     },
     {
         "gid": "P1049",
@@ -2618,10 +1791,6 @@ P = [
         "name": "Red Bluff, Tehama, CA, USA"
     },
     {
-        "gid": "P0914",
-        "name": "Red Wing, MN, USA"
-    },
-    {
         "gid": "P1249",
         "name": "Redding, Shasta, CA, USA"
     },
@@ -2636,14 +1805,6 @@ P = [
     {
         "gid": "P1124",
         "name": "Rexburg, Madison, ID, USA"
-    },
-    {
-        "gid": "P1223",
-        "name": "Richmond, Madison, KY, USA"
-    },
-    {
-        "gid": "P1615",
-        "name": "Richmond, VA, USA"
     },
     {
         "gid": "P1236",
@@ -2674,24 +1835,8 @@ P = [
         "name": "Rochester, MN, USA"
     },
     {
-        "gid": "P1562",
-        "name": "Rock Springs, WY, USA"
-    },
-    {
-        "gid": "P1062",
-        "name": "Rockford, Winnebago, IL, USA"
-    },
-    {
-        "gid": "P1259",
-        "name": "Rockingham County, NH, USA"
-    },
-    {
         "gid": "P1120",
         "name": "Rockingham, NC, USA"
-    },
-    {
-        "gid": "P0956",
-        "name": "Rockland, ME, USA"
     },
     {
         "gid": "P1586",
@@ -2706,20 +1851,8 @@ P = [
         "name": "Rome, Floyd, GA, USA"
     },
     {
-        "gid": "P1185",
-        "name": "Roseburg, OR, USA"
-    },
-    {
         "gid": "P1346",
         "name": "Roswell, NM, USA"
-    },
-    {
-        "gid": "P1649",
-        "name": "Russellville, Pope, AR, USA"
-    },
-    {
-        "gid": "P0955",
-        "name": "Ruston, Lincoln, LA, USA"
     },
     {
         "gid": "P0873",
@@ -2730,14 +1863,6 @@ P = [
         "name": "Saginaw, MI, USA"
     },
     {
-        "gid": "P1544",
-        "name": "Salem, OR, USA"
-    },
-    {
-        "gid": "P1669",
-        "name": "Salina, Saline, KS, USA"
-    },
-    {
         "gid": "P1317",
         "name": "Salinas, Monterey, CA, USA"
     },
@@ -2746,28 +1871,12 @@ P = [
         "name": "Salisbury, NC, USA"
     },
     {
-        "gid": "P1589",
-        "name": "Salt Lake City, UT, USA"
-    },
-    {
-        "gid": "P1330",
-        "name": "San Angelo, Tom Green, TX, USA"
-    },
-    {
         "gid": "P1187",
         "name": "San Antonio, Bexar, TX, USA"
     },
     {
         "gid": "P0892",
         "name": "San Diego, San Diego, CA, USA"
-    },
-    {
-        "gid": "P1040",
-        "name": "San Francisco, San Francisco, CA, USA"
-    },
-    {
-        "gid": "P1006",
-        "name": "San Germ\u00e1n, PR, USA"
     },
     {
         "gid": "P1105",
@@ -2782,10 +1891,6 @@ P = [
         "name": "San Sebasti\u00e1n, PR, USA"
     },
     {
-        "gid": "P1302",
-        "name": "Sandusky, OH, USA"
-    },
-    {
         "gid": "P1481",
         "name": "Sanford, NC, USA"
     },
@@ -2794,20 +1899,12 @@ P = [
         "name": "Santa Ana, Orange, CA, USA"
     },
     {
-        "gid": "P1182",
-        "name": "Santa Cruz, Santa Cruz, CA, USA"
-    },
-    {
         "gid": "P1032",
         "name": "Santa Fe, NM, USA"
     },
     {
         "gid": "P1566",
         "name": "Santa Isabel, PR, USA"
-    },
-    {
-        "gid": "P1383",
-        "name": "Santa Rosa-Petaluma, CA, USA"
     },
     {
         "gid": "P1564",
@@ -2822,10 +1919,6 @@ P = [
         "name": "Scottsbluff, NE, USA"
     },
     {
-        "gid": "P0885",
-        "name": "Scottsburg, Scott, IN, USA"
-    },
-    {
         "gid": "P1522",
         "name": "Scranton, PA, USA"
     },
@@ -2836,10 +1929,6 @@ P = [
     {
         "gid": "P1065",
         "name": "Searcy, White, AR, USA"
-    },
-    {
-        "gid": "P1311",
-        "name": "Seattle, WA, USA"
     },
     {
         "gid": "P1404",
@@ -2858,22 +1947,6 @@ P = [
         "name": "Seneca, SC, USA"
     },
     {
-        "gid": "P1290",
-        "name": "Sevierville, TN, USA"
-    },
-    {
-        "gid": "P1514",
-        "name": "Seymour, Jackson, IN, USA"
-    },
-    {
-        "gid": "P1539",
-        "name": "Shawnee, OK, USA"
-    },
-    {
-        "gid": "P1099",
-        "name": "Sheboygan, WI, USA"
-    },
-    {
         "gid": "P1154",
         "name": "Shelby, NC, USA"
     },
@@ -2884,10 +1957,6 @@ P = [
     {
         "gid": "P1551",
         "name": "Shelton, WA, USA"
-    },
-    {
-        "gid": "P1655",
-        "name": "Sheridan, WY, USA"
     },
     {
         "gid": "P1335",
@@ -2902,10 +1971,6 @@ P = [
         "name": "Sidney, OH, USA"
     },
     {
-        "gid": "P1147",
-        "name": "Sierra Vista, Cochise, AZ, USA"
-    },
-    {
         "gid": "P1412",
         "name": "Sikeston, MO, USA"
     },
@@ -2914,32 +1979,12 @@ P = [
         "name": "Silver City, NM, USA"
     },
     {
-        "gid": "P1018",
-        "name": "Silverthorne, Summit, CO, USA"
-    },
-    {
         "gid": "P1646",
         "name": "Sioux City, Woodbury, IA-NE-SD, USA"
     },
     {
-        "gid": "P1459",
-        "name": "Sioux Falls, SD, USA"
-    },
-    {
-        "gid": "P1371",
-        "name": "Somerset, PA, USA"
-    },
-    {
         "gid": "P1431",
         "name": "Somerset, Pulaski, KY, USA"
-    },
-    {
-        "gid": "P1254",
-        "name": "South Bend, St. Joseph, IN, USA"
-    },
-    {
-        "gid": "P1508",
-        "name": "Southern Pines, NC, USA"
     },
     {
         "gid": "P0953",
@@ -2970,10 +2015,6 @@ P = [
         "name": "Springfield, MO, USA"
     },
     {
-        "gid": "P1591",
-        "name": "Springfield, OH, USA"
-    },
-    {
         "gid": "P1172",
         "name": "Springfield, Sangamon, IL, USA"
     },
@@ -2990,20 +2031,12 @@ P = [
         "name": "St, Louis, St, Louis, MO-IL, USA"
     },
     {
-        "gid": "P1155",
-        "name": "St, Marys, St, Marys, PA, USA"
-    },
-    {
         "gid": "P1606",
         "name": "Starkville, MS, USA"
     },
     {
         "gid": "P1423",
         "name": "State College, PA, USA"
-    },
-    {
-        "gid": "P1402",
-        "name": "Statesboro, Bulloch, GA, USA"
     },
     {
         "gid": "P1152",
@@ -3034,16 +2067,8 @@ P = [
         "name": "Stillwater, OK, USA"
     },
     {
-        "gid": "P1624",
-        "name": "Stockton, San Joaquin, CA, USA"
-    },
-    {
         "gid": "P1640",
         "name": "Storm Lake, Buena Vista, IA, USA"
-    },
-    {
-        "gid": "P1031",
-        "name": "Sturgis, MI, USA"
     },
     {
         "gid": "P1387",
@@ -3086,22 +2111,6 @@ P = [
         "name": "Tampa, Hillsborough, FL, USA"
     },
     {
-        "gid": "P1020",
-        "name": "Taos, NM, USA"
-    },
-    {
-        "gid": "P1231",
-        "name": "Taylorville, Christian, IL, USA"
-    },
-    {
-        "gid": "P1357",
-        "name": "Terre Haute, Vigo, IN, USA"
-    },
-    {
-        "gid": "P1652",
-        "name": "Texarkana, Miller, AR, USA"
-    },
-    {
         "gid": "P1393",
         "name": "The Villages, Sumter, FL, USA"
     },
@@ -3112,18 +2121,6 @@ P = [
     {
         "gid": "P1248",
         "name": "Thomasville, Fulton, GA, USA"
-    },
-    {
-        "gid": "P1679",
-        "name": "Tifton, Tift, GA, USA"
-    },
-    {
-        "gid": "P1463",
-        "name": "Toccoa, Stephens, GA, USA"
-    },
-    {
-        "gid": "P0976",
-        "name": "Toledo, OH, USA"
     },
     {
         "gid": "P1592",
@@ -3146,16 +2143,8 @@ P = [
         "name": "Tucson, Pima, AZ, USA"
     },
     {
-        "gid": "P1305",
-        "name": "Tullahoma, TN, USA"
-    },
-    {
         "gid": "P1319",
         "name": "Tupelo, MS, USA"
-    },
-    {
-        "gid": "P1405",
-        "name": "Tuscaloosa, Tuscaloosa, AL, USA"
     },
     {
         "gid": "P1218",
@@ -3186,20 +2175,12 @@ P = [
         "name": "Urbana, OH, USA"
     },
     {
-        "gid": "P1429",
-        "name": "Utica-Rome, NY, USA"
-    },
-    {
         "gid": "P1082",
         "name": "Uvalde, Uvalde, TX, USA"
     },
     {
         "gid": "P1680",
         "name": "Valdosta, Lowndes, GA, USA"
-    },
-    {
-        "gid": "P1200",
-        "name": "Vallejo, Solano, CA, USA"
     },
     {
         "gid": "P1684",
@@ -3212,10 +2193,6 @@ P = [
     {
         "gid": "P1574",
         "name": "Vernal, UT, USA"
-    },
-    {
-        "gid": "P0945",
-        "name": "Vernon, Wilbarger, TX, USA"
     },
     {
         "gid": "P1012",
@@ -3250,44 +2227,16 @@ P = [
         "name": "Wahpeton, ND, USA"
     },
     {
-        "gid": "P1033",
-        "name": "Walterboro, SC, USA"
-    },
-    {
-        "gid": "P1627",
-        "name": "Warner Robins, Houston, GA, USA"
-    },
-    {
         "gid": "P0948",
         "name": "Warren-Farmington Hills-Troy, MI, USA"
-    },
-    {
-        "gid": "P0963",
-        "name": "Warren, PA, USA"
-    },
-    {
-        "gid": "P1528",
-        "name": "Warrensburg, MO, USA"
-    },
-    {
-        "gid": "P1055",
-        "name": "Warsaw, Kosciusko, IN, USA"
     },
     {
         "gid": "P1279",
         "name": "Washington, Daviess, IN, USA"
     },
     {
-        "gid": "P1499",
-        "name": "Washington, District of Columbia, DC, USA"
-    },
-    {
         "gid": "P1359",
         "name": "Washington, NC, USA"
-    },
-    {
-        "gid": "P1579",
-        "name": "Washington, OH, USA"
     },
     {
         "gid": "P1561",
@@ -3314,28 +2263,12 @@ P = [
         "name": "Waycross, Ware, GA, USA"
     },
     {
-        "gid": "P1177",
-        "name": "Weirton, WV, USA"
-    },
-    {
-        "gid": "P1457",
-        "name": "Wenatchee, WA, USA"
-    },
-    {
-        "gid": "P1215",
-        "name": "West Helena, Phillips, AR, USA"
-    },
-    {
         "gid": "P1550",
         "name": "West Palm Beach, Palm Beach, FL, USA"
     },
     {
         "gid": "P0872",
         "name": "West Plains, MO, USA"
-    },
-    {
-        "gid": "P1268",
-        "name": "Wheeling, WV-OH, USA"
     },
     {
         "gid": "P1390",
@@ -3346,20 +2279,8 @@ P = [
         "name": "Wichita Falls, Wichita, TX, USA"
     },
     {
-        "gid": "P1468",
-        "name": "Williamsport, PA, USA"
-    },
-    {
-        "gid": "P1139",
-        "name": "Willimantic, Windham, CT, USA"
-    },
-    {
         "gid": "P1700",
         "name": "Williston, ND, USA"
-    },
-    {
-        "gid": "P1375",
-        "name": "Willmar, MN, USA"
     },
     {
         "gid": "P1156",
@@ -3374,20 +2295,12 @@ P = [
         "name": "Wilmington, OH, USA"
     },
     {
-        "gid": "P1701",
-        "name": "Winchester, VA, USA"
-    },
-    {
         "gid": "P1644",
         "name": "Winfield, Cowley, KS, USA"
     },
     {
         "gid": "P1315",
         "name": "Winona, MN, USA"
-    },
-    {
-        "gid": "P1202",
-        "name": "Winston-Salem, NC, USA"
     },
     {
         "gid": "P1374",
@@ -3418,20 +2331,12 @@ P = [
         "name": "Yankton, SD, USA"
     },
     {
-        "gid": "P1637",
-        "name": "Yauco, PR, USA"
-    },
-    {
         "gid": "P1695",
         "name": "Yazoo City, MS, USA"
     },
     {
         "gid": "P1108",
         "name": "York, PA, USA"
-    },
-    {
-        "gid": "P1534",
-        "name": "Youngstown, OH, USA"
     },
     {
         "gid": "P0939",

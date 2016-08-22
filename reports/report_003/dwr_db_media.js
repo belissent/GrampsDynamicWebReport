@@ -38,17 +38,18 @@
 //       - rect: [x1, y1, x2, y2] of the media reference
 //       - note: notes of the media reference
 //       - cita: list of the media reference source citations index (in table 'C')
+//   - change_time: last record modification date
 M = [
     {
         "attr": [],
         "bkf": [],
         "bki": [
             {
-                "bk_idx": 657,
+                "bk_idx": 388,
                 "cita": [
-                    2845,
-                    2846,
-                    2846
+                    1617,
+                    1618,
+                    1618
                 ],
                 "note": "<div>\n<p>\n<b>Father's Age</b>: 25\n</p>\n</div>",
                 "rect": [
@@ -75,6 +76,7 @@ M = [
                 "thumb": "thumb/b39fe1cfc1305ac4a21.png"
             }
         ],
+        "change_time": "2012-01-31 17:24:29",
         "cita": [],
         "date": "",
         "date_sdn": 0,
@@ -82,7 +84,7 @@ M = [
         "gramps_path": "scanned_microfilm.png",
         "mime": "image/png",
         "note": "",
-        "path": "../../../../../../../Gramps/gramps.50/example/gramps/scanned_microfilm.png",
+        "path": "../../../../gramps.50/example/gramps/scanned_microfilm.png",
         "thumb": "thumb/b39fe1cfc1305ac4a21.png",
         "title": "1855-06-25 scanned birth record"
     },
@@ -91,7 +93,7 @@ M = [
         "bkf": [],
         "bki": [
             {
-                "bk_idx": 657,
+                "bk_idx": 388,
                 "cita": [],
                 "note": "",
                 "rect": [
@@ -103,7 +105,7 @@ M = [
                 "thumb": "thumb/238CGQ939HG18SS5MG-51,19-59,33.png"
             },
             {
-                "bk_idx": 679,
+                "bk_idx": 395,
                 "cita": [],
                 "note": "",
                 "rect": [
@@ -117,11 +119,11 @@ M = [
         ],
         "bkp": [
             {
-                "bk_idx": 1169,
+                "bk_idx": 803,
                 "cita": [
-                    2850,
-                    2851,
-                    2851
+                    1622,
+                    1623,
+                    1623
                 ],
                 "note": "<div>\n<p>\n<b>Nickname</b>: Fred\n</p>\n</div>",
                 "rect": [
@@ -134,6 +136,7 @@ M = [
             }
         ],
         "bks": [],
+        "change_time": "2012-01-31 17:29:13",
         "cita": [],
         "date": "1897",
         "date_sdn": 2413926,
@@ -141,7 +144,7 @@ M = [
         "gramps_path": "1897_expeditionsmannschaft_rio_a.jpg",
         "mime": "image/jpeg",
         "note": "",
-        "path": "../../../../../../../Gramps/gramps.50/example/gramps/1897_expeditionsmannschaft_rio_a.jpg",
+        "path": "../../../../gramps.50/example/gramps/1897_expeditionsmannschaft_rio_a.jpg",
         "thumb": "thumb/238CGQ939HG18SS5MG.png",
         "title": "1897_expeditionsmannschaft_rio_a"
     },
@@ -149,7 +152,7 @@ M = [
         "attr": [
             {
                 "cita": [
-                    2848
+                    1620
                 ],
                 "note": "",
                 "type": "Description",
@@ -159,11 +162,11 @@ M = [
         "bkf": [],
         "bki": [
             {
-                "bk_idx": 657,
+                "bk_idx": 388,
                 "cita": [
-                    2831,
-                    2832,
-                    2832
+                    1603,
+                    1604,
+                    1604
                 ],
                 "note": "<div>\n<p>\n<b>Age</b>: 50\n</p>\n</div>",
                 "rect": [
@@ -177,8 +180,9 @@ M = [
         ],
         "bkp": [],
         "bks": [],
+        "change_time": "2012-01-31 17:25:58",
         "cita": [
-            2847
+            1619
         ],
         "date": "",
         "date_sdn": 0,
@@ -186,7 +190,7 @@ M = [
         "gramps_path": "654px-Aksel_Andersson.jpg",
         "mime": "image/jpeg",
         "note": "",
-        "path": "../../../../../../../Gramps/gramps.50/example/gramps/654px-Aksel_Andersson.jpg",
+        "path": "../../../../gramps.50/example/gramps/654px-Aksel_Andersson.jpg",
         "thumb": "thumb/B1AUFQV7H8R9NR4SZM.png",
         "title": "654px-Aksel_Andersson"
     },
@@ -194,11 +198,11 @@ M = [
         "attr": [],
         "bkf": [
             {
-                "bk_idx": 246,
+                "bk_idx": 163,
                 "cita": [
-                    2839,
-                    2840,
-                    2840
+                    1611,
+                    1612,
+                    1612
                 ],
                 "note": "<div>\n<p>\n<b>Identification Number</b>: 12345\n</p>\n</div>",
                 "rect": [
@@ -213,6 +217,7 @@ M = [
         "bki": [],
         "bkp": [],
         "bks": [],
+        "change_time": "2012-01-31 17:19:19",
         "cita": [],
         "date": "",
         "date_sdn": 0,
@@ -220,7 +225,7 @@ M = [
         "gramps_path": "Alimehemet.jpg",
         "mime": "image/jpeg",
         "note": "",
-        "path": "../../../../../../../Gramps/gramps.50/example/gramps/Alimehemet.jpg",
+        "path": "../../../../gramps.50/example/gramps/Alimehemet.jpg",
         "thumb": "thumb/F0QIGQFT275JFJ75E8.png",
         "title": "Alimehemet"
     },
@@ -229,7 +234,7 @@ M = [
         "bkf": [],
         "bki": [
             {
-                "bk_idx": 1098,
+                "bk_idx": 613,
                 "cita": [],
                 "note": "",
                 "rect": [
@@ -243,6 +248,7 @@ M = [
         ],
         "bkp": [],
         "bks": [],
+        "change_time": "2007-07-26 10:34:25",
         "cita": [],
         "date": "",
         "date_sdn": 0,
@@ -250,7 +256,7 @@ M = [
         "gramps_path": "AntoineClaudet.png",
         "mime": "image/png",
         "note": "",
-        "path": "../../../../../../../Gramps/gramps.50/example/gramps/AntoineClaudet.png",
+        "path": "../../../../gramps.50/example/gramps/AntoineClaudet.png",
         "thumb": "thumb/Y3ARGQWE088EQRTTDH.png",
         "title": "AntoineClaudet"
     },
@@ -259,7 +265,7 @@ M = [
         "bkf": [],
         "bki": [
             {
-                "bk_idx": 651,
+                "bk_idx": 386,
                 "cita": [],
                 "note": "",
                 "rect": [
@@ -273,6 +279,7 @@ M = [
         ],
         "bkp": [],
         "bks": [],
+        "change_time": "2007-07-26 10:34:25",
         "cita": [],
         "date": "",
         "date_sdn": 0,
@@ -280,7 +287,7 @@ M = [
         "gramps_path": "E_W_Dahlgren.jpg",
         "mime": "image/jpeg",
         "note": "",
-        "path": "../../../../../../../Gramps/gramps.50/example/gramps/E_W_Dahlgren.jpg",
+        "path": "../../../../gramps.50/example/gramps/E_W_Dahlgren.jpg",
         "thumb": "thumb/F8JYGQFL2PKLSYH79X.png",
         "title": "E_W_Dahlgren"
     },
@@ -289,7 +296,7 @@ M = [
         "bkf": [],
         "bki": [
             {
-                "bk_idx": 640,
+                "bk_idx": 383,
                 "cita": [],
                 "note": "",
                 "rect": [
@@ -303,6 +310,7 @@ M = [
         ],
         "bkp": [],
         "bks": [],
+        "change_time": "2007-07-26 10:34:25",
         "cita": [],
         "date": "",
         "date_sdn": 0,
@@ -310,7 +318,7 @@ M = [
         "gramps_path": "Gunnlaugur_Larusson_-_Yawn.jpg",
         "mime": "image/jpeg",
         "note": "",
-        "path": "../../../../../../../Gramps/gramps.50/example/gramps/Gunnlaugur_Larusson_-_Yawn.jpg",
+        "path": "../../../../gramps.50/example/gramps/Gunnlaugur_Larusson_-_Yawn.jpg",
         "thumb": "thumb/78V2GQX2FKNSYQ3OHE.png",
         "title": "Yawn"
     }

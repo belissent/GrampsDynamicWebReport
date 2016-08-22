@@ -20,4 +20,5 @@
 //   - bkp: A list of the place index (in table 'P') referencing this citation
 //     (including the media references referencing this citation)
 //   - bkr: A list of the repository index (in table 'R') referencing this citation
+//   - change_time: last record modification date
 C = []

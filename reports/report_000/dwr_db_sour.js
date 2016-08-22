@@ -23,6 +23,7 @@
 //       - note: notes of the repository reference
 //   - attr: The list of the sources attributes in the form:
 //       [attribute, value, note, list of citations]
+//   - change_time: last record modification date
 S = [
     {
         "abbrev": "",
@@ -56,6 +57,7 @@ S = [
             2851,
             2852
         ],
+        "change_time": "2012-01-31 17:30:35",
         "gid": "S0001",
         "media": [],
         "note": "<div>\n<i class=\"NoteType\">\nGeneral\n</i>\n<div class=\"grampsstylednote\">\n<p>\n<span style=\"font-size:12px;\"></span><span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">This source has all possible references pointing to it. The references are as follows:</span></span>\n</p>\n<p>\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">This note appears as a note to the source and also as a note for the person.</span></span>\n</p>\n<p>\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 01 &nbsp;Person</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 02 &nbsp; &nbsp;Name</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 03 &nbsp; &nbsp;Address</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 04 &nbsp; &nbsp;Attribute</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 05 &nbsp; &nbsp;PersonRef</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 06 &nbsp; &nbsp;MediaRef</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 07 &nbsp; &nbsp; &nbsp;Attribute</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 08 &nbsp; &nbsp;LdsOrd</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 09 &nbsp; &nbsp;EventRef:Attribute </span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 10 &nbsp;Family</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 11 &nbsp; &nbsp;Attribute</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 12 &nbsp; &nbsp;ChildRef</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 13 &nbsp; &nbsp;MediaRef</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 14 &nbsp; &nbsp; &nbsp;Attribute</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 15 &nbsp; &nbsp;LdsOrd</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 16 &nbsp; &nbsp;EventRef:Attribute</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 17 &nbsp;Event</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 18 &nbsp; &nbsp;Attribute</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 19 &nbsp; &nbsp;MediaRef</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 20 &nbsp; &nbsp; &nbsp;Attribute</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 21 &nbsp;MediaObject</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 22 &nbsp; &nbsp;Attribute</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 23 &nbsp;Place</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 24 &nbsp; &nbsp;MediaRef</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 25 &nbsp; &nbsp; &nbsp;Attribute</span></span><br />\n<span style=\"font-family:'Courier';\"><span style=\"font-size:12px;\">page 26 &nbsp;Repository:Address</span></span><span style=\"font-size:12px;\"></span>\n</p>\n</div>\n</div>",
@@ -72,6 +74,7 @@ S = [
             0,
             974
         ],
+        "change_time": "2009-02-11 18:01:30",
         "gid": "S0000",
         "media": [
             {
@@ -2943,6 +2946,7 @@ S = [
             2824,
             2825
         ],
+        "change_time": "2012-01-31 17:30:39",
         "gid": "S0003",
         "media": [],
         "note": "<div>\n<i class=\"NoteType\">\nSource Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nThe repository reference from the source is important\n</p>\n</div>\n</div>",
@@ -2973,6 +2977,7 @@ S = [
             2836,
             2853
         ],
+        "change_time": "2007-07-26 10:34:25",
         "gid": "S0002",
         "media": [],
         "note": "<div>\n<i class=\"NoteType\">\nSource Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nHis name is my name, too.\n</p>\n</div>\n</div>",

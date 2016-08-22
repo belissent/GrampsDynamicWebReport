@@ -23,4 +23,5 @@
 //       - note: notes of the repository reference
 //   - attr: The list of the sources attributes in the form:
 //       [attribute, value, note, list of citations]
+//   - change_time: last record modification date
 S = []

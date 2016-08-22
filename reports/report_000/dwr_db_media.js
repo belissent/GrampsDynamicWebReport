@@ -38,13 +38,14 @@
 //       - rect: [x1, y1, x2, y2] of the media reference
 //       - note: notes of the media reference
 //       - cita: list of the media reference source citations index (in table 'C')
+//   - change_time: last record modification date
 M = [
     {
         "attr": [],
         "bkf": [],
         "bki": [
             {
-                "bk_idx": 657,
+                "bk_idx": 671,
                 "cita": [
                     2845,
                     2846,
@@ -75,6 +76,7 @@ M = [
                 "thumb": "thumb/b39fe1cfc1305ac4a21.png"
             }
         ],
+        "change_time": "2012-01-31 17:24:29",
         "cita": [],
         "date": "",
         "date_sdn": 0,
@@ -91,7 +93,7 @@ M = [
         "bkf": [],
         "bki": [
             {
-                "bk_idx": 657,
+                "bk_idx": 671,
                 "cita": [],
                 "note": "",
                 "rect": [
@@ -103,7 +105,7 @@ M = [
                 "thumb": "thumb/238CGQ939HG18SS5MG-51,19-59,33.png"
             },
             {
-                "bk_idx": 679,
+                "bk_idx": 693,
                 "cita": [],
                 "note": "",
                 "rect": [
@@ -134,6 +136,7 @@ M = [
             }
         ],
         "bks": [],
+        "change_time": "2012-01-31 17:29:13",
         "cita": [],
         "date": "1897",
         "date_sdn": 2413926,
@@ -159,7 +162,7 @@ M = [
         "bkf": [],
         "bki": [
             {
-                "bk_idx": 657,
+                "bk_idx": 671,
                 "cita": [
                     2831,
                     2832,
@@ -177,6 +180,7 @@ M = [
         ],
         "bkp": [],
         "bks": [],
+        "change_time": "2012-01-31 17:25:58",
         "cita": [
             2847
         ],
@@ -194,7 +198,7 @@ M = [
         "attr": [],
         "bkf": [
             {
-                "bk_idx": 246,
+                "bk_idx": 253,
                 "cita": [
                     2839,
                     2840,
@@ -213,6 +217,7 @@ M = [
         "bki": [],
         "bkp": [],
         "bks": [],
+        "change_time": "2012-01-31 17:19:19",
         "cita": [],
         "date": "",
         "date_sdn": 0,
@@ -229,7 +234,7 @@ M = [
         "bkf": [],
         "bki": [
             {
-                "bk_idx": 1098,
+                "bk_idx": 1112,
                 "cita": [],
                 "note": "",
                 "rect": [
@@ -243,6 +248,7 @@ M = [
         ],
         "bkp": [],
         "bks": [],
+        "change_time": "2007-07-26 10:34:25",
         "cita": [],
         "date": "",
         "date_sdn": 0,
@@ -259,7 +265,7 @@ M = [
         "bkf": [],
         "bki": [
             {
-                "bk_idx": 651,
+                "bk_idx": 665,
                 "cita": [],
                 "note": "",
                 "rect": [
@@ -273,6 +279,7 @@ M = [
         ],
         "bkp": [],
         "bks": [],
+        "change_time": "2007-07-26 10:34:25",
         "cita": [],
         "date": "",
         "date_sdn": 0,
@@ -289,7 +296,7 @@ M = [
         "bkf": [],
         "bki": [
             {
-                "bk_idx": 640,
+                "bk_idx": 654,
                 "cita": [],
                 "note": "",
                 "rect": [
@@ -303,6 +310,7 @@ M = [
         ],
         "bkp": [],
         "bks": [],
+        "change_time": "2007-07-26 10:34:25",
         "cita": [],
         "date": "",
         "date_sdn": 0,

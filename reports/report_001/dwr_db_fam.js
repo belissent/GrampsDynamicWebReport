@@ -35,9 +35,11 @@
 //   - spou: A list of spouses index (in table 'I')
 //   - chil: A list of child in the form:
 //       [index (in table 'I'), relation to father, relation to mother, notes, list of citations]
+//   - change_time: last record modification date
 F = [
     {
         "attr": [],
+        "change_time": "2014-06-19 08:26:01",
         "chil": [
             {
                 "cita": [],
@@ -64,6 +66,7 @@ F = [
     },
     {
         "attr": [],
+        "change_time": "2014-06-19 08:21:14",
         "chil": [
             {
                 "cita": [],
@@ -84,12 +87,13 @@ F = [
         "note": "",
         "spou": [
             0,
-            2089
+            2115
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2014-06-11 23:39:02",
         "chil": [
             {
                 "cita": [],
@@ -130,6 +134,7 @@ F = [
     },
     {
         "attr": [],
+        "change_time": "2014-06-11 23:34:39",
         "chil": [],
         "cita": [],
         "events": [],
@@ -148,6 +153,7 @@ F = [
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -190,6 +196,7 @@ F = [
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -232,6 +239,7 @@ F = [
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -268,12 +276,13 @@ F = [
         "note": "",
         "spou": [
             16,
-            1237
+            1251
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -301,6 +310,7 @@ F = [
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2135
@@ -308,7 +318,7 @@ F = [
         "events": [
             {
                 "cita": [],
-                "date": "vers 1729",
+                "date": "about 1729",
                 "date_sdn": 2352565,
                 "descr": "Marriage of Allen, Benjamin and Griffith, Experience",
                 "gid": "E3332",
@@ -329,12 +339,13 @@ F = [
         "note": "",
         "spou": [
             21,
-            759
+            773
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2344
@@ -342,7 +353,7 @@ F = [
         "events": [
             {
                 "cita": [],
-                "date": "vers 1705",
+                "date": "about 1705",
                 "date_sdn": 2343799,
                 "descr": "Marriage of Allen, Gershom and Kennedy, Ann",
                 "gid": "E3335",
@@ -363,12 +374,13 @@ F = [
         "note": "",
         "spou": [
             23,
-            958
+            972
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2300
@@ -376,7 +388,7 @@ F = [
         "events": [
             {
                 "cita": [],
-                "date": "vers 1695",
+                "date": "about 1695",
                 "date_sdn": 2340147,
                 "descr": "Marriage of Allen, John and Dennis, Mary (Hannah?)",
                 "gid": "E3326",
@@ -403,6 +415,7 @@ F = [
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2745
@@ -410,7 +423,7 @@ F = [
         "events": [
             {
                 "cita": [],
-                "date": "vers 1713",
+                "date": "about 1713",
                 "date_sdn": 2346721,
                 "descr": "Marriage of Allen, Joseph and Barker, Mary",
                 "gid": "E3329",
@@ -437,6 +450,7 @@ F = [
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -480,12 +494,13 @@ F = [
         "note": "",
         "spou": [
             34,
-            784
+            798
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -529,12 +544,13 @@ F = [
         "note": "",
         "spou": [
             38,
-            1127
+            1141
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -641,12 +657,13 @@ F = [
         "note": "",
         "spou": [
             40,
-            1317
+            1331
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2506
@@ -675,12 +692,13 @@ F = [
         "note": "",
         "spou": [
             44,
-            840
+            854
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -738,12 +756,13 @@ F = [
         "note": "",
         "spou": [
             45,
-            1786
+            1801
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2134
@@ -778,6 +797,7 @@ F = [
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -805,6 +825,7 @@ F = [
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2466
@@ -833,12 +854,13 @@ F = [
         "note": "",
         "spou": [
             51,
-            883
+            897
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2105
@@ -873,6 +895,7 @@ F = [
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2493
@@ -901,12 +924,13 @@ F = [
         "note": "",
         "spou": [
             60,
-            2028
+            2054
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -963,6 +987,7 @@ F = [
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2131
@@ -991,12 +1016,13 @@ F = [
         "note": "",
         "spou": [
             62,
-            1139
+            1153
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2534
@@ -1025,12 +1051,13 @@ F = [
         "note": "",
         "spou": [
             63,
-            1387
+            1402
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -1088,12 +1115,13 @@ F = [
         "note": "",
         "spou": [
             68,
-            1155
+            1169
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -1136,6 +1164,7 @@ F = [
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -1172,12 +1201,13 @@ F = [
         "note": "",
         "spou": [
             73,
-            2075
+            2101
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -1220,6 +1250,7 @@ F = [
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -1256,12 +1287,13 @@ F = [
         "note": "",
         "spou": [
             75,
-            632
+            646
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -1311,6 +1343,7 @@ F = [
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2455
@@ -1339,12 +1372,13 @@ F = [
         "note": "",
         "spou": [
             80,
-            2085
+            2111
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -1387,10 +1421,11 @@ F = [
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1616,
+                "index": 1631,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -1423,12 +1458,13 @@ F = [
         "note": "",
         "spou": [
             82,
-            902
+            916
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -1465,12 +1501,13 @@ F = [
         "note": "",
         "spou": [
             85,
-            2032
+            2058
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -1507,12 +1544,13 @@ F = [
         "note": "",
         "spou": [
             87,
-            1462
+            1477
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -1591,12 +1629,13 @@ F = [
         "note": "",
         "spou": [
             91,
-            1989
+            2015
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -1633,12 +1672,13 @@ F = [
         "note": "",
         "spou": [
             99,
-            1109
+            1123
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -1703,12 +1743,13 @@ F = [
         "note": "",
         "spou": [
             100,
-            730
+            744
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -1759,12 +1800,13 @@ F = [
         "note": "",
         "spou": [
             100,
-            1148
+            1162
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -1801,12 +1843,13 @@ F = [
         "note": "",
         "spou": [
             100,
-            1601
+            1616
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -1843,12 +1886,13 @@ F = [
         "note": "",
         "spou": [
             104,
-            2083
+            2109
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2438
@@ -1877,12 +1921,13 @@ F = [
         "note": "",
         "spou": [
             106,
-            1176
+            1190
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -1933,12 +1978,13 @@ F = [
         "note": "",
         "spou": [
             117,
-            1957
+            1983
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2461
@@ -1967,12 +2013,13 @@ F = [
         "note": "",
         "spou": [
             126,
-            1131
+            1145
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2235
@@ -2007,6 +2054,7 @@ F = [
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -2045,7 +2093,7 @@ F = [
             },
             {
                 "cita": [],
-                "index": 833,
+                "index": 847,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -2085,12 +2133,13 @@ F = [
         "note": "",
         "spou": [
             129,
-            1061
+            1075
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -2197,12 +2246,13 @@ F = [
         "note": "",
         "spou": [
             131,
-            842
+            856
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2222
@@ -2231,12 +2281,13 @@ F = [
         "note": "",
         "spou": [
             132,
-            1920
+            1946
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -2336,12 +2387,13 @@ F = [
         "note": "",
         "spou": [
             130,
-            1951
+            1977
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2120
@@ -2370,12 +2422,13 @@ F = [
         "note": "",
         "spou": [
             133,
-            1618
+            1633
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2512
@@ -2404,12 +2457,13 @@ F = [
         "note": "",
         "spou": [
             134,
-            606
+            620
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2552
@@ -2438,12 +2492,13 @@ F = [
         "note": "",
         "spou": [
             135,
-            1180
+            1194
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2479
@@ -2472,12 +2527,13 @@ F = [
         "note": "",
         "spou": [
             136,
-            628
+            642
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2581
@@ -2506,12 +2562,13 @@ F = [
         "note": "",
         "spou": [
             137,
-            815
+            829
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2241
@@ -2540,12 +2597,13 @@ F = [
         "note": "",
         "spou": [
             138,
-            1970
+            1996
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -2582,12 +2640,13 @@ F = [
         "note": "",
         "spou": [
             139,
-            1222
+            1236
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -2624,12 +2683,13 @@ F = [
         "note": "",
         "spou": [
             141,
-            1369
+            1384
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -2673,12 +2733,13 @@ F = [
         "note": "",
         "spou": [
             142,
-            629
+            643
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -2728,6 +2789,7 @@ F = [
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -2755,6 +2817,7 @@ F = [
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2671
@@ -2783,12 +2846,13 @@ F = [
         "note": "",
         "spou": [
             156,
-            1263
+            1277
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -2816,6 +2880,7 @@ F = [
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -2908,12 +2973,13 @@ F = [
         "note": "",
         "spou": [
             162,
-            1500
+            1515
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -3013,12 +3079,13 @@ F = [
         "note": "",
         "spou": [
             163,
-            1596
+            1611
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2338
@@ -3047,12 +3114,13 @@ F = [
         "note": "",
         "spou": [
             172,
-            1907
+            1922
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2782
@@ -3087,6 +3155,7 @@ F = [
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -3114,6 +3183,7 @@ F = [
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2638
@@ -3142,12 +3212,13 @@ F = [
         "note": "",
         "spou": [
             177,
-            1935
+            1961
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2539
@@ -3176,12 +3247,13 @@ F = [
         "note": "",
         "spou": [
             179,
-            1414
+            1429
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -3197,7 +3269,7 @@ F = [
         "events": [
             {
                 "cita": [],
-                "date": "vers 1640",
+                "date": "about 1640",
                 "date_sdn": 2320058,
                 "descr": "Marriage of Bishop, Quirinus and Simmons, Maria",
                 "gid": "E3065",
@@ -3218,12 +3290,13 @@ F = [
         "note": "",
         "spou": [
             182,
-            1598
+            1613
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2597
@@ -3252,12 +3325,13 @@ F = [
         "note": "",
         "spou": [
             185,
-            1049
+            1063
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -3294,12 +3368,13 @@ F = [
         "note": "",
         "spou": [
             186,
-            1548
+            1563
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -3342,6 +3417,7 @@ F = [
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -3378,12 +3454,13 @@ F = [
         "note": "",
         "spou": [
             191,
-            566
+            580
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -3394,7 +3471,7 @@ F = [
             },
             {
                 "cita": [],
-                "index": 932,
+                "index": 946,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -3448,12 +3525,13 @@ F = [
         "note": "",
         "spou": [
             195,
-            1927
+            1953
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -3496,6 +3574,7 @@ F = [
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -3532,12 +3611,13 @@ F = [
         "note": "",
         "spou": [
             199,
-            1617
+            1632
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -3574,12 +3654,13 @@ F = [
         "note": "",
         "spou": [
             200,
-            1577
+            1592
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2414
@@ -3608,12 +3689,13 @@ F = [
         "note": "",
         "spou": [
             201,
-            595
+            609
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -3650,12 +3732,32 @@ F = [
         "note": "",
         "spou": [
             202,
-            1066
+            1080
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2016-06-30 05:42:38",
+        "chil": [],
+        "cita": [],
+        "events": [],
+        "gid": "F0502",
+        "marr_place": "",
+        "marr_sdn": 0,
+        "marr_year": "",
+        "media": [],
+        "name": "Family of Blanco, Milton and Landry, Sarah",
+        "note": "",
+        "spou": [
+            210,
+            1015
+        ],
+        "type": "Married"
+    },
+    {
+        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -3741,12 +3843,13 @@ F = [
         "note": "",
         "spou": [
             213,
-            724
+            738
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2301
@@ -3775,12 +3878,13 @@ F = [
         "note": "",
         "spou": [
             214,
-            1027
+            1041
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -3866,12 +3970,13 @@ F = [
         "note": "",
         "spou": [
             215,
-            1528
+            1543
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -3936,12 +4041,13 @@ F = [
         "note": "",
         "spou": [
             231,
-            1192
+            1206
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -3984,6 +4090,7 @@ F = [
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -4069,12 +4176,13 @@ F = [
         "note": "",
         "spou": [
             246,
-            2031
+            2057
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -4102,6 +4210,7 @@ F = [
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -4165,6 +4274,7 @@ F = [
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -4242,6 +4352,7 @@ F = [
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -4278,12 +4389,13 @@ F = [
         "note": "",
         "spou": [
             261,
-            716
+            730
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -4320,12 +4432,13 @@ F = [
         "note": "",
         "spou": [
             263,
-            864
+            878
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -4389,6 +4502,7 @@ F = [
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -4423,6 +4537,7 @@ F = [
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -4466,12 +4581,13 @@ F = [
         "note": "",
         "spou": [
             272,
-            1308
+            1322
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -4508,12 +4624,13 @@ F = [
         "note": "",
         "spou": [
             274,
-            613
+            627
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -4550,12 +4667,13 @@ F = [
         "note": "",
         "spou": [
             276,
-            614
+            628
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -4592,12 +4710,13 @@ F = [
         "note": "",
         "spou": [
             277,
-            1228
+            1242
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -4634,12 +4753,13 @@ F = [
         "note": "",
         "spou": [
             279,
-            1635
+            1650
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -4676,12 +4796,13 @@ F = [
         "note": "",
         "spou": [
             283,
-            1628
+            1643
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -4731,6 +4852,7 @@ F = [
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -4788,12 +4910,13 @@ F = [
         "note": "",
         "spou": [
             289,
-            1575
+            1590
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -4865,12 +4988,13 @@ F = [
         "note": "",
         "spou": [
             290,
-            1682
+            1697
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -4935,12 +5059,13 @@ F = [
         "note": "",
         "spou": [
             291,
-            1476
+            1491
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -4984,12 +5109,13 @@ F = [
         "note": "",
         "spou": [
             294,
-            854
+            868
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -5017,6 +5143,7 @@ F = [
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2151
@@ -5051,6 +5178,7 @@ F = [
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2351
@@ -5079,12 +5207,13 @@ F = [
         "note": "",
         "spou": [
             301,
-            939
+            953
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -5128,12 +5257,13 @@ F = [
         "note": "",
         "spou": [
             301,
-            1037
+            1051
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -5183,6 +5313,7 @@ F = [
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -5239,6 +5370,7 @@ F = [
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -5282,12 +5414,13 @@ F = [
         "note": "",
         "spou": [
             315,
-            1869
+            1884
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -5315,6 +5448,7 @@ F = [
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -5358,12 +5492,13 @@ F = [
         "note": "",
         "spou": [
             322,
-            1547
+            1562
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -5400,12 +5535,13 @@ F = [
         "note": "",
         "spou": [
             323,
-            772
+            786
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -5491,12 +5627,13 @@ F = [
         "note": "",
         "spou": [
             328,
-            1942
+            1968
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2114
@@ -5525,12 +5662,13 @@ F = [
         "note": "",
         "spou": [
             329,
-            2066
+            2092
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2110
@@ -5559,12 +5697,13 @@ F = [
         "note": "",
         "spou": [
             332,
-            661
+            675
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -5601,12 +5740,13 @@ F = [
         "note": "",
         "spou": [
             334,
-            1545
+            1560
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -5691,6 +5831,7 @@ F = [
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2260
@@ -5725,6 +5866,7 @@ F = [
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -5781,6 +5923,7 @@ F = [
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -5817,12 +5960,13 @@ F = [
         "note": "",
         "spou": [
             354,
-            2033
+            2059
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -5838,7 +5982,7 @@ F = [
         "events": [
             {
                 "cita": [],
-                "date": "vers 1765",
+                "date": "about 1765",
                 "date_sdn": 2365714,
                 "descr": "Marriage of Carroll, Matthias Sr. and \u0412\u043e\u0440\u043e\u0431\u044c\u0435\u0432, Eva",
                 "gid": "E2817",
@@ -5859,12 +6003,13 @@ F = [
         "note": "",
         "spou": [
             355,
-            1944
+            1970
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2441
@@ -5893,12 +6038,13 @@ F = [
         "note": "",
         "spou": [
             359,
-            1167
+            1181
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2685
@@ -5933,6 +6079,7 @@ F = [
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -5969,12 +6116,13 @@ F = [
         "note": "",
         "spou": [
             361,
-            726
+            740
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -6011,12 +6159,13 @@ F = [
         "note": "",
         "spou": [
             362,
-            937
+            951
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2367
@@ -6051,6 +6200,7 @@ F = [
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -6094,12 +6244,13 @@ F = [
         "note": "",
         "spou": [
             364,
-            1634
+            1649
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -6127,6 +6278,7 @@ F = [
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -6163,12 +6315,13 @@ F = [
         "note": "",
         "spou": [
             367,
-            790
+            804
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -6196,6 +6349,7 @@ F = [
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -6238,6 +6392,7 @@ F = [
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -6274,12 +6429,13 @@ F = [
         "note": "",
         "spou": [
             370,
-            731
+            745
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -6323,12 +6479,13 @@ F = [
         "note": "",
         "spou": [
             372,
-            758
+            772
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -6371,6 +6528,7 @@ F = [
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2229
@@ -6405,6 +6563,7 @@ F = [
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2193
@@ -6433,12 +6592,13 @@ F = [
         "note": "",
         "spou": [
             378,
-            658
+            672
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2421
@@ -6467,12 +6627,13 @@ F = [
         "note": "",
         "spou": [
             381,
-            1496
+            1511
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2424
@@ -6501,12 +6662,13 @@ F = [
         "note": "",
         "spou": [
             382,
-            767
+            781
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2391
@@ -6535,12 +6697,13 @@ F = [
         "note": "",
         "spou": [
             383,
-            1529
+            1544
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2508
@@ -6569,12 +6732,13 @@ F = [
         "note": "",
         "spou": [
             384,
-            665
+            679
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2762
@@ -6603,12 +6767,13 @@ F = [
         "note": "",
         "spou": [
             386,
-            1549
+            1564
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2635
@@ -6637,12 +6802,13 @@ F = [
         "note": "",
         "spou": [
             388,
-            648
+            662
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -6721,12 +6887,13 @@ F = [
         "note": "",
         "spou": [
             399,
-            1267
+            1281
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -6777,12 +6944,13 @@ F = [
         "note": "",
         "spou": [
             401,
-            1505
+            1520
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -6826,12 +6994,13 @@ F = [
         "note": "",
         "spou": [
             402,
-            721
+            735
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -6882,12 +7051,13 @@ F = [
         "note": "",
         "spou": [
             403,
-            1245
+            1259
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -6945,12 +7115,13 @@ F = [
         "note": "",
         "spou": [
             404,
-            1042
+            1056
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -7008,12 +7179,13 @@ F = [
         "note": "",
         "spou": [
             406,
-            1407
+            1422
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -7057,12 +7229,13 @@ F = [
         "note": "",
         "spou": [
             407,
-            611
+            625
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -7099,12 +7272,13 @@ F = [
         "note": "",
         "spou": [
             408,
-            1141
+            1155
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -7155,12 +7329,13 @@ F = [
         "note": "",
         "spou": [
             424,
-            983
+            997
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -7210,6 +7385,7 @@ F = [
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -7260,12 +7436,13 @@ F = [
         "note": "",
         "spou": [
             427,
-            810
+            824
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -7308,6 +7485,7 @@ F = [
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -7344,12 +7522,13 @@ F = [
         "note": "",
         "spou": [
             431,
-            1328
+            1342
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2766
@@ -7378,12 +7557,13 @@ F = [
         "note": "",
         "spou": [
             432,
-            927
+            941
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -7420,12 +7600,13 @@ F = [
         "note": "",
         "spou": [
             433,
-            707
+            721
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2629
@@ -7454,12 +7635,13 @@ F = [
         "note": "",
         "spou": [
             436,
-            1277
+            1291
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -7502,6 +7684,7 @@ F = [
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -7538,12 +7721,13 @@ F = [
         "note": "",
         "spou": [
             440,
-            962
+            976
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -7580,12 +7764,13 @@ F = [
         "note": "",
         "spou": [
             441,
-            1136
+            1150
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -7622,12 +7807,13 @@ F = [
         "note": "",
         "spou": [
             443,
-            1409
+            1424
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2239
@@ -7656,12 +7842,13 @@ F = [
         "note": "",
         "spou": [
             445,
-            1589
+            1604
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2794
@@ -7690,12 +7877,13 @@ F = [
         "note": "",
         "spou": [
             446,
-            1416
+            1431
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -7739,12 +7927,13 @@ F = [
         "note": "",
         "spou": [
             447,
-            1669
+            1684
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2324
@@ -7773,12 +7962,13 @@ F = [
         "note": "",
         "spou": [
             451,
-            2047
+            2073
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2568
@@ -7807,12 +7997,13 @@ F = [
         "note": "",
         "spou": [
             454,
-            1465
+            1480
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2443
@@ -7841,16 +8032,17 @@ F = [
         "note": "",
         "spou": [
             459,
-            1912
+            1927
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1963,
+                "index": 1989,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -7917,6 +8109,7 @@ F = [
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2462
@@ -7945,16 +8138,17 @@ F = [
         "note": "",
         "spou": [
             466,
-            2007
+            2033
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1625,
+                "index": 1640,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -8015,12 +8209,13 @@ F = [
         "note": "",
         "spou": [
             467,
-            841
+            855
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -8057,12 +8252,13 @@ F = [
         "note": "",
         "spou": [
             468,
-            626
+            640
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2494
@@ -8091,12 +8287,13 @@ F = [
         "note": "",
         "spou": [
             470,
-            1756
+            1771
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -8154,12 +8351,13 @@ F = [
         "note": "",
         "spou": [
             472,
-            2023
+            2049
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -8230,6 +8428,7 @@ F = [
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -8280,12 +8479,13 @@ F = [
         "note": "",
         "spou": [
             478,
-            755
+            769
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -8313,6 +8513,7 @@ F = [
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -8349,12 +8550,13 @@ F = [
         "note": "",
         "spou": [
             495,
-            1606
+            1621
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2811
@@ -8389,6 +8591,7 @@ F = [
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -8446,12 +8649,13 @@ F = [
         "note": "",
         "spou": [
             496,
-            850
+            864
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -8523,12 +8727,13 @@ F = [
         "note": "",
         "spou": [
             503,
-            933
+            947
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2125
@@ -8557,12 +8762,13 @@ F = [
         "note": "",
         "spou": [
             503,
-            1540
+            1555
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2145
@@ -8591,12 +8797,13 @@ F = [
         "note": "",
         "spou": [
             504,
-            1013
+            1027
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -8654,7 +8861,7 @@ F = [
         "events": [
             {
                 "cita": [],
-                "date": "vers 1760",
+                "date": "about 1760",
                 "date_sdn": 2363887,
                 "descr": "Marriage of Douglas, John Sr. and Moran, Ann Delilah &#8220;Tilley&#8221;",
                 "gid": "E2813",
@@ -8675,12 +8882,13 @@ F = [
         "note": "",
         "spou": [
             504,
-            1143
+            1157
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -8698,7 +8906,7 @@ F = [
             },
             {
                 "cita": [],
-                "index": 696,
+                "index": 710,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -8793,6 +9001,7 @@ F = [
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2274
@@ -8827,6 +9036,7 @@ F = [
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2320
@@ -8861,6 +9071,7 @@ F = [
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -8918,12 +9129,13 @@ F = [
         "note": "",
         "spou": [
             519,
-            1430
+            1445
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2492
@@ -8931,7 +9143,7 @@ F = [
         "events": [
             {
                 "cita": [],
-                "date": "apr\u00e8s 1624",
+                "date": "after 1624",
                 "date_sdn": 2314214,
                 "descr": "Marriage of Elliott, Lodowick and \u041a\u043e\u0432\u0430\u043b\u0435\u0432, Sarah",
                 "gid": "E3059",
@@ -8946,18 +9158,19 @@ F = [
         "gid": "F0391",
         "marr_place": "",
         "marr_sdn": 2314214,
-        "marr_year": "1624",
+        "marr_year": "?",
         "media": [],
         "name": "Family of Elliott, Lodowick and \u041a\u043e\u0432\u0430\u043b\u0435\u0432, Sarah",
         "note": "",
         "spou": [
             526,
-            2003
+            2029
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2419
@@ -8986,12 +9199,13 @@ F = [
         "note": "",
         "spou": [
             528,
-            1968
+            1994
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -9028,12 +9242,13 @@ F = [
         "note": "",
         "spou": [
             530,
-            1496
+            1511
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -9091,12 +9306,13 @@ F = [
         "note": "",
         "spou": [
             533,
-            1610
+            1625
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -9189,12 +9405,13 @@ F = [
         "note": "",
         "spou": [
             537,
-            1135
+            1149
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2796
@@ -9229,6 +9446,7 @@ F = [
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -9293,12 +9511,13 @@ F = [
         "note": "",
         "spou": [
             547,
-            2030
+            2056
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2128
@@ -9333,6 +9552,7 @@ F = [
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2336
@@ -9367,6 +9587,7 @@ F = [
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2363
@@ -9395,12 +9616,13 @@ F = [
         "note": "",
         "spou": [
             555,
-            1925
+            1951
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2224
@@ -9429,16 +9651,17 @@ F = [
         "note": "",
         "spou": [
             558,
-            1134
+            1148
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1499,
+                "index": 1514,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -9462,10 +9685,11 @@ F = [
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1001,
+                "index": 1015,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -9511,6 +9735,7 @@ F = [
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -9547,30 +9772,31 @@ F = [
         "note": "",
         "spou": [
             564,
-            845
+            859
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 988,
+                "index": 1002,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 999,
+                "index": 1013,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 994,
+                "index": 1008,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -9603,12 +9829,127 @@ F = [
         "note": "",
         "spou": [
             563,
-            1252
+            1266
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2016-06-30 04:12:30",
+        "chil": [],
+        "cita": [],
+        "events": [],
+        "gid": "F0141",
+        "marr_place": "",
+        "marr_sdn": 0,
+        "marr_year": "",
+        "media": [],
+        "name": "Family of Fillin, C and Fillin, D",
+        "note": "",
+        "spou": [
+            567,
+            568
+        ],
+        "type": "Married"
+    },
+    {
+        "attr": [],
+        "change_time": "2016-06-30 04:13:25",
+        "chil": [],
+        "cita": [],
+        "events": [],
+        "gid": "F0174",
+        "marr_place": "",
+        "marr_sdn": 0,
+        "marr_year": "",
+        "media": [],
+        "name": "Family of Fillin, E and Fillin, F",
+        "note": "",
+        "spou": [
+            569,
+            570
+        ],
+        "type": "Married"
+    },
+    {
+        "attr": [],
+        "change_time": "2016-06-30 04:15:06",
+        "chil": [],
+        "cita": [],
+        "events": [],
+        "gid": "F0365",
+        "marr_place": "",
+        "marr_sdn": 0,
+        "marr_year": "",
+        "media": [],
+        "name": "Family of Fillin, G and Fillin, H",
+        "note": "",
+        "spou": [
+            571,
+            572
+        ],
+        "type": "Married"
+    },
+    {
+        "attr": [],
+        "change_time": "2016-06-30 04:14:58",
+        "chil": [],
+        "cita": [],
+        "events": [],
+        "gid": "F0447",
+        "marr_place": "",
+        "marr_sdn": 0,
+        "marr_year": "",
+        "media": [],
+        "name": "Family of Fillin, I and Fillin, J",
+        "note": "",
+        "spou": [
+            573,
+            574
+        ],
+        "type": "Married"
+    },
+    {
+        "attr": [],
+        "change_time": "2016-06-30 04:15:50",
+        "chil": [],
+        "cita": [],
+        "events": [],
+        "gid": "F0448",
+        "marr_place": "",
+        "marr_sdn": 0,
+        "marr_year": "",
+        "media": [],
+        "name": "Family of Fillin, K and Fillin, L",
+        "note": "",
+        "spou": [
+            575,
+            576
+        ],
+        "type": "Married"
+    },
+    {
+        "attr": [],
+        "change_time": "2016-06-30 04:16:35",
+        "chil": [],
+        "cita": [],
+        "events": [],
+        "gid": "F0480",
+        "marr_place": "",
+        "marr_sdn": 0,
+        "marr_year": "",
+        "media": [],
+        "name": "Family of Fillin, M and Fillin, N",
+        "note": "",
+        "spou": [
+            577,
+            578
+        ],
+        "type": "Married"
+    },
+    {
+        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2779
@@ -9636,13 +9977,14 @@ F = [
         "name": "Family of Fitzgerald, David Lee and \u041b\u043e\u043f\u0430\u0442\u0438\u043d, Donna Elaine",
         "note": "",
         "spou": [
-            567,
-            2014
+            581,
+            2040
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2653
@@ -9670,13 +10012,14 @@ F = [
         "name": "Family of Floyd, Henry and Benson, Nancy",
         "note": "",
         "spou": [
-            572,
+            586,
             169
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2108
@@ -9704,24 +10047,25 @@ F = [
         "name": "Family of Floyd, John Morgan and Carr, Zelpha Josephine",
         "note": "",
         "spou": [
-            574,
+            588,
             352
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 576,
+                "index": 590,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 579,
+                "index": 593,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -9753,31 +10097,32 @@ F = [
         "name": "Family of Floyd, John S. and Coleman, Mary",
         "note": "",
         "spou": [
-            575,
+            589,
             380
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 571,
+                "index": 585,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 570,
+                "index": 584,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 573,
+                "index": 587,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -9809,13 +10154,14 @@ F = [
         "name": "Family of Floyd, Robert William and \u0414\u0430\u043d\u0438\u043b\u043e\u0432, Kathryn Louise",
         "note": "",
         "spou": [
-            578,
-            1958
+            592,
+            1984
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2376
@@ -9843,13 +10189,14 @@ F = [
         "name": "Family of Ford and Moreno, Elizabeth",
         "note": "",
         "spou": [
-            580,
-            1156
+            594,
+            1170
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2737
@@ -9877,13 +10224,14 @@ F = [
         "name": "Family of Ford, Phillip D. and Webb, Joan Lorinda",
         "note": "",
         "spou": [
-            583,
-            1839
+            597,
+            1854
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2149
@@ -9911,13 +10259,14 @@ F = [
         "name": "Family of Ford, Samuel and Farmer, Catharine",
         "note": "",
         "spou": [
-            584,
+            598,
             539
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2594
@@ -9945,13 +10294,14 @@ F = [
         "name": "Family of Ford, Stephen Jacob and Garner, Iola Elizabeth Betty",
         "note": "",
         "spou": [
-            585,
-            647
+            599,
+            661
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2703
@@ -9979,17 +10329,18 @@ F = [
         "name": "Family of Ford, William and Payne, Winifred",
         "note": "",
         "spou": [
-            586,
-            1349
+            600,
+            1363
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1482,
+                "index": 1497,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -10021,17 +10372,18 @@ F = [
         "name": "Family of Fortin, Matthias and Baker, Margaret",
         "note": "",
         "spou": [
-            588,
+            602,
             83
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 593,
+                "index": 607,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -10063,17 +10415,18 @@ F = [
         "name": "Family of Foster, John and Ryan, Elizabeth",
         "note": "",
         "spou": [
-            590,
-            1556
+            604,
+            1571
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 592,
+                "index": 606,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -10105,17 +10458,18 @@ F = [
         "name": "Family of Foster, John and Ryan, Elizabeth",
         "note": "",
         "spou": [
-            591,
-            1557
+            605,
+            1572
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 590,
+                "index": 604,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -10147,17 +10501,18 @@ F = [
         "name": "Family of Foster, Thomas and Koz\u0142owski, Margret",
         "note": "",
         "spou": [
-            592,
-            972
+            606,
+            986
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 594,
+                "index": 608,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -10189,13 +10544,14 @@ F = [
         "name": "Family of Foster, Thomas and Spencer, Ann",
         "note": "",
         "spou": [
-            593,
-            1604
+            607,
+            1619
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -10206,7 +10562,7 @@ F = [
             },
             {
                 "cita": [],
-                "index": 589,
+                "index": 603,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -10238,17 +10594,18 @@ F = [
         "name": "Family of Foster, William and Sanders, Mary",
         "note": "",
         "spou": [
-            594,
-            1564
+            608,
+            1579
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 599,
+                "index": 613,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -10280,17 +10637,18 @@ F = [
         "name": "Family of Fox, David and Green, Frances",
         "note": "",
         "spou": [
-            597,
-            750
+            611,
+            764
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 598,
+                "index": 612,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -10322,17 +10680,18 @@ F = [
         "name": "Family of Fox, David and Harris, Mary",
         "note": "",
         "spou": [
-            596,
-            794
+            610,
+            808
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 597,
+                "index": 611,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -10364,17 +10723,18 @@ F = [
         "name": "Family of Fox, Jacob, Sr. and Palmer, Sarah",
         "note": "",
         "spou": [
-            598,
-            1314
+            612,
+            1328
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 596,
+                "index": 610,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -10406,17 +10766,18 @@ F = [
         "name": "Family of Fox, Samuel and Mason, Susannah",
         "note": "",
         "spou": [
-            600,
-            1105
+            614,
+            1119
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 600,
+                "index": 614,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -10448,13 +10809,14 @@ F = [
         "name": "Family of Fox, William and Mason, Hannah",
         "note": "",
         "spou": [
-            601,
-            1104
+            615,
+            1118
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2726
@@ -10482,13 +10844,14 @@ F = [
         "name": "Family of Frazier, Johann Adam and Hicks, Anna Eva",
         "note": "",
         "spou": [
-            604,
-            833
+            618,
+            847
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2803
@@ -10516,24 +10879,25 @@ F = [
         "name": "Family of Frazier, Johann Walter and Beaulieu, Anna Margaretha",
         "note": "",
         "spou": [
-            605,
+            619,
             122
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 609,
+                "index": 623,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 607,
+                "index": 621,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -10565,13 +10929,14 @@ F = [
         "name": "Family of French, Jimmy Michael and Warner, Martha Ellen",
         "note": "",
         "spou": [
-            608,
-            1753
+            622,
+            1768
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2373
@@ -10599,13 +10964,14 @@ F = [
         "name": "Family of Gagn\u00e9, Thomas and Reeves, Ann",
         "note": "",
         "spou": [
-            610,
-            1463
+            624,
+            1478
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2821
@@ -10633,17 +10999,18 @@ F = [
         "name": "Family of Gardner, Michael and Hansen, Nula",
         "note": "",
         "spou": [
-            615,
-            786
+            629,
+            800
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 614,
+                "index": 628,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -10661,16 +11028,17 @@ F = [
         "name": "Family of Gardner, Patrick",
         "note": "",
         "spou": [
-            616
+            630
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 622,
+                "index": 636,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -10702,13 +11070,14 @@ F = [
         "name": "Family of Garner, Barry Joseph and V\u00e1zquez, April Lynn",
         "note": "",
         "spou": [
-            627,
-            1673
+            641,
+            1688
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2408
@@ -10736,31 +11105,32 @@ F = [
         "name": "Family of Garner, Daniel Webster and Jackson, Cora Ellen",
         "note": "",
         "spou": [
-            636,
-            867
+            650,
+            881
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 646,
+                "index": 660,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 641,
+                "index": 655,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 653,
+                "index": 667,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -10792,24 +11162,39 @@ F = [
         "name": "Family of Garner, Eugene Stanley and Reed, Frances Lucille (Babe)",
         "note": "",
         "spou": [
-            640,
-            1422
+            654,
+            1437
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 642,
+                "index": 656,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 677,
+                "index": 691,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 683,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 640,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -10823,63 +11208,49 @@ F = [
             },
             {
                 "cita": [],
-                "index": 626,
+                "index": 684,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 655,
+                "index": 642,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 670,
+                "index": 672,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 628,
+                "index": 647,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 658,
+                "index": 676,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 633,
+                "index": 666,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 662,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 652,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 659,
+                "index": 673,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -10911,13 +11282,14 @@ F = [
         "name": "Family of Garner, Eugene Stanley, Jr. and Pelletier, Josephine",
         "note": "",
         "spou": [
-            641,
-            1353
+            655,
+            1367
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2337
@@ -10945,17 +11317,18 @@ F = [
         "name": "Family of Garner, Eugene Stanley, Jr. and Washington, Pearline",
         "note": "",
         "spou": [
-            641,
-            1800
+            655,
+            1815
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 667,
+                "index": 681,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -10987,24 +11360,25 @@ F = [
         "name": "Family of Garner, Francis William and Gibbs, Connie",
         "note": "",
         "spou": [
-            642,
-            700
+            656,
+            714
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 681,
+                "index": 695,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 635,
+                "index": 649,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -11036,52 +11410,53 @@ F = [
         "name": "Family of Garner, Gerard Stephen and George, Elizabeth",
         "note": "",
         "spou": [
-            643,
-            697
+            657,
+            711
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 678,
+                "index": 692,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 627,
+                "index": 641,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 624,
+                "index": 638,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 643,
+                "index": 657,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 637,
+                "index": 651,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 682,
+                "index": 696,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -11113,24 +11488,25 @@ F = [
         "name": "Family of Garner, Howard Lane and Mar\u00edn, Mary Anne",
         "note": "",
         "spou": [
-            646,
-            1084
+            660,
+            1098
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 685,
+                "index": 699,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 683,
+                "index": 697,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -11162,24 +11538,25 @@ F = [
         "name": "Family of Garner, Jason Richard and Harper, ??",
         "note": "",
         "spou": [
-            649,
-            791
+            663,
+            805
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 661,
+                "index": 675,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 684,
+                "index": 698,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -11211,13 +11588,14 @@ F = [
         "name": "Family of Garner, Jesse V. and Taylor, Viola",
         "note": "",
         "spou": [
-            651,
-            1631
+            665,
+            1646
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2780
@@ -11245,13 +11623,14 @@ F = [
         "name": "Family of Garner, John Joseph and Crawford, Lori",
         "note": "",
         "spou": [
-            652,
+            666,
             390
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2761
@@ -11279,31 +11658,32 @@ F = [
         "name": "Family of Garner, John Roger and \u0411\u0440\u044e\u0445\u0430\u043d\u043e\u0432, Violet Louise",
         "note": "",
         "spou": [
-            653,
-            1933
+            667,
+            1959
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 680,
+                "index": 694,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 656,
+                "index": 670,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 621,
+                "index": 635,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -11335,7 +11715,7 @@ F = [
         "name": "Family of Garner, Joseph and Edwards, Lucy",
         "note": "",
         "spou": [
-            654,
+            668,
             525
         ],
         "type": "Married"
@@ -11352,35 +11732,22 @@ F = [
                 "value": "8"
             }
         ],
+        "change_time": "2012-01-31 17:21:23",
         "chil": [
             {
                 "cita": [
                     2838
                 ],
-                "index": 640,
+                "index": 654,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 651,
+                "index": 665,
                 "note": "",
                 "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 672,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Adopted"
-            },
-            {
-                "cita": [],
-                "index": 650,
-                "note": "",
-                "to_father": "Adopted",
                 "to_mother": "Birth"
             },
             {
@@ -11388,25 +11755,39 @@ F = [
                 "index": 686,
                 "note": "",
                 "to_father": "Birth",
+                "to_mother": "Adopted"
+            },
+            {
+                "cita": [],
+                "index": 664,
+                "note": "",
+                "to_father": "Adopted",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 636,
+                "index": 700,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 630,
+                "index": 650,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 638,
+                "index": 644,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 652,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -11457,13 +11838,14 @@ F = [
         "name": "Family of Garner von Zieli\u0144ski, Lewis Anderson Sr and Martel, Luella Jacques",
         "note": "<div>\n<i class=\"NoteType\">\nFamily Note\n</i>\n<div class=\"grampsstylednote\">\n<p>\nGRAMPS aid to look for its tree to him of family.  It allows that you store data of genealogische to draw for above and investigating.  GRAMPS tries to make all the general capacities available of other programs of genealogischer more importantly but, to put an additional capacity of integration at your service not generally for these programs.  This one is the capacity to directly incorporate all the possible pieces of the information in Gramps and the cases of the data cambiar/manipulateany/all in the whole data base (in any order or order) around the user to support, if it makes the investigation, analysis and interrelation with the potential of the distances of the relation that fill.\n</p>\n<p>\nThis is a paragraph from the gramps-project.org page that was translated by Google's Language Tools to German, back to English, then to Spanish, and once again back to English.\n</p>\n</div>\n</div>",
         "spou": [
-            657,
-            1098
+            671,
+            1112
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2366
@@ -11491,24 +11873,25 @@ F = [
         "name": "Family of Garner, Mark Gerard and Gibbs, Lori",
         "note": "",
         "spou": [
-            662,
-            705
+            676,
+            719
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 668,
+                "index": 682,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 666,
+                "index": 680,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -11540,24 +11923,25 @@ F = [
         "name": "Family of Garner, Michael Stanley and Gibbs, Sharon",
         "note": "",
         "spou": [
-            669,
-            714
+            683,
+            728
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 619,
+                "index": 633,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 620,
+                "index": 634,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -11589,13 +11973,14 @@ F = [
         "name": "Family of Garner, Peter George and Gibbs, Joy",
         "note": "",
         "spou": [
-            670,
-            704
+            684,
+            718
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2361
@@ -11623,24 +12008,25 @@ F = [
         "name": "Family of Garner, Raymond Scott and P\u00e9rez, Angela Gay",
         "note": "",
         "spou": [
-            673,
-            1355
+            687,
+            1369
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 648,
+                "index": 662,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 673,
+                "index": 687,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -11672,31 +12058,32 @@ F = [
         "name": "Family of Garner, Raymond Webster and Bryant, Kathryn Ladon",
         "note": "",
         "spou": [
-            674,
+            688,
             330
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 644,
+                "index": 658,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 676,
+                "index": 690,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 649,
+                "index": 663,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -11728,13 +12115,14 @@ F = [
         "name": "Family of Garner, Richard Eugene and Gibbs, Elaine",
         "note": "",
         "spou": [
-            677,
-            701
+            691,
+            715
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2181
@@ -11762,52 +12150,53 @@ F = [
         "name": "Family of Garner, Robert F. and Cannon, Mary Jane",
         "note": "",
         "spou": [
-            679,
+            693,
             349
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2015-05-09 14:35:00",
         "chil": [
             {
                 "cita": [],
-                "index": 657,
+                "index": 671,
                 "note": "",
                 "to_father": "Custom relationship to father",
                 "to_mother": "Custom relationship to mother"
             },
             {
                 "cita": [],
-                "index": 671,
+                "index": 685,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 663,
+                "index": 677,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 664,
+                "index": 678,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 617,
+                "index": 631,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 675,
+                "index": 689,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -11821,14 +12210,28 @@ F = [
             },
             {
                 "cita": [],
-                "index": 647,
+                "index": 661,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 679,
+                "index": 693,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 653,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 637,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -11836,20 +12239,6 @@ F = [
             {
                 "cita": [],
                 "index": 639,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 623,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 625,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -11881,17 +12270,18 @@ F = [
         "name": "Family of Garner, Robert W. and Zieli\u0144ski, Phoebe Emily",
         "note": "",
         "spou": [
-            680,
-            1917
+            694,
+            1932
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 618,
+                "index": 632,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -11923,24 +12313,25 @@ F = [
         "name": "Family of Garner, Thomas James and \u0421\u043e\u0440\u043e\u043a\u0438\u043d, Holly Ruth",
         "note": "",
         "spou": [
-            682,
-            2056
+            696,
+            2082
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 665,
+                "index": 679,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 660,
+                "index": 674,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -11972,13 +12363,14 @@ F = [
         "name": "Family of Garner, Walter E. and Garc\u00eda, Maude",
         "note": "",
         "spou": [
-            686,
-            612
+            700,
+            626
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2473
@@ -12006,38 +12398,39 @@ F = [
         "name": "Family of Garrett, Terry Lee and Holloway, Gail",
         "note": "",
         "spou": [
-            691,
-            843
+            705,
+            857
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 688,
+                "index": 702,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 689,
+                "index": 703,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 691,
+                "index": 705,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 692,
+                "index": 706,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -12069,31 +12462,32 @@ F = [
         "name": "Family of Garrett, William Forest and Perkins, Wilma Mae",
         "note": "",
         "spou": [
-            693,
-            1357
+            707,
+            1371
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 687,
+                "index": 701,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 693,
+                "index": 707,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 690,
+                "index": 704,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -12125,17 +12519,18 @@ F = [
         "name": "Family of Garrett, William Walker and Lessard, Laura Eloise",
         "note": "",
         "spou": [
-            694,
-            1038
+            708,
+            1052
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 776,
+                "index": 790,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -12153,12 +12548,13 @@ F = [
         "name": "Family of Gibbs, Rosina M.",
         "note": "",
         "spou": [
-            712
+            726
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2540
@@ -12186,13 +12582,14 @@ F = [
         "name": "Family of Gibson, Mr. and James, Mary",
         "note": "",
         "spou": [
-            715,
-            881
+            729,
+            895
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2765
@@ -12220,24 +12617,25 @@ F = [
         "name": "Family of Gilbert, ?? and L\u00e9vesque, Wilma",
         "note": "",
         "spou": [
-            717,
-            1051
+            731,
+            1065
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 720,
+                "index": 734,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 722,
+                "index": 736,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -12249,7 +12647,7 @@ F = [
         "events": [
             {
                 "cita": [],
-                "date": "avant 1967",
+                "date": "before 1967",
                 "date_sdn": 2439492,
                 "descr": "Marriage of Gill, Lawrence and Webb, Joan Lorinda",
                 "gid": "E3388",
@@ -12264,22 +12662,23 @@ F = [
         "gid": "F0086",
         "marr_place": "Ottawa, La Salle, IL, USA",
         "marr_sdn": 2439492,
-        "marr_year": "1967",
+        "marr_year": "?",
         "media": [],
         "name": "Family of Gill, Lawrence and Webb, Joan Lorinda",
         "note": "",
         "spou": [
-            719,
-            1839
+            733,
+            1854
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 718,
+                "index": 732,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -12297,16 +12696,17 @@ F = [
         "name": "Family of Gill, Lawrence",
         "note": "",
         "spou": [
-            720
+            734
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 726,
+                "index": 740,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -12324,12 +12724,13 @@ F = [
         "name": "Family of Gomez, Culthbert",
         "note": "",
         "spou": [
-            725
+            739
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2731
@@ -12357,17 +12758,18 @@ F = [
         "name": "Family of Gonz\u00e1lez and Ball, Martha",
         "note": "",
         "spou": [
-            729,
+            743,
             96
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 2003,
+                "index": 2029,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -12399,13 +12801,14 @@ F = [
         "name": "Family of Goodman, Ralph and Powell, Martha",
         "note": "",
         "spou": [
-            733,
-            1395
+            747,
+            1410
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2412
@@ -12433,38 +12836,39 @@ F = [
         "name": "Family of Goodwin and Sandoval, Liz",
         "note": "",
         "spou": [
-            734,
-            1568
+            748,
+            1583
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 740,
+                "index": 754,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 741,
+                "index": 755,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 738,
+                "index": 752,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 739,
+                "index": 753,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -12496,13 +12900,14 @@ F = [
         "name": "Family of Gosselin, Martin Kelly and Warner, Marcia Jane",
         "note": "",
         "spou": [
-            742,
-            1751
+            756,
+            1766
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2622
@@ -12530,13 +12935,14 @@ F = [
         "name": "Family of Grabowski, Mr. and Waters, Lola",
         "note": "",
         "spou": [
-            743,
-            1808
+            757,
+            1823
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2573
@@ -12564,17 +12970,18 @@ F = [
         "name": "Family of Graham, Steve and Cruz, Laura Joy",
         "note": "",
         "spou": [
-            744,
+            758,
             419
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 748,
+                "index": 762,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -12606,17 +13013,18 @@ F = [
         "name": "Family of Green, Edward and Lefebvre, Mary",
         "note": "",
         "spou": [
-            749,
-            1024
+            763,
+            1038
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 751,
+                "index": 765,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -12648,17 +13056,18 @@ F = [
         "name": "Family of Green, Edward and \u041c\u0430\u043a\u0441\u0438\u043c\u043e\u0432, Christina",
         "note": "",
         "spou": [
-            748,
-            2019
+            762,
+            2045
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 752,
+                "index": 766,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -12690,17 +13099,18 @@ F = [
         "name": "Family of Green, James and Christiansen, Frances",
         "note": "",
         "spou": [
-            751,
+            765,
             365
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 750,
+                "index": 764,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -12732,17 +13142,18 @@ F = [
         "name": "Family of Green, Randolph and Davis, Sabra",
         "note": "",
         "spou": [
-            752,
+            766,
             442
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 749,
+                "index": 763,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -12774,17 +13185,18 @@ F = [
         "name": "Family of Green, Yelverton and Robertson, Elizabeth",
         "note": "",
         "spou": [
-            753,
-            1506
+            767,
+            1521
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 758,
+                "index": 772,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -12816,13 +13228,14 @@ F = [
         "name": "Family of Grenier, Joseph and Peters, Rose",
         "note": "",
         "spou": [
-            757,
-            1366
+            771,
+            1381
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2669
@@ -12850,17 +13263,18 @@ F = [
         "name": "Family of Gross and Peters, Dorothy",
         "note": "",
         "spou": [
-            760,
-            1359
+            774,
+            1374
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 762,
+                "index": 776,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -12878,16 +13292,17 @@ F = [
         "name": "Family of Guerrero, Robert",
         "note": "",
         "spou": [
-            761
+            775
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1137,
+                "index": 1151,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -12905,16 +13320,17 @@ F = [
         "name": "Family of Guerrero, Robert",
         "note": "",
         "spou": [
-            762
+            776
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 765,
+                "index": 779,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -12932,16 +13348,17 @@ F = [
         "name": "Family of Guerrero, Walter",
         "note": "",
         "spou": [
-            763
+            777
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 764,
+                "index": 778,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -12959,16 +13376,17 @@ F = [
         "name": "Family of Guerrero, Walter",
         "note": "",
         "spou": [
-            765
+            779
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 761,
+                "index": 775,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -12986,16 +13404,17 @@ F = [
         "name": "Family of Guerrero, Walter",
         "note": "",
         "spou": [
-            764
+            778
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 766,
+                "index": 780,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -13027,31 +13446,32 @@ F = [
         "name": "Family of Gutierrez, Thomas and Boucher, Nora A.",
         "note": "",
         "spou": [
-            769,
+            783,
             267
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 770,
+                "index": 784,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 767,
+                "index": 781,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 768,
+                "index": 782,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -13083,38 +13503,39 @@ F = [
         "name": "Family of Guti\u00e9rrez, Walter Harmon and Boyd, Lauretta Esther",
         "note": "",
         "spou": [
-            771,
+            785,
             302
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 775,
+                "index": 789,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 777,
+                "index": 791,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 773,
+                "index": 787,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 774,
+                "index": 788,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -13146,13 +13567,14 @@ F = [
         "name": "Family of Hale, Lawrence Paul and Garner, Anne Therese",
         "note": "",
         "spou": [
-            776,
-            624
+            790,
+            638
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2255
@@ -13180,13 +13602,14 @@ F = [
         "name": "Family of Hamilton, John and Boucher, Miread",
         "note": "",
         "spou": [
-            779,
+            793,
             265
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2306
@@ -13214,24 +13637,25 @@ F = [
         "name": "Family of Hammond, Roy and Serrano, Carrie",
         "note": "",
         "spou": [
-            780,
-            1587
+            794,
+            1602
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 781,
+                "index": 795,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 783,
+                "index": 797,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -13263,38 +13687,39 @@ F = [
         "name": "Family of Hansen, Noel and Ramirez, Helen",
         "note": "",
         "spou": [
-            785,
-            1402
+            799,
+            1417
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 785,
+                "index": 799,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 786,
+                "index": 800,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 782,
+                "index": 796,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 784,
+                "index": 798,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -13326,17 +13751,18 @@ F = [
         "name": "Family of Hansen, Thomas and Boucher, Rose Mary",
         "note": "",
         "spou": [
-            787,
+            801,
             273
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 968,
+                "index": 982,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -13368,13 +13794,14 @@ F = [
         "name": "Family of Hanson, Robert and Schwartz, Helewisa",
         "note": "",
         "spou": [
-            788,
-            1582
+            802,
+            1597
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2187
@@ -13402,31 +13829,32 @@ F = [
         "name": "Family of Hardy, Jakob and Beaulieu, Anna Maria",
         "note": "",
         "spou": [
-            789,
+            803,
             123
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 795,
+                "index": 809,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 796,
+                "index": 810,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 797,
+                "index": 811,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -13458,13 +13886,14 @@ F = [
         "name": "Family of Harris, Lawrence and Landry, Alice",
         "note": "",
         "spou": [
-            793,
-            984
+            807,
+            998
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2819
@@ -13492,24 +13921,25 @@ F = [
         "name": "Family of Harrison, Edward and Allen, Sarah",
         "note": "",
         "spou": [
-            800,
+            814,
             33
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 798,
+                "index": 812,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 799,
+                "index": 813,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -13541,38 +13971,39 @@ F = [
         "name": "Family of Harrison, Paul Allen and \u0414\u0430\u043d\u0438\u043b\u043e\u0432, Lucinda Elinor",
         "note": "",
         "spou": [
-            801,
-            1959
+            815,
+            1985
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 803,
+                "index": 817,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 806,
+                "index": 820,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 804,
+                "index": 818,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 805,
+                "index": 819,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -13604,17 +14035,18 @@ F = [
         "name": "Family of Hart, Gerry and Boucher, Mary",
         "note": "",
         "spou": [
-            802,
+            816,
             253
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 808,
+                "index": 822,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -13632,30 +14064,31 @@ F = [
         "name": "Family of Harvey, John",
         "note": "",
         "spou": [
-            807
+            821
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 810,
+                "index": 824,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 818,
+                "index": 832,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 815,
+                "index": 829,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -13687,17 +14120,18 @@ F = [
         "name": "Family of Hawkins, Beckham and \u0410\u0444\u0430\u043d\u0430\u0441\u044c\u0435\u0432, Angie",
         "note": "",
         "spou": [
-            809,
-            1924
+            823,
+            1950
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 816,
+                "index": 830,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -13715,30 +14149,31 @@ F = [
         "name": "Family of Hawkins, Richard W.",
         "note": "",
         "spou": [
-            817
+            831
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 811,
+                "index": 825,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 814,
+                "index": 828,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 812,
+                "index": 826,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -13770,24 +14205,25 @@ F = [
         "name": "Family of Hawkins, William Melvin and Gibbs, Ruth",
         "note": "",
         "spou": [
-            818,
-            713
+            832,
+            727
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 817,
+                "index": 831,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 813,
+                "index": 827,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -13805,37 +14241,38 @@ F = [
         "name": "Family of Hawkins, William Melvin",
         "note": "",
         "spou": [
-            818
+            832
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 824,
+                "index": 838,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 821,
+                "index": 835,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 820,
+                "index": 834,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 823,
+                "index": 837,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -13867,13 +14304,14 @@ F = [
         "name": "Family of Haynes, Marc W. and Warner, Laura Gail",
         "note": "",
         "spou": [
-            822,
-            1748
+            836,
+            1763
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2267
@@ -13901,17 +14339,18 @@ F = [
         "name": "Family of H\u00e9bert, Mr. and Page, Mary",
         "note": "",
         "spou": [
-            825,
-            1295
+            839,
+            1309
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 828,
+                "index": 842,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -13929,12 +14368,13 @@ F = [
         "name": "Family of Henry, John",
         "note": "",
         "spou": [
-            829
+            843
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2307
@@ -13962,13 +14402,14 @@ F = [
         "name": "Family of Hernandez, John and Norris, Elizabeth",
         "note": "",
         "spou": [
-            830,
-            1239
+            844,
+            1253
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2244
@@ -13996,31 +14437,32 @@ F = [
         "name": "Family of Hern\u00e1ndez, Thomas and Douglas, Elizabeth",
         "note": "",
         "spou": [
-            832,
+            846,
             490
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 836,
+                "index": 850,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 837,
+                "index": 851,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 838,
+                "index": 852,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -14052,13 +14494,14 @@ F = [
         "name": "Family of Hill and Garner, Louella Marie",
         "note": "",
         "spou": [
-            835,
-            658
+            849,
+            672
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2785
@@ -14086,17 +14529,18 @@ F = [
         "name": "Family of Hines and Douglas, Eliza Jane",
         "note": "",
         "spou": [
-            839,
+            853,
             487
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 845,
+                "index": 859,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -14128,17 +14572,18 @@ F = [
         "name": "Family of Holloway, John(?) and \u041e\u0440\u043b\u043e\u0432, Margaret(?)",
         "note": "",
         "spou": [
-            844,
-            2037
+            858,
+            2063
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 850,
+                "index": 864,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -14156,16 +14601,17 @@ F = [
         "name": "Family of Howard, Michael",
         "note": "",
         "spou": [
-            851
+            865
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 846,
+                "index": 860,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -14197,17 +14643,18 @@ F = [
         "name": "Family of Howell, John and Yates, Sarah",
         "note": "",
         "spou": [
-            852,
-            1915
+            866,
+            1930
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 856,
+                "index": 870,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -14225,12 +14672,13 @@ F = [
         "name": "Family of Howell, JOHN",
         "note": "",
         "spou": [
-            853
+            867
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2216
@@ -14258,13 +14706,14 @@ F = [
         "name": "Family of Hunt, Isaac and \u0414\u043c\u0438\u0442\u0440\u0438\u0435\u0432, Nancy Ann",
         "note": "",
         "spou": [
-            863,
-            1972
+            877,
+            1998
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2454
@@ -14292,38 +14741,60 @@ F = [
         "name": "Family of James, Hugh Jr. and Wi\u015bniewski, D.",
         "note": "",
         "spou": [
-            871,
-            1898
+            885,
+            1913
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 888,
+                "index": 902,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 870,
+                "index": 884,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 885,
+                "index": 899,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 879,
+                "index": 893,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 904,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 895,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 894,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -14337,35 +14808,14 @@ F = [
             },
             {
                 "cita": [],
-                "index": 881,
+                "index": 891,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 880,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 876,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 877,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 869,
+                "index": 883,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -14397,13 +14847,14 @@ F = [
         "name": "Family of James, Hugh Sr. and Serrano, Caroline",
         "note": "",
         "spou": [
-            872,
-            1586
+            886,
+            1601
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2680
@@ -14431,17 +14882,18 @@ F = [
         "name": "Family of James, Isaac and Andersen, Martha",
         "note": "",
         "spou": [
-            873,
+            887,
             67
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 886,
+                "index": 900,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -14459,12 +14911,13 @@ F = [
         "name": "Family of James, James",
         "note": "",
         "spou": [
-            874
+            888
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2678
@@ -14492,17 +14945,18 @@ F = [
         "name": "Family of James, Joseph and Floyd, Nancy",
         "note": "",
         "spou": [
-            878,
-            577
+            892,
+            591
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 872,
+                "index": 886,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -14534,13 +14988,14 @@ F = [
         "name": "Family of James, Robert and Pratt, Sarah",
         "note": "",
         "spou": [
-            886,
-            1397
+            900,
+            1412
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2375
@@ -14568,13 +15023,14 @@ F = [
         "name": "Family of James, Thomas and Marshall, Kate Teel",
         "note": "",
         "spou": [
-            887,
-            1096
+            901,
+            1110
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2342
@@ -14602,38 +15058,46 @@ F = [
         "name": "Family of James, Thomas and Parent, Betsy",
         "note": "",
         "spou": [
-            887,
-            1315
+            901,
+            1329
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 875,
+                "index": 889,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 871,
+                "index": 885,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 882,
+                "index": 896,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 878,
+                "index": 892,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 901,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -14647,21 +15111,14 @@ F = [
             },
             {
                 "cita": [],
-                "index": 873,
+                "index": 903,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 889,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 884,
+                "index": 898,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -14693,13 +15150,14 @@ F = [
         "name": "Family of James, Thomas Sr. and Benson, Martha Ellen M.",
         "note": "",
         "spou": [
-            888,
+            902,
             166
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2354
@@ -14727,13 +15185,14 @@ F = [
         "name": "Family of James, Walter Crockett and Hern\u00e1ndez, Nancy",
         "note": "",
         "spou": [
-            889,
-            831
+            903,
+            845
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2377
@@ -14761,80 +15220,81 @@ F = [
         "name": "Family of James, Walter Crockett and \u0417\u0430\u0445\u0430\u0440\u043e\u0432, Margaret",
         "note": "",
         "spou": [
-            889,
-            1983
+            903,
+            2009
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 899,
+                "index": 913,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 900,
+                "index": 914,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 901,
+                "index": 915,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 895,
+                "index": 909,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 894,
+                "index": 908,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 893,
+                "index": 907,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 897,
+                "index": 911,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 891,
+                "index": 905,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 896,
+                "index": 910,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 898,
+                "index": 912,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -14866,17 +15326,18 @@ F = [
         "name": "Family of Jankowski, George and Page, Margaret",
         "note": "",
         "spou": [
-            892,
-            1293
+            906,
+            1307
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 902,
+                "index": 916,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -14908,13 +15369,14 @@ F = [
         "name": "Family of Jenkins, Peter and Marsh, Margaret",
         "note": "",
         "spou": [
-            903,
-            1095
+            917,
+            1109
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2136
@@ -14942,13 +15404,14 @@ F = [
         "name": "Family of Jimenez and Reed, Maureen",
         "note": "",
         "spou": [
-            905,
-            1439
+            919,
+            1454
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2177
@@ -14976,13 +15439,14 @@ F = [
         "name": "Family of Jim\u00e9nez, Andrew and Palmer, Sarah",
         "note": "",
         "spou": [
-            907,
-            1313
+            921,
+            1327
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2112
@@ -15010,24 +15474,32 @@ F = [
         "name": "Family of Jim\u00e9nez, Cornelius and Blair, Jane",
         "note": "",
         "spou": [
-            909,
+            923,
             184
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 920,
+                "index": 934,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 930,
+                "index": 944,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 936,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -15041,21 +15513,21 @@ F = [
             },
             {
                 "cita": [],
-                "index": 908,
+                "index": 945,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 931,
+                "index": 932,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 918,
+                "index": 939,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -15063,13 +15535,6 @@ F = [
             {
                 "cita": [],
                 "index": 925,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 911,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -15101,73 +15566,74 @@ F = [
         "name": "Family of Jim\u00e9nez, George Henry, III and Blake, M. Susannah",
         "note": "",
         "spou": [
-            912,
+            926,
             188
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 912,
+                "index": 926,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 906,
+                "index": 920,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 924,
+                "index": 938,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 915,
+                "index": 929,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 917,
+                "index": 931,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 921,
+                "index": 935,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 923,
+                "index": 937,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 928,
+                "index": 942,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 919,
+                "index": 933,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -15199,56 +15665,15 @@ F = [
         "name": "Family of Jim\u00e9nez, George Henry, Jr. and Silva, Mildred",
         "note": "",
         "spou": [
-            913,
-            1595
+            927,
+            1610
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
-            {
-                "cita": [],
-                "index": 913,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 926,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 910,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 907,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 916,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 929,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
             {
                 "cita": [],
                 "index": 927,
@@ -15258,7 +15683,49 @@ F = [
             },
             {
                 "cita": [],
-                "index": 909,
+                "index": 940,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 924,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 921,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 930,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 943,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 941,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 923,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -15290,13 +15757,14 @@ F = [
         "name": "Family of Jim\u00e9nez, George, Sr. and Henry, Elizabeth",
         "note": "",
         "spou": [
-            914,
-            828
+            928,
+            842
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2205
@@ -15324,17 +15792,18 @@ F = [
         "name": "Family of Jim\u00e9nez, John and Palmer, Mary",
         "note": "",
         "spou": [
-            916,
-            1311
+            930,
+            1325
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 933,
+                "index": 947,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -15366,13 +15835,14 @@ F = [
         "name": "Family of Johnson, Henry and Sparks, Catherine",
         "note": "",
         "spou": [
-            934,
-            1603
+            948,
+            1618
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2202
@@ -15400,13 +15870,14 @@ F = [
         "name": "Family of Johnson, Richard F. and Garner, Betty Jane",
         "note": "",
         "spou": [
-            935,
-            631
+            949,
+            645
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2302
@@ -15434,17 +15905,18 @@ F = [
         "name": "Family of Johnston and Sandoval, Jean",
         "note": "",
         "spou": [
-            936,
-            1565
+            950,
+            1580
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 937,
+                "index": 951,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -15476,13 +15948,14 @@ F = [
         "name": "Family of Jones, Hugh and \u041a\u0438\u0440\u0438\u043b\u043b\u043e\u0432, ??",
         "note": "",
         "spou": [
-            938,
-            1999
+            952,
+            2025
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2679
@@ -15510,24 +15983,25 @@ F = [
         "name": "Family of Jordan, William and Reed, Frances Lucille (Babe)",
         "note": "",
         "spou": [
-            940,
-            1422
+            954,
+            1437
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 943,
+                "index": 957,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 942,
+                "index": 956,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -15559,45 +16033,46 @@ F = [
         "name": "Family of J\u00f8rgensen, Jeffrey and Osborne, Julia Marie",
         "note": "",
         "spou": [
-            941,
-            1260
+            955,
+            1274
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 944,
+                "index": 958,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 946,
+                "index": 960,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 948,
+                "index": 962,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 945,
+                "index": 959,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 947,
+                "index": 961,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -15629,13 +16104,14 @@ F = [
         "name": "Family of Joseph, Alfred and Moreno, Minerva",
         "note": "",
         "spou": [
-            949,
-            1174
+            963,
+            1188
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2465
@@ -15663,17 +16139,18 @@ F = [
         "name": "Family of Kami\u0144ski and Reed, Jane",
         "note": "",
         "spou": [
-            951,
-            1427
+            965,
+            1442
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 953,
+                "index": 967,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -15691,12 +16168,13 @@ F = [
         "name": "Family of Keller, Mathew",
         "note": "",
         "spou": [
-            954
+            968
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2119
@@ -15724,13 +16202,14 @@ F = [
         "name": "Family of Kelley, Thomas and Douglas, Catherine",
         "note": "",
         "spou": [
-            955,
+            969,
             484
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2487
@@ -15758,13 +16237,14 @@ F = [
         "name": "Family of Kim, Frank and Kristensen, Catherine Virginia",
         "note": "",
         "spou": [
-            959,
-            975
+            973,
+            989
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2636
@@ -15792,13 +16272,14 @@ F = [
         "name": "Family of King, Henry and \u0411\u044b\u043a\u043e\u0432, Annie",
         "note": "",
         "spou": [
-            960,
-            1934
+            974,
+            1960
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2709
@@ -15826,17 +16307,18 @@ F = [
         "name": "Family of Knudsen, John and Huff, Isabel",
         "note": "",
         "spou": [
-            963,
-            862
+            977,
+            876
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 963,
+                "index": 977,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -15868,17 +16350,18 @@ F = [
         "name": "Family of Knudsen, Ralph and Huff, Isabel",
         "note": "",
         "spou": [
-            966,
-            862
+            980,
+            876
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 966,
+                "index": 980,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -15910,17 +16393,18 @@ F = [
         "name": "Family of Knudsen, Ralph and Walton, Theophania(Tiffany)",
         "note": "",
         "spou": [
-            965,
-            1683
+            979,
+            1698
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 965,
+                "index": 979,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -15952,13 +16436,14 @@ F = [
         "name": "Family of Knudsen, Ranulf and Huff, Bertrama",
         "note": "",
         "spou": [
-            967,
-            861
+            981,
+            875
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2749
@@ -15986,17 +16471,18 @@ F = [
         "name": "Family of Knudsen, Robert and Schwartz, Helewisa",
         "note": "",
         "spou": [
-            968,
-            1582
+            982,
+            1597
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 969,
+                "index": 983,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -16028,17 +16514,18 @@ F = [
         "name": "Family of Kowalski, John and Wells, Alice",
         "note": "",
         "spou": [
-            970,
-            1880
+            984,
+            1895
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 970,
+                "index": 984,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -16070,13 +16557,14 @@ F = [
         "name": "Family of Kowalski, Thomas and Santos, Alice",
         "note": "",
         "spou": [
-            971,
-            1572
+            985,
+            1587
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2176
@@ -16104,13 +16592,14 @@ F = [
         "name": "Family of Krawczyk, Douglas and Cruz, Patti Jo",
         "note": "",
         "spou": [
-            973,
+            987,
             423
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2524
@@ -16138,24 +16627,25 @@ F = [
         "name": "Family of Kristensen, John Francis\"Chick\" and \u4f0a\u85e4, Mary",
         "note": "",
         "spou": [
-            976,
-            2092
+            990,
+            2118
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 989,
+                "index": 1003,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 992,
+                "index": 1006,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -16187,24 +16677,25 @@ F = [
         "name": "Family of Landry, John Anthony and Harris, Ella Mae",
         "note": "",
         "spou": [
-            991,
-            792
+            1005,
+            806
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 997,
+                "index": 1011,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 986,
+                "index": 1000,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -16236,17 +16727,18 @@ F = [
         "name": "Family of Landry, Maurice T. and Estrada, Mary Claire",
         "note": "",
         "spou": [
-            996,
+            1010,
             529
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1000,
+                "index": 1014,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -16278,73 +16770,74 @@ F = [
         "name": "Family of Landry, Maurice T. and Vargas, Caroline Metzger",
         "note": "",
         "spou": [
-            996,
-            1671
+            1010,
+            1686
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1002,
+                "index": 1016,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 995,
+                "index": 1009,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 996,
+                "index": 1010,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 987,
+                "index": 1001,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 985,
+                "index": 999,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 991,
+                "index": 1005,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 984,
+                "index": 998,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 993,
+                "index": 1007,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 990,
+                "index": 1004,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -16376,24 +16869,25 @@ F = [
         "name": "Family of Landry, Michael Edward and Brady, CatherineJosephine",
         "note": "",
         "spou": [
-            998,
+            1012,
             305
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1003,
+                "index": 1017,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1004,
+                "index": 1018,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -16425,17 +16919,18 @@ F = [
         "name": "Family of Lane, Joseph Edward and \u041a\u043e\u0437\u043b\u043e\u0432, Linda Mae",
         "note": "",
         "spou": [
-            1005,
-            2004
+            1019,
+            2030
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1005,
+                "index": 1019,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -16467,17 +16962,18 @@ F = [
         "name": "Family of Lane, Joseph Robert and Thornton, Dorothy Eleanor",
         "note": "",
         "spou": [
-            1006,
-            1640
+            1020,
+            1655
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1006,
+                "index": 1020,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -16509,17 +17005,18 @@ F = [
         "name": "Family of Lane, Remo and Barnes, Ernestina",
         "note": "",
         "spou": [
-            1007,
+            1021,
             110
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1009,
+                "index": 1023,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -16551,17 +17048,18 @@ F = [
         "name": "Family of Lapointe, John and Madsen, Catherine",
         "note": "",
         "spou": [
-            1008,
-            1070
+            1022,
+            1084
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1011,
+                "index": 1025,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -16579,16 +17077,17 @@ F = [
         "name": "Family of Lapointe, Sir Thomas",
         "note": "",
         "spou": [
-            1010
+            1024
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1008,
+                "index": 1022,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -16606,12 +17105,13 @@ F = [
         "name": "Family of Lapointe, William",
         "note": "",
         "spou": [
-            1011
+            1025
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2212
@@ -16619,7 +17119,7 @@ F = [
         "events": [
             {
                 "cita": [],
-                "date": "vers 1817",
+                "date": "about 1817",
                 "date_sdn": 2384706,
                 "descr": "Marriage of Lavoie, Henry and James, Patsy",
                 "gid": "E3175",
@@ -16639,45 +17139,46 @@ F = [
         "name": "Family of Lavoie, Henry and James, Patsy",
         "note": "",
         "spou": [
-            1014,
-            884
+            1028,
+            898
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1016,
+                "index": 1030,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1019,
+                "index": 1033,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1021,
+                "index": 1035,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1018,
+                "index": 1032,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1020,
+                "index": 1034,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -16709,17 +17210,18 @@ F = [
         "name": "Family of Lawson, Mr. and Parent, Polly",
         "note": "",
         "spou": [
-            1017,
-            1326
+            1031,
+            1340
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1024,
+                "index": 1038,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -16751,13 +17253,14 @@ F = [
         "name": "Family of Lefebvre, Joseph and Gregory, Mary",
         "note": "",
         "spou": [
-            1023,
-            756
+            1037,
+            770
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2148
@@ -16785,17 +17288,18 @@ F = [
         "name": "Family of Lefebvre, Rev. John L. and Kowalski, Hannah",
         "note": "",
         "spou": [
-            1025,
-            969
+            1039,
+            983
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1023,
+                "index": 1037,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -16813,16 +17317,17 @@ F = [
         "name": "Family of Lefebvre, Rev. John L.",
         "note": "",
         "spou": [
-            1025
+            1039
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1897,
+                "index": 1912,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -16854,17 +17359,18 @@ F = [
         "name": "Family of Lefebvre, Robert and \u0413\u043e\u043d\u0447\u0430\u0440\u043e\u0432, Ellen",
         "note": "",
         "spou": [
-            1026,
-            1948
+            1040,
+            1974
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1036,
+                "index": 1050,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -16896,13 +17402,14 @@ F = [
         "name": "Family of Lessard and Castro, ???",
         "note": "",
         "spou": [
-            1028,
+            1042,
             358
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2620
@@ -16930,31 +17437,32 @@ F = [
         "name": "Family of Lessard, ??? and Castro, ???",
         "note": "",
         "spou": [
-            1029,
+            1043,
             358
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1032,
+                "index": 1046,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1031,
+                "index": 1045,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1039,
+                "index": 1053,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -16986,45 +17494,46 @@ F = [
         "name": "Family of Lessard, Carl Tolbert and Webb, Luella Florence",
         "note": "",
         "spou": [
-            1030,
-            1849
+            1044,
+            1864
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1030,
+                "index": 1044,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1040,
+                "index": 1054,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1042,
+                "index": 1056,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1034,
+                "index": 1048,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1038,
+                "index": 1052,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -17056,31 +17565,32 @@ F = [
         "name": "Family of Lessard, Ira Willis and Jim\u00e9nez, Lucinda Ellen",
         "note": "",
         "spou": [
-            1035,
-            920
+            1049,
+            934
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1035,
+                "index": 1049,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1033,
+                "index": 1047,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1037,
+                "index": 1051,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -17112,13 +17622,14 @@ F = [
         "name": "Family of Lessard, Isaac and Dom\u00ednguez, Mary E.",
         "note": "",
         "spou": [
-            1036,
+            1050,
             474
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2503
@@ -17146,13 +17657,14 @@ F = [
         "name": "Family of Lessard, Ralph Raymond and Davidson, Bernice",
         "note": "",
         "spou": [
-            1040,
+            1054,
             438
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2781
@@ -17160,7 +17672,7 @@ F = [
         "events": [
             {
                 "cita": [],
-                "date": "avant 1988",
+                "date": "before 1988",
                 "date_sdn": 2447162,
                 "descr": "Marriage of Lessard, Robert and Webb, Joan Lorinda",
                 "gid": "E3237",
@@ -17175,71 +17687,72 @@ F = [
         "gid": "F0556",
         "marr_place": "",
         "marr_sdn": 2447162,
-        "marr_year": "1988",
+        "marr_year": "?",
         "media": [],
         "name": "Family of Lessard, Robert and Webb, Joan Lorinda",
         "note": "",
         "spou": [
-            1041,
-            1839
+            1055,
+            1854
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1050,
+                "index": 1064,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1047,
+                "index": 1061,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1051,
+                "index": 1065,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1044,
+                "index": 1058,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1049,
+                "index": 1063,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1048,
+                "index": 1062,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1043,
+                "index": 1057,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1045,
+                "index": 1059,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -17271,38 +17784,39 @@ F = [
         "name": "Family of L\u00e9vesque, James W. and Lessard, Emma Jane",
         "note": "",
         "spou": [
-            1046,
-            1033
+            1060,
+            1047
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1054,
+                "index": 1068,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1053,
+                "index": 1067,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1055,
+                "index": 1069,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1052,
+                "index": 1066,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -17334,13 +17848,14 @@ F = [
         "name": "Family of Lewandowski, Thomas and Jankowski, Isabella Belle",
         "note": "",
         "spou": [
-            1056,
-            894
+            1070,
+            908
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2598
@@ -17368,13 +17883,14 @@ F = [
         "name": "Family of Lindsey, John and Warner, Martha Ellen",
         "note": "",
         "spou": [
-            1057,
-            1753
+            1071,
+            1768
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2824
@@ -17402,13 +17918,14 @@ F = [
         "name": "Family of Little, O. D. and Webb, Anna Mabel",
         "note": "",
         "spou": [
-            1058,
-            1823
+            1072,
+            1838
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2476
@@ -17436,13 +17953,14 @@ F = [
         "name": "Family of Logan, Joseph and \u0411\u044b\u043a\u043e\u0432, Janie",
         "note": "",
         "spou": [
-            1059,
-            1939
+            1073,
+            1965
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2270
@@ -17470,13 +17988,14 @@ F = [
         "name": "Family of L\u00f3pez, Hans Valentin and Beaulieu, Anna Ottilia",
         "note": "",
         "spou": [
-            1062,
+            1076,
             125
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2610
@@ -17504,13 +18023,14 @@ F = [
         "name": "Family of Love and Reed, Carmel",
         "note": "",
         "spou": [
-            1065,
-            1415
+            1079,
+            1430
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2677
@@ -17538,17 +18058,18 @@ F = [
         "name": "Family of Mack, ?? and L\u00e9vesque, Elsie",
         "note": "",
         "spou": [
-            1069,
-            1044
+            1083,
+            1058
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1072,
+                "index": 1086,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -17566,30 +18087,31 @@ F = [
         "name": "Family of Maldonado, Edward",
         "note": "",
         "spou": [
-            1071
+            1085
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1085,
+                "index": 1099,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1078,
+                "index": 1092,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1093,
+                "index": 1107,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -17621,14 +18143,29 @@ F = [
         "name": "Family of Mar\u00edn, Alfred Franklin(Frank) and Floyd, Martha Frances \"Fannie\"",
         "note": "",
         "spou": [
-            1077,
-            576
+            1091,
+            590
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
+            {
+                "cita": [],
+                "index": 1104,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 1095,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
             {
                 "cita": [],
                 "index": 1090,
@@ -17638,42 +18175,28 @@ F = [
             },
             {
                 "cita": [],
-                "index": 1081,
+                "index": 1103,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1076,
+                "index": 1105,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1089,
+                "index": 1097,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1091,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1083,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1087,
+                "index": 1101,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -17705,31 +18228,32 @@ F = [
         "name": "Family of Mar\u00edn, Moses Wallace and Landry, Eleanor (Nellie) Therese",
         "note": "",
         "spou": [
-            1085,
-            988
+            1099,
+            1002
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1084,
+                "index": 1098,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1079,
+                "index": 1093,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1082,
+                "index": 1096,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -17761,17 +18285,18 @@ F = [
         "name": "Family of Mar\u00edn, Walter Matthew and Boucher, Mary Cecilia",
         "note": "",
         "spou": [
-            1090,
+            1104,
             254
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1581,
+                "index": 1596,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -17803,13 +18328,14 @@ F = [
         "name": "Family of Mar\u00edn, William and Francis, Elizabeth",
         "note": "",
         "spou": [
-            1092,
-            602
+            1106,
+            616
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2605
@@ -17837,17 +18363,18 @@ F = [
         "name": "Family of Mar\u00edn, Willis H. and Floyd, Sarah (Sally)",
         "note": "",
         "spou": [
-            1094,
-            579
+            1108,
+            593
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1098,
+                "index": 1112,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -17879,13 +18406,14 @@ F = [
         "name": "Family of Martel, Henry and H\u00e9bert, Ruth Ann",
         "note": "",
         "spou": [
-            1097,
-            826
+            1111,
+            840
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2160
@@ -17913,17 +18441,18 @@ F = [
         "name": "Family of Martin and Moreno, Mary Ann",
         "note": "",
         "spou": [
-            1099,
-            1172
+            1113,
+            1186
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1101,
+                "index": 1115,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -17955,13 +18484,14 @@ F = [
         "name": "Family of Mart\u00edn and Garner, Melissa Sue",
         "note": "",
         "spou": [
-            1100,
-            667
+            1114,
+            681
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2283
@@ -17989,13 +18519,14 @@ F = [
         "name": "Family of Martinez and Reed, Catherine",
         "note": "",
         "spou": [
-            1102,
-            1417
+            1116,
+            1432
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2758
@@ -18023,13 +18554,14 @@ F = [
         "name": "Family of Mart\u00ednez and Serrano, Reh Dawn",
         "note": "",
         "spou": [
-            1103,
-            1592
+            1117,
+            1607
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -18065,17 +18597,18 @@ F = [
         "name": "Family of Massey, John and \u041c\u0430\u043b\u044c\u0446\u0435\u0432, Joan",
         "note": "",
         "spou": [
-            1106,
-            2025
+            1120,
+            2051
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1108,
+                "index": 1122,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -18107,17 +18640,18 @@ F = [
         "name": "Family of Matthews, Mark John and Warner, Andrea Susan",
         "note": "",
         "spou": [
-            1107,
-            1691
+            1121,
+            1706
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1109,
+                "index": 1123,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -18149,17 +18683,18 @@ F = [
         "name": "Family of Maxwell, William and Nielsen, Elizabeth",
         "note": "",
         "spou": [
-            1110,
-            1234
+            1124,
+            1248
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1111,
+                "index": 1125,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -18191,13 +18726,14 @@ F = [
         "name": "Family of Mazur, William and Crawford, Margaret",
         "note": "",
         "spou": [
-            1112,
+            1126,
             391
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2711
@@ -18225,13 +18761,14 @@ F = [
         "name": "Family of Mcbride, Paul and \u0414\u0430\u043d\u0438\u043b\u043e\u0432, Barbara Joanne",
         "note": "",
         "spou": [
-            1113,
-            1953
+            1127,
+            1979
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2156
@@ -18259,13 +18796,14 @@ F = [
         "name": "Family of McCarthy, Valentine Thomas and Jim\u00e9nez, Sarah",
         "note": "",
         "spou": [
-            1115,
-            929
+            1129,
+            943
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2696
@@ -18293,31 +18831,32 @@ F = [
         "name": "Family of McCormick, Dean and Page, Florence",
         "note": "",
         "spou": [
-            1116,
-            1285
+            1130,
+            1299
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1124,
+                "index": 1138,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1117,
+                "index": 1131,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1120,
+                "index": 1134,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -18329,7 +18868,7 @@ F = [
         "events": [
             {
                 "cita": [],
-                "date": "vers 1939",
+                "date": "about 1939",
                 "date_sdn": 2429265,
                 "descr": "Marriage of McCoy, Francis and Reed, Sarah",
                 "gid": "E3260",
@@ -18349,45 +18888,46 @@ F = [
         "name": "Family of McCoy, Francis and Reed, Sarah",
         "note": "",
         "spou": [
-            1121,
-            1455
+            1135,
+            1470
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1119,
+                "index": 1133,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1118,
+                "index": 1132,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1123,
+                "index": 1137,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1246,
+                "index": 1260,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1122,
+                "index": 1136,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -18419,13 +18959,14 @@ F = [
         "name": "Family of McCoy, Thomas Michael and Howell, Mary",
         "note": "",
         "spou": [
-            1124,
-            855
+            1138,
+            869
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2750
@@ -18453,13 +18994,14 @@ F = [
         "name": "Family of Medina, Wesley G. and Guti\u00e9rrez, Joan Arlene",
         "note": "",
         "spou": [
-            1126,
-            768
+            1140,
+            782
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2569
@@ -18467,7 +19009,7 @@ F = [
         "events": [
             {
                 "cita": [],
-                "date": "vers 1725",
+                "date": "about 1725",
                 "date_sdn": 2351104,
                 "descr": "Marriage of Mendoza, James and Allen, Abigail",
                 "gid": "E3328",
@@ -18487,17 +19029,18 @@ F = [
         "name": "Family of Mendoza, James and Allen, Abigail",
         "note": "",
         "spou": [
-            1128,
+            1142,
             20
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1129,
+                "index": 1143,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -18515,12 +19058,13 @@ F = [
         "name": "Family of Meyer, P.D.",
         "note": "",
         "spou": [
-            1130
+            1144
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2463
@@ -18548,17 +19092,18 @@ F = [
         "name": "Family of Michaud, Valentin and Beaulieu, Anna Eva",
         "note": "",
         "spou": [
-            1132,
+            1146,
             120
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1560,
+                "index": 1575,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -18590,12 +19135,13 @@ F = [
         "name": "Family of Molina, Robert",
         "note": "",
         "spou": [
-            1137
+            1151
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2658
@@ -18623,13 +19169,14 @@ F = [
         "name": "Family of Moore, George and \u0411\u044b\u043a\u043e\u0432, Margaret",
         "note": "",
         "spou": [
-            1140,
-            1940
+            1154,
+            1966
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2196
@@ -18657,17 +19204,18 @@ F = [
         "name": "Family of Moran, Andrew and Sharp, ???",
         "note": "",
         "spou": [
-            1142,
-            1593
+            1156,
+            1608
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1143,
+                "index": 1157,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -18685,23 +19233,52 @@ F = [
         "name": "Family of Moran, Andrew",
         "note": "",
         "spou": [
-            1142
+            1156
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1148,
+                "index": 1162,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1179,
+                "index": 1193,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 1180,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 1167,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 1169,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 1187,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -18715,42 +19292,14 @@ F = [
             },
             {
                 "cita": [],
-                "index": 1153,
+                "index": 1188,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1155,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1173,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1152,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1174,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1178,
+                "index": 1192,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -18782,13 +19331,14 @@ F = [
         "name": "Family of Moreno, Aaron and \u0417\u043b\u043e\u0431\u0438\u043d, Martha",
         "note": "",
         "spou": [
-            1147,
-            1987
+            1161,
+            2013
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2495
@@ -18816,17 +19366,18 @@ F = [
         "name": "Family of Moreno, Christian and Price, Mary",
         "note": "",
         "spou": [
-            1150,
-            1398
+            1164,
+            1413
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1163,
+                "index": 1177,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -18858,45 +19409,46 @@ F = [
         "name": "Family of Moreno, Christian, I and Mann, Agnes",
         "note": "",
         "spou": [
-            1151,
-            1074
+            1165,
+            1088
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1176,
+                "index": 1190,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1168,
+                "index": 1182,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1160,
+                "index": 1174,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1171,
+                "index": 1185,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1169,
+                "index": 1183,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -18928,17 +19480,18 @@ F = [
         "name": "Family of Moreno, Darius and Craig, Mary J.",
         "note": "",
         "spou": [
-            1153,
+            1167,
             389
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1172,
+                "index": 1186,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -18970,17 +19523,18 @@ F = [
         "name": "Family of Moreno, Esau and Caron, Mary E.",
         "note": "",
         "spou": [
-            1159,
+            1173,
             350
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1164,
+                "index": 1178,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -18998,16 +19552,17 @@ F = [
         "name": "Family of Moreno, Herman",
         "note": "",
         "spou": [
-            1162
+            1176
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1170,
+                "index": 1184,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -19039,17 +19594,18 @@ F = [
         "name": "Family of Moreno, Johann Christian II and \u041c\u0430\u0442\u0432\u0435\u0435\u0432, Elizabeth",
         "note": "",
         "spou": [
-            1163,
-            2027
+            1177,
+            2053
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1151,
+                "index": 1165,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -19067,93 +19623,94 @@ F = [
         "name": "Family of Moreno, Johann Henrich",
         "note": "",
         "spou": [
-            1164
+            1178
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1147,
+                "index": 1161,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1150,
+                "index": 1164,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1156,
+                "index": 1170,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1177,
+                "index": 1191,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1165,
+                "index": 1179,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1149,
+                "index": 1163,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1175,
+                "index": 1189,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1157,
+                "index": 1171,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1167,
+                "index": 1181,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1154,
+                "index": 1168,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1159,
+                "index": 1173,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1158,
+                "index": 1172,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -19185,13 +19742,14 @@ F = [
         "name": "Family of Moreno, Maj. Christopher and Bass, Mary",
         "note": "",
         "spou": [
-            1170,
+            1184,
             113
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2350
@@ -19219,38 +19777,39 @@ F = [
         "name": "Family of Moreno, Solon and Perkins, Lydia",
         "note": "",
         "spou": [
-            1178,
-            1356
+            1192,
+            1370
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1161,
+                "index": 1175,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1146,
+                "index": 1160,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1144,
+                "index": 1158,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1145,
+                "index": 1159,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -19282,13 +19841,14 @@ F = [
         "name": "Family of Moreno, Thomas H. and D\u0105browski, Letitia C.",
         "note": "",
         "spou": [
-            1179,
+            1193,
             435
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2733
@@ -19316,17 +19876,18 @@ F = [
         "name": "Family of Morin and Page, Belle",
         "note": "",
         "spou": [
-            1181,
-            1268
+            1195,
+            1282
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1185,
+                "index": 1199,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -19358,66 +19919,67 @@ F = [
         "name": "Family of Morris, Adam and Oliver, Elizabeth",
         "note": "",
         "spou": [
-            1182,
-            1247
+            1196,
+            1261
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1186,
+                "index": 1200,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1191,
+                "index": 1205,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1183,
+                "index": 1197,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1184,
+                "index": 1198,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1190,
+                "index": 1204,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1188,
+                "index": 1202,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1189,
+                "index": 1203,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1187,
+                "index": 1201,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -19449,24 +20011,25 @@ F = [
         "name": "Family of Morris, Cyrus and Graves, Martha",
         "note": "",
         "spou": [
-            1185,
-            746
+            1199,
+            760
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1195,
+                "index": 1209,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1194,
+                "index": 1208,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -19498,52 +20061,53 @@ F = [
         "name": "Family of Mortensen, Daniel and Warner, Sarah Jane",
         "note": "",
         "spou": [
-            1193,
-            1782
+            1207,
+            1797
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1199,
+                "index": 1213,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1203,
+                "index": 1217,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1200,
+                "index": 1214,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1201,
+                "index": 1215,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1198,
+                "index": 1212,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1202,
+                "index": 1216,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -19575,17 +20139,18 @@ F = [
         "name": "Family of Moss, Christy and Page, Matilda",
         "note": "",
         "spou": [
-            1197,
-            1297
+            1211,
+            1311
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 2023,
+                "index": 2049,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -19617,45 +20182,46 @@ F = [
         "name": "Family of Mullins, Robert? and Houston, Ellender",
         "note": "",
         "spou": [
-            1204,
-            849
+            1218,
+            863
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1205,
+                "index": 1219,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1208,
+                "index": 1222,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1209,
+                "index": 1223,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1211,
+                "index": 1225,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1207,
+                "index": 1221,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -19687,17 +20253,18 @@ F = [
         "name": "Family of Munoz, Shadrach M. and Mar\u00edn, Nancy H.",
         "note": "",
         "spou": [
-            1210,
-            1086
+            1224,
+            1100
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1213,
+                "index": 1227,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -19715,16 +20282,17 @@ F = [
         "name": "Family of Murray, Nicholas",
         "note": "",
         "spou": [
-            1212
+            1226
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1215,
+                "index": 1229,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -19756,59 +20324,60 @@ F = [
         "name": "Family of Myers, James and Boucher, Catherine",
         "note": "",
         "spou": [
-            1214,
+            1228,
             225
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1219,
+                "index": 1233,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1220,
+                "index": 1234,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1223,
+                "index": 1237,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1225,
+                "index": 1239,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1226,
+                "index": 1240,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1227,
+                "index": 1241,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1221,
+                "index": 1235,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -19840,17 +20409,18 @@ F = [
         "name": "Family of Neal, James and Page, Elizabeth",
         "note": "",
         "spou": [
-            1224,
-            1281
+            1238,
+            1295
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1222,
+                "index": 1236,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -19882,24 +20452,25 @@ F = [
         "name": "Family of Neal, John and Schneider, Belle Irene",
         "note": "",
         "spou": [
-            1225,
-            1579
+            1239,
+            1594
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1232,
+                "index": 1246,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1230,
+                "index": 1244,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -19931,13 +20502,14 @@ F = [
         "name": "Family of Nguyen, John Harry and Walker, Sharon Lynette",
         "note": "",
         "spou": [
-            1231,
-            1678
+            1245,
+            1693
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -19983,7 +20555,7 @@ F = [
             },
             {
                 "cita": [],
-                "index": 1239,
+                "index": 1253,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -20029,13 +20601,14 @@ F = [
         "name": "Family of Norris, John and Howell, Mary (Sarah)",
         "note": "",
         "spou": [
-            1240,
-            856
+            1254,
+            870
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -20086,7 +20659,7 @@ F = [
         "events": [
             {
                 "cita": [],
-                "date": "vers 1689",
+                "date": "about 1689",
                 "date_sdn": 2337956,
                 "descr": "Marriage of Norris, John and \u041d\u043e\u0432\u0438\u043a\u043e\u0432, Sarah",
                 "gid": "E3333",
@@ -20106,17 +20679,18 @@ F = [
         "name": "Family of Norris, John and \u041d\u043e\u0432\u0438\u043a\u043e\u0432, Sarah",
         "note": "",
         "spou": [
-            1240,
-            2035
+            1254,
+            2061
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1240,
+                "index": 1254,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -20134,12 +20708,13 @@ F = [
         "name": "Family of Norris, William",
         "note": "",
         "spou": [
-            1241
+            1255
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2451
@@ -20167,17 +20742,18 @@ F = [
         "name": "Family of Nowak, John H. and Page, Eleanor Maude",
         "note": "",
         "spou": [
-            1244,
-            1280
+            1258,
+            1294
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1249,
+                "index": 1263,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -20195,16 +20771,17 @@ F = [
         "name": "Family of Oliver, Hans Michael",
         "note": "",
         "spou": [
-            1248
+            1262
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1250,
+                "index": 1264,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -20236,17 +20813,18 @@ F = [
         "name": "Family of Oliver, Harmonas I and Malone, Mary",
         "note": "",
         "spou": [
-            1249,
-            1073
+            1263,
+            1087
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1247,
+                "index": 1261,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -20278,17 +20856,18 @@ F = [
         "name": "Family of Oliver, Harmonas II and Harvey, Lydia",
         "note": "",
         "spou": [
-            1250,
-            808
+            1264,
+            822
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 2100,
+                "index": 2126,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -20320,31 +20899,32 @@ F = [
         "name": "Family of Olson, ??????? and Mar\u00edn, Alice",
         "note": "",
         "spou": [
-            1251,
-            1078
+            1265,
+            1092
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1068,
+                "index": 1082,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1067,
+                "index": 1081,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1255,
+                "index": 1269,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -20376,17 +20956,18 @@ F = [
         "name": "Family of Ortiz, Don and Welch, Shirley",
         "note": "",
         "spou": [
-            1253,
-            1879
+            1267,
+            1894
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1253,
+                "index": 1267,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -20418,31 +20999,32 @@ F = [
         "name": "Family of Ortiz, Raymond and Page, Ferne",
         "note": "",
         "spou": [
-            1254,
-            1284
+            1268,
+            1298
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1262,
+                "index": 1276,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1260,
+                "index": 1274,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1258,
+                "index": 1272,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -20474,31 +21056,32 @@ F = [
         "name": "Family of Osborne, Dwight Billington and Lessard, Mary Alice",
         "note": "",
         "spou": [
-            1259,
-            1039
+            1273,
+            1053
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1257,
+                "index": 1271,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1256,
+                "index": 1270,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1261,
+                "index": 1275,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -20530,13 +21113,14 @@ F = [
         "name": "Family of Osborne, Paul Daniel and Hawkins, Jennifer Leigh",
         "note": "",
         "spou": [
-            1262,
-            816
+            1276,
+            830
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2607
@@ -20564,13 +21148,14 @@ F = [
         "name": "Family of Owens, Wilford and Jankowski, Matilda",
         "note": "",
         "spou": [
-            1264,
-            897
+            1278,
+            911
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2497
@@ -20598,38 +21183,39 @@ F = [
         "name": "Family of Padilla, Otis Earl and Page, Eleanor Irene",
         "note": "",
         "spou": [
-            1265,
-            1279
+            1279,
+            1293
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1310,
+                "index": 1324,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1279,
+                "index": 1293,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1273,
+                "index": 1287,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1306,
+                "index": 1320,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -20661,24 +21247,18 @@ F = [
         "name": "Family of Page, Andrew Vincent and Zimmerman, Edith Irene",
         "note": "",
         "spou": [
-            1266,
-            1919
+            1280,
+            1934
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1270,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1266,
+                "index": 1284,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -20692,7 +21272,14 @@ F = [
             },
             {
                 "cita": [],
-                "index": 1278,
+                "index": 1294,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 1292,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -20724,31 +21311,32 @@ F = [
         "name": "Family of Page, David and Douglas, Elizabeth",
         "note": "",
         "spou": [
-            1272,
+            1286,
             489
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1274,
+                "index": 1288,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1300,
+                "index": 1314,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1309,
+                "index": 1323,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -20780,52 +21368,18 @@ F = [
         "name": "Family of Page, Dwayne Alan and Scott, Cheryl Lee",
         "note": "",
         "spou": [
-            1276,
-            1583
+            1290,
+            1598
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1272,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1281,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1304,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1293,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1290,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1267,
+                "index": 1286,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -20839,21 +21393,56 @@ F = [
             },
             {
                 "cita": [],
-                "index": 1302,
+                "index": 1318,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1268,
+                "index": 1307,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1297,
+                "index": 1304,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 1281,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 1309,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 1316,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 1282,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 1311,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -20885,45 +21474,25 @@ F = [
         "name": "Family of Page, John and Kaczmarek, Isabella",
         "note": "",
         "spou": [
-            1288,
-            950
+            1302,
+            964
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1284,
+                "index": 1298,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1305,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1285,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1286,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1283,
+                "index": 1319,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -20937,7 +21506,28 @@ F = [
             },
             {
                 "cita": [],
-                "index": 1303,
+                "index": 1300,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 1297,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 1313,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 1317,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -20969,38 +21559,39 @@ F = [
         "name": "Family of Page, John James and Adkins, Minnie",
         "note": "",
         "spou": [
-            1290,
+            1304,
             15
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1298,
+                "index": 1312,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1282,
+                "index": 1296,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1287,
+                "index": 1301,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1277,
+                "index": 1291,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -21032,17 +21623,18 @@ F = [
         "name": "Family of Page, John James and Mcdaniel, Margaret",
         "note": "",
         "spou": [
-            1290,
-            1125
+            1304,
+            1139
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1269,
+                "index": 1283,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -21074,24 +21666,25 @@ F = [
         "name": "Family of Page, Kenneth Fritz and Pittman, June Christine",
         "note": "",
         "spou": [
-            1291,
-            1375
+            1305,
+            1390
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1275,
+                "index": 1289,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1271,
+                "index": 1285,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -21123,13 +21716,14 @@ F = [
         "name": "Family of Page, Marvin Ray and Morton, Gail Darlene",
         "note": "",
         "spou": [
-            1294,
-            1196
+            1308,
+            1210
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2694
@@ -21157,17 +21751,18 @@ F = [
         "name": "Family of Page, Mr. and James, Martha",
         "note": "",
         "spou": [
-            1301,
-            880
+            1315,
+            894
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1291,
+                "index": 1305,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -21199,31 +21794,32 @@ F = [
         "name": "Family of Page, Richard C. and Rodriguez, Helen M.",
         "note": "",
         "spou": [
-            1303,
-            1516
+            1317,
+            1531
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1292,
+                "index": 1306,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1296,
+                "index": 1310,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1289,
+                "index": 1303,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -21255,17 +21851,25 @@ F = [
         "name": "Family of Page, Robert and Neal, Belle",
         "note": "",
         "spou": [
-            1304,
-            1220
+            1318,
+            1234
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1276,
+                "index": 1290,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 1322,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -21273,13 +21877,6 @@ F = [
             {
                 "cita": [],
                 "index": 1308,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1294,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -21311,17 +21908,18 @@ F = [
         "name": "Family of Page, Vernett Gail and Norman, Dorothy Louise",
         "note": "",
         "spou": [
-            1310,
-            1238
+            1324,
+            1252
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1314,
+                "index": 1328,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -21353,59 +21951,60 @@ F = [
         "name": "Family of Palmer, Robert and \u041f\u043e\u043f\u043e\u0432, ???????",
         "note": "",
         "spou": [
-            1312,
-            2043
+            1326,
+            2069
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1317,
+                "index": 1331,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1323,
+                "index": 1337,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1324,
+                "index": 1338,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1321,
+                "index": 1335,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1318,
+                "index": 1332,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1320,
+                "index": 1334,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1325,
+                "index": 1339,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -21437,17 +22036,18 @@ F = [
         "name": "Family of Parent, Capt.Jacob C. and James, Jane",
         "note": "",
         "spou": [
-            1316,
-            875
+            1330,
+            889
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1316,
+                "index": 1330,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -21465,23 +22065,24 @@ F = [
         "name": "Family of Parent, John Sr.",
         "note": "",
         "spou": [
-            1322
+            1336
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1326,
+                "index": 1340,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1319,
+                "index": 1333,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -21513,17 +22114,18 @@ F = [
         "name": "Family of Parent, Montgomery and Alvarado, Patsy",
         "note": "",
         "spou": [
-            1323,
+            1337,
             58
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1328,
+                "index": 1342,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -21541,12 +22143,13 @@ F = [
         "name": "Family of Park, James",
         "note": "",
         "spou": [
-            1327
+            1341
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2309
@@ -21574,13 +22177,14 @@ F = [
         "name": "Family of Parker, Frank R. and Garner, Anetta",
         "note": "",
         "spou": [
-            1329,
-            623
+            1343,
+            637
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2141
@@ -21608,13 +22212,14 @@ F = [
         "name": "Family of Parks, Cliff and Gill, Lorie Ann",
         "note": "",
         "spou": [
-            1330,
-            722
+            1344,
+            736
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2358
@@ -21642,17 +22247,18 @@ F = [
         "name": "Family of Parsons, Henry and Douglas, Ellen",
         "note": "",
         "spou": [
-            1331,
+            1345,
             491
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1333,
+                "index": 1347,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -21684,13 +22290,14 @@ F = [
         "name": "Family of Patrick, Melvin and Todd, Lucille",
         "note": "",
         "spou": [
-            1332,
-            1660
+            1346,
+            1675
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2276
@@ -21718,13 +22325,14 @@ F = [
         "name": "Family of Patterson, George and Farmer, Elizabeth",
         "note": "",
         "spou": [
-            1334,
+            1348,
             542
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2341
@@ -21752,13 +22360,14 @@ F = [
         "name": "Family of Patton, Adolph and Moreno, Lelia L.",
         "note": "",
         "spou": [
-            1335,
-            1168
+            1349,
+            1182
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2159
@@ -21786,13 +22395,14 @@ F = [
         "name": "Family of Payne, Alexander and Kami\u0144ski, Elizabeth",
         "note": "",
         "spou": [
-            1336,
-            952
+            1350,
+            966
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2116
@@ -21820,13 +22430,14 @@ F = [
         "name": "Family of Payne, Alexander and Salazar, Catherine",
         "note": "",
         "spou": [
-            1336,
-            1558
+            1350,
+            1573
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2700
@@ -21854,80 +22465,81 @@ F = [
         "name": "Family of Payne, Fielding and Lawrence, Dorcas C.",
         "note": "",
         "spou": [
-            1338,
-            1015
+            1352,
+            1029
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1342,
+                "index": 1356,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1339,
+                "index": 1353,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1338,
+                "index": 1352,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1349,
+                "index": 1363,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1347,
+                "index": 1361,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1345,
+                "index": 1359,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1346,
+                "index": 1360,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1341,
+                "index": 1355,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1348,
+                "index": 1362,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1336,
+                "index": 1350,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -21959,17 +22571,18 @@ F = [
         "name": "Family of Payne, George and Diaz, Frances",
         "note": "",
         "spou": [
-            1340,
+            1354,
             458
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1344,
+                "index": 1358,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -22001,17 +22614,18 @@ F = [
         "name": "Family of Payne, Leonard and Hall, Elizabeth",
         "note": "",
         "spou": [
-            1343,
-            778
+            1357,
+            792
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1340,
+                "index": 1354,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -22043,13 +22657,14 @@ F = [
         "name": "Family of Payne, Leonard? and Brooks, Elizabeth\"Betty\"",
         "note": "",
         "spou": [
-            1344,
+            1358,
             316
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2784
@@ -22077,17 +22692,18 @@ F = [
         "name": "Family of Pedersen, William and Benson, Elizabeth",
         "note": "",
         "spou": [
-            1351,
+            1365,
             155
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1353,
+                "index": 1367,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -22119,13 +22735,14 @@ F = [
         "name": "Family of Pelletier, Esiquio and Leclerc, Sesaria",
         "note": "",
         "spou": [
-            1352,
-            1022
+            1366,
+            1036
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2296
@@ -22153,24 +22770,44 @@ F = [
         "name": "Family of Perry, M. and Reeves, Elizabeth",
         "note": "",
         "spou": [
-            1358,
-            1467
+            1372,
+            1482
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2016-06-30 04:11:36",
+        "chil": [],
+        "cita": [],
+        "events": [],
+        "gid": "F0000",
+        "marr_place": "",
+        "marr_sdn": 0,
+        "marr_year": "",
+        "media": [],
+        "name": "Family of Person, The First and Fillin, B",
+        "note": "",
+        "spou": [
+            1373,
+            566
+        ],
+        "type": "Married"
+    },
+    {
+        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1359,
+                "index": 1374,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1360,
+                "index": 1375,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -22202,17 +22839,18 @@ F = [
         "name": "Family of Peters, Frank O. and Cross, Alta M.",
         "note": "",
         "spou": [
-            1362,
+            1377,
             392
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1366,
+                "index": 1381,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -22244,17 +22882,18 @@ F = [
         "name": "Family of Peters, George Sr. and Ramsey, Joan",
         "note": "",
         "spou": [
-            1363,
-            1406
+            1378,
+            1421
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1363,
+                "index": 1378,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -22272,16 +22911,17 @@ F = [
         "name": "Family of Peters, John",
         "note": "",
         "spou": [
-            1364
+            1379
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1361,
+                "index": 1376,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -22313,13 +22953,14 @@ F = [
         "name": "Family of Peters, John C. and Cruz, Joyce Marie",
         "note": "",
         "spou": [
-            1365,
+            1380,
             415
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2273
@@ -22347,17 +22988,18 @@ F = [
         "name": "Family of Petersen, William and \u0414\u043c\u0438\u0442\u0440\u0438\u0435\u0432, Margaret Jane",
         "note": "",
         "spou": [
-            1367,
-            1969
+            1382,
+            1995
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1371,
+                "index": 1386,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -22389,17 +23031,18 @@ F = [
         "name": "Family of Piotrowski, John and Todd, Olive",
         "note": "",
         "spou": [
-            1370,
-            1661
+            1385,
+            1676
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1374,
+                "index": 1389,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -22417,23 +23060,24 @@ F = [
         "name": "Family of Piotrowski, Sir John",
         "note": "",
         "spou": [
-            1373
+            1388
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1377,
+                "index": 1392,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1378,
+                "index": 1393,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -22465,31 +23109,32 @@ F = [
         "name": "Family of Poirier, James A. and Walker, Sharon Lynette",
         "note": "",
         "spou": [
-            1376,
-            1678
+            1391,
+            1693
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1380,
+                "index": 1395,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1381,
+                "index": 1396,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1382,
+                "index": 1397,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -22521,13 +23166,14 @@ F = [
         "name": "Family of Poole, Dr. John and James, Jane",
         "note": "",
         "spou": [
-            1379,
-            875
+            1394,
+            889
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2505
@@ -22555,38 +23201,39 @@ F = [
         "name": "Family of Pope, John and Kristensen, Mary Elizabeth",
         "note": "",
         "spou": [
-            1383,
-            978
+            1398,
+            992
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1387,
+                "index": 1402,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1388,
+                "index": 1403,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1385,
+                "index": 1400,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1384,
+                "index": 1399,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -22618,17 +23265,18 @@ F = [
         "name": "Family of Porter, David and Moreno, Mary H.",
         "note": "",
         "spou": [
-            1386,
-            1173
+            1401,
+            1187
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1389,
+                "index": 1404,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -22660,31 +23308,32 @@ F = [
         "name": "Family of Poulin and Reed, Rose",
         "note": "",
         "spou": [
-            1390,
-            1454
+            1405,
+            1469
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1391,
+                "index": 1406,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1393,
+                "index": 1408,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1392,
+                "index": 1407,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -22716,17 +23365,18 @@ F = [
         "name": "Family of Poulsen, Randall Lee and Welch, Lisa Dawn",
         "note": "",
         "spou": [
-            1394,
-            1873
+            1409,
+            1888
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1401,
+                "index": 1416,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -22758,13 +23408,14 @@ F = [
         "name": "Family of Quinn, Abraham and Blanco, Malvina",
         "note": "",
         "spou": [
-            1399,
+            1414,
             206
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2528
@@ -22792,17 +23443,18 @@ F = [
         "name": "Family of Ram\u00edrez, John B. and Garner, Rebecca Catharine",
         "note": "",
         "spou": [
-            1403,
-            675
+            1418,
+            689
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1405,
+                "index": 1420,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -22820,16 +23472,17 @@ F = [
         "name": "Family of Ramos, John",
         "note": "",
         "spou": [
-            1404
+            1419
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1456,
+                "index": 1471,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -22861,31 +23514,32 @@ F = [
         "name": "Family of Reed, Edward and Reed, Ellen",
         "note": "",
         "spou": [
-            1419,
-            1421
+            1434,
+            1436
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1427,
+                "index": 1442,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1459,
+                "index": 1474,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1443,
+                "index": 1458,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -22903,12 +23557,13 @@ F = [
         "name": "Family of Reed, Edward",
         "note": "",
         "spou": [
-            1420
+            1435
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2152
@@ -22936,66 +23591,67 @@ F = [
         "name": "Family of Reed, Francis Vincent and \u041a\u0430\u0437\u0430\u043d\u0446\u0435\u0432, Katherine",
         "note": "",
         "spou": [
-            1423,
-            1996
+            1438,
+            2022
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1422,
+                "index": 1437,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 978,
+                "index": 992,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 980,
+                "index": 994,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 975,
+                "index": 989,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 976,
+                "index": 990,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 979,
+                "index": 993,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 977,
+                "index": 991,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 974,
+                "index": 988,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -23027,13 +23683,14 @@ F = [
         "name": "Family of Reed, Francis Vincent and \u0422\u0438\u0445\u043e\u043d\u043e\u0432, Catherine Virginia",
         "note": "",
         "spou": [
-            1423,
-            2064
+            1438,
+            2090
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2207
@@ -23061,66 +23718,67 @@ F = [
         "name": "Family of Reed, John and Bernier, Margaret",
         "note": "",
         "spou": [
-            1432,
+            1447,
             178
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1423,
+                "index": 1438,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1425,
+                "index": 1440,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1432,
+                "index": 1447,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1413,
+                "index": 1428,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1435,
+                "index": 1450,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1419,
+                "index": 1434,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1416,
+                "index": 1431,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1448,
+                "index": 1463,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -23152,24 +23810,67 @@ F = [
         "name": "Family of Reed, John and Goodwin, Sarah",
         "note": "",
         "spou": [
-            1431,
-            736
+            1446,
+            750
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1455,
+                "index": 1470,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1442,
+                "index": 1457,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 1467,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 1464,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 1424,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 1432,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 1469,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 1426,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -23183,49 +23884,7 @@ F = [
             },
             {
                 "cita": [],
-                "index": 1449,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1409,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1417,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1454,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1411,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1437,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1428,
+                "index": 1443,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -23257,17 +23916,18 @@ F = [
         "name": "Family of Reed, Matthew and Gibbs, Mary",
         "note": "",
         "spou": [
-            1438,
-            710
+            1453,
+            724
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1461,
+                "index": 1476,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -23299,28 +23959,15 @@ F = [
         "name": "Family of Reed, Michael and Gibbs, Mary",
         "note": "",
         "spou": [
-            1440,
-            709
+            1455,
+            723
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
-            {
-                "cita": [],
-                "index": 1429,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1426,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
             {
                 "cita": [],
                 "index": 1444,
@@ -23330,14 +23977,28 @@ F = [
             },
             {
                 "cita": [],
-                "index": 1434,
+                "index": 1441,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1441,
+                "index": 1459,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 1449,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 1456,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -23369,17 +24030,18 @@ F = [
         "name": "Family of Reed, Michael and Goodwin, Alice",
         "note": "",
         "spou": [
-            1443,
-            735
+            1458,
+            749
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1445,
+                "index": 1460,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -23397,12 +24059,13 @@ F = [
         "name": "Family of Reed, Owen",
         "note": "",
         "spou": [
-            1447
+            1462
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2353
@@ -23430,45 +24093,46 @@ F = [
         "name": "Family of Reed, Patrick and Gibbs, Elizabeth",
         "note": "",
         "spou": [
-            1449,
-            702
+            1464,
+            716
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1458,
+                "index": 1473,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1430,
+                "index": 1445,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1450,
+                "index": 1465,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1414,
+                "index": 1429,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1446,
+                "index": 1461,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -23500,31 +24164,39 @@ F = [
         "name": "Family of Reed, Peter and \u041a\u0443\u0437\u043d\u0435\u0446\u043e\u0432, Hanora",
         "note": "",
         "spou": [
-            1452,
-            2008
+            1467,
+            2034
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1447,
+                "index": 1462,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1412,
+                "index": 1427,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1457,
+                "index": 1472,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 1466,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -23538,14 +24210,7 @@ F = [
             },
             {
                 "cita": [],
-                "index": 1436,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1408,
+                "index": 1423,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -23577,17 +24242,18 @@ F = [
         "name": "Family of Reed, Peter James? and Reed, Catherine",
         "note": "",
         "spou": [
-            1453,
-            1418
+            1468,
+            1433
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1424,
+                "index": 1439,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -23619,13 +24285,14 @@ F = [
         "name": "Family of Reed, Terrence and Gibbs, Maria",
         "note": "",
         "spou": [
-            1458,
-            708
+            1473,
+            722
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2645
@@ -23653,45 +24320,46 @@ F = [
         "name": "Family of Reed, Terrence (TyNed) and Gibbs, Jennie",
         "note": "",
         "spou": [
-            1459,
-            703
+            1474,
+            717
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1415,
+                "index": 1430,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1439,
+                "index": 1454,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1433,
+                "index": 1448,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1460,
+                "index": 1475,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1410,
+                "index": 1425,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -23709,30 +24377,31 @@ F = [
         "name": "Family of Reed, Thomas",
         "note": "",
         "spou": [
-            1461
+            1476
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1476,
+                "index": 1491,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1480,
+                "index": 1495,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1472,
+                "index": 1487,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -23764,13 +24433,14 @@ F = [
         "name": "Family of Reeves, James and Meyer, Catherine",
         "note": "",
         "spou": [
-            1470,
-            1129
+            1485,
+            1143
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2673
@@ -23798,24 +24468,53 @@ F = [
         "name": "Family of Reeves, John and Flowers, Mary A.",
         "note": "",
         "spou": [
-            1472,
-            569
+            1487,
+            583
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1470,
+                "index": 1485,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1474,
+                "index": 1489,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 1493,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 1496,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 1482,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 1479,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -23829,35 +24528,7 @@ F = [
             },
             {
                 "cita": [],
-                "index": 1481,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1467,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1464,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1463,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1465,
+                "index": 1480,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -23889,17 +24560,18 @@ F = [
         "name": "Family of Reeves, John and McCarthy, Mary",
         "note": "",
         "spou": [
-            1473,
-            1114
+            1488,
+            1128
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 588,
+                "index": 602,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -23931,13 +24603,14 @@ F = [
         "name": "Family of Reid, Hans and \u0421\u0435\u043c\u0435\u043d\u043e\u0432, Cathern",
         "note": "",
         "spou": [
-            1483,
-            2046
+            1498,
+            2072
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2365
@@ -23965,17 +24638,18 @@ F = [
         "name": "Family of Reyes and Armstrong, Sarah",
         "note": "",
         "spou": [
-            1484,
+            1499,
             78
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1491,
+                "index": 1506,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -24007,17 +24681,18 @@ F = [
         "name": "Family of Reynolds, Col. John and Mazur, Elizabeth",
         "note": "",
         "spou": [
-            1485,
-            1111
+            1500,
+            1125
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1493,
+                "index": 1508,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -24049,17 +24724,18 @@ F = [
         "name": "Family of Reynolds, David and Vaughn, Mary Meriwether",
         "note": "",
         "spou": [
-            1486,
-            1672
+            1501,
+            1687
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1490,
+                "index": 1505,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -24091,17 +24767,18 @@ F = [
         "name": "Family of Reynolds, John and Newman, Margaret",
         "note": "",
         "spou": [
-            1487,
-            1229
+            1502,
+            1243
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1488,
+                "index": 1503,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -24133,17 +24810,18 @@ F = [
         "name": "Family of Reynolds, John and Stevens, Elizabeth",
         "note": "",
         "spou": [
-            1489,
-            1609
+            1504,
+            1624
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1485,
+                "index": 1500,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -24175,17 +24853,18 @@ F = [
         "name": "Family of Reynolds, John and \u041a\u043e\u0432\u0430\u043b\u0435\u0432, Sarah",
         "note": "",
         "spou": [
-            1488,
-            2003
+            1503,
+            2029
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1486,
+                "index": 1501,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -24217,24 +24896,25 @@ F = [
         "name": "Family of Reynolds, Nicholas and Murray, Susannah",
         "note": "",
         "spou": [
-            1491,
-            1213
+            1506,
+            1227
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1487,
+                "index": 1502,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1492,
+                "index": 1507,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -24252,37 +24932,38 @@ F = [
         "name": "Family of Reynolds, William",
         "note": "",
         "spou": [
-            1493
+            1508
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1497,
+                "index": 1512,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1495,
+                "index": 1510,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1496,
+                "index": 1511,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1494,
+                "index": 1509,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -24314,13 +24995,14 @@ F = [
         "name": "Family of Rhodes, William Sr. and Kristensen, Anna June",
         "note": "",
         "spou": [
-            1498,
-            974
+            1513,
+            988
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2773
@@ -24348,38 +25030,39 @@ F = [
         "name": "Family of Riley, Thomas and Edwards, Lucy",
         "note": "",
         "spou": [
-            1502,
+            1517,
             525
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1511,
+                "index": 1526,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1510,
+                "index": 1525,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1507,
+                "index": 1522,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1509,
+                "index": 1524,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -24411,24 +25094,25 @@ F = [
         "name": "Family of Robinson, Clarence and Garner, Bertha P.",
         "note": "",
         "spou": [
-            1508,
-            630
+            1523,
+            644
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1514,
+                "index": 1529,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1512,
+                "index": 1527,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -24460,59 +25144,46 @@ F = [
         "name": "Family of Rodgers, John and Garrett, Doris Mae",
         "note": "",
         "spou": [
-            1513,
-            688
+            1528,
+            702
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1539,
+                "index": 1554,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1525,
+                "index": 1540,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1534,
+                "index": 1549,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1529,
+                "index": 1544,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1532,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1520,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1523,
+                "index": 1547,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -24526,7 +25197,28 @@ F = [
             },
             {
                 "cita": [],
-                "index": 1526,
+                "index": 1538,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 1550,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 1541,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 1551,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -24534,13 +25226,6 @@ F = [
             {
                 "cita": [],
                 "index": 1536,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1521,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -24558,12 +25243,13 @@ F = [
         "name": "Family of Rodriquez",
         "note": "",
         "spou": [
-            1517
+            1532
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2426
@@ -24591,13 +25277,14 @@ F = [
         "name": "Family of Rodriquez, John and \u041f\u043e\u043b\u044f\u043a\u043e\u0432, Eve",
         "note": "",
         "spou": [
-            1525,
-            2041
+            1540,
+            2067
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2566
@@ -24625,13 +25312,14 @@ F = [
         "name": "Family of Rodriquez, Mordica and \u0412\u043e\u0440\u043e\u043d\u043e\u0432, Katherine",
         "note": "",
         "spou": [
-            1532,
-            1946
+            1547,
+            1972
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2546
@@ -24659,13 +25347,14 @@ F = [
         "name": "Family of Rodriquez, Mordica and \u041a\u0430\u0437\u0430\u043a\u043e\u0432, Jane",
         "note": "",
         "spou": [
-            1532,
-            1995
+            1547,
+            2021
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2253
@@ -24693,59 +25382,32 @@ F = [
         "name": "Family of Rodriquez, Richard and \u0416\u0443\u043a\u043e\u0432, Hannah",
         "note": "",
         "spou": [
-            1535,
-            1980
+            1550,
+            2006
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1528,
+                "index": 1543,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1537,
+                "index": 1552,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1524,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1518,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1522,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1538,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1519,
+                "index": 1539,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -24759,21 +25421,49 @@ F = [
             },
             {
                 "cita": [],
-                "index": 1530,
+                "index": 1537,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1527,
+                "index": 1553,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1531,
+                "index": 1534,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 1548,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 1545,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 1542,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 1546,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -24805,13 +25495,14 @@ F = [
         "name": "Family of Rodriquez, William M. and Douglas, Mary\"Polly\"",
         "note": "",
         "spou": [
-            1539,
+            1554,
             508
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2395
@@ -24839,17 +25530,18 @@ F = [
         "name": "Family of Romero, Ernest and Jankowski, Minnie",
         "note": "",
         "spou": [
-            1541,
-            898
+            1556,
+            912
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1217,
+                "index": 1231,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -24881,17 +25573,18 @@ F = [
         "name": "Family of Roy, Prince Alfred and Mar\u00edn, Frances Coppage",
         "note": "",
         "spou": [
-            1544,
-            1080
+            1559,
+            1094
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1547,
+                "index": 1562,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -24909,23 +25602,24 @@ F = [
         "name": "Family of Rubio, John III",
         "note": "",
         "spou": [
-            1546
+            1561
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1554,
+                "index": 1569,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1551,
+                "index": 1566,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -24957,24 +25651,25 @@ F = [
         "name": "Family of Russell, Bruce Lynn and Henderson, Cathy Sue",
         "note": "",
         "spou": [
-            1550,
-            827
+            1565,
+            841
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1549,
+                "index": 1564,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1550,
+                "index": 1565,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -25006,24 +25701,25 @@ F = [
         "name": "Family of Russell, Melvin Glen and Manning, Judith Ann",
         "note": "",
         "spou": [
-            1553,
-            1075
+            1568,
+            1089
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1553,
+                "index": 1568,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1552,
+                "index": 1567,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -25055,24 +25751,25 @@ F = [
         "name": "Family of Russell, Norman and Lessard, Helen Belle",
         "note": "",
         "spou": [
-            1555,
-            1034
+            1570,
+            1048
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1562,
+                "index": 1577,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1561,
+                "index": 1576,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -25104,17 +25801,18 @@ F = [
         "name": "Family of S\u00e1nchez, David Andrew and Welch, Rosalie Jane",
         "note": "",
         "spou": [
-            1559,
-            1877
+            1574,
+            1892
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1026,
+                "index": 1040,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -25146,17 +25844,18 @@ F = [
         "name": "Family of Sanchez, John and Curtis, Margaret",
         "note": "",
         "spou": [
-            1560,
+            1575,
             434
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1564,
+                "index": 1579,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -25188,17 +25887,18 @@ F = [
         "name": "Family of Sanders, Henry and Rose, Ann",
         "note": "",
         "spou": [
-            1563,
-            1542
+            1578,
+            1557
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1569,
+                "index": 1584,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -25216,37 +25916,38 @@ F = [
         "name": "Family of Sandoval, John Joe",
         "note": "",
         "spou": [
-            1566
+            1581
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1568,
+                "index": 1583,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1570,
+                "index": 1585,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1566,
+                "index": 1581,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1565,
+                "index": 1580,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -25278,13 +25979,14 @@ F = [
         "name": "Family of Sandoval, Johnnie and Reed, Minnie",
         "note": "",
         "spou": [
-            1567,
-            1444
+            1582,
+            1459
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2805
@@ -25312,13 +26014,14 @@ F = [
         "name": "Family of Santiago, Mathias and James, Molly",
         "note": "",
         "spou": [
-            1571,
-            882
+            1586,
+            896
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2519
@@ -25346,13 +26049,14 @@ F = [
         "name": "Family of Sanz, John and Jankowski, Sarah",
         "note": "",
         "spou": [
-            1573,
-            900
+            1588,
+            914
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2604
@@ -25380,13 +26084,14 @@ F = [
         "name": "Family of Savard, Walter and Russell, Janet Gail",
         "note": "",
         "spou": [
-            1576,
-            1552
+            1591,
+            1567
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2809
@@ -25414,17 +26119,32 @@ F = [
         "name": "Family of Schneider and Neal, Margaret",
         "note": "",
         "spou": [
-            1578,
-            1226
+            1593,
+            1240
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1077,
+                "index": 1091,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 1108,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 1100,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -25432,20 +26152,6 @@ F = [
             {
                 "cita": [],
                 "index": 1094,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1086,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1080,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -25477,17 +26183,18 @@ F = [
         "name": "Family of Schultz, John and Payne, Jane Coppage",
         "note": "",
         "spou": [
-            1580,
-            1342
+            1595,
+            1356
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1580,
+                "index": 1595,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -25519,24 +26226,25 @@ F = [
         "name": "Family of Schultz, Rev.Isaac and Turner, Mary",
         "note": "",
         "spou": [
-            1581,
-            1668
+            1596,
+            1683
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1588,
+                "index": 1603,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1592,
+                "index": 1607,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -25554,16 +26262,17 @@ F = [
         "name": "Family of Serrano, Abraham",
         "note": "",
         "spou": [
-            1584
+            1599
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1590,
+                "index": 1605,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -25595,31 +26304,32 @@ F = [
         "name": "Family of Serrano, Archibald and Delgado, Catherine",
         "note": "",
         "spou": [
-            1585,
+            1600,
             448
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1584,
+                "index": 1599,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1587,
+                "index": 1602,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1589,
+                "index": 1604,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -25651,17 +26361,18 @@ F = [
         "name": "Family of Serrano, Joseph and Quinn, Elizabeth Marium",
         "note": "",
         "spou": [
-            1591,
-            1401
+            1606,
+            1416
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1591,
+                "index": 1606,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -25679,12 +26390,13 @@ F = [
         "name": "Family of Serrano, Joseph",
         "note": "",
         "spou": [
-            1590
+            1605
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2686
@@ -25712,17 +26424,18 @@ F = [
         "name": "Family of Shelton, Peter and Farmer, Caroline",
         "note": "",
         "spou": [
-            1594,
+            1609,
             538
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1596,
+                "index": 1611,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -25740,12 +26453,13 @@ F = [
         "name": "Family of Simard, Thomas",
         "note": "",
         "spou": [
-            1597
+            1612
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2184
@@ -25773,13 +26487,14 @@ F = [
         "name": "Family of St-Pierre, Joe and Boucher, Norene",
         "note": "",
         "spou": [
-            1605,
+            1620,
             268
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2208
@@ -25807,13 +26522,14 @@ F = [
         "name": "Family of Steele, Valentine and Beaulieu, Anna Elisabeth",
         "note": "",
         "spou": [
-            1607,
+            1622,
             119
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2178
@@ -25841,13 +26557,14 @@ F = [
         "name": "Family of Stephens, Adam and Blanco, Anna Maria",
         "note": "",
         "spou": [
-            1608,
+            1623,
             189
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2359
@@ -25875,17 +26592,18 @@ F = [
         "name": "Family of Stewart and Hawkins, Janelle",
         "note": "",
         "spou": [
-            1611,
-            814
+            1626,
+            828
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1613,
+                "index": 1628,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -25917,13 +26635,14 @@ F = [
         "name": "Family of Stokes, Gabriel and McCoy, Celine Bridget",
         "note": "",
         "spou": [
-            1612,
-            1119
+            1627,
+            1133
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2791
@@ -25951,13 +26670,14 @@ F = [
         "name": "Family of Stone, Alfred Wayne and Guti\u00e9rrez, Virginia Elizabeth",
         "note": "",
         "spou": [
-            1614,
-            770
+            1629,
+            784
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2242
@@ -25985,31 +26705,32 @@ F = [
         "name": "Family of Strickland, Col. Robert and James, Patsy",
         "note": "",
         "spou": [
-            1615,
-            884
+            1630,
+            898
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1627,
+                "index": 1642,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1621,
+                "index": 1636,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1623,
+                "index": 1638,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -26041,13 +26762,14 @@ F = [
         "name": "Family of Swanson, Richard and Fernandez El Fern\u00e1ndez, Avis III",
         "note": "",
         "spou": [
-            1625,
+            1640,
             561
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -26058,21 +26780,21 @@ F = [
             },
             {
                 "cita": [],
-                "index": 1622,
+                "index": 1637,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1620,
+                "index": 1635,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1619,
+                "index": 1634,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -26104,24 +26826,25 @@ F = [
         "name": "Family of Swanson, William and Jensen, Elizabeth",
         "note": "",
         "spou": [
-            1627,
-            904
+            1642,
+            918
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1626,
+                "index": 1641,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1624,
+                "index": 1639,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -26139,12 +26862,13 @@ F = [
         "name": "Family of Swanson, William",
         "note": "",
         "spou": [
-            1627
+            1642
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2198
@@ -26172,13 +26896,14 @@ F = [
         "name": "Family of Taylor, Jacob and Farmer, Susanna",
         "note": "",
         "spou": [
-            1629,
+            1644,
             556
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2617
@@ -26206,13 +26931,14 @@ F = [
         "name": "Family of Taylor, Philip and \u0411\u044b\u043a\u043e\u0432, Harriet",
         "note": "",
         "spou": [
-            1630,
-            1937
+            1645,
+            1963
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2279
@@ -26240,17 +26966,18 @@ F = [
         "name": "Family of Terry, J. and Reeves, Bridget",
         "note": "",
         "spou": [
-            1632,
-            1464
+            1647,
+            1479
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1634,
+                "index": 1649,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -26282,13 +27009,14 @@ F = [
         "name": "Family of Thomas, Elder Thomas and Barrett, Anne",
         "note": "",
         "spou": [
-            1633,
+            1648,
             112
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2584
@@ -26316,24 +27044,25 @@ F = [
         "name": "Family of Thomsen, new and Farmer, Elizabeth",
         "note": "",
         "spou": [
-            1637,
+            1652,
             541
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1641,
+                "index": 1656,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1640,
+                "index": 1655,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -26365,17 +27094,18 @@ F = [
         "name": "Family of Thornton, Arthur Otto and Mar\u00edn, Lilla Estella",
         "note": "",
         "spou": [
-            1639,
-            1083
+            1654,
+            1097
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1643,
+                "index": 1658,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -26407,13 +27137,14 @@ F = [
         "name": "Family of Thornton, James Arthur and Lachance, Helen",
         "note": "",
         "spou": [
-            1641,
-            982
+            1656,
+            996
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2611
@@ -26441,13 +27172,14 @@ F = [
         "name": "Family of Thornton, Phillip James and \u0411\u0435\u043b\u043e\u0432, Katherine",
         "note": "",
         "spou": [
-            1643,
-            1926
+            1658,
+            1952
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2693
@@ -26475,17 +27207,18 @@ F = [
         "name": "Family of Thornton, Romaine and Soto, Harriet",
         "note": "",
         "spou": [
-            1644,
-            1602
+            1659,
+            1617
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1656,
+                "index": 1671,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -26517,17 +27250,18 @@ F = [
         "name": "Family of Todd, Charles and Cole, Eurydice",
         "note": "",
         "spou": [
-            1646,
+            1661,
             376
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1657,
+                "index": 1672,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -26559,17 +27293,18 @@ F = [
         "name": "Family of Todd, George W. and Morris, Jane",
         "note": "",
         "spou": [
-            1649,
-            1186
+            1664,
+            1200
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1651,
+                "index": 1666,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -26601,17 +27336,18 @@ F = [
         "name": "Family of Todd, Hodges and Piotrowski, Lucy",
         "note": "",
         "spou": [
-            1652,
-            1372
+            1667,
+            1387
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1652,
+                "index": 1667,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -26643,17 +27379,18 @@ F = [
         "name": "Family of Todd, John and Warner, Elizabeth",
         "note": "",
         "spou": [
-            1655,
-            1721
+            1670,
+            1736
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1665,
+                "index": 1680,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -26685,24 +27422,18 @@ F = [
         "name": "Family of Todd, John and \u041b\u0430\u043b\u0435\u0442\u0438\u043d, Elizabeth",
         "note": "",
         "spou": [
-            1656,
-            2010
+            1671,
+            2036
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1659,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1648,
+                "index": 1674,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -26716,42 +27447,35 @@ F = [
             },
             {
                 "cita": [],
-                "index": 1650,
+                "index": 1678,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1654,
+                "index": 1665,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1658,
+                "index": 1669,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1653,
+                "index": 1673,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1647,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1645,
+                "index": 1668,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -26759,6 +27483,20 @@ F = [
             {
                 "cita": [],
                 "index": 1662,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 1660,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 1677,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -26790,17 +27528,18 @@ F = [
         "name": "Family of Todd, John M. and Farmer, Elizabeth Ellen",
         "note": "",
         "spou": [
-            1657,
+            1672,
             543
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1649,
+                "index": 1664,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -26832,13 +27571,14 @@ F = [
         "name": "Family of Todd, William and \u6e21\u8fba, Mary (Polly)",
         "note": "",
         "spou": [
-            1665,
-            2098
+            1680,
+            2124
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2444
@@ -26866,13 +27606,14 @@ F = [
         "name": "Family of Torres and Hawkins, Gail",
         "note": "",
         "spou": [
-            1666,
-            811
+            1681,
+            825
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2760
@@ -26900,13 +27641,14 @@ F = [
         "name": "Family of Townsend, Mark and \u041c\u0430\u043a\u0441\u0438\u043c\u043e\u0432, Heather Michelle",
         "note": "",
         "spou": [
-            1667,
-            2021
+            1682,
+            2047
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2281
@@ -26934,38 +27676,39 @@ F = [
         "name": "Family of Valdez and Reed, Noreen",
         "note": "",
         "spou": [
-            1670,
-            1446
+            1685,
+            1461
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1678,
+                "index": 1693,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1794,
+                "index": 1809,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1786,
+                "index": 1801,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1778,
+                "index": 1793,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -26997,17 +27740,18 @@ F = [
         "name": "Family of Walker, Andrew Vincent and Pearson, Eileen Ruth",
         "note": "",
         "spou": [
-            1676,
-            1350
+            1691,
+            1364
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 847,
+                "index": 861,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -27039,17 +27783,18 @@ F = [
         "name": "Family of Wallace, Abraham and Greene, Marcy",
         "note": "",
         "spou": [
-            1679,
-            754
+            1694,
+            768
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1682,
+                "index": 1697,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -27067,23 +27812,24 @@ F = [
         "name": "Family of Walters, Daniel",
         "note": "",
         "spou": [
-            1681
+            1696
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1686,
+                "index": 1701,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1684,
+                "index": 1699,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -27115,45 +27861,46 @@ F = [
         "name": "Family of Ward, David J. and Warner, Margaret Ruth",
         "note": "",
         "spou": [
-            1685,
-            1752
+            1700,
+            1767
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1784,
+                "index": 1799,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1735,
+                "index": 1750,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1700,
+                "index": 1715,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1742,
+                "index": 1757,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1760,
+                "index": 1775,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -27185,17 +27932,18 @@ F = [
         "name": "Family of Warner, Allen Carl and Garner, Rita Marie",
         "note": "",
         "spou": [
-            1688,
-            678
+            1703,
+            692
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1771,
+                "index": 1786,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -27227,31 +27975,32 @@ F = [
         "name": "Family of Warner, Andrew and Maldonado, Eunice",
         "note": "",
         "spou": [
-            1692,
-            1072
+            1707,
+            1086
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1737,
+                "index": 1752,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1702,
+                "index": 1717,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1763,
+                "index": 1778,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -27283,31 +28032,32 @@ F = [
         "name": "Family of Warner, Arthur Maurice and Phillips, Anita Irene",
         "note": "",
         "spou": [
-            1693,
-            1368
+            1708,
+            1383
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1717,
+                "index": 1732,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1738,
+                "index": 1753,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1727,
+                "index": 1742,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -27339,17 +28089,18 @@ F = [
         "name": "Family of Warner, Capt. Andrew and Christiansen, Hannah",
         "note": "",
         "spou": [
-            1697,
+            1712,
             366
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1699,
+                "index": 1714,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -27381,52 +28132,32 @@ F = [
         "name": "Family of Warner, Capt. Francis and Ingram, Mary",
         "note": "",
         "spou": [
-            1698,
-            865
+            1713,
+            879
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1697,
+                "index": 1712,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1726,
+                "index": 1741,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1756,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1731,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1706,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1722,
+                "index": 1771,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -27434,6 +28165,27 @@ F = [
             {
                 "cita": [],
                 "index": 1746,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 1721,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 1737,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 1761,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -27465,13 +28217,14 @@ F = [
         "name": "Family of Warner, Capt. George and Alvarez, Mary",
         "note": "",
         "spou": [
-            1699,
+            1714,
             64
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2237
@@ -27499,38 +28252,39 @@ F = [
         "name": "Family of Warner, Daniel and Higgins, Charity",
         "note": "",
         "spou": [
-            1706,
-            834
+            1721,
+            848
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1711,
+                "index": 1726,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1732,
+                "index": 1747,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1753,
+                "index": 1768,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1748,
+                "index": 1763,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -27562,24 +28316,25 @@ F = [
         "name": "Family of Warner, David Luther and Robbins, Merida Lorene",
         "note": "",
         "spou": [
-            1710,
-            1504
+            1725,
+            1519
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1785,
+                "index": 1800,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1780,
+                "index": 1795,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -27611,17 +28366,18 @@ F = [
         "name": "Family of Warner, David Warren and Simpson, Geraldine Ann",
         "note": "",
         "spou": [
-            1711,
-            1599
+            1726,
+            1614
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1692,
+                "index": 1707,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -27653,31 +28409,32 @@ F = [
         "name": "Family of Warner, Edward and Anderson, Mary Molly",
         "note": "",
         "spou": [
-            1717,
+            1732,
             71
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1761,
+                "index": 1776,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1767,
+                "index": 1782,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1736,
+                "index": 1751,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -27709,13 +28466,14 @@ F = [
         "name": "Family of Warner, Fred Loren and Flores, Jamie Lee",
         "note": "",
         "spou": [
-            1725,
-            568
+            1740,
+            582
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2137
@@ -27743,38 +28501,39 @@ F = [
         "name": "Family of Warner, George and Nichols, Elizabeth",
         "note": "",
         "spou": [
-            1727,
-            1233
+            1742,
+            1247
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1688,
+                "index": 1703,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1693,
+                "index": 1708,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1725,
+                "index": 1740,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1751,
+                "index": 1766,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -27806,31 +28565,32 @@ F = [
         "name": "Family of Warner, George Edward and Lessard, Elinor Jane",
         "note": "",
         "spou": [
-            1729,
-            1032
+            1744,
+            1046
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1694,
+                "index": 1709,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1705,
+                "index": 1720,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1715,
+                "index": 1730,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -27862,24 +28622,25 @@ F = [
         "name": "Family of Warner, Harold Lowell and Powers, Nancy Lou",
         "note": "",
         "spou": [
-            1732,
-            1396
+            1747,
+            1411
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1775,
+                "index": 1790,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1777,
+                "index": 1792,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -27897,23 +28658,24 @@ F = [
         "name": "Family of Warner, John",
         "note": "",
         "spou": [
-            1739
+            1754
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1691,
+                "index": 1706,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1712,
+                "index": 1727,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -27945,13 +28707,14 @@ F = [
         "name": "Family of Warner, John William and Miles, Rebecca J.",
         "note": "",
         "spou": [
-            1744,
-            1133
+            1759,
+            1147
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2420
@@ -27979,17 +28742,18 @@ F = [
         "name": "Family of Warner, Johnathon and Montgomery, Mary",
         "note": "",
         "spou": [
-            1746,
-            1138
+            1761,
+            1152
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1765,
+                "index": 1780,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -28021,52 +28785,53 @@ F = [
         "name": "Family of Warner, Martin Bogarte and Klein, Alma Katherine",
         "note": "",
         "spou": [
-            1755,
-            961
+            1770,
+            975
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1729,
+                "index": 1744,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1710,
+                "index": 1725,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1713,
+                "index": 1728,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1779,
+                "index": 1794,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1776,
+                "index": 1791,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1676,
+                "index": 1691,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -28098,31 +28863,32 @@ F = [
         "name": "Family of Warner, Martin Bogarte and Page, Clara Belle",
         "note": "",
         "spou": [
-            1755,
-            1270
+            1770,
+            1284
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1762,
+                "index": 1777,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1766,
+                "index": 1781,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1708,
+                "index": 1723,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -28154,38 +28920,39 @@ F = [
         "name": "Family of Warner, Michael Louis and Warren, Pansy L.",
         "note": "",
         "spou": [
-            1764,
-            1799
+            1779,
+            1814
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1764,
+                "index": 1779,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1695,
+                "index": 1710,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1744,
+                "index": 1759,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1696,
+                "index": 1711,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -28217,38 +28984,53 @@ F = [
         "name": "Family of Warner, Michael Warren and \u0427\u0435\u0440\u043d\u044b\u0445, Mary Helen",
         "note": "",
         "spou": [
-            1765,
-            2082
+            1780,
+            2108
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1773,
+                "index": 1788,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1724,
+                "index": 1739,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1714,
+                "index": 1729,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1745,
+                "index": 1760,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 1748,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 1789,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -28262,14 +29044,21 @@ F = [
             },
             {
                 "cita": [],
-                "index": 1774,
+                "index": 1813,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1718,
+                "index": 1784,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 1738,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -28283,35 +29072,14 @@ F = [
             },
             {
                 "cita": [],
-                "index": 1769,
+                "index": 1758,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1723,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1783,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1743,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1687,
+                "index": 1702,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -28343,14 +29111,29 @@ F = [
         "name": "Family of Warner, Noah and Burns, Margaret",
         "note": "",
         "spou": [
-            1771,
+            1786,
             335
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
+            {
+                "cita": [],
+                "index": 1811,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 1743,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
             {
                 "cita": [],
                 "index": 1796,
@@ -28360,21 +29143,70 @@ F = [
             },
             {
                 "cita": [],
-                "index": 1728,
+                "index": 1704,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1781,
+                "index": 1731,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1689,
+                "index": 1772,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 1735,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 1765,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 1724,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 1764,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 1807,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 1734,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 1692,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -28388,77 +29220,14 @@ F = [
             },
             {
                 "cita": [],
-                "index": 1757,
+                "index": 1745,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1720,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1750,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1709,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1749,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1792,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1719,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1677,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1701,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1730,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1795,
+                "index": 1810,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -28490,31 +29259,32 @@ F = [
         "name": "Family of Warner, Piatt D. and Fox, Julia Colville",
         "note": "",
         "spou": [
-            1773,
-            599
+            1788,
+            613
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1793,
+                "index": 1808,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1787,
+                "index": 1802,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1741,
+                "index": 1756,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -28532,12 +29302,13 @@ F = [
         "name": "Family of Warner, Rev. Edmund",
         "note": "",
         "spou": [
-            1775
+            1790
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2257
@@ -28565,38 +29336,39 @@ F = [
         "name": "Family of Warner, Richard Kenneth and Wade, Joy A.",
         "note": "",
         "spou": [
-            1776,
-            1674
+            1791,
+            1689
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1789,
+                "index": 1804,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1790,
+                "index": 1805,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1791,
+                "index": 1806,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1788,
+                "index": 1803,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -28628,17 +29400,18 @@ F = [
         "name": "Family of Warner, Richard Kenneth and \u041c\u0435\u043b\u044c\u043d\u0438\u043a\u043e\u0432, Marylou",
         "note": "",
         "spou": [
-            1776,
-            2029
+            1791,
+            2055
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1740,
+                "index": 1755,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -28656,23 +29429,24 @@ F = [
         "name": "Family of Warner, Robert",
         "note": "",
         "spou": [
-            1777
+            1792
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1690,
+                "index": 1705,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1797,
+                "index": 1812,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -28704,38 +29478,39 @@ F = [
         "name": "Family of Warner, Robert Douglas and Norton, Christina",
         "note": "",
         "spou": [
-            1778,
-            1242
+            1793,
+            1256
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1752,
+                "index": 1767,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1768,
+                "index": 1783,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1782,
+                "index": 1797,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1758,
+                "index": 1773,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -28767,13 +29542,14 @@ F = [
         "name": "Family of Warner, Robert Eugene and Barber, Mary Elizabeth",
         "note": "",
         "spou": [
-            1779,
+            1794,
             108
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2214
@@ -28801,38 +29577,39 @@ F = [
         "name": "Family of Warner, Stephen Paul and \u0425\u0443\u0434\u043e\u043d\u043e\u0433\u043e\u0432, Patricia",
         "note": "",
         "spou": [
-            1790,
-            2077
+            1805,
+            2103
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1754,
+                "index": 1769,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1704,
+                "index": 1719,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1770,
+                "index": 1785,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1772,
+                "index": 1787,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -28864,17 +29641,18 @@ F = [
         "name": "Family of Warner, Stuart Bogarte and Richards, Diana",
         "note": "",
         "spou": [
-            1791,
-            1501
+            1806,
+            1516
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1698,
+                "index": 1713,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -28906,24 +29684,25 @@ F = [
         "name": "Family of Warner, Thomas and Black, Jane",
         "note": "",
         "spou": [
-            1793,
+            1808,
             183
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1734,
+                "index": 1749,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1703,
+                "index": 1718,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -28955,31 +29734,32 @@ F = [
         "name": "Family of Warner, Thomas Frederick and Carter, Debra J.",
         "note": "",
         "spou": [
-            1794,
+            1809,
             356
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1755,
+                "index": 1770,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1747,
+                "index": 1762,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1759,
+                "index": 1774,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -29011,13 +29791,14 @@ F = [
         "name": "Family of Warner, Warren W. and Ball, Abigail",
         "note": "",
         "spou": [
-            1796,
+            1811,
             86
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2759
@@ -29045,17 +29826,18 @@ F = [
         "name": "Family of Waters and Webb, Mary",
         "note": "",
         "spou": [
-            1801,
-            1853
+            1816,
+            1868
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1803,
+                "index": 1818,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -29087,24 +29869,25 @@ F = [
         "name": "Family of Waters, Cecil and \u0424\u043e\u043c\u0438\u043d, Grace",
         "note": "",
         "spou": [
-            1802,
-            2076
+            1817,
+            2102
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1810,
+                "index": 1825,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1804,
+                "index": 1819,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -29136,13 +29919,14 @@ F = [
         "name": "Family of Waters, Cecil Glenn and Hubbard, Donna",
         "note": "",
         "spou": [
-            1803,
-            857
+            1818,
+            871
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2644
@@ -29170,52 +29954,53 @@ F = [
         "name": "Family of Waters, John and Webb, Mary",
         "note": "",
         "spou": [
-            1807,
-            1852
+            1822,
+            1867
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1802,
+                "index": 1817,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1805,
+                "index": 1820,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1809,
+                "index": 1824,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1808,
+                "index": 1823,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1811,
+                "index": 1826,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1806,
+                "index": 1821,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -29247,24 +30032,25 @@ F = [
         "name": "Family of Waters, William and Neal, Matilda",
         "note": "",
         "spou": [
-            1812,
-            1227
+            1827,
+            1241
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1814,
+                "index": 1829,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1060,
+                "index": 1074,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -29296,17 +30082,18 @@ F = [
         "name": "Family of Watkins, Bruce Edward and Warner, Mary Christine",
         "note": "",
         "spou": [
-            1813,
-            1758
+            1828,
+            1773
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1816,
+                "index": 1831,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -29338,17 +30125,18 @@ F = [
         "name": "Family of Watson, Alvin E. and Warner, Beverly Ann",
         "note": "",
         "spou": [
-            1815,
-            1696
+            1830,
+            1711
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1818,
+                "index": 1833,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -29380,31 +30168,32 @@ F = [
         "name": "Family of Weaver, Steven Matthew and Warner, JenniferMae(Ganoe)",
         "note": "",
         "spou": [
-            1819,
-            1737
+            1834,
+            1752
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1850,
+                "index": 1865,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1863,
+                "index": 1878,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1852,
+                "index": 1867,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -29416,7 +30205,7 @@ F = [
         "events": [
             {
                 "cita": [],
-                "date": "avant 1800",
+                "date": "before 1800",
                 "date_sdn": 2378497,
                 "descr": "Marriage of Webb, Alex and \u041c\u0430\u043a\u0430\u0440\u043e\u0432, Nancy",
                 "gid": "E3079",
@@ -29431,43 +30220,44 @@ F = [
         "gid": "F0409",
         "marr_place": "Canton, Fulton, IL, USA",
         "marr_sdn": 2378497,
-        "marr_year": "1800",
+        "marr_year": "?",
         "media": [],
         "name": "Family of Webb, Alex and \u041c\u0430\u043a\u0430\u0440\u043e\u0432, Nancy",
         "note": "",
         "spou": [
-            1820,
-            2017
+            1835,
+            2043
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1846,
+                "index": 1861,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1843,
+                "index": 1858,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1847,
+                "index": 1862,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1833,
+                "index": 1848,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -29499,31 +30289,67 @@ F = [
         "name": "Family of Webb, Alexander and Delgado, Mary Ann",
         "note": "",
         "spou": [
-            1821,
+            1836,
             449
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1821,
+                "index": 1836,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1862,
+                "index": 1877,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1860,
+                "index": 1875,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 1871,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 1868,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 1881,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 1879,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 1840,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -29544,42 +30370,7 @@ F = [
             },
             {
                 "cita": [],
-                "index": 1866,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1864,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1825,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1841,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1838,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1858,
+                "index": 1873,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -29611,17 +30402,18 @@ F = [
         "name": "Family of Webb, Andrew and Webb, Margaret Margarite?",
         "note": "",
         "spou": [
-            1822,
-            1850
+            1837,
+            1865
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1822,
+                "index": 1837,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -29653,24 +30445,25 @@ F = [
         "name": "Family of Webb, Elias and Gibbs, Nancy",
         "note": "",
         "spou": [
-            1828,
-            711
+            1843,
+            725
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1834,
+                "index": 1849,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1840,
+                "index": 1855,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -29688,37 +30481,38 @@ F = [
         "name": "Family of Webb, Ernest Arlington",
         "note": "",
         "spou": [
-            1829
+            1844
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1849,
+                "index": 1864,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1848,
+                "index": 1863,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1842,
+                "index": 1857,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1845,
+                "index": 1860,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -29750,80 +30544,81 @@ F = [
         "name": "Family of Webb, Francis Irvin and Todd, Louella Jane",
         "note": "",
         "spou": [
-            1831,
-            1659
+            1846,
+            1674
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1824,
+                "index": 1839,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1865,
+                "index": 1880,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1829,
+                "index": 1844,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1827,
+                "index": 1842,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1836,
+                "index": 1851,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1855,
+                "index": 1870,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1823,
+                "index": 1838,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1854,
+                "index": 1869,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1832,
+                "index": 1847,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1830,
+                "index": 1845,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -29855,24 +30650,25 @@ F = [
         "name": "Family of Webb, James Marshall and Ballard, Judith Ellen",
         "note": "",
         "spou": [
-            1837,
+            1852,
             107
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1839,
+                "index": 1854,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1851,
+                "index": 1866,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -29904,31 +30700,51 @@ F = [
         "name": "Family of Webb, John Raymond and Ford, Lorinda Catherine",
         "note": "",
         "spou": [
-            1842,
-            582
+            1857,
+            596
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2016-06-30 05:45:53",
+        "chil": [],
+        "cita": [],
+        "events": [],
+        "gid": "F0551",
+        "marr_place": "",
+        "marr_sdn": 0,
+        "marr_year": "",
+        "media": [],
+        "name": "Family of Webb, Joseph LeRoy and Boucher, Bridget",
+        "note": "",
+        "spou": [
+            1858,
+            222
+        ],
+        "type": "Married"
+    },
+    {
+        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1857,
+                "index": 1872,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1835,
+                "index": 1850,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1861,
+                "index": 1876,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -29960,31 +30776,32 @@ F = [
         "name": "Family of Webb, Lewis I. and \u0417\u0430\u0439\u0446\u0435\u0432, Ruth L.",
         "note": "",
         "spou": [
-            1845,
-            1982
+            1860,
+            2008
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1831,
+                "index": 1846,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1826,
+                "index": 1841,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1844,
+                "index": 1859,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -30016,17 +30833,18 @@ F = [
         "name": "Family of Webb, Livingstone Martin and Blanco, Lucinda Catherine",
         "note": "",
         "spou": [
-            1846,
+            1861,
             205
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1859,
+                "index": 1874,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -30044,16 +30862,17 @@ F = [
         "name": "Family of Webb, William Herman",
         "note": "",
         "spou": [
-            1865
+            1880
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1837,
+                "index": 1852,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -30085,17 +30904,18 @@ F = [
         "name": "Family of Webb, William John and Wagner, Martha Ann",
         "note": "",
         "spou": [
-            1866,
-            1675
+            1881,
+            1690
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1868,
+                "index": 1883,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -30127,13 +30947,14 @@ F = [
         "name": "Family of Webster, Conrad and Castillo, Margaretha",
         "note": "",
         "spou": [
-            1867,
+            1882,
             357
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -30144,7 +30965,7 @@ F = [
             },
             {
                 "cita": [],
-                "index": 2006,
+                "index": 2032,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -30176,17 +30997,18 @@ F = [
         "name": "Family of Webster, Johanne(John) and Saunders, Ursula",
         "note": "",
         "spou": [
-            1868,
-            1574
+            1883,
+            1589
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1874,
+                "index": 1889,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -30218,31 +31040,32 @@ F = [
         "name": "Family of Welch, Christopher Paul and Hayes, LeAnn",
         "note": "",
         "spou": [
-            1870,
-            819
+            1885,
+            833
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1878,
+                "index": 1893,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1869,
+                "index": 1884,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1877,
+                "index": 1892,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -30274,17 +31097,18 @@ F = [
         "name": "Family of Welch, Irwin Arthur and Page, Eleanor Irene",
         "note": "",
         "spou": [
-            1871,
-            1279
+            1886,
+            1293
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1872,
+                "index": 1887,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -30316,24 +31140,25 @@ F = [
         "name": "Family of Welch, Michael and Osborne, Anita June",
         "note": "",
         "spou": [
-            1875,
-            1258
+            1890,
+            1272
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1873,
+                "index": 1888,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1870,
+                "index": 1885,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -30365,13 +31190,14 @@ F = [
         "name": "Family of Welch, Paul Allen and Cruz, Linda Helen",
         "note": "",
         "spou": [
-            1876,
+            1891,
             420
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2227
@@ -30399,13 +31225,14 @@ F = [
         "name": "Family of Welch, Russell Eugene and Norton, Dorothy",
         "note": "",
         "spou": [
-            1878,
-            1243
+            1893,
+            1257
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2251
@@ -30433,24 +31260,25 @@ F = [
         "name": "Family of Welch, Russell Eugene and Walsh, Penelope",
         "note": "",
         "spou": [
-            1878,
-            1680
+            1893,
+            1695
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1881,
+                "index": 1896,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1882,
+                "index": 1897,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -30482,13 +31310,14 @@ F = [
         "name": "Family of West, Ronald David and Cruz, Melinda Lou",
         "note": "",
         "spou": [
-            1883,
+            1898,
             422
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2390
@@ -30516,31 +31345,32 @@ F = [
         "name": "Family of Wheeler, Don and \u041b\u043e\u043f\u0430\u0442\u0438\u043d, Carmen Diana",
         "note": "",
         "spou": [
-            1884,
-            2013
+            1899,
+            2039
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1888,
+                "index": 1903,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1887,
+                "index": 1902,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1886,
+                "index": 1901,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -30572,13 +31402,14 @@ F = [
         "name": "Family of Wheeler, Jacob Earl and \u041b\u043e\u043f\u0430\u0442\u0438\u043d, Carmen Diana",
         "note": "",
         "spou": [
-            1885,
-            2013
+            1900,
+            2039
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2790
@@ -30606,17 +31437,18 @@ F = [
         "name": "Family of White and Reed, Mary Ann",
         "note": "",
         "spou": [
-            1889,
-            1437
+            1904,
+            1452
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1890,
+                "index": 1905,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -30648,31 +31480,32 @@ F = [
         "name": "Family of Williams, Thomas Jr. and Jim\u00e9nez, Elizabeth",
         "note": "",
         "spou": [
-            1891,
-            910
+            1906,
+            924
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1892,
+                "index": 1907,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1894,
+                "index": 1909,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1895,
+                "index": 1910,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -30704,13 +31537,14 @@ F = [
         "name": "Family of Willis, Corey and Poirier, Janelle Marie",
         "note": "",
         "spou": [
-            1893,
-            1377
+            1908,
+            1392
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2556
@@ -30738,17 +31572,18 @@ F = [
         "name": "Family of Wilson, Douglas and Cruz, Marsha Ann",
         "note": "",
         "spou": [
-            1896,
+            1911,
             421
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1025,
+                "index": 1039,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -30780,52 +31615,53 @@ F = [
         "name": "Family of Wise, Thomas and Ramos, Mary",
         "note": "",
         "spou": [
-            1897,
-            1405
+            1912,
+            1420
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1905,
+                "index": 1920,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1904,
+                "index": 1919,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1903,
+                "index": 1918,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1902,
+                "index": 1917,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1900,
+                "index": 1915,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1901,
+                "index": 1916,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -30844,7 +31680,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [
-                    679
+                    693
                 ],
                 "place": -1,
                 "text": "",
@@ -30859,13 +31695,14 @@ F = [
         "name": "Family of W\u00f3jcik, Arnold and Garner, Helen Bernice",
         "note": "",
         "spou": [
-            1899,
-            645
+            1914,
+            659
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2182
@@ -30893,17 +31730,18 @@ F = [
         "name": "Family of Wong and Page, Mildred",
         "note": "",
         "spou": [
-            1906,
-            1299
+            1921,
+            1313
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1909,
+                "index": 1924,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -30935,24 +31773,25 @@ F = [
         "name": "Family of Wood, Peter and Gibbs, Lucy",
         "note": "",
         "spou": [
-            1908,
-            706
+            1923,
+            720
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1912,
+                "index": 1927,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1911,
+                "index": 1926,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -30984,13 +31823,14 @@ F = [
         "name": "Family of Woods, James and \u0417\u044b\u0440\u044f\u043d\u043e\u0432, Mary",
         "note": "",
         "spou": [
-            1910,
-            1991
+            1925,
+            2017
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2349
@@ -31018,13 +31858,14 @@ F = [
         "name": "Family of Wo\u017aniak, Thomas and Page, Debra Dale",
         "note": "",
         "spou": [
-            1913,
-            1275
+            1928,
+            1289
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2734
@@ -31052,13 +31893,123 @@ F = [
         "name": "Family of Young, Mr. and Waters, Edith",
         "note": "",
         "spou": [
-            1916,
-            1805
+            1931,
+            1820
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2016-06-28 19:50:30",
+        "chil": [
+            {
+                "cita": [],
+                "index": 1942,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 1939,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 1941,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 1940,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 1937,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            }
+        ],
+        "cita": [],
+        "events": [],
+        "gid": "F0747",
+        "marr_place": "",
+        "marr_sdn": 0,
+        "marr_year": "",
+        "media": [],
+        "name": "Family of \u0394\u03b5\u03bb\u03b7\u03c0\u03ad\u03c4\u03c1\u03bf\u03c5, \u0391\u03b3\u03b1\u03bc\u03ad\u03bc\u03bd\u03c9\u03bd and \u0399\u03c9\u03ac\u03bd\u03bd\u03bf\u03c5, \u0395\u03c5\u03c4\u03ad\u03c1\u03c0\u03b7",
+        "note": "",
+        "spou": [
+            1936,
+            1944
+        ],
+        "type": "Married"
+    },
+    {
+        "attr": [],
+        "change_time": "2016-06-28 19:41:48",
+        "chil": [
+            {
+                "cita": [],
+                "index": 1936,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            }
+        ],
+        "cita": [],
+        "events": [],
+        "gid": "F0748",
+        "marr_place": "",
+        "marr_sdn": 0,
+        "marr_year": "",
+        "media": [],
+        "name": "Family of \u0394\u03b5\u03bb\u03b7\u03c0\u03ad\u03c4\u03c1\u03bf\u03c5, \u0399\u03ac\u03c3\u03c9\u03bd and \u0391\u03bd\u03b1\u03b3\u03bd\u03c9\u03c3\u03c4\u03bf\u03c0\u03bf\u03cd\u03bb\u03bf\u03c5, \u0392\u03b5\u03bd\u03b5\u03c4\u03af\u03b1",
+        "note": "",
+        "spou": [
+            1938,
+            1935
+        ],
+        "type": "Married"
+    },
+    {
+        "attr": [],
+        "change_time": "2016-06-28 19:48:20",
+        "chil": [
+            {
+                "cita": [],
+                "index": 1944,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            }
+        ],
+        "cita": [],
+        "events": [],
+        "gid": "F0749",
+        "marr_place": "",
+        "marr_sdn": 0,
+        "marr_year": "",
+        "media": [],
+        "name": "Family of \u0399\u03c9\u03ac\u03bd\u03bd\u03bf\u03c5, \u0395\u03c0\u03b1\u03bc\u03b5\u03b9\u03bd\u03ce\u03bd\u03b4\u03b1\u03c2 and \u039a\u03b1\u03bb\u03ad\u03c1\u03b3\u03b7, \u0399\u03bf\u03c5\u03bb\u03af\u03b1",
+        "note": "",
+        "spou": [
+            1943,
+            1945
+        ],
+        "type": "Married"
+    },
+    {
+        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2478
@@ -31086,13 +32037,14 @@ F = [
         "name": "Family of \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432, Johann Adam and Beaulieu, Anna Margaretha",
         "note": "",
         "spou": [
-            1921,
+            1947,
             121
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2201
@@ -31120,13 +32072,14 @@ F = [
         "name": "Family of \u0410\u043b\u0435\u043a\u0441\u0435\u0435\u0432, Jacob and Benson, Mary",
         "note": "",
         "spou": [
-            1922,
+            1948,
             167
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2661
@@ -31154,17 +32107,18 @@ F = [
         "name": "Family of \u0410\u043d\u0434\u0440\u0435\u0435\u0432, William and Douglas, Susan",
         "note": "",
         "spou": [
-            1923,
+            1949,
             512
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1929,
+                "index": 1955,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -31196,17 +32150,18 @@ F = [
         "name": "Family of \u0411\u0435\u043b\u043e\u0443\u0441\u043e\u0432, Jacob and Su\u00e1rez, Marie",
         "note": "",
         "spou": [
-            1928,
-            1616
+            1954,
+            1631
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1927,
+                "index": 1953,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -31238,13 +32193,14 @@ F = [
         "name": "Family of \u0411\u0435\u043b\u043e\u0443\u0441\u043e\u0432, Johannas Jacob and Reid, Anna Catherina",
         "note": "",
         "spou": [
-            1929,
-            1482
+            1955,
+            1497
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2339
@@ -31272,13 +32228,14 @@ F = [
         "name": "Family of \u0411\u0435\u043b\u044f\u0435\u0432 and Reed, Peggy",
         "note": "",
         "spou": [
-            1930,
-            1450
+            1956,
+            1465
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2204
@@ -31306,13 +32263,14 @@ F = [
         "name": "Family of \u0411\u043e\u0433\u0434\u0430\u043d\u043e\u0432, Dr. Brent and Cruz, Ann Lynn",
         "note": "",
         "spou": [
-            1931,
+            1957,
             400
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2614
@@ -31340,13 +32298,14 @@ F = [
         "name": "Family of \u0411\u043e\u0440\u0438\u0441\u043e\u0432 and Boyd, Carmen Alberta",
         "note": "",
         "spou": [
-            1932,
+            1958,
             300
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2511
@@ -31374,59 +32333,60 @@ F = [
         "name": "Family of \u0411\u044b\u043a\u043e\u0432, Charles and Girard, Margaret",
         "note": "",
         "spou": [
-            1936,
-            723
+            1962,
+            737
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1937,
+                "index": 1963,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1936,
+                "index": 1962,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1940,
+                "index": 1966,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1941,
+                "index": 1967,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1939,
+                "index": 1965,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1934,
+                "index": 1960,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1935,
+                "index": 1961,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -31458,13 +32418,14 @@ F = [
         "name": "Family of \u0411\u044b\u043a\u043e\u0432, Herod and Parent, Polly",
         "note": "",
         "spou": [
-            1938,
-            1326
+            1964,
+            1340
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2531
@@ -31492,13 +32453,14 @@ F = [
         "name": "Family of \u0411\u044b\u043a\u043e\u0432, Samuel and Larsen, Nelly",
         "note": "",
         "spou": [
-            1941,
-            1012
+            1967,
+            1026
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2746
@@ -31526,17 +32488,18 @@ F = [
         "name": "Family of \u0412\u043b\u0430\u0441\u043e\u0432, John and Floyd, Martha Frances \"Fannie\"",
         "note": "",
         "spou": [
-            1943,
-            576
+            1969,
+            590
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1944,
+                "index": 1970,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -31554,12 +32517,13 @@ F = [
         "name": "Family of \u0412\u043e\u0440\u043e\u0431\u044c\u0435\u0432, Rev. Samuel",
         "note": "",
         "spou": [
-            1945
+            1971
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2502
@@ -31587,17 +32551,18 @@ F = [
         "name": "Family of \u0413\u0435\u0440\u0430\u0441\u0438\u043c\u043e\u0432, John and Garrett, Doris Mae",
         "note": "",
         "spou": [
-            1947,
-            688
+            1973,
+            702
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1948,
+                "index": 1974,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -31615,12 +32580,13 @@ F = [
         "name": "Family of \u0413\u043e\u043d\u0447\u0430\u0440\u043e\u0432, Thomas",
         "note": "",
         "spou": [
-            1949
+            1975
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2667
@@ -31648,13 +32614,14 @@ F = [
         "name": "Family of \u0413\u043e\u0440\u0431\u0443\u043d\u043e\u0432, Matt and Garner, Cecilia",
         "note": "",
         "spou": [
-            1950,
-            633
+            1976,
+            647
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2382
@@ -31682,31 +32649,32 @@ F = [
         "name": "Family of \u0414\u0430\u0432\u044b\u0434\u043e\u0432 and Ball, Jane",
         "note": "",
         "spou": [
-            1952,
+            1978,
             90
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1960,
+                "index": 1986,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 695,
+                "index": 709,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1954,
+                "index": 1980,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -31738,45 +32706,46 @@ F = [
         "name": "Family of \u0414\u0430\u043d\u0438\u043b\u043e\u0432, Darrell Edwin and Ross, Evelyn Almazon",
         "note": "",
         "spou": [
-            1955,
-            1543
+            1981,
+            1558
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1958,
+                "index": 1984,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1957,
+                "index": 1983,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1955,
+                "index": 1981,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1953,
+                "index": 1979,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1959,
+                "index": 1985,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -31808,13 +32777,14 @@ F = [
         "name": "Family of \u0414\u0430\u043d\u0438\u043b\u043e\u0432, Earl William and Lessard, Dorothy Louise",
         "note": "",
         "spou": [
-            1956,
-            1031
+            1982,
+            1045
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2565
@@ -31842,66 +32812,67 @@ F = [
         "name": "Family of \u0414\u043c\u0438\u0442\u0440\u0438\u0435\u0432, Alexander Carroll Sr. and Woods, Mary Polly",
         "note": "",
         "spou": [
-            1961,
-            1911
+            1987,
+            1926
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1971,
+                "index": 1997,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1975,
+                "index": 2001,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1962,
+                "index": 1988,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1970,
+                "index": 1996,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1968,
+                "index": 1994,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1965,
+                "index": 1991,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1967,
+                "index": 1993,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1966,
+                "index": 1992,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -31933,13 +32904,14 @@ F = [
         "name": "Family of \u0414\u043c\u0438\u0442\u0440\u0438\u0435\u0432, Charles Sr. and Lapointe, Lucy aka Sarah",
         "note": "",
         "spou": [
-            1963,
-            1009
+            1989,
+            1023
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -31950,7 +32922,7 @@ F = [
             },
             {
                 "cita": [],
-                "index": 1964,
+                "index": 1990,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -31964,35 +32936,35 @@ F = [
             },
             {
                 "cita": [],
-                "index": 1972,
+                "index": 1998,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1973,
+                "index": 1999,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1974,
+                "index": 2000,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1969,
+                "index": 1995,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1961,
+                "index": 1987,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -32031,13 +33003,14 @@ F = [
         "name": "Family of \u0414\u043c\u0438\u0442\u0440\u0438\u0435\u0432, Moses Aaron and Reynolds, Mary Jane",
         "note": "",
         "spou": [
-            1971,
-            1490
+            1997,
+            1505
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2268
@@ -32065,13 +33038,14 @@ F = [
         "name": "Family of \u0414\u043c\u0438\u0442\u0440\u0438\u0435\u0432, Travis and Payne, Elizabeth",
         "note": "",
         "spou": [
-            1973,
-            1337
+            1999,
+            1351
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2418
@@ -32099,13 +33073,14 @@ F = [
         "name": "Family of \u0414\u043c\u0438\u0442\u0440\u0438\u0435\u0432, William and Page, Sarah",
         "note": "",
         "spou": [
-            1975,
-            1307
+            2001,
+            1321
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2637
@@ -32133,13 +33108,14 @@ F = [
         "name": "Family of \u0414\u043c\u0438\u0442\u0440\u0438\u0435\u0432, William and Wood, Polly",
         "note": "",
         "spou": [
-            1974,
-            1909
+            2000,
+            1924
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2396
@@ -32167,13 +33143,14 @@ F = [
         "name": "Family of \u0415\u0433\u043e\u0440\u043e\u0432, Dr. Charles J. and Page, Edith Mae",
         "note": "",
         "spou": [
-            1976,
-            1278
+            2002,
+            1292
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2665
@@ -32201,24 +33178,25 @@ F = [
         "name": "Family of \u0416\u0443\u043a\u043e\u0432, Curtis Dale and Gordon, Heather Kathleen",
         "note": "",
         "spou": [
-            1978,
-            737
+            2004,
+            751
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1981,
+                "index": 2007,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1978,
+                "index": 2004,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -32250,17 +33228,18 @@ F = [
         "name": "Family of \u0416\u0443\u043a\u043e\u0432, David and Russell, Janet Gail",
         "note": "",
         "spou": [
-            1979,
-            1552
+            2005,
+            1567
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1986,
+                "index": 2012,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -32292,17 +33271,18 @@ F = [
         "name": "Family of \u0417\u043b\u043e\u0431\u0438\u043d, Col. Joseph and Rice, Virginia Margaret",
         "note": "",
         "spou": [
-            1984,
-            1499
+            2010,
+            1514
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1984,
+                "index": 2010,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -32320,16 +33300,17 @@ F = [
         "name": "Family of \u0417\u043b\u043e\u0431\u0438\u043d, John",
         "note": "",
         "spou": [
-            1985
+            2011
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1987,
+                "index": 2013,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -32361,17 +33342,18 @@ F = [
         "name": "Family of \u0417\u043b\u043e\u0431\u0438\u043d, Joseph Jr. and Adkins, Martha",
         "note": "",
         "spou": [
-            1986,
+            2012,
             14
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1989,
+                "index": 2015,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -32403,24 +33385,25 @@ F = [
         "name": "Family of \u0417\u044b\u043a\u043e\u0432, John and Hopkins, Mary Eve",
         "note": "",
         "spou": [
-            1990,
-            848
+            2016,
+            862
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1992,
+                "index": 2018,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1994,
+                "index": 2020,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -32452,17 +33435,18 @@ F = [
         "name": "Family of \u0418\u043b\u044c\u0438\u043d, Gary and Webb, Marilyn Jean",
         "note": "",
         "spou": [
-            1993,
-            1851
+            2019,
+            1866
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1998,
+                "index": 2024,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -32494,24 +33478,25 @@ F = [
         "name": "Family of \u041a\u0430\u0440\u043f\u043e\u0432, Damian and Hansen, Irene",
         "note": "",
         "spou": [
-            1997,
-            782
+            2023,
+            796
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 2002,
+                "index": 2028,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 2000,
+                "index": 2026,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -32543,17 +33528,18 @@ F = [
         "name": "Family of \u041a\u0438\u0441\u0435\u043b\u0435\u0432, Dennis John and Warner, Nancy Elizabeth",
         "note": "",
         "spou": [
-            2001,
-            1768
+            2027,
+            1783
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 2004,
+                "index": 2030,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -32585,13 +33571,14 @@ F = [
         "name": "Family of \u041a\u043e\u0437\u043b\u043e\u0432, Samuel C. and Pena, Julia",
         "note": "",
         "spou": [
-            2005,
-            1354
+            2031,
+            1368
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2612
@@ -32619,13 +33606,14 @@ F = [
         "name": "Family of \u041b\u0435\u0431\u0435\u0434\u0435\u0432, Trustum and Warner, Johanna",
         "note": "",
         "spou": [
-            2011,
-            1738
+            2037,
+            1753
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2437
@@ -32653,24 +33641,25 @@ F = [
         "name": "Family of \u041b\u043e\u0433\u0438\u043d\u043e\u0432, Guy and Kristensen, Margaret Agnes\"Maudy\"",
         "note": "",
         "spou": [
-            2012,
-            977
+            2038,
+            991
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 2013,
+                "index": 2039,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 2014,
+                "index": 2040,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -32702,17 +33691,18 @@ F = [
         "name": "Family of \u041b\u043e\u043f\u0430\u0442\u0438\u043d, Raymond A. and Garrett, Carmen Eloise",
         "note": "",
         "spou": [
-            2015,
-            687
+            2041,
+            701
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 2017,
+                "index": 2043,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -32744,12 +33734,13 @@ F = [
         "name": "Family of \u041c\u0430\u043a\u0430\u0440\u043e\u0432, Joseph",
         "note": "",
         "spou": [
-            2016
+            2042
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2537
@@ -32777,17 +33768,18 @@ F = [
         "name": "Family of \u041c\u0430\u043a\u0441\u0438\u043c\u043e\u0432 and Allen, Abigail",
         "note": "",
         "spou": [
-            2018,
+            2044,
             20
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 2019,
+                "index": 2045,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -32819,24 +33811,25 @@ F = [
         "name": "Family of \u041c\u0430\u043a\u0441\u0438\u043c\u043e\u0432, George and \u0416\u0443\u043a\u043e\u0432, Annabell Gordon",
         "note": "",
         "spou": [
-            2020,
-            1977
+            2046,
+            2003
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 2021,
+                "index": 2047,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 2022,
+                "index": 2048,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -32868,13 +33861,14 @@ F = [
         "name": "Family of \u041c\u0430\u043a\u0441\u0438\u043c\u043e\u0432, Rodney Herman and Cruz, Janis Marlene",
         "note": "",
         "spou": [
-            2024,
+            2050,
             410
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2288
@@ -32902,17 +33896,18 @@ F = [
         "name": "Family of \u041c\u0430\u0440\u0442\u044b\u043d\u043e\u0432 and Reed, Jane",
         "note": "",
         "spou": [
-            2026,
-            1428
+            2052,
+            1443
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 2097,
+                "index": 2123,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -32930,12 +33925,13 @@ F = [
         "name": "Family of \u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432, Veltin",
         "note": "",
         "spou": [
-            2034
+            2060
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2397
@@ -32943,7 +33939,7 @@ F = [
         "events": [
             {
                 "cita": [],
-                "date": "vers 1715",
+                "date": "about 1715",
                 "date_sdn": 2347451,
                 "descr": "Marriage of \u041d\u043e\u0432\u0438\u043a\u043e\u0432, Thomas and Allen, Rachel",
                 "gid": "E3331",
@@ -32963,24 +33959,25 @@ F = [
         "name": "Family of \u041d\u043e\u0432\u0438\u043a\u043e\u0432, Thomas and Allen, Rachel",
         "note": "",
         "spou": [
-            2036,
+            2062,
             32
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 2040,
+                "index": 2066,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 2038,
+                "index": 2064,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -33012,17 +34009,18 @@ F = [
         "name": "Family of \u041f\u0430\u0432\u043b\u043e\u0432, Reuben and Douglas, Lucinda J.",
         "note": "",
         "spou": [
-            2039,
+            2065,
             507
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 788,
+                "index": 802,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -33054,13 +34052,14 @@ F = [
         "name": "Family of \u041f\u043e\u043d\u043e\u043c\u0430\u0440\u0435\u0432, Ralph and Rodr\u00edguez, Agatha",
         "note": "",
         "spou": [
-            2042,
-            1515
+            2068,
+            1530
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2659
@@ -33088,13 +34087,14 @@ F = [
         "name": "Family of \u041f\u043e\u0442\u044b\u043b\u0438\u0446\u0438\u043d, Edward and B\u00e9langer, Linda Ellen",
         "note": "",
         "spou": [
-            2044,
+            2070,
             143
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2356
@@ -33122,38 +34122,39 @@ F = [
         "name": "Family of \u0420\u043e\u043c\u0430\u043d\u043e\u0432, John and Moreno, Delilah",
         "note": "",
         "spou": [
-            2045,
-            1154
+            2071,
+            1168
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 2050,
+                "index": 2076,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 2047,
+                "index": 2073,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 2049,
+                "index": 2075,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 2051,
+                "index": 2077,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -33185,17 +34186,18 @@ F = [
         "name": "Family of \u0421\u0435\u0440\u0433\u0435\u0435\u0432, Dennis and Garner, Kathryn Mary",
         "note": "",
         "spou": [
-            2048,
-            655
+            2074,
+            669
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 2053,
+                "index": 2079,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -33227,17 +34229,18 @@ F = [
         "name": "Family of \u0421\u043c\u0438\u0440\u043d\u043e\u0432, Eudo and Rios, Agnes",
         "note": "",
         "spou": [
-            2052,
-            1503
+            2078,
+            1518
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 2042,
+                "index": 2068,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -33269,17 +34272,18 @@ F = [
         "name": "Family of \u0421\u043c\u0438\u0440\u043d\u043e\u0432, Ribald and Gray, Beatrix",
         "note": "",
         "spou": [
-            2053,
-            747
+            2079,
+            761
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 2056,
+                "index": 2082,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -33311,13 +34315,14 @@ F = [
         "name": "Family of \u0421\u043e\u0440\u043e\u043a\u0438\u043d, Robert and \u0421\u043e\u0440\u043e\u043a\u0438\u043d, Candy",
         "note": "",
         "spou": [
-            2057,
-            2055
+            2083,
+            2081
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2266
@@ -33345,17 +34350,18 @@ F = [
         "name": "Family of \u0422\u0430\u0440\u0430\u0441\u043e\u0432, Simon and Todd, Flora Belle",
         "note": "",
         "spou": [
-            2058,
-            1648
+            2084,
+            1663
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 2068,
+                "index": 2094,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -33387,38 +34393,39 @@ F = [
         "name": "Family of \u0422\u0438\u0445\u043e\u043d\u043e\u0432, Miles? and Smith, Anastasia?",
         "note": "",
         "spou": [
-            2067,
-            1600
+            2093,
+            1615
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 2064,
+                "index": 2090,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 2069,
+                "index": 2095,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 2065,
+                "index": 2091,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 2066,
+                "index": 2092,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -33450,17 +34457,18 @@ F = [
         "name": "Family of \u0422\u0438\u0445\u043e\u043d\u043e\u0432, Moses and Holt, Bridget",
         "note": "",
         "spou": [
-            2068,
-            846
+            2094,
+            860
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 2074,
+                "index": 2100,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -33492,31 +34500,32 @@ F = [
         "name": "Family of \u0424\u0435\u0434\u043e\u0440\u043e\u0432 and Reed, Bridget",
         "note": "",
         "spou": [
-            2070,
-            1411
+            2096,
+            1426
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 2071,
+                "index": 2097,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 2073,
+                "index": 2099,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 2072,
+                "index": 2098,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -33534,23 +34543,24 @@ F = [
         "name": "Family of \u0424\u0435\u0434\u043e\u0440\u043e\u0432, Patrick",
         "note": "",
         "spou": [
-            2074
+            2100
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 2078,
+                "index": 2104,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 2079,
+                "index": 2105,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -33582,52 +34592,53 @@ F = [
         "name": "Family of \u0427\u0435\u0440\u043a\u0430\u0448\u0438\u043d, Thomas and Jankowski, Margaret Jane \"Maggie\"",
         "note": "",
         "spou": [
-            2080,
-            896
+            2106,
+            910
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1917,
+                "index": 1932,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 2063,
+                "index": 2089,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 2061,
+                "index": 2087,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 2060,
+                "index": 2086,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 2062,
+                "index": 2088,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 2059,
+                "index": 2085,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -33659,31 +34670,32 @@ F = [
         "name": "Family of \u0428\u0435\u0441\u0442\u0430\u043a\u043e\u0432, George and Daniels, Phoebe",
         "note": "",
         "spou": [
-            2084,
+            2110,
             437
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 2086,
+                "index": 2112,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 2085,
+                "index": 2111,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 2088,
+                "index": 2114,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -33695,7 +34707,7 @@ F = [
         "events": [
             {
                 "cita": [],
-                "date": "avant 1911-07-06",
+                "date": "before 1911-07-06",
                 "date_sdn": 2419224,
                 "descr": "Marriage of \u042f\u043a\u043e\u0432\u043b\u0435\u0432, George and Garner, Jennie S.",
                 "gid": "E2824",
@@ -33710,18 +34722,19 @@ F = [
         "gid": "F0179",
         "marr_place": "",
         "marr_sdn": 2419224,
-        "marr_year": "1911",
+        "marr_year": "?",
         "media": [],
         "name": "Family of \u042f\u043a\u043e\u0432\u043b\u0435\u0432, George and Garner, Jennie S.",
         "note": "",
         "spou": [
-            2087,
-            650
+            2113,
+            664
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2527
@@ -33749,13 +34762,14 @@ F = [
         "name": "Family of \u4e2d\u6751, Thomas and Jim\u00e9nez, Polly Mary",
         "note": "",
         "spou": [
-            2091,
-            926
+            2117,
+            940
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2664
@@ -33783,13 +34797,14 @@ F = [
         "name": "Family of \u5c0f\u6797, Mr. and Waters, Nellie",
         "note": "",
         "spou": [
-            2093,
-            1809
+            2119,
+            1824
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
@@ -33835,7 +34850,7 @@ F = [
             },
             {
                 "cita": [],
-                "index": 2095,
+                "index": 2121,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -33867,17 +34882,18 @@ F = [
         "name": "Family of \u5c71\u672c, Antoine Desaure Perronett and \u0421\u043e\u043a\u043e\u043b\u043e\u0432, Louise",
         "note": "",
         "spou": [
-            2094,
-            2054
+            2120,
+            2080
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 2094,
+                "index": 2120,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -33895,16 +34911,17 @@ F = [
         "name": "Family of \u5c71\u672c, Gabriel Gustave",
         "note": "",
         "spou": [
-            2096
+            2122
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 2033,
+                "index": 2059,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -33936,13 +34953,14 @@ F = [
         "name": "Family of \u658e\u85e4, Zariakius Cyriacus and Bishop, Anna Barbara",
         "note": "",
         "spou": [
-            2097,
+            2123,
             181
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2172
@@ -33970,13 +34988,14 @@ F = [
         "name": "Family of \u9234\u6728, Allen and Mar\u00edn, Alice",
         "note": "",
         "spou": [
-            2099,
-            1078
+            2125,
+            1092
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [
             2768
@@ -34004,7 +35023,7 @@ F = [
         "name": "Family of \u9234\u6728, Robert B. and Blanco, Mary F.",
         "note": "",
         "spou": [
-            2101,
+            2127,
             209
         ],
         "type": "Married"

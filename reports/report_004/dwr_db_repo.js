@@ -20,4 +20,5 @@
 //       - media_type: media type
 //       - call_number: call number
 //       - note: notes of the repository reference
+//   - change_time: last record modification date
 R = []

@@ -20,6 +20,7 @@
 //       - media_type: media type
 //       - call_number: call number
 //       - note: notes of the repository reference
+//   - change_time: last record modification date
 R = [
     {
         "addrs": [
@@ -49,6 +50,7 @@ R = [
                 "s_idx": 3
             }
         ],
+        "change_time": "2007-07-26 10:34:25",
         "gid": "R0003",
         "name": "Aunt Martha's Attic",
         "note": "<div>\n<i class=\"NoteType\">\nNote sur le d\u00e9p\u00f4t\n</i>\n<div class=\"grampsstylednote\">\n<p>\nSome note on the repo\n</p>\n</div>\n</div>",
@@ -97,6 +99,7 @@ R = [
                 "s_idx": 3
             }
         ],
+        "change_time": "2012-01-31 17:30:38",
         "gid": "R0002",
         "name": "New York Public Library",
         "note": "",
@@ -131,6 +134,7 @@ R = [
                 "s_idx": 1
             }
         ],
+        "change_time": "2009-02-11 17:43:34",
         "gid": "R0000",
         "name": "Public Library Great Falls",
         "note": "<div>\n<i class=\"NoteType\">\nNote sur le d\u00e9p\u00f4t\n</i>\n<div class=\"grampsstylednote\">\n<p>\nAsk librarian for key to the microfilm closet of <a href=\"place.html?pdx=451\">Great Falls</a> church, it is closed normally\n</p>\n</div>\n</div>",

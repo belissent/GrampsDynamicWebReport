@@ -32,13 +32,15 @@
 //     (including the persons directly referencing this place)
 //   - bkf: A list of the family index (in table 'F') for events referencing this place
 //   - bkp: A list of the places index (in table 'P') for places enclosed by this place (empty for version 4.0 and below)
+//   - change_time: last record modification date
 P = [
     {
         "bkf": [],
         "bki": [
-            1673
+            396
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:30",
         "cita": [],
         "code": "",
         "coords": [
@@ -49,41 +51,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1045
-            }
-        ],
-        "gid": "P1643",
-        "locations": [],
-        "media": [],
-        "name": "Aberdeen, SD, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Aberdeen"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            680
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1203
+                "pdx": 831
             }
         ],
         "gid": "P1131",
@@ -105,8 +73,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            270
+            183
         ],
+        "change_time": "2016-06-18 00:05:03",
         "cita": [],
         "code": "",
         "coords": [
@@ -117,7 +86,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 609
+                "pdx": 416
             }
         ],
         "gid": "P0329",
@@ -132,15 +101,16 @@ P = [
             }
         ],
         "note": "",
-        "type": "County",
+        "type": "Parish",
         "urls": []
     },
     {
         "bkf": [],
         "bki": [
-            1848
+            1002
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:30",
         "cita": [],
         "code": "",
         "coords": [
@@ -151,7 +121,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 874
+                "pdx": 596
             }
         ],
         "gid": "P1366",
@@ -173,8 +143,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            969
+            666
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -185,7 +156,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 533
+                "pdx": 364
             }
         ],
         "gid": "P0127",
@@ -207,8 +178,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            292
+            198
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -219,7 +191,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 536
+                "pdx": 366
             }
         ],
         "gid": "P0193",
@@ -238,11 +210,12 @@ P = [
         "urls": []
     },
     {
-        "bkf": [
-            650
+        "bkf": [],
+        "bki": [
+            556
         ],
-        "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:30",
         "cita": [],
         "code": "",
         "coords": [
@@ -253,7 +226,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 958
+                "pdx": 657
             }
         ],
         "gid": "P1293",
@@ -274,9 +247,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            912
+            507
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:30",
         "cita": [],
         "code": "",
         "coords": [
@@ -287,7 +261,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 757
+                "pdx": 515
             }
         ],
         "gid": "P0861",
@@ -308,9 +282,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            2061
+            1105
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:30",
         "cita": [],
         "code": "",
         "coords": [
@@ -321,7 +296,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 958
+                "pdx": 657
             }
         ],
         "gid": "P0962",
@@ -343,11 +318,12 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            37,
-            367,
-            573,
-            587
+            24,
+            251,
+            387,
+            396
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -358,7 +334,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1178
+                "pdx": 812
             }
         ],
         "gid": "P0117",
@@ -379,9 +355,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            182
+            879
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:30",
         "cita": [],
         "code": "",
         "coords": [
@@ -392,7 +369,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 872
+                "pdx": 594
             }
         ],
         "gid": "P1130",
@@ -414,27 +391,21 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            68,
-            161,
-            187,
-            228,
-            272,
-            274,
-            362,
-            516,
-            560,
+            50,
+            112,
+            129,
+            154,
+            185,
+            436,
+            443,
+            469,
+            483,
+            531,
+            546,
             634,
-            645,
-            689,
-            694,
-            718,
-            782,
-            791,
-            803,
-            929,
-            1131,
-            1165
+            778
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -445,7 +416,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1178
+                "pdx": 812
             }
         ],
         "gid": "P0048",
@@ -467,8 +438,10 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            422
+            328,
+            589
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -479,42 +452,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 384
-            }
-        ],
-        "gid": "P0374",
-        "locations": [],
-        "media": [],
-        "name": "Alachua, FL, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Alachua"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [],
-        "bkp": [
-            491,
-            866
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 155
+                "pdx": 107
             }
         ],
         "gid": "P0159",
@@ -534,10 +472,11 @@ P = [
     },
     {
         "bkf": [
-            176
+            111
         ],
         "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:30",
         "cita": [],
         "code": "",
         "coords": [
@@ -548,7 +487,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 854
+                "pdx": 580
             }
         ],
         "gid": "P1325",
@@ -569,43 +508,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1181
+            653
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "42.65257930",
-            "-73.75623170"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 17
-            }
-        ],
-        "gid": "P1446",
-        "locations": [],
-        "media": [],
-        "name": "Albany, Albany, NY, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Albany"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1163
-        ],
-        "bkp": [],
+        "change_time": "2009-02-11 23:14:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -616,7 +522,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 313
+                "pdx": 214
             }
         ],
         "gid": "P0970",
@@ -636,44 +542,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [],
-        "bkp": [
-            15
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 865
-            }
-        ],
-        "gid": "P0232",
-        "locations": [],
-        "media": [],
-        "name": "Albany, NY, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Albany"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [
-            211
+            145
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:30",
         "cita": [],
         "code": "",
         "coords": [
@@ -684,7 +557,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 884
+                "pdx": 602
             }
         ],
         "gid": "P1085",
@@ -705,43 +578,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            75
+            821
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 779
-            }
-        ],
-        "gid": "P1260",
-        "locations": [],
-        "media": [],
-        "name": "Albert Lea, MN, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Albert Lea"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1500
-        ],
-        "bkp": [],
+        "change_time": "2009-02-11 23:05:37",
         "cita": [],
         "code": "",
         "coords": [
@@ -752,7 +592,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 718
+                "pdx": 483
             }
         ],
         "gid": "P0866",
@@ -773,9 +613,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1917
+            1031
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:30",
         "cita": [],
         "code": "",
         "coords": [
@@ -786,7 +627,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 854
+                "pdx": 580
             }
         ],
         "gid": "P1398",
@@ -807,77 +648,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1412
+            777
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 745
-            }
-        ],
-        "gid": "P0894",
-        "locations": [],
-        "media": [],
-        "name": "Alexandria, MD, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Alexandria"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [
-            543
-        ],
-        "bki": [],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 779
-            }
-        ],
-        "gid": "P1568",
-        "locations": [],
-        "media": [],
-        "name": "Alexandria, MN, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Alexandria"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            79
-        ],
-        "bkp": [],
+        "change_time": "2009-02-11 23:17:29",
         "cita": [],
         "code": "",
         "coords": [
@@ -888,7 +662,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 972
+                "pdx": 669
             }
         ],
         "gid": "P0960",
@@ -909,9 +683,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            675
+            394
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:18:50",
         "cita": [],
         "code": "",
         "coords": [
@@ -922,7 +697,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 568
+                "pdx": 384
             }
         ],
         "gid": "P0964",
@@ -941,11 +716,12 @@ P = [
         "urls": []
     },
     {
-        "bkf": [],
-        "bki": [
-            969
+        "bkf": [
+            148
         ],
+        "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:30",
         "cita": [],
         "code": "",
         "coords": [
@@ -956,7 +732,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 757
+                "pdx": 515
             }
         ],
         "gid": "P1207",
@@ -976,44 +752,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [],
-        "bkp": [
-            404
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 536
-            }
-        ],
-        "gid": "P0429",
-        "locations": [],
-        "media": [],
-        "name": "Allen, IN, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Allen"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [
-            1686
+            1065
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:30",
         "cita": [],
         "code": "",
         "coords": [
@@ -1024,143 +767,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 901
-            }
-        ],
-        "gid": "P1096",
-        "locations": [],
-        "media": [],
-        "name": "Allentown, PA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Allentown"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1238
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 757
-            }
-        ],
-        "gid": "P1225",
-        "locations": [],
-        "media": [],
-        "name": "Alma, MI, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Alma"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1292
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 757
-            }
-        ],
-        "gid": "P0971",
-        "locations": [],
-        "media": [],
-        "name": "Alpena, MI, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Alpena"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1734
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 901
-            }
-        ],
-        "gid": "P1081",
-        "locations": [],
-        "media": [],
-        "name": "Altoona, PA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Altoona"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1986
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 874
+                "pdx": 596
             }
         ],
         "gid": "P0913",
@@ -1181,9 +788,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            100
+            61
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:18:50",
         "cita": [],
         "code": "",
         "coords": [
@@ -1194,7 +802,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 955
+                "pdx": 654
             }
         ],
         "gid": "P1349",
@@ -1213,45 +821,12 @@ P = [
         "urls": []
     },
     {
-        "bkf": [
-            257
-        ],
-        "bki": [],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "32.07238620",
-            "-84.23268760"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1123
-            }
-        ],
-        "gid": "P1347",
-        "locations": [],
-        "media": [],
-        "name": "Americus, Sumter, GA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Americus"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
         "bkf": [],
         "bki": [
-            1081
+            600
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:15:22",
         "cita": [],
         "code": "",
         "coords": [
@@ -1262,7 +837,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1116
+                "pdx": 766
             }
         ],
         "gid": "P1460",
@@ -1283,9 +858,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            364
+            224
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:18:11",
         "cita": [],
         "code": "",
         "coords": [
@@ -1296,7 +872,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 796
+                "pdx": 542
             }
         ],
         "gid": "P1696",
@@ -1317,9 +893,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1717
+            940
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:30",
         "cita": [],
         "code": "",
         "coords": [
@@ -1330,7 +907,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 9
+                "pdx": 8
             }
         ],
         "gid": "P1133",
@@ -1351,77 +928,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            162
+            155
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "40.10531960",
-            "-85.68025410"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 697
-            }
-        ],
-        "gid": "P1474",
-        "locations": [],
-        "media": [],
-        "name": "Anderson, Madison, IN, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Anderson"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            387
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1039
-            }
-        ],
-        "gid": "P1007",
-        "locations": [],
-        "media": [],
-        "name": "Anderson, SC, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Anderson"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            225
-        ],
-        "bkp": [],
+        "change_time": "2009-02-11 23:18:50",
         "cita": [],
         "code": "",
         "coords": [
@@ -1432,7 +942,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 41
+                "pdx": 26
             }
         ],
         "gid": "P1104",
@@ -1454,8 +964,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            40
+            25
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -1466,7 +977,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1170
+                "pdx": 804
             }
         ],
         "gid": "P0123",
@@ -1486,44 +997,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [],
-        "bkp": [
-            683
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1170
-            }
-        ],
-        "gid": "P0377",
-        "locations": [],
-        "media": [],
-        "name": "Angelina, TX, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Angelina"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [
-            1013
+            566
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:16:28",
         "cita": [],
         "code": "",
         "coords": [
@@ -1534,7 +1012,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1109
+                "pdx": 761
             }
         ],
         "gid": "P1583",
@@ -1555,9 +1033,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1682
+            926
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:30",
         "cita": [],
         "code": "",
         "coords": [
@@ -1568,7 +1047,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 757
+                "pdx": 515
             }
         ],
         "gid": "P1391",
@@ -1589,9 +1068,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            932
+            527
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:05:37",
         "cita": [],
         "code": "",
         "coords": [
@@ -1602,7 +1082,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 161
+                "pdx": 112
             }
         ],
         "gid": "P0965",
@@ -1624,8 +1104,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            1049
+            719
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -1636,7 +1117,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1178
+                "pdx": 812
             }
         ],
         "gid": "P0175",
@@ -1658,24 +1139,15 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            119,
-            208,
-            236,
-            264,
-            429,
-            454,
-            493,
-            537,
-            770,
-            776,
-            895,
-            924,
-            946,
-            964,
-            1095,
-            1219,
-            1245
+            145,
+            289,
+            302,
+            330,
+            610,
+            842,
+            858
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -1686,7 +1158,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1178
+                "pdx": 812
             }
         ],
         "gid": "P0036",
@@ -1707,9 +1179,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            601
+            368
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:13:43",
         "cita": [],
         "code": "",
         "coords": [
@@ -1720,7 +1193,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 305
+                "pdx": 210
             }
         ],
         "gid": "P0959",
@@ -1741,9 +1214,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            848
+            1068
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -1754,7 +1228,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 874
+                "pdx": 596
             }
         ],
         "gid": "P1272",
@@ -1775,9 +1249,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1499
+            820
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:08:30",
         "cita": [],
         "code": "",
         "coords": [
@@ -1788,7 +1263,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 208
+                "pdx": 145
             }
         ],
         "gid": "P1057",
@@ -1809,9 +1284,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1773
+            419
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -1822,7 +1298,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1184
+                "pdx": 817
             }
         ],
         "gid": "P1126",
@@ -1842,10 +1318,11 @@ P = [
     },
     {
         "bkf": [
-            83
+            61
         ],
         "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -1856,7 +1333,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 834
+                "pdx": 564
             }
         ],
         "gid": "P1269",
@@ -1877,9 +1354,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1634
+            901
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -1890,7 +1368,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 872
+                "pdx": 594
             }
         ],
         "gid": "P1484",
@@ -1911,9 +1389,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            377
+            911
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -1924,7 +1403,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 872
+                "pdx": 594
             }
         ],
         "gid": "P1332",
@@ -1945,9 +1424,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            672
+            393
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -1958,7 +1438,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 884
+                "pdx": 602
             }
         ],
         "gid": "P0897",
@@ -1979,9 +1459,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            963
+            541
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:16:44",
         "cita": [],
         "code": "",
         "coords": [
@@ -1992,7 +1473,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 57
+                "pdx": 41
             }
         ],
         "gid": "P1442",
@@ -2014,8 +1495,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            56
+            40
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -2026,7 +1508,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 601
+                "pdx": 408
             }
         ],
         "gid": "P0412",
@@ -2047,9 +1529,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            979
+            554
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:14:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -2060,7 +1543,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 209
+                "pdx": 146
             }
         ],
         "gid": "P1023",
@@ -2081,9 +1564,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1400
+            772
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:18:50",
         "cita": [],
         "code": "",
         "coords": [
@@ -2094,7 +1578,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 495
+                "pdx": 332
             }
         ],
         "gid": "P1326",
@@ -2114,10 +1598,11 @@ P = [
     },
     {
         "bkf": [
-            195
+            126
         ],
         "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -2128,7 +1613,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 872
+                "pdx": 594
             }
         ],
         "gid": "P0874",
@@ -2149,9 +1634,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1919
+            1032
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:14:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -2162,7 +1648,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 415
+                "pdx": 281
             }
         ],
         "gid": "P1029",
@@ -2183,43 +1669,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1586
+            1128
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "42.93173350",
-            "-76.56605290"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 180
-            }
-        ],
-        "gid": "P0921",
-        "locations": [],
-        "media": [],
-        "name": "Auburn, Cayuga, NY, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Auburn"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            2097
-        ],
-        "bkp": [],
+        "change_time": "2009-02-11 23:05:37",
         "cita": [],
         "code": "",
         "coords": [
@@ -2230,7 +1683,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 645
+                "pdx": 443
             }
         ],
         "gid": "P1211",
@@ -2249,11 +1702,12 @@ P = [
         "urls": []
     },
     {
-        "bkf": [],
-        "bki": [
-            1532
+        "bkf": [
+            354
         ],
+        "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -2264,7 +1718,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 746
+                "pdx": 508
             }
         ],
         "gid": "P1210",
@@ -2283,53 +1737,17 @@ P = [
         "urls": []
     },
     {
-        "bkf": [
-            13
-        ],
-        "bki": [],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 779
-            }
-        ],
-        "gid": "P1401",
-        "locations": [],
-        "media": [],
-        "name": "Austin, MN, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Austin"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
         "bkf": [],
         "bki": [],
         "bkp": [
-            225,
-            226,
-            435,
-            441,
-            709,
-            785,
-            930,
-            1031,
-            1286
+            292,
+            296,
+            476,
+            635,
+            707,
+            887
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -2340,7 +1758,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1178
+                "pdx": 812
             }
         ],
         "gid": "P0114",
@@ -2361,9 +1779,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            592
+            360
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:14:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -2374,7 +1793,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 293
+                "pdx": 199
             }
         ],
         "gid": "P1480",
@@ -2396,8 +1815,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            281
+            190
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -2408,7 +1828,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 11
+                "pdx": 10
             }
         ],
         "gid": "P0168",
@@ -2430,8 +1850,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            769
+            523
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -2442,7 +1863,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 419
+                "pdx": 284
             }
         ],
         "gid": "P0418",
@@ -2463,9 +1884,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            93
+            56
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -2476,7 +1898,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 745
+                "pdx": 507
             }
         ],
         "gid": "P1621",
@@ -2496,44 +1918,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [
-            596
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 746
-            }
-        ],
-        "gid": "P0917",
-        "locations": [],
-        "media": [],
-        "name": "Bangor, ME, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Bangor"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [],
         "bkp": [
-            938
+            641
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -2544,7 +1933,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 531
+                "pdx": 362
             }
         ],
         "gid": "P0372",
@@ -2565,9 +1954,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            632
+            379
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -2578,7 +1968,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1250
+                "pdx": 863
             }
         ],
         "gid": "P1314",
@@ -2599,9 +1989,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1007
+            561
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -2612,7 +2003,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 687
+                "pdx": 468
             }
         ],
         "gid": "P0911",
@@ -2634,8 +2025,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            437
+            293
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -2646,7 +2038,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 603
+                "pdx": 410
             }
         ],
         "gid": "P0147",
@@ -2668,8 +2060,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            242
+            165
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -2680,7 +2073,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 536
+                "pdx": 366
             }
         ],
         "gid": "P0225",
@@ -2701,9 +2094,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1500
+            821
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -2714,7 +2108,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 874
+                "pdx": 596
             }
         ],
         "gid": "P1276",
@@ -2735,111 +2129,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            2029
+            397
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "42.99811560",
-            "-78.18751670"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 431
-            }
-        ],
-        "gid": "P1142",
-        "locations": [],
-        "media": [],
-        "name": "Batavia, Genesee, NY, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Batavia"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [
-            204
-        ],
-        "bki": [],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "35.76979900",
-            "-91.64097220"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 537
-            }
-        ],
-        "gid": "P1087",
-        "locations": [],
-        "media": [],
-        "name": "Batesville, Independence, AR, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Batesville"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            73
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "30.45074620",
-            "-91.15455100"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 334
-            }
-        ],
-        "gid": "P1256",
-        "locations": [],
-        "media": [],
-        "name": "Baton Rouge, East Baton Rouge, LA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Baton Rouge"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            686
-        ],
-        "bkp": [],
+        "change_time": "2009-02-11 18:29:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -2850,7 +2143,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 757
+                "pdx": 515
             }
         ],
         "gid": "P1523",
@@ -2869,11 +2162,12 @@ P = [
         "urls": []
     },
     {
-        "bkf": [
-            450
+        "bkf": [],
+        "bki": [
+            711
         ],
-        "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 23:18:50",
         "cita": [],
         "code": "",
         "coords": [
@@ -2884,7 +2178,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 731
+                "pdx": 495
             }
         ],
         "gid": "P1027",
@@ -2904,44 +2198,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [
-            1004
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 757
-            }
-        ],
-        "gid": "P1687",
-        "locations": [],
-        "media": [],
-        "name": "Bay City, MI, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Bay City"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [],
         "bkp": [
-            911
+            621
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -2952,7 +2213,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 384
+                "pdx": 261
             }
         ],
         "gid": "P0248",
@@ -2973,9 +2234,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            257
+            168
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:18:50",
         "cita": [],
         "code": "",
         "coords": [
@@ -2986,7 +2248,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 564
+                "pdx": 382
             }
         ],
         "gid": "P1348",
@@ -3007,9 +2269,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1813
+            214
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -3020,41 +2283,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1250
-            }
-        ],
-        "gid": "P1660",
-        "locations": [],
-        "media": [],
-        "name": "Beaver Dam, WI, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Beaver Dam"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            352
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1276
+                "pdx": 879
             }
         ],
         "gid": "P1461",
@@ -3073,45 +2302,12 @@ P = [
         "urls": []
     },
     {
-        "bkf": [
-            653
-        ],
-        "bki": [],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "38.86116190",
-            "-86.48721490"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 640
-            }
-        ],
-        "gid": "P1258",
-        "locations": [],
-        "media": [],
-        "name": "Bedford, Lawrence, IN, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Bedford"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
         "bkf": [],
         "bki": [],
         "bkp": [
-            90
+            65
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -3122,7 +2318,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1170
+                "pdx": 804
             }
         ],
         "gid": "P0236",
@@ -3142,10 +2338,11 @@ P = [
     },
     {
         "bkf": [
-            437
+            286
         ],
         "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 23:18:50",
         "cita": [],
         "code": "",
         "coords": [
@@ -3156,7 +2353,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 89
+                "pdx": 64
             }
         ],
         "gid": "P1137",
@@ -3178,8 +2375,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            590
+            399
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -3190,7 +2388,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1170
+                "pdx": 804
             }
         ],
         "gid": "P0273",
@@ -3211,9 +2409,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            748
+            417
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -3224,7 +2423,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1203
+                "pdx": 831
             }
         ],
         "gid": "P1189",
@@ -3244,44 +2443,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [
-            502
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 779
-            }
-        ],
-        "gid": "P1543",
-        "locations": [],
-        "media": [],
-        "name": "Bemidji, MN, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Bemidji"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [],
         "bkp": [
-            383
+            260
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -3292,7 +2458,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 419
+                "pdx": 284
             }
         ],
         "gid": "P0261",
@@ -3313,9 +2479,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            322
+            192
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -3326,7 +2493,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1039
+                "pdx": 712
             }
         ],
         "gid": "P1340",
@@ -3346,10 +2513,11 @@ P = [
     },
     {
         "bkf": [
-            387
+            256
         ],
         "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -3360,7 +2528,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1202
+                "pdx": 830
             }
         ],
         "gid": "P1538",
@@ -3380,44 +2548,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [],
-        "bkp": [
-            934
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 687
-            }
-        ],
-        "gid": "P0076",
-        "locations": [],
-        "media": [],
-        "name": "Berkshire, MA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Berkshire"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [
-            1066
+            544
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -3428,41 +2563,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 851
-            }
-        ],
-        "gid": "P1146",
-        "locations": [],
-        "media": [],
-        "name": "Berlin, NH, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Berlin"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            966
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 745
+                "pdx": 507
             }
         ],
         "gid": "P0857",
@@ -3484,8 +2585,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            1015
+            696
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -3496,7 +2598,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1170
+                "pdx": 804
             }
         ],
         "gid": "P0030",
@@ -3518,8 +2620,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            690
+            470
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -3530,7 +2633,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 419
+                "pdx": 284
             }
         ],
         "gid": "P0381",
@@ -3551,43 +2654,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1695
+            806
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 757
-            }
-        ],
-        "gid": "P1686",
-        "locations": [],
-        "media": [],
-        "name": "Big Rapids, MI, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Big Rapids"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1476
-        ],
-        "bkp": [],
+        "change_time": "2009-02-11 23:18:50",
         "cita": [],
         "code": "",
         "coords": [
@@ -3598,7 +2668,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 521
+                "pdx": 353
             }
         ],
         "gid": "P1197",
@@ -3619,9 +2689,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            215
+            837
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -3632,7 +2703,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 819
+                "pdx": 557
             }
         ],
         "gid": "P1237",
@@ -3651,45 +2722,12 @@ P = [
         "urls": []
     },
     {
-        "bkf": [],
-        "bki": [],
-        "bkp": [
-            110
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 531
-            }
-        ],
-        "gid": "P0071",
-        "locations": [],
-        "media": [],
-        "name": "Bingham, ID, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Bingham"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
         "bkf": [
-            325
+            208
         ],
         "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 23:18:11",
         "cita": [],
         "code": "",
         "coords": [
@@ -3700,7 +2738,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 140
+                "pdx": 95
             }
         ],
         "gid": "P1537",
@@ -3721,77 +2759,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1772
+            639
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "33.52066080",
-            "-86.80249000"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 560
-            }
-        ],
-        "gid": "P1578",
-        "locations": [],
-        "media": [],
-        "name": "Birmingham, Jefferson, AL, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Birmingham"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            845
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "37.36354040",
-            "-118.39511010"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 541
-            }
-        ],
-        "gid": "P0856",
-        "locations": [],
-        "media": [],
-        "name": "Bishop, Inyo, CA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Bishop"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1148
-        ],
-        "bkp": [],
+        "change_time": "2009-02-11 18:29:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -3802,7 +2773,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 835
+                "pdx": 565
             }
         ],
         "gid": "P1329",
@@ -3821,79 +2792,12 @@ P = [
         "urls": []
     },
     {
-        "bkf": [
-            657
-        ],
-        "bki": [],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "43.19047090",
-            "-112.34497730"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 105
-            }
-        ],
-        "gid": "P1011",
-        "locations": [],
-        "media": [],
-        "name": "Blackfoot, Bingham, ID, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Blackfoot"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [
-            255
-        ],
-        "bki": [],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1184
-            }
-        ],
-        "gid": "P0922",
-        "locations": [],
-        "media": [],
-        "name": "Blacksburg, VA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Blacksburg"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
         "bkf": [],
         "bki": [
-            634
+            380
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:16:28",
         "cita": [],
         "code": "",
         "coords": [
@@ -3904,7 +2808,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 786
+                "pdx": 534
             }
         ],
         "gid": "P1288",
@@ -3925,9 +2829,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1158
+            649
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -3938,7 +2843,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 901
+                "pdx": 614
             }
         ],
         "gid": "P1622",
@@ -3959,77 +2864,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1797
+            249
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1275
-            }
-        ],
-        "gid": "P1171",
-        "locations": [],
-        "media": [],
-        "name": "Bluefield, WV-VA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Bluefield"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [
-            457
-        ],
-        "bki": [],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "35.92729530",
-            "-89.91897540"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 776
-            }
-        ],
-        "gid": "P1667",
-        "locations": [],
-        "media": [],
-        "name": "Blytheville, Mississippi, AR, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Blytheville"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            437
-        ],
-        "bkp": [],
+        "change_time": "2009-02-11 23:17:29",
         "cita": [],
         "code": "",
         "coords": [
@@ -4040,7 +2878,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1222
+                "pdx": 844
             }
         ],
         "gid": "P1132",
@@ -4061,9 +2899,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            103
+            62
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -4074,7 +2913,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 531
+                "pdx": 362
             }
         ],
         "gid": "P0973",
@@ -4096,8 +2935,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            532
+            363
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -4108,7 +2948,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 531
+                "pdx": 362
             }
         ],
         "gid": "P0290",
@@ -4128,44 +2968,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [],
-        "bkp": [
-            482
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 47
-            }
-        ],
-        "gid": "P0250",
-        "locations": [],
-        "media": [],
-        "name": "Boone, AR, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Boone"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [
-            1030
+            576
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:15:22",
         "cita": [],
         "code": "",
         "coords": [
@@ -4176,7 +2983,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 121
+                "pdx": 84
             }
         ],
         "gid": "P0958",
@@ -4198,8 +3005,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            120
+            83
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -4210,7 +3018,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 530
+                "pdx": 361
             }
         ],
         "gid": "P0082",
@@ -4231,43 +3039,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1289
+            533
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 834
-            }
-        ],
-        "gid": "P0972",
-        "locations": [],
-        "media": [],
-        "name": "Boone, NC, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Boone"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            950
-        ],
-        "bkp": [],
+        "change_time": "2009-02-11 23:17:46",
         "cita": [],
         "code": "",
         "coords": [
@@ -4278,7 +3053,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1118
+                "pdx": 767
             }
         ],
         "gid": "P1328",
@@ -4299,9 +3074,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1590
+            872
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:11:30",
         "cita": [],
         "code": "",
         "coords": [
@@ -4312,7 +3088,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 125
+                "pdx": 87
             }
         ],
         "gid": "P1559",
@@ -4334,8 +3110,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            124
+            86
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -4346,7 +3123,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 223
+                "pdx": 153
             }
         ],
         "gid": "P0286",
@@ -4367,9 +3144,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            848
+            1068
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:17:06",
         "cita": [],
         "code": "",
         "coords": [
@@ -4380,7 +3158,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1214
+                "pdx": 840
             }
         ],
         "gid": "P0863",
@@ -4402,8 +3180,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            278
+            188
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -4414,7 +3193,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 603
+                "pdx": 410
             }
         ],
         "gid": "P0382",
@@ -4435,9 +3214,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1279
+            243
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -4448,41 +3228,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 819
-            }
-        ],
-        "gid": "P1151",
-        "locations": [],
-        "media": [],
-        "name": "Bozeman, MT, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Bozeman"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            431
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 779
+                "pdx": 529
             }
         ],
         "gid": "P1672",
@@ -4503,9 +3249,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1665
+            919
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -4516,7 +3263,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 780
+                "pdx": 530
             }
         ],
         "gid": "P0979",
@@ -4538,8 +3285,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            232
+            158
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -4550,7 +3298,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1170
+                "pdx": 804
             }
         ],
         "gid": "P0112",
@@ -4571,9 +3319,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1790
+            1114
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -4584,109 +3333,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1203
-            }
-        ],
-        "gid": "P0886",
-        "locations": [],
-        "media": [],
-        "name": "Bremerton, WA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Bremerton"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1291
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "30.16688280",
-            "-96.39774420"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1225
-            }
-        ],
-        "gid": "P1600",
-        "locations": [],
-        "media": [],
-        "name": "Brenham, Washington, TX, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Brenham"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [],
-        "bkp": [
-            906
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 384
-            }
-        ],
-        "gid": "P0295",
-        "locations": [],
-        "media": [],
-        "name": "Brevard, FL, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Brevard"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            351
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 834
+                "pdx": 564
             }
         ],
         "gid": "P1658",
@@ -4707,43 +3354,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1842
+            366
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "41.16704120",
-            "-73.20483480"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 368
-            }
-        ],
-        "gid": "P1072",
-        "locations": [],
-        "media": [],
-        "name": "Bridgeport, Fairfield, CT, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Bridgeport"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            599
-        ],
-        "bkp": [],
+        "change_time": "2009-02-11 18:29:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -4754,7 +3368,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 853
+                "pdx": 579
             }
         ],
         "gid": "P1069",
@@ -4774,78 +3388,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [
-            1298
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 818
-            }
-        ],
-        "gid": "P1052",
-        "locations": [],
-        "media": [],
-        "name": "Brookhaven, MS, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Brookhaven"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1285
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 884
-            }
-        ],
-        "gid": "P1436",
-        "locations": [],
-        "media": [],
-        "name": "Brookings, OR, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Brookings"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [],
         "bkp": [
-            106
+            76
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -4856,7 +3403,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 865
+                "pdx": 588
             }
         ],
         "gid": "P0326",
@@ -4878,8 +3425,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            397
+            268
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -4890,7 +3438,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 384
+                "pdx": 261
             }
         ],
         "gid": "P0052",
@@ -4911,9 +3459,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            217
+            151
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:18:50",
         "cita": [],
         "code": "",
         "coords": [
@@ -4924,7 +3473,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 167
+                "pdx": 117
             }
         ],
         "gid": "P1664",
@@ -4945,9 +3494,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1756
+            964
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -4958,7 +3508,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1152
+                "pdx": 792
             }
         ],
         "gid": "P1143",
@@ -4979,9 +3529,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            352
+            214
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:18:50",
         "cita": [],
         "code": "",
         "coords": [
@@ -4992,7 +3543,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 480
+                "pdx": 324
             }
         ],
         "gid": "P1190",
@@ -5013,9 +3564,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1574
+            863
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -5026,7 +3578,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 872
+                "pdx": 594
             }
         ],
         "gid": "P1361",
@@ -5048,8 +3600,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            1115
+            765
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -5060,7 +3613,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 530
+                "pdx": 361
             }
         ],
         "gid": "P0146",
@@ -5080,10 +3633,11 @@ P = [
     },
     {
         "bkf": [
-            89
+            63
         ],
         "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 23:18:11",
         "cita": [],
         "code": "",
         "coords": [
@@ -5094,7 +3648,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 358
+                "pdx": 245
             }
         ],
         "gid": "P1267",
@@ -5114,44 +3668,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [],
-        "bkp": [
-            1103
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 419
-            }
-        ],
-        "gid": "P0221",
-        "locations": [],
-        "media": [],
-        "name": "Bulloch, GA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Bulloch"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [
-            1909
+            1027
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:15:43",
         "cita": [],
         "code": "",
         "coords": [
@@ -5162,7 +3683,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 178
+                "pdx": 125
             }
         ],
         "gid": "P1247",
@@ -5183,9 +3704,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            969
+            1018
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:15:22",
         "cita": [],
         "code": "",
         "coords": [
@@ -5196,7 +3718,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 303
+                "pdx": 208
             }
         ],
         "gid": "P0977",
@@ -5217,9 +3739,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            202
+            151
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -5230,41 +3753,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 834
-            }
-        ],
-        "gid": "P1322",
-        "locations": [],
-        "media": [],
-        "name": "Burlington, NC, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Burlington"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1844
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1202
+                "pdx": 830
             }
         ],
         "gid": "P1445",
@@ -5284,44 +3773,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [],
-        "bkp": [
-            202
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 155
-            }
-        ],
-        "gid": "P0350",
-        "locations": [],
-        "media": [],
-        "name": "Butte, CA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Butte"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [
-            1755
+            963
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -5332,7 +3788,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 819
+                "pdx": 557
             }
         ],
         "gid": "P1045",
@@ -5354,40 +3810,30 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            13,
-            153,
-            267,
-            413,
-            475,
-            523,
-            535,
-            541,
-            619,
-            676,
-            692,
-            749,
-            751,
-            790,
-            827,
-            885,
-            988,
-            1016,
-            1018,
-            1021,
-            1023,
-            1025,
-            1032,
-            1036,
-            1058,
-            1076,
-            1099,
-            1126,
-            1141,
-            1161,
-            1163,
-            1191,
-            1285
+            11,
+            180,
+            279,
+            319,
+            355,
+            423,
+            510,
+            512,
+            538,
+            603,
+            681,
+            697,
+            700,
+            702,
+            726,
+            753,
+            773,
+            785,
+            798,
+            799,
+            822,
+            886
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -5398,7 +3844,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1178
+                "pdx": 812
             }
         ],
         "gid": "P0007",
@@ -5418,44 +3864,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [
-            1964
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 958
-            }
-        ],
-        "gid": "P0974",
-        "locations": [],
-        "media": [],
-        "name": "Cabo Rojo, PR, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Cabo Rojo"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [],
         "bkp": [
-            1067
+            732
         ],
+        "change_time": "2016-06-18 00:05:03",
         "cita": [],
         "code": "",
         "coords": [
@@ -5466,7 +3879,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 609
+                "pdx": 416
             }
         ],
         "gid": "P0167",
@@ -5481,15 +3894,16 @@ P = [
             }
         ],
         "note": "",
-        "type": "County",
+        "type": "Parish",
         "urls": []
     },
     {
         "bkf": [],
         "bki": [
-            1470
+            802
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -5500,7 +3914,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 757
+                "pdx": 515
             }
         ],
         "gid": "P1618",
@@ -5521,9 +3935,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1405
+            572
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -5534,7 +3949,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 958
+                "pdx": 657
             }
         ],
         "gid": "P1368",
@@ -5556,8 +3971,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            615
+            420
         ],
+        "change_time": "2016-06-18 00:05:03",
         "cita": [],
         "code": "",
         "coords": [
@@ -5568,7 +3984,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 609
+                "pdx": 416
             }
         ],
         "gid": "P0063",
@@ -5583,15 +3999,16 @@ P = [
             }
         ],
         "note": "",
-        "type": "County",
+        "type": "Parish",
         "urls": []
     },
     {
         "bkf": [],
         "bki": [],
         "bkp": [
-            45
+            29
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -5602,7 +4019,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 11
+                "pdx": 10
             }
         ],
         "gid": "P0405",
@@ -5623,9 +4040,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            215
+            149
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -5636,7 +4054,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 745
+                "pdx": 507
             }
         ],
         "gid": "P1569",
@@ -5657,43 +4075,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1201
+            138
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "42.24453770",
-            "-71.81201570"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 765
-            }
-        ],
-        "gid": "P1036",
-        "locations": [],
-        "media": [],
-        "name": "Cambridge, Middlesex, MA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Cambridge"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            204
-        ],
-        "bkp": [],
+        "change_time": "2009-02-11 18:29:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -5704,7 +4089,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 872
+                "pdx": 594
             }
         ],
         "gid": "P1297",
@@ -5725,9 +4110,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1564
+            860
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -5738,7 +4124,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 853
+                "pdx": 579
             }
         ],
         "gid": "P1208",
@@ -5759,9 +4145,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            206
+            140
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:08:30",
         "cita": [],
         "code": "",
         "coords": [
@@ -5772,7 +4159,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 895
+                "pdx": 610
             }
         ],
         "gid": "P1127",
@@ -5794,8 +4181,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            142
+            97
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -5806,7 +4194,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1170
+                "pdx": 804
             }
         ],
         "gid": "P0339",
@@ -5827,43 +4215,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1164
+            242
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "37.34339740",
-            "-85.34190690"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1138
-            }
-        ],
-        "gid": "P1648",
-        "locations": [],
-        "media": [],
-        "name": "Campbellsville, Taylor, KY, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Campbellsville"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            430
-        ],
-        "bkp": [],
+        "change_time": "2009-02-11 18:29:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -5874,7 +4229,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 223
+                "pdx": 153
             }
         ],
         "gid": "P1495",
@@ -5894,10 +4249,11 @@ P = [
     },
     {
         "bkf": [
-            635
+            416
         ],
         "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 23:16:09",
         "cita": [],
         "code": "",
         "coords": [
@@ -5908,7 +4264,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 416
+                "pdx": 282
             }
         ],
         "gid": "P1140",
@@ -5929,9 +4285,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            2097
+            1128
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -5942,7 +4299,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 872
+                "pdx": 594
             }
         ],
         "gid": "P0981",
@@ -5963,9 +4320,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            979
+            554
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -5976,7 +4334,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 384
+                "pdx": 261
             }
         ],
         "gid": "P1214",
@@ -5997,9 +4355,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1699
+            933
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -6010,7 +4369,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 780
+                "pdx": 530
             }
         ],
         "gid": "P1595",
@@ -6031,43 +4390,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            573
+            1001
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "37.72727270",
-            "-89.21675010"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 545
-            }
-        ],
-        "gid": "P1690",
-        "locations": [],
-        "media": [],
-        "name": "Carbondale, Jackson, IL, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Carbondale"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1847
-        ],
-        "bkp": [],
+        "change_time": "2009-02-11 18:29:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -6078,7 +4404,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 854
+                "pdx": 580
             }
         ],
         "gid": "P1235",
@@ -6099,9 +4425,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1490
+            1041
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -6112,7 +4439,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 864
+                "pdx": 587
             }
         ],
         "gid": "P1462",
@@ -6132,44 +4459,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [
-            199
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1277
-            }
-        ],
-        "gid": "P0909",
-        "locations": [],
-        "media": [],
-        "name": "Casper, WY, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Casper"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [],
         "bkp": [
-            149
+            103
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -6180,7 +4474,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 531
+                "pdx": 362
             }
         ],
         "gid": "P0095",
@@ -6200,78 +4494,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [],
-        "bkp": [
-            877
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 865
-            }
-        ],
-        "gid": "P0251",
-        "locations": [],
-        "media": [],
-        "name": "Cattaraugus, NY, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Cattaraugus"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [],
-        "bkp": [
-            62
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 865
-            }
-        ],
-        "gid": "P0210",
-        "locations": [],
-        "media": [],
-        "name": "Cayuga, NY, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Cayuga"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [
-            651
+            386
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -6282,7 +4509,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1180
+                "pdx": 814
             }
         ],
         "gid": "P0871",
@@ -6303,9 +4530,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1909
+            1027
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:14:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -6316,7 +4544,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 941
+                "pdx": 644
             }
         ],
         "gid": "P1016",
@@ -6335,113 +4563,12 @@ P = [
         "urls": []
     },
     {
-        "bkf": [],
-        "bki": [
-            269
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 872
-            }
-        ],
-        "gid": "P0895",
-        "locations": [],
-        "media": [],
-        "name": "Celina, OH, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Celina"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1759
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "37.29393220",
-            "-87.12332920"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 820
-            }
-        ],
-        "gid": "P1047",
-        "locations": [],
-        "media": [],
-        "name": "Central City, Muhlenberg, KY, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Central City"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1459
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "38.52504910",
-            "-89.13340370"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 715
-            }
-        ],
-        "gid": "P1364",
-        "locations": [],
-        "media": [],
-        "name": "Centralia, Marion, IL, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Centralia"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
         "bkf": [
-            468
+            306
         ],
         "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -6452,7 +4579,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1203
+                "pdx": 831
             }
         ],
         "gid": "P1464",
@@ -6474,8 +4601,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            1188
+            820
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -6486,7 +4614,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 11
+                "pdx": 10
             }
         ],
         "gid": "P0267",
@@ -6507,9 +4635,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1186
+            673
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:16:09",
         "cita": [],
         "code": "",
         "coords": [
@@ -6520,7 +4649,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 189
+                "pdx": 131
             }
         ],
         "gid": "P1453",
@@ -6542,8 +4671,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            188
+            130
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -6554,7 +4684,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 534
+                "pdx": 365
             }
         ],
         "gid": "P0380",
@@ -6573,79 +4703,12 @@ P = [
         "urls": []
     },
     {
-        "bkf": [
-            636
-        ],
-        "bki": [],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1039
-            }
-        ],
-        "gid": "P0936",
-        "locations": [],
-        "media": [],
-        "name": "Charleston, SC, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Charleston"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [
-            454
-        ],
-        "bki": [],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1276
-            }
-        ],
-        "gid": "P1509",
-        "locations": [],
-        "media": [],
-        "name": "Charleston, WV, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Charleston"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
         "bkf": [],
         "bki": [],
         "bkp": [
-            967
+            664
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -6656,7 +4719,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 384
+                "pdx": 261
             }
         ],
         "gid": "P0204",
@@ -6677,9 +4740,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            537
+            629
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -6690,7 +4754,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 834
+                "pdx": 564
             }
         ],
         "gid": "P0901",
@@ -6712,8 +4776,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            1038
+            711
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -6724,7 +4789,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 419
+                "pdx": 284
             }
         ],
         "gid": "P0129",
@@ -6745,9 +4810,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1648
+            907
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -6758,7 +4824,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1151
+                "pdx": 791
             }
         ],
         "gid": "P0890",
@@ -6780,8 +4846,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            1120
+            769
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -6792,7 +4859,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 419
+                "pdx": 284
             }
         ],
         "gid": "P0153",
@@ -6814,8 +4881,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            352
+            239
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -6826,7 +4894,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 865
+                "pdx": 588
             }
         ],
         "gid": "P0415",
@@ -6848,8 +4916,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            550
+            373
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -6860,7 +4929,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1170
+                "pdx": 804
             }
         ],
         "gid": "P0113",
@@ -6881,9 +4950,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1491
+            817
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -6894,7 +4964,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1039
+                "pdx": 712
             }
         ],
         "gid": "P1610",
@@ -6915,9 +4985,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1577
+            865
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -6928,7 +4999,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1277
+                "pdx": 880
             }
         ],
         "gid": "P1245",
@@ -6949,9 +5020,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1699
+            933
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:16:09",
         "cita": [],
         "code": "",
         "coords": [
@@ -6962,7 +5034,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 249
+                "pdx": 171
             }
         ],
         "gid": "P1175",
@@ -6983,43 +5055,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            314
+            924
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "39.72849450",
-            "-121.83747770"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 153
-            }
-        ],
-        "gid": "P1607",
-        "locations": [],
-        "media": [],
-        "name": "Chico, Butte, CA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Chico"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [
-            221
-        ],
-        "bki": [],
-        "bkp": [],
+        "change_time": "2009-02-11 18:29:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -7030,7 +5069,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 872
+                "pdx": 594
             }
         ],
         "gid": "P1150",
@@ -7052,8 +5091,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            1140
+            343
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -7064,75 +5104,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 534
-            }
-        ],
-        "gid": "P0195",
-        "locations": [],
-        "media": [],
-        "name": "Christian, IL, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Christian"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            380
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 872
-            }
-        ],
-        "gid": "P1608",
-        "locations": [],
-        "media": [],
-        "name": "Cincinnati, OH, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Cincinnati"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [],
-        "bkp": [
-            508
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 384
+                "pdx": 261
             }
         ],
         "gid": "P0378",
@@ -7153,9 +5125,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            353
+            215
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -7166,7 +5139,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 884
+                "pdx": 602
             }
         ],
         "gid": "P1511",
@@ -7188,8 +5161,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            50
+            34
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -7200,7 +5174,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 47
+                "pdx": 31
             }
         ],
         "gid": "P0306",
@@ -7222,8 +5196,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            58
+            42
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -7234,7 +5209,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 419
+                "pdx": 284
             }
         ],
         "gid": "P0385",
@@ -7254,10 +5229,11 @@ P = [
     },
     {
         "bkf": [
-            420
+            274
         ],
         "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -7268,7 +5244,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1276
+                "pdx": 879
             }
         ],
         "gid": "P1597",
@@ -7288,44 +5264,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [
-            38
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 818
-            }
-        ],
-        "gid": "P1059",
-        "locations": [],
-        "media": [],
-        "name": "Clarksdale, MS, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Clarksdale"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [],
         "bkp": [
-            1083
+            741
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -7336,7 +5279,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 530
+                "pdx": 361
             }
         ],
         "gid": "P0403",
@@ -7357,9 +5300,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            57
+            38
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:11:01",
         "cita": [],
         "code": "",
         "coords": [
@@ -7370,7 +5314,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 619
+                "pdx": 423
             }
         ],
         "gid": "P1666",
@@ -7391,43 +5335,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1660
+            727
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "27.96585330",
-            "-82.80010260"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 931
-            }
-        ],
-        "gid": "P0882",
-        "locations": [],
-        "media": [],
-        "name": "Clearwater, Pinellas, FL, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Clearwater"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1316
-        ],
-        "bkp": [],
+        "change_time": "2009-02-11 18:29:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -7438,7 +5349,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 818
+                "pdx": 556
             }
         ],
         "gid": "P1360",
@@ -7459,9 +5370,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            872
+            470
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -7472,7 +5384,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 872
+                "pdx": 594
             }
         ],
         "gid": "P0879",
@@ -7492,78 +5404,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [
-            2082
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1152
-            }
-        ],
-        "gid": "P1194",
-        "locations": [],
-        "media": [],
-        "name": "Cleveland, TN, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Cleveland"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1247
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "41.84447350",
-            "-90.18873790"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 219
-            }
-        ],
-        "gid": "P1013",
-        "locations": [],
-        "media": [],
-        "name": "Clinton, Clinton, IA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Clinton"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [],
         "bkp": [
-            218
+            639
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -7574,75 +5419,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 530
-            }
-        ],
-        "gid": "P0124",
-        "locations": [],
-        "media": [],
-        "name": "Clinton, IA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Clinton"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [],
-        "bkp": [
-            407
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 536
-            }
-        ],
-        "gid": "P0252",
-        "locations": [],
-        "media": [],
-        "name": "Clinton, IN, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Clinton"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [],
-        "bkp": [
-            936
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 865
+                "pdx": 588
             }
         ],
         "gid": "P0355",
@@ -7662,57 +5439,18 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [
-            1737
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 854
-            }
-        ],
-        "gid": "P1382",
-        "locations": [],
-        "media": [],
-        "name": "Clovis, NM, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Clovis"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [],
         "bkp": [
-            125,
-            169,
-            302,
-            333,
-            346,
-            607,
-            629,
-            670,
-            755,
-            797,
-            804,
-            961,
-            1121,
-            1238
+            87,
+            118,
+            207,
+            235,
+            414,
+            431,
+            460,
+            659
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -7723,7 +5461,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1178
+                "pdx": 812
             }
         ],
         "gid": "P0087",
@@ -7743,44 +5481,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [
-            933
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 958
-            }
-        ],
-        "gid": "P0925",
-        "locations": [],
-        "media": [],
-        "name": "Coamo, PR, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Coamo"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [],
         "bkp": [
-            1069
+            243
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -7791,109 +5496,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 66
-            }
-        ],
-        "gid": "P0373",
-        "locations": [],
-        "media": [],
-        "name": "Cochise, AZ, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Cochise"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [],
-        "bkp": [
-            386
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 66
-            }
-        ],
-        "gid": "P0386",
-        "locations": [],
-        "media": [],
-        "name": "Coconino, AZ, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Coconino"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [
-            209
-        ],
-        "bki": [],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "47.67768320",
-            "-116.78046640"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 599
-            }
-        ],
-        "gid": "P1159",
-        "locations": [],
-        "media": [],
-        "name": "Coeur d'Alene, Kootenai, ID, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Coeur d'Alene"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [],
-        "bkp": [
-            356
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 11
+                "pdx": 10
             }
         ],
         "gid": "P0049",
@@ -7915,8 +5518,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            314
+            215
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -7927,7 +5531,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 419
+                "pdx": 284
             }
         ],
         "gid": "P0343",
@@ -7948,9 +5552,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            872
+            470
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:16:44",
         "cita": [],
         "code": "",
         "coords": [
@@ -7961,7 +5566,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 793
+                "pdx": 540
             }
         ],
         "gid": "P1073",
@@ -7981,10 +5586,11 @@ P = [
     },
     {
         "bkf": [
-            692
+            449
         ],
         "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -7995,7 +5601,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 757
+                "pdx": 515
             }
         ],
         "gid": "P1109",
@@ -8016,9 +5622,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            647
+            384
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:18:50",
         "cita": [],
         "code": "",
         "coords": [
@@ -8029,7 +5636,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 131
+                "pdx": 92
             }
         ],
         "gid": "P1084",
@@ -8049,44 +5656,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [],
-        "bkp": [
-            829
+        "bki": [
+            298
         ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 384
-            }
-        ],
-        "gid": "P0321",
-        "locations": [],
-        "media": [],
-        "name": "Collier, FL, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Collier"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [
-            182
-        ],
-        "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 23:11:30",
         "cita": [],
         "code": "",
         "coords": [
@@ -8097,7 +5671,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 346
+                "pdx": 235
             }
         ],
         "gid": "P1180",
@@ -8119,8 +5693,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            809
+            550
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -8131,7 +5706,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 419
+                "pdx": 284
             }
         ],
         "gid": "P0073",
@@ -8153,8 +5728,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            702
+            421
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -8165,41 +5741,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 47
-            }
-        ],
-        "gid": "P0037",
-        "locations": [],
-        "media": [],
-        "name": "Columbia, AR, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Columbia"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [],
-        "bkp": [
-            616
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 384
+                "pdx": 261
             }
         ],
         "gid": "P0081",
@@ -8220,9 +5762,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            458
+            263
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -8233,7 +5776,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 780
+                "pdx": 530
             }
         ],
         "gid": "P0969",
@@ -8255,8 +5798,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            522
+            354
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -8267,7 +5811,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 865
+                "pdx": 588
             }
         ],
         "gid": "P0120",
@@ -8287,10 +5831,11 @@ P = [
     },
     {
         "bkf": [
-            452
+            294
         ],
         "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -8301,7 +5846,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1039
+                "pdx": 712
             }
         ],
         "gid": "P1657",
@@ -8322,43 +5867,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            983
+            385
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1152
-            }
-        ],
-        "gid": "P1088",
-        "locations": [],
-        "media": [],
-        "name": "Columbia, TN, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Columbia"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [
-            529
-        ],
-        "bki": [],
-        "bkp": [],
+        "change_time": "2009-02-11 23:16:28",
         "cita": [],
         "code": "",
         "coords": [
@@ -8369,7 +5881,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 76
+                "pdx": 57
             }
         ],
         "gid": "P1553",
@@ -8390,9 +5902,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            110
+            67
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:05:37",
         "cita": [],
         "code": "",
         "coords": [
@@ -8403,7 +5916,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 561
+                "pdx": 381
             }
         ],
         "gid": "P0975",
@@ -8424,9 +5937,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            519
+            792
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -8437,41 +5951,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 818
-            }
-        ],
-        "gid": "P1167",
-        "locations": [],
-        "media": [],
-        "name": "Columbus, MS, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Columbus"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1451
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 836
+                "pdx": 566
             }
         ],
         "gid": "P1160",
@@ -8492,9 +5972,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            101
+            57
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -8505,7 +5986,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 872
+                "pdx": 594
             }
         ],
         "gid": "P1441",
@@ -8526,9 +6007,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1846
+            997
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -8539,7 +6021,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 851
+                "pdx": 577
             }
         ],
         "gid": "P1354",
@@ -8560,9 +6042,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1395
+            768
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:16:28",
         "cita": [],
         "code": "",
         "coords": [
@@ -8573,7 +6056,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 377
+                "pdx": 257
             }
         ],
         "gid": "P1166",
@@ -8595,8 +6078,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            201
+            141
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -8607,7 +6091,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 534
+                "pdx": 365
             }
         ],
         "gid": "P0160",
@@ -8628,9 +6112,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            62
+            41
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -8641,7 +6126,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1152
+                "pdx": 792
             }
         ],
         "gid": "P1641",
@@ -8662,43 +6147,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1881
+            151
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 884
-            }
-        ],
-        "gid": "P0952",
-        "locations": [],
-        "media": [],
-        "name": "Coos Bay, OR, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Coos Bay"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            217
-        ],
-        "bkp": [],
+        "change_time": "2009-02-11 23:17:06",
         "cita": [],
         "code": "",
         "coords": [
@@ -8709,7 +6161,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1248
+                "pdx": 861
             }
         ],
         "gid": "P1440",
@@ -8730,9 +6182,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            173
+            114
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:14:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -8743,7 +6196,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 268
+                "pdx": 181
             }
         ],
         "gid": "P1176",
@@ -8764,111 +6217,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1729
+            349
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 818
-            }
-        ],
-        "gid": "P0935",
-        "locations": [],
-        "media": [],
-        "name": "Corinth, MS, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Corinth"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            293
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "34.51148830",
-            "-83.52711660"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 470
-            }
-        ],
-        "gid": "P1204",
-        "locations": [],
-        "media": [],
-        "name": "Cornelia, Habersham, GA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Cornelia"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1488
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "42.14285210",
-            "-77.05469030"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1110
-            }
-        ],
-        "gid": "P1239",
-        "locations": [],
-        "media": [],
-        "name": "Corning, Steuben, NY, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Corning"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            576
-        ],
-        "bkp": [],
+        "change_time": "2009-02-11 23:18:50",
         "cita": [],
         "code": "",
         "coords": [
@@ -8879,7 +6231,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 863
+                "pdx": 586
             }
         ],
         "gid": "P1437",
@@ -8900,77 +6252,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1298
+            223
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "32.09543040",
-            "-96.46887270"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 833
-            }
-        ],
-        "gid": "P1647",
-        "locations": [],
-        "media": [],
-        "name": "Corsicana, Navarro, TX, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Corsicana"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1660
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "42.60118130",
-            "-76.18048430"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 260
-            }
-        ],
-        "gid": "P1531",
-        "locations": [],
-        "media": [],
-        "name": "Cortland, Cortland, NY, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Cortland"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [],
-        "bkp": [
-            259
-        ],
+        "change_time": "2009-02-11 18:29:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -8981,41 +6266,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 865
-            }
-        ],
-        "gid": "P0241",
-        "locations": [],
-        "media": [],
-        "name": "Cortland, NY, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Cortland"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            363
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 884
+                "pdx": 602
             }
         ],
         "gid": "P1483",
@@ -9035,44 +6286,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [
-            1424
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 872
-            }
-        ],
-        "gid": "P1066",
-        "locations": [],
-        "media": [],
-        "name": "Coshocton, OH, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Coshocton"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [],
         "bkp": [
-            1263
+            870
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -9083,7 +6301,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 601
+                "pdx": 408
             }
         ],
         "gid": "P0137",
@@ -9105,8 +6323,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            571
+            636
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -9117,41 +6336,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 47
-            }
-        ],
-        "gid": "P0174",
-        "locations": [],
-        "media": [],
-        "name": "Craighead, AR, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Craighead"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [],
-        "bkp": [
-            932
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 601
+                "pdx": 408
             }
         ],
         "gid": "P0289",
@@ -9172,9 +6357,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1657
+            914
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:16:28",
         "cita": [],
         "code": "",
         "coords": [
@@ -9185,7 +6371,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 792
+                "pdx": 539
             }
         ],
         "gid": "P0875",
@@ -9206,9 +6392,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1225
+            714
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -9219,7 +6406,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 155
+                "pdx": 107
             }
         ],
         "gid": "P0934",
@@ -9241,8 +6428,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            253
+            174
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -9253,7 +6441,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 419
+                "pdx": 284
             }
         ],
         "gid": "P0292",
@@ -9274,9 +6462,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            21
+            18
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -9287,7 +6476,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1152
+                "pdx": 792
             }
         ],
         "gid": "P1645",
@@ -9307,10 +6496,11 @@ P = [
     },
     {
         "bkf": [
-            680
+            443
         ],
         "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 23:17:29",
         "cita": [],
         "code": "",
         "coords": [
@@ -9321,7 +6511,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 2
+                "pdx": 1
             }
         ],
         "gid": "P1465",
@@ -9343,13 +6533,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            368,
-            485,
-            665,
-            841,
-            843,
-            1262
+            457
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -9360,7 +6546,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1178
+                "pdx": 812
             }
         ],
         "gid": "P0198",
@@ -9382,8 +6568,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            273
+            721
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -9394,75 +6581,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 11
-            }
-        ],
-        "gid": "P0064",
-        "locations": [],
-        "media": [],
-        "name": "Cullman, AL, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Cullman"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1193
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "34.17482080",
-            "-86.84361240"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 272
-            }
-        ],
-        "gid": "P0982",
-        "locations": [],
-        "media": [],
-        "name": "Cullman, Cullman, AL, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Cullman"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [],
-        "bkp": [
-            1051
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 11
+                "pdx": 10
             }
         ],
         "gid": "P0421",
@@ -9483,9 +6602,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1548
+            854
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:18:50",
         "cita": [],
         "code": "",
         "coords": [
@@ -9496,7 +6616,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 276
+                "pdx": 187
             }
         ],
         "gid": "P1654",
@@ -9518,8 +6638,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            275
+            186
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -9530,7 +6651,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1170
+                "pdx": 804
             }
         ],
         "gid": "P0367",
@@ -9551,43 +6672,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1006
+            1090
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "34.16594250",
-            "-83.17042760"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 695
-            }
-        ],
-        "gid": "P1421",
-        "locations": [],
-        "media": [],
-        "name": "Dalton, Madison, GA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Dalton"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            2033
-        ],
-        "bkp": [],
+        "change_time": "2009-02-11 23:17:06",
         "cita": [],
         "code": "",
         "coords": [
@@ -9598,7 +6686,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 127
+                "pdx": 89
             }
         ],
         "gid": "P1367",
@@ -9619,9 +6707,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            913
+            508
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -9632,7 +6721,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1184
+                "pdx": 817
             }
         ],
         "gid": "P0932",
@@ -9653,43 +6742,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1971
+            761
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "40.12448100",
-            "-87.63002070"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1192
-            }
-        ],
-        "gid": "P0968",
-        "locations": [],
-        "media": [],
-        "name": "Danville, Vermilion, IL, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Danville"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1370
-        ],
-        "bkp": [],
+        "change_time": "2009-02-11 23:05:37",
         "cita": [],
         "code": "",
         "coords": [
@@ -9700,7 +6756,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 68
+                "pdx": 50
             }
         ],
         "gid": "P1070",
@@ -9720,10 +6776,11 @@ P = [
     },
     {
         "bkf": [
-            464
+            302
         ],
         "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 23:15:22",
         "cita": [],
         "code": "",
         "coords": [
@@ -9734,7 +6791,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1040
+                "pdx": 713
             }
         ],
         "gid": "P1397",
@@ -9756,8 +6813,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            1220
+            843
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -9768,7 +6826,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 536
+                "pdx": 366
             }
         ],
         "gid": "P0173",
@@ -9790,8 +6848,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            897
+            426
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -9802,41 +6861,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 603
-            }
-        ],
-        "gid": "P0238",
-        "locations": [],
-        "media": [],
-        "name": "Daviess, KY, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Daviess"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [],
-        "bkp": [
-            622
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1170
+                "pdx": 804
             }
         ],
         "gid": "P0296",
@@ -9856,10 +6881,11 @@ P = [
     },
     {
         "bkf": [
-            398
+            359
         ],
         "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -9870,75 +6896,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 872
-            }
-        ],
-        "gid": "P1122",
-        "locations": [],
-        "media": [],
-        "name": "Dayton, OH, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Dayton"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [],
-        "bkp": [
-            309
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1178
-            }
-        ],
-        "gid": "P0358",
-        "locations": [],
-        "media": [],
-        "name": "DC, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "DC"
-            }
-        ],
-        "note": "",
-        "type": "State",
-        "urls": []
-    },
-    {
-        "bkf": [
-            538
-        ],
-        "bki": [],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 609
+                "pdx": 416
             }
         ],
         "gid": "P1420",
@@ -9960,8 +6918,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            838
+            568
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -9972,7 +6931,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1178
+                "pdx": 812
             }
         ],
         "gid": "P0017",
@@ -9994,9 +6953,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            583,
-            1125
+            772
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -10007,7 +6966,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1178
+                "pdx": 812
             }
         ],
         "gid": "P0089",
@@ -10029,8 +6988,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            497
+            334
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -10041,7 +7001,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1170
+                "pdx": 804
             }
         ],
         "gid": "P0206",
@@ -10062,9 +7022,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1841
+            996
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:16:28",
         "cita": [],
         "code": "",
         "coords": [
@@ -10075,7 +7036,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 5
+                "pdx": 4
             }
         ],
         "gid": "P1044",
@@ -10097,8 +7058,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            67
+            49
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -10109,7 +7071,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 419
+                "pdx": 284
             }
         ],
         "gid": "P0276",
@@ -10131,8 +7093,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            457
+            304
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -10143,7 +7106,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 536
+                "pdx": 366
             }
         ],
         "gid": "P0237",
@@ -10164,43 +7127,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1368
+            548
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "39.84031470",
-            "-88.95480010"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 691
-            }
-        ],
-        "gid": "P1107",
-        "locations": [],
-        "media": [],
-        "name": "Decatur, Macon, IL, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Decatur"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1448
-        ],
-        "bkp": [],
+        "change_time": "2009-02-11 23:05:37",
         "cita": [],
         "code": "",
         "coords": [
@@ -10211,7 +7141,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 803
+                "pdx": 546
             }
         ],
         "gid": "P1351",
@@ -10232,9 +7162,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1432
+            786
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -10245,7 +7176,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 872
+                "pdx": 594
             }
         ],
         "gid": "P1567",
@@ -10264,11 +7195,12 @@ P = [
         "urls": []
     },
     {
-        "bkf": [],
-        "bki": [
-            845
+        "bkf": [
+            418
         ],
+        "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 23:18:50",
         "cita": [],
         "code": "",
         "coords": [
@@ -10279,7 +7211,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1185
+                "pdx": 818
             }
         ],
         "gid": "P1482",
@@ -10301,8 +7233,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            821
+            558
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -10313,7 +7246,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 536
+                "pdx": 366
             }
         ],
         "gid": "P0268",
@@ -10334,9 +7267,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1400
+            772
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:13:44",
         "cita": [],
         "code": "",
         "coords": [
@@ -10347,7 +7281,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1201
+                "pdx": 829
             }
         ],
         "gid": "P0852",
@@ -10367,10 +7301,11 @@ P = [
     },
     {
         "bkf": [
-            159
+            100
         ],
         "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -10381,7 +7316,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 854
+                "pdx": 580
             }
         ],
         "gid": "P1432",
@@ -10402,9 +7337,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            866
+            395
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -10415,7 +7351,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 223
+                "pdx": 153
             }
         ],
         "gid": "P1342",
@@ -10437,8 +7373,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            150
+            104
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -10449,7 +7386,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 530
+                "pdx": 361
             }
         ],
         "gid": "P0291",
@@ -10470,9 +7407,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1316
+            727
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:15:22",
         "cita": [],
         "code": "",
         "coords": [
@@ -10483,7 +7421,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 942
+                "pdx": 645
             }
         ],
         "gid": "P1524",
@@ -10505,8 +7443,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            48
+            32
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -10517,7 +7456,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 384
+                "pdx": 261
             }
         ],
         "gid": "P0392",
@@ -10538,9 +7477,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            399
+            240
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -10551,7 +7491,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 757
+                "pdx": 515
             }
         ],
         "gid": "P1009",
@@ -10573,8 +7513,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            1084
+            742
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -10585,7 +7526,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 530
+                "pdx": 361
             }
         ],
         "gid": "P0213",
@@ -10606,77 +7547,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            316
+            289
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 835
-            }
-        ],
-        "gid": "P1000",
-        "locations": [],
-        "media": [],
-        "name": "Dickinson, ND, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Dickinson"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [],
-        "bkp": [
-            1221
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 287
-            }
-        ],
-        "gid": "P0359",
-        "locations": [],
-        "media": [],
-        "name": "District of Columbia, DC, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "District of Columbia"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            489
-        ],
-        "bkp": [],
+        "change_time": "2009-02-11 23:16:09",
         "cita": [],
         "code": "",
         "coords": [
@@ -10687,7 +7561,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 647
+                "pdx": 445
             }
         ],
         "gid": "P1408",
@@ -10707,78 +7581,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [
-            1417
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "37.75279820",
-            "-100.01707870"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 392
-            }
-        ],
-        "gid": "P1616",
-        "locations": [],
-        "media": [],
-        "name": "Dodge City, Ford, KS, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Dodge City"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [
-            649
-        ],
-        "bki": [],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "31.22323130",
-            "-85.39048890"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 516
-            }
-        ],
-        "gid": "P1703",
-        "locations": [],
-        "media": [],
-        "name": "Dothan, Houston, AL, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Dothan"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [],
         "bkp": [
-            16
+            13
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -10789,7 +7596,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 419
+                "pdx": 284
             }
         ],
         "gid": "P0043",
@@ -10810,9 +7617,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1077
+            596
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:14:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -10823,7 +7631,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 229
+                "pdx": 155
             }
         ],
         "gid": "P1263",
@@ -10845,8 +7653,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            639
+            439
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -10857,7 +7666,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 601
+                "pdx": 408
             }
         ],
         "gid": "P0151",
@@ -10878,43 +7687,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1606
+            577
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "39.15816800",
-            "-75.52436820"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 583
-            }
-        ],
-        "gid": "P1075",
-        "locations": [],
-        "media": [],
-        "name": "Dover, Kent, DE, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Dover"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1033
-        ],
-        "bkp": [],
+        "change_time": "2009-02-11 23:14:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -10925,7 +7701,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 637
+                "pdx": 438
             }
         ],
         "gid": "P0898",
@@ -10945,78 +7721,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [],
-        "bkp": [
-            556
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 536
-            }
-        ],
-        "gid": "P0402",
-        "locations": [],
-        "media": [],
-        "name": "Dubois, IN, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Dubois"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [
-            1377
+            348
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 901
-            }
-        ],
-        "gid": "P1321",
-        "locations": [],
-        "media": [],
-        "name": "DuBois, PA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "DuBois"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1504
-        ],
-        "bkp": [],
+        "change_time": "2009-02-11 23:15:22",
         "cita": [],
         "code": "",
         "coords": [
@@ -11027,7 +7736,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 321
+                "pdx": 219
             }
         ],
         "gid": "P1242",
@@ -11049,8 +7758,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            320
+            218
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -11061,7 +7771,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 530
+                "pdx": 361
             }
         ],
         "gid": "P0375",
@@ -11080,11 +7790,12 @@ P = [
         "urls": []
     },
     {
-        "bkf": [],
-        "bki": [
-            1344
+        "bkf": [
+            95
         ],
+        "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -11095,7 +7806,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 779
+                "pdx": 529
             }
         ],
         "gid": "P1584",
@@ -11116,9 +7827,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1204
+            679
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:18:50",
         "cita": [],
         "code": "",
         "coords": [
@@ -11129,7 +7841,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 799
+                "pdx": 543
             }
         ],
         "gid": "P1506",
@@ -11150,9 +7862,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1933
+            760
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -11163,41 +7876,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 874
-            }
-        ],
-        "gid": "P0992",
-        "locations": [],
-        "media": [],
-        "name": "Duncan, OK, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Duncan"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1366
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 834
+                "pdx": 564
             }
         ],
         "gid": "P1536",
@@ -11218,9 +7897,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1796
+            976
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:11:30",
         "cita": [],
         "code": "",
         "coords": [
@@ -11231,7 +7911,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 607
+                "pdx": 414
             }
         ],
         "gid": "P0881",
@@ -11250,11 +7930,12 @@ P = [
         "urls": []
     },
     {
-        "bkf": [],
-        "bki": [
-            1775
+        "bkf": [
+            242
         ],
+        "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -11265,7 +7946,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 874
+                "pdx": 596
             }
         ],
         "gid": "P1306",
@@ -11285,44 +7966,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [
-            316
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 834
-            }
-        ],
-        "gid": "P1634",
-        "locations": [],
-        "media": [],
-        "name": "Durham, NC, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Durham"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [],
         "bkp": [
-            957
+            656
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -11333,7 +7981,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 865
+                "pdx": 588
             }
         ],
         "gid": "P0202",
@@ -11353,44 +8001,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [],
-        "bkp": [
-            551
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 384
-            }
-        ],
-        "gid": "P0249",
-        "locations": [],
-        "media": [],
-        "name": "Duval, FL, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Duval"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [
-            12
+            9
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -11401,7 +8016,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1152
+                "pdx": 792
             }
         ],
         "gid": "P1416",
@@ -11422,9 +8037,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1984
+            1064
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:18:50",
         "cita": [],
         "code": "",
         "coords": [
@@ -11435,7 +8051,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 732
+                "pdx": 496
             }
         ],
         "gid": "P1010",
@@ -11455,78 +8071,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [],
-        "bkp": [
-            340
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 223
-            }
-        ],
-        "gid": "P0203",
-        "locations": [],
-        "media": [],
-        "name": "Eagle, CO, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Eagle"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [],
-        "bkp": [
-            80
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 609
-            }
-        ],
-        "gid": "P0314",
-        "locations": [],
-        "media": [],
-        "name": "East Baton Rouge, LA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "East Baton Rouge"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [
-            231
+            1021
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -11537,41 +8086,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 872
-            }
-        ],
-        "gid": "P1516",
-        "locations": [],
-        "media": [],
-        "name": "East Liverpool, OH, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "East Liverpool"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1897
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 901
+                "pdx": 614
             }
         ],
         "gid": "P1118",
@@ -11592,9 +8107,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1487
+            815
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -11605,7 +8121,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 745
+                "pdx": 507
             }
         ],
         "gid": "P1324",
@@ -11626,9 +8142,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1859
+            994
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -11639,7 +8156,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1250
+                "pdx": 863
             }
         ],
         "gid": "P1078",
@@ -11658,79 +8175,12 @@ P = [
         "urls": []
     },
     {
-        "bkf": [
-            235
-        ],
-        "bki": [],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 853
-            }
-        ],
-        "gid": "P1571",
-        "locations": [],
-        "media": [],
-        "name": "Edison, NJ, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Edison"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1038
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "39.64498600",
-            "-106.59420000"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 333
-            }
-        ],
-        "gid": "P1255",
-        "locations": [],
-        "media": [],
-        "name": "Edwards, Eagle, CO, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Edwards"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
         "bkf": [],
         "bki": [],
         "bkp": [
-            712
+            479
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -11741,7 +8191,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 534
+                "pdx": 365
             }
         ],
         "gid": "P0365",
@@ -11762,9 +8212,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            914
+            509
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:16:09",
         "cita": [],
         "code": "",
         "coords": [
@@ -11775,7 +8226,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 343
+                "pdx": 233
             }
         ],
         "gid": "P1651",
@@ -11797,8 +8248,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            342
+            232
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -11809,7 +8261,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 534
+                "pdx": 365
             }
         ],
         "gid": "P0255",
@@ -11830,9 +8282,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1419
+            779
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:18:50",
         "cita": [],
         "code": "",
         "coords": [
@@ -11843,7 +8296,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1243
+                "pdx": 857
             }
         ],
         "gid": "P1296",
@@ -11863,44 +8316,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [
-            1440
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "32.79200000",
-            "-115.56305140"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 535
-            }
-        ],
-        "gid": "P1080",
-        "locations": [],
-        "media": [],
-        "name": "El Centro, Imperial, CA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "El Centro"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [],
         "bkp": [
-            234
+            159
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -11911,7 +8331,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 223
+                "pdx": 153
             }
         ],
         "gid": "P0288",
@@ -11932,9 +8352,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            362
+            222
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -11945,7 +8366,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 834
+                "pdx": 564
             }
         ],
         "gid": "P1549",
@@ -11966,9 +8387,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            474
+            276
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:16:28",
         "cita": [],
         "code": "",
         "coords": [
@@ -11979,7 +8401,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 349
+                "pdx": 238
             }
         ],
         "gid": "P1114",
@@ -12001,8 +8423,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            348
+            237
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -12013,7 +8436,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 536
+                "pdx": 366
             }
         ],
         "gid": "P0383",
@@ -12034,77 +8457,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            221
+            706
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1203
-            }
-        ],
-        "gid": "P1266",
-        "locations": [],
-        "media": [],
-        "name": "Ellensburg, WA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Ellensburg"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [],
-        "bkp": [
-            490
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 601
-            }
-        ],
-        "gid": "P0328",
-        "locations": [],
-        "media": [],
-        "name": "Ellis, KS, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Ellis"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1266
-        ],
-        "bkp": [],
+        "change_time": "2009-02-11 23:18:11",
         "cita": [],
         "code": "",
         "coords": [
@@ -12115,7 +8471,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 197
+                "pdx": 137
             }
         ],
         "gid": "P1026",
@@ -12137,8 +8493,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            815
+            554
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -12149,7 +8506,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 531
+                "pdx": 362
             }
         ],
         "gid": "P0258",
@@ -12170,9 +8527,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            271
+            171
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:16:45",
         "cita": [],
         "code": "",
         "coords": [
@@ -12183,7 +8541,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 686
+                "pdx": 467
             }
         ],
         "gid": "P1469",
@@ -12204,9 +8562,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1822
+            983
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -12217,7 +8576,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 874
+                "pdx": 596
             }
         ],
         "gid": "P1282",
@@ -12238,9 +8597,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1927
+            1038
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:05:37",
         "cita": [],
         "code": "",
         "coords": [
@@ -12251,7 +8611,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 228
+                "pdx": 154
             }
         ],
         "gid": "P1681",
@@ -12273,8 +8633,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            1106
+            758
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -12285,7 +8646,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1170
+                "pdx": 804
             }
         ],
         "gid": "P0345",
@@ -12307,8 +8668,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            147
+            102
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -12319,7 +8681,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 865
+                "pdx": 588
             }
         ],
         "gid": "P0398",
@@ -12339,44 +8701,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [
-            36
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 901
-            }
-        ],
-        "gid": "P1169",
-        "locations": [],
-        "media": [],
-        "name": "Erie, PA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Erie"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [],
         "bkp": [
-            918
+            627
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -12387,7 +8716,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 384
+                "pdx": 261
             }
         ],
         "gid": "P0226",
@@ -12408,9 +8737,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            563
+            342
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -12421,7 +8751,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 757
+                "pdx": 515
             }
         ],
         "gid": "P1051",
@@ -12441,44 +8771,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [],
-        "bkp": [
-            420
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 11
-            }
-        ],
-        "gid": "P0406",
-        "locations": [],
-        "media": [],
-        "name": "Etowah, AL, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Etowah"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [
-            2068
+            1111
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -12489,7 +8786,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 884
+                "pdx": 602
             }
         ],
         "gid": "P1030",
@@ -12510,9 +8807,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1098
+            613
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:11:01",
         "cita": [],
         "code": "",
         "coords": [
@@ -12523,7 +8821,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 523
+                "pdx": 355
             }
         ],
         "gid": "P1414",
@@ -12544,9 +8842,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1121
+            621
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -12557,7 +8856,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1277
+                "pdx": 880
             }
         ],
         "gid": "P0940",
@@ -12578,43 +8877,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            176
+            638
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "37.97476440",
-            "-87.55584820"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1190
-            }
-        ],
-        "gid": "P1425",
-        "locations": [],
-        "media": [],
-        "name": "Evansville, Vanderburgh, IN, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Evansville"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1147
-        ],
-        "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -12625,7 +8891,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 9
+                "pdx": 8
             }
         ],
         "gid": "P0988",
@@ -12645,78 +8911,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [],
-        "bkp": [
-            136
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 271
-            }
-        ],
-        "gid": "P0199",
-        "locations": [],
-        "media": [],
-        "name": "Fairfield, CT, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Fairfield"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [
-            206
-        ],
-        "bki": [],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 779
-            }
-        ],
-        "gid": "P0891",
-        "locations": [],
-        "media": [],
-        "name": "Fairmont, MN, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Fairmont"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [
-            1989
+            1067
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -12727,7 +8926,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1276
+                "pdx": 879
             }
         ],
         "gid": "P1599",
@@ -12748,9 +8947,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            853
+            460
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -12761,7 +8961,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 958
+                "pdx": 657
             }
         ],
         "gid": "P1022",
@@ -12782,9 +8982,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            478
+            280
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -12795,7 +8996,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 864
+                "pdx": 587
             }
         ],
         "gid": "P1403",
@@ -12816,9 +9017,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1192
+            793
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -12829,41 +9031,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 835
-            }
-        ],
-        "gid": "P0916",
-        "locations": [],
-        "media": [],
-        "name": "Fargo, ND, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Fargo"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1452
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 779
+                "pdx": 529
             }
         ],
         "gid": "P1411",
@@ -12883,10 +9051,11 @@ P = [
     },
     {
         "bkf": [
-            239
+            285
         ],
         "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -12897,41 +9066,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 780
-            }
-        ],
-        "gid": "P1179",
-        "locations": [],
-        "media": [],
-        "name": "Farmington, MO, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Farmington"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [
-            435
-        ],
-        "bki": [],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 854
+                "pdx": 580
             }
         ],
         "gid": "P0937",
@@ -12953,8 +9088,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            248
+            170
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -12965,7 +9101,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 536
+                "pdx": 366
             }
         ],
         "gid": "P0189",
@@ -12985,44 +9121,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [],
-        "bkp": [
-            655
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 603
-            }
-        ],
-        "gid": "P0283",
-        "locations": [],
-        "media": [],
-        "name": "Fayette, KY, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Fayette"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [
-            1657
+            914
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:08:30",
         "cita": [],
         "code": "",
         "coords": [
@@ -13033,7 +9136,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1219
+                "pdx": 842
             }
         ],
         "gid": "P1136",
@@ -13053,78 +9156,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [
-            618
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 779
-            }
-        ],
-        "gid": "P1230",
-        "locations": [],
-        "media": [],
-        "name": "Fergus Falls, MN, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Fergus Falls"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1305
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 872
-            }
-        ],
-        "gid": "P1389",
-        "locations": [],
-        "media": [],
-        "name": "Findlay, OH, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Findlay"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [],
         "bkp": [
-            427
+            287
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -13135,7 +9171,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 601
+                "pdx": 408
             }
         ],
         "gid": "P0278",
@@ -13156,9 +9192,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            828
+            445
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:14:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -13169,7 +9206,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 94
+                "pdx": 68
             }
         ],
         "gid": "P1034",
@@ -13191,36 +9228,32 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            12,
-            84,
-            134,
-            141,
-            172,
-            192,
-            206,
-            233,
-            237,
-            305,
-            330,
-            360,
-            385,
-            478,
-            501,
-            538,
-            588,
-            648,
-            713,
-            759,
-            875,
-            886,
-            907,
-            931,
-            940,
-            968,
-            1090,
-            1122,
-            1201
+            61,
+            96,
+            121,
+            132,
+            143,
+            161,
+            210,
+            246,
+            262,
+            322,
+            338,
+            367,
+            397,
+            446,
+            480,
+            517,
+            597,
+            604,
+            618,
+            643,
+            665,
+            747,
+            770,
+            829
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -13231,7 +9264,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1178
+                "pdx": 812
             }
         ],
         "gid": "P0003",
@@ -13253,8 +9286,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            908
+            619
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -13265,7 +9299,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 384
+                "pdx": 261
             }
         ],
         "gid": "P0416",
@@ -13286,43 +9320,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1625
+            903
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "35.19806710",
-            "-111.65127250"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 226
-            }
-        ],
-        "gid": "P0933",
-        "locations": [],
-        "media": [],
-        "name": "Flagstaff, Coconino, AZ, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Flagstaff"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1639
-        ],
-        "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -13333,7 +9334,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 757
+                "pdx": 515
             }
         ],
         "gid": "P1170",
@@ -13354,9 +9355,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1366
+            760
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:05:37",
         "cita": [],
         "code": "",
         "coords": [
@@ -13367,7 +9369,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 634
+                "pdx": 436
             }
         ],
         "gid": "P1478",
@@ -13387,44 +9389,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [
-            52
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1039
-            }
-        ],
-        "gid": "P0950",
-        "locations": [],
-        "media": [],
-        "name": "Florence, SC, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Florence"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [],
         "bkp": [
-            1000
+            689
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -13435,7 +9404,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 419
+                "pdx": 284
             }
         ],
         "gid": "P0336",
@@ -13456,145 +9425,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            2001
+            802
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1250
-            }
-        ],
-        "gid": "P1162",
-        "locations": [],
-        "media": [],
-        "name": "Fond du Lac, WI, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Fond du Lac"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [],
-        "bkp": [
-            311
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 601
-            }
-        ],
-        "gid": "P0424",
-        "locations": [],
-        "media": [],
-        "name": "Ford, KS, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Ford"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1702
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 834
-            }
-        ],
-        "gid": "P1625",
-        "locations": [],
-        "media": [],
-        "name": "Forest City, NC, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Forest City"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1127
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "35.00814740",
-            "-90.78983420"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1095
-            }
-        ],
-        "gid": "P1060",
-        "locations": [],
-        "media": [],
-        "name": "Forrest City, St. Francis, AR, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Forrest City"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1470
-        ],
-        "bkp": [],
+        "change_time": "2009-02-11 23:11:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -13605,7 +9439,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 629
+                "pdx": 431
             }
         ],
         "gid": "P0926",
@@ -13626,9 +9460,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            74
+            47
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:15:22",
         "cita": [],
         "code": "",
         "coords": [
@@ -13639,7 +9474,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1235
+                "pdx": 854
             }
         ],
         "gid": "P1161",
@@ -13660,9 +9495,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1343
+            747
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:13:44",
         "cita": [],
         "code": "",
         "coords": [
@@ -13673,7 +9509,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 141
+                "pdx": 96
             }
         ],
         "gid": "P1697",
@@ -13694,9 +9530,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1773
+            419
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -13707,7 +9544,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 780
+                "pdx": 530
             }
         ],
         "gid": "P1294",
@@ -13726,45 +9563,12 @@ P = [
         "urls": []
     },
     {
-        "bkf": [],
-        "bki": [
-            1217
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "40.25025820",
-            "-103.79995100"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 804
-            }
-        ],
-        "gid": "P0938",
-        "locations": [],
-        "media": [],
-        "name": "Fort Morgan, Morgan, CO, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Fort Morgan"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
         "bkf": [
-            424
+            277
         ],
         "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -13775,7 +9579,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 609
+                "pdx": 416
             }
         ],
         "gid": "P1419",
@@ -13796,9 +9600,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            921
+            516
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:08:30",
         "cita": [],
         "code": "",
         "coords": [
@@ -13809,7 +9614,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1049
+                "pdx": 719
             }
         ],
         "gid": "P1454",
@@ -13830,43 +9635,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            496
+            415
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "32.55375850",
-            "-83.88740840"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 915
-            }
-        ],
-        "gid": "P1546",
-        "locations": [],
-        "media": [],
-        "name": "Fort Valley, Peach, GA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Fort Valley"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            746
-        ],
-        "bkp": [],
+        "change_time": "2009-02-11 23:13:44",
         "cita": [],
         "code": "",
         "coords": [
@@ -13877,7 +9649,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 875
+                "pdx": 597
             }
         ],
         "gid": "P1518",
@@ -13896,45 +9668,12 @@ P = [
         "urls": []
     },
     {
-        "bkf": [
-            86
-        ],
-        "bki": [],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "41.13060410",
-            "-85.12885970"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 27
-            }
-        ],
-        "gid": "P0954",
-        "locations": [],
-        "media": [],
-        "name": "Fort Wayne, Allen, IN, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Fort Wayne"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
         "bkf": [],
         "bki": [
-            1821
+            982
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:18:50",
         "cita": [],
         "code": "",
         "coords": [
@@ -13945,7 +9684,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1137
+                "pdx": 783
             }
         ],
         "gid": "P1121",
@@ -13964,11 +9703,12 @@ P = [
         "urls": []
     },
     {
-        "bkf": [
-            151
+        "bkf": [],
+        "bki": [
+            352
         ],
-        "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -13979,7 +9719,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 872
+                "pdx": 594
             }
         ],
         "gid": "P1467",
@@ -14000,43 +9740,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1685
+            931
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "40.27948090",
-            "-86.51083550"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 220
-            }
-        ],
-        "gid": "P1338",
-        "locations": [],
-        "media": [],
-        "name": "Frankfort, Clinton, IN, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Frankfort"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1697
-        ],
-        "bkp": [],
+        "change_time": "2009-02-11 23:17:06",
         "cita": [],
         "code": "",
         "coords": [
@@ -14047,7 +9754,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 409
+                "pdx": 276
             }
         ],
         "gid": "P0991",
@@ -14069,8 +9776,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            408
+            275
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -14081,7 +9789,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 603
+                "pdx": 410
             }
         ],
         "gid": "P0315",
@@ -14101,44 +9809,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [],
-        "bkp": [
-            704
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 865
-            }
-        ],
-        "gid": "P0369",
-        "locations": [],
-        "media": [],
-        "name": "Franklin, NY, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Franklin"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [
-            1648
+            907
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -14149,7 +9824,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 745
+                "pdx": 507
             }
         ],
         "gid": "P1577",
@@ -14170,9 +9845,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            537
+            317
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -14183,7 +9859,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 836
+                "pdx": 566
             }
         ],
         "gid": "P1487",
@@ -14205,8 +9881,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            414
+            280
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -14217,7 +9894,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 155
+                "pdx": 107
             }
         ],
         "gid": "P0389",
@@ -14238,9 +9915,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            865
+            465
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:11:01",
         "cita": [],
         "code": "",
         "coords": [
@@ -14251,7 +9929,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 413
+                "pdx": 279
             }
         ],
         "gid": "P1629",
@@ -14273,9 +9951,10 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            61,
-            1147
+            45,
+            789
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -14286,7 +9965,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 419
+                "pdx": 284
             }
         ],
         "gid": "P0209",
@@ -14308,8 +9987,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            170
+            119
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -14320,7 +10000,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 534
+                "pdx": 365
             }
         ],
         "gid": "P0347",
@@ -14342,8 +10022,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            439
+            381
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -14354,41 +10035,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 865
-            }
-        ],
-        "gid": "P0134",
-        "locations": [],
-        "media": [],
-        "name": "Fulton, NY, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Fulton"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [],
-        "bkp": [
-            561
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1178
+                "pdx": 812
             }
         ],
         "gid": "P0271",
@@ -14410,37 +10057,27 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            69,
-            94,
-            101,
-            148,
-            194,
-            196,
-            209,
-            229,
-            235,
-            268,
-            293,
-            313,
-            390,
-            415,
-            470,
-            472,
-            517,
-            614,
-            637,
-            659,
-            681,
-            695,
-            915,
-            941,
-            1105,
-            1123,
-            1148,
-            1176,
-            1211,
-            1232
+            51,
+            68,
+            73,
+            134,
+            136,
+            146,
+            155,
+            160,
+            181,
+            199,
+            214,
+            265,
+            281,
+            438,
+            453,
+            465,
+            644,
+            810,
+            838
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -14451,7 +10088,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1178
+                "pdx": 812
             }
         ],
         "gid": "P0005",
@@ -14472,43 +10109,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1456
+            270
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "34.01426400",
-            "-86.00663860"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 362
-            }
-        ],
-        "gid": "P0928",
-        "locations": [],
-        "media": [],
-        "name": "Gadsden, Etowah, AL, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Gadsden"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            466
-        ],
-        "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -14519,7 +10123,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1039
+                "pdx": 712
             }
         ],
         "gid": "P0867",
@@ -14538,113 +10142,12 @@ P = [
         "urls": []
     },
     {
-        "bkf": [
-            634
-        ],
-        "bki": [],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "29.65163440",
-            "-82.32482620"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 12
-            }
-        ],
-        "gid": "P1153",
-        "locations": [],
-        "media": [],
-        "name": "Gainesville, Alachua, FL, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Gainesville"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [
-            606
-        ],
-        "bki": [],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "34.29787940",
-            "-83.82406630"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 472
-            }
-        ],
-        "gid": "P1535",
-        "locations": [],
-        "media": [],
-        "name": "Gainesville, Hall, GA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Gainesville"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
         "bkf": [],
         "bki": [
-            1735
+            1070
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "33.62594140",
-            "-97.13334530"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 668
-            }
-        ],
-        "gid": "P0860",
-        "locations": [],
-        "media": [],
-        "name": "Gainesville, Llano, TX, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Gainesville"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [
-            592
-        ],
-        "bki": [],
-        "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -14655,41 +10158,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 745
-            }
-        ],
-        "gid": "P1270",
-        "locations": [],
-        "media": [],
-        "name": "Gaithersburg, MD, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Gaithersburg"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1995
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 854
+                "pdx": 580
             }
         ],
         "gid": "P1039",
@@ -14710,9 +10179,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1722
+            949
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:16:45",
         "cita": [],
         "code": "",
         "coords": [
@@ -14723,7 +10193,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 382
+                "pdx": 259
             }
         ],
         "gid": "P0985",
@@ -14744,9 +10214,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1659
+            915
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -14757,7 +10228,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 864
+                "pdx": 587
             }
         ],
         "gid": "P1455",
@@ -14779,8 +10250,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            514
+            348
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -14791,7 +10263,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 47
+                "pdx": 31
             }
         ],
         "gid": "P0407",
@@ -14812,9 +10284,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            636
+            381
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:16:29",
         "cita": [],
         "code": "",
         "coords": [
@@ -14825,7 +10298,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 620
+                "pdx": 424
             }
         ],
         "gid": "P0942",
@@ -14847,8 +10320,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            78
+            748
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -14859,41 +10333,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 865
-            }
-        ],
-        "gid": "P0068",
-        "locations": [],
-        "media": [],
-        "name": "Genesee, NY, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Genesee"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [],
-        "bkp": [
-            1091
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1178
+                "pdx": 812
             }
         ],
         "gid": "P0183",
@@ -14912,79 +10352,12 @@ P = [
         "urls": []
     },
     {
-        "bkf": [
-            479
-        ],
-        "bki": [],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1039
-            }
-        ],
-        "gid": "P1639",
-        "locations": [],
-        "media": [],
-        "name": "Georgetown, SC, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Georgetown"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            73
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 901
-            }
-        ],
-        "gid": "P1527",
-        "locations": [],
-        "media": [],
-        "name": "Gettysburg, PA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Gettysburg"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
         "bkf": [],
         "bki": [],
         "bkp": [
-            914
+            624
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -14995,7 +10368,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 66
+                "pdx": 48
             }
         ],
         "gid": "P0115",
@@ -15015,44 +10388,11 @@ P = [
     },
     {
         "bkf": [
-            251
+            26
         ],
         "bki": [],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1277
-            }
-        ],
-        "gid": "P1195",
-        "locations": [],
-        "media": [],
-        "name": "Gillette, WY, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Gillette"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [
-            37
-        ],
-        "bki": [],
-        "bkp": [],
+        "change_time": "2009-02-11 23:17:06",
         "cita": [],
         "code": "",
         "coords": [
@@ -15063,7 +10403,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 75
+                "pdx": 56
             }
         ],
         "gid": "P1028",
@@ -15084,9 +10424,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            2023
+            1084
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:18:11",
         "cita": [],
         "code": "",
         "coords": [
@@ -15097,7 +10438,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1215
+                "pdx": 841
             }
         ],
         "gid": "P1671",
@@ -15118,43 +10459,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            687
+            871
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "43.05285060",
-            "-74.34374670"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 417
-            }
-        ],
-        "gid": "P1427",
-        "locations": [],
-        "media": [],
-        "name": "Gloversville, Fulton, NY, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Gloversville"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1585
-        ],
-        "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -15165,7 +10473,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 834
+                "pdx": 564
             }
         ],
         "gid": "P1042",
@@ -15187,8 +10495,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            1006
+            692
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -15199,7 +10508,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 66
+                "pdx": 48
             }
         ],
         "gid": "P0430",
@@ -15220,9 +10529,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1831
+            990
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:18:50",
         "cita": [],
         "code": "",
         "coords": [
@@ -15233,7 +10543,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 511
+                "pdx": 345
             }
         ],
         "gid": "P1434",
@@ -15254,9 +10564,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            394
+            940
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -15267,75 +10578,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 835
-            }
-        ],
-        "gid": "P0889",
-        "locations": [],
-        "media": [],
-        "name": "Grand Forks, ND, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Grand Forks"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1072
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "39.06387050",
-            "-108.55064860"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 755
-            }
-        ],
-        "gid": "P1626",
-        "locations": [],
-        "media": [],
-        "name": "Grand Junction, Mesa, CO, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Grand Junction"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1717
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 757
+                "pdx": 515
             }
         ],
         "gid": "P1542",
@@ -15355,44 +10598,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [],
-        "bkp": [
-            714
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 536
-            }
-        ],
-        "gid": "P0172",
-        "locations": [],
-        "media": [],
-        "name": "Grant, IN, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Grant"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [
-            1528
+            837
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -15403,7 +10613,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 884
+                "pdx": 602
             }
         ],
         "gid": "P1050",
@@ -15424,9 +10634,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1927
+            1038
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -15437,7 +10648,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 854
+                "pdx": 580
             }
         ],
         "gid": "P1048",
@@ -15457,78 +10668,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [],
-        "bkp": [
-            734
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 603
-            }
-        ],
-        "gid": "P0054",
-        "locations": [],
-        "media": [],
-        "name": "Graves, KY, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Graves"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [],
-        "bkp": [
-            910
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1170
-            }
-        ],
-        "gid": "P0056",
-        "locations": [],
-        "media": [],
-        "name": "Gray, TX, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Gray"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [
-            657
+            388
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -15539,7 +10683,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 819
+                "pdx": 557
             }
         ],
         "gid": "P1435",
@@ -15559,78 +10703,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [
-            1459
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "40.42331420",
-            "-104.70913220"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1238
-            }
-        ],
-        "gid": "P1095",
-        "locations": [],
-        "media": [],
-        "name": "Greeley, Weld, CO, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Greeley"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [
-            702
-        ],
-        "bki": [],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1250
-            }
-        ],
-        "gid": "P1541",
-        "locations": [],
-        "media": [],
-        "name": "Green Bay, WI, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Green Bay"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [],
         "bkp": [
-            912
+            622
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -15641,7 +10718,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 47
+                "pdx": 31
             }
         ],
         "gid": "P0266",
@@ -15661,10 +10738,11 @@ P = [
     },
     {
         "bkf": [
-            233
+            329
         ],
         "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -15675,41 +10753,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1152
-            }
-        ],
-        "gid": "P1005",
-        "locations": [],
-        "media": [],
-        "name": "Greeneville, TN, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Greeneville"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [
-            499
-        ],
-        "bki": [],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 834
+                "pdx": 564
             }
         ],
         "gid": "P1694",
@@ -15729,10 +10773,11 @@ P = [
     },
     {
         "bkf": [
-            102
+            68
         ],
         "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 23:16:29",
         "cita": [],
         "code": "",
         "coords": [
@@ -15743,7 +10788,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 294
+                "pdx": 200
             }
         ],
         "gid": "P1418",
@@ -15764,9 +10809,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1574
+            863
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -15777,7 +10823,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 818
+                "pdx": 556
             }
         ],
         "gid": "P1116",
@@ -15797,10 +10843,11 @@ P = [
     },
     {
         "bkf": [
-            427
+            279
         ],
         "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -15811,7 +10858,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 834
+                "pdx": 564
             }
         ],
         "gid": "P0918",
@@ -15831,10 +10878,11 @@ P = [
     },
     {
         "bkf": [
-            126
+            85
         ],
         "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -15845,7 +10893,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 872
+                "pdx": 594
             }
         ],
         "gid": "P1530",
@@ -15866,9 +10914,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1111
+            239
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -15879,7 +10928,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1039
+                "pdx": 712
             }
         ],
         "gid": "P0880",
@@ -15900,9 +10949,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1961
+            1050
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -15913,7 +10963,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 818
+                "pdx": 556
             }
         ],
         "gid": "P0993",
@@ -15934,9 +10984,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1853
+            1005
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -15947,7 +10998,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1039
+                "pdx": 712
             }
         ],
         "gid": "P1485",
@@ -15969,8 +11020,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            675
+            462
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -15981,7 +11033,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1170
+                "pdx": 804
             }
         ],
         "gid": "P0034",
@@ -16002,9 +11054,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            733
+            413
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -16015,7 +11068,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 818
+                "pdx": 556
             }
         ],
         "gid": "P1141",
@@ -16036,9 +11089,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            334
+            876
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -16049,41 +11103,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 958
-            }
-        ],
-        "gid": "P1148",
-        "locations": [],
-        "media": [],
-        "name": "Guayama, PR, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Guayama"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1595
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 958
+                "pdx": 657
             }
         ],
         "gid": "P1312",
@@ -16104,9 +11124,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1416
+            777
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -16117,7 +11138,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 818
+                "pdx": 556
             }
         ],
         "gid": "P1323",
@@ -16137,10 +11158,11 @@ P = [
     },
     {
         "bkf": [
-            475
+            311
         ],
         "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -16151,7 +11173,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 874
+                "pdx": 596
             }
         ],
         "gid": "P1443",
@@ -16171,44 +11193,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [],
-        "bkp": [
-            255
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 419
-            }
-        ],
-        "gid": "P0091",
-        "locations": [],
-        "media": [],
-        "name": "Habersham, GA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Habersham"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [
-            630
+            378
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -16219,7 +11208,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 745
+                "pdx": 507
             }
         ],
         "gid": "P1603",
@@ -16239,44 +11228,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [],
-        "bkp": [
-            423
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 419
-            }
-        ],
-        "gid": "P0169",
-        "locations": [],
-        "media": [],
-        "name": "Hall, GA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Hall"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [
-            385
+            237
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:17:29",
         "cita": [],
         "code": "",
         "coords": [
@@ -16287,7 +11243,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1135
+                "pdx": 782
             }
         ],
         "gid": "P0855",
@@ -16309,8 +11265,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            1086
+            744
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -16321,7 +11278,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 687
+                "pdx": 468
             }
         ],
         "gid": "P0083",
@@ -16342,9 +11299,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1897
+            1021
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -16355,7 +11313,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 155
+                "pdx": 107
             }
         ],
         "gid": "P0900",
@@ -16376,9 +11334,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1627
+            895
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -16389,7 +11348,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 780
+                "pdx": 530
             }
         ],
         "gid": "P1470",
@@ -16410,9 +11369,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            470
+            272
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -16423,7 +11383,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 901
+                "pdx": 614
             }
         ],
         "gid": "P0884",
@@ -16445,8 +11405,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            1229
+            849
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -16457,7 +11418,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 384
+                "pdx": 261
             }
         ],
         "gid": "P0208",
@@ -16478,9 +11439,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1147
+            638
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -16491,7 +11453,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1152
+                "pdx": 792
             }
         ],
         "gid": "P1173",
@@ -16513,9 +11475,10 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            144,
-            518
+            99,
+            350
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -16526,7 +11489,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1170
+                "pdx": 804
             }
         ],
         "gid": "P0312",
@@ -16546,78 +11509,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [
-            1802
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 901
-            }
-        ],
-        "gid": "P1178",
-        "locations": [],
-        "media": [],
-        "name": "Harrisburg, PA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Harrisburg"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [
-            587
-        ],
-        "bki": [],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "36.22979360",
-            "-93.10767650"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 119
-            }
-        ],
-        "gid": "P1331",
-        "locations": [],
-        "media": [],
-        "name": "Harrison, Boone, AR, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Harrison"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [],
         "bkp": [
-            719
+            484
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -16628,7 +11524,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1170
+                "pdx": 804
             }
         ],
         "gid": "P0319",
@@ -16649,9 +11545,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            818
+            9
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -16662,143 +11559,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1184
-            }
-        ],
-        "gid": "P1650",
-        "locations": [],
-        "media": [],
-        "name": "Harrisonburg, VA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Harrisonburg"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [],
-        "bkp": [
-            486
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 271
-            }
-        ],
-        "gid": "P0222",
-        "locations": [],
-        "media": [],
-        "name": "Hartford, CT, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Hartford"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1895
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "41.76371110",
-            "-72.68509320"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 485
-            }
-        ],
-        "gid": "P0893",
-        "locations": [],
-        "media": [],
-        "name": "Hartford, Hartford, CT, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Hartford"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            246
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 836
-            }
-        ],
-        "gid": "P1699",
-        "locations": [],
-        "media": [],
-        "name": "Hastings, NE, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Hastings"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            12
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 818
+                "pdx": 556
             }
         ],
         "gid": "P1662",
@@ -16819,9 +11580,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1123
+            622
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -16832,7 +11594,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 819
+                "pdx": 557
             }
         ],
         "gid": "P1656",
@@ -16853,43 +11615,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1502
+            794
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "38.87917830",
-            "-99.32677020"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 351
-            }
-        ],
-        "gid": "P0878",
-        "locations": [],
-        "media": [],
-        "name": "Hays, Ellis, KS, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Hays"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1453
-        ],
-        "bkp": [],
+        "change_time": "2009-02-11 23:11:01",
         "cita": [],
         "code": "",
         "coords": [
@@ -16900,7 +11629,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 13
+                "pdx": 11
             }
         ],
         "gid": "P1477",
@@ -16921,9 +11650,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1097
+            612
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -16934,7 +11664,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 819
+                "pdx": 557
             }
         ],
         "gid": "P0990",
@@ -16956,8 +11686,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            512
+            346
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -16968,7 +11699,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 47
+                "pdx": 31
             }
         ],
         "gid": "P0340",
@@ -16989,9 +11720,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1796
+            976
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -17002,7 +11734,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 834
+                "pdx": 564
             }
         ],
         "gid": "P1238",
@@ -17024,8 +11756,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            59
+            43
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -17036,7 +11769,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1170
+                "pdx": 804
             }
         ],
         "gid": "P0279",
@@ -17058,8 +11791,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            839
+            569
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -17070,7 +11804,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 536
+                "pdx": 366
             }
         ],
         "gid": "P0186",
@@ -17091,9 +11825,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1470
+            802
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:18:50",
         "cita": [],
         "code": "",
         "coords": [
@@ -17104,7 +11839,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 291
+                "pdx": 197
             }
         ],
         "gid": "P1378",
@@ -17126,11 +11861,10 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            502,
-            509,
-            574,
-            577
+            339,
+            388
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -17141,7 +11875,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1178
+                "pdx": 812
             }
         ],
         "gid": "P0178",
@@ -17162,9 +11896,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            17
+            14
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -17175,7 +11910,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 834
+                "pdx": 564
             }
         ],
         "gid": "P1682",
@@ -17197,8 +11932,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            737
+            500
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -17209,7 +11945,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1170
+                "pdx": 804
             }
         ],
         "gid": "P0264",
@@ -17231,8 +11967,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            1134
+            781
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -17243,7 +11980,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 384
+                "pdx": 261
             }
         ],
         "gid": "P0046",
@@ -17264,9 +12001,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1366
+            760
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -17277,7 +12015,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 498
+                "pdx": 335
             }
         ],
         "gid": "P1304",
@@ -17297,10 +12035,11 @@ P = [
     },
     {
         "bkf": [
-            484
+            319
         ],
         "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -17311,7 +12050,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1039
+                "pdx": 712
             }
         ],
         "gid": "P1486",
@@ -17332,9 +12071,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            225
+            155
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:14:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -17345,7 +12085,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 659
+                "pdx": 453
             }
         ],
         "gid": "P1227",
@@ -17366,9 +12106,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            720
+            93
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -17379,75 +12120,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 854
-            }
-        ],
-        "gid": "P1064",
-        "locations": [],
-        "media": [],
-        "name": "Hobbs, NM, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Hobbs"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [],
-        "bkp": [
-            649
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1170
-            }
-        ],
-        "gid": "P0158",
-        "locations": [],
-        "media": [],
-        "name": "Hockley, TX, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Hockley"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            150
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 757
+                "pdx": 515
             }
         ],
         "gid": "P1079",
@@ -17468,9 +12141,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1143
+            634
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:13:44",
         "cita": [],
         "code": "",
         "coords": [
@@ -17481,7 +12155,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 206
+                "pdx": 143
             }
         ],
         "gid": "P1308",
@@ -17502,9 +12176,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            101
+            381
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -17515,41 +12190,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 498
-            }
-        ],
-        "gid": "P0929",
-        "locations": [],
-        "media": [],
-        "name": "Honolulu, HI, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Honolulu"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            636
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 884
+                "pdx": 602
             }
         ],
         "gid": "P1525",
@@ -17571,8 +12212,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            442
+            297
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -17583,7 +12225,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1170
+                "pdx": 804
             }
         ],
         "gid": "P0344",
@@ -17604,9 +12246,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            160
+            103
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:08:30",
         "cita": [],
         "code": "",
         "coords": [
@@ -17617,7 +12260,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 493
+                "pdx": 330
             }
         ],
         "gid": "P1091",
@@ -17639,8 +12282,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            905
+            617
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -17651,7 +12295,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1170
+                "pdx": 804
             }
         ],
         "gid": "P0281",
@@ -17672,9 +12316,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            571
+            345
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:08:30",
         "cita": [],
         "code": "",
         "coords": [
@@ -17685,7 +12330,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 429
+                "pdx": 289
             }
         ],
         "gid": "P1295",
@@ -17705,10 +12350,11 @@ P = [
     },
     {
         "bkf": [
-            573
+            384
         ],
         "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 23:17:29",
         "cita": [],
         "code": "",
         "coords": [
@@ -17719,7 +12365,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1143
+                "pdx": 786
             }
         ],
         "gid": "P1399",
@@ -17739,78 +12385,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [],
-        "bkp": [
-            312
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 11
-            }
-        ],
-        "gid": "P0363",
-        "locations": [],
-        "media": [],
-        "name": "Houston, AL, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Houston"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [],
-        "bkp": [
-            1212
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 419
-            }
-        ],
-        "gid": "P0218",
-        "locations": [],
-        "media": [],
-        "name": "Houston, GA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Houston"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [
-            181
+            119
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:18:50",
         "cita": [],
         "code": "",
         "coords": [
@@ -17821,7 +12400,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 480
+                "pdx": 324
             }
         ],
         "gid": "P0877",
@@ -17843,8 +12422,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            935
+            638
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -17855,7 +12435,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1170
+                "pdx": 804
             }
         ],
         "gid": "P0396",
@@ -17877,8 +12457,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            598
+            407
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -17889,7 +12470,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 536
+                "pdx": 366
             }
         ],
         "gid": "P0171",
@@ -17911,8 +12492,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            103
+            74
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -17923,7 +12505,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1170
+                "pdx": 804
             }
         ],
         "gid": "P0420",
@@ -17944,9 +12526,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1633
+            900
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:18:11",
         "cita": [],
         "code": "",
         "coords": [
@@ -17957,7 +12540,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 239
+                "pdx": 163
             }
         ],
         "gid": "P1041",
@@ -17979,8 +12562,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            364
+            249
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -17991,7 +12575,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 155
+                "pdx": 107
             }
         ],
         "gid": "P0239",
@@ -18010,45 +12594,12 @@ P = [
         "urls": []
     },
     {
-        "bkf": [],
-        "bki": [
-            1545
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "34.73036880",
-            "-86.58610370"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 694
-            }
-        ],
-        "gid": "P0904",
-        "locations": [],
-        "media": [],
-        "name": "Huntsville, Madison, AL, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Huntsville"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
         "bkf": [
-            535
+            356
         ],
         "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 23:18:50",
         "cita": [],
         "code": "",
         "coords": [
@@ -18059,7 +12610,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1208
+                "pdx": 836
             }
         ],
         "gid": "P1063",
@@ -18079,10 +12630,11 @@ P = [
     },
     {
         "bkf": [
-            614
+            409
         ],
         "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -18093,7 +12645,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1045
+                "pdx": 716
             }
         ],
         "gid": "P1490",
@@ -18114,9 +12666,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1148
+            639
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -18127,7 +12680,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 779
+                "pdx": 529
             }
         ],
         "gid": "P1576",
@@ -18148,9 +12701,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            2069
+            1109
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:16:45",
         "cita": [],
         "code": "",
         "coords": [
@@ -18161,7 +12715,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 980
+                "pdx": 676
             }
         ],
         "gid": "P1145",
@@ -18183,8 +12737,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            1268
+            873
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -18195,7 +12750,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1178
+                "pdx": 812
             }
         ],
         "gid": "P0107",
@@ -18217,26 +12772,25 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            121,
-            146,
+            84,
+            101,
+            148,
+            208,
             212,
             219,
-            303,
-            307,
-            321,
-            557,
-            569,
-            646,
-            703,
-            720,
-            822,
-            942,
-            1040,
-            1116,
-            1210,
-            1226,
-            1235
+            378,
+            385,
+            444,
+            473,
+            485,
+            645,
+            713,
+            766,
+            837,
+            846,
+            854
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -18247,7 +12801,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1178
+                "pdx": 812
             }
         ],
         "gid": "P0012",
@@ -18269,18 +12823,17 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            72,
-            105,
-            117,
-            118,
-            178,
-            353,
-            599,
-            633,
-            696,
-            850,
-            1168
+            53,
+            81,
+            82,
+            125,
+            240,
+            435,
+            471,
+            576,
+            802
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -18291,7 +12844,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1178
+                "pdx": 812
             }
         ],
         "gid": "P0070",
@@ -18312,9 +12865,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            508
+            302
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:15:43",
         "cita": [],
         "code": "",
         "coords": [
@@ -18325,7 +12879,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 118
+                "pdx": 82
             }
         ],
         "gid": "P1438",
@@ -18347,8 +12901,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            4
+            3
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -18359,7 +12914,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1178
+                "pdx": 812
             }
         ],
         "gid": "P0126",
@@ -18381,27 +12936,20 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            189,
-            204,
-            249,
-            341,
-            343,
-            416,
-            545,
-            608,
-            617,
-            647,
-            671,
-            691,
-            715,
-            740,
-            919,
-            1029,
-            1094,
-            1192,
-            1246,
-            1264
+            131,
+            171,
+            231,
+            233,
+            282,
+            415,
+            422,
+            445,
+            628,
+            705,
+            750,
+            859
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -18412,7 +12960,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1178
+                "pdx": 812
             }
         ],
         "gid": "P0078",
@@ -18434,8 +12982,28 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            345
+            4,
+            57,
+            192,
+            200,
+            204,
+            238,
+            257,
+            333,
+            352,
+            424,
+            429,
+            486,
+            518,
+            534,
+            539,
+            581,
+            761,
+            790,
+            832,
+            852
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -18446,74 +13014,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 155
-            }
-        ],
-        "gid": "P0205",
-        "locations": [],
-        "media": [],
-        "name": "Imperial, CA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Imperial"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [],
-        "bkp": [
-            5,
-            27,
-            76,
-            220,
-            283,
-            294,
-            299,
-            318,
-            349,
-            377,
-            446,
-            496,
-            520,
-            546,
-            562,
-            565,
-            600,
-            620,
-            626,
-            640,
-            697,
-            721,
-            760,
-            786,
-            792,
-            855,
-            1041,
-            1096,
-            1109,
-            1150,
-            1190,
-            1198,
-            1204,
-            1233
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1178
+                "pdx": 812
             }
         ],
         "gid": "P0039",
@@ -18535,8 +13036,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            79
+            824
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -18547,41 +13049,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 47
-            }
-        ],
-        "gid": "P0154",
-        "locations": [],
-        "media": [],
-        "name": "Independence, AR, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Independence"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [],
-        "bkp": [
-            1195
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 384
+                "pdx": 261
             }
         ],
         "gid": "P0016",
@@ -18602,9 +13070,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1911
+            1029
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -18615,7 +13084,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 901
+                "pdx": 614
             }
         ],
         "gid": "P1250",
@@ -18636,77 +13105,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1997
+            877
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 818
-            }
-        ],
-        "gid": "P1240",
-        "locations": [],
-        "media": [],
-        "name": "Indianola, MS, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Indianola"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [],
-        "bkp": [
-            108
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 155
-            }
-        ],
-        "gid": "P0400",
-        "locations": [],
-        "media": [],
-        "name": "Inyo, CA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Inyo"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1596
-        ],
-        "bkp": [],
+        "change_time": "2009-02-11 23:15:22",
         "cita": [],
         "code": "",
         "coords": [
@@ -18717,7 +13119,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 569
+                "pdx": 385
             }
         ],
         "gid": "P1025",
@@ -18738,9 +13140,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            312
+            186
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -18751,7 +13154,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 757
+                "pdx": 515
             }
         ],
         "gid": "P1369",
@@ -18772,9 +13175,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1766
+            263
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -18785,109 +13189,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 958
-            }
-        ],
-        "gid": "P1692",
-        "locations": [],
-        "media": [],
-        "name": "Isabela, PR, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Isabela"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [],
-        "bkp": [
-            174
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 534
-            }
-        ],
-        "gid": "P0079",
-        "locations": [],
-        "media": [],
-        "name": "Jackson, IL, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Jackson"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [],
-        "bkp": [
-            1057
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 536
-            }
-        ],
-        "gid": "P0086",
-        "locations": [],
-        "media": [],
-        "name": "Jackson, IN, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Jackson"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            458
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 757
+                "pdx": 515
             }
         ],
         "gid": "P1310",
@@ -18908,9 +13210,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1927
+            1038
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -18921,7 +13224,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1152
+                "pdx": 792
             }
         ],
         "gid": "P1261",
@@ -18942,43 +13245,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1613
+            919
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1277
-            }
-        ],
-        "gid": "P1251",
-        "locations": [],
-        "media": [],
-        "name": "Jackson, WY, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Jackson"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1665
-        ],
-        "bkp": [],
+        "change_time": "2009-02-11 23:18:50",
         "cita": [],
         "code": "",
         "coords": [
@@ -18989,7 +13259,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 198
+                "pdx": 138
             }
         ],
         "gid": "P1632",
@@ -19010,43 +13280,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            108
+            780
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "30.33218380",
-            "-81.65565100"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 330
-            }
-        ],
-        "gid": "P1642",
-        "locations": [],
-        "media": [],
-        "name": "Jacksonville, Duval, FL, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Jacksonville"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1421
-        ],
-        "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -19057,7 +13294,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 834
+                "pdx": 564
             }
         ],
         "gid": "P1222",
@@ -19078,9 +13315,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            2063
+            1107
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -19091,7 +13329,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 835
+                "pdx": 565
             }
         ],
         "gid": "P1558",
@@ -19112,9 +13350,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            525
+            311
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -19125,7 +13364,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 865
+                "pdx": 588
             }
         ],
         "gid": "P1106",
@@ -19146,9 +13385,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1821
+            982
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -19159,7 +13399,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1250
+                "pdx": 863
             }
         ],
         "gid": "P0944",
@@ -19179,44 +13419,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [
-            1819
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "38.39144180",
-            "-86.93110940"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 318
-            }
-        ],
-        "gid": "P1491",
-        "locations": [],
-        "media": [],
-        "name": "Jasper, Dubois, IN, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Jasper"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [],
         "bkp": [
-            849
+            575
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -19227,7 +13434,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 530
+                "pdx": 361
             }
         ],
         "gid": "P0244",
@@ -19248,9 +13455,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            774
+            8
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -19261,7 +13469,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 780
+                "pdx": 530
             }
         ],
         "gid": "P1633",
@@ -19283,8 +13491,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            566
+            383
         ],
+        "change_time": "2016-06-18 00:05:03",
         "cita": [],
         "code": "",
         "coords": [
@@ -19295,7 +13504,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 609
+                "pdx": 416
             }
         ],
         "gid": "P0388",
@@ -19310,15 +13519,16 @@ P = [
             }
         ],
         "note": "",
-        "type": "County",
+        "type": "Parish",
         "urls": []
     },
     {
         "bkf": [],
         "bki": [],
         "bkp": [
-            107
+            166
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -19329,41 +13539,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 11
-            }
-        ],
-        "gid": "P0426",
-        "locations": [],
-        "media": [],
-        "name": "Jefferson, AL, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Jefferson"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [],
-        "bkp": [
-            243
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 418
+                "pdx": 283
             }
         ],
         "gid": "P0272",
@@ -19385,8 +13561,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            698
+            62
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -19397,75 +13574,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 536
-            }
-        ],
-        "gid": "P0275",
-        "locations": [],
-        "media": [],
-        "name": "Jefferson, IN, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Jefferson"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [],
-        "bkp": [
-            679
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 603
-            }
-        ],
-        "gid": "P0099",
-        "locations": [],
-        "media": [],
-        "name": "Jefferson, KY, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Jefferson"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [],
-        "bkp": [
-            85
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1170
+                "pdx": 804
             }
         ],
         "gid": "P0256",
@@ -19485,44 +13594,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [],
-        "bkp": [
-            860
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 536
-            }
-        ],
-        "gid": "P0397",
-        "locations": [],
-        "media": [],
-        "name": "Jennings, IN, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Jennings"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [
-            131
+            84
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:17:29",
         "cita": [],
         "code": "",
         "coords": [
@@ -19533,7 +13609,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 559
+                "pdx": 380
             }
         ],
         "gid": "P1668",
@@ -19553,44 +13629,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [
-            1868
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "31.60743650",
-            "-81.88539240"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1232
-            }
-        ],
-        "gid": "P1233",
-        "locations": [],
-        "media": [],
-        "name": "Jesup, Wayne, GA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Jesup"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [],
         "bkp": [
-            25
+            18
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -19601,7 +13644,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1170
+                "pdx": 804
             }
         ],
         "gid": "P0135",
@@ -19623,8 +13666,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            542
+            369
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -19635,7 +13679,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 530
+                "pdx": 361
             }
         ],
         "gid": "P0132",
@@ -19654,79 +13698,12 @@ P = [
         "urls": []
     },
     {
-        "bkf": [],
-        "bki": [
-            1664
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 901
-            }
-        ],
-        "gid": "P1638",
-        "locations": [],
-        "media": [],
-        "name": "Johnstown, PA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Johnstown"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1789
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "35.84229670",
-            "-90.70427910"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 264
-            }
-        ],
-        "gid": "P1220",
-        "locations": [],
-        "media": [],
-        "name": "Jonesboro, Craighead, AR, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Jonesboro"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
         "bkf": [
-            81
+            59
         ],
         "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -19737,7 +13714,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 780
+                "pdx": 530
             }
         ],
         "gid": "P0915",
@@ -19758,9 +13735,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1519
+            828
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -19771,7 +13749,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 9
+                "pdx": 8
             }
         ],
         "gid": "P1685",
@@ -19792,9 +13770,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1593
+            874
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -19805,7 +13784,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 498
+                "pdx": 335
             }
         ],
         "gid": "P1135",
@@ -19826,9 +13805,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1482
+            811
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -19839,7 +13819,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 757
+                "pdx": 515
             }
         ],
         "gid": "P0859",
@@ -19858,45 +13838,12 @@ P = [
         "urls": []
     },
     {
-        "bkf": [
-            462
-        ],
-        "bki": [],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 780
-            }
-        ],
-        "gid": "P0907",
-        "locations": [],
-        "media": [],
-        "name": "Kansas City, MO, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Kansas City"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
         "bkf": [],
         "bki": [
-            1130
+            790
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -19907,41 +13854,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 498
-            }
-        ],
-        "gid": "P1614",
-        "locations": [],
-        "media": [],
-        "name": "Kapaa, HI, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Kapaa"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1412
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 836
+                "pdx": 566
             }
         ],
         "gid": "P1111",
@@ -19962,9 +13875,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            752
+            698
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -19975,7 +13889,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 851
+                "pdx": 577
             }
         ],
         "gid": "P1392",
@@ -19995,10 +13909,11 @@ P = [
     },
     {
         "bkf": [
-            651
+            389
         ],
         "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 23:16:29",
         "cita": [],
         "code": "",
         "coords": [
@@ -20009,7 +13924,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 855
+                "pdx": 581
             }
         ],
         "gid": "P1501",
@@ -20030,9 +13945,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            917
+            512
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -20043,7 +13959,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 780
+                "pdx": 530
             }
         ],
         "gid": "P1635",
@@ -20064,9 +13980,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            467
+            271
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -20077,7 +13994,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1203
+                "pdx": 831
             }
         ],
         "gid": "P1158",
@@ -20097,44 +14014,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [],
-        "bkp": [
-            316
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 290
-            }
-        ],
-        "gid": "P0293",
-        "locations": [],
-        "media": [],
-        "name": "Kent, DE, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Kent"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [
-            1963
+            1052
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:15:22",
         "cita": [],
         "code": "",
         "coords": [
@@ -20145,7 +14029,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 646
+                "pdx": 444
             }
         ],
         "gid": "P1333",
@@ -20165,10 +14049,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [],
-        "bkp": [
-            586
+        "bki": [
+            418
         ],
+        "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -20179,75 +14064,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1170
-            }
-        ],
-        "gid": "P0399",
-        "locations": [],
-        "media": [],
-        "name": "Kerr, TX, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Kerr"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            249
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "30.04743320",
-            "-99.14031890"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 585
-            }
-        ],
-        "gid": "P0996",
-        "locations": [],
-        "media": [],
-        "name": "Kerrville, Kerr, TX, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Kerrville"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            749
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 9
+                "pdx": 8
             }
         ],
         "gid": "P1370",
@@ -20267,10 +14084,11 @@ P = [
     },
     {
         "bkf": [
-            375
+            247
         ],
         "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -20281,7 +14099,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 384
+                "pdx": 261
             }
         ],
         "gid": "P1596",
@@ -20302,9 +14120,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1721
+            944
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -20315,7 +14134,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 834
+                "pdx": 564
             }
         ],
         "gid": "P1520",
@@ -20336,9 +14155,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            647
+            384
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:18:50",
         "cita": [],
         "code": "",
         "coords": [
@@ -20349,7 +14169,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 91
+                "pdx": 66
             }
         ],
         "gid": "P0903",
@@ -20370,9 +14190,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1441
+            400
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -20383,7 +14204,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1152
+                "pdx": 792
             }
         ],
         "gid": "P1505",
@@ -20404,9 +14225,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1771
+            968
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:18:11",
         "cita": [],
         "code": "",
         "coords": [
@@ -20417,7 +14239,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1173
+                "pdx": 807
             }
         ],
         "gid": "P1241",
@@ -20437,10 +14259,11 @@ P = [
     },
     {
         "bkf": [
-            584
+            392
         ],
         "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 23:18:50",
         "cita": [],
         "code": "",
         "coords": [
@@ -20451,7 +14274,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 596
+                "pdx": 405
             }
         ],
         "gid": "P0999",
@@ -20472,9 +14295,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1151
+            642
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -20485,7 +14309,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 834
+                "pdx": 564
             }
         ],
         "gid": "P0987",
@@ -20506,9 +14330,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            2011
+            1077
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -20519,7 +14344,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 884
+                "pdx": 602
             }
         ],
         "gid": "P0986",
@@ -20541,8 +14366,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            593
+            402
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -20553,7 +14379,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1170
+                "pdx": 804
             }
         ],
         "gid": "P0180",
@@ -20574,9 +14400,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            680
+            387
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -20587,7 +14414,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1152
+                "pdx": 792
             }
         ],
         "gid": "P1494",
@@ -20608,9 +14435,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1155
+            646
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:16:29",
         "cita": [],
         "code": "",
         "coords": [
@@ -20621,7 +14449,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 520
+                "pdx": 352
             }
         ],
         "gid": "P1345",
@@ -20643,8 +14471,20 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            227
+            41,
+            177,
+            178,
+            216,
+            259,
+            467,
+            505,
+            540,
+            676,
+            679,
+            725,
+            727
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -20655,89 +14495,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 531
-            }
-        ],
-        "gid": "P0260",
-        "locations": [],
-        "media": [],
-        "name": "Kootenai, ID, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Kootenai"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [],
-        "bkp": [
-            1218
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 536
-            }
-        ],
-        "gid": "P0040",
-        "locations": [],
-        "media": [],
-        "name": "Kosciusko, IN, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Kosciusko"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [],
-        "bkp": [
-            57,
-            263,
-            265,
-            315,
-            351,
-            382,
-            392,
-            686,
-            743,
-            793,
-            980,
-            986,
-            1011,
-            1056,
-            1059
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1178
+                "pdx": 812
             }
         ],
         "gid": "P0102",
@@ -20759,8 +14517,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            739
+            502
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -20771,7 +14530,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1178
+                "pdx": 812
             }
         ],
         "gid": "P0140",
@@ -20793,24 +14552,17 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            75,
-            127,
-            284,
-            378,
-            409,
-            449,
-            563,
-            635,
-            699,
-            730,
-            764,
-            794,
-            820,
-            965,
-            1138,
-            1214,
-            1248
+            56,
+            89,
+            276,
+            494,
+            521,
+            541,
+            662,
+            840,
+            861
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -20821,7 +14573,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1178
+                "pdx": 812
             }
         ],
         "gid": "P0014",
@@ -20842,9 +14594,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1848
+            1002
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -20855,7 +14608,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1250
+                "pdx": 863
             }
         ],
         "gid": "P1119",
@@ -20876,9 +14629,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            887
+            485
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -20889,7 +14643,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1152
+                "pdx": 792
             }
         ],
         "gid": "P0966",
@@ -20910,9 +14664,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1151
+            642
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -20923,7 +14678,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 884
+                "pdx": 602
             }
         ],
         "gid": "P1377",
@@ -20945,8 +14700,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            326
+            223
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -20957,7 +14713,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 223
+                "pdx": 153
             }
         ],
         "gid": "P0259",
@@ -20979,8 +14735,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            893
+            608
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -20991,7 +14748,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 534
+                "pdx": 365
             }
         ],
         "gid": "P0408",
@@ -21013,25 +14770,23 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            2,
-            157,
-            160,
-            288,
-            334,
-            400,
-            559,
+            1,
+            108,
+            111,
+            194,
+            270,
+            380,
+            417,
+            472,
+            606,
             611,
-            662,
-            700,
-            889,
-            896,
-            972,
-            1098,
-            1135,
-            1143,
-            1222,
-            1236
+            669,
+            752,
+            782,
+            786,
+            844
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -21042,7 +14797,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1178
+                "pdx": 812
             }
         ],
         "gid": "P0062",
@@ -21062,44 +14817,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [
-            1457
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 851
-            }
-        ],
-        "gid": "P1181",
-        "locations": [],
-        "media": [],
-        "name": "Laconia, NH, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Laconia"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [],
         "bkp": [
-            612
+            418
         ],
+        "change_time": "2016-06-18 00:05:03",
         "cita": [],
         "code": "",
         "coords": [
@@ -21110,7 +14832,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 609
+                "pdx": 416
             }
         ],
         "gid": "P0297",
@@ -21125,15 +14847,16 @@ P = [
             }
         ],
         "note": "",
-        "type": "County",
+        "type": "Parish",
         "urls": []
     },
     {
         "bkf": [],
         "bki": [
-            1499
+            820
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:17:29",
         "cita": [],
         "code": "",
         "coords": [
@@ -21144,7 +14867,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 611
+                "pdx": 417
             }
         ],
         "gid": "P1271",
@@ -21165,9 +14888,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1814
+            1009
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:16:29",
         "cita": [],
         "code": "",
         "coords": [
@@ -21178,7 +14902,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1150
+                "pdx": 790
             }
         ],
         "gid": "P1502",
@@ -21199,43 +14923,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            646
+            580
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 419
-            }
-        ],
-        "gid": "P0896",
-        "locations": [],
-        "media": [],
-        "name": "LaGrange, GA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "LaGrange"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1037
-        ],
-        "bkp": [],
+        "change_time": "2009-02-11 23:17:29",
         "cita": [],
         "code": "",
         "coords": [
@@ -21246,7 +14937,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 160
+                "pdx": 111
             }
         ],
         "gid": "P1373",
@@ -21267,9 +14958,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1771
+            968
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:13:44",
         "cita": [],
         "code": "",
         "coords": [
@@ -21280,7 +14972,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 237
+                "pdx": 161
             }
         ],
         "gid": "P1102",
@@ -21301,9 +14993,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            364
+            229
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -21314,7 +15007,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 534
+                "pdx": 365
             }
         ],
         "gid": "P1203",
@@ -21334,44 +15027,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [
-            392
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "34.48390100",
-            "-114.32245480"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 785
-            }
-        ],
-        "gid": "P1466",
-        "locations": [],
-        "media": [],
-        "name": "Lake Havasu City, Mohave, AZ, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Lake Havasu City"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [],
         "bkp": [
-            213
+            149
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -21382,7 +15042,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 155
+                "pdx": 107
             }
         ],
         "gid": "P0427",
@@ -21404,8 +15064,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            430
+            290
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -21416,7 +15077,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 536
+                "pdx": 366
             }
         ],
         "gid": "P0304",
@@ -21437,9 +15098,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            575
+            348
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:13:44",
         "cita": [],
         "code": "",
         "coords": [
@@ -21450,7 +15112,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 940
+                "pdx": 643
             }
         ],
         "gid": "P1636",
@@ -21471,9 +15133,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1363
+            758
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:18:50",
         "cita": [],
         "code": "",
         "coords": [
@@ -21484,7 +15147,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 285
+                "pdx": 193
             }
         ],
         "gid": "P1365",
@@ -21505,9 +15168,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1765
+            966
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -21518,7 +15182,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 901
+                "pdx": 614
             }
         ],
         "gid": "P1280",
@@ -21539,9 +15203,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            74
+            47
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -21552,7 +15217,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1039
+                "pdx": 712
             }
         ],
         "gid": "P0943",
@@ -21571,45 +15236,12 @@ P = [
         "urls": []
     },
     {
-        "bkf": [
-            724
-        ],
-        "bki": [],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 757
-            }
-        ],
-        "gid": "P1406",
-        "locations": [],
-        "media": [],
-        "name": "Lansing, MI, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Lansing"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
         "bkf": [],
         "bki": [],
         "bkp": [
-            763
+            520
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -21620,7 +15252,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 536
+                "pdx": 366
             }
         ],
         "gid": "P0316",
@@ -21641,43 +15273,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            564
+            108
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1277
-            }
-        ],
-        "gid": "P1590",
-        "locations": [],
-        "media": [],
-        "name": "Laramie, WY, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Laramie"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1547
-        ],
-        "bkp": [],
+        "change_time": "2009-02-11 23:18:50",
         "cita": [],
         "code": "",
         "coords": [
@@ -21688,7 +15287,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1234
+                "pdx": 853
             }
         ],
         "gid": "P1426",
@@ -21710,9 +15309,10 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            395,
-            680
+            266,
+            464
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -21723,7 +15323,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 223
+                "pdx": 153
             }
         ],
         "gid": "P0170",
@@ -21744,9 +15344,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1143
+            634
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -21757,7 +15358,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 854
+                "pdx": 580
             }
         ],
         "gid": "P1552",
@@ -21778,9 +15379,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1488
+            816
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -21791,7 +15393,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 854
+                "pdx": 580
             }
         ],
         "gid": "P1291",
@@ -21812,9 +15414,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1129
+            625
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -21825,7 +15428,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 864
+                "pdx": 587
             }
         ],
         "gid": "P1395",
@@ -21847,8 +15450,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            807
+            548
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -21859,7 +15463,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 531
+                "pdx": 362
             }
         ],
         "gid": "P0317",
@@ -21881,8 +15485,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            388
+            264
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -21893,7 +15498,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 11
+                "pdx": 10
             }
         ],
         "gid": "P0142",
@@ -21913,44 +15518,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [],
-        "bkp": [
-            673
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 603
-            }
-        ],
-        "gid": "P0105",
-        "locations": [],
-        "media": [],
-        "name": "Laurel, KY, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Laurel"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [
-            1548
+            854
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -21961,7 +15533,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 818
+                "pdx": 556
             }
         ],
         "gid": "P1497",
@@ -21983,8 +15555,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            317
+            217
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -21995,7 +15568,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 419
+                "pdx": 284
             }
         ],
         "gid": "P0311",
@@ -22014,45 +15587,12 @@ P = [
         "urls": []
     },
     {
-        "bkf": [
-            618
-        ],
-        "bki": [],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 834
-            }
-        ],
-        "gid": "P1094",
-        "locations": [],
-        "media": [],
-        "name": "Laurinburg, NC, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Laurinburg"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
         "bkf": [],
         "bki": [
-            1500
+            821
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:16:45",
         "cita": [],
         "code": "",
         "coords": [
@@ -22063,7 +15603,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 315
+                "pdx": 216
             }
         ],
         "gid": "P1519",
@@ -22083,44 +15623,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [],
-        "bkp": [
-            88
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 536
-            }
-        ],
-        "gid": "P0214",
-        "locations": [],
-        "media": [],
-        "name": "Lawrence, IN, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Lawrence"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [
-            847
+            366
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -22131,41 +15638,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1152
-            }
-        ],
-        "gid": "P1037",
-        "locations": [],
-        "media": [],
-        "name": "Lawrenceburg, TN, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Lawrenceburg"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            599
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 874
+                "pdx": 596
             }
         ],
         "gid": "P0868",
@@ -22186,9 +15659,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1443
+            789
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -22199,7 +15673,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 780
+                "pdx": 530
             }
         ],
         "gid": "P0998",
@@ -22220,9 +15694,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1405
+            775
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -22233,7 +15708,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 901
+                "pdx": 614
             }
         ],
         "gid": "P1021",
@@ -22255,8 +15730,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            63
+            46
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -22267,7 +15743,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 11
+                "pdx": 10
             }
         ],
         "gid": "P0100",
@@ -22289,8 +15765,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            584
+            395
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -22301,7 +15778,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 530
+                "pdx": 361
             }
         ],
         "gid": "P0013",
@@ -22323,8 +15800,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            310
+            213
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -22335,7 +15813,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 534
+                "pdx": 365
             }
         ],
         "gid": "P0197",
@@ -22357,8 +15835,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            1132
+            779
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -22369,7 +15848,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 384
+                "pdx": 261
             }
         ],
         "gid": "P0280",
@@ -22390,111 +15869,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1353
+            838
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "33.58731640",
-            "-102.37796000"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 506
-            }
-        ],
-        "gid": "P1515",
-        "locations": [],
-        "media": [],
-        "name": "Levelland, Hockley, TX, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Levelland"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1092
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 901
-            }
-        ],
-        "gid": "P1448",
-        "locations": [],
-        "media": [],
-        "name": "Lewisburg, PA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Lewisburg"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1473
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 746
-            }
-        ],
-        "gid": "P1702",
-        "locations": [],
-        "media": [],
-        "name": "Lewiston, ME, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Lewiston"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1529
-        ],
-        "bkp": [],
+        "change_time": "2009-02-11 23:15:43",
         "cita": [],
         "code": "",
         "coords": [
@@ -22505,7 +15883,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 850
+                "pdx": 576
             }
         ],
         "gid": "P1019",
@@ -22526,9 +15904,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            508
+            302
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -22539,7 +15918,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 901
+                "pdx": 614
             }
         ],
         "gid": "P0984",
@@ -22560,9 +15939,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1787
+            973
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -22573,7 +15953,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 745
+                "pdx": 507
             }
         ],
         "gid": "P1301",
@@ -22594,43 +15974,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            2031
+            1108
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "37.98868920",
-            "-84.47771530"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 378
-            }
-        ],
-        "gid": "P1092",
-        "locations": [],
-        "media": [],
-        "name": "Lexington, Fayette, KY, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Lexington"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            846
-        ],
-        "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -22641,7 +15988,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 834
+                "pdx": 564
             }
         ],
         "gid": "P1588",
@@ -22662,9 +16009,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            257
+            168
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -22675,7 +16023,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 836
+                "pdx": 566
             }
         ],
         "gid": "P1503",
@@ -22696,9 +16044,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1482
+            811
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:16:45",
         "cita": [],
         "code": "",
         "coords": [
@@ -22709,7 +16058,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1056
+                "pdx": 725
             }
         ],
         "gid": "P1205",
@@ -22731,8 +16080,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            504
+            341
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -22743,7 +16093,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 419
+                "pdx": 284
             }
         ],
         "gid": "P0139",
@@ -22763,10 +16113,11 @@ P = [
     },
     {
         "bkf": [
-            404
+            265
         ],
         "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -22777,7 +16128,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 872
+                "pdx": 594
             }
         ],
         "gid": "P0967",
@@ -22799,8 +16150,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            1197
+            826
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -22811,7 +16163,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1170
+                "pdx": 804
             }
         ],
         "gid": "P0362",
@@ -22830,79 +16182,12 @@ P = [
         "urls": []
     },
     {
-        "bkf": [],
-        "bki": [],
-        "bkp": [
-            1005
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 609
-            }
-        ],
-        "gid": "P0265",
-        "locations": [],
-        "media": [],
-        "name": "Lincoln, LA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Lincoln"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            202
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "40.14837680",
-            "-89.36481830"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 671
-            }
-        ],
-        "gid": "P1103",
-        "locations": [],
-        "media": [],
-        "name": "Lincoln, Logan, IL, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Lincoln"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
         "bkf": [
-            108
+            72
         ],
         "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -22913,7 +16198,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 836
+                "pdx": 566
             }
         ],
         "gid": "P1433",
@@ -22935,8 +16220,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            1157
+            794
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -22947,7 +16233,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 271
+                "pdx": 184
             }
         ],
         "gid": "P0361",
@@ -22966,45 +16252,12 @@ P = [
         "urls": []
     },
     {
-        "bkf": [],
-        "bki": [
-            602
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "34.74648090",
-            "-92.28959480"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 964
-            }
-        ],
-        "gid": "P1547",
-        "locations": [],
-        "media": [],
-        "name": "Little Rock, Pulaski, AR, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Little Rock"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
         "bkf": [
-            598
+            400
         ],
         "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -23015,7 +16268,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 757
+                "pdx": 515
             }
         ],
         "gid": "P1174",
@@ -23035,44 +16288,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [],
-        "bkp": [
-            424
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1170
-            }
-        ],
-        "gid": "P0194",
-        "locations": [],
-        "media": [],
-        "name": "Llano, TX, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Llano"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [
-            875
+            473
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -23083,7 +16303,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 901
+                "pdx": 614
             }
         ],
         "gid": "P1472",
@@ -23105,8 +16325,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            1107
+            759
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -23117,7 +16338,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 223
+                "pdx": 153
             }
         ],
         "gid": "P0143",
@@ -23137,44 +16358,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [],
-        "bkp": [
-            663
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 534
-            }
-        ],
-        "gid": "P0393",
-        "locations": [],
-        "media": [],
-        "name": "Logan, IL, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Logan"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [
-            525
+            311
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -23185,7 +16373,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1179
+                "pdx": 813
             }
         ],
         "gid": "P1424",
@@ -23206,77 +16394,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            449
+            758
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "37.12897710",
-            "-84.08326460"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 635
-            }
-        ],
-        "gid": "P1344",
-        "locations": [],
-        "media": [],
-        "name": "London, Laurel, KY, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "London"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1842
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1203
-            }
-        ],
-        "gid": "P1341",
-        "locations": [],
-        "media": [],
-        "name": "Longview-Kelso, WA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Longview-Kelso"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1363
-        ],
-        "bkp": [],
+        "change_time": "2009-02-11 23:18:50",
         "cita": [],
         "code": "",
         "coords": [
@@ -23287,7 +16408,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 464
+                "pdx": 311
             }
         ],
         "gid": "P1675",
@@ -23309,8 +16430,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            677
+            749
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -23321,75 +16443,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 155
-            }
-        ],
-        "gid": "P0331",
-        "locations": [],
-        "media": [],
-        "name": "Los Angeles, CA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Los Angeles"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1114
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "34.05223420",
-            "-118.24368490"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 676
-            }
-        ],
-        "gid": "P1054",
-        "locations": [],
-        "media": [],
-        "name": "Los Angeles, Los Angeles, CA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Los Angeles"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [],
-        "bkp": [
-            1092
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1178
+                "pdx": 812
             }
         ],
         "gid": "P0072",
@@ -23408,45 +16462,12 @@ P = [
         "urls": []
     },
     {
-        "bkf": [],
-        "bki": [
-            84
+        "bkf": [
+            4
         ],
+        "bki": [],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "38.25423760",
-            "-85.75940700"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 563
-            }
-        ],
-        "gid": "P1479",
-        "locations": [],
-        "media": [],
-        "name": "Louisville, Jefferson, KY, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Louisville"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1192
-        ],
-        "bkp": [],
+        "change_time": "2009-02-11 23:11:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -23457,7 +16478,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 629
+                "pdx": 431
             }
         ],
         "gid": "P1458",
@@ -23479,8 +16500,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            1186
+            819
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -23491,7 +16513,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 419
+                "pdx": 284
             }
         ],
         "gid": "P0313",
@@ -23511,10 +16533,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [],
-        "bkp": [
-            949
+        "bki": [
+            139
         ],
+        "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -23525,109 +16548,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1178
-            }
-        ],
-        "gid": "P0298",
-        "locations": [],
-        "media": [],
-        "name": "Lucie, FL, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Lucie, FL"
-            }
-        ],
-        "note": "",
-        "type": "State",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            295
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "31.33824060",
-            "-94.72909700"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 42
-            }
-        ],
-        "gid": "P1198",
-        "locations": [],
-        "media": [],
-        "name": "Lufkin, Angelina, TX, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Lufkin"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1635
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 834
-            }
-        ],
-        "gid": "P0908",
-        "locations": [],
-        "media": [],
-        "name": "Lumberton, NC, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Lumberton"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            205
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1184
+                "pdx": 817
             }
         ],
         "gid": "P1274",
@@ -23649,8 +16570,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            354
+            241
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -23661,7 +16583,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 601
+                "pdx": 408
             }
         ],
         "gid": "P0131",
@@ -23683,13 +16605,12 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            74,
-            97,
-            474,
-            765,
-            1118,
-            1271
+            55,
+            318,
+            767,
+            876
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -23700,7 +16621,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1178
+                "pdx": 812
             }
         ],
         "gid": "P0075",
@@ -23719,45 +16640,12 @@ P = [
         "urls": []
     },
     {
-        "bkf": [
-            595
-        ],
-        "bki": [],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "40.45920760",
-            "-90.67179710"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 740
-            }
-        ],
-        "gid": "P1473",
-        "locations": [],
-        "media": [],
-        "name": "Macomb, McDonough, IL, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Macomb"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
         "bkf": [],
         "bki": [],
         "bkp": [
-            1167
+            801
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -23768,7 +16656,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 11
+                "pdx": 10
             }
         ],
         "gid": "P0161",
@@ -23789,9 +16677,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1035
+            578
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:14:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -23802,7 +16691,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 101
+                "pdx": 73
             }
         ],
         "gid": "P1339",
@@ -23824,8 +16713,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            295
+            677
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -23836,177 +16726,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 534
-            }
-        ],
-        "gid": "P0274",
-        "locations": [],
-        "media": [],
-        "name": "Macon, IL, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Macon"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [],
-        "bkp": [
-            693
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 155
-            }
-        ],
-        "gid": "P0366",
-        "locations": [],
-        "media": [],
-        "name": "Madera, CA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Madera"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            449
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "36.96133560",
-            "-120.06071760"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 692
-            }
-        ],
-        "gid": "P1100",
-        "locations": [],
-        "media": [],
-        "name": "Madera, Madera, CA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Madera"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [],
-        "bkp": [
-            524
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 11
-            }
-        ],
-        "gid": "P0330",
-        "locations": [],
-        "media": [],
-        "name": "Madison, AL, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Madison"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [],
-        "bkp": [
-            277
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 419
-            }
-        ],
-        "gid": "P0111",
-        "locations": [],
-        "media": [],
-        "name": "Madison, GA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Madison"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [],
-        "bkp": [
-            981
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 531
+                "pdx": 362
             }
         ],
         "gid": "P0177",
@@ -24028,8 +16748,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            38
+            780
         ],
+        "change_time": "2016-06-18 00:05:03",
         "cita": [],
         "code": "",
         "coords": [
@@ -24040,109 +16761,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 536
-            }
-        ],
-        "gid": "P0144",
-        "locations": [],
-        "media": [],
-        "name": "Madison, IN, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Madison"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1142
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "38.73589330",
-            "-85.37995770"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 562
-            }
-        ],
-        "gid": "P1676",
-        "locations": [],
-        "media": [],
-        "name": "Madison, Jefferson, IN, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Madison"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [],
-        "bkp": [
-            983
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 603
-            }
-        ],
-        "gid": "P0322",
-        "locations": [],
-        "media": [],
-        "name": "Madison, KY, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Madison"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [],
-        "bkp": [
-            1133
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 609
+                "pdx": 416
             }
         ],
         "gid": "P0181",
@@ -24157,83 +16776,16 @@ P = [
             }
         ],
         "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [
-            623
-        ],
-        "bki": [],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1250
-            }
-        ],
-        "gid": "P1216",
-        "locations": [],
-        "media": [],
-        "name": "Madison, WI, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Madison"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1127
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "33.26707250",
-            "-93.23933410"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 236
-            }
-        ],
-        "gid": "P1513",
-        "locations": [],
-        "media": [],
-        "name": "Magnolia, Columbia, AR, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Magnolia"
-            }
-        ],
-        "note": "",
-        "type": "City",
+        "type": "Parish",
         "urls": []
     },
     {
         "bkf": [],
         "bki": [],
         "bkp": [
-            891
+            607
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -24244,7 +16796,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 530
+                "pdx": 361
             }
         ],
         "gid": "P0025",
@@ -24265,43 +16817,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1114
+            456
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "44.84865960",
-            "-74.29489840"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 410
-            }
-        ],
-        "gid": "P1688",
-        "locations": [],
-        "media": [],
-        "name": "Malone, Franklin, NY, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Malone"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            846
-        ],
-        "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -24312,7 +16831,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 851
+                "pdx": 577
             }
         ],
         "gid": "P1004",
@@ -24331,11 +16850,12 @@ P = [
         "urls": []
     },
     {
-        "bkf": [
-            536
+        "bkf": [],
+        "bki": [
+            819
         ],
-        "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 23:16:45",
         "cita": [],
         "code": "",
         "coords": [
@@ -24346,7 +16866,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 986
+                "pdx": 679
             }
         ],
         "gid": "P1449",
@@ -24366,78 +16886,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [
-            1861
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1250
-            }
-        ],
-        "gid": "P0920",
-        "locations": [],
-        "media": [],
-        "name": "Manitowoc, WI, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Manitowoc"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [
-            56
-        ],
-        "bki": [],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 779
-            }
-        ],
-        "gid": "P1585",
-        "locations": [],
-        "media": [],
-        "name": "Mankato, MN, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Mankato"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [],
         "bkp": [
-            926
+            632
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -24448,7 +16901,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 66
+                "pdx": 48
             }
         ],
         "gid": "P0165",
@@ -24468,10 +16921,11 @@ P = [
     },
     {
         "bkf": [
-            431
+            281
         ],
         "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -24482,7 +16936,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1276
+                "pdx": 879
             }
         ],
         "gid": "P1428",
@@ -24502,10 +16956,11 @@ P = [
     },
     {
         "bkf": [
-            640
+            421
         ],
         "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -24516,7 +16971,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1249
+                "pdx": 862
             }
         ],
         "gid": "P1287",
@@ -24537,9 +16992,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            68
+            44
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:16:09",
         "cita": [],
         "code": "",
         "coords": [
@@ -24550,7 +17006,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 341
+                "pdx": 231
             }
         ],
         "gid": "P0980",
@@ -24572,8 +17028,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            867
+            590
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -24584,7 +17041,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 384
+                "pdx": 261
             }
         ],
         "gid": "P0234",
@@ -24603,79 +17060,12 @@ P = [
         "urls": []
     },
     {
-        "bkf": [
-            654
-        ],
-        "bki": [],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "39.59171340",
-            "-85.75497860"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 446
-            }
-        ],
-        "gid": "P1659",
-        "locations": [],
-        "media": [],
-        "name": "Marion, Grant, IN, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Marion"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [],
-        "bkp": [
-            185
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 534
-            }
-        ],
-        "gid": "P0334",
-        "locations": [],
-        "media": [],
-        "name": "Marion, IL, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Marion"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
         "bkf": [],
         "bki": [
-            675
+            394
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -24686,7 +17076,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 872
+                "pdx": 594
             }
         ],
         "gid": "P1165",
@@ -24707,9 +17097,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            917
+            516
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -24720,7 +17111,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 757
+                "pdx": 515
             }
         ],
         "gid": "P1228",
@@ -24742,8 +17133,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            20
+            15
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -24754,7 +17146,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 11
+                "pdx": 10
             }
         ],
         "gid": "P0133",
@@ -24775,9 +17167,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            40
+            31
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:18:50",
         "cita": [],
         "code": "",
         "coords": [
@@ -24788,7 +17181,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 483
+                "pdx": 325
             }
         ],
         "gid": "P1407",
@@ -24810,8 +17203,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            724
+            489
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -24822,7 +17216,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 530
+                "pdx": 361
             }
         ],
         "gid": "P0027",
@@ -24844,8 +17238,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            937
+            640
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -24856,7 +17251,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 536
+                "pdx": 366
             }
         ],
         "gid": "P0233",
@@ -24877,9 +17272,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            502
+            306
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -24890,7 +17286,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 779
+                "pdx": 529
             }
         ],
         "gid": "P1556",
@@ -24911,9 +17307,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1316
+            727
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -24924,7 +17321,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 780
+                "pdx": 530
             }
         ],
         "gid": "P1115",
@@ -24945,9 +17342,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            679
+            395
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:15:22",
         "cita": [],
         "code": "",
         "coords": [
@@ -24958,7 +17356,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 720
+                "pdx": 485
             }
         ],
         "gid": "P1504",
@@ -24979,9 +17377,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1547
+            853
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -24992,7 +17391,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1250
+                "pdx": 863
             }
         ],
         "gid": "P1605",
@@ -25013,9 +17412,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            328
+            198
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -25026,7 +17426,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1184
+                "pdx": 817
             }
         ],
         "gid": "P1362",
@@ -25046,44 +17446,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [],
-        "bkp": [
-            1093
+        "bki": [
+            926
         ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1178
-            }
-        ],
-        "gid": "P0110",
-        "locations": [],
-        "media": [],
-        "name": "Marys, St, Marys, PA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Marys, St, Marys, PA"
-            }
-        ],
-        "note": "",
-        "type": "State",
-        "urls": []
-    },
-    {
-        "bkf": [
-            92
-        ],
-        "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 23:11:01",
         "cita": [],
         "code": "",
         "coords": [
@@ -25094,7 +17461,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1285
+                "pdx": 886
             }
         ],
         "gid": "P1284",
@@ -25115,9 +17482,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            13
+            10
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -25128,7 +17496,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 780
+                "pdx": 530
             }
         ],
         "gid": "P1394",
@@ -25150,8 +17518,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            735
+            498
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -25162,7 +17531,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 603
+                "pdx": 410
             }
         ],
         "gid": "P0332",
@@ -25184,8 +17553,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            82
+            60
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -25196,7 +17566,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1170
+                "pdx": 804
             }
         ],
         "gid": "P0301",
@@ -25218,8 +17588,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            332
+            227
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -25230,7 +17601,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1170
+                "pdx": 804
             }
         ],
         "gid": "P0119",
@@ -25251,9 +17622,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1527
+            836
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -25264,7 +17636,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 958
+                "pdx": 657
             }
         ],
         "gid": "P1224",
@@ -25283,45 +17655,12 @@ P = [
         "urls": []
     },
     {
-        "bkf": [
-            322
-        ],
-        "bki": [],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "36.74172350",
-            "-88.63671540"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 449
-            }
-        ],
-        "gid": "P1683",
-        "locations": [],
-        "media": [],
-        "name": "Mayfield, Graves, KY, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Mayfield"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
         "bkf": [],
         "bki": [
-            1007
+            561
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:17:07",
         "cita": [],
         "code": "",
         "coords": [
@@ -25332,7 +17671,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 730
+                "pdx": 494
             }
         ],
         "gid": "P0906",
@@ -25353,9 +17692,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            772
+            1018
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -25366,7 +17706,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 874
+                "pdx": 596
             }
         ],
         "gid": "P1112",
@@ -25387,9 +17727,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1227
+            692
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:18:50",
         "cita": [],
         "code": "",
         "coords": [
@@ -25400,7 +17741,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 500
+                "pdx": 337
             }
         ],
         "gid": "P1067",
@@ -25421,9 +17762,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1074
+            594
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -25434,7 +17776,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 818
+                "pdx": 556
             }
         ],
         "gid": "P1244",
@@ -25456,8 +17798,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            902
+            615
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -25468,7 +17811,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 602
+                "pdx": 409
             }
         ],
         "gid": "P0141",
@@ -25490,8 +17833,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            688
+            834
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -25502,41 +17846,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 534
-            }
-        ],
-        "gid": "P0357",
-        "locations": [],
-        "media": [],
-        "name": "McDonough, IL, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "McDonough"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [],
-        "bkp": [
-            1206
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1170
+                "pdx": 804
             }
         ],
         "gid": "P0184",
@@ -25557,9 +17867,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            632
+            379
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -25570,7 +17881,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1152
+                "pdx": 792
             }
         ],
         "gid": "P1074",
@@ -25592,8 +17903,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            744
+            506
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -25604,7 +17916,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 601
+                "pdx": 408
             }
         ],
         "gid": "P0320",
@@ -25623,11 +17935,12 @@ P = [
         "urls": []
     },
     {
-        "bkf": [
-            39
+        "bkf": [],
+        "bki": [
+            44
         ],
-        "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 23:16:45",
         "cita": [],
         "code": "",
         "coords": [
@@ -25638,7 +17951,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 743
+                "pdx": 505
             }
         ],
         "gid": "P1234",
@@ -25660,17 +17973,15 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            22,
-            70,
-            99,
-            162,
-            337,
-            411,
-            425,
-            471,
-            654,
-            869
+            52,
+            71,
+            113,
+            229,
+            277,
+            316,
+            449
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -25681,7 +17992,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1178
+                "pdx": 812
             }
         ],
         "gid": "P0093",
@@ -25703,12 +18014,10 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            64,
-            71,
-            651,
-            952,
-            997
+            47,
+            651
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -25719,7 +18028,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1178
+                "pdx": 812
             }
         ],
         "gid": "P0026",
@@ -25740,9 +18049,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1877
+            1017
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -25753,7 +18063,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 884
+                "pdx": 602
             }
         ],
         "gid": "P1493",
@@ -25773,44 +18083,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [
-            1809
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1152
-            }
-        ],
-        "gid": "P1476",
-        "locations": [],
-        "media": [],
-        "name": "Memphis, TN, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Memphis"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [],
         "bkp": [
-            1172
+            806
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -25821,7 +18098,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 155
+                "pdx": 107
             }
         ],
         "gid": "P0387",
@@ -25842,9 +18119,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            2027
+            1086
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -25855,7 +18133,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1250
+                "pdx": 863
             }
         ],
         "gid": "P1264",
@@ -25877,8 +18155,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            752
+            513
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -25889,7 +18168,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 155
+                "pdx": 107
             }
         ],
         "gid": "P0422",
@@ -25910,9 +18189,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            355
+            217
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:11:01",
         "cita": [],
         "code": "",
         "coords": [
@@ -25923,7 +18203,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 751
+                "pdx": 512
             }
         ],
         "gid": "P1510",
@@ -25944,9 +18224,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1669
+            70
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -25957,109 +18238,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 818
-            }
-        ],
-        "gid": "P1557",
-        "locations": [],
-        "media": [],
-        "name": "Meridian, MS, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Meridian"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [
-            695
-        ],
-        "bki": [],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1250
-            }
-        ],
-        "gid": "P1128",
-        "locations": [],
-        "media": [],
-        "name": "Merrill, WI, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Merrill"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [],
-        "bkp": [
-            444
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 223
-            }
-        ],
-        "gid": "P0121",
-        "locations": [],
-        "media": [],
-        "name": "Mesa, CO, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Mesa"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            113
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 780
+                "pdx": 530
             }
         ],
         "gid": "P1352",
@@ -26081,38 +18260,32 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            7,
-            26,
-            29,
-            30,
-            44,
-            81,
-            83,
-            102,
-            158,
-            231,
-            306,
-            361,
-            387,
-            445,
-            507,
-            543,
-            547,
-            575,
-            625,
-            667,
-            717,
-            766,
-            787,
-            824,
-            852,
-            898,
-            1007,
-            1037,
-            1117,
-            1158,
-            1213
+            6,
+            19,
+            28,
+            59,
+            109,
+            157,
+            211,
+            247,
+            263,
+            298,
+            342,
+            370,
+            371,
+            389,
+            458,
+            482,
+            522,
+            535,
+            559,
+            578,
+            693,
+            710,
+            795,
+            839
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -26123,7 +18296,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1178
+                "pdx": 812
             }
         ],
         "gid": "P0047",
@@ -26144,9 +18317,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            2063
+            1107
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:13:44",
         "cita": [],
         "code": "",
         "coords": [
@@ -26157,7 +18331,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 759
+                "pdx": 517
             }
         ],
         "gid": "P1286",
@@ -26179,9 +18353,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            758,
-            761
+            516
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -26192,7 +18366,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 384
+                "pdx": 261
             }
         ],
         "gid": "P0004",
@@ -26214,8 +18388,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            921
+            630
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -26226,7 +18401,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 536
+                "pdx": 366
             }
         ],
         "gid": "P0074",
@@ -26247,43 +18422,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1142
+            46
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "25.77426580",
-            "-80.19365890"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 759
-            }
-        ],
-        "gid": "P1229",
-        "locations": [],
-        "media": [],
-        "name": "Miami, Miami-Dade, FL, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Miami"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            72
-        ],
-        "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -26294,7 +18436,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 874
+                "pdx": 596
             }
         ],
         "gid": "P0869",
@@ -26315,9 +18457,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1917
+            1031
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:16:29",
         "cita": [],
         "code": "",
         "coords": [
@@ -26328,7 +18471,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 626
+                "pdx": 429
             }
         ],
         "gid": "P1623",
@@ -26349,9 +18492,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            197
+            135
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -26362,7 +18506,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 603
+                "pdx": 410
             }
         ],
         "gid": "P1053",
@@ -26382,44 +18526,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [],
-        "bkp": [
-            163
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 687
-            }
-        ],
-        "gid": "P0419",
-        "locations": [],
-        "media": [],
-        "name": "Middlesex, MA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Middlesex"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [
-            1005
+            601
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -26430,7 +18541,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 757
+                "pdx": 515
             }
         ],
         "gid": "P1243",
@@ -26449,79 +18560,12 @@ P = [
         "urls": []
     },
     {
-        "bkf": [
-            656
-        ],
-        "bki": [],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "31.99734560",
-            "-102.07791470"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 768
-            }
-        ],
-        "gid": "P1381",
-        "locations": [],
-        "media": [],
-        "name": "Midland, Midland, TX, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Midland"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [],
-        "bkp": [
-            767
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1170
-            }
-        ],
-        "gid": "P0404",
-        "locations": [],
-        "media": [],
-        "name": "Midland, TX, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Midland"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
         "bkf": [],
         "bki": [
-            1657
+            914
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:14:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -26532,7 +18576,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 69
+                "pdx": 51
             }
         ],
         "gid": "P1560",
@@ -26552,44 +18596,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [],
-        "bkp": [
-            1144
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 47
-            }
-        ],
-        "gid": "P0371",
-        "locations": [],
-        "media": [],
-        "name": "Miller, AR, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Miller"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [
-            1395
+            413
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -26600,7 +18611,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1250
+                "pdx": 863
             }
         ],
         "gid": "P1372",
@@ -26621,43 +18632,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            983
+            31
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "32.61542780",
-            "-93.28683540"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1236
-            }
-        ],
-        "gid": "P1619",
-        "locations": [],
-        "media": [],
-        "name": "Minden, Webster, LA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Minden"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            40
-        ],
-        "bkp": [],
+        "change_time": "2009-02-11 23:18:50",
         "cita": [],
         "code": "",
         "coords": [
@@ -26668,7 +18646,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 909
+                "pdx": 620
             }
         ],
         "gid": "P1134",
@@ -26688,10 +18666,11 @@ P = [
     },
     {
         "bkf": [
-            277
+            178
         ],
         "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -26702,7 +18681,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 779
+                "pdx": 529
             }
         ],
         "gid": "P1213",
@@ -26723,9 +18702,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            749
+            418
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -26736,7 +18716,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 835
+                "pdx": 565
             }
         ],
         "gid": "P1587",
@@ -26756,44 +18736,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [],
-        "bkp": [
-            115
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 47
-            }
-        ],
-        "gid": "P0338",
-        "locations": [],
-        "media": [],
-        "name": "Mississippi, AR, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Mississippi"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [
-            1612
+            595
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -26804,41 +18751,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 819
-            }
-        ],
-        "gid": "P1548",
-        "locations": [],
-        "media": [],
-        "name": "Missoula, MT, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Missoula"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1076
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1045
+                "pdx": 716
             }
         ],
         "gid": "P1292",
@@ -26860,26 +18773,18 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            19,
-            23,
-            65,
-            93,
-            129,
-            322,
-            369,
-            374,
-            380,
-            527,
-            708,
-            722,
-            774,
-            846,
-            975,
-            992,
-            1257,
-            1265,
-            1273
+            90,
+            220,
+            255,
+            358,
+            487,
+            526,
+            573,
+            685,
+            871,
+            878
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -26890,7 +18795,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1178
+                "pdx": 812
             }
         ],
         "gid": "P0050",
@@ -26912,28 +18817,25 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            130,
-            173,
-            238,
-            375,
-            398,
-            476,
-            558,
-            572,
-            576,
-            581,
-            643,
-            723,
-            729,
-            756,
-            781,
-            947,
-            999,
-            1070,
-            1087,
-            1217,
-            1242
+            91,
+            122,
+            162,
+            269,
+            320,
+            379,
+            386,
+            393,
+            441,
+            488,
+            493,
+            514,
+            648,
+            688,
+            734,
+            745,
+            856
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -26944,7 +18846,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1178
+                "pdx": 812
             }
         ],
         "gid": "P0033",
@@ -26964,44 +18866,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [
-            295
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 780
-            }
-        ],
-        "gid": "P1008",
-        "locations": [],
-        "media": [],
-        "name": "Moberly, MO, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Moberly"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [],
         "bkp": [
-            783
+            532
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -27012,7 +18881,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 11
+                "pdx": 10
             }
         ],
         "gid": "P0348",
@@ -27033,9 +18902,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1627
+            895
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:05:37",
         "cita": [],
         "code": "",
         "coords": [
@@ -27046,7 +18916,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 782
+                "pdx": 531
             }
         ],
         "gid": "P0858",
@@ -27067,9 +18937,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            849
+            458
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:11:01",
         "cita": [],
         "code": "",
         "coords": [
@@ -27080,7 +18951,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1099
+                "pdx": 753
             }
         ],
         "gid": "P0905",
@@ -27102,8 +18973,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            618
+            78
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -27114,41 +18986,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 66
-            }
-        ],
-        "gid": "P0246",
-        "locations": [],
-        "media": [],
-        "name": "Mohave, AZ, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Mohave"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [],
-        "bkp": [
-            112
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 536
+                "pdx": 366
             }
         ],
         "gid": "P0356",
@@ -27169,9 +19007,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1747
+            960
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -27182,7 +19021,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 757
+                "pdx": 515
             }
         ],
         "gid": "P1456",
@@ -27203,9 +19042,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1135
+            629
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:17:29",
         "cita": [],
         "code": "",
         "coords": [
@@ -27216,7 +19056,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 896
+                "pdx": 611
             }
         ],
         "gid": "P1563",
@@ -27237,9 +19077,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            195
+            150
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -27250,7 +19091,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1250
+                "pdx": 863
             }
         ],
         "gid": "P1077",
@@ -27272,8 +19113,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            1010
+            694
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -27284,7 +19126,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 155
+                "pdx": 107
             }
         ],
         "gid": "P0242",
@@ -27306,8 +19148,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            795
+            179
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -27318,41 +19161,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 11
-            }
-        ],
-        "gid": "P0352",
-        "locations": [],
-        "media": [],
-        "name": "Montgomery, AL, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Montgomery"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [],
-        "bkp": [
-            266
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 536
+                "pdx": 366
             }
         ],
         "gid": "P0164",
@@ -27374,8 +19183,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            230
+            156
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -27386,7 +19196,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 601
+                "pdx": 408
             }
         ],
         "gid": "P0188",
@@ -27408,8 +19218,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            812
+            552
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -27420,7 +19231,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 603
+                "pdx": 410
             }
         ],
         "gid": "P0294",
@@ -27439,45 +19250,12 @@ P = [
         "urls": []
     },
     {
-        "bkf": [
-            287
-        ],
-        "bki": [],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "32.36680520",
-            "-86.29996890"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 791
-            }
-        ],
-        "gid": "P1540",
-        "locations": [],
-        "media": [],
-        "name": "Montgomery, Montgomery, AL, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Montgomery"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
         "bkf": [],
         "bki": [],
         "bkp": [
-            36
+            23
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -27488,7 +19266,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 865
+                "pdx": 588
             }
         ],
         "gid": "P0432",
@@ -27510,8 +19288,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            798
+            221
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -27522,75 +19301,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 223
-            }
-        ],
-        "gid": "P0394",
-        "locations": [],
-        "media": [],
-        "name": "Montrose, CO, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Montrose"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            392
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "38.47831980",
-            "-107.87617380"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 797
-            }
-        ],
-        "gid": "P0854",
-        "locations": [],
-        "media": [],
-        "name": "Montrose, Montrose, CO, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Montrose"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [],
-        "bkp": [
-            323
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1170
+                "pdx": 804
             }
         ],
         "gid": "P0318",
@@ -27611,9 +19322,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1462
+            796
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -27624,7 +19336,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 834
+                "pdx": 564
             }
         ],
         "gid": "P0930",
@@ -27645,43 +19357,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1034
+            930
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 834
-            }
-        ],
-        "gid": "P1500",
-        "locations": [],
-        "media": [],
-        "name": "Morehead City, NC, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Morehead City"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1692
-        ],
-        "bkp": [],
+        "change_time": "2009-02-11 23:17:29",
         "cita": [],
         "code": "",
         "coords": [
@@ -27692,7 +19371,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1098
+                "pdx": 752
             }
         ],
         "gid": "P0923",
@@ -27714,8 +19393,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            296
+            201
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -27726,7 +19406,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 11
+                "pdx": 10
             }
         ],
         "gid": "P0299",
@@ -27746,44 +19426,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [],
-        "bkp": [
-            399
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 223
-            }
-        ],
-        "gid": "P0092",
-        "locations": [],
-        "media": [],
-        "name": "Morgan, CO, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Morgan"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [
-            1065
+            243
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -27794,41 +19441,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1276
-            }
-        ],
-        "gid": "P1144",
-        "locations": [],
-        "media": [],
-        "name": "Morgantown, WV, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Morgantown"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            431
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1152
+                "pdx": 792
             }
         ],
         "gid": "P1475",
@@ -27849,9 +19462,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            656
+            387
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:15:43",
         "cita": [],
         "code": "",
         "coords": [
@@ -27862,7 +19476,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 633
+                "pdx": 435
             }
         ],
         "gid": "P0997",
@@ -27883,9 +19497,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1493
+            819
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -27896,7 +19511,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1203
+                "pdx": 831
             }
         ],
         "gid": "P1196",
@@ -27917,9 +19532,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1986
+            1065
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:14:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -27930,7 +19546,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 235
+                "pdx": 160
             }
         ],
         "gid": "P1512",
@@ -27951,43 +19567,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1705
+            969
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 834
-            }
-        ],
-        "gid": "P1226",
-        "locations": [],
-        "media": [],
-        "name": "Mount Airy, NC, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Mount Airy"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1773
-        ],
-        "bkp": [],
+        "change_time": "2009-02-11 23:18:50",
         "cita": [],
         "code": "",
         "coords": [
@@ -27998,7 +19581,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1139
+                "pdx": 784
             }
         ],
         "gid": "P1517",
@@ -28019,9 +19602,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1448
+            781
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:17:07",
         "cita": [],
         "code": "",
         "coords": [
@@ -28032,7 +19616,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 794
+                "pdx": 541
             }
         ],
         "gid": "P1318",
@@ -28053,9 +19637,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1195
+            799
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -28066,41 +19651,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 872
-            }
-        ],
-        "gid": "P1488",
-        "locations": [],
-        "media": [],
-        "name": "Mount Vernon, OH, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Mount Vernon"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1463
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1203
+                "pdx": 831
             }
         ],
         "gid": "P1001",
@@ -28121,9 +19672,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            57
+            38
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:15:43",
         "cita": [],
         "code": "",
         "coords": [
@@ -28134,7 +19686,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 353
+                "pdx": 240
             }
         ],
         "gid": "P1309",
@@ -28154,44 +19706,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [
-            2031
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "35.38674860",
-            "-91.80903040"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1245
-            }
-        ],
-        "gid": "P1336",
-        "locations": [],
-        "media": [],
-        "name": "Mountain Home, White, AR, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Mountain Home"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [],
         "bkp": [
-            832
+            563
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -28202,7 +19721,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1178
+                "pdx": 812
             }
         ],
         "gid": "P0019",
@@ -28224,27 +19743,21 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            138,
-            211,
-            215,
-            244,
-            254,
-            458,
-            462,
-            465,
-            468,
-            488,
-            540,
-            636,
-            738,
-            753,
-            899,
-            927,
-            1100,
-            1164,
-            1196,
-            1281
+            150,
+            305,
+            309,
+            312,
+            314,
+            326,
+            437,
+            501,
+            612,
+            754,
+            800,
+            825,
+            883
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -28255,7 +19768,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1178
+                "pdx": 812
             }
         ],
         "gid": "P0041",
@@ -28277,14 +19790,13 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            104,
-            128,
-            154,
-            451,
-            489,
-            492,
-            777
+            75,
+            106,
+            301,
+            327,
+            329
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -28295,7 +19807,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1178
+                "pdx": 812
             }
         ],
         "gid": "P0066",
@@ -28315,44 +19827,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [],
-        "bkp": [
-            184
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 603
-            }
-        ],
-        "gid": "P0395",
-        "locations": [],
-        "media": [],
-        "name": "Muhlenberg, KY, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Muhlenberg"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [
-            1293
+            715
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:16:29",
         "cita": [],
         "code": "",
         "coords": [
@@ -28363,7 +19842,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 299
+                "pdx": 204
             }
         ],
         "gid": "P1492",
@@ -28383,78 +19862,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [],
-        "bkp": [
-            823
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 530
-            }
-        ],
-        "gid": "P0307",
-        "locations": [],
-        "media": [],
-        "name": "Muscatine, IA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Muscatine"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [
-            458
-        ],
-        "bki": [],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "41.42447300",
-            "-91.04320510"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 822
-            }
-        ],
-        "gid": "P1327",
-        "locations": [],
-        "media": [],
-        "name": "Muscatine, Muscatine, IA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Muscatine"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [
-            206
+            140
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -28465,7 +19877,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 757
+                "pdx": 515
             }
         ],
         "gid": "P0949",
@@ -28486,9 +19898,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            608
+            613
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -28499,41 +19912,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 874
-            }
-        ],
-        "gid": "P1356",
-        "locations": [],
-        "media": [],
-        "name": "Muskogee, OK, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Muskogee"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1098
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1039
+                "pdx": 712
             }
         ],
         "gid": "P1661",
@@ -28553,10 +19932,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [],
-        "bkp": [
-            828
+        "bki": [
+            905
         ],
+        "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -28567,109 +19947,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 155
-            }
-        ],
-        "gid": "P0201",
-        "locations": [],
-        "media": [],
-        "name": "Napa, CA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Napa"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1249
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "38.29713670",
-            "-122.28552930"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 827
-            }
-        ],
-        "gid": "P1298",
-        "locations": [],
-        "media": [],
-        "name": "Napa, Napa, CA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Napa"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1775
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "26.14203580",
-            "-81.79481030"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 233
-            }
-        ],
-        "gid": "P1273",
-        "locations": [],
-        "media": [],
-        "name": "Naples, Collier, FL, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Naples"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1653
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1152
+                "pdx": 792
             }
         ],
         "gid": "P1653",
@@ -28690,9 +19968,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1646
+            906
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:17:29",
         "cita": [],
         "code": "",
         "coords": [
@@ -28703,7 +19982,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 832
+                "pdx": 563
             }
         ],
         "gid": "P1334",
@@ -28725,8 +20004,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            831
+            562
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -28737,7 +20017,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 817
+                "pdx": 555
             }
         ],
         "gid": "P0020",
@@ -28759,8 +20039,33 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            258
+            36,
+            93,
+            133,
+            222,
+            236,
+            295,
+            303,
+            306,
+            331,
+            336,
+            374,
+            398,
+            403,
+            450,
+            544,
+            567,
+            668,
+            683,
+            686,
+            687,
+            695,
+            704,
+            728,
+            845,
+            867
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -28771,75 +20076,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1170
-            }
-        ],
-        "gid": "P0011",
-        "locations": [],
-        "media": [],
-        "name": "Navarro, TX, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Navarro"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [],
-        "bkp": [
-            52,
-            122,
-            135,
-            151,
-            193,
-            325,
-            328,
-            347,
-            393,
-            440,
-            456,
-            459,
-            494,
-            499,
-            552,
-            589,
-            594,
-            638,
-            656,
-            684,
-            800,
-            801,
-            810,
-            837,
-            971,
-            990,
-            996,
-            998,
-            1012,
-            1028,
-            1062,
-            1080,
-            1223,
-            1258,
-            1266
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1178
+                "pdx": 812
             }
         ],
         "gid": "P0044",
@@ -28861,15 +20098,13 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            109,
-            308,
-            373,
-            443,
-            553,
-            775,
-            1207,
-            1256
+            77,
+            375,
+            527,
+            835,
+            866
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -28880,7 +20115,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1178
+                "pdx": 812
             }
         ],
         "gid": "P0060",
@@ -28902,17 +20137,15 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            245,
-            412,
-            487,
-            578,
-            657,
-            664,
-            858,
-            859,
-            879,
-            1042
+            167,
+            278,
+            390,
+            451,
+            456,
+            584,
+            714
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -28923,7 +20156,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1178
+                "pdx": 812
             }
         ],
         "gid": "P0097",
@@ -28944,9 +20177,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1590
+            872
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -28957,7 +20191,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 834
+                "pdx": 564
             }
         ],
         "gid": "P1043",
@@ -28979,8 +20213,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            1259
+            868
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -28991,7 +20226,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 289
+                "pdx": 195
             }
         ],
         "gid": "P0018",
@@ -29012,9 +20247,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1747
+            960
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:16:29",
         "cita": [],
         "code": "",
         "coords": [
@@ -29025,7 +20261,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 496
+                "pdx": 333
             }
         ],
         "gid": "P1163",
@@ -29046,9 +20282,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1094
+            609
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -29059,7 +20296,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 901
+                "pdx": 614
             }
         ],
         "gid": "P0941",
@@ -29079,112 +20316,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [],
-        "bkp": [
-            842
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 271
-            }
-        ],
-        "gid": "P0414",
-        "locations": [],
-        "media": [],
-        "name": "New Haven, CT, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "New Haven"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [
-            1760
+            1059
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "41.30815270",
-            "-72.92815780"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 841
-            }
-        ],
-        "gid": "P0865",
-        "locations": [],
-        "media": [],
-        "name": "New Haven, New Haven, CT, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "New Haven"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [],
-        "bkp": [
-            862
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 271
-            }
-        ],
-        "gid": "P0368",
-        "locations": [],
-        "media": [],
-        "name": "New London, CT, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "New London"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1974
-        ],
-        "bkp": [],
+        "change_time": "2009-02-11 23:17:29",
         "cita": [],
         "code": "",
         "coords": [
@@ -29195,7 +20331,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 889
+                "pdx": 606
             }
         ],
         "gid": "P1384",
@@ -29216,9 +20352,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            99
+            60
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -29229,7 +20366,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 872
+                "pdx": 594
             }
         ],
         "gid": "P1670",
@@ -29250,9 +20387,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            917
+            510
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -29263,7 +20401,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 779
+                "pdx": 529
             }
         ],
         "gid": "P1410",
@@ -29284,9 +20422,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            295
+            527
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -29297,41 +20436,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1039
-            }
-        ],
-        "gid": "P1219",
-        "locations": [],
-        "media": [],
-        "name": "Newberry, SC, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Newberry"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            932
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1152
+                "pdx": 792
             }
         ],
         "gid": "P1191",
@@ -29352,9 +20457,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1304
+            715
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:15:22",
         "cita": [],
         "code": "",
         "coords": [
@@ -29365,7 +20471,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 557
+                "pdx": 378
             }
         ],
         "gid": "P1061",
@@ -29387,8 +20493,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            652
+            447
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -29399,7 +20506,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 531
+                "pdx": 362
             }
         ],
         "gid": "P0417",
@@ -29421,13 +20528,11 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            98,
-            247,
-            579,
-            610,
-            705,
-            995
+            169,
+            391,
+            474
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -29438,7 +20543,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1178
+                "pdx": 812
             }
         ],
         "gid": "P0192",
@@ -29459,9 +20564,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1852
+            1012
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -29472,7 +20578,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 757
+                "pdx": 515
             }
         ],
         "gid": "P0961",
@@ -29494,11 +20600,11 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            137,
-            165,
-            339,
-            868
+            94,
+            115,
+            591
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -29509,7 +20615,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1178
+                "pdx": 812
             }
         ],
         "gid": "P0200",
@@ -29531,23 +20637,21 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            14,
-            21,
-            175,
-            222,
-            301,
-            376,
-            426,
-            448,
-            505,
-            630,
-            631,
-            950,
-            1002,
-            1034,
-            1071,
-            1136
+            12,
+            16,
+            123,
+            206,
+            256,
+            286,
+            300,
+            432,
+            433,
+            650,
+            690,
+            708,
+            735
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -29558,7 +20662,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1178
+                "pdx": 812
             }
         ],
         "gid": "P0042",
@@ -29580,8 +20684,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            580
+            392
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -29592,7 +20697,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 536
+                "pdx": 366
             }
         ],
         "gid": "P0360",
@@ -29613,9 +20718,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1793
+            975
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:09:48",
         "cita": [],
         "code": "",
         "coords": [
@@ -29626,7 +20732,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1031
+                "pdx": 707
             }
         ],
         "gid": "P1157",
@@ -29648,8 +20754,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            1127
+            774
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -29660,7 +20767,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1170
+                "pdx": 804
             }
         ],
         "gid": "P0130",
@@ -29681,9 +20788,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1342
+            348
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -29694,7 +20802,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 836
+                "pdx": 566
             }
         ],
         "gid": "P1002",
@@ -29713,79 +20821,12 @@ P = [
         "urls": []
     },
     {
-        "bkf": [
-            504
-        ],
-        "bki": [],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 836
-            }
-        ],
-        "gid": "P0883",
-        "locations": [],
-        "media": [],
-        "name": "North Platte, NE, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "North Platte"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [
-            541
-        ],
-        "bki": [],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "39.00616500",
-            "-85.62357960"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 565
-            }
-        ],
-        "gid": "P1149",
-        "locations": [],
-        "media": [],
-        "name": "North Vernon, Jennings, IN, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "North Vernon"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
         "bkf": [],
         "bki": [
-            195
+            131
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -29796,7 +20837,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 872
+                "pdx": 594
             }
         ],
         "gid": "P1415",
@@ -29816,44 +20857,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [
-            648
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "41.52426490",
-            "-72.07591050"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 843
-            }
-        ],
-        "gid": "P1353",
-        "locations": [],
-        "media": [],
-        "name": "Norwich, New London, CT, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Norwich"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [],
         "bkp": [
-            257
+            175
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -29864,7 +20872,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1170
+                "pdx": 804
             }
         ],
         "gid": "P0335",
@@ -29886,13 +20894,13 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            176,
-            372,
-            428,
-            632,
-            903,
-            979
+            124,
+            254,
+            288,
+            434,
+            675
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -29903,7 +20911,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1178
+                "pdx": 812
             }
         ],
         "gid": "P0028",
@@ -29925,31 +20933,22 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            17,
-            140,
-            179,
-            180,
-            197,
-            221,
-            239,
-            260,
-            329,
-            358,
-            410,
-            417,
-            431,
-            554,
-            796,
-            881,
-            892,
-            1053,
-            1097,
-            1110,
-            1173,
-            1181,
-            1215,
-            1227
+            95,
+            137,
+            152,
+            163,
+            225,
+            245,
+            376,
+            542,
+            599,
+            723,
+            751,
+            807,
+            841,
+            847
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -29960,7 +20959,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1178
+                "pdx": 812
             }
         ],
         "gid": "P0057",
@@ -29981,9 +20980,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            621
+            375
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:11:01",
         "cita": [],
         "code": "",
         "coords": [
@@ -29994,7 +20994,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 13
+                "pdx": 11
             }
         ],
         "gid": "P1098",
@@ -30015,9 +21015,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            961
+            539
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:13:44",
         "cita": [],
         "code": "",
         "coords": [
@@ -30028,7 +21029,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 713
+                "pdx": 480
             }
         ],
         "gid": "P0927",
@@ -30049,9 +21050,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            429
+            241
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -30062,7 +21064,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 853
+                "pdx": 579
             }
         ],
         "gid": "P0994",
@@ -30081,45 +21083,12 @@ P = [
         "urls": []
     },
     {
-        "bkf": [
-            390
-        ],
-        "bki": [],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 745
-            }
-        ],
-        "gid": "P1186",
-        "locations": [],
-        "media": [],
-        "name": "Ocean Pines, MD, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Ocean Pines"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
         "bkf": [],
         "bki": [
-            1035
+            578
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -30130,7 +21099,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1180
+                "pdx": 814
             }
         ],
         "gid": "P1554",
@@ -30151,9 +21120,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            856
+            461
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:18:11",
         "cita": [],
         "code": "",
         "coords": [
@@ -30164,7 +21134,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1097
+                "pdx": 751
             }
         ],
         "gid": "P1003",
@@ -30186,43 +21156,32 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            10,
-            53,
-            54,
-            60,
-            145,
-            164,
-            171,
-            183,
-            203,
-            205,
-            216,
-            246,
-            262,
-            286,
-            297,
-            335,
-            381,
-            406,
-            460,
-            660,
-            716,
-            813,
-            845,
-            861,
-            954,
-            1027,
-            1068,
-            1088,
-            1111,
-            1154,
-            1177,
-            1189,
-            1224,
-            1260,
-            1270,
-            1283
+            9,
+            37,
+            38,
+            44,
+            100,
+            114,
+            120,
+            142,
+            151,
+            168,
+            202,
+            274,
+            307,
+            454,
+            481,
+            572,
+            585,
+            653,
+            733,
+            762,
+            811,
+            821,
+            869,
+            875
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -30233,7 +21192,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1178
+                "pdx": 812
             }
         ],
         "gid": "P0000",
@@ -30253,10 +21212,11 @@ P = [
     },
     {
         "bkf": [
-            341
+            222
         ],
         "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:33",
         "cita": [],
         "code": "",
         "coords": [
@@ -30267,7 +21227,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 901
+                "pdx": 614
             }
         ],
         "gid": "P1489",
@@ -30289,25 +21249,21 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            3,
-            32,
-            49,
-            77,
-            324,
-            327,
-            355,
-            469,
-            642,
-            736,
-            762,
-            825,
-            876,
-            943,
-            1060,
-            1113,
-            1130,
-            1269
+            2,
+            20,
+            33,
+            58,
+            224,
+            242,
+            315,
+            440,
+            499,
+            519,
+            764,
+            777,
+            874
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -30318,7 +21274,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1178
+                "pdx": 812
             }
         ],
         "gid": "P0023",
@@ -30340,8 +21296,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            403
+            272
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -30352,7 +21309,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 384
+                "pdx": 261
             }
         ],
         "gid": "P0324",
@@ -30371,11 +21328,12 @@ P = [
         "urls": []
     },
     {
-        "bkf": [
-            642
+        "bkf": [],
+        "bki": [
+            94
         ],
-        "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -30386,75 +21344,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 874
-            }
-        ],
-        "gid": "P1058",
-        "locations": [],
-        "media": [],
-        "name": "Oklahoma City, OK, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Oklahoma City"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            579
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "42.07756500",
-            "-78.42974190"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 179
-            }
-        ],
-        "gid": "P1056",
-        "locations": [],
-        "media": [],
-        "name": "Olean, Cattaraugus, NY, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Olean"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            151
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1203
+                "pdx": 831
             }
         ],
         "gid": "P1532",
@@ -30474,78 +21364,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [
-            783
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 836
-            }
-        ],
-        "gid": "P1262",
-        "locations": [],
-        "media": [],
-        "name": "Omaha, NE, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Omaha"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [
-            405
-        ],
-        "bki": [],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "42.45285710",
-            "-75.06377460"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 892
-            }
-        ],
-        "gid": "P1110",
-        "locations": [],
-        "media": [],
-        "name": "Oneonta, Otsego, NY, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Oneonta"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [],
         "bkp": [
-            1129
+            776
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -30556,7 +21379,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 865
+                "pdx": 588
             }
         ],
         "gid": "P0182",
@@ -30577,9 +21400,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1821
+            982
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -30590,7 +21414,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 883
+                "pdx": 601
             }
         ],
         "gid": "P1529",
@@ -30612,8 +21436,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            882
+            600
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -30624,7 +21449,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1178
+                "pdx": 812
             }
         ],
         "gid": "P0084",
@@ -30646,23 +21471,20 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            18,
-            55,
-            139,
-            207,
-            251,
-            261,
-            363,
-            447,
-            510,
-            595,
-            606,
-            747,
-            917,
-            953,
-            1001,
-            1008
+            14,
+            39,
+            144,
+            176,
+            248,
+            299,
+            344,
+            404,
+            413,
+            509,
+            626,
+            652
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -30673,7 +21495,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1178
+                "pdx": 812
             }
         ],
         "gid": "P0021",
@@ -30695,8 +21517,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            1030
+            706
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -30707,7 +21530,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 155
+                "pdx": 107
             }
         ],
         "gid": "P0309",
@@ -30729,8 +21552,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            888
+            605
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -30741,7 +21565,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 384
+                "pdx": 261
             }
         ],
         "gid": "P0353",
@@ -30762,43 +21586,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            38
+            506
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1039
-            }
-        ],
-        "gid": "P1693",
-        "locations": [],
-        "media": [],
-        "name": "Orangeburg, SC, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Orangeburg"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1049
-        ],
-        "bkp": [],
+        "change_time": "2009-02-11 23:13:44",
         "cita": [],
         "code": "",
         "coords": [
@@ -30809,7 +21600,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 886
+                "pdx": 604
             }
         ],
         "gid": "P1129",
@@ -30831,8 +21622,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            844
+            571
         ],
+        "change_time": "2016-06-18 00:05:03",
         "cita": [],
         "code": "",
         "coords": [
@@ -30843,7 +21635,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 609
+                "pdx": 416
             }
         ],
         "gid": "P0257",
@@ -30858,49 +21650,16 @@ P = [
             }
         ],
         "note": "",
-        "type": "County",
+        "type": "Parish",
         "urls": []
     },
     {
         "bkf": [],
         "bki": [
-            564
+            714
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1250
-            }
-        ],
-        "gid": "P0951",
-        "locations": [],
-        "media": [],
-        "name": "Oshkosh, WI, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Oshkosh"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1286
-        ],
-        "bkp": [],
+        "change_time": "2009-02-11 23:15:22",
         "cita": [],
         "code": "",
         "coords": [
@@ -30911,7 +21670,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 703
+                "pdx": 473
             }
         ],
         "gid": "P1252",
@@ -30931,44 +21690,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [],
-        "bkp": [
-            880
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 865
-            }
-        ],
-        "gid": "P0425",
-        "locations": [],
-        "media": [],
-        "name": "Otsego, NY, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Otsego"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [
-            1994
+            164
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:16:09",
         "cita": [],
         "code": "",
         "coords": [
@@ -30979,7 +21705,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 608
+                "pdx": 415
             }
         ],
         "gid": "P0978",
@@ -31000,9 +21726,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1080
+            599
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:15:22",
         "cita": [],
         "code": "",
         "coords": [
@@ -31013,7 +21740,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1210
+                "pdx": 837
             }
         ],
         "gid": "P1386",
@@ -31035,8 +21762,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            166
+            116
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -31047,7 +21775,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 47
+                "pdx": 31
             }
         ],
         "gid": "P0262",
@@ -31069,8 +21797,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            788
+            536
         ],
+        "change_time": "2016-06-18 00:05:03",
         "cita": [],
         "code": "",
         "coords": [
@@ -31081,7 +21810,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 609
+                "pdx": 416
             }
         ],
         "gid": "P0254",
@@ -31096,83 +21825,16 @@ P = [
             }
         ],
         "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [
-            660
-        ],
-        "bki": [],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "37.77421520",
-            "-87.11333040"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 284
-            }
-        ],
-        "gid": "P1168",
-        "locations": [],
-        "media": [],
-        "name": "Owensboro, Daviess, KY, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Owensboro"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [
-            91
-        ],
-        "bki": [],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 757
-            }
-        ],
-        "gid": "P1358",
-        "locations": [],
-        "media": [],
-        "name": "Owosso, MI, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Owosso"
-            }
-        ],
-        "note": "",
-        "type": "City",
+        "type": "Parish",
         "urls": []
     },
     {
         "bkf": [],
         "bki": [
-            205
+            139
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -31183,7 +21845,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 818
+                "pdx": 556
             }
         ],
         "gid": "P1496",
@@ -31204,9 +21866,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            86
+            55
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:11:01",
         "cita": [],
         "code": "",
         "coords": [
@@ -31217,7 +21880,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1191
+                "pdx": 822
             }
         ],
         "gid": "P1076",
@@ -31239,38 +21902,26 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            28,
-            31,
-            113,
-            319,
-            336,
-            359,
-            434,
-            477,
-            481,
-            539,
+            79,
+            228,
+            321,
+            368,
+            427,
+            442,
+            448,
+            459,
             570,
-            623,
-            644,
-            650,
-            653,
-            669,
-            840,
-            873,
-            922,
-            923,
-            933,
-            956,
-            973,
-            1044,
-            1050,
-            1077,
-            1102,
-            1124,
-            1216,
-            1254,
-            1282
+            595,
+            637,
+            655,
+            670,
+            715,
+            720,
+            756,
+            771,
+            884
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -31281,7 +21932,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1178
+                "pdx": 812
             }
         ],
         "gid": "P0002",
@@ -31302,9 +21953,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1077
+            596
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:17:07",
         "cita": [],
         "code": "",
         "coords": [
@@ -31315,7 +21967,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 739
+                "pdx": 502
             }
         ],
         "gid": "P0946",
@@ -31336,43 +21988,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1599
+            674
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 864
-            }
-        ],
-        "gid": "P1014",
-        "locations": [],
-        "media": [],
-        "name": "Pahrump, NV, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Pahrump"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1183
-        ],
-        "bkp": [],
+        "change_time": "2009-02-11 23:13:44",
         "cita": [],
         "code": "",
         "coords": [
@@ -31383,7 +22002,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 968
+                "pdx": 665
             }
         ],
         "gid": "P1594",
@@ -31403,10 +22022,11 @@ P = [
     },
     {
         "bkf": [
-            615
+            410
         ],
         "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 23:18:50",
         "cita": [],
         "code": "",
         "coords": [
@@ -31417,7 +22037,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 513
+                "pdx": 347
             }
         ],
         "gid": "P1299",
@@ -31437,44 +22057,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [
-            1767
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "28.03446210",
-            "-80.58866460"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 134
-            }
-        ],
-        "gid": "P1275",
-        "locations": [],
-        "media": [],
-        "name": "Palm Bay, Brevard, FL, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Palm Bay"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [],
         "bkp": [
-            1241
+            855
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -31485,7 +22072,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 384
+                "pdx": 261
             }
         ],
         "gid": "P0179",
@@ -31505,10 +22092,11 @@ P = [
     },
     {
         "bkf": [
-            434
+            284
         ],
         "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 23:13:44",
         "cita": [],
         "code": "",
         "coords": [
@@ -31519,7 +22107,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 385
+                "pdx": 262
             }
         ],
         "gid": "P0931",
@@ -31541,8 +22129,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            773
+            525
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -31553,7 +22142,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1170
+                "pdx": 804
             }
         ],
         "gid": "P0190",
@@ -31574,43 +22163,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            531
+            963
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "35.53615590",
-            "-100.95987090"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 450
-            }
-        ],
-        "gid": "P0989",
-        "locations": [],
-        "media": [],
-        "name": "Pampa, Gray, TX, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Pampa"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1755
-        ],
-        "bkp": [],
+        "change_time": "2009-02-11 23:13:44",
         "cita": [],
         "code": "",
         "coords": [
@@ -31621,7 +22177,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 84
+                "pdx": 61
             }
         ],
         "gid": "P1698",
@@ -31640,11 +22196,12 @@ P = [
         "urls": []
     },
     {
-        "bkf": [
-            497
+        "bkf": [],
+        "bki": [
+            395
         ],
-        "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 23:08:30",
         "cita": [],
         "code": "",
         "coords": [
@@ -31655,7 +22212,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 454
+                "pdx": 302
             }
         ],
         "gid": "P1498",
@@ -31676,9 +22233,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1155
+            655
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -31689,7 +22247,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1152
+                "pdx": 792
             }
         ],
         "gid": "P1285",
@@ -31710,9 +22268,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1987
+            1066
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:09:48",
         "cita": [],
         "code": "",
         "coords": [
@@ -31723,7 +22282,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 435
+                "pdx": 292
             }
         ],
         "gid": "P0888",
@@ -31743,44 +22302,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [],
-        "bkp": [
-            402
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 419
-            }
-        ],
-        "gid": "P0302",
-        "locations": [],
-        "media": [],
-        "name": "Peach, GA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Peach"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [
-            600
+            367
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:18:50",
         "cita": [],
         "code": "",
         "coords": [
@@ -31791,7 +22317,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 978
+                "pdx": 674
             }
         ],
         "gid": "P1068",
@@ -31812,9 +22338,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            474
+            276
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -31825,7 +22352,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 884
+                "pdx": 602
             }
         ],
         "gid": "P1283",
@@ -31846,9 +22373,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            12
+            9
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:13:44",
         "cita": [],
         "code": "",
         "coords": [
@@ -31859,7 +22387,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 360
+                "pdx": 246
             }
         ],
         "gid": "P0983",
@@ -31881,8 +22409,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            920
+            629
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -31893,7 +22422,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 534
+                "pdx": 365
             }
         ],
         "gid": "P0379",
@@ -31914,9 +22443,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            164
+            110
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:16:09",
         "cita": [],
         "code": "",
         "coords": [
@@ -31927,7 +22457,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 919
+                "pdx": 628
             }
         ],
         "gid": "P1602",
@@ -31948,9 +22478,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1581
+            869
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:16:29",
         "cita": [],
         "code": "",
         "coords": [
@@ -31961,7 +22492,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 760
+                "pdx": 518
             }
         ],
         "gid": "P1355",
@@ -31982,111 +22513,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            888
+            699
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 901
-            }
-        ],
-        "gid": "P1313",
-        "locations": [],
-        "media": [],
-        "name": "Philadelphia, PA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Philadelphia"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            273
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 901
-            }
-        ],
-        "gid": "P1413",
-        "locations": [],
-        "media": [],
-        "name": "Philadelphia, PA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Philadelphia"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [],
-        "bkp": [
-            1240
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 47
-            }
-        ],
-        "gid": "P0138",
-        "locations": [],
-        "media": [],
-        "name": "Phillips, AR, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Phillips"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1241
-        ],
-        "bkp": [],
+        "change_time": "2009-02-11 23:11:01",
         "cita": [],
         "code": "",
         "coords": [
@@ -32097,7 +22527,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1163
+                "pdx": 799
             }
         ],
         "gid": "P1526",
@@ -32118,9 +22548,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            434
+            572
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:09:48",
         "cita": [],
         "code": "",
         "coords": [
@@ -32131,7 +22562,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 709
+                "pdx": 476
             }
         ],
         "gid": "P1281",
@@ -32150,45 +22581,12 @@ P = [
         "urls": []
     },
     {
-        "bkf": [
-            245
-        ],
-        "bki": [],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 818
-            }
-        ],
-        "gid": "P1691",
-        "locations": [],
-        "media": [],
-        "name": "Picayune, MS, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Picayune"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
         "bkf": [],
         "bki": [
-            1486
+            814
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -32199,7 +22597,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1045
+                "pdx": 716
             }
         ],
         "gid": "P1609",
@@ -32221,8 +22619,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            1159
+            796
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -32233,7 +22632,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 11
+                "pdx": 10
             }
         ],
         "gid": "P0094",
@@ -32255,8 +22654,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            1160
+            797
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -32267,7 +22667,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 66
+                "pdx": 48
             }
         ],
         "gid": "P0341",
@@ -32287,44 +22687,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [],
-        "bkp": [
-            214
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 384
-            }
-        ],
-        "gid": "P0300",
-        "locations": [],
-        "media": [],
-        "name": "Pinellas, FL, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Pinellas"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [
-            72
+            46
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:16:45",
         "cita": [],
         "code": "",
         "coords": [
@@ -32335,7 +22702,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 265
+                "pdx": 178
             }
         ],
         "gid": "P1090",
@@ -32356,9 +22723,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1547
+            853
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -32369,7 +22737,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 901
+                "pdx": 614
             }
         ],
         "gid": "P1212",
@@ -32389,44 +22757,11 @@ P = [
     },
     {
         "bkf": [
-            648
+            239
         ],
         "bki": [],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "42.45008460",
-            "-73.24538240"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 97
-            }
-        ],
-        "gid": "P1316",
-        "locations": [],
-        "media": [],
-        "name": "Pittsfield, Berkshire, MA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Pittsfield"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [
-            367
-        ],
-        "bki": [],
-        "bkp": [],
+        "change_time": "2009-02-11 23:18:50",
         "cita": [],
         "code": "",
         "coords": [
@@ -32437,7 +22772,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 519
+                "pdx": 351
             }
         ],
         "gid": "P1183",
@@ -32458,9 +22793,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            537
+            8
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:18:11",
         "cita": [],
         "code": "",
         "coords": [
@@ -32471,7 +22807,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 221
+                "pdx": 152
             }
         ],
         "gid": "P1257",
@@ -32492,9 +22828,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1419
+            779
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:16:29",
         "cita": [],
         "code": "",
         "coords": [
@@ -32505,7 +22842,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 721
+                "pdx": 486
             }
         ],
         "gid": "P1593",
@@ -32525,10 +22862,11 @@ P = [
     },
     {
         "bkf": [
-            585
+            393
         ],
         "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 23:15:43",
         "cita": [],
         "code": "",
         "coords": [
@@ -32539,7 +22877,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 72
+                "pdx": 53
             }
         ],
         "gid": "P1232",
@@ -32560,9 +22898,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            489
+            289
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -32573,7 +22912,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1276
+                "pdx": 879
             }
         ],
         "gid": "P1451",
@@ -32595,8 +22934,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            621
+            425
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -32607,7 +22947,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 384
+                "pdx": 261
             }
         ],
         "gid": "P0327",
@@ -32629,8 +22969,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            182
+            127
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -32641,7 +22982,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 419
+                "pdx": 284
             }
         ],
         "gid": "P0376",
@@ -32663,8 +23004,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            304
+            209
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -32675,7 +23017,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 530
+                "pdx": 361
             }
         ],
         "gid": "P0247",
@@ -32696,9 +23038,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            645
+            1064
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -32709,41 +23052,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 874
-            }
-        ],
-        "gid": "P1138",
-        "locations": [],
-        "media": [],
-        "name": "Ponca City, OK, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Ponca City"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1984
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 958
+                "pdx": 657
             }
         ],
         "gid": "P1422",
@@ -32764,9 +23073,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            2023
+            1084
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:16:09",
         "cita": [],
         "code": "",
         "coords": [
@@ -32777,7 +23087,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1094
+                "pdx": 750
             }
         ],
         "gid": "P1447",
@@ -32797,44 +23107,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [],
-        "bkp": [
-            1004
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 47
-            }
-        ],
-        "gid": "P0098",
-        "locations": [],
-        "media": [],
-        "name": "Pope, AR, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Pope"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [
-            54
+            37
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -32845,7 +23122,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 780
+                "pdx": 530
             }
         ],
         "gid": "P1663",
@@ -32866,9 +23143,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            510
+            399
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -32879,7 +23157,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1203
+                "pdx": 831
             }
         ],
         "gid": "P0887",
@@ -32900,9 +23178,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            269
+            361
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -32913,41 +23192,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 682
-            }
-        ],
-        "gid": "P1521",
-        "locations": [],
-        "media": [],
-        "name": "Port St, Lucie, FL, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Port St"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1604
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 854
+                "pdx": 580
             }
         ],
         "gid": "P1083",
@@ -32966,45 +23211,12 @@ P = [
         "urls": []
     },
     {
-        "bkf": [
-            621
-        ],
-        "bki": [],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "36.06523000",
-            "-119.01676790"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1161
-            }
-        ],
-        "gid": "P0876",
-        "locations": [],
-        "media": [],
-        "name": "Porterville, Tulare, CA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Porterville"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
         "bkf": [],
         "bki": [
-            1710
+            937
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -33015,7 +23227,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 746
+                "pdx": 508
             }
         ],
         "gid": "P1113",
@@ -33036,9 +23248,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            100
+            61
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -33049,7 +23262,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 884
+                "pdx": 602
             }
         ],
         "gid": "P1575",
@@ -33070,9 +23283,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            640
+            396
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -33083,7 +23297,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 872
+                "pdx": 594
             }
         ],
         "gid": "P1388",
@@ -33105,8 +23319,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            33
+            21
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -33117,7 +23332,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1170
+                "pdx": 804
             }
         ],
         "gid": "P0104",
@@ -33138,9 +23353,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1182
+            669
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -33151,7 +23367,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 901
+                "pdx": 614
             }
         ],
         "gid": "P0864",
@@ -33172,9 +23388,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1428
+            784
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:18:11",
         "cita": [],
         "code": "",
         "coords": [
@@ -33185,7 +23402,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 329
+                "pdx": 225
             }
         ],
         "gid": "P0910",
@@ -33207,23 +23424,18 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            6,
-            8,
-            156,
-            159,
-            224,
-            371,
-            466,
-            467,
-            544,
-            733,
-            944,
-            1020,
-            1022,
-            1026,
-            1035,
-            1280
+            5,
+            7,
+            110,
+            253,
+            313,
+            497,
+            646,
+            699,
+            703,
+            709
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -33234,7 +23446,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1178
+                "pdx": 812
             }
         ],
         "gid": "P0024",
@@ -33253,45 +23465,12 @@ P = [
         "urls": []
     },
     {
-        "bkf": [
-            577
-        ],
-        "bki": [],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 982
-            }
-        ],
-        "gid": "P0947",
-        "locations": [],
-        "media": [],
-        "name": "Providence, RI, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Providence"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
         "bkf": [],
         "bki": [
-            576
+            349
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -33302,7 +23481,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1180
+                "pdx": 814
             }
         ],
         "gid": "P1049",
@@ -33324,8 +23503,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            962
+            660
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -33336,7 +23516,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 223
+                "pdx": 153
             }
         ],
         "gid": "P0219",
@@ -33357,9 +23537,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1975
+            1060
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:11:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -33370,7 +23551,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 961
+                "pdx": 659
             }
         ],
         "gid": "P0924",
@@ -33391,9 +23572,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1581
+            869
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -33420,8 +23602,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            666
+            738
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -33432,41 +23615,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 47
-            }
-        ],
-        "gid": "P0240",
-        "locations": [],
-        "media": [],
-        "name": "Pulaski, AR, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Pulaski"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [],
-        "bkp": [
-            1078
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 603
+                "pdx": 410
             }
         ],
         "gid": "P0245",
@@ -33487,9 +23636,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1865
+            1014
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -33500,7 +23650,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1203
+                "pdx": 831
             }
         ],
         "gid": "P1320",
@@ -33521,9 +23671,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            961
+            539
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:13:44",
         "cita": [],
         "code": "",
         "coords": [
@@ -33534,7 +23685,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 192
+                "pdx": 132
             }
         ],
         "gid": "P1379",
@@ -33556,8 +23707,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            904
+            616
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -33568,7 +23720,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 384
+                "pdx": 261
             }
         ],
         "gid": "P0101",
@@ -33589,9 +23741,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1617
+            888
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:16:09",
         "cita": [],
         "code": "",
         "coords": [
@@ -33602,7 +23755,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 4
+                "pdx": 3
             }
         ],
         "gid": "P1572",
@@ -33623,9 +23776,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1285
+            713
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -33636,7 +23790,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1250
+                "pdx": 863
             }
         ],
         "gid": "P1193",
@@ -33657,9 +23811,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            601
+            368
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -33670,7 +23825,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 834
+                "pdx": 564
             }
         ],
         "gid": "P1631",
@@ -33692,8 +23847,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            24
+            17
         ],
+        "change_time": "2016-06-18 00:05:03",
         "cita": [],
         "code": "",
         "coords": [
@@ -33704,7 +23860,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 609
+                "pdx": 416
             }
         ],
         "gid": "P0166",
@@ -33719,15 +23875,16 @@ P = [
             }
         ],
         "note": "",
-        "type": "County",
+        "type": "Parish",
         "urls": []
     },
     {
         "bkf": [],
         "bki": [
-            1121
+            621
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -33738,7 +23895,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 901
+                "pdx": 614
             }
         ],
         "gid": "P1017",
@@ -33759,9 +23916,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            366
+            226
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:11:01",
         "cita": [],
         "code": "",
         "coords": [
@@ -33772,7 +23930,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1141
+                "pdx": 785
             }
         ],
         "gid": "P1209",
@@ -33793,43 +23951,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1815
+            265
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 779
-            }
-        ],
-        "gid": "P0914",
-        "locations": [],
-        "media": [],
-        "name": "Red Wing, MN, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Red Wing"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            461
-        ],
-        "bkp": [],
+        "change_time": "2009-02-11 23:11:01",
         "cita": [],
         "code": "",
         "coords": [
@@ -33840,7 +23965,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1058
+                "pdx": 726
             }
         ],
         "gid": "P1249",
@@ -33861,9 +23986,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1563
+            859
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:11:01",
         "cita": [],
         "code": "",
         "coords": [
@@ -33874,7 +24000,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1025
+                "pdx": 702
             }
         ],
         "gid": "P0902",
@@ -33896,8 +24022,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            916
+            625
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -33908,7 +24035,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1170
+                "pdx": 804
             }
         ],
         "gid": "P0053",
@@ -33929,9 +24056,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1855
+            1007
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -33942,7 +24070,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 864
+                "pdx": 587
             }
         ],
         "gid": "P1101",
@@ -33964,8 +24092,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            528
+            359
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -33976,7 +24105,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 601
+                "pdx": 408
             }
         ],
         "gid": "P0136",
@@ -33997,9 +24126,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1125
+            623
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:15:43",
         "cita": [],
         "code": "",
         "coords": [
@@ -34010,7 +24140,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 696
+                "pdx": 471
             }
         ],
         "gid": "P1124",
@@ -34030,112 +24160,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [],
-        "bkp": [
-            959
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1178
-            }
-        ],
-        "gid": "P0223",
-        "locations": [],
-        "media": [],
-        "name": "RI, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "RI"
-            }
-        ],
-        "note": "",
-        "type": "State",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [
-            176
+            990
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "37.74785720",
-            "-84.29465390"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 699
-            }
-        ],
-        "gid": "P1223",
-        "locations": [],
-        "media": [],
-        "name": "Richmond, Madison, KY, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Richmond"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1971
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1184
-            }
-        ],
-        "gid": "P1615",
-        "locations": [],
-        "media": [],
-        "name": "Richmond, VA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Richmond"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1831
-        ],
-        "bkp": [],
+        "change_time": "2009-02-11 23:16:29",
         "cita": [],
         "code": "",
         "coords": [
@@ -34146,7 +24175,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1233
+                "pdx": 852
             }
         ],
         "gid": "P1236",
@@ -34168,8 +24197,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            706
+            475
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -34180,7 +24210,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 601
+                "pdx": 408
             }
         ],
         "gid": "P0103",
@@ -34201,9 +24231,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1240
+            698
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:18:50",
         "cita": [],
         "code": "",
         "coords": [
@@ -34214,7 +24245,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1101
+                "pdx": 755
             }
         ],
         "gid": "P1024",
@@ -34235,9 +24266,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1013
+            566
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -34248,7 +24280,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 155
+                "pdx": 107
             }
         ],
         "gid": "P1363",
@@ -34269,9 +24301,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1085
+            602
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -34282,7 +24315,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1277
+                "pdx": 880
             }
         ],
         "gid": "P1188",
@@ -34303,9 +24336,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1170
+            659
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -34316,7 +24350,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 834
+                "pdx": 564
             }
         ],
         "gid": "P1665",
@@ -34337,9 +24371,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1185
+            672
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -34350,7 +24385,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1184
+                "pdx": 817
             }
         ],
         "gid": "P1300",
@@ -34370,10 +24405,11 @@ P = [
     },
     {
         "bkf": [
-            103
+            69
         ],
         "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -34384,7 +24420,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 779
+                "pdx": 529
             }
         ],
         "gid": "P1613",
@@ -34405,9 +24441,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1441
+            1015
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -34418,109 +24455,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1277
-            }
-        ],
-        "gid": "P1562",
-        "locations": [],
-        "media": [],
-        "name": "Rock Springs, WY, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Rock Springs"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1249
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "42.27113110",
-            "-89.09399520"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1264
-            }
-        ],
-        "gid": "P1062",
-        "locations": [],
-        "media": [],
-        "name": "Rockford, Winnebago, IL, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Rockford"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [
-            605
-        ],
-        "bki": [],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 851
-            }
-        ],
-        "gid": "P1259",
-        "locations": [],
-        "media": [],
-        "name": "Rockingham County, NH, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Rockingham County"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1825
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 834
+                "pdx": 564
             }
         ],
         "gid": "P1120",
@@ -34541,9 +24476,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            56
+            37
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -34554,41 +24490,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 746
-            }
-        ],
-        "gid": "P0956",
-        "locations": [],
-        "media": [],
-        "name": "Rockland, ME, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Rockland"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            54
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 834
+                "pdx": 564
             }
         ],
         "gid": "P1586",
@@ -34609,9 +24511,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1822
+            983
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -34622,7 +24525,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 780
+                "pdx": 530
             }
         ],
         "gid": "P1093",
@@ -34642,10 +24545,11 @@ P = [
     },
     {
         "bkf": [
-            187
+            117
         ],
         "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 23:14:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -34656,7 +24560,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 390
+                "pdx": 265
             }
         ],
         "gid": "P1601",
@@ -34677,9 +24581,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            316
+            426
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -34690,41 +24595,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 884
-            }
-        ],
-        "gid": "P1185",
-        "locations": [],
-        "media": [],
-        "name": "Roseburg, OR, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Roseburg"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            757
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 854
+                "pdx": 580
             }
         ],
         "gid": "P1346",
@@ -34746,8 +24617,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            1119
+            768
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -34758,7 +24630,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1170
+                "pdx": 804
             }
         ],
         "gid": "P0287",
@@ -34779,77 +24651,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1894
+            1072
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "35.27841730",
-            "-93.13378560"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 946
-            }
-        ],
-        "gid": "P1649",
-        "locations": [],
-        "media": [],
-        "name": "Russellville, Pope, AR, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Russellville"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1502
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "32.52320530",
-            "-92.63792700"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 662
-            }
-        ],
-        "gid": "P0955",
-        "locations": [],
-        "media": [],
-        "name": "Ruston, Lincoln, LA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Ruston"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1999
-        ],
-        "bkp": [],
+        "change_time": "2009-02-11 23:09:48",
         "cita": [],
         "code": "",
         "coords": [
@@ -34860,7 +24665,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 441
+                "pdx": 296
             }
         ],
         "gid": "P0873",
@@ -34881,9 +24686,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1659
+            915
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -34894,7 +24700,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 757
+                "pdx": 515
             }
         ],
         "gid": "P1677",
@@ -34915,77 +24721,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1785
+            323
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 884
-            }
-        ],
-        "gid": "P1544",
-        "locations": [],
-        "media": [],
-        "name": "Salem, OR, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Salem"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [
-            603
-        ],
-        "bki": [],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "38.84028050",
-            "-97.61142370"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1011
-            }
-        ],
-        "gid": "P1669",
-        "locations": [],
-        "media": [],
-        "name": "Salina, Saline, KS, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Salina"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            543
-        ],
-        "bkp": [],
+        "change_time": "2009-02-11 23:11:01",
         "cita": [],
         "code": "",
         "coords": [
@@ -34996,7 +24735,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 790
+                "pdx": 538
             }
         ],
         "gid": "P1317",
@@ -35016,44 +24755,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [],
-        "bkp": [
-            1009
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 601
-            }
-        ],
-        "gid": "P0243",
-        "locations": [],
-        "media": [],
-        "name": "Saline, KS, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Saline"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [
-            1363
+            758
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -35064,7 +24770,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 834
+                "pdx": 564
             }
         ],
         "gid": "P1278",
@@ -35083,79 +24789,12 @@ P = [
         "urls": []
     },
     {
-        "bkf": [
-            143
-        ],
-        "bki": [],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1180
-            }
-        ],
-        "gid": "P1589",
-        "locations": [],
-        "media": [],
-        "name": "Salt Lake City, UT, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Salt Lake City"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
         "bkf": [],
         "bki": [
-            524
+            999
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "31.46377230",
-            "-100.43703750"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1155
-            }
-        ],
-        "gid": "P1330",
-        "locations": [],
-        "media": [],
-        "name": "San Angelo, Tom Green, TX, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "San Angelo"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1845
-        ],
-        "bkp": [],
+        "change_time": "2009-02-11 23:18:50",
         "cita": [],
         "code": "",
         "coords": [
@@ -35166,7 +24805,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 100
+                "pdx": 72
             }
         ],
         "gid": "P1187",
@@ -35188,8 +24827,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            1017
+            698
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -35200,7 +24840,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 155
+                "pdx": 107
             }
         ],
         "gid": "P0401",
@@ -35220,10 +24860,11 @@ P = [
     },
     {
         "bkf": [
-            330
+            213
         ],
         "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 23:11:01",
         "cita": [],
         "code": "",
         "coords": [
@@ -35234,7 +24875,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1016
+                "pdx": 697
             }
         ],
         "gid": "P0892",
@@ -35254,78 +24895,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [],
-        "bkp": [
-            1019
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 155
-            }
-        ],
-        "gid": "P0342",
-        "locations": [],
-        "media": [],
-        "name": "San Francisco, CA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "San Francisco"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [
-            822
+            149
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "37.77492950",
-            "-122.41941550"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1018
-            }
-        ],
-        "gid": "P1040",
-        "locations": [],
-        "media": [],
-        "name": "San Francisco, San Francisco, CA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "San Francisco"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1539
-        ],
-        "bkp": [],
+        "change_time": "2009-02-11 18:29:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -35336,75 +24910,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 958
-            }
-        ],
-        "gid": "P1006",
-        "locations": [],
-        "media": [],
-        "name": "San Germ\u00e1n, PR, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "San Germ\u00e1n"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [],
-        "bkp": [
-            1114
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 155
-            }
-        ],
-        "gid": "P0031",
-        "locations": [],
-        "media": [],
-        "name": "San Joaquin, CA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "San Joaquin"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            215
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 958
+                "pdx": 657
             }
         ],
         "gid": "P1105",
@@ -35426,8 +24932,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            1024
+            701
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -35438,7 +24945,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 155
+                "pdx": 107
             }
         ],
         "gid": "P0008",
@@ -35459,9 +24966,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            2094
+            1125
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:11:01",
         "cita": [],
         "code": "",
         "coords": [
@@ -35472,7 +24980,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1023
+                "pdx": 700
             }
         ],
         "gid": "P1343",
@@ -35494,8 +25002,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            977
+            673
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -35506,7 +25015,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 155
+                "pdx": 107
             }
         ],
         "gid": "P0096",
@@ -35527,9 +25036,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1323
+            732
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -35540,7 +25050,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 958
+                "pdx": 657
             }
         ],
         "gid": "P1206",
@@ -35561,9 +25071,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            847
+            576
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -35574,41 +25085,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 872
-            }
-        ],
-        "gid": "P1302",
-        "locations": [],
-        "media": [],
-        "name": "Sandusky, OH, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Sandusky"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1030
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 834
+                "pdx": 564
             }
         ],
         "gid": "P1481",
@@ -35630,8 +25107,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            1089
+            746
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -35642,7 +25120,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 534
+                "pdx": 365
             }
         ],
         "gid": "P0216",
@@ -35663,9 +25141,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            560
+            340
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:11:01",
         "cita": [],
         "code": "",
         "coords": [
@@ -35676,7 +25155,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 885
+                "pdx": 603
             }
         ],
         "gid": "P1582",
@@ -35698,8 +25177,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            856
+            582
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -35710,7 +25190,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 66
+                "pdx": 48
             }
         ],
         "gid": "P0253",
@@ -35730,10 +25210,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [],
-        "bkp": [
-            1033
+        "bki": [
+            70
         ],
+        "bkp": [],
+        "change_time": "2009-02-11 18:29:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -35744,75 +25225,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 155
-            }
-        ],
-        "gid": "P0413",
-        "locations": [],
-        "media": [],
-        "name": "Santa Cruz, CA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Santa Cruz"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1317
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "36.97411710",
-            "-122.03079630"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1032
-            }
-        ],
-        "gid": "P1182",
-        "locations": [],
-        "media": [],
-        "name": "Santa Cruz, Santa Cruz, CA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Santa Cruz"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1170
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 854
+                "pdx": 580
             }
         ],
         "gid": "P1032",
@@ -35833,9 +25246,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1528
+            837
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -35846,7 +25260,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 958
+                "pdx": 657
             }
         ],
         "gid": "P1566",
@@ -35867,9 +25281,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1780
+            995
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:30:44",
         "cita": [],
         "code": "",
         "coords": [
@@ -35880,41 +25295,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 155
-            }
-        ],
-        "gid": "P1383",
-        "locations": [],
-        "media": [],
-        "name": "Santa Rosa-Petaluma, CA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Santa Rosa-Petaluma"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1838
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 757
+                "pdx": 515
             }
         ],
         "gid": "P1564",
@@ -35935,9 +25316,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1868
+            216
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:14:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -35948,7 +25330,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 194
+                "pdx": 134
             }
         ],
         "gid": "P1452",
@@ -35970,26 +25352,20 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            39,
-            95,
-            190,
-            199,
-            240,
-            389,
-            421,
-            433,
-            461,
-            463,
-            503,
-            624,
-            826,
-            847,
-            887,
-            1054,
-            1081,
-            1175,
-            1209
+            69,
+            139,
+            164,
+            285,
+            308,
+            310,
+            340,
+            428,
+            560,
+            724,
+            739,
+            809
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -36000,7 +25376,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1178
+                "pdx": 812
             }
         ],
         "gid": "P0032",
@@ -36022,8 +25398,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            282
+            191
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -36034,7 +25411,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 530
+                "pdx": 361
             }
         ],
         "gid": "P0277",
@@ -36054,44 +25431,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [],
-        "bkp": [
-            1043
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 536
-            }
-        ],
-        "gid": "P0055",
-        "locations": [],
-        "media": [],
-        "name": "Scott, IN, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Scott"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [
-            209
+            146
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -36102,7 +25446,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 836
+                "pdx": 566
             }
         ],
         "gid": "P1570",
@@ -36123,43 +25467,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            986
+            708
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "38.28866100",
-            "-87.21917350"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1041
-            }
-        ],
-        "gid": "P0885",
-        "locations": [],
-        "media": [],
-        "name": "Scottsburg, Scott, IN, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Scottsburg"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1270
-        ],
-        "bkp": [],
+        "change_time": "2009-02-11 18:29:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -36170,7 +25481,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 901
+                "pdx": 614
             }
         ],
         "gid": "P1522",
@@ -36192,15 +25503,14 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            0,
-            526,
-            778,
-            928,
-            1074,
-            1082,
-            1228,
-            1279
+            357,
+            528,
+            633,
+            740,
+            848,
+            882
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -36211,7 +25521,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1178
+                "pdx": 812
             }
         ],
         "gid": "P0059",
@@ -36232,9 +25542,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1858
+            994
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:12:27",
         "cita": [],
         "code": "",
         "coords": [
@@ -36245,7 +25556,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1125
+                "pdx": 772
             }
         ],
         "gid": "P1533",
@@ -36266,9 +25577,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1987
+            1066
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:08:30",
         "cita": [],
         "code": "",
         "coords": [
@@ -36279,7 +25591,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1245
+                "pdx": 858
             }
         ],
         "gid": "P1065",
@@ -36298,45 +25610,12 @@ P = [
         "urls": []
     },
     {
-        "bkf": [
-            567
-        ],
-        "bki": [],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1203
-            }
-        ],
-        "gid": "P1311",
-        "locations": [],
-        "media": [],
-        "name": "Seattle, WA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Seattle"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
         "bkf": [],
         "bki": [],
         "bkp": [
-            401
+            271
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -36347,7 +25626,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 46
+                "pdx": 30
             }
         ],
         "gid": "P0176",
@@ -36368,9 +25647,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            504
+            298
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -36381,7 +25661,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 901
+                "pdx": 614
             }
         ],
         "gid": "P1404",
@@ -36402,9 +25682,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            238
+            162
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:05:37",
         "cita": [],
         "code": "",
         "coords": [
@@ -36415,7 +25696,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 274
+                "pdx": 185
             }
         ],
         "gid": "P1573",
@@ -36436,9 +25717,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1581
+            869
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:18:11",
         "cita": [],
         "code": "",
         "coords": [
@@ -36449,7 +25731,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1053
+                "pdx": 723
             }
         ],
         "gid": "P1598",
@@ -36471,8 +25753,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            1052
+            722
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -36483,7 +25766,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 865
+                "pdx": 588
             }
         ],
         "gid": "P0215",
@@ -36504,9 +25787,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1963
+            1052
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -36517,7 +25801,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1039
+                "pdx": 712
             }
         ],
         "gid": "P0870",
@@ -36537,44 +25821,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [
-            1759
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1152
-            }
-        ],
-        "gid": "P1290",
-        "locations": [],
-        "media": [],
-        "name": "Sevierville, TN, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Sevierville"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [],
         "bkp": [
-            658
+            452
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -36585,7 +25836,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 601
+                "pdx": 408
             }
         ],
         "gid": "P0148",
@@ -36604,45 +25855,12 @@ P = [
         "urls": []
     },
     {
-        "bkf": [
-            170
-        ],
-        "bki": [],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "38.95922010",
-            "-85.89025470"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 546
-            }
-        ],
-        "gid": "P1514",
-        "locations": [],
-        "media": [],
-        "name": "Seymour, Jackson, IN, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Seymour"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
         "bkf": [],
         "bki": [],
         "bkp": [
-            976
+            672
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -36653,7 +25871,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 155
+                "pdx": 107
             }
         ],
         "gid": "P0428",
@@ -36675,8 +25893,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            1156
+            793
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -36687,7 +25906,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 601
+                "pdx": 408
             }
         ],
         "gid": "P0191",
@@ -36708,9 +25927,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            654
+            45
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -36721,75 +25941,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 874
-            }
-        ],
-        "gid": "P1539",
-        "locations": [],
-        "media": [],
-        "name": "Shawnee, OK, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Shawnee"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1988
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1250
-            }
-        ],
-        "gid": "P1099",
-        "locations": [],
-        "media": [],
-        "name": "Sheboygan, WI, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Sheboygan"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            71
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 834
+                "pdx": 564
             }
         ],
         "gid": "P1154",
@@ -36810,9 +25962,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1431
+            785
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -36823,7 +25976,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1152
+                "pdx": 792
             }
         ],
         "gid": "P1289",
@@ -36844,9 +25997,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1656
+            11
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -36857,7 +26011,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1203
+                "pdx": 831
             }
         ],
         "gid": "P1551",
@@ -36878,9 +26032,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1092
+            368
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -36891,41 +26046,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1277
-            }
-        ],
-        "gid": "P1655",
-        "locations": [],
-        "media": [],
-        "name": "Sheridan, WY, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Sheridan"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            601
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1170
+                "pdx": 804
             }
         ],
         "gid": "P1335",
@@ -36946,9 +26067,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1653
+            905
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:17:29",
         "cita": [],
         "code": "",
         "coords": [
@@ -36959,7 +26081,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 157
+                "pdx": 108
             }
         ],
         "gid": "P1015",
@@ -36980,9 +26102,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1486
+            814
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -36993,7 +26116,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 872
+                "pdx": 594
             }
         ],
         "gid": "P1417",
@@ -37014,43 +26137,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1003
+            26
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "31.55453940",
-            "-110.30369120"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 225
-            }
-        ],
-        "gid": "P1147",
-        "locations": [],
-        "media": [],
-        "name": "Sierra Vista, Cochise, AZ, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Sierra Vista"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            29
-        ],
-        "bkp": [],
+        "change_time": "2009-02-11 18:29:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -37061,7 +26151,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 780
+                "pdx": 530
             }
         ],
         "gid": "P1412",
@@ -37082,9 +26172,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1185
+            672
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -37095,7 +26186,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 854
+                "pdx": 580
             }
         ],
         "gid": "P1545",
@@ -37116,43 +26207,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1981
+            697
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "39.63213900",
-            "-106.07428100"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1121
-            }
-        ],
-        "gid": "P1018",
-        "locations": [],
-        "media": [],
-        "name": "Silverthorne, Summit, CO, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Silverthorne"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1239
-        ],
-        "bkp": [],
+        "change_time": "2009-02-11 23:15:22",
         "cita": [],
         "code": "",
         "coords": [
@@ -37163,7 +26221,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1268
+                "pdx": 873
             }
         ],
         "gid": "P1646",
@@ -37183,44 +26241,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [
-            703
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1045
-            }
-        ],
-        "gid": "P1459",
-        "locations": [],
-        "media": [],
-        "name": "Sioux Falls, SD, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Sioux Falls"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [],
         "bkp": [
-            1171
+            805
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -37231,7 +26256,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1170
+                "pdx": 804
             }
         ],
         "gid": "P0045",
@@ -37251,78 +26276,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [],
-        "bkp": [
-            1187
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 155
-            }
-        ],
-        "gid": "P0116",
-        "locations": [],
-        "media": [],
-        "name": "Solano, CA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Solano"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [
-            1192
+            241
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 901
-            }
-        ],
-        "gid": "P1371",
-        "locations": [],
-        "media": [],
-        "name": "Somerset, PA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Somerset"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            429
-        ],
-        "bkp": [],
+        "change_time": "2009-02-11 23:17:07",
         "cita": [],
         "code": "",
         "coords": [
@@ -37333,7 +26291,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 965
+                "pdx": 662
             }
         ],
         "gid": "P1431",
@@ -37352,45 +26310,12 @@ P = [
         "urls": []
     },
     {
-        "bkf": [],
-        "bki": [
-            1408
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "41.68338130",
-            "-86.25000660"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1096
-            }
-        ],
-        "gid": "P1254",
-        "locations": [],
-        "media": [],
-        "name": "South Bend, St. Joseph, IN, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "South Bend"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
         "bkf": [
-            469
+            283
         ],
         "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -37401,41 +26326,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 834
-            }
-        ],
-        "gid": "P1508",
-        "locations": [],
-        "media": [],
-        "name": "Southern Pines, NC, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Southern Pines"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [
-            433
-        ],
-        "bki": [],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1039
+                "pdx": 712
             }
         ],
         "gid": "P0953",
@@ -37456,9 +26347,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1080
+            599
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -37469,7 +26361,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1045
+                "pdx": 716
             }
         ],
         "gid": "P1630",
@@ -37490,9 +26382,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1151
+            642
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:15:22",
         "cita": [],
         "code": "",
         "coords": [
@@ -37503,7 +26396,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 212
+                "pdx": 148
             }
         ],
         "gid": "P1199",
@@ -37523,10 +26416,11 @@ P = [
     },
     {
         "bkf": [
-            515
+            342
         ],
         "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 23:15:22",
         "cita": [],
         "code": "",
         "coords": [
@@ -37537,7 +26431,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 307
+                "pdx": 212
             }
         ],
         "gid": "P0853",
@@ -37558,9 +26452,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1486
+            814
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -37571,7 +26466,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1203
+                "pdx": 831
             }
         ],
         "gid": "P1164",
@@ -37592,9 +26487,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            913
+            445
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:17:47",
         "cita": [],
         "code": "",
         "coords": [
@@ -37605,7 +26501,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 474
+                "pdx": 318
             }
         ],
         "gid": "P1444",
@@ -37626,9 +26522,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1314
+            365
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -37639,7 +26536,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 780
+                "pdx": 530
             }
         ],
         "gid": "P1277",
@@ -37658,45 +26555,12 @@ P = [
         "urls": []
     },
     {
-        "bkf": [],
-        "bki": [
-            1497
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 872
-            }
-        ],
-        "gid": "P1591",
-        "locations": [],
-        "media": [],
-        "name": "Springfield, OH, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Springfield"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
         "bkf": [
-            626
+            412
         ],
         "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 23:16:09",
         "cita": [],
         "code": "",
         "coords": [
@@ -37707,7 +26571,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1029
+                "pdx": 705
             }
         ],
         "gid": "P1172",
@@ -37728,9 +26592,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1984
+            1064
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:31:07",
         "cita": [],
         "code": "",
         "coords": [
@@ -37741,7 +26606,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 384
+                "pdx": 261
             }
         ],
         "gid": "P1221",
@@ -37762,9 +26627,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1089
+            904
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -37775,7 +26641,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 432
+                "pdx": 291
             }
         ],
         "gid": "P1192",
@@ -37796,9 +26662,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1449
+            791
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:16:09",
         "cita": [],
         "code": "",
         "coords": [
@@ -37809,7 +26676,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 678
+                "pdx": 463
             }
         ],
         "gid": "P1612",
@@ -37829,44 +26696,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [
-            1625
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 727
-            }
-        ],
-        "gid": "P1155",
-        "locations": [],
-        "media": [],
-        "name": "St, Marys, St, Marys, PA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "St"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [],
         "bkp": [
-            945
+            647
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -37877,7 +26711,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 534
+                "pdx": 365
             }
         ],
         "gid": "P0303",
@@ -37899,8 +26733,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            394
+            593
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -37911,75 +26746,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 47
-            }
-        ],
-        "gid": "P0410",
-        "locations": [],
-        "media": [],
-        "name": "St. Francis, AR, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "St. Francis"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [],
-        "bkp": [
-            1079
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 536
-            }
-        ],
-        "gid": "P0310",
-        "locations": [],
-        "media": [],
-        "name": "St. Joseph, IN, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "St. Joseph"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [],
-        "bkp": [
-            871
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 865
+                "pdx": 588
             }
         ],
         "gid": "P0434",
@@ -38001,8 +26768,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            802
+            545
         ],
+        "change_time": "2016-06-18 00:05:03",
         "cita": [],
         "code": "",
         "coords": [
@@ -38013,7 +26781,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 609
+                "pdx": 416
             }
         ],
         "gid": "P0384",
@@ -38028,15 +26796,16 @@ P = [
             }
         ],
         "note": "",
-        "type": "County",
+        "type": "Parish",
         "urls": []
     },
     {
         "bkf": [],
         "bki": [],
         "bkp": [
-            784
+            533
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -38047,7 +26816,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 155
+                "pdx": 107
             }
         ],
         "gid": "P0333",
@@ -38068,9 +26837,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            625
+            377
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -38081,7 +26851,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 818
+                "pdx": 556
             }
         ],
         "gid": "P1606",
@@ -38103,8 +26873,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            987
+            680
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -38115,7 +26886,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1170
+                "pdx": 804
             }
         ],
         "gid": "P0212",
@@ -38136,9 +26907,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1699
+            933
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -38149,7 +26921,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 901
+                "pdx": 614
             }
         ],
         "gid": "P1423",
@@ -38170,43 +26942,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1561
+            684
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "32.44878770",
-            "-81.78316740"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 148
-            }
-        ],
-        "gid": "P1402",
-        "locations": [],
-        "media": [],
-        "name": "Statesboro, Bulloch, GA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Statesboro"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1215
-        ],
-        "bkp": [],
+        "change_time": "2009-02-11 18:29:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -38217,7 +26956,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1184
+                "pdx": 817
             }
         ],
         "gid": "P1152",
@@ -38237,44 +26976,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [],
-        "bkp": [
-            1153
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 419
-            }
-        ],
-        "gid": "P0069",
-        "locations": [],
-        "media": [],
-        "name": "Stephens, GA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Stephens"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [
-            210
+            144
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:18:50",
         "cita": [],
         "code": "",
         "coords": [
@@ -38285,7 +26991,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 357
+                "pdx": 244
             }
         ],
         "gid": "P1689",
@@ -38304,11 +27010,12 @@ P = [
         "urls": []
     },
     {
-        "bkf": [],
-        "bki": [
-            506
+        "bkf": [
+            115
         ],
+        "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 23:11:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -38319,7 +27026,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 670
+                "pdx": 460
             }
         ],
         "gid": "P1439",
@@ -38340,9 +27047,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            612
+            381
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:16:09",
         "cita": [],
         "code": "",
         "coords": [
@@ -38353,7 +27061,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1246
+                "pdx": 859
             }
         ],
         "gid": "P1038",
@@ -38375,8 +27083,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            43
+            27
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -38387,7 +27096,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 536
+                "pdx": 366
             }
         ],
         "gid": "P0149",
@@ -38407,44 +27116,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [],
-        "bkp": [
-            256
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 865
-            }
-        ],
-        "gid": "P0077",
-        "locations": [],
-        "media": [],
-        "name": "Steuben, NY, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Steuben"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [
-            621
+            375
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -38455,7 +27131,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 872
+                "pdx": 594
             }
         ],
         "gid": "P1350",
@@ -38476,9 +27152,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            849
+            458
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -38489,7 +27166,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1250
+                "pdx": 863
             }
         ],
         "gid": "P1507",
@@ -38510,9 +27187,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            906
+            501
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -38523,7 +27201,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 874
+                "pdx": 596
             }
         ],
         "gid": "P1604",
@@ -38544,43 +27222,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            722
+            382
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "37.95770160",
-            "-121.29077960"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1021
-            }
-        ],
-        "gid": "P1624",
-        "locations": [],
-        "media": [],
-        "name": "Stockton, San Joaquin, CA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Stockton"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            664
-        ],
-        "bkp": [],
+        "change_time": "2009-02-11 23:15:22",
         "cita": [],
         "code": "",
         "coords": [
@@ -38591,7 +27236,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 146
+                "pdx": 101
             }
         ],
         "gid": "P1640",
@@ -38613,8 +27258,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            35
+            22
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -38625,7 +27271,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 530
+                "pdx": 361
             }
         ],
         "gid": "P0156",
@@ -38645,44 +27291,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [
-            1114
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 757
-            }
-        ],
-        "gid": "P1031",
-        "locations": [],
-        "media": [],
-        "name": "Sturgis, MI, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Sturgis"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [],
         "bkp": [
-            123
+            85
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -38693,7 +27306,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 687
+                "pdx": 468
             }
         ],
         "gid": "P0270",
@@ -38713,10 +27326,11 @@ P = [
     },
     {
         "bkf": [
-            378
+            250
         ],
         "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 23:18:50",
         "cita": [],
         "code": "",
         "coords": [
@@ -38727,7 +27341,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1003
+                "pdx": 691
             }
         ],
         "gid": "P1387",
@@ -38748,9 +27362,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            237
+            864
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:14:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -38761,7 +27376,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 196
+                "pdx": 136
             }
         ],
         "gid": "P1097",
@@ -38783,8 +27398,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            1072
+            787
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -38795,41 +27411,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 223
-            }
-        ],
-        "gid": "P0211",
-        "locations": [],
-        "media": [],
-        "name": "Summit, CO, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Summit"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [],
-        "bkp": [
-            1145
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 384
+                "pdx": 261
             }
         ],
         "gid": "P0122",
@@ -38849,44 +27431,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [],
-        "bkp": [
-            34
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 419
-            }
-        ],
-        "gid": "P0065",
-        "locations": [],
-        "media": [],
-        "name": "Sumter, GA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Sumter"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [
-            1491
+            817
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:35",
         "cita": [],
         "code": "",
         "coords": [
@@ -38897,7 +27446,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 901
+                "pdx": 614
             }
         ],
         "gid": "P1125",
@@ -38919,8 +27468,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            1046
+            717
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -38931,7 +27481,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 290
+                "pdx": 196
             }
         ],
         "gid": "P0090",
@@ -38953,8 +27503,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            1284
+            885
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -38965,7 +27516,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 155
+                "pdx": 107
             }
         ],
         "gid": "P0370",
@@ -38985,10 +27536,11 @@ P = [
     },
     {
         "bkf": [
-            64
+            46
         ],
         "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 23:18:50",
         "cita": [],
         "code": "",
         "coords": [
@@ -38999,7 +27551,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 857
+                "pdx": 583
             }
         ],
         "gid": "P1046",
@@ -39020,9 +27572,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            865
+            465
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:05:37",
         "cita": [],
         "code": "",
         "coords": [
@@ -39033,7 +27586,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1131
+                "pdx": 778
             }
         ],
         "gid": "P0995",
@@ -39054,9 +27607,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            576
+            349
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:18:11",
         "cita": [],
         "code": "",
         "coords": [
@@ -39067,7 +27621,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 881
+                "pdx": 599
             }
         ],
         "gid": "P1265",
@@ -39088,9 +27642,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1698
+            932
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:35",
         "cita": [],
         "code": "",
         "coords": [
@@ -39101,7 +27656,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 874
+                "pdx": 596
             }
         ],
         "gid": "P1580",
@@ -39123,8 +27678,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            1128
+            775
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -39135,7 +27691,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 11
+                "pdx": 10
             }
         ],
         "gid": "P0349",
@@ -39156,9 +27712,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            2095
+            1126
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:13:44",
         "cita": [],
         "code": "",
         "coords": [
@@ -39169,7 +27726,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 648
+                "pdx": 446
             }
         ],
         "gid": "P1184",
@@ -39190,9 +27747,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1118
+            622
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:17:29",
         "cita": [],
         "code": "",
         "coords": [
@@ -39203,7 +27761,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 700
+                "pdx": 472
             }
         ],
         "gid": "P1674",
@@ -39224,9 +27782,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            323
+            193
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:13:44",
         "cita": [],
         "code": "",
         "coords": [
@@ -39237,7 +27796,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 501
+                "pdx": 338
             }
         ],
         "gid": "P1117",
@@ -39259,8 +27818,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            473
+            317
         ],
+        "change_time": "2016-06-18 00:05:03",
         "cita": [],
         "code": "",
         "coords": [
@@ -39271,7 +27831,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 609
+                "pdx": 416
             }
         ],
         "gid": "P0145",
@@ -39286,49 +27846,16 @@ P = [
             }
         ],
         "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            609
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 854
-            }
-        ],
-        "gid": "P1020",
-        "locations": [],
-        "media": [],
-        "name": "Taos, NM, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Taos"
-            }
-        ],
-        "note": "",
-        "type": "City",
+        "type": "Parish",
         "urls": []
     },
     {
         "bkf": [],
         "bki": [],
         "bkp": [
-            405
+            273
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -39339,7 +27866,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1170
+                "pdx": 804
             }
         ],
         "gid": "P0351",
@@ -39361,8 +27888,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            168
+            551
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -39373,41 +27901,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 603
-            }
-        ],
-        "gid": "P0224",
-        "locations": [],
-        "media": [],
-        "name": "Taylor, KY, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Taylor"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [],
-        "bkp": [
-            811
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1170
+                "pdx": 804
             }
         ],
         "gid": "P0305",
@@ -39427,44 +27921,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [
-            1555
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "39.54893500",
-            "-89.29453300"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 204
-            }
-        ],
-        "gid": "P1231",
-        "locations": [],
-        "media": [],
-        "name": "Taylorville, Christian, IL, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Taylorville"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [],
         "bkp": [
-            974
+            671
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -39475,7 +27936,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 155
+                "pdx": 107
             }
         ],
         "gid": "P0162",
@@ -39495,44 +27956,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [
-            496
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "39.46670340",
-            "-87.41390920"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1198
-            }
-        ],
-        "gid": "P1357",
-        "locations": [],
-        "media": [],
-        "name": "Terre Haute, Vigo, IN, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Terre Haute"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [],
         "bkp": [
-            515
+            349
         ],
+        "change_time": "2016-06-18 00:05:03",
         "cita": [],
         "code": "",
         "coords": [
@@ -39543,7 +27971,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 609
+                "pdx": 416
             }
         ],
         "gid": "P0391",
@@ -39558,49 +27986,16 @@ P = [
             }
         ],
         "note": "",
-        "type": "County",
+        "type": "Parish",
         "urls": []
     },
     {
         "bkf": [],
         "bki": [
-            1247
+            342
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "33.44179150",
-            "-94.03768810"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 770
-            }
-        ],
-        "gid": "P1652",
-        "locations": [],
-        "media": [],
-        "name": "Texarkana, Miller, AR, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Texarkana"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            563
-        ],
-        "bkp": [],
+        "change_time": "2009-02-11 23:13:44",
         "cita": [],
         "code": "",
         "coords": [
@@ -39611,7 +28006,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1122
+                "pdx": 770
             }
         ],
         "gid": "P1393",
@@ -39632,9 +28027,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            559
+            337
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:14:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -39645,7 +28041,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1176
+                "pdx": 810
             }
         ],
         "gid": "P1303",
@@ -39666,9 +28062,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            600
+            367
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:14:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -39679,7 +28076,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 415
+                "pdx": 281
             }
         ],
         "gid": "P1248",
@@ -39701,8 +28098,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            1149
+            419
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -39713,75 +28111,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 419
-            }
-        ],
-        "gid": "P0006",
-        "locations": [],
-        "media": [],
-        "name": "Tift, GA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Tift"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            786
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "31.45046290",
-            "-83.50849730"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1148
-            }
-        ],
-        "gid": "P1679",
-        "locations": [],
-        "media": [],
-        "name": "Tifton, Tift, GA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Tifton"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [],
-        "bkp": [
-            613
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 536
+                "pdx": 366
             }
         ],
         "gid": "P0230",
@@ -39803,8 +28133,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            195
+            135
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -39815,7 +28146,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1178
+                "pdx": 812
             }
         ],
         "gid": "P0061",
@@ -39837,30 +28168,24 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            143,
-            217,
-            241,
-            250,
-            269,
-            331,
-            455,
-            479,
-            548,
-            591,
-            597,
-            605,
-            641,
-            742,
-            748,
-            806,
-            830,
-            848,
-            913,
-            1055,
-            1063,
-            1162,
-            1174
+            98,
+            172,
+            182,
+            226,
+            323,
+            372,
+            400,
+            406,
+            412,
+            504,
+            547,
+            561,
+            574,
+            623,
+            729,
+            808
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -39871,7 +28196,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1178
+                "pdx": 812
             }
         ],
         "gid": "P0029",
@@ -39890,113 +28215,12 @@ P = [
         "urls": []
     },
     {
-        "bkf": [],
-        "bki": [
-            1473
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "34.57732060",
-            "-83.33238510"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1105
-            }
-        ],
-        "gid": "P1463",
-        "locations": [],
-        "media": [],
-        "name": "Toccoa, Stephens, GA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Toccoa"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            459
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 872
-            }
-        ],
-        "gid": "P0976",
-        "locations": [],
-        "media": [],
-        "name": "Toledo, OH, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Toledo"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [],
-        "bkp": [
-            1014
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1170
-            }
-        ],
-        "gid": "P0323",
-        "locations": [],
-        "media": [],
-        "name": "Tom Green, TX, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Tom Green"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
         "bkf": [
             10
         ],
         "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 23:16:45",
         "cita": [],
         "code": "",
         "coords": [
@@ -40007,7 +28231,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1059
+                "pdx": 727
             }
         ],
         "gid": "P1592",
@@ -40028,9 +28252,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1871
+            1017
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:11:51",
         "cita": [],
         "code": "",
         "coords": [
@@ -40041,7 +28266,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 665
+                "pdx": 457
             }
         ],
         "gid": "P1307",
@@ -40062,9 +28287,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            196
+            132
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:35",
         "cita": [],
         "code": "",
         "coords": [
@@ -40075,7 +28301,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 757
+                "pdx": 515
             }
         ],
         "gid": "P1086",
@@ -40096,9 +28322,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1573
+            714
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:05:37",
         "cita": [],
         "code": "",
         "coords": [
@@ -40109,7 +28336,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 929
+                "pdx": 634
             }
         ],
         "gid": "P1450",
@@ -40130,9 +28357,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1787
+            973
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:09:48",
         "cita": [],
         "code": "",
         "coords": [
@@ -40143,7 +28371,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 930
+                "pdx": 635
             }
         ],
         "gid": "P1035",
@@ -40165,9 +28393,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            951,
-            1200
+            828
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -40178,7 +28406,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 155
+                "pdx": 107
             }
         ],
         "gid": "P0035",
@@ -40198,44 +28426,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [
-            1543
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1152
-            }
-        ],
-        "gid": "P1305",
-        "locations": [],
-        "media": [],
-        "name": "Tullahoma, TN, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Tullahoma"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [],
         "bkp": [
-            925
+            631
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -40246,7 +28441,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 155
+                "pdx": 107
             }
         ],
         "gid": "P0411",
@@ -40265,11 +28460,12 @@ P = [
         "urls": []
     },
     {
-        "bkf": [
-            335
+        "bkf": [],
+        "bki": [
+            529
         ],
-        "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:35",
         "cita": [],
         "code": "",
         "coords": [
@@ -40280,7 +28476,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 818
+                "pdx": 556
             }
         ],
         "gid": "P1319",
@@ -40300,78 +28496,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [],
-        "bkp": [
-            1166
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 11
-            }
-        ],
-        "gid": "P0431",
-        "locations": [],
-        "media": [],
-        "name": "Tuscaloosa, AL, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Tuscaloosa"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [
-            1849
+            302
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "33.20984070",
-            "-87.56917350"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1165
-            }
-        ],
-        "gid": "P1405",
-        "locations": [],
-        "media": [],
-        "name": "Tuscaloosa, Tuscaloosa, AL, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Tuscaloosa"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            508
-        ],
-        "bkp": [],
+        "change_time": "2009-02-11 23:05:37",
         "cita": [],
         "code": "",
         "coords": [
@@ -40382,7 +28511,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 689
+                "pdx": 469
             }
         ],
         "gid": "P1218",
@@ -40404,8 +28533,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            1169
+            803
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -40416,7 +28546,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 531
+                "pdx": 362
             }
         ],
         "gid": "P0409",
@@ -40437,11 +28567,12 @@ P = [
     {
         "bkf": [],
         "bki": [
-            640
+            387
         ],
         "bkp": [],
+        "change_time": "2012-01-31 17:29:52",
         "cita": [
-            2849
+            1621
         ],
         "code": "",
         "coords": [
@@ -40452,7 +28583,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1168
+                "pdx": 802
             }
         ],
         "gid": "P1678",
@@ -40460,8 +28591,8 @@ P = [
         "media": [
             {
                 "cita": [
-                    2850,
-                    2851
+                    1622,
+                    1623
                 ],
                 "m_idx": 1,
                 "note": "<div>\n<p>\n<b>Nickname</b>: Fred\n</p>\n</div>",
@@ -40490,62 +28621,53 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            41,
-            42,
-            89,
-            91,
-            100,
-            131,
-            167,
-            198,
-            276,
-            285,
-            291,
-            357,
-            450,
-            464,
-            480,
-            483,
+            26,
+            64,
+            66,
+            72,
+            92,
+            117,
+            138,
+            187,
+            193,
+            197,
+            244,
+            311,
+            324,
+            325,
+            332,
+            337,
+            345,
+            347,
+            351,
+            353,
+            382,
+            384,
+            405,
+            455,
             495,
-            500,
-            506,
-            511,
-            513,
-            519,
-            521,
-            564,
-            568,
-            585,
-            596,
-            661,
-            668,
+            496,
+            503,
+            543,
+            583,
+            586,
+            620,
+            654,
+            674,
+            691,
             731,
-            732,
-            741,
-            768,
-            799,
-            833,
+            737,
+            755,
+            783,
+            784,
+            815,
+            818,
+            836,
+            853,
             857,
-            863,
-            909,
-            955,
-            978,
-            1003,
-            1066,
-            1075,
-            1101,
-            1137,
-            1139,
-            1155,
-            1182,
-            1185,
-            1208,
-            1225,
-            1234,
-            1243,
-            1252,
-            1253
+            865
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -40556,7 +28678,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1178
+                "pdx": 812
             }
         ],
         "gid": "P0010",
@@ -40577,9 +28699,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            178
+            117
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:18:50",
         "cita": [],
         "code": "",
         "coords": [
@@ -40590,7 +28713,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1075
+                "pdx": 737
             }
         ],
         "gid": "P0862",
@@ -40611,9 +28734,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            64
+            42
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:11:01",
         "cita": [],
         "code": "",
         "coords": [
@@ -40624,7 +28748,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 749
+                "pdx": 510
             }
         ],
         "gid": "P1246",
@@ -40646,8 +28770,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            592
+            401
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -40658,7 +28783,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 865
+                "pdx": 588
             }
         ],
         "gid": "P0196",
@@ -40677,11 +28802,12 @@ P = [
         "urls": []
     },
     {
-        "bkf": [],
-        "bki": [
-            1964
+        "bkf": [
+            119
         ],
+        "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:35",
         "cita": [],
         "code": "",
         "coords": [
@@ -40692,7 +28818,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1152
+                "pdx": 792
             }
         ],
         "gid": "P1201",
@@ -40713,9 +28839,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            291
+            178
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:35",
         "cita": [],
         "code": "",
         "coords": [
@@ -40726,7 +28853,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1039
+                "pdx": 712
             }
         ],
         "gid": "P1217",
@@ -40748,8 +28875,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            1146
+            788
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -40760,7 +28888,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 419
+                "pdx": 284
             }
         ],
         "gid": "P0128",
@@ -40781,9 +28909,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            225
+            155
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:35",
         "cita": [],
         "code": "",
         "coords": [
@@ -40794,7 +28923,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 872
+                "pdx": 594
             }
         ],
         "gid": "P1430",
@@ -40816,76 +28945,71 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            9,
-            11,
-            46,
-            47,
-            66,
-            155,
-            223,
-            271,
-            287,
-            289,
-            290,
-            384,
-            418,
-            419,
-            432,
-            498,
+            8,
+            10,
+            30,
+            31,
+            48,
+            107,
+            153,
+            184,
+            195,
+            196,
+            261,
+            283,
+            284,
+            291,
+            335,
+            360,
+            361,
+            362,
+            364,
+            365,
+            366,
+            408,
+            409,
+            410,
+            416,
+            463,
+            468,
+            507,
+            508,
+            515,
             529,
             530,
-            531,
-            533,
-            534,
-            536,
+            555,
+            556,
+            557,
+            564,
+            565,
+            566,
+            577,
+            579,
+            580,
+            587,
+            588,
+            594,
+            596,
             601,
             602,
-            603,
-            609,
-            678,
-            682,
-            687,
-            727,
-            745,
-            746,
-            757,
-            779,
-            780,
+            614,
+            657,
+            712,
+            716,
+            791,
+            792,
+            804,
+            813,
+            814,
             817,
-            818,
-            819,
-            834,
-            835,
-            836,
-            851,
-            853,
-            854,
-            864,
-            865,
-            872,
-            874,
-            883,
-            884,
-            901,
-            958,
-            982,
-            1039,
-            1045,
-            1151,
-            1152,
-            1170,
-            1179,
-            1180,
-            1184,
-            1202,
-            1203,
-            1249,
-            1250,
-            1274,
-            1275,
-            1276,
-            1277
+            830,
+            831,
+            862,
+            863,
+            879,
+            880
         ],
+        "change_time": "2009-02-11 18:29:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -40912,8 +29036,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            672
+            461
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -40924,7 +29049,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1178
+                "pdx": 812
             }
         ],
         "gid": "P0163",
@@ -40946,12 +29071,12 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            181,
-            870,
-            960,
-            1013,
-            1193
+            126,
+            592,
+            658,
+            823
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -40962,7 +29087,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1178
+                "pdx": 812
             }
         ],
         "gid": "P0067",
@@ -40981,45 +29106,12 @@ P = [
         "urls": []
     },
     {
-        "bkf": [
-            17
-        ],
-        "bki": [],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 865
-            }
-        ],
-        "gid": "P1429",
-        "locations": [],
-        "media": [],
-        "name": "Utica-Rome, NY, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Utica-Rome"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
         "bkf": [],
         "bki": [],
         "bkp": [
-            1183
+            816
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -41030,7 +29122,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1170
+                "pdx": 804
             }
         ],
         "gid": "P0423",
@@ -41051,9 +29143,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1899
+            1023
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:18:50",
         "cita": [],
         "code": "",
         "coords": [
@@ -41064,7 +29157,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1182
+                "pdx": 815
             }
         ],
         "gid": "P1082",
@@ -41086,18 +29179,15 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            51,
-            111,
-            279,
-            484,
-            685,
-            726,
-            984,
-            991,
-            1104,
-            1199,
-            1261
+            35,
+            189,
+            466,
+            491,
+            684,
+            757,
+            827
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -41108,7 +29198,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1178
+                "pdx": 812
             }
         ],
         "gid": "P0080",
@@ -41130,8 +29220,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            298
+            203
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -41142,7 +29233,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1170
+                "pdx": 804
             }
         ],
         "gid": "P0085",
@@ -41163,9 +29254,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            150
+            93
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:14:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -41176,7 +29268,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 681
+                "pdx": 465
             }
         ],
         "gid": "P1680",
@@ -41197,43 +29289,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1391
+            882
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "38.10408640",
-            "-122.25663670"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1076
-            }
-        ],
-        "gid": "P1200",
-        "locations": [],
-        "media": [],
-        "name": "Vallejo, Solano, CA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Vallejo"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1604
-        ],
-        "bkp": [],
+        "change_time": "2009-02-11 23:05:37",
         "cita": [],
         "code": "",
         "coords": [
@@ -41244,7 +29303,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 187
+                "pdx": 129
             }
         ],
         "gid": "P1684",
@@ -41265,9 +29324,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1046
+            584
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:35",
         "cita": [],
         "code": "",
         "coords": [
@@ -41278,7 +29338,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 872
+                "pdx": 594
             }
         ],
         "gid": "P1565",
@@ -41300,8 +29360,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            366
+            613
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -41312,41 +29373,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 536
-            }
-        ],
-        "gid": "P0118",
-        "locations": [],
-        "media": [],
-        "name": "Vanderburgh, IN, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Vanderburgh"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [],
-        "bkp": [
-            900
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 155
+                "pdx": 107
             }
         ],
         "gid": "P0308",
@@ -41365,45 +29392,12 @@ P = [
         "urls": []
     },
     {
-        "bkf": [],
-        "bki": [],
-        "bkp": [
-            280
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 534
-            }
-        ],
-        "gid": "P0150",
-        "locations": [],
-        "media": [],
-        "name": "Vermilion, IL, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Vermilion"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
         "bkf": [
-            214
+            142
         ],
         "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:35",
         "cita": [],
         "code": "",
         "coords": [
@@ -41414,7 +29408,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1180
+                "pdx": 814
             }
         ],
         "gid": "P1574",
@@ -41435,43 +29429,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            641
+            54
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "34.15453060",
-            "-99.26508040"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1253
-            }
-        ],
-        "gid": "P0945",
-        "locations": [],
-        "media": [],
-        "name": "Vernon, Wilbarger, TX, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Vernon"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            90
-        ],
-        "bkp": [],
+        "change_time": "2009-02-11 23:13:44",
         "cita": [],
         "code": "",
         "coords": [
@@ -41482,7 +29443,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 538
+                "pdx": 367
             }
         ],
         "gid": "P1012",
@@ -41503,9 +29464,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1717
+            940
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:35",
         "cita": [],
         "code": "",
         "coords": [
@@ -41516,7 +29478,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 818
+                "pdx": 556
             }
         ],
         "gid": "P1380",
@@ -41537,9 +29499,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1698
+            932
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:18:50",
         "cita": [],
         "code": "",
         "coords": [
@@ -41550,7 +29513,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 661
+                "pdx": 455
             }
         ],
         "gid": "P1071",
@@ -41570,44 +29533,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [],
-        "bkp": [
-            1142
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 536
-            }
-        ],
-        "gid": "P0263",
-        "locations": [],
-        "media": [],
-        "name": "Vigo, IN, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Vigo"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [
-            1153
+            644
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:35",
         "cita": [],
         "code": "",
         "coords": [
@@ -41618,7 +29548,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1184
+                "pdx": 817
             }
         ],
         "gid": "P1628",
@@ -41639,9 +29569,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            848
+            1068
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:11:01",
         "cita": [],
         "code": "",
         "coords": [
@@ -41652,7 +29583,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1161
+                "pdx": 798
             }
         ],
         "gid": "P1471",
@@ -41674,8 +29605,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            300
+            205
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -41686,7 +29618,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 384
+                "pdx": 261
             }
         ],
         "gid": "P0106",
@@ -41708,9 +29640,10 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            96,
-            152
+            70,
+            105
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -41721,7 +29654,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1178
+                "pdx": 812
             }
         ],
         "gid": "P0109",
@@ -41743,24 +29676,20 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            1,
-            92,
-            132,
-            186,
-            350,
-            582,
-            674,
-            808,
-            814,
-            878,
-            948,
-            966,
-            1048,
-            1064,
-            1085,
-            1239,
-            1278
+            0,
+            67,
+            128,
+            394,
+            549,
+            553,
+            598,
+            649,
+            663,
+            730,
+            743,
+            881
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -41771,7 +29700,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1178
+                "pdx": 812
             }
         ],
         "gid": "P0022",
@@ -41793,8 +29722,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            1205
+            833
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -41805,7 +29735,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 536
+                "pdx": 366
             }
         ],
         "gid": "P0207",
@@ -41825,10 +29755,11 @@ P = [
     },
     {
         "bkf": [
-            205
+            134
         ],
         "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 23:16:29",
         "cita": [],
         "code": "",
         "coords": [
@@ -41839,7 +29770,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1204
+                "pdx": 832
             }
         ],
         "gid": "P1376",
@@ -41860,9 +29791,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1649
+            908
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:18:50",
         "cita": [],
         "code": "",
         "coords": [
@@ -41873,7 +29805,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 741
+                "pdx": 503
             }
         ],
         "gid": "P1555",
@@ -41894,9 +29826,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            175
+            116
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:35",
         "cita": [],
         "code": "",
         "coords": [
@@ -41907,7 +29840,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 835
+                "pdx": 565
             }
         ],
         "gid": "P1123",
@@ -41929,8 +29862,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            525
+            356
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -41941,7 +29875,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1170
+                "pdx": 804
             }
         ],
         "gid": "P0364",
@@ -41960,45 +29894,12 @@ P = [
         "urls": []
     },
     {
-        "bkf": [
-            290
-        ],
-        "bki": [],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1039
-            }
-        ],
-        "gid": "P1033",
-        "locations": [],
-        "media": [],
-        "name": "Walterboro, SC, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Walterboro"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
         "bkf": [],
         "bki": [],
         "bkp": [
-            894
+            609
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -42009,7 +29910,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 530
+                "pdx": 361
             }
         ],
         "gid": "P0125",
@@ -42031,8 +29932,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            1231
+            851
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -42043,7 +29945,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 419
+                "pdx": 284
             }
         ],
         "gid": "P0155",
@@ -42062,45 +29964,12 @@ P = [
         "urls": []
     },
     {
-        "bkf": [
-            429
-        ],
-        "bki": [],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "32.62097750",
-            "-83.59990480"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 517
-            }
-        ],
-        "gid": "P1627",
-        "locations": [],
-        "media": [],
-        "name": "Warner Robins, Houston, GA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Warner Robins"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
         "bkf": [],
         "bki": [
-            597
+            364
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:31:15",
         "cita": [],
         "code": "",
         "coords": [
@@ -42111,7 +29980,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 757
+                "pdx": 515
             }
         ],
         "gid": "P0948",
@@ -42133,8 +30002,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            126
+            88
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -42145,7 +30015,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 603
+                "pdx": 410
             }
         ],
         "gid": "P0015",
@@ -42167,8 +30037,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            438
+            294
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -42179,7 +30050,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 865
+                "pdx": 588
             }
         ],
         "gid": "P0227",
@@ -42199,112 +30070,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [
-            1333
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 901
-            }
-        ],
-        "gid": "P0963",
-        "locations": [],
-        "media": [],
-        "name": "Warren, PA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Warren"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1842
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 780
-            }
-        ],
-        "gid": "P1528",
-        "locations": [],
-        "media": [],
-        "name": "Warrensburg, MO, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Warrensburg"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            392
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "41.23810010",
-            "-85.85304690"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 600
-            }
-        ],
-        "gid": "P1055",
-        "locations": [],
-        "media": [],
-        "name": "Warsaw, Kosciusko, IN, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Warsaw"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [],
         "bkp": [
-            379
+            258
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -42315,7 +30085,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 47
+                "pdx": 31
             }
         ],
         "gid": "P0217",
@@ -42336,9 +30106,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            899
+            496
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:16:29",
         "cita": [],
         "code": "",
         "coords": [
@@ -42349,7 +30120,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 283
+                "pdx": 192
             }
         ],
         "gid": "P1279",
@@ -42369,44 +30140,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [
-            1209
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "38.89511180",
-            "-77.03636580"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 309
-            }
-        ],
-        "gid": "P1499",
-        "locations": [],
-        "media": [],
-        "name": "Washington, District of Columbia, DC, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Washington"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [],
         "bkp": [
-            116
+            80
         ],
+        "change_time": "2016-06-18 00:05:03",
         "cita": [],
         "code": "",
         "coords": [
@@ -42417,7 +30155,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 609
+                "pdx": 416
             }
         ],
         "gid": "P0433",
@@ -42432,15 +30170,16 @@ P = [
             }
         ],
         "note": "",
-        "type": "County",
+        "type": "Parish",
         "urls": []
     },
     {
         "bkf": [],
         "bki": [
-            1405
+            775
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:35",
         "cita": [],
         "code": "",
         "coords": [
@@ -42451,7 +30190,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 834
+                "pdx": 564
             }
         ],
         "gid": "P1359",
@@ -42472,9 +30211,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            718
+            107
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:35",
         "cita": [],
         "code": "",
         "coords": [
@@ -42485,75 +30225,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 872
-            }
-        ],
-        "gid": "P1579",
-        "locations": [],
-        "media": [],
-        "name": "Washington, OH, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Washington"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [],
-        "bkp": [
-            133
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1170
-            }
-        ],
-        "gid": "P0185",
-        "locations": [],
-        "media": [],
-        "name": "Washington, TX, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Washington"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            165
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 530
+                "pdx": 361
             }
         ],
         "gid": "P1561",
@@ -42573,10 +30245,11 @@ P = [
     },
     {
         "bkf": [
-            77
+            56
         ],
         "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:35",
         "cita": [],
         "code": "",
         "coords": [
@@ -42587,7 +30260,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 865
+                "pdx": 588
             }
         ],
         "gid": "P0919",
@@ -42608,9 +30281,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1281
+            712
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:35",
         "cita": [],
         "code": "",
         "coords": [
@@ -42621,7 +30295,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1045
+                "pdx": 716
             }
         ],
         "gid": "P1253",
@@ -42642,9 +30316,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1097
+            612
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:13:44",
         "cita": [],
         "code": "",
         "coords": [
@@ -42655,7 +30330,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 478
+                "pdx": 322
             }
         ],
         "gid": "P1620",
@@ -42676,9 +30351,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            91
+            55
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:35",
         "cita": [],
         "code": "",
         "coords": [
@@ -42689,7 +30365,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1250
+                "pdx": 863
             }
         ],
         "gid": "P1673",
@@ -42710,9 +30386,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1697
+            931
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:14:34",
         "cita": [],
         "code": "",
         "coords": [
@@ -42723,7 +30400,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1211
+                "pdx": 838
             }
         ],
         "gid": "P1396",
@@ -42745,8 +30422,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            567
+            678
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -42757,41 +30435,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 419
-            }
-        ],
-        "gid": "P0231",
-        "locations": [],
-        "media": [],
-        "name": "Wayne, GA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Wayne"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [],
-        "bkp": [
-            985
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 536
+                "pdx": 366
             }
         ],
         "gid": "P0284",
@@ -42813,8 +30457,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            628
+            430
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -42825,7 +30470,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1170
+                "pdx": 804
             }
         ],
         "gid": "P0157",
@@ -42847,8 +30492,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            396
+            267
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -42859,7 +30505,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 530
+                "pdx": 361
             }
         ],
         "gid": "P0051",
@@ -42879,180 +30525,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [],
-        "bkp": [
-            772
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 609
-            }
-        ],
-        "gid": "P0346",
-        "locations": [],
-        "media": [],
-        "name": "Webster, LA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Webster"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [
-            1770
+            906
         ],
         "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1276
-            }
-        ],
-        "gid": "P1177",
-        "locations": [],
-        "media": [],
-        "name": "Weirton, WV, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Weirton"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [],
-        "bkp": [
-            452
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 223
-            }
-        ],
-        "gid": "P0088",
-        "locations": [],
-        "media": [],
-        "name": "Weld, CO, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Weld"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1759
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1203
-            }
-        ],
-        "gid": "P1457",
-        "locations": [],
-        "media": [],
-        "name": "Wenatchee, WA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Wenatchee"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1998
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "34.55065730",
-            "-90.64177410"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 924
-            }
-        ],
-        "gid": "P1215",
-        "locations": [],
-        "media": [],
-        "name": "West Helena, Phillips, AR, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "West Helena"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1646
-        ],
-        "bkp": [],
+        "change_time": "2009-02-11 23:13:44",
         "cita": [],
         "code": "",
         "coords": [
@@ -43063,7 +30540,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 907
+                "pdx": 618
             }
         ],
         "gid": "P1550",
@@ -43084,9 +30561,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1871
+            1017
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:35",
         "cita": [],
         "code": "",
         "coords": [
@@ -43097,7 +30575,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 780
+                "pdx": 530
             }
         ],
         "gid": "P0872",
@@ -43119,8 +30597,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            344
+            234
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -43131,7 +30610,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1170
+                "pdx": 804
             }
         ],
         "gid": "P0285",
@@ -43151,45 +30630,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [
-            1276
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1274
-            }
-        ],
-        "gid": "P1268",
-        "locations": [],
-        "media": [],
-        "name": "Wheeling, WV-OH, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Wheeling"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [],
         "bkp": [
-            816,
-            1047
+            718
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -43200,7 +30645,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 47
+                "pdx": 31
             }
         ],
         "gid": "P0220",
@@ -43222,8 +30667,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            1108
+            760
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -43234,7 +30680,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 534
+                "pdx": 365
             }
         ],
         "gid": "P0228",
@@ -43255,9 +30701,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            614
+            373
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:35",
         "cita": [],
         "code": "",
         "coords": [
@@ -43268,7 +30715,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1250
+                "pdx": 863
             }
         ],
         "gid": "P1390",
@@ -43290,8 +30737,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            252
+            173
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -43302,7 +30750,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 603
+                "pdx": 410
             }
         ],
         "gid": "P0325",
@@ -43324,8 +30772,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            711
+            478
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -43336,7 +30785,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1178
+                "pdx": 812
             }
         ],
         "gid": "P0152",
@@ -43358,28 +30807,21 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            73,
-            86,
-            338,
-            391,
-            453,
-            555,
-            604,
-            701,
-            707,
-            725,
-            750,
-            754,
-            771,
-            789,
-            890,
-            970,
-            1061,
-            1112,
-            1230,
-            1247,
-            1267
+            54,
+            230,
+            377,
+            411,
+            490,
+            511,
+            524,
+            537,
+            667,
+            763,
+            850,
+            860,
+            872
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -43390,7 +30832,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1178
+                "pdx": 812
             }
         ],
         "gid": "P0009",
@@ -43411,9 +30853,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1593
+            874
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:18:50",
         "cita": [],
         "code": "",
         "coords": [
@@ -43424,7 +30867,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1252
+                "pdx": 865
             }
         ],
         "gid": "P1337",
@@ -43446,8 +30889,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            1251
+            864
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -43458,7 +30902,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1170
+                "pdx": 804
             }
         ],
         "gid": "P0235",
@@ -43478,10 +30922,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [],
-        "bkp": [
-            1194
+        "bki": [
+            694
         ],
+        "bkp": [],
+        "change_time": "2009-02-11 18:29:35",
         "cita": [],
         "code": "",
         "coords": [
@@ -43492,109 +30937,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1170
-            }
-        ],
-        "gid": "P0337",
-        "locations": [],
-        "media": [],
-        "name": "Wilbarger, TX, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Wilbarger"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            394
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 901
-            }
-        ],
-        "gid": "P1468",
-        "locations": [],
-        "media": [],
-        "name": "Williamsport, PA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Williamsport"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            263
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "41.71065430",
-            "-72.20813380"
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1262
-            }
-        ],
-        "gid": "P1139",
-        "locations": [],
-        "media": [],
-        "name": "Willimantic, Windham, CT, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Willimantic"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            1233
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 835
+                "pdx": 565
             }
         ],
         "gid": "P1700",
@@ -43613,45 +30956,12 @@ P = [
         "urls": []
     },
     {
-        "bkf": [],
-        "bki": [
-            1971
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 779
-            }
-        ],
-        "gid": "P1375",
-        "locations": [],
-        "media": [],
-        "name": "Willmar, MN, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Willmar"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
         "bkf": [
-            129
+            88
         ],
         "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:35",
         "cita": [],
         "code": "",
         "coords": [
@@ -43662,7 +30972,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 834
+                "pdx": 564
             }
         ],
         "gid": "P1156",
@@ -43683,9 +30993,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1634
+            901
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:12:27",
         "cita": [],
         "code": "",
         "coords": [
@@ -43696,7 +31007,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 838
+                "pdx": 568
             }
         ],
         "gid": "P0899",
@@ -43717,9 +31028,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            972
+            855
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:35",
         "cita": [],
         "code": "",
         "coords": [
@@ -43730,7 +31042,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 872
+                "pdx": 594
             }
         ],
         "gid": "P1611",
@@ -43749,79 +31061,12 @@ P = [
         "urls": []
     },
     {
-        "bkf": [],
-        "bki": [
-            1490
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1184
-            }
-        ],
-        "gid": "P1701",
-        "locations": [],
-        "media": [],
-        "name": "Winchester, VA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Winchester"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [],
-        "bkp": [
-            1255
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 271
-            }
-        ],
-        "gid": "P0269",
-        "locations": [],
-        "media": [],
-        "name": "Windham, CT, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Windham"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
         "bkf": [
-            96
+            66
         ],
         "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 23:16:45",
         "cita": [],
         "code": "",
         "coords": [
@@ -43832,7 +31077,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 263
+                "pdx": 177
             }
         ],
         "gid": "P1644",
@@ -43852,44 +31097,11 @@ P = [
     },
     {
         "bkf": [],
-        "bki": [],
-        "bkp": [
-            994
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 534
-            }
-        ],
-        "gid": "P0187",
-        "locations": [],
-        "media": [],
-        "name": "Winnebago, IL, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Winnebago"
-            }
-        ],
-        "note": "",
-        "type": "County",
-        "urls": []
-    },
-    {
-        "bkf": [],
         "bki": [
-            1023
+            569
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:35",
         "cita": [],
         "code": "",
         "coords": [
@@ -43900,7 +31112,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 779
+                "pdx": 529
             }
         ],
         "gid": "P1315",
@@ -43919,45 +31131,12 @@ P = [
         "urls": []
     },
     {
-        "bkf": [
-            528
-        ],
-        "bki": [],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 834
-            }
-        ],
-        "gid": "P1202",
-        "locations": [],
-        "media": [],
-        "name": "Winston-Salem, NC, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Winston-Salem"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
         "bkf": [],
         "bki": [
-            1609
+            885
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:35",
         "cita": [],
         "code": "",
         "coords": [
@@ -43968,7 +31147,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1250
+                "pdx": 863
             }
         ],
         "gid": "P1374",
@@ -43990,8 +31169,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            1073
+            736
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -44002,7 +31182,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 529
+                "pdx": 360
             }
         ],
         "gid": "P0108",
@@ -44023,9 +31203,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            431
+            243
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:35",
         "cita": [],
         "code": "",
         "coords": [
@@ -44036,7 +31217,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 874
+                "pdx": 596
             }
         ],
         "gid": "P1089",
@@ -44057,9 +31238,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            13
+            15
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:35",
         "cita": [],
         "code": "",
         "coords": [
@@ -44070,7 +31252,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 872
+                "pdx": 594
             }
         ],
         "gid": "P1617",
@@ -44092,8 +31274,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            1272
+            877
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -44104,7 +31287,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 687
+                "pdx": 468
             }
         ],
         "gid": "P0229",
@@ -44125,9 +31308,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            710
+            403
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:17:47",
         "cita": [],
         "code": "",
         "coords": [
@@ -44138,7 +31322,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1271
+                "pdx": 876
             }
         ],
         "gid": "P1409",
@@ -44159,9 +31343,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1030
+            576
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:35",
         "cita": [],
         "code": "",
         "coords": [
@@ -44172,7 +31357,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 779
+                "pdx": 529
             }
         ],
         "gid": "P1385",
@@ -44194,8 +31379,13 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            1244
+            63,
+            147,
+            252,
+            477,
+            642
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -44206,82 +31396,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1178
-            }
-        ],
-        "gid": "P0038",
-        "locations": [],
-        "media": [],
-        "name": "WV-OH, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "WV-OH"
-            }
-        ],
-        "note": "",
-        "type": "State",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [],
-        "bkp": [
-            114
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1178
-            }
-        ],
-        "gid": "P0354",
-        "locations": [],
-        "media": [],
-        "name": "WV-VA, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "WV-VA"
-            }
-        ],
-        "note": "",
-        "type": "State",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [],
-        "bkp": [
-            87,
-            191,
-            210,
-            370,
-            710,
-            805,
-            939,
-            1237
-        ],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 1178
+                "pdx": 812
             }
         ],
         "gid": "P0001",
@@ -44303,16 +31418,11 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            177,
-            200,
-            365,
-            436,
-            549,
-            627,
-            989,
-            993,
-            1065
+            140,
+            250,
+            682
         ],
+        "change_time": "2013-11-09 09:47:31",
         "cita": [],
         "code": "",
         "coords": [
@@ -44323,7 +31433,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1178
+                "pdx": 812
             }
         ],
         "gid": "P0058",
@@ -44344,9 +31454,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            504
+            298
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:35",
         "cita": [],
         "code": "",
         "coords": [
@@ -44357,7 +31468,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1203
+                "pdx": 831
             }
         ],
         "gid": "P1581",
@@ -44377,10 +31488,11 @@ P = [
     },
     {
         "bkf": [
-            135
+            93
         ],
         "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:35",
         "cita": [],
         "code": "",
         "coords": [
@@ -44391,7 +31503,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1045
+                "pdx": 716
             }
         ],
         "gid": "P1400",
@@ -44412,9 +31524,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1141
+            367
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:35",
         "cita": [],
         "code": "",
         "coords": [
@@ -44425,41 +31538,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 958
-            }
-        ],
-        "gid": "P1637",
-        "locations": [],
-        "media": [],
-        "name": "Yauco, PR, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Yauco"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
-        "bkf": [],
-        "bki": [
-            600
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 818
+                "pdx": 556
             }
         ],
         "gid": "P1695",
@@ -44480,9 +31559,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1974
+            267
         ],
         "bkp": [],
+        "change_time": "2009-02-11 18:29:35",
         "cita": [],
         "code": "",
         "coords": [
@@ -44493,7 +31573,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 901
+                "pdx": 614
             }
         ],
         "gid": "P1108",
@@ -44512,45 +31592,12 @@ P = [
         "urls": []
     },
     {
-        "bkf": [],
-        "bki": [
-            411
-        ],
-        "bkp": [],
-        "cita": [],
-        "code": "",
-        "coords": [
-            "",
-            ""
-        ],
-        "enclosed_by": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "pdx": 872
-            }
-        ],
-        "gid": "P1534",
-        "locations": [],
-        "media": [],
-        "name": "Youngstown, OH, USA",
-        "names": [
-            {
-                "date": "",
-                "date_sdn": 0,
-                "name": "Youngstown"
-            }
-        ],
-        "note": "",
-        "type": "City",
-        "urls": []
-    },
-    {
         "bkf": [
-            697
+            451
         ],
         "bki": [],
         "bkp": [],
+        "change_time": "2009-02-11 23:11:01",
         "cita": [],
         "code": "",
         "coords": [
@@ -44561,7 +31608,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1126
+                "pdx": 773
             }
         ],
         "gid": "P0939",
@@ -44583,8 +31630,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            728
+            492
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -44595,7 +31643,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 155
+                "pdx": 107
             }
         ],
         "gid": "P0390",
@@ -44617,8 +31665,9 @@ P = [
         "bkf": [],
         "bki": [],
         "bkp": [
-            1287
+            888
         ],
+        "change_time": "2013-11-09 09:47:32",
         "cita": [],
         "code": "",
         "coords": [
@@ -44629,7 +31678,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 66
+                "pdx": 48
             }
         ],
         "gid": "P0282",
@@ -44650,9 +31699,10 @@ P = [
     {
         "bkf": [],
         "bki": [
-            1214
+            683
         ],
         "bkp": [],
+        "change_time": "2009-02-11 23:09:48",
         "cita": [],
         "code": "",
         "coords": [
@@ -44663,7 +31713,7 @@ P = [
             {
                 "date": "",
                 "date_sdn": 0,
-                "pdx": 1286
+                "pdx": 887
             }
         ],
         "gid": "P0912",

@@ -35,13 +35,15 @@
 //   - spou: A list of spouses index (in table 'I')
 //   - chil: A list of child in the form:
 //       [index (in table 'I'), relation to father, relation to mother, notes, list of citations]
+//   - change_time: last record modification date
 F = [
     {
         "attr": [],
+        "change_time": "2014-06-19 08:26:01",
         "chil": [
             {
                 "cita": [],
-                "index": 8,
+                "index": 5,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -58,16 +60,17 @@ F = [
         "note": "",
         "spou": [
             0,
-            4
+            2
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2014-06-19 08:21:14",
         "chil": [
             {
                 "cita": [],
-                "index": 5,
+                "index": 3,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -84,35 +87,14 @@ F = [
         "note": "",
         "spou": [
             0,
-            2089
+            1121
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 2,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 7,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
+        "change_time": "2014-06-11 23:39:02",
+        "chil": [],
         "cita": [],
         "events": [],
         "gid": "F0744",
@@ -123,13 +105,14 @@ F = [
         "name": "Family of , \u0645\u062d\u0645\u062f and , \u062e\u062f\u064a\u062c\u0629",
         "note": "",
         "spou": [
-            9,
-            3
+            6,
+            1
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2014-06-11 23:34:39",
         "chil": [],
         "cita": [],
         "events": [],
@@ -141,17 +124,18 @@ F = [
         "name": "Family of , \u0645\u062d\u0645\u062f and , \u0639\u0627\u0626\u0634\u0629",
         "note": "",
         "spou": [
-            9,
-            6
+            6,
+            4
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 11,
+                "index": 8,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -168,7 +152,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 461,
+                "place": 310,
                 "text": "",
                 "type": "Marriage"
             }
@@ -181,17 +165,18 @@ F = [
         "name": "Family of Adams, William and Aguilar, Eleanor",
         "note": "",
         "spou": [
-            12,
-            17
+            9,
+            14
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 14,
+                "index": 11,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -221,17 +206,18 @@ F = [
         "name": "Family of Adkins, John and Adams, Jane",
         "note": "",
         "spou": [
-            13,
-            11
+            10,
+            8
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 13,
+                "index": 10,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -261,17 +247,18 @@ F = [
         "name": "Family of Adkins, Robert Sr. and Nielsen, Martha",
         "note": "",
         "spou": [
-            16,
-            1237
+            13,
+            696
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 17,
+                "index": 14,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -287,25 +274,26 @@ F = [
         "name": "Family of Aguilar, John",
         "note": "",
         "spou": [
-            18
+            15
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
             {
                 "cita": [],
-                "date": "vers 1729",
+                "date": "about 1729",
                 "date_sdn": 2352565,
                 "descr": "Marriage of Allen, Benjamin and Griffith, Experience",
                 "gid": "E3332",
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 773,
+                "place": 522,
                 "text": "",
                 "type": "Marriage"
             }
@@ -318,26 +306,27 @@ F = [
         "name": "Family of Allen, Benjamin and Griffith, Experience",
         "note": "",
         "spou": [
-            21,
-            759
+            18,
+            428
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
             {
                 "cita": [],
-                "date": "vers 1705",
+                "date": "about 1705",
                 "date_sdn": 2343799,
                 "descr": "Marriage of Allen, Gershom and Kennedy, Ann",
                 "gid": "E3335",
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 773,
+                "place": 522,
                 "text": "",
                 "type": "Marriage"
             }
@@ -350,26 +339,27 @@ F = [
         "name": "Family of Allen, Gershom and Kennedy, Ann",
         "note": "",
         "spou": [
-            23,
-            958
+            20,
+            537
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
             {
                 "cita": [],
-                "date": "vers 1695",
+                "date": "about 1695",
                 "date_sdn": 2340147,
                 "descr": "Marriage of Allen, John and Dennis, Mary (Hannah?)",
                 "gid": "E3326",
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 773,
+                "place": 522,
                 "text": "",
                 "type": "Marriage"
             }
@@ -382,26 +372,27 @@ F = [
         "name": "Family of Allen, John and Dennis, Mary (Hannah?)",
         "note": "",
         "spou": [
-            26,
-            452
+            23,
+            257
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
             {
                 "cita": [],
-                "date": "vers 1713",
+                "date": "about 1713",
                 "date_sdn": 2346721,
                 "descr": "Marriage of Allen, Joseph and Barker, Mary",
                 "gid": "E3329",
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 718,
+                "place": 484,
                 "text": "",
                 "type": "Marriage"
             }
@@ -414,17 +405,18 @@ F = [
         "name": "Family of Allen, Joseph and Barker, Mary",
         "note": "",
         "spou": [
-            28,
-            109
+            25,
+            66
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 36,
+                "index": 38,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -435,40 +427,28 @@ F = [
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
+            },
             {
                 "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Alonso, Joseph and Hansen, Monica",
-                "gid": "E2908",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 723,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0254",
-        "marr_place": "Somerset, PA, USA",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Alonso, Joseph and Hansen, Monica",
-        "note": "",
-        "spou": [
-            34,
-            784
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
+                "index": 32,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 33,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 41,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
             {
                 "cita": [],
                 "index": 40,
@@ -478,153 +458,29 @@ F = [
             },
             {
                 "cita": [],
-                "index": 58,
+                "index": 36,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             }
         ],
         "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Alvarado, Cadwallader and Mendez, Martha",
-                "gid": "E2819",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 51,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0173",
-        "marr_place": "Austin, MN, USA",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Alvarado, Cadwallader and Mendez, Martha",
-        "note": "",
-        "spou": [
-            38,
-            1127
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 57,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 46,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 51,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 43,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 44,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 62,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 60,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 53,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 48,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 39,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 52,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Alvarado, Col. Charles and Parent, Eleanor",
-                "gid": "E2748",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 583,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
+        "events": [],
         "gid": "F0108",
-        "marr_place": "Orlando, Orange, FL, USA",
+        "marr_place": "",
         "marr_sdn": 0,
-        "marr_year": "?",
+        "marr_year": "",
         "media": [],
-        "name": "Family of Alvarado, Col. Charles and Parent, Eleanor",
+        "name": "Family of Alvarado, Col. Charles",
         "note": "",
         "spou": [
-            40,
-            1317
+            31
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -650,110 +506,18 @@ F = [
         "name": "Family of Alvarado, Franklin and Hodges, Comfort",
         "note": "",
         "spou": [
-            44,
-            840
+            33,
+            453
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
-            {
-                "cita": [],
-                "index": 56,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 42,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
             {
                 "cita": [],
                 "index": 37,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 55,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Alvarado, Jack D. and Warner, Shirley Kay",
-                "gid": "E3369",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0069",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Alvarado, Jack D. and Warner, Shirley Kay",
-        "note": "",
-        "spou": [
-            45,
-            1786
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1995-03-11",
-                "date_sdn": 2449788,
-                "descr": "Marriage of Alvarado, Jeffery and Cruz, Patti Jo",
-                "gid": "E3026",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 788,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0360",
-        "marr_place": "Utica-Rome, NY, USA",
-        "marr_sdn": 2449788,
-        "marr_year": "1995",
-        "media": [],
-        "name": "Family of Alvarado, Jeffery and Cruz, Patti Jo",
-        "note": "",
-        "spou": [
-            49,
-            423
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 54,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -769,12 +533,13 @@ F = [
         "name": "Family of Alvarado, Jeffrey",
         "note": "",
         "spou": [
-            50
+            34
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -800,13 +565,14 @@ F = [
         "name": "Family of Alvarado, John and James, Pamela",
         "note": "",
         "spou": [
-            51,
-            883
+            35,
+            481
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -832,13 +598,14 @@ F = [
         "name": "Family of Alvarado, Marshall and Bouchard, Jane",
         "note": "",
         "spou": [
-            53,
-            218
+            36,
+            152
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -864,67 +631,14 @@ F = [
         "name": "Family of Alvarado, Thomas C. and \u041c\u0435\u0434\u0432\u0435\u0434\u0435\u0432, Mary",
         "note": "",
         "spou": [
-            60,
-            2028
+            40,
+            1087
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 41,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 47,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 59,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Alvarado, Wayne and Boucher, Sharon",
-                "gid": "E2757",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0116",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Alvarado, Wayne and Boucher, Sharon",
-        "note": "",
-        "spou": [
-            61,
-            275
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -950,75 +664,15 @@ F = [
         "name": "Family of Alvarado, William and Moody, Martha",
         "note": "",
         "spou": [
-            62,
-            1139
+            41,
+            633
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of \u00c1lvarez and Porter, Mahala J.",
-                "gid": "E3355",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0662",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of \u00c1lvarez and Porter, Mahala J.",
-        "note": "",
-        "spou": [
-            63,
-            1387
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 65,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 69,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 70,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 66,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
         "cita": [],
         "events": [
             {
@@ -1043,17 +697,18 @@ F = [
         "name": "Family of Andersen, Samuel and Moreno, Delilah",
         "note": "",
         "spou": [
-            68,
-            1155
+            44,
+            646
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 71,
+                "index": 45,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -1070,7 +725,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 625,
+                "place": 421,
                 "text": "",
                 "type": "Marriage"
             }
@@ -1083,62 +738,15 @@ F = [
         "name": "Family of Anderson, Rev. John and Christiansen, Martha",
         "note": "",
         "spou": [
-            72,
-            371
+            46,
+            230
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 72,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1677",
-                "date_sdn": 2333573,
-                "descr": "Marriage of Anderson, Samuel and \u0424\u0438\u043b\u0438\u043f\u043f\u043e\u0432, Elizabeth",
-                "gid": "E2871",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0220",
-        "marr_place": "",
-        "marr_sdn": 2333573,
-        "marr_year": "1677",
-        "media": [],
-        "name": "Family of Anderson, Samuel and \u0424\u0438\u043b\u0438\u043f\u043f\u043e\u0432, Elizabeth",
-        "note": "",
-        "spou": [
-            73,
-            2075
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 73,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
         "cita": [],
         "events": [
             {
@@ -1163,136 +771,18 @@ F = [
         "name": "Family of Anderson, Thomas and Carpenter, Sarah",
         "note": "",
         "spou": [
-            74,
-            351
+            47,
+            213
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 76,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1931-07-05",
-                "date_sdn": 2426528,
-                "descr": "Marriage of Andrews, Harold and Garner, Cecile Elizabeth",
-                "gid": "E2827",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0181",
-        "marr_place": "",
-        "marr_sdn": 2426528,
-        "marr_year": "1931",
-        "media": [],
-        "name": "Family of Andrews, Harold and Garner, Cecile Elizabeth",
-        "note": "",
-        "spou": [
-            75,
-            632
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 78,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 77,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1946-03-02",
-                "date_sdn": 2431882,
-                "descr": "Marriage of Armstrong, Teddy C. and Cross, Gertrude",
-                "gid": "E3143",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 307,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0469",
-        "marr_place": "Grand Forks, ND, USA",
-        "marr_sdn": 2431882,
-        "marr_year": "1946",
-        "media": [],
-        "name": "Family of Armstrong, Teddy C. and Cross, Gertrude",
-        "note": "",
-        "spou": [
-            79,
-            394
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Arnold, ??????? and \u042f\u043a\u043e\u0432\u043b\u0435\u0432, Esther Faye",
-                "gid": "E2832",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0186",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Arnold, ??????? and \u042f\u043a\u043e\u0432\u043b\u0435\u0432, Esther Faye",
-        "note": "",
-        "spou": [
-            80,
-            2085
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 82,
+                "index": 49,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -1322,17 +812,18 @@ F = [
         "name": "Family of Austin, Hans and Burke, Maria",
         "note": "",
         "spou": [
-            81,
-            333
+            48,
+            201
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1616,
+                "index": 887,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -1362,22 +853,15 @@ F = [
         "name": "Family of Austin, Johannas and Jenkins, Margaret",
         "note": "",
         "spou": [
-            82,
-            902
+            49,
+            498
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 84,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
         "cita": [],
         "events": [
             {
@@ -1402,99 +886,46 @@ F = [
         "name": "Family of Baldwin, Peter and \u041d\u0438\u043a\u0438\u0444\u043e\u0440\u043e\u0432",
         "note": "",
         "spou": [
-            85,
-            2032
+            51,
+            1089
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 104,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1727",
-                "date_sdn": 2351834,
-                "descr": "Marriage of Ball, Ezekiel and Reese",
-                "gid": "E3020",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 528,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0355",
-        "marr_place": "Mooresville, NC, USA",
-        "marr_sdn": 2351834,
-        "marr_year": "1727",
-        "media": [],
-        "name": "Family of Ball, Ezekiel and Reese",
-        "note": "",
-        "spou": [
-            87,
-            1462
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 86,
+                "index": 52,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 103,
+                "index": 62,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 101,
+                "index": 56,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 93,
+                "index": 57,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 94,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 88,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 95,
+                "index": 53,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -1511,7 +942,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 591,
+                "place": 395,
                 "text": "",
                 "type": "Marriage"
             }
@@ -1524,17 +955,18 @@ F = [
         "name": "Family of Ball, Jasper and \u0417\u044b\u043a\u043e\u0432, Angeline",
         "note": "",
         "spou": [
-            91,
-            1989
+            55,
+            1067
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 100,
+                "index": 61,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -1551,7 +983,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 302,
+                "place": 195,
                 "text": "",
                 "type": "Marriage"
             }
@@ -1564,50 +996,15 @@ F = [
         "name": "Family of Ball, Matthias Sr. and Maxwell, Ann",
         "note": "",
         "spou": [
-            99,
-            1109
+            60,
+            617
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 105,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 92,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 97,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 102,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 89,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
         "cita": [],
         "events": [
             {
@@ -1632,31 +1029,32 @@ F = [
         "name": "Family of Ball, Matthias, Jr. and Gonzalez, Eliza Jane",
         "note": "",
         "spou": [
-            100,
-            730
+            61,
+            411
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 91,
+                "index": 55,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 90,
+                "index": 54,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 96,
+                "index": 58,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -1673,7 +1071,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 497,
+                "place": 334,
                 "text": "",
                 "type": "Marriage"
             }
@@ -1686,17 +1084,18 @@ F = [
         "name": "Family of Ball, Matthias, Jr. and Moreno, Abigail Chapman",
         "note": "",
         "spou": [
-            100,
-            1148
+            61,
+            639
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 98,
+                "index": 59,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -1726,17 +1125,18 @@ F = [
         "name": "Family of Ball, Matthias, Jr. and Snyder, Ann Louisa",
         "note": "",
         "spou": [
-            100,
-            1601
+            61,
+            880
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 99,
+                "index": 60,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -1766,13 +1166,14 @@ F = [
         "name": "Family of Ball, Thomas and \u0428\u0430\u0434\u0440\u0438\u043d, Mary",
         "note": "",
         "spou": [
-            104,
-            2083
+            63,
+            1119
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -1798,67 +1199,14 @@ F = [
         "name": "Family of Ball, William M. and Moreno, Phebe J.",
         "note": "",
         "spou": [
-            106,
-            1176
+            64,
+            664
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 116,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 115,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 114,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1972-07-08",
-                "date_sdn": 2441507,
-                "descr": "Marriage of Bates, William Robert and \u0414\u0430\u043d\u0438\u043b\u043e\u0432, Elaine Suzanne",
-                "gid": "E3252",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 586,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0057",
-        "marr_place": "Ottawa, La Salle, IL, USA",
-        "marr_sdn": 2441507,
-        "marr_year": "1972",
-        "media": [],
-        "name": "Family of Bates, William Robert and \u0414\u0430\u043d\u0438\u043b\u043e\u0432, Elaine Suzanne",
-        "note": "",
-        "spou": [
-            117,
-            1957
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -1884,13 +1232,14 @@ F = [
         "name": "Family of Beaulieu, Johann Adam and Michaud, Anna Eva",
         "note": "",
         "spou": [
-            126,
-            1131
+            79,
+            626
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -1916,59 +1265,60 @@ F = [
         "name": "Family of Beaulieu, Johann Franciskus and Barnett, Anna Gertrude",
         "note": "",
         "spou": [
-            128,
-            111
+            81,
+            68
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 130,
+                "index": 83,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 127,
+                "index": 80,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 135,
+                "index": 88,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 128,
+                "index": 81,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 124,
+                "index": 77,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 833,
+                "index": 450,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 122,
+                "index": 75,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -1998,87 +1348,88 @@ F = [
         "name": "Family of Beaulieu, Johann Michael and L\u00f3pez, Anna Elisabeth",
         "note": "",
         "spou": [
-            129,
-            1061
+            82,
+            589
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 129,
+                "index": 82,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 119,
+                "index": 72,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 134,
+                "index": 87,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 118,
+                "index": 71,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 123,
+                "index": 76,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 126,
+                "index": 79,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 133,
+                "index": 86,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 125,
+                "index": 78,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 120,
+                "index": 73,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 121,
+                "index": 74,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 132,
+                "index": 85,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -2108,13 +1459,14 @@ F = [
         "name": "Family of Beaulieu, Johann Simon and Holland, Anna Margaretha",
         "note": "",
         "spou": [
-            131,
-            842
+            84,
+            455
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -2140,80 +1492,81 @@ F = [
         "name": "Family of Beaulieu, Johann Simon and \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432, Anna Margaretha",
         "note": "",
         "spou": [
-            132,
-            1920
+            85,
+            1033
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 547,
+                "index": 327,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 558,
+                "index": 338,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 546,
+                "index": 326,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 556,
+                "index": 336,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 536,
+                "index": 316,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 553,
+                "index": 333,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 542,
+                "index": 322,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 544,
+                "index": 324,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 539,
+                "index": 319,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 551,
+                "index": 331,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -2243,13 +1596,14 @@ F = [
         "name": "Family of Beaulieu, Johann Simon and \u0413\u0440\u0438\u0433\u043e\u0440\u044c\u0435\u0432, Anna Maria",
         "note": "",
         "spou": [
-            130,
-            1951
+            83,
+            1048
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -2275,13 +1629,14 @@ F = [
         "name": "Family of Beaulieu, Johann Theobald and Sutton, Anna Maria",
         "note": "",
         "spou": [
-            133,
-            1618
+            86,
+            889
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -2307,13 +1662,14 @@ F = [
         "name": "Family of Beaulieu, Johann Valentin and Frazier, Maria Margaretha",
         "note": "",
         "spou": [
-            134,
-            606
+            87,
+            371
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -2339,77 +1695,14 @@ F = [
         "name": "Family of Beaulieu, Johann Valentin and Morgan, Elisabeth Margaretha",
         "note": "",
         "spou": [
-            135,
-            1180
+            88,
+            668
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Beck, Jack and Garner, Bernadette",
-                "gid": "E3306",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0618",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Beck, Jack and Garner, Bernadette",
-        "note": "",
-        "spou": [
-            136,
-            628
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Becker and Hawkins, Jean",
-                "gid": "E3347",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0655",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Becker and Hawkins, Jean",
-        "note": "",
-        "spou": [
-            137,
-            815
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -2435,191 +1728,36 @@ F = [
         "name": "Family of B\u00e9dard, Swanson and \u0414\u043c\u0438\u0442\u0440\u0438\u0435\u0432, Mary",
         "note": "",
         "spou": [
-            138,
-            1970
+            89,
+            1057
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 141,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
         "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1938-12-03",
-                "date_sdn": 2429236,
-                "descr": "Marriage of B\u00e9langer, Adrian and Neal, Helen M.",
-                "gid": "E3152",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 475,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0477",
-        "marr_place": "Mankato, MN, USA",
-        "marr_sdn": 2429236,
-        "marr_year": "1938",
-        "media": [],
-        "name": "Family of B\u00e9langer, Adrian and Neal, Helen M.",
-        "note": "",
-        "spou": [
-            139,
-            1222
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 140,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1965-04-10",
-                "date_sdn": 2438861,
-                "descr": "Marriage of B\u00e9langer, Donald and Pierce, Joanne",
-                "gid": "E3153",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 621,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0478",
-        "marr_place": "Point Pleasant, WV, USA",
-        "marr_sdn": 2438861,
-        "marr_year": "1965",
-        "media": [],
-        "name": "Family of B\u00e9langer, Donald and Pierce, Joanne",
-        "note": "",
-        "spou": [
-            141,
-            1369
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 143,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 144,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1938-02-11",
-                "date_sdn": 2428941,
-                "descr": "Marriage of B\u00e9langer, James and Garner, Bernetha Ellen",
-                "gid": "E2830",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
+        "events": [],
         "gid": "F0184",
         "marr_place": "",
-        "marr_sdn": 2428941,
-        "marr_year": "1938",
+        "marr_sdn": 0,
+        "marr_year": "",
         "media": [],
-        "name": "Family of B\u00e9langer, James and Garner, Bernetha Ellen",
+        "name": "Family of B\u00e9langer, James",
         "note": "",
         "spou": [
-            142,
-            629
+            90
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 147,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 145,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1971-06-12",
-                "date_sdn": 2441115,
-                "descr": "Marriage of Bell, Gary Richard and Cruz, Judy Denise",
-                "gid": "E2740",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0100",
-        "marr_place": "",
-        "marr_sdn": 2441115,
-        "marr_year": "1971",
-        "media": [],
-        "name": "Family of Bell, Gary Richard and Cruz, Judy Denise",
-        "note": "",
-        "spou": [
-            146,
-            416
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 161,
+                "index": 104,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -2635,12 +1773,13 @@ F = [
         "name": "Family of Benson, David",
         "note": "",
         "spou": [
-            152
+            95
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -2666,17 +1805,18 @@ F = [
         "name": "Family of Benson, Hugh and Ouellet, Rebecca",
         "note": "",
         "spou": [
-            156,
-            1263
+            99,
+            704
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 150,
+                "index": 93,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -2692,175 +1832,73 @@ F = [
         "name": "Family of Benson, John",
         "note": "",
         "spou": [
-            161
+            104
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 166,
+                "index": 116,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 151,
+                "index": 114,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 174,
+                "index": 103,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 156,
+                "index": 101,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 170,
+                "index": 102,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 172,
+                "index": 96,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 167,
+                "index": 107,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 155,
+                "index": 92,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 169,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1728",
-                "date_sdn": 2352199,
-                "descr": "Marriage of Benson, Joseph Louis(Jr.) and Richard, Jeanne",
-                "gid": "E2862",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0212",
-        "marr_place": "",
-        "marr_sdn": 2352199,
-        "marr_year": "1728",
-        "media": [],
-        "name": "Family of Benson, Joseph Louis(Jr.) and Richard, Jeanne",
-        "note": "",
-        "spou": [
-            162,
-            1500
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 162,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 175,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 173,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 160,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 158,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 159,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 153,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 165,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 149,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 148,
+                "index": 91,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -2877,7 +1915,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 756,
+                "place": 512,
                 "text": "",
                 "type": "Marriage"
             }
@@ -2890,13 +1928,89 @@ F = [
         "name": "Family of Benson, Joseph Louis(Sr.) and Simard, Sarah",
         "note": "",
         "spou": [
-            163,
-            1596
+            105,
+            877
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [
+            {
+                "cita": [],
+                "index": 473,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 469,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 480,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 476,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 485,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 471,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 486,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 482,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            }
+        ],
+        "cita": [],
+        "events": [],
+        "gid": "F0110",
+        "marr_place": "",
+        "marr_sdn": 0,
+        "marr_year": "",
+        "media": [],
+        "name": "Family of Benson, Martha Ellen M.",
+        "note": "",
+        "spou": [
+            108
+        ],
+        "type": "Married"
+    },
+    {
+        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -2922,13 +2036,14 @@ F = [
         "name": "Family of Benson, Samuel Sr. and Wong, Jane",
         "note": "",
         "spou": [
-            172,
-            1907
+            113,
+            1025
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -2954,17 +2069,18 @@ F = [
         "name": "Family of Benson, Walter and Ellis, Margaret Steel",
         "note": "",
         "spou": [
-            174,
-            527
+            115,
+            313
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 152,
+                "index": 95,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -2980,80 +2096,17 @@ F = [
         "name": "Family of Benson, William",
         "note": "",
         "spou": [
-            175
+            116
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Bergeron, John W. and \u0411\u044b\u043a\u043e\u0432, Bettie",
-                "gid": "E3189",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0511",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Bergeron, John W. and \u0411\u044b\u043a\u043e\u0432, Bettie",
-        "note": "",
-        "spou": [
-            177,
-            1935
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Berry and Reed, Carmel",
-                "gid": "E3265",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0581",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Berry and Reed, Carmel",
-        "note": "",
-        "spou": [
-            179,
-            1414
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 181,
+                "index": 119,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -3063,14 +2116,14 @@ F = [
         "events": [
             {
                 "cita": [],
-                "date": "vers 1640",
+                "date": "about 1640",
                 "date_sdn": 2320058,
                 "descr": "Marriage of Bishop, Quirinus and Simmons, Maria",
                 "gid": "E3065",
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 6,
+                "place": 5,
                 "text": "",
                 "type": "Marriage"
             }
@@ -3083,89 +2136,18 @@ F = [
         "name": "Family of Bishop, Quirinus and Simmons, Maria",
         "note": "",
         "spou": [
-            182,
-            1598
+            120,
+            879
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Blais, ?? and L\u00e9vesque, Mary",
-                "gid": "E3124",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 649,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0451",
-        "marr_place": "Reno-Sparks, NV, USA",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Blais, ?? and L\u00e9vesque, Mary",
-        "note": "",
-        "spou": [
-            185,
-            1049
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 187,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Blake, Conrad and Ruiz, Catherine",
-                "gid": "E2743",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 454,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0103",
-        "marr_place": "Lock Haven, PA, USA",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Blake, Conrad and Ruiz, Catherine",
-        "note": "",
-        "spou": [
-            186,
-            1548
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 188,
+                "index": 124,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -3195,17 +2177,18 @@ F = [
         "name": "Family of Blake, George and Cunningham, Sally Sarah",
         "note": "",
         "spou": [
-            187,
-            430
+            123,
+            242
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 197,
+                "index": 133,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -3235,45 +2218,46 @@ F = [
         "name": "Family of Blanco, Bendicht and Fisher, Bendichtli",
         "note": "",
         "spou": [
-            191,
-            566
+            127,
+            343
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 213,
+                "index": 147,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 932,
+                "index": 527,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 216,
+                "index": 150,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 193,
+                "index": 129,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 189,
+                "index": 125,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -3303,17 +2287,18 @@ F = [
         "name": "Family of Blanco, Gerhard and \u0411\u0435\u043b\u043e\u0443\u0441\u043e\u0432, Catharine",
         "note": "",
         "spou": [
-            195,
-            1927
+            131,
+            1038
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 200,
+                "index": 135,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -3343,62 +2328,15 @@ F = [
         "name": "Family of Blanco, Hans and Buchanan, Elsbeth",
         "note": "",
         "spou": [
-            197,
-            331
+            133,
+            200
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 195,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Blanco, Hans(Johannes) and Sullivan, Anna",
-                "gid": "E2944",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 815,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0287",
-        "marr_place": "Watertown-Fort Drum, NY, USA",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Blanco, Hans(Johannes) and Sullivan, Anna",
-        "note": "",
-        "spou": [
-            199,
-            1617
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 199,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
         "cita": [],
         "events": [
             {
@@ -3410,7 +2348,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 815,
+                "place": 552,
                 "text": "",
                 "type": "Marriage"
             }
@@ -3423,13 +2361,14 @@ F = [
         "name": "Family of Blanco, Heinrich and Schmidt, Barbli",
         "note": "",
         "spou": [
-            200,
-            1577
+            135,
+            865
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -3455,106 +2394,78 @@ F = [
         "name": "Family of Blanco, Henry and Fournier, Peggy",
         "note": "",
         "spou": [
-            201,
-            595
+            136,
+            363
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 215,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
+        "change_time": "2016-06-30 05:42:38",
+        "chil": [],
         "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1799-07-04",
-                "date_sdn": 2378316,
-                "descr": "Marriage of Blanco, John Sr. and Lucas, Christina",
-                "gid": "E2942",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 118,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0285",
-        "marr_place": "Cambridge, MD, USA",
-        "marr_sdn": 2378316,
-        "marr_year": "1799",
+        "events": [],
+        "gid": "F0502",
+        "marr_place": "",
+        "marr_sdn": 0,
+        "marr_year": "",
         "media": [],
-        "name": "Family of Blanco, John Sr. and Lucas, Christina",
+        "name": "Family of Blanco, Milton",
         "note": "",
         "spou": [
-            202,
-            1066
+            144
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 202,
+                "index": 136,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 201,
+                "index": 148,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 214,
+                "index": 142,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 208,
+                "index": 130,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 194,
+                "index": 141,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 207,
+                "index": 126,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 190,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 192,
+                "index": 128,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -3571,7 +2482,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 387,
+                "place": 256,
                 "text": "",
                 "type": "Marriage"
             }
@@ -3584,13 +2495,14 @@ F = [
         "name": "Family of Blanco, Peter and Glover, Elizabeth",
         "note": "",
         "spou": [
-            213,
-            724
+            147,
+            407
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -3616,66 +2528,67 @@ F = [
         "name": "Family of Blanco, Peter and Leonard, Catherine",
         "note": "",
         "spou": [
-            214,
-            1027
+            148,
+            573
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 205,
+                "index": 139,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 206,
+                "index": 140,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 203,
+                "index": 137,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 209,
+                "index": 143,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 212,
+                "index": 146,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 217,
+                "index": 151,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 210,
+                "index": 144,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 204,
+                "index": 138,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -3692,7 +2605,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 39,
+                "place": 27,
                 "text": "",
                 "type": "Marriage"
             }
@@ -3705,90 +2618,15 @@ F = [
         "name": "Family of Blanco, Rufus and Rodriquez, Mariam",
         "note": "",
         "spou": [
-            215,
-            1528
+            149,
+            837
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 257,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 225,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 269,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 223,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 288,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1810",
-                "date_sdn": 2382149,
-                "descr": "Marriage of Boucher, David and Morrison, Nancy",
-                "gid": "E2896",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 461,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0243",
-        "marr_place": "Loveland, Larimer, CO, USA",
-        "marr_sdn": 2382149,
-        "marr_year": "1810",
-        "media": [],
-        "name": "Family of Boucher, David and Morrison, Nancy",
-        "note": "",
-        "spou": [
-            231,
-            1192
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 294,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
         "cita": [],
         "events": [
             {
@@ -3813,227 +2651,53 @@ F = [
         "name": "Family of Boucher, James and Dub\u00e9, Rose",
         "note": "",
         "spou": [
-            244,
-            518
+            164,
+            310
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 235,
+                "index": 178,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 265,
+                "index": 174,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 220,
+                "index": 167,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 253,
+                "index": 153,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 249,
+                "index": 157,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 224,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 219,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 268,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1960",
-                "date_sdn": 2436935,
-                "descr": "Marriage of Boucher, John and \u041d\u0438\u043a\u0438\u0442\u0438\u043d, Monica",
-                "gid": "E2901",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 281,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0248",
-        "marr_place": "Fort Wayne, Allen, IN, USA",
-        "marr_sdn": 2436935,
-        "marr_year": "1960",
-        "media": [],
-        "name": "Family of Boucher, John and \u041d\u0438\u043a\u0438\u0442\u0438\u043d, Monica",
-        "note": "",
-        "spou": [
-            246,
-            2031
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 297,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [],
-        "gid": "F0732",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "",
-        "media": [],
-        "name": "Family of Boucher, John",
-        "note": "",
-        "spou": [
-            245
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 264,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 284,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 251,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 285,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Boucher, Michael and Boucher, Anne",
-                "gid": "E3256",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0573",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Boucher, Michael and Boucher, Anne",
-        "note": "",
-        "spou": [
-            259,
-            220
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 291,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 280,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 256,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 222,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 227,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 229,
+                "index": 159,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -4050,7 +2714,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 109,
+                "place": 72,
                 "text": "",
                 "type": "Marriage"
             }
@@ -4063,123 +2727,15 @@ F = [
         "name": "Family of Boucher, Michael and Boucher, Honora",
         "note": "",
         "spou": [
-            257,
-            241
+            168,
+            163
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 246,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Boucher, Michael and Gil, Nora",
-                "gid": "E2900",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 206,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0247",
-        "marr_place": "Del Rio, Val Verde, TX, USA",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Boucher, Michael and Gil, Nora",
-        "note": "",
-        "spou": [
-            261,
-            716
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 221,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Boucher, Michael Shannon and Iglesias, Kate",
-                "gid": "E3248",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 589,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0566",
-        "marr_place": "Owosso, MI, USA",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Boucher, Michael Shannon and Iglesias, Kate",
-        "note": "",
-        "spou": [
-            263,
-            864
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 286,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 282,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 252,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 250,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
         "cita": [],
         "events": [
             {
@@ -4191,7 +2747,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 488,
+                "place": 326,
                 "text": "",
                 "type": "Marriage"
             }
@@ -4204,141 +2760,33 @@ F = [
         "name": "Family of Boucher, Patrick and Dennis, Susan",
         "note": "",
         "spou": [
-            270,
-            453
+            170,
+            258
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 263,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 245,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
         "cita": [],
         "events": [],
-        "gid": "F0701",
+        "gid": "F0116",
         "marr_place": "",
         "marr_sdn": 0,
         "marr_year": "",
         "media": [],
-        "name": "Family of Boucher, Patrick",
+        "name": "Family of Boucher, Sharon",
         "note": "",
         "spou": [
-            269
+            172
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 230,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 277,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Boucher, Roger Joseph and Page, Sylvia Louise",
-                "gid": "E2930",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0274",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Boucher, Roger Joseph and Page, Sylvia Louise",
-        "note": "",
-        "spou": [
-            272,
-            1308
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 261,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Boucher, Sean and Gardner, Mary",
-                "gid": "E2899",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 206,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0246",
-        "marr_place": "Del Rio, Val Verde, TX, USA",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Boucher, Sean and Gardner, Mary",
-        "note": "",
-        "spou": [
-            274,
-            613
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 273,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
         "cita": [],
         "events": [
             {
@@ -4350,7 +2798,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 836,
+                "place": 565,
                 "text": "",
                 "type": "Marriage"
             }
@@ -4363,102 +2811,15 @@ F = [
         "name": "Family of Boucher, Stephen Francis and Gardner, Mary Jane",
         "note": "",
         "spou": [
-            276,
-            614
+            173,
+            373
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 247,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Boucher, Steven Joseph and Nelson, Arlene",
-                "gid": "E2933",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0277",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Boucher, Steven Joseph and Nelson, Arlene",
-        "note": "",
-        "spou": [
-            277,
-            1228
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 274,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Boucher, Thomas and Thompson, Bridget",
-                "gid": "E2898",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 206,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0245",
-        "marr_place": "Del Rio, Val Verde, TX, USA",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Boucher, Thomas and Thompson, Bridget",
-        "note": "",
-        "spou": [
-            279,
-            1635
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 239,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
         "cita": [],
         "events": [
             {
@@ -4483,160 +2844,39 @@ F = [
         "name": "Family of Boucher, Thomas W. and Szyma\u0144ski, Mary",
         "note": "",
         "spou": [
-            283,
-            1628
+            175,
+            896
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 279,
+                "index": 173,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 289,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Boucher, William and Fields, Bridget M.",
-                "gid": "E2897",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 461,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0244",
-        "marr_place": "Loveland, Larimer, CO, USA",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Boucher, William and Fields, Bridget M.",
-        "note": "",
-        "spou": [
-            288,
-            565
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 290,
+                "index": 161,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 228,
+                "index": 171,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 248,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 270,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Boucher, William and Savard, Honora",
-                "gid": "E2902",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 206,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0249",
-        "marr_place": "Del Rio, Val Verde, TX, USA",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Boucher, William and Savard, Honora",
-        "note": "",
-        "spou": [
-            289,
-            1575
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 276,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 237,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 236,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 271,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 255,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 234,
+                "index": 160,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -4653,7 +2893,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 317,
+                "place": 204,
                 "text": "",
                 "type": "Marriage"
             }
@@ -4666,45 +2906,39 @@ F = [
         "name": "Family of Boucher, William and Walters, Mary",
         "note": "",
         "spou": [
-            290,
-            1682
+            177,
+            926
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 254,
+                "index": 166,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 267,
+                "index": 169,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 262,
+                "index": 175,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 283,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 244,
+                "index": 164,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -4721,7 +2955,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 659,
+                "place": 449,
                 "text": "",
                 "type": "Marriage"
             }
@@ -4734,85 +2968,14 @@ F = [
         "name": "Family of Boucher, William Bernard and Reeves, Maria",
         "note": "",
         "spou": [
-            291,
-            1476
+            178,
+            806
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 295,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 275,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Boucher, William J. and Howell, Marie",
-                "gid": "E2756",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0115",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Boucher, William J. and Howell, Marie",
-        "note": "",
-        "spou": [
-            294,
-            854
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 240,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [],
-        "gid": "F0674",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "",
-        "media": [],
-        "name": "Family of Boucher, woman",
-        "note": "",
-        "spou": [
-            297
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -4838,56 +3001,36 @@ F = [
         "name": "Family of Boyd, Capt. and Alvarado, Eliza",
         "note": "",
         "spou": [
-            299,
-            43
+            181,
+            32
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Boyd, Charles Newton and Jones, Martha Elizabeth",
-                "gid": "E3336",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0645",
+        "events": [],
+        "gid": "F0646",
         "marr_place": "",
         "marr_sdn": 0,
-        "marr_year": "?",
+        "marr_year": "",
         "media": [],
-        "name": "Family of Boyd, Charles Newton and Jones, Martha Elizabeth",
+        "name": "Family of Boyd, Carmen Alberta",
         "note": "",
         "spou": [
-            301,
-            939
+            182
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 300,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 302,
+                "index": 182,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -4904,7 +3047,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 451,
+                "place": 305,
                 "text": "",
                 "type": "Marriage"
             }
@@ -4917,165 +3060,54 @@ F = [
         "name": "Family of Boyd, Charles Newton and Lessard, Izora",
         "note": "",
         "spou": [
-            301,
-            1037
+            183,
+            580
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 310,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 306,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
         "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Brady, Michael and Boucher, Agnes",
-                "gid": "E3251",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0569",
+        "events": [],
+        "gid": "F0645",
         "marr_place": "",
         "marr_sdn": 0,
-        "marr_year": "?",
+        "marr_year": "",
         "media": [],
-        "name": "Family of Brady, Michael and Boucher, Agnes",
+        "name": "Family of Boyd, Charles Newton",
         "note": "",
         "spou": [
-            308,
-            219
+            183
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 309,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 304,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 307,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
         "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Brady, Tony and Boucher, Bridget",
-                "gid": "E3253",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0570",
+        "events": [],
+        "gid": "F0094",
         "marr_place": "",
         "marr_sdn": 0,
-        "marr_year": "?",
+        "marr_year": "",
         "media": [],
-        "name": "Family of Brady, Tony and Boucher, Bridget",
+        "name": "Family of Briggs, Joyce Inez",
         "note": "",
         "spou": [
-            311,
-            224
+            186
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 314,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 313,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1969-05-19",
-                "date_sdn": 2440361,
-                "descr": "Marriage of Brock, Stephen and Welch, Annabelle Elaine",
-                "gid": "E2916",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 15,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0261",
-        "marr_place": "Alexandria, MN, USA",
-        "marr_sdn": 2440361,
-        "marr_year": "1969",
-        "media": [],
-        "name": "Family of Brock, Stephen and Welch, Annabelle Elaine",
-        "note": "",
-        "spou": [
-            315,
-            1869
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 323,
+                "index": 193,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -5091,23 +3123,17 @@ F = [
         "name": "Family of Brooks, Guillaume de",
         "note": "",
         "spou": [
-            319
+            189
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 316,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 328,
+                "index": 198,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -5124,7 +3150,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 428,
+                "place": 289,
                 "text": "",
                 "type": "Marriage"
             }
@@ -5137,17 +3163,18 @@ F = [
         "name": "Family of Brooks, Major Marquis II and Rubio, Winifred",
         "note": "",
         "spou": [
-            322,
-            1547
+            192,
+            853
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 322,
+                "index": 192,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -5177,66 +3204,67 @@ F = [
         "name": "Family of Brooks, Marquis I and Guzman, Isabella",
         "note": "",
         "spou": [
-            323,
-            772
+            193,
+            435
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 324,
+                "index": 194,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 320,
+                "index": 190,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 326,
+                "index": 196,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 321,
+                "index": 191,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 317,
+                "index": 187,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 327,
+                "index": 197,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 325,
+                "index": 195,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 318,
+                "index": 188,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -5266,13 +3294,14 @@ F = [
         "name": "Family of Brooks, William Waller and \u0412\u0430\u0441\u0438\u043b\u044c\u0435\u0432, Lucy",
         "note": "",
         "spou": [
-            328,
-            1942
+            198,
+            1041
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -5298,131 +3327,53 @@ F = [
         "name": "Family of Brown, ????? and \u0422\u0438\u0445\u043e\u043d\u043e\u0432, Mary Ellen",
         "note": "",
         "spou": [
-            329,
-            2066
+            199,
+            1110
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Burgess, Edward and Garner, Marie",
-                "gid": "E2831",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0185",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Burgess, Edward and Garner, Marie",
-        "note": "",
-        "spou": [
-            332,
-            661
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 335,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Burns, Jonathan and Rubio, Dorcas",
-                "gid": "E2780",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0137",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Burns, Jonathan and Rubio, Dorcas",
-        "note": "",
-        "spou": [
-            334,
-            1545
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 342,
+                "index": 207,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 340,
+                "index": 205,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 338,
+                "index": 208,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 341,
+                "index": 203,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 336,
+                "index": 204,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 337,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 343,
+                "index": 209,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -5439,7 +3390,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 488,
+                "place": 326,
                 "text": "",
                 "type": "Marriage"
             }
@@ -5452,13 +3403,14 @@ F = [
         "name": "Family of Bush, James and Boucher, Catherine",
         "note": "",
         "spou": [
-            339,
-            228
+            206,
+            158
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -5484,71 +3436,18 @@ F = [
         "name": "Family of Butler, George and Farmer, Eva",
         "note": "",
         "spou": [
-            344,
-            544
+            210,
+            324
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 345,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 347,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 346,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Caldwell, Paul and Boucher, Martha",
-                "gid": "E3254",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0571",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Caldwell, Paul and Boucher, Martha",
-        "note": "",
-        "spou": [
-            348,
-            249
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 355,
+                "index": 217,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -5578,17 +3477,18 @@ F = [
         "name": "Family of Carroll, Jacob A. and \u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432, Maria Catharina",
         "note": "",
         "spou": [
-            354,
-            2033
+            216,
+            1090
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 353,
+                "index": 215,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -5598,7 +3498,7 @@ F = [
         "events": [
             {
                 "cita": [],
-                "date": "vers 1765",
+                "date": "about 1765",
                 "date_sdn": 2365714,
                 "descr": "Marriage of Carroll, Matthias Sr. and \u0412\u043e\u0440\u043e\u0431\u044c\u0435\u0432, Eva",
                 "gid": "E2817",
@@ -5618,13 +3518,14 @@ F = [
         "name": "Family of Carroll, Matthias Sr. and \u0412\u043e\u0440\u043e\u0431\u044c\u0435\u0432, Eva",
         "note": "",
         "spou": [
-            355,
-            1944
+            217,
+            1043
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -5650,49 +3551,18 @@ F = [
         "name": "Family of Chambers, William and Moreno, Leah",
         "note": "",
         "spou": [
-            359,
-            1167
+            220,
+            656
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1994-03-04",
-                "date_sdn": 2449416,
-                "descr": "Marriage of Christensen, William and Cruz, Judy Denise",
-                "gid": "E3016",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0351",
-        "marr_place": "",
-        "marr_sdn": 2449416,
-        "marr_year": "1994",
-        "media": [],
-        "name": "Family of Christensen, William and Cruz, Judy Denise",
-        "note": "",
-        "spou": [
-            360,
-            416
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 362,
+                "index": 222,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -5709,7 +3579,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 320,
+                "place": 207,
                 "text": "",
                 "type": "Marriage"
             }
@@ -5722,17 +3592,18 @@ F = [
         "name": "Family of Christiansen, Christopher and Gomez, Jane Joane",
         "note": "",
         "spou": [
-            361,
-            726
+            221,
+            409
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 363,
+                "index": 223,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -5749,7 +3620,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 348,
+                "place": 228,
                 "text": "",
                 "type": "Marriage"
             }
@@ -5762,13 +3633,14 @@ F = [
         "name": "Family of Christiansen, Christopher and Jones, Ann",
         "note": "",
         "spou": [
-            362,
-            937
+            222,
+            530
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -5794,24 +3666,25 @@ F = [
         "name": "Family of Christiansen, Edward and Abbott, Frances",
         "note": "",
         "spou": [
-            363,
-            10
+            223,
+            7
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 372,
+                "index": 231,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 369,
+                "index": 229,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -5828,7 +3701,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 832,
+                "place": 562,
                 "text": "",
                 "type": "Marriage"
             }
@@ -5841,17 +3714,18 @@ F = [
         "name": "Family of Christiansen, Edward and Thomas, Elizabeth",
         "note": "",
         "spou": [
-            364,
-            1634
+            224,
+            901
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 364,
+                "index": 224,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -5867,16 +3741,17 @@ F = [
         "name": "Family of Christiansen, Edward",
         "note": "",
         "spou": [
-            363
+            223
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 371,
+                "index": 230,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -5893,7 +3768,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 625,
+                "place": 421,
                 "text": "",
                 "type": "Marriage"
             }
@@ -5906,17 +3781,18 @@ F = [
         "name": "Family of Christiansen, John and Harmon, Martha",
         "note": "",
         "spou": [
-            367,
-            790
+            227,
+            439
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 361,
+                "index": 221,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -5932,16 +3808,17 @@ F = [
         "name": "Family of Christiansen, John",
         "note": "",
         "spou": [
-            368
+            228
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 366,
+                "index": 226,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -5958,7 +3835,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 625,
+                "place": 421,
                 "text": "",
                 "type": "Marriage"
             }
@@ -5971,64 +3848,25 @@ F = [
         "name": "Family of Christiansen, Joseph and Allen, Joanna",
         "note": "",
         "spou": [
-            369,
-            24
+            229,
+            21
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 365,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Christiansen, Joseph and Gonz\u00e1lez, Elizabeth",
-                "gid": "E2775",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0132",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Christiansen, Joseph and Gonz\u00e1lez, Elizabeth",
-        "note": "",
-        "spou": [
-            370,
-            731
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 373,
+                "index": 232,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 367,
+                "index": 227,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -6045,7 +3883,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 845,
+                "place": 573,
                 "text": "",
                 "type": "Marriage"
             }
@@ -6058,22 +3896,15 @@ F = [
         "name": "Family of Christiansen, Nathaniel and Grenier, Mary",
         "note": "",
         "spou": [
-            372,
-            758
+            231,
+            427
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 370,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
         "cita": [],
         "events": [
             {
@@ -6085,7 +3916,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 625,
+                "place": 421,
                 "text": "",
                 "type": "Marriage"
             }
@@ -6098,141 +3929,14 @@ F = [
         "name": "Family of Christiansen, Samuel and Alvarado, Mary",
         "note": "",
         "spou": [
-            373,
-            54
+            232,
+            37
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Cobb, Merrick and Boucher, Cynthia Louise",
-                "gid": "E2932",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0276",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Cobb, Merrick and Boucher, Cynthia Louise",
-        "note": "",
-        "spou": [
-            375,
-            230
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Coleman and Garner, Louella Marie",
-                "gid": "E3305",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0617",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Coleman and Garner, Louella Marie",
-        "note": "",
-        "spou": [
-            378,
-            658
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Collins, Loren and Rhodes, Mary Jane",
-                "gid": "E2937",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0280",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Collins, Loren and Rhodes, Mary Jane",
-        "note": "",
-        "spou": [
-            381,
-            1496
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1946-06-15",
-                "date_sdn": 2431987,
-                "descr": "Marriage of Colon, William and Guti\u00e9rrez, Dorothy Jean",
-                "gid": "E3340",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0649",
-        "marr_place": "",
-        "marr_sdn": 2431987,
-        "marr_year": "1946",
-        "media": [],
-        "name": "Family of Colon, William and Guti\u00e9rrez, Dorothy Jean",
-        "note": "",
-        "spou": [
-            382,
-            767
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -6245,7 +3949,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 221,
+                "place": 145,
                 "text": "",
                 "type": "Marriage"
             }
@@ -6258,160 +3962,15 @@ F = [
         "name": "Family of Cook, John and Rodriquez, Mary",
         "note": "",
         "spou": [
-            383,
-            1529
+            236,
+            838
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Cooper, ??????? and Garner, Maude",
-                "gid": "E2833",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0187",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Cooper, ??????? and Garner, Maude",
-        "note": "",
-        "spou": [
-            384,
-            665
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1991-08-24",
-                "date_sdn": 2448493,
-                "descr": "Marriage of C\u00f4t\u00e9, Raymond Patrick and Russell, Beth Ann",
-                "gid": "E2803",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 678,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0159",
-        "marr_place": "Salt Lake City, UT, USA",
-        "marr_sdn": 2448493,
-        "marr_year": "1991",
-        "media": [],
-        "name": "Family of C\u00f4t\u00e9, Raymond Patrick and Russell, Beth Ann",
-        "note": "",
-        "spou": [
-            386,
-            1549
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1974-06-08",
-                "date_sdn": 2442207,
-                "descr": "Marriage of Cox, Robert C. and Garner, Jane McClellan",
-                "gid": "E2838",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0191",
-        "marr_place": "",
-        "marr_sdn": 2442207,
-        "marr_year": "1974",
-        "media": [],
-        "name": "Family of Cox, Robert C. and Garner, Jane McClellan",
-        "note": "",
-        "spou": [
-            388,
-            648
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 392,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 398,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 396,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 393,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 397,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 395,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 394,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
         "cita": [],
         "events": [
             {
@@ -6436,576 +3995,44 @@ F = [
         "name": "Family of Cross, Thomas and Page, Anna",
         "note": "",
         "spou": [
-            399,
-            1267
+            240,
+            707
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 406,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 410,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 408,
+                "index": 243,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             }
         ],
         "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1943-02-14",
-                "date_sdn": 2430770,
-                "descr": "Marriage of Cruz, Arthur Ray and Robbins, Myrabel",
-                "gid": "E3330",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 188,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0064",
-        "marr_place": "Crawfordsville, Montgomery, IN, USA",
-        "marr_sdn": 2430770,
-        "marr_year": "1943",
-        "media": [],
-        "name": "Family of Cruz, Arthur Ray and Robbins, Myrabel",
-        "note": "",
-        "spou": [
-            401,
-            1505
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 419,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 425,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1968-08-17",
-                "date_sdn": 2440086,
-                "descr": "Marriage of Cruz, Dale Eugene and Gill, Linda",
-                "gid": "E3399",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0096",
-        "marr_place": "",
-        "marr_sdn": 2440086,
-        "marr_year": "1968",
-        "media": [],
-        "name": "Family of Cruz, Dale Eugene and Gill, Linda",
-        "note": "",
-        "spou": [
-            402,
-            721
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 421,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 418,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 417,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1967-04-07",
-                "date_sdn": 2439588,
-                "descr": "Marriage of Cruz, David Wayne and Nunez, Barbara Ann",
-                "gid": "E3400",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0097",
-        "marr_place": "",
-        "marr_sdn": 2439588,
-        "marr_year": "1967",
-        "media": [],
-        "name": "Family of Cruz, David Wayne and Nunez, Barbara Ann",
-        "note": "",
-        "spou": [
-            403,
-            1245
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 424,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 401,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 407,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 427,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Cruz, Everett and Lessard, Susanna Marie",
-                "gid": "E3352",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0066",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Cruz, Everett and Lessard, Susanna Marie",
-        "note": "",
-        "spou": [
-            404,
-            1042
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 413,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 412,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 405,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 414,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1968-08-03",
-                "date_sdn": 2440072,
-                "descr": "Marriage of Cruz, Gerald Ray and Rasmussen, Marilyn Joan",
-                "gid": "E3394",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0091",
-        "marr_place": "",
-        "marr_sdn": 2440072,
-        "marr_year": "1968",
-        "media": [],
-        "name": "Family of Cruz, Gerald Ray and Rasmussen, Marilyn Joan",
-        "note": "",
-        "spou": [
-            406,
-            1407
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 403,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 422,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1944-12-24",
-                "date_sdn": 2431449,
-                "descr": "Marriage of Cruz, Ivan Wayne and Gagnon, Bettie Lou",
-                "gid": "E3286",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 283,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0060",
-        "marr_place": "Fostoria, OH, USA",
-        "marr_sdn": 2431449,
-        "marr_year": "1944",
-        "media": [],
-        "name": "Family of Cruz, Ivan Wayne and Gagnon, Bettie Lou",
-        "note": "",
-        "spou": [
-            407,
-            611
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 411,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1982-04-24",
-                "date_sdn": 2445084,
-                "descr": "Marriage of Cruz, James Richard and Morales, Penelope Margot",
-                "gid": "E3396",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0093",
-        "marr_place": "",
-        "marr_sdn": 2445084,
-        "marr_year": "1982",
-        "media": [],
-        "name": "Family of Cruz, James Richard and Morales, Penelope Margot",
-        "note": "",
-        "spou": [
-            408,
-            1141
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 426,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 420,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 402,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1939-11-23",
-                "date_sdn": 2429591,
-                "descr": "Marriage of Cruz, Paul Eugene and Lambert, Marguerite",
-                "gid": "E3297",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 586,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0061",
-        "marr_place": "Ottawa, La Salle, IL, USA",
-        "marr_sdn": 2429591,
-        "marr_year": "1939",
-        "media": [],
-        "name": "Family of Cruz, Paul Eugene and Lambert, Marguerite",
-        "note": "",
-        "spou": [
-            424,
-            983
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 400,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 409,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1963-09-05",
-                "date_sdn": 2438278,
-                "descr": "Marriage of Cruz, Thomas Everett and Briggs, Joyce Inez",
-                "gid": "E3397",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0094",
-        "marr_place": "",
-        "marr_sdn": 2438278,
-        "marr_year": "1963",
-        "media": [],
-        "name": "Family of Cruz, Thomas Everett and Briggs, Joyce Inez",
-        "note": "",
-        "spou": [
-            426,
-            312
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 415,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 416,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 423,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1947-12-28",
-                "date_sdn": 2432548,
-                "descr": "Marriage of Cruz, William Everett and Hawkins, Ellen Marie",
-                "gid": "E3133",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 529,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0046",
-        "marr_place": "Morehead City, NC, USA",
-        "marr_sdn": 2432548,
-        "marr_year": "1947",
-        "media": [],
-        "name": "Family of Cruz, William Everett and Hawkins, Ellen Marie",
-        "note": "",
-        "spou": [
-            427,
-            810
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 431,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Cunningham, Peter Sr. and Dunn, Margaret Mary?",
-                "gid": "E2895",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
+        "events": [],
         "gid": "F0242",
         "marr_place": "",
         "marr_sdn": 0,
-        "marr_year": "?",
+        "marr_year": "",
         "media": [],
-        "name": "Family of Cunningham, Peter Sr. and Dunn, Margaret Mary?",
+        "name": "Family of Cunningham, Peter Sr.",
         "note": "",
         "spou": [
-            429,
-            524
+            241
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 430,
+                "index": 242,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -7035,13 +4062,14 @@ F = [
         "name": "Family of Cunningham, William Philip and Park, Susannah",
         "note": "",
         "spou": [
-            431,
-            1328
+            243,
+            736
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -7067,17 +4095,18 @@ F = [
         "name": "Family of Curry, Kenner S. and Jim\u00e9nez, Rebecca",
         "note": "",
         "spou": [
-            432,
-            927
+            244,
+            522
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 434,
+                "index": 246,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -7094,7 +4123,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 208,
+                "place": 137,
                 "text": "",
                 "type": "Marriage"
             }
@@ -7107,49 +4136,36 @@ F = [
         "name": "Family of Curtis, John and Gibbs, Margaret",
         "note": "",
         "spou": [
-            433,
-            707
+            245,
+            402
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Daniels and Page, Edith (Dolly)",
-                "gid": "E3140",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
+        "events": [],
         "gid": "F0466",
         "marr_place": "",
         "marr_sdn": 0,
-        "marr_year": "?",
+        "marr_year": "",
         "media": [],
-        "name": "Family of Daniels and Page, Edith (Dolly)",
+        "name": "Family of Daniels",
         "note": "",
         "spou": [
-            436,
-            1277
+            248
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 441,
+                "index": 253,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -7179,17 +4195,18 @@ F = [
         "name": "Family of Davis, Benjamin and Alexander, Mary",
         "note": "",
         "spou": [
-            439,
-            19
+            251,
+            16
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 439,
+                "index": 251,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -7219,17 +4236,18 @@ F = [
         "name": "Family of Davis, John and Knight, Hannah",
         "note": "",
         "spou": [
-            440,
-            962
+            252,
+            540
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 442,
+                "index": 254,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -7259,196 +4277,32 @@ F = [
         "name": "Family of Davis, Jonathan and Mitchell, Mary",
         "note": "",
         "spou": [
-            441,
-            1136
+            253,
+            630
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 444,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Dawson and Reed, Anastasia",
-                "gid": "E3269",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0585",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Dawson and Reed, Anastasia",
-        "note": "",
-        "spou": [
-            443,
-            1409
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Day, Charles and Serrano, Dot",
-                "gid": "E3232",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0550",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Day, Charles and Serrano, Dot",
-        "note": "",
-        "spou": [
-            445,
-            1589
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1881-08-15",
-                "date_sdn": 2408308,
-                "descr": "Marriage of Dean, John and Reed, Catherine",
-                "gid": "E3043",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
+        "events": [],
         "gid": "F0377",
         "marr_place": "",
-        "marr_sdn": 2408308,
-        "marr_year": "1881",
-        "media": [],
-        "name": "Family of Dean, John and Reed, Catherine",
-        "note": "",
-        "spou": [
-            446,
-            1416
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 449,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 448,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Delgado and Tyler, Mary A.",
-                "gid": "E2978",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0317",
-        "marr_place": "",
         "marr_sdn": 0,
-        "marr_year": "?",
+        "marr_year": "",
         "media": [],
-        "name": "Family of Delgado and Tyler, Mary A.",
+        "name": "Family of Dean, John",
         "note": "",
         "spou": [
-            447,
-            1669
+            255
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1993-06-00",
-                "date_sdn": 2449140,
-                "descr": "Marriage of Demers, ?? and \u0421\u0435\u0440\u0433\u0435\u0435\u0432, Adria Maria",
-                "gid": "E3009",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0345",
-        "marr_place": "",
-        "marr_sdn": 2449140,
-        "marr_year": "1993",
-        "media": [],
-        "name": "Family of Demers, ?? and \u0421\u0435\u0440\u0433\u0435\u0435\u0432, Adria Maria",
-        "note": "",
-        "spou": [
-            451,
-            2047
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -7474,113 +4328,14 @@ F = [
         "name": "Family of Desjardins, J. and Reeves, Catherine",
         "note": "",
         "spou": [
-            454,
-            1465
+            259,
+            799
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1791-12-19",
-                "date_sdn": 2375562,
-                "descr": "Marriage of Diaz, James and Woods, Nancy",
-                "gid": "E3294",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 707,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0607",
-        "marr_place": "Seymour, Jackson, IN, USA",
-        "marr_sdn": 2375562,
-        "marr_year": "1791",
-        "media": [],
-        "name": "Family of Diaz, James and Woods, Nancy",
-        "note": "",
-        "spou": [
-            459,
-            1912
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1963,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 465,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 462,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 460,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 455,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Diaz, William and Baldwin, Anne",
-                "gid": "E2974",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0313",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Diaz, William and Baldwin, Anne",
-        "note": "",
-        "spou": [
-            466,
-            84
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -7606,45 +4361,93 @@ F = [
         "name": "Family of Diaz, William and \u041a\u043e\u043c\u0430\u0440\u043e\u0432, Jane",
         "note": "",
         "spou": [
-            466,
-            2007
+            270,
+            1074
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1625,
+                "index": 1052,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 464,
+                "index": 269,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 456,
+                "index": 266,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 461,
+                "index": 264,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 457,
+                "index": 260,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            }
+        ],
+        "cita": [],
+        "events": [],
+        "gid": "F0313",
+        "marr_place": "",
+        "marr_sdn": 0,
+        "marr_year": "",
+        "media": [],
+        "name": "Family of Diaz, William",
+        "note": "",
+        "spou": [
+            270
+        ],
+        "type": "Married"
+    },
+    {
+        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [
+            {
+                "cita": [],
+                "index": 268,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 261,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 265,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 262,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -7674,53 +4477,14 @@ F = [
         "name": "Family of Diaz, William (Rev.) and Hoffman, Fay",
         "note": "",
         "spou": [
-            467,
-            841
+            271,
+            454
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 469,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of D\u00edez, William George and Garner, Barbara Jo",
-                "gid": "E3008",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0344",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of D\u00edez, William George and Garner, Barbara Jo",
-        "note": "",
-        "spou": [
-            468,
-            626
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -7746,38 +4510,39 @@ F = [
         "name": "Family of Dixon, Thomas and Warner, Mary",
         "note": "",
         "spou": [
-            470,
-            1756
+            272,
+            964
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 474,
+                "index": 276,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 475,
+                "index": 277,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 471,
+                "index": 273,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 473,
+                "index": 275,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -7794,7 +4559,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 7,
+                "place": 6,
                 "text": "",
                 "type": "Marriage"
             }
@@ -7807,45 +4572,39 @@ F = [
         "name": "Family of Dom\u00ednguez, George and \u041c\u0430\u043a\u0441\u0438\u043c\u043e\u0432, Nancy",
         "note": "",
         "spou": [
-            472,
-            2023
+            274,
+            1084
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 489,
+                "index": 289,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 514,
+                "index": 287,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 487,
+                "index": 286,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 485,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 499,
+                "index": 295,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -7875,36 +4634,15 @@ F = [
         "name": "Family of Douglas, Abraham and Alvarado, Nancy",
         "note": "",
         "spou": [
-            478,
-            57
+            280,
+            38
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 513,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 492,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 481,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
         "cita": [],
         "events": [
             {
@@ -7929,22 +4667,15 @@ F = [
         "name": "Family of Douglas, Abraham and Greer, Mary Wein",
         "note": "",
         "spou": [
-            478,
-            755
+            280,
+            424
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 486,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
         "cita": [],
         "events": [],
         "gid": "F0725",
@@ -7955,252 +4686,13 @@ F = [
         "name": "Family of Douglas, Alfred",
         "note": "",
         "spou": [
-            479
+            281
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 508,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Douglas, Frederick and Stanley, Barbara",
-                "gid": "E2980",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0319",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Douglas, Frederick and Stanley, Barbara",
-        "note": "",
-        "spou": [
-            495,
-            1606
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Douglas, Hans Peter and Cummings, Leonnah",
-                "gid": "E3172",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0496",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Douglas, Hans Peter and Cummings, Leonnah",
-        "note": "",
-        "spou": [
-            496,
-            428
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 504,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 493,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 497,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 480,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1739-04-30",
-                "date_sdn": 2356336,
-                "descr": "Marriage of Douglas, Hans Peter and Howard, Juliana",
-                "gid": "E2812",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 165,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0167",
-        "marr_place": "Colorado Springs, El Paso, CO, USA",
-        "marr_sdn": 2356336,
-        "marr_year": "1739",
-        "media": [],
-        "name": "Family of Douglas, Hans Peter and Howard, Juliana",
-        "note": "",
-        "spou": [
-            496,
-            850
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 506,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 477,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 500,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 511,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 501,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 476,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1787-04-09",
-                "date_sdn": 2373847,
-                "descr": "Marriage of Douglas, John Jr. and Johnson, Elizabeth",
-                "gid": "E2816",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 454,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0170",
-        "marr_place": "Lock Haven, PA, USA",
-        "marr_sdn": 2373847,
-        "marr_year": "1787",
-        "media": [],
-        "name": "Family of Douglas, John Jr. and Johnson, Elizabeth",
-        "note": "",
-        "spou": [
-            503,
-            933
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Douglas, John Jr. and Rogers, Barbara",
-                "gid": "E3164",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0489",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Douglas, John Jr. and Rogers, Barbara",
-        "note": "",
-        "spou": [
-            503,
-            1540
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -8213,7 +4705,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 745,
+                "place": 503,
                 "text": "",
                 "type": "Marriage"
             }
@@ -8226,59 +4718,53 @@ F = [
         "name": "Family of Douglas, John Sr. and Larson, Christena Wiseman",
         "note": "",
         "spou": [
-            504,
-            1013
+            298,
+            566
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 503,
+                "index": 284,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 483,
+                "index": 299,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 505,
+                "index": 293,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 494,
+                "index": 288,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 488,
+                "index": 283,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 482,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 509,
+                "index": 303,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -8288,7 +4774,7 @@ F = [
         "events": [
             {
                 "cita": [],
-                "date": "vers 1760",
+                "date": "about 1760",
                 "date_sdn": 2363887,
                 "descr": "Marriage of Douglas, John Sr. and Moran, Ann Delilah &#8220;Tilley&#8221;",
                 "gid": "E2813",
@@ -8308,87 +4794,74 @@ F = [
         "name": "Family of Douglas, John Sr. and Moran, Ann Delilah \"Tilley\"",
         "note": "",
         "spou": [
-            504,
-            1143
+            298,
+            634
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 478,
+                "index": 280,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 490,
+                "index": 290,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 696,
+                "index": 399,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 498,
+                "index": 285,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 484,
+                "index": 281,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 479,
+                "index": 291,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 491,
+                "index": 301,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 507,
+                "index": 304,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 510,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 512,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 502,
+                "index": 306,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -8405,7 +4878,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 667,
+                "place": 453,
                 "text": "",
                 "type": "Marriage"
             }
@@ -8418,13 +4891,110 @@ F = [
         "name": "Family of Douglas, Joseph and Carroll, Grace",
         "note": "",
         "spou": [
-            506,
-            353
+            300,
+            215
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [
+            {
+                "cita": [],
+                "index": 837,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 846,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 833,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 827,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 831,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 847,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 828,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 842,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 839,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 836,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 840,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            }
+        ],
+        "cita": [],
+        "events": [],
+        "gid": "F0286",
+        "marr_place": "",
+        "marr_sdn": 0,
+        "marr_year": "",
+        "media": [],
+        "name": "Family of Douglas, Mary\"Polly\"",
+        "note": "",
+        "spou": [
+            302
+        ],
+        "type": "Married"
+    },
+    {
+        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -8437,7 +5007,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 785,
+                "place": 532,
                 "text": "",
                 "type": "Marriage"
             }
@@ -8450,13 +5020,14 @@ F = [
         "name": "Family of Doyle, Robert Gove and Diaz, Mary Polly",
         "note": "",
         "spou": [
-            515,
-            463
+            307,
+            267
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -8482,106 +5053,90 @@ F = [
         "name": "Family of Dub\u00e9, Jacob and Farmer, Anna Marie",
         "note": "",
         "spou": [
-            517,
-            536
+            309,
+            316
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 522,
+                "index": 396,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 523,
+                "index": 387,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 520,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 521,
+                "index": 375,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             }
         ],
         "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Duncan and Reed, Joan",
-                "gid": "E3267",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0583",
+        "events": [],
+        "gid": "F0019",
         "marr_place": "",
         "marr_sdn": 0,
-        "marr_year": "?",
+        "marr_year": "",
         "media": [],
-        "name": "Family of Duncan and Reed, Joan",
+        "name": "Family of Edwards, Lucy",
         "note": "",
         "spou": [
-            519,
-            1430
+            311
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "apr\u00e8s 1624",
-                "date_sdn": 2314214,
-                "descr": "Marriage of Elliott, Lodowick and \u041a\u043e\u0432\u0430\u043b\u0435\u0432, Sarah",
-                "gid": "E3059",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0391",
+        "events": [],
+        "gid": "F0363",
         "marr_place": "",
-        "marr_sdn": 2314214,
-        "marr_year": "1624",
+        "marr_sdn": 0,
+        "marr_year": "",
         "media": [],
-        "name": "Family of Elliott, Lodowick and \u041a\u043e\u0432\u0430\u043b\u0435\u0432, Sarah",
+        "name": "Family of Edwards, Lucy",
         "note": "",
         "spou": [
-            526,
-            2003
+            311
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
+        "cita": [],
+        "events": [],
+        "gid": "F0391",
+        "marr_place": "",
+        "marr_sdn": 0,
+        "marr_year": "",
+        "media": [],
+        "name": "Family of Elliott, Lodowick",
+        "note": "",
+        "spou": [
+            312
+        ],
+        "type": "Married"
+    },
+    {
+        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -8607,174 +5162,92 @@ F = [
         "name": "Family of Erickson, Charles and \u0414\u043c\u0438\u0442\u0440\u0438\u0435\u0432, Lucy",
         "note": "",
         "spou": [
-            528,
-            1968
+            314,
+            1056
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 533,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
         "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Evans, ?m.MaryJane and Rhodes, Mary Jane",
-                "gid": "E2935",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0279",
+        "events": [],
+        "gid": "F0076",
         "marr_place": "",
         "marr_sdn": 0,
-        "marr_year": "?",
+        "marr_year": "",
         "media": [],
-        "name": "Family of Evans, ?m.MaryJane and Rhodes, Mary Jane",
+        "name": "Family of Estrada, Mary Claire",
         "note": "",
         "spou": [
-            530,
-            1496
+            315
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 535,
+                "index": 323,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 534,
+                "index": 334,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 531,
+                "index": 330,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 532,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Evans, James Patrick and Stevenson, Susan",
-                "gid": "E2938",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0281",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Evans, James Patrick and Stevenson, Susan",
-        "note": "",
-        "spou": [
-            533,
-            1610
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 543,
+                "index": 337,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 554,
+                "index": 339,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 550,
+                "index": 332,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 557,
+                "index": 320,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 559,
+                "index": 325,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 552,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 540,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 545,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 548,
+                "index": 328,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -8791,7 +5264,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 46,
+                "place": 34,
                 "text": "",
                 "type": "Marriage"
             }
@@ -8804,13 +5277,14 @@ F = [
         "name": "Family of Farmer, Benjamin H. and Mills, Isabella",
         "note": "",
         "spou": [
-            537,
-            1135
+            317,
+            629
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -8836,45 +5310,46 @@ F = [
         "name": "Family of Farmer, George William and Bradley, Mary",
         "note": "",
         "spou": [
-            546,
-            303
+            326,
+            184
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 537,
+                "index": 317,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 555,
+                "index": 335,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 538,
+                "index": 318,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 541,
+                "index": 321,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 549,
+                "index": 329,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -8904,13 +5379,14 @@ F = [
         "name": "Family of Farmer, Jacob and \u041c\u043e\u0440\u043e\u0437\u043e\u0432, Mary Elizabeth",
         "note": "",
         "spou": [
-            547,
-            2030
+            327,
+            1088
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -8936,13 +5412,14 @@ F = [
         "name": "Family of Farmer, Michael and Dub\u00e9, Elizabeth",
         "note": "",
         "spou": [
-            551,
-            516
+            331,
+            308
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -8968,13 +5445,14 @@ F = [
         "name": "Family of Farmer, Peter Simon and Bowen, Elizabeth",
         "note": "",
         "spou": [
-            553,
-            298
+            333,
+            180
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -9000,13 +5478,14 @@ F = [
         "name": "Family of Farmer, Simon and \u0411\u0430\u0440\u0430\u043d\u043e\u0432, Susan",
         "note": "",
         "spou": [
-            555,
-            1925
+            335,
+            1037
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -9032,17 +5511,18 @@ F = [
         "name": "Family of Farmer, Valentine and Miller, Anna Catherine",
         "note": "",
         "spou": [
-            558,
-            1134
+            338,
+            628
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1499,
+                "index": 820,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -9058,117 +5538,31 @@ F = [
         "name": "Family of Ferguson, Lord Samuel",
         "note": "",
         "spou": [
-            560
+            340
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1001,
+                "index": 556,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 562,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Fernandez, Thomas and Couture, Honora",
-                "gid": "E3374",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0073",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Fernandez, Thomas and Couture, Honora",
-        "note": "",
-        "spou": [
-            563,
-            387
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 563,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1820-02-13",
-                "date_sdn": 2385844,
-                "descr": "Marriage of Fernandez, Thomas and Holloway, Sarah",
-                "gid": "E3018",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 59,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0353",
-        "marr_place": "Batesville, Independence, AR, USA",
-        "marr_sdn": 2385844,
-        "marr_year": "1820",
-        "media": [],
-        "name": "Family of Fernandez, Thomas and Holloway, Sarah",
-        "note": "",
-        "spou": [
-            564,
-            845
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 988,
+                "index": 560,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 999,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 994,
+                "index": 557,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -9185,7 +5579,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 801,
+                "place": 545,
                 "text": "",
                 "type": "Marriage"
             }
@@ -9198,45 +5592,40 @@ F = [
         "name": "Family of Fernandez, Thomas and Ortega, Catherine",
         "note": "",
         "spou": [
-            563,
-            1252
+            342,
+            702
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [
             {
                 "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Fitzgerald, David Lee and \u041b\u043e\u043f\u0430\u0442\u0438\u043d, Donna Elaine",
-                "gid": "E2886",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 253,
-                "text": "",
-                "type": "Marriage"
+                "index": 341,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
             }
         ],
-        "gid": "F0234",
-        "marr_place": "Fairmont, MN, USA",
+        "cita": [],
+        "events": [],
+        "gid": "F0073",
+        "marr_place": "",
         "marr_sdn": 0,
-        "marr_year": "?",
+        "marr_year": "",
         "media": [],
-        "name": "Family of Fitzgerald, David Lee and \u041b\u043e\u043f\u0430\u0442\u0438\u043d, Donna Elaine",
+        "name": "Family of Fernandez, Thomas",
         "note": "",
         "spou": [
-            567,
-            2014
+            342
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -9262,13 +5651,14 @@ F = [
         "name": "Family of Floyd, Henry and Benson, Nancy",
         "note": "",
         "spou": [
-            572,
-            169
+            346,
+            111
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -9281,7 +5671,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 209,
+                "place": 138,
                 "text": "",
                 "type": "Marriage"
             }
@@ -9294,114 +5684,40 @@ F = [
         "name": "Family of Floyd, John Morgan and Carr, Zelpha Josephine",
         "note": "",
         "spou": [
-            574,
-            352
+            347,
+            214
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 576,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 579,
+                "index": 349,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             }
         ],
         "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1830-12-10",
-                "date_sdn": 2389797,
-                "descr": "Marriage of Floyd, John S. and Coleman, Mary",
-                "gid": "E2809",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 161,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
+        "events": [],
         "gid": "F0164",
-        "marr_place": "Coeur d'Alene, Kootenai, ID, USA",
-        "marr_sdn": 2389797,
-        "marr_year": "1830",
-        "media": [],
-        "name": "Family of Floyd, John S. and Coleman, Mary",
-        "note": "",
-        "spou": [
-            575,
-            380
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 571,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 570,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 573,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1977-01-08",
-                "date_sdn": 2443152,
-                "descr": "Marriage of Floyd, Robert William and \u0414\u0430\u043d\u0438\u043b\u043e\u0432, Kathryn Louise",
-                "gid": "E3263",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0058",
         "marr_place": "",
-        "marr_sdn": 2443152,
-        "marr_year": "1977",
+        "marr_sdn": 0,
+        "marr_year": "",
         "media": [],
-        "name": "Family of Floyd, Robert William and \u0414\u0430\u043d\u0438\u043b\u043e\u0432, Kathryn Louise",
+        "name": "Family of Floyd, John S.",
         "note": "",
         "spou": [
-            578,
-            1958
+            348
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -9427,45 +5743,32 @@ F = [
         "name": "Family of Ford and Moreno, Elizabeth",
         "note": "",
         "spou": [
-            580,
-            1156
+            351,
+            647
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1993-02-06",
-                "date_sdn": 2449025,
-                "descr": "Marriage of Ford, Phillip D. and Webb, Joan Lorinda",
-                "gid": "E3234",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 726,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0553",
-        "marr_place": "Southern Pines, NC, USA",
-        "marr_sdn": 2449025,
-        "marr_year": "1993",
+        "events": [],
+        "gid": "F0084",
+        "marr_place": "",
+        "marr_sdn": 0,
+        "marr_year": "",
         "media": [],
-        "name": "Family of Ford, Phillip D. and Webb, Joan Lorinda",
+        "name": "Family of Ford, Lorinda Catherine",
         "note": "",
         "spou": [
-            583,
-            1839
+            352
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -9491,13 +5794,14 @@ F = [
         "name": "Family of Ford, Samuel and Farmer, Catharine",
         "note": "",
         "spou": [
-            584,
-            539
+            353,
+            319
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -9510,7 +5814,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 794,
+                "place": 539,
                 "text": "",
                 "type": "Marriage"
             }
@@ -9523,13 +5827,14 @@ F = [
         "name": "Family of Ford, Stephen Jacob and Garner, Iola Elizabeth Betty",
         "note": "",
         "spou": [
-            585,
-            647
+            354,
+            384
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -9542,7 +5847,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 201,
+                "place": 131,
                 "text": "",
                 "type": "Marriage"
             }
@@ -9555,17 +5860,18 @@ F = [
         "name": "Family of Ford, William and Payne, Winifred",
         "note": "",
         "spou": [
-            586,
-            1349
+            355,
+            753
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1482,
+                "index": 811,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -9595,17 +5901,18 @@ F = [
         "name": "Family of Fortin, Matthias and Baker, Margaret",
         "note": "",
         "spou": [
-            588,
-            83
+            356,
+            50
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 593,
+                "index": 361,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -9622,7 +5929,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 834,
+                "place": 564,
                 "text": "",
                 "type": "Marriage"
             }
@@ -9635,17 +5942,18 @@ F = [
         "name": "Family of Foster, John and Ryan, Elizabeth",
         "note": "",
         "spou": [
-            590,
-            1556
+            358,
+            855
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 592,
+                "index": 360,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -9675,17 +5983,18 @@ F = [
         "name": "Family of Foster, John and Ryan, Elizabeth",
         "note": "",
         "spou": [
-            591,
-            1557
+            359,
+            856
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 590,
+                "index": 358,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -9702,7 +6011,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 834,
+                "place": 564,
                 "text": "",
                 "type": "Marriage"
             }
@@ -9715,17 +6024,18 @@ F = [
         "name": "Family of Foster, Thomas and Koz\u0142owski, Margret",
         "note": "",
         "spou": [
-            592,
-            972
+            360,
+            549
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 594,
+                "index": 362,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -9742,7 +6052,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 18,
+                "place": 13,
                 "text": "",
                 "type": "Marriage"
             }
@@ -9755,24 +6065,25 @@ F = [
         "name": "Family of Foster, Thomas and Spencer, Ann",
         "note": "",
         "spou": [
-            593,
-            1604
+            361,
+            882
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 64,
+                "index": 42,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 589,
+                "index": 357,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -9789,7 +6100,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 148,
+                "place": 99,
                 "text": "",
                 "type": "Marriage"
             }
@@ -9802,17 +6113,18 @@ F = [
         "name": "Family of Foster, William and Sanders, Mary",
         "note": "",
         "spou": [
-            594,
-            1564
+            362,
+            860
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 599,
+                "index": 366,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -9842,57 +6154,18 @@ F = [
         "name": "Family of Fox, David and Green, Frances",
         "note": "",
         "spou": [
-            597,
-            750
+            364,
+            419
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 598,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Fox, David and Harris, Mary",
-                "gid": "E2764",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0122",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Fox, David and Harris, Mary",
-        "note": "",
-        "spou": [
-            596,
-            794
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 597,
+                "index": 364,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -9922,22 +6195,15 @@ F = [
         "name": "Family of Fox, Jacob, Sr. and Palmer, Sarah",
         "note": "",
         "spou": [
-            598,
-            1314
+            365,
+            725
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 596,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
         "cita": [],
         "events": [
             {
@@ -9962,17 +6228,18 @@ F = [
         "name": "Family of Fox, Samuel and Mason, Susannah",
         "note": "",
         "spou": [
-            600,
-            1105
+            367,
+            615
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 600,
+                "index": 367,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -10002,13 +6269,14 @@ F = [
         "name": "Family of Fox, William and Mason, Hannah",
         "note": "",
         "spou": [
-            601,
-            1104
+            368,
+            614
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -10034,13 +6302,14 @@ F = [
         "name": "Family of Frazier, Johann Adam and Hicks, Anna Eva",
         "note": "",
         "spou": [
-            604,
-            833
+            369,
+            450
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -10066,60 +6335,14 @@ F = [
         "name": "Family of Frazier, Johann Walter and Beaulieu, Anna Margaretha",
         "note": "",
         "spou": [
-            605,
-            122
+            370,
+            75
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 609,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 607,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1970-01-01",
-                "date_sdn": 2440588,
-                "descr": "Marriage of French, Jimmy Michael and Warner, Martha Ellen",
-                "gid": "E3368",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 294,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0068",
-        "marr_place": "Gaithersburg, MD, USA",
-        "marr_sdn": 2440588,
-        "marr_year": "1970",
-        "media": [],
-        "name": "Family of French, Jimmy Michael and Warner, Martha Ellen",
-        "note": "",
-        "spou": [
-            608,
-            1753
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -10145,110 +6368,50 @@ F = [
         "name": "Family of Gagn\u00e9, Thomas and Reeves, Ann",
         "note": "",
         "spou": [
-            610,
-            1463
+            372,
+            797
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Gardner, Michael and Hansen, Nula",
-                "gid": "E2906",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 314,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0252",
-        "marr_place": "Green Bay, WI, USA",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Gardner, Michael and Hansen, Nula",
-        "note": "",
-        "spou": [
-            615,
-            786
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 614,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
         "events": [],
-        "gid": "F0730",
+        "gid": "F0188",
         "marr_place": "",
         "marr_sdn": 0,
         "marr_year": "",
         "media": [],
-        "name": "Family of Gardner, Patrick",
+        "name": "Family of Garner, Bertha P.",
         "note": "",
         "spou": [
-            616
+            378
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 622,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
         "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1992-11-07",
-                "date_sdn": 2448934,
-                "descr": "Marriage of Garner, Barry Joseph and V\u00e1zquez, April Lynn",
-                "gid": "E2921",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 315,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0266",
-        "marr_place": "Greeneville, TN, USA",
-        "marr_sdn": 2448934,
-        "marr_year": "1992",
+        "events": [],
+        "gid": "F0181",
+        "marr_place": "",
+        "marr_sdn": 0,
+        "marr_year": "",
         "media": [],
-        "name": "Family of Garner, Barry Joseph and V\u00e1zquez, April Lynn",
+        "name": "Family of Garner, Cecile Elizabeth",
         "note": "",
         "spou": [
-            627,
-            1673
+            379
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -10274,441 +6437,51 @@ F = [
         "name": "Family of Garner, Daniel Webster and Jackson, Cora Ellen",
         "note": "",
         "spou": [
-            636,
-            867
+            381,
+            466
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 646,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 641,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 653,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1921-01-03",
-                "date_sdn": 2422693,
-                "descr": "Marriage of Garner, Eugene Stanley and Reed, Frances Lucille (Babe)",
-                "gid": "E2804",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 234,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0016",
-        "marr_place": "Edison, NJ, USA",
-        "marr_sdn": 2422693,
-        "marr_year": "1921",
-        "media": [],
-        "name": "Family of Garner, Eugene Stanley and Reed, Frances Lucille (Babe)",
-        "note": "",
-        "spou": [
-            640,
-            1422
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 642,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 677,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 669,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 626,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 655,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 670,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 628,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 658,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 633,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 662,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 652,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 659,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Garner, Eugene Stanley, Jr. and Pelletier, Josephine",
-                "gid": "E2970",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0031",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Garner, Eugene Stanley, Jr. and Pelletier, Josephine",
-        "note": "",
-        "spou": [
-            641,
-            1353
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Garner, Eugene Stanley, Jr. and Washington, Pearline",
-                "gid": "E3042",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0376",
+        "events": [],
+        "gid": "F0016",
         "marr_place": "",
         "marr_sdn": 0,
-        "marr_year": "?",
+        "marr_year": "",
         "media": [],
-        "name": "Family of Garner, Eugene Stanley, Jr. and Washington, Pearline",
+        "name": "Family of Garner, Eugene Stanley",
         "note": "",
         "spou": [
-            641,
-            1800
+            383
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 667,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
         "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1991-06-22",
-                "date_sdn": 2448430,
-                "descr": "Marriage of Garner, Francis William and Gibbs, Connie",
-                "gid": "E3002",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0339",
-        "marr_place": "",
-        "marr_sdn": 2448430,
-        "marr_year": "1991",
-        "media": [],
-        "name": "Family of Garner, Francis William and Gibbs, Connie",
-        "note": "",
-        "spou": [
-            642,
-            700
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 681,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 635,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1979-01-06",
-                "date_sdn": 2443880,
-                "descr": "Marriage of Garner, Gerard Stephen and George, Elizabeth",
-                "gid": "E2992",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 259,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0033",
-        "marr_place": "Farmington, MO, USA",
-        "marr_sdn": 2443880,
-        "marr_year": "1979",
-        "media": [],
-        "name": "Family of Garner, Gerard Stephen and George, Elizabeth",
-        "note": "",
-        "spou": [
-            643,
-            697
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 678,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 627,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 624,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 643,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 637,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 682,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1948-02-02",
-                "date_sdn": 2432584,
-                "descr": "Marriage of Garner, Howard Lane and Mar\u00edn, Mary Anne",
-                "gid": "E2847",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 843,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0002",
-        "marr_place": "Worthington, MN, USA",
-        "marr_sdn": 2432584,
-        "marr_year": "1948",
-        "media": [],
-        "name": "Family of Garner, Howard Lane and Mar\u00edn, Mary Anne",
-        "note": "",
-        "spou": [
-            646,
-            1084
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 685,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 683,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Garner, Jason Richard and Harper, ??",
-                "gid": "E3006",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0342",
+        "events": [],
+        "gid": "F0179",
         "marr_place": "",
         "marr_sdn": 0,
-        "marr_year": "?",
+        "marr_year": "",
         "media": [],
-        "name": "Family of Garner, Jason Richard and Harper, ??",
+        "name": "Family of Garner, Jennie S.",
         "note": "",
         "spou": [
-            649,
-            791
+            385
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 661,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 684,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
         "cita": [],
         "events": [
             {
@@ -10733,126 +6506,8 @@ F = [
         "name": "Family of Garner, Jesse V. and Taylor, Viola",
         "note": "",
         "spou": [
-            651,
-            1631
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1994-03-04",
-                "date_sdn": 2449416,
-                "descr": "Marriage of Garner, John Joseph and Crawford, Lori",
-                "gid": "E3012",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0348",
-        "marr_place": "",
-        "marr_sdn": 2449416,
-        "marr_year": "1994",
-        "media": [],
-        "name": "Family of Garner, John Joseph and Crawford, Lori",
-        "note": "",
-        "spou": [
-            652,
-            390
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1961-10-07",
-                "date_sdn": 2437580,
-                "descr": "Marriage of Garner, John Roger and \u0411\u0440\u044e\u0445\u0430\u043d\u043e\u0432, Violet Louise",
-                "gid": "E2857",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 586,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0208",
-        "marr_place": "Ottawa, La Salle, IL, USA",
-        "marr_sdn": 2437580,
-        "marr_year": "1961",
-        "media": [],
-        "name": "Family of Garner, John Roger and \u0411\u0440\u044e\u0445\u0430\u043d\u043e\u0432, Violet Louise",
-        "note": "",
-        "spou": [
-            653,
-            1933
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 680,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 656,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 621,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1823-01-03",
-                "date_sdn": 2386899,
-                "descr": "Marriage of Garner, Joseph and Edwards, Lucy",
-                "gid": "E2836",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 612,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0019",
-        "marr_place": "Picayune, MS, USA",
-        "marr_sdn": 2386899,
-        "marr_year": "1823",
-        "media": [],
-        "name": "Family of Garner, Joseph and Edwards, Lucy",
-        "note": "",
-        "spou": [
-            654,
-            525
+            386,
+            898
         ],
         "type": "Married"
     },
@@ -10865,59 +6520,53 @@ F = [
                 "value": "8"
             }
         ],
+        "change_time": "2012-01-31 17:21:23",
         "chil": [
             {
                 "cita": [],
-                "index": 640,
+                "index": 383,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 651,
+                "index": 386,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 672,
+                "index": 393,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Adopted"
             },
             {
                 "cita": [],
-                "index": 650,
+                "index": 385,
                 "note": "",
                 "to_father": "Adopted",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 686,
+                "index": 397,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 636,
+                "index": 381,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 630,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 638,
+                "index": 378,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -10934,7 +6583,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 600,
+                "place": 401,
                 "text": "",
                 "type": "Marriage"
             }
@@ -10947,272 +6596,14 @@ F = [
         "name": "Family of Garner von Zieli\u0144ski, Lewis Anderson Sr and Martel, Luella Jacques",
         "note": "",
         "spou": [
-            657,
-            1098
+            388,
+            613
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1991-12-02",
-                "date_sdn": 2448593,
-                "descr": "Marriage of Garner, Mark Gerard and Gibbs, Lori",
-                "gid": "E3013",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0349",
-        "marr_place": "",
-        "marr_sdn": 2448593,
-        "marr_year": "1991",
-        "media": [],
-        "name": "Family of Garner, Mark Gerard and Gibbs, Lori",
-        "note": "",
-        "spou": [
-            662,
-            705
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 668,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 666,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1970-08-08",
-                "date_sdn": 2440807,
-                "descr": "Marriage of Garner, Michael Stanley and Gibbs, Sharon",
-                "gid": "E3007",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0343",
-        "marr_place": "",
-        "marr_sdn": 2440807,
-        "marr_year": "1970",
-        "media": [],
-        "name": "Family of Garner, Michael Stanley and Gibbs, Sharon",
-        "note": "",
-        "spou": [
-            669,
-            714
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 619,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 620,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1976-01-25",
-                "date_sdn": 2442803,
-                "descr": "Marriage of Garner, Peter George and Gibbs, Joy",
-                "gid": "E3010",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0346",
-        "marr_place": "",
-        "marr_sdn": 2442803,
-        "marr_year": "1976",
-        "media": [],
-        "name": "Family of Garner, Peter George and Gibbs, Joy",
-        "note": "",
-        "spou": [
-            670,
-            704
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1975-06-21",
-                "date_sdn": 2442585,
-                "descr": "Marriage of Garner, Raymond Scott and P\u00e9rez, Angela Gay",
-                "gid": "E2839",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0192",
-        "marr_place": "",
-        "marr_sdn": 2442585,
-        "marr_year": "1975",
-        "media": [],
-        "name": "Family of Garner, Raymond Scott and P\u00e9rez, Angela Gay",
-        "note": "",
-        "spou": [
-            673,
-            1355
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 648,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 673,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1942-04-05",
-                "date_sdn": 2430455,
-                "descr": "Marriage of Garner, Raymond Webster and Bryant, Kathryn Ladon",
-                "gid": "E2837",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 301,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0190",
-        "marr_place": "Gillette, WY, USA",
-        "marr_sdn": 2430455,
-        "marr_year": "1942",
-        "media": [],
-        "name": "Family of Garner, Raymond Webster and Bryant, Kathryn Ladon",
-        "note": "",
-        "spou": [
-            674,
-            330
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 644,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 676,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 649,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1971-10-23",
-                "date_sdn": 2441248,
-                "descr": "Marriage of Garner, Richard Eugene and Gibbs, Elaine",
-                "gid": "E3005",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0341",
-        "marr_place": "",
-        "marr_sdn": 2441248,
-        "marr_year": "1971",
-        "media": [],
-        "name": "Family of Garner, Richard Eugene and Gibbs, Elaine",
-        "note": "",
-        "spou": [
-            677,
-            701
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -11225,7 +6616,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 600,
+                "place": 401,
                 "text": "",
                 "type": "Marriage"
             }
@@ -11238,94 +6629,95 @@ F = [
         "name": "Family of Garner, Robert F. and Cannon, Mary Jane",
         "note": "",
         "spou": [
-            679,
-            349
+            395,
+            211
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2015-05-09 14:35:00",
         "chil": [
             {
                 "cita": [],
-                "index": 657,
+                "index": 388,
                 "note": "",
                 "to_father": "Custom relationship to father",
                 "to_mother": "Custom relationship to mother"
             },
             {
                 "cita": [],
-                "index": 671,
+                "index": 392,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 663,
+                "index": 390,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 664,
+                "index": 391,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 617,
+                "index": 374,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 675,
+                "index": 394,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 352,
+                "index": 214,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 647,
+                "index": 384,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 679,
+                "index": 395,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 639,
+                "index": 382,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 623,
+                "index": 376,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 625,
+                "index": 377,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -11342,7 +6734,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 600,
+                "place": 401,
                 "text": "",
                 "type": "Marriage"
             }
@@ -11355,272 +6747,32 @@ F = [
         "name": "Family of Garner, Robert W. and Zieli\u0144ski, Phoebe Emily",
         "note": "",
         "spou": [
-            680,
-            1917
+            396,
+            1031
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 618,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1997-07-07",
-                "date_sdn": 2450637,
-                "descr": "Marriage of Garner, Thomas James and \u0421\u043e\u0440\u043e\u043a\u0438\u043d, Holly Ruth",
-                "gid": "E3076",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 83,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0406",
-        "marr_place": "Blacksburg, VA, USA",
-        "marr_sdn": 2450637,
-        "marr_year": "1997",
-        "media": [],
-        "name": "Family of Garner, Thomas James and \u0421\u043e\u0440\u043e\u043a\u0438\u043d, Holly Ruth",
-        "note": "",
-        "spou": [
-            682,
-            2056
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 665,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 660,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Garner, Walter E. and Garc\u00eda, Maude",
-                "gid": "E2826",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0180",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Garner, Walter E. and Garc\u00eda, Maude",
-        "note": "",
-        "spou": [
-            686,
-            612
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1978-11-18",
-                "date_sdn": 2443831,
-                "descr": "Marriage of Garrett, Terry Lee and Holloway, Gail",
-                "gid": "E2887",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 25,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0235",
-        "marr_place": "Americus, Sumter, GA, USA",
-        "marr_sdn": 2443831,
-        "marr_year": "1978",
-        "media": [],
-        "name": "Family of Garrett, Terry Lee and Holloway, Gail",
-        "note": "",
-        "spou": [
-            691,
-            843
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 688,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 689,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 691,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 692,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1947-01-25",
-                "date_sdn": 2432211,
-                "descr": "Marriage of Garrett, William Forest and Perkins, Wilma Mae",
-                "gid": "E3308",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0062",
-        "marr_place": "",
-        "marr_sdn": 2432211,
-        "marr_year": "1947",
-        "media": [],
-        "name": "Family of Garrett, William Forest and Perkins, Wilma Mae",
-        "note": "",
-        "spou": [
-            693,
-            1357
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 687,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 693,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 690,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Garrett, William Walker and Lessard, Laura Eloise",
-                "gid": "E3319",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0063",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Garrett, William Walker and Lessard, Laura Eloise",
-        "note": "",
-        "spou": [
-            694,
-            1038
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 776,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
         "events": [],
-        "gid": "F0675",
+        "gid": "F0180",
         "marr_place": "",
         "marr_sdn": 0,
         "marr_year": "",
         "media": [],
-        "name": "Family of Gibbs, Rosina M.",
+        "name": "Family of Garner, Walter E.",
         "note": "",
         "spou": [
-            712
+            397
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -11646,13 +6798,14 @@ F = [
         "name": "Family of Gibson, Mr. and James, Mary",
         "note": "",
         "spou": [
-            715,
-            881
+            405,
+            479
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -11665,7 +6818,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 649,
+                "place": 441,
                 "text": "",
                 "type": "Marriage"
             }
@@ -11678,89 +6831,18 @@ F = [
         "name": "Family of Gilbert, ?? and L\u00e9vesque, Wilma",
         "note": "",
         "spou": [
-            717,
-            1051
+            406,
+            586
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 720,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 722,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "avant 1967",
-                "date_sdn": 2439492,
-                "descr": "Marriage of Gill, Lawrence and Webb, Joan Lorinda",
-                "gid": "E3388",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 586,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0086",
-        "marr_place": "Ottawa, La Salle, IL, USA",
-        "marr_sdn": 2439492,
-        "marr_year": "1967",
-        "media": [],
-        "name": "Family of Gill, Lawrence and Webb, Joan Lorinda",
-        "note": "",
-        "spou": [
-            719,
-            1839
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 718,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [],
-        "gid": "F0678",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "",
-        "media": [],
-        "name": "Family of Gill, Lawrence",
-        "note": "",
-        "spou": [
-            720
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 726,
+                "index": 409,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -11776,12 +6858,13 @@ F = [
         "name": "Family of Gomez, Culthbert",
         "note": "",
         "spou": [
-            725
+            408
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -11807,22 +6890,41 @@ F = [
         "name": "Family of Gonz\u00e1lez and Ball, Martha",
         "note": "",
         "spou": [
-            729,
-            96
+            410,
+            58
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 2003,
+                "index": 225,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             }
         ],
+        "cita": [],
+        "events": [],
+        "gid": "F0132",
+        "marr_place": "",
+        "marr_sdn": 0,
+        "marr_year": "",
+        "media": [],
+        "name": "Family of Gonz\u00e1lez, Elizabeth",
+        "note": "",
+        "spou": [
+            412
+        ],
+        "type": "Married"
+    },
+    {
+        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
         "cita": [],
         "events": [
             {
@@ -11834,7 +6936,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 513,
+                "place": 345,
                 "text": "",
                 "type": "Marriage"
             }
@@ -11847,174 +6949,18 @@ F = [
         "name": "Family of Goodman, Ralph and Powell, Martha",
         "note": "",
         "spou": [
-            733,
-            1395
+            413,
+            768
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Goodwin and Sandoval, Liz",
-                "gid": "E3281",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0596",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Goodwin and Sandoval, Liz",
-        "note": "",
-        "spou": [
-            734,
-            1568
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 740,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 741,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 738,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 739,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1980-12-27",
-                "date_sdn": 2444601,
-                "descr": "Marriage of Gosselin, Martin Kelly and Warner, Marcia Jane",
-                "gid": "E2848",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 742,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0020",
-        "marr_place": "Statesboro, Bulloch, GA, USA",
-        "marr_sdn": 2444601,
-        "marr_year": "1980",
-        "media": [],
-        "name": "Family of Gosselin, Martin Kelly and Warner, Marcia Jane",
-        "note": "",
-        "spou": [
-            742,
-            1751
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Grabowski, Mr. and Waters, Lola",
-                "gid": "E3221",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0540",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Grabowski, Mr. and Waters, Lola",
-        "note": "",
-        "spou": [
-            743,
-            1808
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1996-08-10",
-                "date_sdn": 2450306,
-                "descr": "Marriage of Graham, Steve and Cruz, Laura Joy",
-                "gid": "E3022",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 416,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0357",
-        "marr_place": "Lafayette, Tippecanoe, IN, USA",
-        "marr_sdn": 2450306,
-        "marr_year": "1996",
-        "media": [],
-        "name": "Family of Graham, Steve and Cruz, Laura Joy",
-        "note": "",
-        "spou": [
-            744,
-            419
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 748,
+                "index": 417,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -12031,7 +6977,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 617,
+                "place": 414,
                 "text": "",
                 "type": "Marriage"
             }
@@ -12044,17 +6990,18 @@ F = [
         "name": "Family of Green, Edward and Lefebvre, Mary",
         "note": "",
         "spou": [
-            749,
-            1024
+            418,
+            570
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 751,
+                "index": 420,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -12084,17 +7031,18 @@ F = [
         "name": "Family of Green, Edward and \u041c\u0430\u043a\u0441\u0438\u043c\u043e\u0432, Christina",
         "note": "",
         "spou": [
-            748,
-            2019
+            417,
+            1082
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 752,
+                "index": 421,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -12124,17 +7072,18 @@ F = [
         "name": "Family of Green, James and Christiansen, Frances",
         "note": "",
         "spou": [
-            751,
-            365
+            420,
+            225
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 750,
+                "index": 419,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -12151,7 +7100,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 148,
+                "place": 99,
                 "text": "",
                 "type": "Marriage"
             }
@@ -12164,17 +7113,18 @@ F = [
         "name": "Family of Green, Randolph and Davis, Sabra",
         "note": "",
         "spou": [
-            752,
-            442
+            421,
+            254
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 749,
+                "index": 418,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -12204,17 +7154,18 @@ F = [
         "name": "Family of Green, Yelverton and Robertson, Elizabeth",
         "note": "",
         "spou": [
-            753,
-            1506
+            422,
+            823
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 758,
+                "index": 427,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -12231,7 +7182,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 516,
+                "place": 347,
                 "text": "",
                 "type": "Marriage"
             }
@@ -12244,49 +7195,18 @@ F = [
         "name": "Family of Grenier, Joseph and Peters, Rose",
         "note": "",
         "spou": [
-            757,
-            1366
+            426,
+            760
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Gross and Peters, Dorothy",
-                "gid": "E3150",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0475",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Gross and Peters, Dorothy",
-        "note": "",
-        "spou": [
-            760,
-            1359
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 762,
+                "index": 430,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -12302,16 +7222,17 @@ F = [
         "name": "Family of Guerrero, Robert",
         "note": "",
         "spou": [
-            761
+            429
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1137,
+                "index": 631,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -12327,16 +7248,17 @@ F = [
         "name": "Family of Guerrero, Robert",
         "note": "",
         "spou": [
-            762
+            430
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 765,
+                "index": 433,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -12352,16 +7274,17 @@ F = [
         "name": "Family of Guerrero, Walter",
         "note": "",
         "spou": [
-            763
+            431
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 764,
+                "index": 432,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -12377,16 +7300,17 @@ F = [
         "name": "Family of Guerrero, Walter",
         "note": "",
         "spou": [
-            765
+            433
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 761,
+                "index": 429,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -12402,21 +7326,14 @@ F = [
         "name": "Family of Guerrero, Walter",
         "note": "",
         "spou": [
-            764
+            432
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 766,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
         "cita": [],
         "events": [
             {
@@ -12441,304 +7358,18 @@ F = [
         "name": "Family of Gutierrez, Thomas and Boucher, Nora A.",
         "note": "",
         "spou": [
-            769,
-            267
+            434,
+            169
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 770,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 767,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 768,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1919-02-14",
-                "date_sdn": 2422004,
-                "descr": "Marriage of Guti\u00e9rrez, Walter Harmon and Boyd, Lauretta Esther",
-                "gid": "E3338",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0647",
-        "marr_place": "",
-        "marr_sdn": 2422004,
-        "marr_year": "1919",
-        "media": [],
-        "name": "Family of Guti\u00e9rrez, Walter Harmon and Boyd, Lauretta Esther",
-        "note": "",
-        "spou": [
-            771,
-            302
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 775,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 777,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 773,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 774,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1973-09-15",
-                "date_sdn": 2441941,
-                "descr": "Marriage of Hale, Lawrence Paul and Garner, Anne Therese",
-                "gid": "E2981",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 586,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0032",
-        "marr_place": "Ottawa, La Salle, IL, USA",
-        "marr_sdn": 2441941,
-        "marr_year": "1973",
-        "media": [],
-        "name": "Family of Hale, Lawrence Paul and Garner, Anne Therese",
-        "note": "",
-        "spou": [
-            776,
-            624
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1995-04-16",
-                "date_sdn": 2449824,
-                "descr": "Marriage of Hamilton, John and Boucher, Miread",
-                "gid": "E3249",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 526,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0567",
-        "marr_place": "Montgomery, Montgomery, AL, USA",
-        "marr_sdn": 2449824,
-        "marr_year": "1995",
-        "media": [],
-        "name": "Family of Hamilton, John and Boucher, Miread",
-        "note": "",
-        "spou": [
-            779,
-            265
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Hammond, Roy and Serrano, Carrie",
-                "gid": "E3230",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0549",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Hammond, Roy and Serrano, Carrie",
-        "note": "",
-        "spou": [
-            780,
-            1587
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 781,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 783,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Hansen, Noel and Ramirez, Helen",
-                "gid": "E2905",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 461,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0251",
-        "marr_place": "Loveland, Larimer, CO, USA",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Hansen, Noel and Ramirez, Helen",
-        "note": "",
-        "spou": [
-            785,
-            1402
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 785,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 786,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 782,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 784,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1952",
-                "date_sdn": 2434013,
-                "descr": "Marriage of Hansen, Thomas and Boucher, Rose Mary",
-                "gid": "E2904",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 804,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0250",
-        "marr_place": "Walterboro, SC, USA",
-        "marr_sdn": 2434013,
-        "marr_year": "1952",
-        "media": [],
-        "name": "Family of Hansen, Thomas and Boucher, Rose Mary",
-        "note": "",
-        "spou": [
-            787,
-            273
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 968,
+                "index": 546,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -12768,13 +7399,14 @@ F = [
         "name": "Family of Hanson, Robert and Schwartz, Helewisa",
         "note": "",
         "spou": [
-            788,
-            1582
+            437,
+            870
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -12800,67 +7432,40 @@ F = [
         "name": "Family of Hardy, Jakob and Beaulieu, Anna Maria",
         "note": "",
         "spou": [
-            789,
-            123
+            438,
+            76
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 795,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 796,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 797,
+                "index": 365,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             }
         ],
         "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Harris, Lawrence and Landry, Alice",
-                "gid": "E3376",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0075",
+        "events": [],
+        "gid": "F0122",
         "marr_place": "",
         "marr_sdn": 0,
-        "marr_year": "?",
+        "marr_year": "",
         "media": [],
-        "name": "Family of Harris, Lawrence and Landry, Alice",
+        "name": "Family of Harris, Mary",
         "note": "",
         "spou": [
-            793,
-            984
+            440
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -12873,7 +7478,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 773,
+                "place": 522,
                 "text": "",
                 "type": "Marriage"
             }
@@ -12886,130 +7491,15 @@ F = [
         "name": "Family of Harrison, Edward and Allen, Sarah",
         "note": "",
         "spou": [
-            800,
-            33
+            441,
+            30
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 798,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 799,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1983-10-16",
-                "date_sdn": 2445624,
-                "descr": "Marriage of Harrison, Paul Allen and \u0414\u0430\u043d\u0438\u043b\u043e\u0432, Lucinda Elinor",
-                "gid": "E3274",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0059",
-        "marr_place": "",
-        "marr_sdn": 2445624,
-        "marr_year": "1983",
-        "media": [],
-        "name": "Family of Harrison, Paul Allen and \u0414\u0430\u043d\u0438\u043b\u043e\u0432, Lucinda Elinor",
-        "note": "",
-        "spou": [
-            801,
-            1959
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 803,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 806,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 804,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 805,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Hart, Gerry and Boucher, Mary",
-                "gid": "E3255",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0572",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Hart, Gerry and Boucher, Mary",
-        "note": "",
-        "spou": [
-            802,
-            253
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 808,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
         "cita": [],
         "events": [],
         "gid": "F0691",
@@ -13020,238 +7510,13 @@ F = [
         "name": "Family of Harvey, John",
         "note": "",
         "spou": [
-            807
+            442
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 810,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 818,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 815,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Hawkins, Beckham and \u0410\u0444\u0430\u043d\u0430\u0441\u044c\u0435\u0432, Angie",
-                "gid": "E3343",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0651",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Hawkins, Beckham and \u0410\u0444\u0430\u043d\u0430\u0441\u044c\u0435\u0432, Angie",
-        "note": "",
-        "spou": [
-            809,
-            1924
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 816,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [],
-        "gid": "F0741",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "",
-        "media": [],
-        "name": "Family of Hawkins, Richard W.",
-        "note": "",
-        "spou": [
-            817
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 811,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 814,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 812,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1945-06-22",
-                "date_sdn": 2431629,
-                "descr": "Marriage of Hawkins, William Melvin and Gibbs, Ruth",
-                "gid": "E3344",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0652",
-        "marr_place": "",
-        "marr_sdn": 2431629,
-        "marr_year": "1945",
-        "media": [],
-        "name": "Family of Hawkins, William Melvin and Gibbs, Ruth",
-        "note": "",
-        "spou": [
-            818,
-            713
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 817,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 813,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [],
-        "gid": "F0742",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "",
-        "media": [],
-        "name": "Family of Hawkins, William Melvin",
-        "note": "",
-        "spou": [
-            818
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 824,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 821,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 820,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 823,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1971-09-05",
-                "date_sdn": 2441200,
-                "descr": "Marriage of Haynes, Marc W. and Warner, Laura Gail",
-                "gid": "E3113",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 294,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0044",
-        "marr_place": "Gaithersburg, MD, USA",
-        "marr_sdn": 2441200,
-        "marr_year": "1971",
-        "media": [],
-        "name": "Family of Haynes, Marc W. and Warner, Laura Gail",
-        "note": "",
-        "spou": [
-            822,
-            1748
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -13277,17 +7542,18 @@ F = [
         "name": "Family of H\u00e9bert, Mr. and Page, Mary",
         "note": "",
         "spou": [
-            825,
-            1295
+            443,
+            716
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 828,
+                "index": 445,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -13303,12 +7569,13 @@ F = [
         "name": "Family of Henry, John",
         "note": "",
         "spou": [
-            829
+            446
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -13321,7 +7588,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 296,
+                "place": 192,
                 "text": "",
                 "type": "Marriage"
             }
@@ -13334,13 +7601,14 @@ F = [
         "name": "Family of Hernandez, John and Norris, Elizabeth",
         "note": "",
         "spou": [
-            830,
-            1239
+            447,
+            697
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -13366,67 +7634,14 @@ F = [
         "name": "Family of Hern\u00e1ndez, Thomas and Douglas, Elizabeth",
         "note": "",
         "spou": [
-            832,
-            490
+            449,
+            290
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 836,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 837,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 838,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Hill and Garner, Louella Marie",
-                "gid": "E3011",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0347",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Hill and Garner, Louella Marie",
-        "note": "",
-        "spou": [
-            835,
-            658
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -13452,62 +7667,15 @@ F = [
         "name": "Family of Hines and Douglas, Eliza Jane",
         "note": "",
         "spou": [
-            839,
-            487
+            452,
+            287
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 845,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Holloway, John(?) and \u041e\u0440\u043b\u043e\u0432, Margaret(?)",
-                "gid": "E3017",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0352",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Holloway, John(?) and \u041e\u0440\u043b\u043e\u0432, Margaret(?)",
-        "note": "",
-        "spou": [
-            844,
-            2037
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 850,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
         "cita": [],
         "events": [],
         "gid": "F0683",
@@ -13518,56 +7686,17 @@ F = [
         "name": "Family of Howard, Michael",
         "note": "",
         "spou": [
-            851
+            459
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 846,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Howell, John and Yates, Sarah",
-                "gid": "E2976",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 206,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0315",
-        "marr_place": "Del Rio, Val Verde, TX, USA",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Howell, John and Yates, Sarah",
-        "note": "",
-        "spou": [
-            852,
-            1915
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 856,
+                "index": 461,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -13583,12 +7712,13 @@ F = [
         "name": "Family of Howell, JOHN",
         "note": "",
         "spou": [
-            853
+            460
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -13614,13 +7744,14 @@ F = [
         "name": "Family of Hunt, Isaac and \u0414\u043c\u0438\u0442\u0440\u0438\u0435\u0432, Nancy Ann",
         "note": "",
         "spou": [
-            863,
-            1972
+            464,
+            1058
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -13646,116 +7777,96 @@ F = [
         "name": "Family of James, Hugh Jr. and Wi\u015bniewski, D.",
         "note": "",
         "spou": [
-            871,
-            1898
+            469,
+            1022
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 888,
+                "index": 468,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 870,
+                "index": 483,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 885,
+                "index": 477,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 879,
+                "index": 487,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 890,
+                "index": 479,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 881,
+                "index": 478,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 880,
+                "index": 474,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 876,
+                "index": 475,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 877,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 869,
+                "index": 467,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             }
         ],
         "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1726",
-                "date_sdn": 2351469,
-                "descr": "Marriage of James, Hugh Sr. and Serrano, Caroline",
-                "gid": "E2752",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 48,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
+        "events": [],
         "gid": "F0111",
-        "marr_place": "Auburn, Cayuga, NY, USA",
-        "marr_sdn": 2351469,
-        "marr_year": "1726",
+        "marr_place": "",
+        "marr_sdn": 0,
+        "marr_year": "",
         "media": [],
-        "name": "Family of James, Hugh Sr. and Serrano, Caroline",
+        "name": "Family of James, Hugh Sr.",
         "note": "",
         "spou": [
-            872,
-            1586
+            470
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -13781,17 +7892,18 @@ F = [
         "name": "Family of James, Isaac and Andersen, Martha",
         "note": "",
         "spou": [
-            873,
-            67
+            471,
+            43
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 886,
+                "index": 484,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -13807,12 +7919,13 @@ F = [
         "name": "Family of James, James",
         "note": "",
         "spou": [
-            874
+            472
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -13838,17 +7951,18 @@ F = [
         "name": "Family of James, Joseph and Floyd, Nancy",
         "note": "",
         "spou": [
-            878,
-            577
+            476,
+            350
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 872,
+                "index": 470,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -13878,13 +7992,14 @@ F = [
         "name": "Family of James, Robert and Pratt, Sarah",
         "note": "",
         "spou": [
-            886,
-            1397
+            484,
+            769
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -13910,13 +8025,14 @@ F = [
         "name": "Family of James, Thomas and Marshall, Kate Teel",
         "note": "",
         "spou": [
-            887,
-            1096
+            485,
+            611
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -13942,102 +8058,14 @@ F = [
         "name": "Family of James, Thomas and Parent, Betsy",
         "note": "",
         "spou": [
-            887,
-            1315
+            485,
+            726
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 875,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 871,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 882,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 878,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 887,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 873,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 889,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 884,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1767",
-                "date_sdn": 2366444,
-                "descr": "Marriage of James, Thomas Sr. and Benson, Martha Ellen M.",
-                "gid": "E2751",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 491,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0110",
-        "marr_place": "Mayfield, Graves, KY, USA",
-        "marr_sdn": 2366444,
-        "marr_year": "1767",
-        "media": [],
-        "name": "Family of James, Thomas Sr. and Benson, Martha Ellen M.",
-        "note": "",
-        "spou": [
-            888,
-            166
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -14063,13 +8091,14 @@ F = [
         "name": "Family of James, Walter Crockett and Hern\u00e1ndez, Nancy",
         "note": "",
         "spou": [
-            889,
-            831
+            486,
+            448
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -14095,80 +8124,74 @@ F = [
         "name": "Family of James, Walter Crockett and \u0417\u0430\u0445\u0430\u0440\u043e\u0432, Margaret",
         "note": "",
         "spou": [
-            889,
-            1983
+            486,
+            1063
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 899,
+                "index": 496,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 900,
+                "index": 497,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 901,
+                "index": 492,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 895,
+                "index": 491,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 894,
+                "index": 490,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 893,
+                "index": 494,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 897,
+                "index": 488,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 891,
+                "index": 493,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 896,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 898,
+                "index": 495,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -14185,7 +8208,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 78,
+                "place": 54,
                 "text": "",
                 "type": "Marriage"
             }
@@ -14198,17 +8221,36 @@ F = [
         "name": "Family of Jankowski, George and Page, Margaret",
         "note": "",
         "spou": [
-            892,
-            1293
+            489,
+            715
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
+        "cita": [],
+        "events": [],
+        "gid": "F0456",
+        "marr_place": "",
+        "marr_sdn": 0,
+        "marr_year": "",
+        "media": [],
+        "name": "Family of Jankowski, Sarah",
+        "note": "",
+        "spou": [
+            497
+        ],
+        "type": "Married"
+    },
+    {
+        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 902,
+                "index": 498,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -14238,45 +8280,14 @@ F = [
         "name": "Family of Jenkins, Peter and Marsh, Margaret",
         "note": "",
         "spou": [
-            903,
-            1095
+            499,
+            610
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Jimenez and Reed, Maureen",
-                "gid": "E3288",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0601",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Jimenez and Reed, Maureen",
-        "note": "",
-        "spou": [
-            905,
-            1439
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -14302,13 +8313,14 @@ F = [
         "name": "Family of Jim\u00e9nez, Andrew and Palmer, Sarah",
         "note": "",
         "spou": [
-            907,
-            1313
+            502,
+            724
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -14334,66 +8346,67 @@ F = [
         "name": "Family of Jim\u00e9nez, Cornelius and Blair, Jane",
         "note": "",
         "spou": [
-            909,
-            184
+            504,
+            122
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 920,
+                "index": 515,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 930,
+                "index": 525,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 922,
+                "index": 517,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 908,
+                "index": 503,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 931,
+                "index": 526,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 918,
+                "index": 513,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 925,
+                "index": 520,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 911,
+                "index": 506,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -14410,7 +8423,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 681,
+                "place": 460,
                 "text": "",
                 "type": "Marriage"
             }
@@ -14423,73 +8436,74 @@ F = [
         "name": "Family of Jim\u00e9nez, George Henry, III and Blake, M. Susannah",
         "note": "",
         "spou": [
-            912,
-            188
+            507,
+            124
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 912,
+                "index": 507,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 906,
+                "index": 501,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 924,
+                "index": 519,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 915,
+                "index": 510,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 917,
+                "index": 512,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 921,
+                "index": 516,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 923,
+                "index": 518,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 928,
+                "index": 523,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 919,
+                "index": 514,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -14506,7 +8520,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 199,
+                "place": 130,
                 "text": "",
                 "type": "Marriage"
             }
@@ -14519,66 +8533,67 @@ F = [
         "name": "Family of Jim\u00e9nez, George Henry, Jr. and Silva, Mildred",
         "note": "",
         "spou": [
-            913,
-            1595
+            508,
+            876
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 913,
+                "index": 508,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 926,
+                "index": 521,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 910,
+                "index": 505,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 907,
+                "index": 502,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 916,
+                "index": 511,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 929,
+                "index": 524,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 927,
+                "index": 522,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 909,
+                "index": 504,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -14608,13 +8623,14 @@ F = [
         "name": "Family of Jim\u00e9nez, George, Sr. and Henry, Elizabeth",
         "note": "",
         "spou": [
-            914,
-            828
+            509,
+            445
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -14640,22 +8656,15 @@ F = [
         "name": "Family of Jim\u00e9nez, John and Palmer, Mary",
         "note": "",
         "spou": [
-            916,
-            1311
+            511,
+            722
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 933,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
         "cita": [],
         "events": [
             {
@@ -14680,81 +8689,36 @@ F = [
         "name": "Family of Johnson, Henry and Sparks, Catherine",
         "note": "",
         "spou": [
-            934,
-            1603
+            528,
+            881
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1940-06-17",
-                "date_sdn": 2429798,
-                "descr": "Marriage of Johnson, Richard F. and Garner, Betty Jane",
-                "gid": "E2828",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 779,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
+        "events": [],
         "gid": "F0182",
-        "marr_place": "Tupelo, MS, USA",
-        "marr_sdn": 2429798,
-        "marr_year": "1940",
-        "media": [],
-        "name": "Family of Johnson, Richard F. and Garner, Betty Jane",
-        "note": "",
-        "spou": [
-            935,
-            631
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Johnston and Sandoval, Jean",
-                "gid": "E3282",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0597",
         "marr_place": "",
         "marr_sdn": 0,
-        "marr_year": "?",
+        "marr_year": "",
         "media": [],
-        "name": "Family of Johnston and Sandoval, Jean",
+        "name": "Family of Johnson, Richard F.",
         "note": "",
         "spou": [
-            936,
-            1565
+            529
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 937,
+                "index": 530,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -14784,129 +8748,15 @@ F = [
         "name": "Family of Jones, Hugh and \u041a\u0438\u0440\u0438\u043b\u043b\u043e\u0432, ??",
         "note": "",
         "spou": [
-            938,
-            1999
+            531,
+            1072
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1937",
-                "date_sdn": 2428535,
-                "descr": "Marriage of Jordan, William and Reed, Frances Lucille (Babe)",
-                "gid": "E3040",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0374",
-        "marr_place": "",
-        "marr_sdn": 2428535,
-        "marr_year": "1937",
-        "media": [],
-        "name": "Family of Jordan, William and Reed, Frances Lucille (Babe)",
-        "note": "",
-        "spou": [
-            940,
-            1422
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 943,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 942,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1989-06-10",
-                "date_sdn": 2447688,
-                "descr": "Marriage of J\u00f8rgensen, Jeffrey and Osborne, Julia Marie",
-                "gid": "E3391",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 529,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0089",
-        "marr_place": "Morehead City, NC, USA",
-        "marr_sdn": 2447688,
-        "marr_year": "1989",
-        "media": [],
-        "name": "Family of J\u00f8rgensen, Jeffrey and Osborne, Julia Marie",
-        "note": "",
-        "spou": [
-            941,
-            1260
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 944,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 946,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 948,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 945,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 947,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
         "cita": [],
         "events": [
             {
@@ -14931,13 +8781,89 @@ F = [
         "name": "Family of Joseph, Alfred and Moreno, Minerva",
         "note": "",
         "spou": [
-            949,
-            1174
+            532,
+            662
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [
+            {
+                "cita": [],
+                "index": 709,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 712,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 720,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 715,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 714,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 707,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 716,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 718,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            }
+        ],
+        "cita": [],
+        "events": [],
+        "gid": "F0229",
+        "marr_place": "",
+        "marr_sdn": 0,
+        "marr_year": "",
+        "media": [],
+        "name": "Family of Kaczmarek, Isabella",
+        "note": "",
+        "spou": [
+            533
+        ],
+        "type": "Married"
+    },
+    {
+        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -14950,7 +8876,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 575,
+                "place": 387,
                 "text": "",
                 "type": "Marriage"
             }
@@ -14963,38 +8889,14 @@ F = [
         "name": "Family of Kami\u0144ski and Reed, Jane",
         "note": "",
         "spou": [
-            951,
-            1427
+            534,
+            783
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 953,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [],
-        "gid": "F0688",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "",
-        "media": [],
-        "name": "Family of Keller, Mathew",
-        "note": "",
-        "spou": [
-            954
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -15020,13 +8922,14 @@ F = [
         "name": "Family of Kelley, Thomas and Douglas, Catherine",
         "note": "",
         "spou": [
-            955,
-            484
+            536,
+            285
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -15052,45 +8955,14 @@ F = [
         "name": "Family of Kim, Frank and Kristensen, Catherine Virginia",
         "note": "",
         "spou": [
-            959,
-            975
+            538,
+            550
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of King, Henry and \u0411\u044b\u043a\u043e\u0432, Annie",
-                "gid": "E3188",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0510",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of King, Henry and \u0411\u044b\u043a\u043e\u0432, Annie",
-        "note": "",
-        "spou": [
-            960,
-            1934
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -15116,17 +8988,18 @@ F = [
         "name": "Family of Knudsen, John and Huff, Isabel",
         "note": "",
         "spou": [
-            963,
-            862
+            541,
+            463
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 963,
+                "index": 541,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -15156,17 +9029,18 @@ F = [
         "name": "Family of Knudsen, Ralph and Huff, Isabel",
         "note": "",
         "spou": [
-            966,
-            862
+            544,
+            463
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 966,
+                "index": 544,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -15196,17 +9070,18 @@ F = [
         "name": "Family of Knudsen, Ralph and Walton, Theophania(Tiffany)",
         "note": "",
         "spou": [
-            965,
-            1683
+            543,
+            927
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 965,
+                "index": 543,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -15236,13 +9111,14 @@ F = [
         "name": "Family of Knudsen, Ranulf and Huff, Bertrama",
         "note": "",
         "spou": [
-            967,
-            861
+            545,
+            462
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -15268,22 +9144,15 @@ F = [
         "name": "Family of Knudsen, Robert and Schwartz, Helewisa",
         "note": "",
         "spou": [
-            968,
-            1582
+            546,
+            870
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 969,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
         "cita": [],
         "events": [
             {
@@ -15295,7 +9164,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 493,
+                "place": 330,
                 "text": "",
                 "type": "Marriage"
             }
@@ -15308,17 +9177,18 @@ F = [
         "name": "Family of Kowalski, John and Wells, Alice",
         "note": "",
         "spou": [
-            970,
-            1880
+            547,
+            1018
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 970,
+                "index": 547,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -15335,7 +9205,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 204,
+                "place": 133,
                 "text": "",
                 "type": "Marriage"
             }
@@ -15348,45 +9218,14 @@ F = [
         "name": "Family of Kowalski, Thomas and Santos, Alice",
         "note": "",
         "spou": [
-            971,
-            1572
+            548,
+            862
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1979-09-29",
-                "date_sdn": 2444146,
-                "descr": "Marriage of Krawczyk, Douglas and Cruz, Patti Jo",
-                "gid": "E2741",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0101",
-        "marr_place": "",
-        "marr_sdn": 2444146,
-        "marr_year": "1979",
-        "media": [],
-        "name": "Family of Krawczyk, Douglas and Cruz, Patti Jo",
-        "note": "",
-        "spou": [
-            973,
-            423
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -15412,207 +9251,18 @@ F = [
         "name": "Family of Kristensen, John Francis\"Chick\" and \u4f0a\u85e4, Mary",
         "note": "",
         "spou": [
-            976,
-            2092
+            551,
+            1124
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 989,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 992,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1922-10-14",
-                "date_sdn": 2423342,
-                "descr": "Marriage of Landry, John Anthony and Harris, Ella Mae",
-                "gid": "E3379",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0078",
-        "marr_place": "",
-        "marr_sdn": 2423342,
-        "marr_year": "1922",
-        "media": [],
-        "name": "Family of Landry, John Anthony and Harris, Ella Mae",
-        "note": "",
-        "spou": [
-            991,
-            792
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 997,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 986,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1920-04-17",
-                "date_sdn": 2422432,
-                "descr": "Marriage of Landry, Maurice T. and Estrada, Mary Claire",
-                "gid": "E3377",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0076",
-        "marr_place": "",
-        "marr_sdn": 2422432,
-        "marr_year": "1920",
-        "media": [],
-        "name": "Family of Landry, Maurice T. and Estrada, Mary Claire",
-        "note": "",
-        "spou": [
-            996,
-            529
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1000,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1928-09-08",
-                "date_sdn": 2425498,
-                "descr": "Marriage of Landry, Maurice T. and Vargas, Caroline Metzger",
-                "gid": "E3378",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0077",
-        "marr_place": "",
-        "marr_sdn": 2425498,
-        "marr_year": "1928",
-        "media": [],
-        "name": "Family of Landry, Maurice T. and Vargas, Caroline Metzger",
-        "note": "",
-        "spou": [
-            996,
-            1671
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1002,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 995,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 996,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 987,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 985,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 991,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 984,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 993,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 990,
+                "index": 558,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -15642,109 +9292,15 @@ F = [
         "name": "Family of Landry, Michael Edward and Brady, CatherineJosephine",
         "note": "",
         "spou": [
-            998,
-            305
+            559,
+            185
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1003,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1004,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1968-06-08",
-                "date_sdn": 2440016,
-                "descr": "Marriage of Lane, Joseph Edward and \u041a\u043e\u0437\u043b\u043e\u0432, Linda Mae",
-                "gid": "E2754",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 510,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0113",
-        "marr_place": "Midland, MI, USA",
-        "marr_sdn": 2440016,
-        "marr_year": "1968",
-        "media": [],
-        "name": "Family of Lane, Joseph Edward and \u041a\u043e\u0437\u043b\u043e\u0432, Linda Mae",
-        "note": "",
-        "spou": [
-            1005,
-            2004
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1005,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1937-09-11",
-                "date_sdn": 2428788,
-                "descr": "Marriage of Lane, Joseph Robert and Thornton, Dorothy Eleanor",
-                "gid": "E3165",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 510,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0049",
-        "marr_place": "Midland, MI, USA",
-        "marr_sdn": 2428788,
-        "marr_year": "1937",
-        "media": [],
-        "name": "Family of Lane, Joseph Robert and Thornton, Dorothy Eleanor",
-        "note": "",
-        "spou": [
-            1006,
-            1640
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1006,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
         "cita": [],
         "events": [
             {
@@ -15756,7 +9312,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 56,
+                "place": 41,
                 "text": "",
                 "type": "Marriage"
             }
@@ -15769,17 +9325,18 @@ F = [
         "name": "Family of Lane, Remo and Barnes, Ernestina",
         "note": "",
         "spou": [
-            1007,
-            110
+            561,
+            67
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1009,
+                "index": 563,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -15809,17 +9366,18 @@ F = [
         "name": "Family of Lapointe, John and Madsen, Catherine",
         "note": "",
         "spou": [
-            1008,
-            1070
+            562,
+            592
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1011,
+                "index": 565,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -15835,16 +9393,17 @@ F = [
         "name": "Family of Lapointe, Sir Thomas",
         "note": "",
         "spou": [
-            1010
+            564
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1008,
+                "index": 562,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -15860,18 +9419,19 @@ F = [
         "name": "Family of Lapointe, William",
         "note": "",
         "spou": [
-            1011
+            565
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
             {
                 "cita": [],
-                "date": "vers 1817",
+                "date": "about 1817",
                 "date_sdn": 2384706,
                 "descr": "Marriage of Lavoie, Henry and James, Patsy",
                 "gid": "E3175",
@@ -15891,85 +9451,18 @@ F = [
         "name": "Family of Lavoie, Henry and James, Patsy",
         "note": "",
         "spou": [
-            1014,
-            884
+            567,
+            482
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1016,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1019,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1021,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1018,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1020,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Lawson, Mr. and Parent, Polly",
-                "gid": "E3190",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0512",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Lawson, Mr. and Parent, Polly",
-        "note": "",
-        "spou": [
-            1017,
-            1326
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1024,
+                "index": 570,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -15986,7 +9479,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 617,
+                "place": 414,
                 "text": "",
                 "type": "Marriage"
             }
@@ -15999,49 +9492,18 @@ F = [
         "name": "Family of Lefebvre, Joseph and Gregory, Mary",
         "note": "",
         "spou": [
-            1023,
-            756
+            569,
+            425
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1610-10-10",
-                "date_sdn": 2309383,
-                "descr": "Marriage of Lefebvre, Rev. John L. and Kowalski, Hannah",
-                "gid": "E3045",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 111,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0379",
-        "marr_place": "Burlington, Des Moines, IA, USA",
-        "marr_sdn": 2309383,
-        "marr_year": "1610",
-        "media": [],
-        "name": "Family of Lefebvre, Rev. John L. and Kowalski, Hannah",
-        "note": "",
-        "spou": [
-            1025,
-            969
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1023,
+                "index": 569,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -16057,16 +9519,35 @@ F = [
         "name": "Family of Lefebvre, Rev. John L.",
         "note": "",
         "spou": [
-            1025
+            571
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
+        "cita": [],
+        "events": [],
+        "gid": "F0379",
+        "marr_place": "",
+        "marr_sdn": 0,
+        "marr_year": "",
+        "media": [],
+        "name": "Family of Lefebvre, Rev. John L.",
+        "note": "",
+        "spou": [
+            571
+        ],
+        "type": "Married"
+    },
+    {
+        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1897,
+                "index": 1021,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -16083,7 +9564,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 226,
+                "place": 149,
                 "text": "",
                 "type": "Marriage"
             }
@@ -16096,17 +9577,18 @@ F = [
         "name": "Family of Lefebvre, Robert and \u0413\u043e\u043d\u0447\u0430\u0440\u043e\u0432, Ellen",
         "note": "",
         "spou": [
-            1026,
-            1948
+            572,
+            1046
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1036,
+                "index": 579,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -16136,13 +9618,14 @@ F = [
         "name": "Family of Lessard and Castro, ???",
         "note": "",
         "spou": [
-            1028,
-            358
+            574,
+            219
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -16168,99 +9651,50 @@ F = [
         "name": "Family of Lessard, ??? and Castro, ???",
         "note": "",
         "spou": [
-            1029,
-            358
+            575,
+            219
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1032,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1031,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1039,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
         "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1925-09-16",
-                "date_sdn": 2424410,
-                "descr": "Marriage of Lessard, Carl Tolbert and Webb, Luella Florence",
-                "gid": "E2772",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 843,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
+        "events": [],
         "gid": "F0013",
-        "marr_place": "Worthington, MN, USA",
-        "marr_sdn": 2424410,
-        "marr_year": "1925",
+        "marr_place": "",
+        "marr_sdn": 0,
+        "marr_year": "",
         "media": [],
-        "name": "Family of Lessard, Carl Tolbert and Webb, Luella Florence",
+        "name": "Family of Lessard, Carl Tolbert",
         "note": "",
         "spou": [
-            1030,
-            1849
+            576
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1030,
+                "index": 576,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1040,
+                "index": 581,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1042,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1034,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1038,
+                "index": 582,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -16277,7 +9711,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 753,
+                "place": 509,
                 "text": "",
                 "type": "Marriage"
             }
@@ -16290,31 +9724,32 @@ F = [
         "name": "Family of Lessard, Ira Willis and Jim\u00e9nez, Lucinda Ellen",
         "note": "",
         "spou": [
-            1035,
-            920
+            578,
+            515
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1035,
+                "index": 578,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1033,
+                "index": 577,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1037,
+                "index": 580,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -16331,7 +9766,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 401,
+                "place": 267,
                 "text": "",
                 "type": "Marriage"
             }
@@ -16344,13 +9779,14 @@ F = [
         "name": "Family of Lessard, Isaac and Dom\u00ednguez, Mary E.",
         "note": "",
         "spou": [
-            1036,
-            474
+            579,
+            276
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -16376,98 +9812,50 @@ F = [
         "name": "Family of Lessard, Ralph Raymond and Davidson, Bernice",
         "note": "",
         "spou": [
-            1040,
-            438
+            581,
+            250
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "avant 1988",
-                "date_sdn": 2447162,
-                "descr": "Marriage of Lessard, Robert and Webb, Joan Lorinda",
-                "gid": "E3237",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0556",
+        "events": [],
+        "gid": "F0066",
         "marr_place": "",
-        "marr_sdn": 2447162,
-        "marr_year": "1988",
+        "marr_sdn": 0,
+        "marr_year": "",
         "media": [],
-        "name": "Family of Lessard, Robert and Webb, Joan Lorinda",
+        "name": "Family of Lessard, Susanna Marie",
         "note": "",
         "spou": [
-            1041,
-            1839
+            582
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1050,
+                "index": 585,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1047,
+                "index": 586,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1051,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1044,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1049,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1048,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1043,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1045,
+                "index": 583,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -16484,7 +9872,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 753,
+                "place": 509,
                 "text": "",
                 "type": "Marriage"
             }
@@ -16497,43 +9885,15 @@ F = [
         "name": "Family of L\u00e9vesque, James W. and Lessard, Emma Jane",
         "note": "",
         "spou": [
-            1046,
-            1033
+            584,
+            577
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1054,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1053,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1055,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1052,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
         "cita": [],
         "events": [
             {
@@ -16558,45 +9918,14 @@ F = [
         "name": "Family of Lewandowski, Thomas and Jankowski, Isabella Belle",
         "note": "",
         "spou": [
-            1056,
-            894
+            587,
+            491
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Lindsey, John and Warner, Martha Ellen",
-                "gid": "E3257",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 776,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0574",
-        "marr_place": "Troy, Pike, AL, USA",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Lindsey, John and Warner, Martha Ellen",
-        "note": "",
-        "spou": [
-            1057,
-            1753
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -16622,45 +9951,14 @@ F = [
         "name": "Family of Little, O. D. and Webb, Anna Mabel",
         "note": "",
         "spou": [
-            1058,
-            1823
+            588,
+            984
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Logan, Joseph and \u0411\u044b\u043a\u043e\u0432, Janie",
-                "gid": "E3186",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0509",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Logan, Joseph and \u0411\u044b\u043a\u043e\u0432, Janie",
-        "note": "",
-        "spou": [
-            1059,
-            1939
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -16686,86 +9984,33 @@ F = [
         "name": "Family of L\u00f3pez, Hans Valentin and Beaulieu, Anna Ottilia",
         "note": "",
         "spou": [
-            1062,
-            125
+            590,
+            78
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Love and Reed, Carmel",
-                "gid": "E3287",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0600",
+        "events": [],
+        "gid": "F0450",
         "marr_place": "",
         "marr_sdn": 0,
-        "marr_year": "?",
+        "marr_year": "",
         "media": [],
-        "name": "Family of Love and Reed, Carmel",
+        "name": "Family of Mack, ??",
         "note": "",
         "spou": [
-            1065,
-            1415
+            591
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Mack, ?? and L\u00e9vesque, Elsie",
-                "gid": "E3123",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 649,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0450",
-        "marr_place": "Reno-Sparks, NV, USA",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Mack, ?? and L\u00e9vesque, Elsie",
-        "note": "",
-        "spou": [
-            1069,
-            1044
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1072,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
         "cita": [],
         "events": [],
         "gid": "F0680",
@@ -16776,30 +10021,31 @@ F = [
         "name": "Family of Maldonado, Edward",
         "note": "",
         "spou": [
-            1071
+            593
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1085,
+                "index": 602,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1078,
+                "index": 597,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1093,
+                "index": 608,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -16816,7 +10062,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 72,
+                "place": 50,
                 "text": "",
                 "type": "Marriage"
             }
@@ -16829,59 +10075,60 @@ F = [
         "name": "Family of Mar\u00edn, Alfred Franklin(Frank) and Floyd, Martha Frances \"Fannie\"",
         "note": "",
         "spou": [
-            1077,
-            576
+            596,
+            349
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1090,
+                "index": 606,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1081,
+                "index": 600,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1076,
+                "index": 595,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1089,
+                "index": 605,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1091,
+                "index": 607,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1083,
+                "index": 601,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1087,
+                "index": 604,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -16898,7 +10145,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 843,
+                "place": 571,
                 "text": "",
                 "type": "Marriage"
             }
@@ -16911,31 +10158,18 @@ F = [
         "name": "Family of Mar\u00edn, Moses Wallace and Landry, Eleanor (Nellie) Therese",
         "note": "",
         "spou": [
-            1085,
-            988
+            602,
+            556
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1084,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1079,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1082,
+                "index": 598,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -16952,7 +10186,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 843,
+                "place": 571,
                 "text": "",
                 "type": "Marriage"
             }
@@ -16965,89 +10199,36 @@ F = [
         "name": "Family of Mar\u00edn, Walter Matthew and Boucher, Mary Cecilia",
         "note": "",
         "spou": [
-            1090,
-            254
+            606,
+            166
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1581,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Mar\u00edn, William and Francis, Elizabeth",
-                "gid": "E2956",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 572,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0298",
-        "marr_place": "Ocean Pines, MD, USA",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Mar\u00edn, William and Francis, Elizabeth",
-        "note": "",
-        "spou": [
-            1092,
-            602
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Mar\u00edn, Willis H. and Floyd, Sarah (Sally)",
-                "gid": "E3384",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
+        "events": [],
         "gid": "F0082",
         "marr_place": "",
         "marr_sdn": 0,
-        "marr_year": "?",
+        "marr_year": "",
         "media": [],
-        "name": "Family of Mar\u00edn, Willis H. and Floyd, Sarah (Sally)",
+        "name": "Family of Mar\u00edn, Willis H.",
         "note": "",
         "spou": [
-            1094,
-            579
+            609
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1098,
+                "index": 613,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -17077,153 +10258,18 @@ F = [
         "name": "Family of Martel, Henry and H\u00e9bert, Ruth Ann",
         "note": "",
         "spou": [
-            1097,
-            826
+            612,
+            444
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Martin and Moreno, Mary Ann",
-                "gid": "E3367",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0673",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Martin and Moreno, Mary Ann",
-        "note": "",
-        "spou": [
-            1099,
-            1172
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1101,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Mart\u00edn and Garner, Melissa Sue",
-                "gid": "E3004",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0340",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Mart\u00edn and Garner, Melissa Sue",
-        "note": "",
-        "spou": [
-            1100,
-            667
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Martinez and Reed, Catherine",
-                "gid": "E3270",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0586",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Martinez and Reed, Catherine",
-        "note": "",
-        "spou": [
-            1102,
-            1417
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Mart\u00ednez and Serrano, Reh Dawn",
-                "gid": "E3244",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0562",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Mart\u00ednez and Serrano, Reh Dawn",
-        "note": "",
-        "spou": [
-            1103,
-            1592
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 368,
+                "index": 228,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -17253,57 +10299,18 @@ F = [
         "name": "Family of Massey, John and \u041c\u0430\u043b\u044c\u0446\u0435\u0432, Joan",
         "note": "",
         "spou": [
-            1106,
-            2025
+            616,
+            1085
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1108,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1992-09-05",
-                "date_sdn": 2448871,
-                "descr": "Marriage of Matthews, Mark John and Warner, Andrea Susan",
-                "gid": "E2920",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 200,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0265",
-        "marr_place": "Dayton, OH, USA",
-        "marr_sdn": 2448871,
-        "marr_year": "1992",
-        "media": [],
-        "name": "Family of Matthews, Mark John and Warner, Andrea Susan",
-        "note": "",
-        "spou": [
-            1107,
-            1691
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1109,
+                "index": 617,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -17333,22 +10340,15 @@ F = [
         "name": "Family of Maxwell, William and Nielsen, Elizabeth",
         "note": "",
         "spou": [
-            1110,
-            1234
+            618,
+            695
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1111,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
         "cita": [],
         "events": [
             {
@@ -17373,45 +10373,14 @@ F = [
         "name": "Family of Mazur, William and Crawford, Margaret",
         "note": "",
         "spou": [
-            1112,
-            391
+            619,
+            239
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1988-09-17",
-                "date_sdn": 2447422,
-                "descr": "Marriage of Mcbride, Paul and \u0414\u0430\u043d\u0438\u043b\u043e\u0432, Barbara Joanne",
-                "gid": "E3389",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 529,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0087",
-        "marr_place": "Morehead City, NC, USA",
-        "marr_sdn": 2447422,
-        "marr_year": "1988",
-        "media": [],
-        "name": "Family of Mcbride, Paul and \u0414\u0430\u043d\u0438\u043b\u043e\u0432, Barbara Joanne",
-        "note": "",
-        "spou": [
-            1113,
-            1953
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -17437,80 +10406,27 @@ F = [
         "name": "Family of McCarthy, Valentine Thomas and Jim\u00e9nez, Sarah",
         "note": "",
         "spou": [
-            1115,
-            929
+            620,
+            524
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
             {
                 "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of McCormick, Dean and Page, Florence",
-                "gid": "E3138",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0464",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of McCormick, Dean and Page, Florence",
-        "note": "",
-        "spou": [
-            1116,
-            1285
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1124,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1117,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1120,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "vers 1939",
+                "date": "about 1939",
                 "date_sdn": 2429265,
                 "descr": "Marriage of McCoy, Francis and Reed, Sarah",
                 "gid": "E3260",
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 449,
+                "place": 304,
                 "text": "",
                 "type": "Marriage"
             }
@@ -17523,126 +10439,27 @@ F = [
         "name": "Family of McCoy, Francis and Reed, Sarah",
         "note": "",
         "spou": [
-            1121,
-            1455
+            621,
+            795
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1119,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1118,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1123,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1246,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1122,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1969-09-09",
-                "date_sdn": 2440474,
-                "descr": "Marriage of McCoy, Thomas Michael and Howell, Mary",
-                "gid": "E3258",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 580,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0575",
-        "marr_place": "Oneonta, Otsego, NY, USA",
-        "marr_sdn": 2440474,
-        "marr_year": "1969",
-        "media": [],
-        "name": "Family of McCoy, Thomas Michael and Howell, Mary",
-        "note": "",
-        "spou": [
-            1124,
-            855
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
             {
                 "cita": [],
-                "date": "1946-11-00",
-                "date_sdn": 2432126,
-                "descr": "Marriage of Medina, Wesley G. and Guti\u00e9rrez, Joan Arlene",
-                "gid": "E3342",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0650",
-        "marr_place": "",
-        "marr_sdn": 2432126,
-        "marr_year": "1946",
-        "media": [],
-        "name": "Family of Medina, Wesley G. and Guti\u00e9rrez, Joan Arlene",
-        "note": "",
-        "spou": [
-            1126,
-            768
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "vers 1725",
+                "date": "about 1725",
                 "date_sdn": 2351104,
                 "descr": "Marriage of Mendoza, James and Allen, Abigail",
                 "gid": "E3328",
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 773,
+                "place": 522,
                 "text": "",
                 "type": "Marriage"
             }
@@ -17655,38 +10472,14 @@ F = [
         "name": "Family of Mendoza, James and Allen, Abigail",
         "note": "",
         "spou": [
-            1128,
-            20
+            624,
+            17
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1129,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [],
-        "gid": "F0685",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "",
-        "media": [],
-        "name": "Family of Meyer, P.D.",
-        "note": "",
-        "spou": [
-            1130
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -17712,17 +10505,18 @@ F = [
         "name": "Family of Michaud, Valentin and Beaulieu, Anna Eva",
         "note": "",
         "spou": [
-            1132,
-            120
+            627,
+            73
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1560,
+                "index": 858,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -17739,7 +10533,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 493,
+                "place": 330,
                 "text": "",
                 "type": "Marriage"
             }
@@ -17752,161 +10546,73 @@ F = [
         "name": "Family of Molina, Robert",
         "note": "",
         "spou": [
-            1137
+            631
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Moore, George and \u0411\u044b\u043a\u043e\u0432, Margaret",
-                "gid": "E3184",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0507",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Moore, George and \u0411\u044b\u043a\u043e\u0432, Margaret",
-        "note": "",
-        "spou": [
-            1140,
-            1940
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Moran, Andrew and Sharp, ???",
-                "gid": "E2840",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0193",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Moran, Andrew and Sharp, ???",
-        "note": "",
-        "spou": [
-            1142,
-            1593
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1143,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [],
-        "gid": "F0684",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "",
-        "media": [],
-        "name": "Family of Moran, Andrew",
-        "note": "",
-        "spou": [
-            1142
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1148,
+                "index": 639,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1179,
+                "index": 667,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1166,
+                "index": 655,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1153,
+                "index": 644,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1155,
+                "index": 646,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1173,
+                "index": 661,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1152,
+                "index": 643,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1174,
+                "index": 662,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1178,
+                "index": 666,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -17936,13 +10642,14 @@ F = [
         "name": "Family of Moreno, Aaron and \u0417\u043b\u043e\u0431\u0438\u043d, Martha",
         "note": "",
         "spou": [
-            1147,
-            1987
+            638,
+            1066
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -17968,17 +10675,18 @@ F = [
         "name": "Family of Moreno, Christian and Price, Mary",
         "note": "",
         "spou": [
-            1150,
-            1398
+            641,
+            770
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1163,
+                "index": 653,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -18008,45 +10716,46 @@ F = [
         "name": "Family of Moreno, Christian, I and Mann, Agnes",
         "note": "",
         "spou": [
-            1151,
-            1074
+            642,
+            594
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1176,
+                "index": 664,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1168,
+                "index": 657,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1160,
+                "index": 651,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1171,
+                "index": 660,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1169,
+                "index": 658,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -18076,22 +10785,15 @@ F = [
         "name": "Family of Moreno, Darius and Craig, Mary J.",
         "note": "",
         "spou": [
-            1153,
-            389
+            644,
+            238
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1172,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
         "cita": [],
         "events": [
             {
@@ -18116,42 +10818,18 @@ F = [
         "name": "Family of Moreno, Esau and Caron, Mary E.",
         "note": "",
         "spou": [
-            1159,
-            350
+            650,
+            212
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1164,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [],
-        "gid": "F0676",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "",
-        "media": [],
-        "name": "Family of Moreno, Herman",
-        "note": "",
-        "spou": [
-            1162
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1170,
+                "index": 659,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -18168,7 +10846,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 151,
+                "place": 101,
                 "text": "",
                 "type": "Marriage"
             }
@@ -18181,119 +10859,95 @@ F = [
         "name": "Family of Moreno, Johann Christian II and \u041c\u0430\u0442\u0432\u0435\u0435\u0432, Elizabeth",
         "note": "",
         "spou": [
-            1163,
-            2027
+            653,
+            1086
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1151,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [],
-        "gid": "F0677",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "",
-        "media": [],
-        "name": "Family of Moreno, Johann Henrich",
-        "note": "",
-        "spou": [
-            1164
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1147,
+                "index": 638,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1150,
+                "index": 641,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1156,
+                "index": 647,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1177,
+                "index": 665,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1165,
+                "index": 654,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1149,
+                "index": 640,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1175,
+                "index": 663,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1157,
+                "index": 648,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1167,
+                "index": 656,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1154,
+                "index": 645,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1159,
+                "index": 650,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1158,
+                "index": 649,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -18323,13 +10977,14 @@ F = [
         "name": "Family of Moreno, Maj. Christopher and Bass, Mary",
         "note": "",
         "spou": [
-            1170,
-            113
+            659,
+            70
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -18355,38 +11010,39 @@ F = [
         "name": "Family of Moreno, Solon and Perkins, Lydia",
         "note": "",
         "spou": [
-            1178,
-            1356
+            666,
+            755
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1161,
+                "index": 652,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1146,
+                "index": 637,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1144,
+                "index": 635,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1145,
+                "index": 636,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -18403,7 +11059,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 277,
+                "place": 181,
                 "text": "",
                 "type": "Marriage"
             }
@@ -18416,138 +11072,93 @@ F = [
         "name": "Family of Moreno, Thomas H. and D\u0105browski, Letitia C.",
         "note": "",
         "spou": [
-            1179,
-            435
+            667,
+            247
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [
             {
                 "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Morin and Page, Belle",
-                "gid": "E3145",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
+                "index": 672,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
             }
         ],
-        "gid": "F0470",
+        "cita": [],
+        "events": [],
+        "gid": "F0214",
         "marr_place": "",
         "marr_sdn": 0,
-        "marr_year": "?",
+        "marr_year": "",
         "media": [],
-        "name": "Family of Morin and Page, Belle",
+        "name": "Family of Morris, Adam",
         "note": "",
         "spou": [
-            1181,
-            1268
+            669
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1185,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Morris, Adam and Oliver, Elizabeth",
-                "gid": "E2864",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 454,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0214",
-        "marr_place": "Lock Haven, PA, USA",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Morris, Adam and Oliver, Elizabeth",
-        "note": "",
-        "spou": [
-            1182,
-            1247
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1186,
+                "index": 673,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1191,
+                "index": 678,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1183,
+                "index": 670,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1184,
+                "index": 671,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1190,
+                "index": 677,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1188,
+                "index": 675,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1189,
+                "index": 676,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1187,
+                "index": 674,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -18564,7 +11175,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 319,
+                "place": 206,
                 "text": "",
                 "type": "Marriage"
             }
@@ -18577,139 +11188,18 @@ F = [
         "name": "Family of Morris, Cyrus and Graves, Martha",
         "note": "",
         "spou": [
-            1185,
-            746
+            672,
+            415
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1195,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1194,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1975-06-01",
-                "date_sdn": 2442565,
-                "descr": "Marriage of Mortensen, Daniel and Warner, Sarah Jane",
-                "gid": "E3241",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 416,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0056",
-        "marr_place": "Lafayette, Tippecanoe, IN, USA",
-        "marr_sdn": 2442565,
-        "marr_year": "1975",
-        "media": [],
-        "name": "Family of Mortensen, Daniel and Warner, Sarah Jane",
-        "note": "",
-        "spou": [
-            1193,
-            1782
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1199,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1203,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1200,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1201,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1198,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1202,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Moss, Christy and Page, Matilda",
-                "gid": "E3146",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 805,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0471",
-        "marr_place": "Warner Robins, Houston, GA, USA",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Moss, Christy and Page, Matilda",
-        "note": "",
-        "spou": [
-            1197,
-            1297
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 2023,
+                "index": 1084,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -18739,50 +11229,15 @@ F = [
         "name": "Family of Mullins, Robert? and Houston, Ellender",
         "note": "",
         "spou": [
-            1204,
-            849
+            679,
+            458
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1205,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1208,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1209,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1211,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1207,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
         "cita": [],
         "events": [
             {
@@ -18794,7 +11249,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 476,
+                "place": 315,
                 "text": "",
                 "type": "Marriage"
             }
@@ -18807,17 +11262,18 @@ F = [
         "name": "Family of Munoz, Shadrach M. and Mar\u00edn, Nancy H.",
         "note": "",
         "spou": [
-            1210,
-            1086
+            680,
+            603
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1213,
+                "index": 682,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -18833,16 +11289,17 @@ F = [
         "name": "Family of Murray, Nicholas",
         "note": "",
         "spou": [
-            1212
+            681
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1215,
+                "index": 684,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -18859,7 +11316,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 727,
+                "place": 488,
                 "text": "",
                 "type": "Marriage"
             }
@@ -18872,59 +11329,60 @@ F = [
         "name": "Family of Myers, James and Boucher, Catherine",
         "note": "",
         "spou": [
-            1214,
-            225
+            683,
+            155
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1219,
+                "index": 685,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1220,
+                "index": 686,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1223,
+                "index": 688,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1225,
+                "index": 690,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1226,
+                "index": 691,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1227,
+                "index": 692,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1221,
+                "index": 687,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -18941,7 +11399,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 597,
+                "place": 399,
                 "text": "",
                 "type": "Marriage"
             }
@@ -18954,22 +11412,15 @@ F = [
         "name": "Family of Neal, James and Page, Elizabeth",
         "note": "",
         "spou": [
-            1224,
-            1281
+            689,
+            712
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1222,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
         "cita": [],
         "events": [
             {
@@ -18981,7 +11432,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 260,
+                "place": 172,
                 "text": "",
                 "type": "Marriage"
             }
@@ -18994,85 +11445,46 @@ F = [
         "name": "Family of Neal, John and Schneider, Belle Irene",
         "note": "",
         "spou": [
-            1225,
-            1579
+            690,
+            867
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1232,
+                "index": 21,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1230,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1980-01-11",
-                "date_sdn": 2444250,
-                "descr": "Marriage of Nguyen, John Harry and Walker, Sharon Lynette",
-                "gid": "E3198",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0052",
-        "marr_place": "",
-        "marr_sdn": 2444250,
-        "marr_year": "1980",
-        "media": [],
-        "name": "Family of Nguyen, John Harry and Walker, Sharon Lynette",
-        "note": "",
-        "spou": [
-            1231,
-            1678
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 24,
+                "index": 28,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 31,
+                "index": 19,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 22,
+                "index": 30,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 33,
+                "index": 23,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -19086,28 +11498,21 @@ F = [
             },
             {
                 "cita": [],
-                "index": 29,
+                "index": 697,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1239,
+                "index": 24,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 27,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 23,
+                "index": 20,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -19124,7 +11529,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 68,
+                "place": 47,
                 "text": "",
                 "type": "Marriage"
             }
@@ -19137,24 +11542,18 @@ F = [
         "name": "Family of Norris, John and Howell, Mary (Sarah)",
         "note": "",
         "spou": [
-            1240,
-            856
+            698,
+            461
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 20,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 28,
+                "index": 17,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -19168,21 +11567,28 @@ F = [
             },
             {
                 "cita": [],
-                "index": 32,
+                "index": 22,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 30,
+                "index": 29,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 21,
+                "index": 27,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 18,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -19192,14 +11598,14 @@ F = [
         "events": [
             {
                 "cita": [],
-                "date": "vers 1689",
+                "date": "about 1689",
                 "date_sdn": 2337956,
                 "descr": "Marriage of Norris, John and \u041d\u043e\u0432\u0438\u043a\u043e\u0432, Sarah",
                 "gid": "E3333",
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 773,
+                "place": 522,
                 "text": "",
                 "type": "Marriage"
             }
@@ -19212,17 +11618,18 @@ F = [
         "name": "Family of Norris, John and \u041d\u043e\u0432\u0438\u043a\u043e\u0432, Sarah",
         "note": "",
         "spou": [
-            1240,
-            2035
+            698,
+            1092
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1240,
+                "index": 698,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -19238,53 +11645,14 @@ F = [
         "name": "Family of Norris, William",
         "note": "",
         "spou": [
-            1241
+            699
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Nowak, John H. and Page, Eleanor Maude",
-                "gid": "E3207",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0528",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Nowak, John H. and Page, Eleanor Maude",
-        "note": "",
-        "spou": [
-            1244,
-            1280
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1249,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
         "cita": [],
         "events": [],
         "gid": "F0686",
@@ -19295,101 +11663,14 @@ F = [
         "name": "Family of Oliver, Hans Michael",
         "note": "",
         "spou": [
-            1248
+            700
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1250,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Oliver, Harmonas I and Malone, Mary",
-                "gid": "E2866",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0216",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Oliver, Harmonas I and Malone, Mary",
-        "note": "",
-        "spou": [
-            1249,
-            1073
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1247,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Oliver, Harmonas II and Harvey, Lydia",
-                "gid": "E2865",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 766,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0215",
-        "marr_place": "Texarkana, Miller, AR, USA",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Oliver, Harmonas II and Harvey, Lydia",
-        "note": "",
-        "spou": [
-            1250,
-            808
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 2100,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
         "cita": [],
         "events": [
             {
@@ -19414,215 +11695,32 @@ F = [
         "name": "Family of Olson, ??????? and Mar\u00edn, Alice",
         "note": "",
         "spou": [
-            1251,
-            1078
+            701,
+            597
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1068,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1067,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1255,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
         "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Ortiz, Don and Welch, Shirley",
-                "gid": "E3154",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0479",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Ortiz, Don and Welch, Shirley",
-        "note": "",
-        "spou": [
-            1253,
-            1879
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1253,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1929-07-20",
-                "date_sdn": 2425813,
-                "descr": "Marriage of Ortiz, Raymond and Page, Ferne",
-                "gid": "E3137",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
+        "events": [],
         "gid": "F0463",
         "marr_place": "",
-        "marr_sdn": 2425813,
-        "marr_year": "1929",
+        "marr_sdn": 0,
+        "marr_year": "",
         "media": [],
-        "name": "Family of Ortiz, Raymond and Page, Ferne",
+        "name": "Family of Ortiz, Raymond",
         "note": "",
         "spou": [
-            1254,
-            1284
+            703
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1262,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1260,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1258,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1959-09-13",
-                "date_sdn": 2436825,
-                "descr": "Marriage of Osborne, Dwight Billington and Lessard, Mary Alice",
-                "gid": "E2947",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 529,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0029",
-        "marr_place": "Morehead City, NC, USA",
-        "marr_sdn": 2436825,
-        "marr_year": "1959",
-        "media": [],
-        "name": "Family of Osborne, Dwight Billington and Lessard, Mary Alice",
-        "note": "",
-        "spou": [
-            1259,
-            1039
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1257,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1256,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1261,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1992-09-19",
-                "date_sdn": 2448885,
-                "descr": "Marriage of Osborne, Paul Daniel and Hawkins, Jennifer Leigh",
-                "gid": "E2918",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 82,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0263",
-        "marr_place": "Blackfoot, Bingham, ID, USA",
-        "marr_sdn": 2448885,
-        "marr_year": "1992",
-        "media": [],
-        "name": "Family of Osborne, Paul Daniel and Hawkins, Jennifer Leigh",
-        "note": "",
-        "spou": [
-            1262,
-            816
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -19648,70 +11746,18 @@ F = [
         "name": "Family of Owens, Wilford and Jankowski, Matilda",
         "note": "",
         "spou": [
-            1264,
-            897
+            705,
+            494
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1984-10-13",
-                "date_sdn": 2445987,
-                "descr": "Marriage of Padilla, Otis Earl and Page, Eleanor Irene",
-                "gid": "E2912",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 62,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0258",
-        "marr_place": "Bay City, Matagorda, TX, USA",
-        "marr_sdn": 2445987,
-        "marr_year": "1984",
-        "media": [],
-        "name": "Family of Padilla, Otis Earl and Page, Eleanor Irene",
-        "note": "",
-        "spou": [
-            1265,
-            1279
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1310,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1279,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1273,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1306,
+                "index": 710,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -19728,7 +11774,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 410,
+                "place": 276,
                 "text": "",
                 "type": "Marriage"
             }
@@ -19741,38 +11787,32 @@ F = [
         "name": "Family of Page, Andrew Vincent and Zimmerman, Edith Irene",
         "note": "",
         "spou": [
-            1266,
-            1919
+            706,
+            1032
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1270,
+                "index": 708,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1266,
+                "index": 706,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1280,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1278,
+                "index": 711,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -19789,7 +11829,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 167,
+                "place": 110,
                 "text": "",
                 "type": "Marriage"
             }
@@ -19802,216 +11842,43 @@ F = [
         "name": "Family of Page, David and Douglas, Elizabeth",
         "note": "",
         "spou": [
-            1272,
-            489
+            709,
+            289
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1274,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1300,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1309,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
         "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1976-08-09",
-                "date_sdn": 2443000,
-                "descr": "Marriage of Page, Dwayne Alan and Scott, Cheryl Lee",
-                "gid": "E2929",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 693,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0273",
-        "marr_place": "Santa Rosa-Petaluma, CA, USA",
-        "marr_sdn": 2443000,
-        "marr_year": "1976",
-        "media": [],
-        "name": "Family of Page, Dwayne Alan and Scott, Cheryl Lee",
-        "note": "",
-        "spou": [
-            1276,
-            1583
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1272,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1281,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1304,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1293,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1290,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1267,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1295,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1302,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1268,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1297,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Page, John and Kaczmarek, Isabella",
-                "gid": "E2880",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 141,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0229",
-        "marr_place": "Charleston, WV, USA",
+        "events": [],
+        "gid": "F0529",
+        "marr_place": "",
         "marr_sdn": 0,
-        "marr_year": "?",
+        "marr_year": "",
         "media": [],
-        "name": "Family of Page, John and Kaczmarek, Isabella",
+        "name": "Family of Page, Edith Mae",
         "note": "",
         "spou": [
-            1288,
-            950
+            711
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1284,
+                "index": 713,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1305,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1285,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1286,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1283,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1299,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1303,
+                "index": 719,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -20028,7 +11895,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 597,
+                "place": 399,
                 "text": "",
                 "type": "Marriage"
             }
@@ -20041,43 +11908,15 @@ F = [
         "name": "Family of Page, John James and Adkins, Minnie",
         "note": "",
         "spou": [
-            1290,
-            15
+            714,
+            12
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1298,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1282,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1287,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1277,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
         "cita": [],
         "events": [
             {
@@ -20102,100 +11941,14 @@ F = [
         "name": "Family of Page, John James and Mcdaniel, Margaret",
         "note": "",
         "spou": [
-            1290,
-            1125
+            714,
+            623
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1269,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1978-04-08",
-                "date_sdn": 2443607,
-                "descr": "Marriage of Page, Kenneth Fritz and Pittman, June Christine",
-                "gid": "E3223",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 87,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0542",
-        "marr_place": "Blytheville, Mississippi, AR, USA",
-        "marr_sdn": 2443607,
-        "marr_year": "1978",
-        "media": [],
-        "name": "Family of Page, Kenneth Fritz and Pittman, June Christine",
-        "note": "",
-        "spou": [
-            1291,
-            1375
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1275,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1271,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Page, Marvin Ray and Morton, Gail Darlene",
-                "gid": "E2931",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 544,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0275",
-        "marr_place": "Muscatine, Muscatine, IA, USA",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Page, Marvin Ray and Morton, Gail Darlene",
-        "note": "",
-        "spou": [
-            1294,
-            1196
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -20221,22 +11974,15 @@ F = [
         "name": "Family of Page, Mr. and James, Martha",
         "note": "",
         "spou": [
-            1301,
-            880
+            717,
+            478
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1291,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
         "cita": [],
         "events": [
             {
@@ -20261,36 +12007,15 @@ F = [
         "name": "Family of Page, Richard C. and Rodriguez, Helen M.",
         "note": "",
         "spou": [
-            1303,
-            1516
+            719,
+            825
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1292,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1296,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1289,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
         "cita": [],
         "events": [
             {
@@ -20302,7 +12027,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 583,
+                "place": 390,
                 "text": "",
                 "type": "Marriage"
             }
@@ -20315,71 +12040,18 @@ F = [
         "name": "Family of Page, Robert and Neal, Belle",
         "note": "",
         "spou": [
-            1304,
-            1220
+            720,
+            686
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1276,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1308,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1294,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1936-12-16",
-                "date_sdn": 2428519,
-                "descr": "Marriage of Page, Vernett Gail and Norman, Dorothy Louise",
-                "gid": "E2928",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 391,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0272",
-        "marr_place": "Kansas City, MO, USA",
-        "marr_sdn": 2428519,
-        "marr_year": "1936",
-        "media": [],
-        "name": "Family of Page, Vernett Gail and Norman, Dorothy Louise",
-        "note": "",
-        "spou": [
-            1310,
-            1238
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1314,
+                "index": 725,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -20409,59 +12081,53 @@ F = [
         "name": "Family of Palmer, Robert and \u041f\u043e\u043f\u043e\u0432, ???????",
         "note": "",
         "spou": [
-            1312,
-            2043
+            723,
+            1096
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1317,
+                "index": 732,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1323,
+                "index": 733,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1324,
+                "index": 730,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1321,
+                "index": 728,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1318,
+                "index": 729,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1320,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1325,
+                "index": 734,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -20478,7 +12144,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 199,
+                "place": 130,
                 "text": "",
                 "type": "Marriage"
             }
@@ -20491,17 +12157,18 @@ F = [
         "name": "Family of Parent, Capt.Jacob C. and James, Jane",
         "note": "",
         "spou": [
-            1316,
-            875
+            727,
+            473
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1316,
+                "index": 727,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -20517,28 +12184,14 @@ F = [
         "name": "Family of Parent, John Sr.",
         "note": "",
         "spou": [
-            1322
+            731
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1326,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1319,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
         "cita": [],
         "events": [
             {
@@ -20563,17 +12216,18 @@ F = [
         "name": "Family of Parent, Montgomery and Alvarado, Patsy",
         "note": "",
         "spou": [
-            1323,
-            58
+            732,
+            39
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1328,
+                "index": 736,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -20589,12 +12243,13 @@ F = [
         "name": "Family of Park, James",
         "note": "",
         "spou": [
-            1327
+            735
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -20607,7 +12262,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 138,
+                "place": 92,
                 "text": "",
                 "type": "Marriage"
             }
@@ -20620,45 +12275,14 @@ F = [
         "name": "Family of Parker, Frank R. and Garner, Anetta",
         "note": "",
         "spou": [
-            1329,
-            623
+            737,
+            376
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1987-11-28",
-                "date_sdn": 2447128,
-                "descr": "Marriage of Parks, Cliff and Gill, Lorie Ann",
-                "gid": "E3236",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 726,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0555",
-        "marr_place": "Southern Pines, NC, USA",
-        "marr_sdn": 2447128,
-        "marr_year": "1987",
-        "media": [],
-        "name": "Family of Parks, Cliff and Gill, Lorie Ann",
-        "note": "",
-        "spou": [
-            1330,
-            722
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -20684,53 +12308,14 @@ F = [
         "name": "Family of Parsons, Henry and Douglas, Ellen",
         "note": "",
         "spou": [
-            1331,
-            491
+            738,
+            291
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1333,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Patrick, Melvin and Todd, Lucille",
-                "gid": "E2852",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0203",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Patrick, Melvin and Todd, Lucille",
-        "note": "",
-        "spou": [
-            1332,
-            1660
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -20756,13 +12341,14 @@ F = [
         "name": "Family of Patterson, George and Farmer, Elizabeth",
         "note": "",
         "spou": [
-            1334,
-            542
+            739,
+            322
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -20788,13 +12374,14 @@ F = [
         "name": "Family of Patton, Adolph and Moreno, Lelia L.",
         "note": "",
         "spou": [
-            1335,
-            1168
+            740,
+            657
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -20820,13 +12407,14 @@ F = [
         "name": "Family of Payne, Alexander and Kami\u0144ski, Elizabeth",
         "note": "",
         "spou": [
-            1336,
-            952
+            741,
+            535
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -20839,7 +12427,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 328,
+                "place": 214,
                 "text": "",
                 "type": "Marriage"
             }
@@ -20852,13 +12440,14 @@ F = [
         "name": "Family of Payne, Alexander and Salazar, Catherine",
         "note": "",
         "spou": [
-            1336,
-            1558
+            741,
+            857
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -20884,80 +12473,81 @@ F = [
         "name": "Family of Payne, Fielding and Lawrence, Dorcas C.",
         "note": "",
         "spou": [
-            1338,
-            1015
+            742,
+            568
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1342,
+                "index": 746,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1339,
+                "index": 743,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1338,
+                "index": 742,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1349,
+                "index": 753,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1347,
+                "index": 751,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1345,
+                "index": 749,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1346,
+                "index": 750,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1341,
+                "index": 745,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1348,
+                "index": 752,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1336,
+                "index": 741,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -20974,7 +12564,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 201,
+                "place": 131,
                 "text": "",
                 "type": "Marriage"
             }
@@ -20987,17 +12577,18 @@ F = [
         "name": "Family of Payne, George and Diaz, Frances",
         "note": "",
         "spou": [
-            1340,
-            458
+            744,
+            263
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1344,
+                "index": 748,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -21027,53 +12618,40 @@ F = [
         "name": "Family of Payne, Leonard and Hall, Elizabeth",
         "note": "",
         "spou": [
-            1343,
-            778
+            747,
+            436
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1340,
+                "index": 744,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             }
         ],
         "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "46",
-                "date_sdn": 1737862,
-                "descr": "Marriage of Payne, Leonard? and Brooks, Elizabeth&#8220;Betty&#8221;",
-                "gid": "E2963",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 299,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
+        "events": [],
         "gid": "F0303",
-        "marr_place": "Georgetown, SC, USA",
-        "marr_sdn": 1737862,
-        "marr_year": "46",
+        "marr_place": "",
+        "marr_sdn": 0,
+        "marr_year": "",
         "media": [],
-        "name": "Family of Payne, Leonard? and Brooks, Elizabeth\"Betty\"",
+        "name": "Family of Payne, Leonard?",
         "note": "",
         "spou": [
-            1344,
-            316
+            748
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -21099,53 +12677,14 @@ F = [
         "name": "Family of Pedersen, William and Benson, Elizabeth",
         "note": "",
         "spou": [
-            1351,
-            155
+            754,
+            98
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1353,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Pelletier, Esiquio and Leclerc, Sesaria",
-                "gid": "E3304",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0616",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Pelletier, Esiquio and Leclerc, Sesaria",
-        "note": "",
-        "spou": [
-            1352,
-            1022
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -21171,64 +12710,36 @@ F = [
         "name": "Family of Perry, M. and Reeves, Elizabeth",
         "note": "",
         "spou": [
-            1358,
-            1467
+            756,
+            800
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1359,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1360,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
         "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1919-08-14",
-                "date_sdn": 2422185,
-                "descr": "Marriage of Peters, Frank O. and Cross, Alta M.",
-                "gid": "E3142",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 99,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
+        "events": [],
         "gid": "F0468",
-        "marr_place": "Brenham, Washington, TX, USA",
-        "marr_sdn": 2422185,
-        "marr_year": "1919",
+        "marr_place": "",
+        "marr_sdn": 0,
+        "marr_year": "",
         "media": [],
-        "name": "Family of Peters, Frank O. and Cross, Alta M.",
+        "name": "Family of Peters, Frank O.",
         "note": "",
         "spou": [
-            1362,
-            392
+            757
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1366,
+                "index": 760,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -21245,7 +12756,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 349,
+                "place": 229,
                 "text": "",
                 "type": "Marriage"
             }
@@ -21258,17 +12769,18 @@ F = [
         "name": "Family of Peters, George Sr. and Ramsey, Joan",
         "note": "",
         "spou": [
-            1363,
-            1406
+            758,
+            776
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1363,
+                "index": 758,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -21284,88 +12796,17 @@ F = [
         "name": "Family of Peters, John",
         "note": "",
         "spou": [
-            1364
+            759
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1361,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1974-03-30",
-                "date_sdn": 2442137,
-                "descr": "Marriage of Peters, John C. and Cruz, Joyce Marie",
-                "gid": "E3402",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0099",
-        "marr_place": "",
-        "marr_sdn": 2442137,
-        "marr_year": "1974",
-        "media": [],
-        "name": "Family of Peters, John C. and Cruz, Joyce Marie",
-        "note": "",
-        "spou": [
-            1365,
-            415
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1803-02-19",
-                "date_sdn": 2379641,
-                "descr": "Marriage of Petersen, William and \u0414\u043c\u0438\u0442\u0440\u0438\u0435\u0432, Margaret Jane",
-                "gid": "E3301",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 747,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0613",
-        "marr_place": "Steubenville, OH, USA",
-        "marr_sdn": 2379641,
-        "marr_year": "1803",
-        "media": [],
-        "name": "Family of Petersen, William and \u0414\u043c\u0438\u0442\u0440\u0438\u0435\u0432, Margaret Jane",
-        "note": "",
-        "spou": [
-            1367,
-            1969
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1371,
+                "index": 762,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -21395,108 +12836,15 @@ F = [
         "name": "Family of Piotrowski, John and Todd, Olive",
         "note": "",
         "spou": [
-            1370,
-            1661
+            761,
+            916
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1374,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [],
-        "gid": "F0687",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "",
-        "media": [],
-        "name": "Family of Piotrowski, Sir John",
-        "note": "",
-        "spou": [
-            1373
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1377,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1378,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Poirier, James A. and Walker, Sharon Lynette",
-                "gid": "E3187",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0051",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Poirier, James A. and Walker, Sharon Lynette",
-        "note": "",
-        "spou": [
-            1376,
-            1678
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1380,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1381,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1382,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
         "cita": [],
         "events": [
             {
@@ -21521,13 +12869,14 @@ F = [
         "name": "Family of Poole, Dr. John and James, Jane",
         "note": "",
         "spou": [
-            1379,
-            875
+            764,
+            473
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -21553,43 +12902,15 @@ F = [
         "name": "Family of Pope, John and Kristensen, Mary Elizabeth",
         "note": "",
         "spou": [
-            1383,
-            978
+            765,
+            553
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1387,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1388,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1385,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1384,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
         "cita": [],
         "events": [
             {
@@ -21614,116 +12935,33 @@ F = [
         "name": "Family of Porter, David and Moreno, Mary H.",
         "note": "",
         "spou": [
-            1386,
-            1173
+            766,
+            661
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1389,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
         "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Poulin and Reed, Rose",
-                "gid": "E3271",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
+        "events": [],
         "gid": "F0587",
         "marr_place": "",
         "marr_sdn": 0,
-        "marr_year": "?",
+        "marr_year": "",
         "media": [],
-        "name": "Family of Poulin and Reed, Rose",
+        "name": "Family of Poulin",
         "note": "",
         "spou": [
-            1390,
-            1454
+            767
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1391,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1393,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1392,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1984-06-09",
-                "date_sdn": 2445861,
-                "descr": "Marriage of Poulsen, Randall Lee and Welch, Lisa Dawn",
-                "gid": "E2742",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0102",
-        "marr_place": "",
-        "marr_sdn": 2445861,
-        "marr_year": "1984",
-        "media": [],
-        "name": "Family of Poulsen, Randall Lee and Welch, Lisa Dawn",
-        "note": "",
-        "spou": [
-            1394,
-            1873
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1401,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
         "cita": [],
         "events": [
             {
@@ -21748,13 +12986,14 @@ F = [
         "name": "Family of Quinn, Abraham and Blanco, Malvina",
         "note": "",
         "spou": [
-            1399,
-            206
+            771,
+            140
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -21767,7 +13006,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 600,
+                "place": 401,
                 "text": "",
                 "type": "Marriage"
             }
@@ -21780,17 +13019,18 @@ F = [
         "name": "Family of Ram\u00edrez, John B. and Garner, Rebecca Catharine",
         "note": "",
         "spou": [
-            1403,
-            675
+            773,
+            394
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1405,
+                "index": 775,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -21806,21 +13046,14 @@ F = [
         "name": "Family of Ramos, John",
         "note": "",
         "spou": [
-            1404
+            774
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1456,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
         "cita": [],
         "events": [
             {
@@ -21832,7 +13065,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 316,
+                "place": 203,
                 "text": "",
                 "type": "Marriage"
             }
@@ -21845,52 +13078,14 @@ F = [
         "name": "Family of Reed, Edward and Reed, Ellen",
         "note": "",
         "spou": [
-            1419,
-            1421
+            779,
+            780
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1427,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1459,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1443,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [],
-        "gid": "F0735",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "",
-        "media": [],
-        "name": "Family of Reed, Edward",
-        "note": "",
-        "spou": [
-            1420
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -21916,66 +13111,53 @@ F = [
         "name": "Family of Reed, Francis Vincent and \u041a\u0430\u0437\u0430\u043d\u0446\u0435\u0432, Katherine",
         "note": "",
         "spou": [
-            1423,
-            1996
+            781,
+            1071
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1422,
+                "index": 553,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 978,
+                "index": 555,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 980,
+                "index": 550,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 975,
+                "index": 551,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 976,
+                "index": 554,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 979,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 977,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 974,
+                "index": 552,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -21992,7 +13174,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 586,
+                "place": 392,
                 "text": "",
                 "type": "Marriage"
             }
@@ -22005,13 +13187,32 @@ F = [
         "name": "Family of Reed, Francis Vincent and \u0422\u0438\u0445\u043e\u043d\u043e\u0432, Catherine Virginia",
         "note": "",
         "spou": [
-            1423,
-            2064
+            781,
+            1108
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
+        "cita": [],
+        "events": [],
+        "gid": "F0590",
+        "marr_place": "",
+        "marr_sdn": 0,
+        "marr_year": "",
+        "media": [],
+        "name": "Family of Reed, Jane",
+        "note": "",
+        "spou": [
+            784
+        ],
+        "type": "Married"
+    },
+    {
+        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -22037,169 +13238,100 @@ F = [
         "name": "Family of Reed, John and Bernier, Margaret",
         "note": "",
         "spou": [
-            1432,
-            178
+            786,
+            117
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1423,
+                "index": 781,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1425,
+                "index": 782,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1432,
+                "index": 786,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1413,
+                "index": 777,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1435,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1419,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1416,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1448,
+                "index": 779,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             }
         ],
         "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1835-02-10",
-                "date_sdn": 2391320,
-                "descr": "Marriage of Reed, John and Goodwin, Sarah",
-                "gid": "E2854",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 565,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
+        "events": [],
         "gid": "F0205",
-        "marr_place": "North Platte, NE, USA",
-        "marr_sdn": 2391320,
-        "marr_year": "1835",
+        "marr_place": "",
+        "marr_sdn": 0,
+        "marr_year": "",
         "media": [],
-        "name": "Family of Reed, John and Goodwin, Sarah",
+        "name": "Family of Reed, John",
         "note": "",
         "spou": [
-            1431,
-            736
+            785
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1455,
+                "index": 795,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1442,
+                "index": 788,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1452,
+                "index": 793,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1449,
+                "index": 791,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1409,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1417,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1454,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1411,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1437,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1428,
+                "index": 784,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -22229,90 +13361,15 @@ F = [
         "name": "Family of Reed, Matthew and Gibbs, Mary",
         "note": "",
         "spou": [
-            1438,
-            710
+            787,
+            403
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1461,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Reed, Michael and Gibbs, Mary",
-                "gid": "E3284",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0599",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Reed, Michael and Gibbs, Mary",
-        "note": "",
-        "spou": [
-            1440,
-            709
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1429,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1426,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1444,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1434,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1441,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
         "cita": [],
         "events": [
             {
@@ -22337,22 +13394,15 @@ F = [
         "name": "Family of Reed, Michael and Goodwin, Alice",
         "note": "",
         "spou": [
-            1443,
-            735
+            789,
+            414
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1445,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
         "cita": [],
         "events": [],
         "gid": "F0734",
@@ -22363,12 +13413,13 @@ F = [
         "name": "Family of Reed, Owen",
         "note": "",
         "spou": [
-            1447
+            790
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -22394,50 +13445,15 @@ F = [
         "name": "Family of Reed, Patrick and Gibbs, Elizabeth",
         "note": "",
         "spou": [
-            1449,
-            702
+            791,
+            400
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1458,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1430,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1450,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1414,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1446,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
         "cita": [],
         "events": [
             {
@@ -22462,52 +13478,25 @@ F = [
         "name": "Family of Reed, Peter and \u041a\u0443\u0437\u043d\u0435\u0446\u043e\u0432, Hanora",
         "note": "",
         "spou": [
-            1452,
-            2008
+            793,
+            1075
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1447,
+                "index": 790,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1412,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1457,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1451,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1436,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1408,
+                "index": 792,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -22537,117 +13526,18 @@ F = [
         "name": "Family of Reed, Peter James? and Reed, Catherine",
         "note": "",
         "spou": [
-            1453,
-            1418
+            794,
+            778
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1424,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Reed, Terrence and Gibbs, Maria",
-                "gid": "E3268",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0584",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Reed, Terrence and Gibbs, Maria",
-        "note": "",
-        "spou": [
-            1458,
-            708
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Reed, Terrence (TyNed) and Gibbs, Jennie",
-                "gid": "E3283",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0598",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Reed, Terrence (TyNed) and Gibbs, Jennie",
-        "note": "",
-        "spou": [
-            1459,
-            703
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1415,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1439,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1433,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1460,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1410,
+                "index": 63,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -22655,38 +13545,39 @@ F = [
         ],
         "cita": [],
         "events": [],
-        "gid": "F0737",
+        "gid": "F0355",
         "marr_place": "",
         "marr_sdn": 0,
         "marr_year": "",
         "media": [],
-        "name": "Family of Reed, Thomas",
+        "name": "Family of Reese",
         "note": "",
         "spou": [
-            1461
+            796
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1476,
+                "index": 806,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1480,
+                "index": 809,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1472,
+                "index": 803,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -22703,7 +13594,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 730,
+                "place": 491,
                 "text": "",
                 "type": "Marriage"
             }
@@ -22716,13 +13607,14 @@ F = [
         "name": "Family of Reeves, James and Meyer, Catherine",
         "note": "",
         "spou": [
-            1470,
-            1129
+            802,
+            625
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -22748,106 +13640,18 @@ F = [
         "name": "Family of Reeves, John and Flowers, Mary A.",
         "note": "",
         "spou": [
-            1472,
-            569
+            803,
+            344
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1470,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1474,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1478,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1481,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1467,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1464,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1463,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1465,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Reeves, John and McCarthy, Mary",
-                "gid": "E2811",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 461,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0166",
-        "marr_place": "Loveland, Larimer, CO, USA",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Reeves, John and McCarthy, Mary",
-        "note": "",
-        "spou": [
-            1473,
-            1114
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 588,
+                "index": 356,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -22877,134 +13681,67 @@ F = [
         "name": "Family of Reid, Hans and \u0421\u0435\u043c\u0435\u043d\u043e\u0432, Cathern",
         "note": "",
         "spou": [
-            1483,
-            2046
+            812,
+            1098
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [
             {
                 "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Reyes and Armstrong, Sarah",
-                "gid": "E3149",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
+                "index": 817,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
             }
         ],
-        "gid": "F0474",
+        "cita": [],
+        "events": [],
+        "gid": "F0388",
         "marr_place": "",
         "marr_sdn": 0,
-        "marr_year": "?",
+        "marr_year": "",
         "media": [],
-        "name": "Family of Reyes and Armstrong, Sarah",
+        "name": "Family of Reynolds, Col. John",
         "note": "",
         "spou": [
-            1484,
-            78
+            813
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1491,
+                "index": 819,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             }
         ],
         "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1663",
-                "date_sdn": 2328459,
-                "descr": "Marriage of Reynolds, Col. John and Mazur, Elizabeth",
-                "gid": "E3055",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 321,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0388",
-        "marr_place": "Greenville, SC, USA",
-        "marr_sdn": 2328459,
-        "marr_year": "1663",
-        "media": [],
-        "name": "Family of Reynolds, Col. John and Mazur, Elizabeth",
-        "note": "",
-        "spou": [
-            1485,
-            1111
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1493,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Reynolds, David and Vaughn, Mary Meriwether",
-                "gid": "E3053",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
+        "events": [],
         "gid": "F0386",
         "marr_place": "",
         "marr_sdn": 0,
-        "marr_year": "?",
+        "marr_year": "",
         "media": [],
-        "name": "Family of Reynolds, David and Vaughn, Mary Meriwether",
+        "name": "Family of Reynolds, David",
         "note": "",
         "spou": [
-            1486,
-            1672
+            814
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1490,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
         "cita": [],
         "events": [
             {
@@ -23029,22 +13766,15 @@ F = [
         "name": "Family of Reynolds, John and Newman, Margaret",
         "note": "",
         "spou": [
-            1487,
-            1229
+            815,
+            693
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1488,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
         "cita": [],
         "events": [
             {
@@ -23069,57 +13799,18 @@ F = [
         "name": "Family of Reynolds, John and Stevens, Elizabeth",
         "note": "",
         "spou": [
-            1489,
-            1609
+            816,
+            885
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1485,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1623-04-10",
-                "date_sdn": 2313948,
-                "descr": "Marriage of Reynolds, John and \u041a\u043e\u0432\u0430\u043b\u0435\u0432, Sarah",
-                "gid": "E3058",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0390",
-        "marr_place": "",
-        "marr_sdn": 2313948,
-        "marr_year": "1623",
-        "media": [],
-        "name": "Family of Reynolds, John and \u041a\u043e\u0432\u0430\u043b\u0435\u0432, Sarah",
-        "note": "",
-        "spou": [
-            1488,
-            2003
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1486,
+                "index": 814,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -23149,24 +13840,25 @@ F = [
         "name": "Family of Reynolds, Nicholas and Murray, Susannah",
         "note": "",
         "spou": [
-            1491,
-            1213
+            817,
+            682
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1487,
+                "index": 815,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1492,
+                "index": 818,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -23182,287 +13874,155 @@ F = [
         "name": "Family of Reynolds, William",
         "note": "",
         "spou": [
-            1493
+            819
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1497,
+                "index": 108,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1495,
+                "index": 94,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1496,
+                "index": 115,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1494,
+                "index": 99,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 113,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 109,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 98,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 111,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             }
         ],
         "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Rhodes, William Sr. and Kristensen, Anna June",
-                "gid": "E2795",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0151",
+        "events": [],
+        "gid": "F0212",
         "marr_place": "",
         "marr_sdn": 0,
-        "marr_year": "?",
+        "marr_year": "",
         "media": [],
-        "name": "Family of Rhodes, William Sr. and Kristensen, Anna June",
+        "name": "Family of Richard, Jeanne",
         "note": "",
         "spou": [
-            1498,
-            974
+            821
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1834-06-08",
-                "date_sdn": 2391073,
-                "descr": "Marriage of Riley, Thomas and Edwards, Lucy",
-                "gid": "E3029",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 838,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0363",
-        "marr_place": "Winston-Salem, NC, USA",
-        "marr_sdn": 2391073,
-        "marr_year": "1834",
-        "media": [],
-        "name": "Family of Riley, Thomas and Edwards, Lucy",
-        "note": "",
-        "spou": [
-            1502,
-            525
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1511,
+                "index": 834,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1510,
+                "index": 843,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1507,
+                "index": 838,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1509,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1907-11-16",
-                "date_sdn": 2417896,
-                "descr": "Marriage of Robinson, Clarence and Garner, Bertha P.",
-                "gid": "E2834",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 169,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0188",
-        "marr_place": "Columbus, Bartholomew, IN, USA",
-        "marr_sdn": 2417896,
-        "marr_year": "1907",
-        "media": [],
-        "name": "Family of Robinson, Clarence and Garner, Bertha P.",
-        "note": "",
-        "spou": [
-            1508,
-            630
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1514,
+                "index": 841,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1512,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Rodgers, John and Garrett, Doris Mae",
-                "gid": "E2888",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 586,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0236",
-        "marr_place": "Ottawa, La Salle, IL, USA",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Rodgers, John and Garrett, Doris Mae",
-        "note": "",
-        "spou": [
-            1513,
-            688
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1539,
+                "index": 829,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1525,
+                "index": 832,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1534,
+                "index": 844,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1529,
+                "index": 835,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1532,
+                "index": 845,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1520,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1523,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1535,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1526,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1536,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1521,
+                "index": 830,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -23478,44 +14038,31 @@ F = [
         "name": "Family of Rodriquez",
         "note": "",
         "spou": [
-            1517
+            826
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1789-10-27",
-                "date_sdn": 2374779,
-                "descr": "Marriage of Rodriquez, John and \u041f\u043e\u043b\u044f\u043a\u043e\u0432, Eve",
-                "gid": "E3238",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 535,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
+        "events": [],
         "gid": "F0557",
-        "marr_place": "Moultrie, Colquitt, GA, USA",
-        "marr_sdn": 2374779,
-        "marr_year": "1789",
+        "marr_place": "",
+        "marr_sdn": 0,
+        "marr_year": "",
         "media": [],
-        "name": "Family of Rodriquez, John and \u041f\u043e\u043b\u044f\u043a\u043e\u0432, Eve",
+        "name": "Family of Rodriquez, John",
         "note": "",
         "spou": [
-            1525,
-            2041
+            834
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -23528,7 +14075,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 50,
+                "place": 37,
                 "text": "",
                 "type": "Marriage"
             }
@@ -23541,13 +14088,14 @@ F = [
         "name": "Family of Rodriquez, Mordica and \u0412\u043e\u0440\u043e\u043d\u043e\u0432, Katherine",
         "note": "",
         "spou": [
-            1532,
-            1946
+            841,
+            1045
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -23573,13 +14121,14 @@ F = [
         "name": "Family of Rodriquez, Mordica and \u041a\u0430\u0437\u0430\u043a\u043e\u0432, Jane",
         "note": "",
         "spou": [
-            1532,
-            1995
+            841,
+            1070
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -23592,7 +14141,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 362,
+                "place": 239,
                 "text": "",
                 "type": "Marriage"
             }
@@ -23605,123 +14154,32 @@ F = [
         "name": "Family of Rodriquez, Richard and \u0416\u0443\u043a\u043e\u0432, Hannah",
         "note": "",
         "spou": [
-            1535,
-            1980
+            844,
+            1062
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1528,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1537,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1524,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1518,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1522,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1538,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1519,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1533,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1530,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1527,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1531,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
         "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1804-08-00",
-                "date_sdn": 2380170,
-                "descr": "Marriage of Rodriquez, William M. and Douglas, Mary&#8220;Polly&#8221;",
-                "gid": "E2943",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 473,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0286",
-        "marr_place": "Manhattan, Riley, KS, USA",
-        "marr_sdn": 2380170,
-        "marr_year": "1804",
+        "events": [],
+        "gid": "F0489",
+        "marr_place": "",
+        "marr_sdn": 0,
+        "marr_year": "",
         "media": [],
-        "name": "Family of Rodriquez, William M. and Douglas, Mary\"Polly\"",
+        "name": "Family of Rogers, Barbara",
         "note": "",
         "spou": [
-            1539,
-            508
+            848
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -23747,22 +14205,15 @@ F = [
         "name": "Family of Romero, Ernest and Jankowski, Minnie",
         "note": "",
         "spou": [
-            1541,
-            898
+            849,
+            495
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1217,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
         "cita": [],
         "events": [
             {
@@ -23774,7 +14225,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 201,
+                "place": 131,
                 "text": "",
                 "type": "Marriage"
             }
@@ -23787,17 +14238,18 @@ F = [
         "name": "Family of Roy, Prince Alfred and Mar\u00edn, Frances Coppage",
         "note": "",
         "spou": [
-            1544,
-            1080
+            851,
+            599
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1547,
+                "index": 853,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -23813,204 +14265,43 @@ F = [
         "name": "Family of Rubio, John III",
         "note": "",
         "spou": [
-            1546
+            852
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1554,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1551,
+                "index": 123,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             }
         ],
         "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1985-06-22",
-                "date_sdn": 2446239,
-                "descr": "Marriage of Russell, Bruce Lynn and Henderson, Cathy Sue",
-                "gid": "E2821",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 395,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0176",
-        "marr_place": "Kendallville, Noble, IN, USA",
-        "marr_sdn": 2446239,
-        "marr_year": "1985",
+        "events": [],
+        "gid": "F0103",
+        "marr_place": "",
+        "marr_sdn": 0,
+        "marr_year": "",
         "media": [],
-        "name": "Family of Russell, Bruce Lynn and Henderson, Cathy Sue",
+        "name": "Family of Ruiz, Catherine",
         "note": "",
         "spou": [
-            1550,
-            827
+            854
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1549,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1550,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1963-07-21",
-                "date_sdn": 2438232,
-                "descr": "Marriage of Russell, Melvin Glen and Manning, Judith Ann",
-                "gid": "E2802",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 566,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0158",
-        "marr_place": "North Vernon, Jennings, IN, USA",
-        "marr_sdn": 2438232,
-        "marr_year": "1963",
-        "media": [],
-        "name": "Family of Russell, Melvin Glen and Manning, Judith Ann",
-        "note": "",
-        "spou": [
-            1553,
-            1075
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1553,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1552,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1928-01-21",
-                "date_sdn": 2425267,
-                "descr": "Marriage of Russell, Norman and Lessard, Helen Belle",
-                "gid": "E3069",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 586,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0040",
-        "marr_place": "Ottawa, La Salle, IL, USA",
-        "marr_sdn": 2425267,
-        "marr_year": "1928",
-        "media": [],
-        "name": "Family of Russell, Norman and Lessard, Helen Belle",
-        "note": "",
-        "spou": [
-            1555,
-            1034
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1562,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1561,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1977-07-31",
-                "date_sdn": 2443356,
-                "descr": "Marriage of S\u00e1nchez, David Andrew and Welch, Rosalie Jane",
-                "gid": "E2917",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 15,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0262",
-        "marr_place": "Alexandria, MN, USA",
-        "marr_sdn": 2443356,
-        "marr_year": "1977",
-        "media": [],
-        "name": "Family of S\u00e1nchez, David Andrew and Welch, Rosalie Jane",
-        "note": "",
-        "spou": [
-            1559,
-            1877
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1026,
+                "index": 572,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -24027,7 +14318,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 208,
+                "place": 137,
                 "text": "",
                 "type": "Marriage"
             }
@@ -24040,17 +14331,18 @@ F = [
         "name": "Family of Sanchez, John and Curtis, Margaret",
         "note": "",
         "spou": [
-            1560,
-            434
+            858,
+            246
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1564,
+                "index": 860,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -24080,99 +14372,14 @@ F = [
         "name": "Family of Sanders, Henry and Rose, Ann",
         "note": "",
         "spou": [
-            1563,
-            1542
+            859,
+            850
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1569,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [],
-        "gid": "F0736",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "",
-        "media": [],
-        "name": "Family of Sandoval, John Joe",
-        "note": "",
-        "spou": [
-            1566
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1568,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1570,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1566,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1565,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Sandoval, Johnnie and Reed, Minnie",
-                "gid": "E3280",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0595",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Sandoval, Johnnie and Reed, Minnie",
-        "note": "",
-        "spou": [
-            1567,
-            1444
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -24185,7 +14392,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 583,
+                "place": 390,
                 "text": "",
                 "type": "Marriage"
             }
@@ -24198,77 +14405,94 @@ F = [
         "name": "Family of Santiago, Mathias and James, Molly",
         "note": "",
         "spou": [
-            1571,
-            882
+            861,
+            480
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [
             {
                 "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Sanz, John and Jankowski, Sarah",
-                "gid": "E3129",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 776,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0456",
-        "marr_place": "Troy, Pike, AL, USA",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Sanz, John and Jankowski, Sarah",
-        "note": "",
-        "spou": [
-            1573,
-            900
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
+                "index": 216,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
             {
                 "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Savard, Walter and Russell, Janet Gail",
-                "gid": "E2806",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
+                "index": 1073,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
             }
         ],
-        "gid": "F0161",
+        "cita": [],
+        "events": [],
+        "gid": "F0226",
         "marr_place": "",
         "marr_sdn": 0,
-        "marr_year": "?",
+        "marr_year": "",
         "media": [],
-        "name": "Family of Savard, Walter and Russell, Janet Gail",
+        "name": "Family of Saunders, Ursula",
         "note": "",
         "spou": [
-            1576,
-            1552
+            863
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [
+            {
+                "cita": [],
+                "index": 177,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 158,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 165,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            },
+            {
+                "cita": [],
+                "index": 170,
+                "note": "",
+                "to_father": "Birth",
+                "to_mother": "Birth"
+            }
+        ],
+        "cita": [],
+        "events": [],
+        "gid": "F0249",
+        "marr_place": "",
+        "marr_sdn": 0,
+        "marr_year": "",
+        "media": [],
+        "name": "Family of Savard, Honora",
+        "note": "",
+        "spou": [
+            864
+        ],
+        "type": "Married"
+    },
+    {
+        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -24294,38 +14518,39 @@ F = [
         "name": "Family of Schneider and Neal, Margaret",
         "note": "",
         "spou": [
-            1578,
-            1226
+            866,
+            691
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1077,
+                "index": 596,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1094,
+                "index": 609,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1086,
+                "index": 603,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1080,
+                "index": 599,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -24342,7 +14567,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 201,
+                "place": 131,
                 "text": "",
                 "type": "Marriage"
             }
@@ -24355,17 +14580,18 @@ F = [
         "name": "Family of Schultz, John and Payne, Jane Coppage",
         "note": "",
         "spou": [
-            1580,
-            1342
+            868,
+            746
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1580,
+                "index": 868,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -24382,7 +14608,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 607,
+                "place": 408,
                 "text": "",
                 "type": "Marriage"
             }
@@ -24395,49 +14621,18 @@ F = [
         "name": "Family of Schultz, Rev.Isaac and Turner, Mary",
         "note": "",
         "spou": [
-            1581,
-            1668
+            869,
+            920
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1588,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1592,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [],
-        "gid": "F0727",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "",
-        "media": [],
-        "name": "Family of Serrano, Abraham",
-        "note": "",
-        "spou": [
-            1584
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1590,
+                "index": 872,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -24454,7 +14649,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 639,
+                "place": 432,
                 "text": "",
                 "type": "Marriage"
             }
@@ -24467,71 +14662,18 @@ F = [
         "name": "Family of Serrano, Archibald and Delgado, Catherine",
         "note": "",
         "spou": [
-            1585,
-            448
+            871,
+            256
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1584,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1587,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1589,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Serrano, Joseph and Quinn, Elizabeth Marium",
-                "gid": "E3226",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0545",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Serrano, Joseph and Quinn, Elizabeth Marium",
-        "note": "",
-        "spou": [
-            1591,
-            1401
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1591,
+                "index": 873,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -24547,12 +14689,49 @@ F = [
         "name": "Family of Serrano, Joseph",
         "note": "",
         "spou": [
-            1590
+            872
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
+        "cita": [],
+        "events": [],
+        "gid": "F0545",
+        "marr_place": "",
+        "marr_sdn": 0,
+        "marr_year": "",
+        "media": [],
+        "name": "Family of Serrano, Joseph",
+        "note": "",
+        "spou": [
+            873
+        ],
+        "type": "Married"
+    },
+    {
+        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
+        "cita": [],
+        "events": [],
+        "gid": "F0193",
+        "marr_place": "",
+        "marr_sdn": 0,
+        "marr_year": "",
+        "media": [],
+        "name": "Family of Sharp, ???",
+        "note": "",
+        "spou": [
+            874
+        ],
+        "type": "Married"
+    },
+    {
+        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -24578,17 +14757,18 @@ F = [
         "name": "Family of Shelton, Peter and Farmer, Caroline",
         "note": "",
         "spou": [
-            1594,
-            538
+            875,
+            318
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1596,
+                "index": 877,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -24604,44 +14784,13 @@ F = [
         "name": "Family of Simard, Thomas",
         "note": "",
         "spou": [
-            1597
+            878
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of St-Pierre, Joe and Boucher, Norene",
-                "gid": "E3250",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0568",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of St-Pierre, Joe and Boucher, Norene",
-        "note": "",
-        "spou": [
-            1605,
-            268
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -24667,13 +14816,14 @@ F = [
         "name": "Family of Steele, Valentine and Beaulieu, Anna Elisabeth",
         "note": "",
         "spou": [
-            1607,
-            119
+            883,
+            72
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -24699,117 +14849,14 @@ F = [
         "name": "Family of Stephens, Adam and Blanco, Anna Maria",
         "note": "",
         "spou": [
-            1608,
-            189
+            884,
+            125
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Stewart and Hawkins, Janelle",
-                "gid": "E3346",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0654",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Stewart and Hawkins, Janelle",
-        "note": "",
-        "spou": [
-            1611,
-            814
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1613,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Stokes, Gabriel and McCoy, Celine Bridget",
-                "gid": "E3259",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0576",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Stokes, Gabriel and McCoy, Celine Bridget",
-        "note": "",
-        "spou": [
-            1612,
-            1119
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1942-07-23",
-                "date_sdn": 2430564,
-                "descr": "Marriage of Stone, Alfred Wayne and Guti\u00e9rrez, Virginia Elizabeth",
-                "gid": "E3339",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0648",
-        "marr_place": "",
-        "marr_sdn": 2430564,
-        "marr_year": "1942",
-        "media": [],
-        "name": "Family of Stone, Alfred Wayne and Guti\u00e9rrez, Virginia Elizabeth",
-        "note": "",
-        "spou": [
-            1614,
-            770
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -24835,92 +14882,65 @@ F = [
         "name": "Family of Strickland, Col. Robert and James, Patsy",
         "note": "",
         "spou": [
-            1615,
-            884
+            886,
+            482
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1627,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1621,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1623,
+                "index": 131,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             }
         ],
         "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1605-05-27",
-                "date_sdn": 2307421,
-                "descr": "Marriage of Swanson, Richard and El Fern\u00e1ndez, Avis Fernandez III",
-                "gid": "E3073",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 701,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0403",
-        "marr_place": "Seattle, WA, USA",
-        "marr_sdn": 2307421,
-        "marr_year": "1605",
+        "events": [],
+        "gid": "F0287",
+        "marr_place": "",
+        "marr_sdn": 0,
+        "marr_year": "",
         "media": [],
-        "name": "Family of Swanson, Richard and Fernandez El Fern\u00e1ndez, Avis III",
+        "name": "Family of Sullivan, Anna",
         "note": "",
         "spou": [
-            1625,
-            561
+            888
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 466,
+                "index": 270,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1622,
+                "index": 893,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1620,
+                "index": 891,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1619,
+                "index": 890,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -24950,29 +14970,15 @@ F = [
         "name": "Family of Swanson, William and Jensen, Elizabeth",
         "note": "",
         "spou": [
-            1627,
-            904
+            895,
+            500
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1626,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1624,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
         "cita": [],
         "events": [],
         "gid": "F0722",
@@ -24983,12 +14989,13 @@ F = [
         "name": "Family of Swanson, William",
         "note": "",
         "spou": [
-            1627
+            895
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -25014,45 +15021,14 @@ F = [
         "name": "Family of Taylor, Jacob and Farmer, Susanna",
         "note": "",
         "spou": [
-            1629,
-            556
+            897,
+            336
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Taylor, Philip and \u0411\u044b\u043a\u043e\u0432, Harriet",
-                "gid": "E3182",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0505",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Taylor, Philip and \u0411\u044b\u043a\u043e\u0432, Harriet",
-        "note": "",
-        "spou": [
-            1630,
-            1937
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -25078,17 +15054,18 @@ F = [
         "name": "Family of Terry, J. and Reeves, Bridget",
         "note": "",
         "spou": [
-            1632,
-            1464
+            899,
+            798
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1634,
+                "index": 901,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -25105,7 +15082,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 358,
+                "place": 236,
                 "text": "",
                 "type": "Marriage"
             }
@@ -25118,13 +15095,14 @@ F = [
         "name": "Family of Thomas, Elder Thomas and Barrett, Anne",
         "note": "",
         "spou": [
-            1633,
-            112
+            900,
+            69
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -25150,24 +15128,18 @@ F = [
         "name": "Family of Thomsen, new and Farmer, Elizabeth",
         "note": "",
         "spou": [
-            1637,
-            541
+            902,
+            321
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1641,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1640,
+                "index": 904,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -25197,126 +15169,33 @@ F = [
         "name": "Family of Thornton, Arthur Otto and Mar\u00edn, Lilla Estella",
         "note": "",
         "spou": [
-            1639,
-            1083
+            903,
+            601
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1643,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
         "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1945-09-08",
-                "date_sdn": 2431707,
-                "descr": "Marriage of Thornton, James Arthur and Lachance, Helen",
-                "gid": "E2753",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
+        "events": [],
         "gid": "F0112",
         "marr_place": "",
-        "marr_sdn": 2431707,
-        "marr_year": "1945",
-        "media": [],
-        "name": "Family of Thornton, James Arthur and Lachance, Helen",
-        "note": "",
-        "spou": [
-            1641,
-            982
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Thornton, Phillip James and \u0411\u0435\u043b\u043e\u0432, Katherine",
-                "gid": "E2884",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 635,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0232",
-        "marr_place": "Providence, RI, USA",
         "marr_sdn": 0,
-        "marr_year": "?",
+        "marr_year": "",
         "media": [],
-        "name": "Family of Thornton, Phillip James and \u0411\u0435\u043b\u043e\u0432, Katherine",
+        "name": "Family of Thornton, James Arthur",
         "note": "",
         "spou": [
-            1643,
-            1926
+            904
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Thornton, Romaine and Soto, Harriet",
-                "gid": "E2883",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0231",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Thornton, Romaine and Soto, Harriet",
-        "note": "",
-        "spou": [
-            1644,
-            1602
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1656,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
         "cita": [],
         "events": [
             {
@@ -25341,17 +15220,18 @@ F = [
         "name": "Family of Todd, Charles and Cole, Eurydice",
         "note": "",
         "spou": [
-            1646,
-            376
+            906,
+            234
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1657,
+                "index": 914,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -25368,7 +15248,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 395,
+                "place": 262,
                 "text": "",
                 "type": "Marriage"
             }
@@ -25381,17 +15261,18 @@ F = [
         "name": "Family of Todd, George W. and Morris, Jane",
         "note": "",
         "spou": [
-            1649,
-            1186
+            908,
+            673
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1651,
+                "index": 910,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -25421,17 +15302,18 @@ F = [
         "name": "Family of Todd, Hodges and Piotrowski, Lucy",
         "note": "",
         "spou": [
-            1652,
-            1372
+            911,
+            763
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1652,
+                "index": 911,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -25461,120 +15343,60 @@ F = [
         "name": "Family of Todd, John and Warner, Elizabeth",
         "note": "",
         "spou": [
-            1655,
-            1721
+            913,
+            944
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1665,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Todd, John and \u041b\u0430\u043b\u0435\u0442\u0438\u043d, Elizabeth",
-                "gid": "E2796",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0152",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Todd, John and \u041b\u0430\u043b\u0435\u0442\u0438\u043d, Elizabeth",
-        "note": "",
-        "spou": [
-            1656,
-            2010
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1659,
+                "index": 915,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1648,
+                "index": 907,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1663,
+                "index": 918,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1650,
+                "index": 909,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1654,
+                "index": 912,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1658,
+                "index": 905,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1653,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1647,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1645,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1662,
+                "index": 917,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -25591,7 +15413,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 406,
+                "place": 272,
                 "text": "",
                 "type": "Marriage"
             }
@@ -25604,17 +15426,18 @@ F = [
         "name": "Family of Todd, John M. and Farmer, Elizabeth Ellen",
         "note": "",
         "spou": [
-            1657,
-            543
+            914,
+            323
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1649,
+                "index": 908,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -25631,7 +15454,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 620,
+                "place": 417,
                 "text": "",
                 "type": "Marriage"
             }
@@ -25644,179 +15467,33 @@ F = [
         "name": "Family of Todd, William and \u6e21\u8fba, Mary (Polly)",
         "note": "",
         "spou": [
-            1665,
-            2098
+            919,
+            1129
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Torres and Hawkins, Gail",
-                "gid": "E3345",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0653",
+        "events": [],
+        "gid": "F0077",
         "marr_place": "",
         "marr_sdn": 0,
-        "marr_year": "?",
+        "marr_year": "",
         "media": [],
-        "name": "Family of Torres and Hawkins, Gail",
+        "name": "Family of Vargas, Caroline Metzger",
         "note": "",
         "spou": [
-            1666,
-            811
+            921
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1995-06-24",
-                "date_sdn": 2449893,
-                "descr": "Marriage of Townsend, Mark and \u041c\u0430\u043a\u0441\u0438\u043c\u043e\u0432, Heather Michelle",
-                "gid": "E3023",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 336,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0358",
-        "marr_place": "Harrison, Boone, AR, USA",
-        "marr_sdn": 2449893,
-        "marr_year": "1995",
-        "media": [],
-        "name": "Family of Townsend, Mark and \u041c\u0430\u043a\u0441\u0438\u043c\u043e\u0432, Heather Michelle",
-        "note": "",
-        "spou": [
-            1667,
-            2021
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Valdez and Reed, Noreen",
-                "gid": "E3264",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0580",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Valdez and Reed, Noreen",
-        "note": "",
-        "spou": [
-            1670,
-            1446
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1678,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1794,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1786,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1778,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1950-08-13",
-                "date_sdn": 2433507,
-                "descr": "Marriage of Walker, Andrew Vincent and Pearson, Eileen Ruth",
-                "gid": "E2925",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 498,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0027",
-        "marr_place": "Medford, OR, USA",
-        "marr_sdn": 2433507,
-        "marr_year": "1950",
-        "media": [],
-        "name": "Family of Walker, Andrew Vincent and Pearson, Eileen Ruth",
-        "note": "",
-        "spou": [
-            1676,
-            1350
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 847,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
         "cita": [],
         "events": [
             {
@@ -25841,17 +15518,18 @@ F = [
         "name": "Family of Wallace, Abraham and Greene, Marcy",
         "note": "",
         "spou": [
-            1679,
-            754
+            924,
+            423
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1682,
+                "index": 926,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -25867,239 +15545,57 @@ F = [
         "name": "Family of Walters, Daniel",
         "note": "",
         "spou": [
-            1681
+            925
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1686,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1684,
+                "index": 968,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             }
         ],
         "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1974-07-02",
-                "date_sdn": 2442231,
-                "descr": "Marriage of Ward, David J. and Warner, Margaret Ruth",
-                "gid": "E3231",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 294,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0055",
-        "marr_place": "Gaithersburg, MD, USA",
-        "marr_sdn": 2442231,
-        "marr_year": "1974",
-        "media": [],
-        "name": "Family of Ward, David J. and Warner, Margaret Ruth",
-        "note": "",
-        "spou": [
-            1685,
-            1752
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1784,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1735,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1700,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1742,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1760,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1974-08-10",
-                "date_sdn": 2442270,
-                "descr": "Marriage of Warner, Allen Carl and Garner, Rita Marie",
-                "gid": "E2738",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 843,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0001",
-        "marr_place": "Worthington, MN, USA",
-        "marr_sdn": 2442270,
-        "marr_year": "1974",
-        "media": [],
-        "name": "Family of Warner, Allen Carl and Garner, Rita Marie",
-        "note": "",
-        "spou": [
-            1688,
-            678
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1771,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1778-11-15",
-                "date_sdn": 2370780,
-                "descr": "Marriage of Warner, Andrew and Maldonado, Eunice",
-                "gid": "E2760",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
+        "events": [],
         "gid": "F0119",
         "marr_place": "",
-        "marr_sdn": 2370780,
-        "marr_year": "1778",
+        "marr_sdn": 0,
+        "marr_year": "",
         "media": [],
-        "name": "Family of Warner, Andrew and Maldonado, Eunice",
+        "name": "Family of Warner, Andrew",
         "note": "",
         "spou": [
-            1692,
-            1072
+            930
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1737,
+                "index": 940,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1702,
+                "index": 954,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1763,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1981-02-14",
-                "date_sdn": 2444650,
-                "descr": "Marriage of Warner, Arthur Maurice and Phillips, Anita Irene",
-                "gid": "E2870",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 465,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0022",
-        "marr_place": "Macomb, McDonough, IL, USA",
-        "marr_sdn": 2444650,
-        "marr_year": "1981",
-        "media": [],
-        "name": "Family of Warner, Arthur Maurice and Phillips, Anita Irene",
-        "note": "",
-        "spou": [
-            1693,
-            1368
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1717,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1738,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1727,
+                "index": 949,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -26116,7 +15612,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 420,
+                "place": 284,
                 "text": "",
                 "type": "Marriage"
             }
@@ -26129,17 +15625,18 @@ F = [
         "name": "Family of Warner, Capt. Andrew and Christiansen, Hannah",
         "note": "",
         "spou": [
-            1697,
-            366
+            931,
+            226
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1699,
+                "index": 933,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -26169,59 +15666,60 @@ F = [
         "name": "Family of Warner, Capt. Francis and Ingram, Mary",
         "note": "",
         "spou": [
-            1698,
-            865
+            932,
+            465
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1697,
+                "index": 931,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1726,
+                "index": 948,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1756,
+                "index": 964,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1731,
+                "index": 952,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1706,
+                "index": 935,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1722,
+                "index": 945,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1746,
+                "index": 959,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -26238,7 +15736,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 453,
+                "place": 306,
                 "text": "",
                 "type": "Marriage"
             }
@@ -26251,13 +15749,14 @@ F = [
         "name": "Family of Warner, Capt. George and Alvarez, Mary",
         "note": "",
         "spou": [
-            1699,
-            64
+            933,
+            42
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -26283,125 +15782,18 @@ F = [
         "name": "Family of Warner, Daniel and Higgins, Charity",
         "note": "",
         "spou": [
-            1706,
-            834
+            935,
+            451
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1711,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1732,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1753,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1748,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1943-11-06",
-                "date_sdn": 2431035,
-                "descr": "Marriage of Warner, David Luther and Robbins, Merida Lorene",
-                "gid": "E2881",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 188,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0023",
-        "marr_place": "Crawfordsville, Montgomery, IN, USA",
-        "marr_sdn": 2431035,
-        "marr_year": "1943",
-        "media": [],
-        "name": "Family of Warner, David Luther and Robbins, Merida Lorene",
-        "note": "",
-        "spou": [
-            1710,
-            1504
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1785,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1780,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1968-11-16",
-                "date_sdn": 2440177,
-                "descr": "Marriage of Warner, David Warren and Simpson, Geraldine Ann",
-                "gid": "E3057",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 693,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0039",
-        "marr_place": "Santa Rosa-Petaluma, CA, USA",
-        "marr_sdn": 2440177,
-        "marr_year": "1968",
-        "media": [],
-        "name": "Family of Warner, David Warren and Simpson, Geraldine Ann",
-        "note": "",
-        "spou": [
-            1711,
-            1599
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1692,
+                "index": 930,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -26431,67 +15823,14 @@ F = [
         "name": "Family of Warner, Edward and Anderson, Mary Molly",
         "note": "",
         "spou": [
-            1717,
-            71
+            940,
+            45
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1761,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1767,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1736,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1981-07-25",
-                "date_sdn": 2444811,
-                "descr": "Marriage of Warner, Fred Loren and Flores, Jamie Lee",
-                "gid": "E2859",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 675,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0021",
-        "marr_place": "Salina, Saline, KS, USA",
-        "marr_sdn": 2444811,
-        "marr_year": "1981",
-        "media": [],
-        "name": "Family of Warner, Fred Loren and Flores, Jamie Lee",
-        "note": "",
-        "spou": [
-            1725,
-            568
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -26517,144 +15856,15 @@ F = [
         "name": "Family of Warner, George and Nichols, Elizabeth",
         "note": "",
         "spou": [
-            1727,
-            1233
+            949,
+            694
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1688,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1693,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1725,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1751,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1950-04-16",
-                "date_sdn": 2433388,
-                "descr": "Marriage of Warner, George Edward and Lessard, Elinor Jane",
-                "gid": "E2958",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 662,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0003",
-        "marr_place": "Rockingham County, NH, USA",
-        "marr_sdn": 2433388,
-        "marr_year": "1950",
-        "media": [],
-        "name": "Family of Warner, George Edward and Lessard, Elinor Jane",
-        "note": "",
-        "spou": [
-            1729,
-            1032
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1694,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1705,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1715,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1971-06-26",
-                "date_sdn": 2441129,
-                "descr": "Marriage of Warner, Harold Lowell and Powers, Nancy Lou",
-                "gid": "E3341",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 292,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0065",
-        "marr_place": "Gainesville, Hall, GA, USA",
-        "marr_sdn": 2441129,
-        "marr_year": "1971",
-        "media": [],
-        "name": "Family of Warner, Harold Lowell and Powers, Nancy Lou",
-        "note": "",
-        "spou": [
-            1732,
-            1396
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1775,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1777,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
         "cita": [],
         "events": [],
         "gid": "F0738",
@@ -26665,59 +15875,13 @@ F = [
         "name": "Family of Warner, John",
         "note": "",
         "spou": [
-            1739
+            955
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1691,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1712,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Warner, John William and Miles, Rebecca J.",
-                "gid": "E3209",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0053",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Warner, John William and Miles, Rebecca J.",
-        "note": "",
-        "spou": [
-            1744,
-            1133
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -26743,17 +15907,18 @@ F = [
         "name": "Family of Warner, Johnathon and Montgomery, Mary",
         "note": "",
         "spou": [
-            1746,
-            1138
+            959,
+            632
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1765,
+                "index": 966,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -26770,7 +15935,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 345,
+                "place": 225,
                 "text": "",
                 "type": "Marriage"
             }
@@ -26783,52 +15948,18 @@ F = [
         "name": "Family of Warner, Martin Bogarte and Klein, Alma Katherine",
         "note": "",
         "spou": [
-            1755,
-            961
+            963,
+            539
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1729,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1710,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1713,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1779,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1776,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1676,
+                "index": 937,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -26845,7 +15976,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 585,
+                "place": 391,
                 "text": "",
                 "type": "Marriage"
             }
@@ -26858,216 +15989,120 @@ F = [
         "name": "Family of Warner, Martin Bogarte and Page, Clara Belle",
         "note": "",
         "spou": [
-            1755,
-            1270
+            963,
+            708
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1762,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1766,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1708,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
         "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Warner, Michael Louis and Warren, Pansy L.",
-                "gid": "E3373",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0072",
+        "events": [],
+        "gid": "F0024",
         "marr_place": "",
         "marr_sdn": 0,
-        "marr_year": "?",
+        "marr_year": "",
         "media": [],
-        "name": "Family of Warner, Michael Louis and Warren, Pansy L.",
+        "name": "Family of Warner, Michael Warren",
         "note": "",
         "spou": [
-            1764,
-            1799
+            966
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1764,
+                "index": 969,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1695,
+                "index": 947,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1744,
+                "index": 938,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1696,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1936-02-19",
-                "date_sdn": 2428218,
-                "descr": "Marriage of Warner, Michael Warren and \u0427\u0435\u0440\u043d\u044b\u0445, Mary Helen",
-                "gid": "E2892",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 586,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0024",
-        "marr_place": "Ottawa, La Salle, IL, USA",
-        "marr_sdn": 2428218,
-        "marr_year": "1936",
-        "media": [],
-        "name": "Family of Warner, Michael Warren and \u0427\u0435\u0440\u043d\u044b\u0445, Mary Helen",
-        "note": "",
-        "spou": [
-            1765,
-            2082
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1773,
+                "index": 958,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1724,
+                "index": 953,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1714,
+                "index": 970,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1745,
+                "index": 941,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1733,
+                "index": 977,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1774,
+                "index": 967,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1718,
+                "index": 946,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1798,
+                "index": 972,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1769,
+                "index": 957,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1723,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1783,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1743,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1687,
+                "index": 928,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -27084,7 +16119,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 363,
+                "place": 240,
                 "text": "",
                 "type": "Marriage"
             }
@@ -27097,122 +16132,116 @@ F = [
         "name": "Family of Warner, Noah and Burns, Margaret",
         "note": "",
         "spou": [
-            1771,
-            335
+            968,
+            202
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1796,
+                "index": 976,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1728,
+                "index": 950,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1781,
+                "index": 971,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1689,
+                "index": 929,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1716,
+                "index": 939,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1757,
+                "index": 965,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1720,
+                "index": 943,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1750,
+                "index": 962,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1709,
+                "index": 936,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1749,
+                "index": 961,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1792,
+                "index": 974,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1719,
+                "index": 942,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1677,
+                "index": 923,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1701,
+                "index": 934,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1730,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1795,
+                "index": 951,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -27229,7 +16258,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 595,
+                "place": 398,
                 "text": "",
                 "type": "Marriage"
             }
@@ -27242,375 +16271,18 @@ F = [
         "name": "Family of Warner, Piatt D. and Fox, Julia Colville",
         "note": "",
         "spou": [
-            1773,
-            599
+            969,
+            366
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1793,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1787,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1741,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [],
-        "gid": "F0702",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "",
-        "media": [],
-        "name": "Family of Warner, Rev. Edmund",
-        "note": "",
-        "spou": [
-            1775
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1977-08-18",
-                "date_sdn": 2443374,
-                "descr": "Marriage of Warner, Richard Kenneth and Wade, Joy A.",
-                "gid": "E2959",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0030",
-        "marr_place": "",
-        "marr_sdn": 2443374,
-        "marr_year": "1977",
-        "media": [],
-        "name": "Family of Warner, Richard Kenneth and Wade, Joy A.",
-        "note": "",
-        "spou": [
-            1776,
-            1674
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1789,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1790,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1791,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1788,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1949-06-05",
-                "date_sdn": 2433073,
-                "descr": "Marriage of Warner, Richard Kenneth and \u041c\u0435\u043b\u044c\u043d\u0438\u043a\u043e\u0432, Marylou",
-                "gid": "E2914",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 433,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0026",
-        "marr_place": "Laurinburg, NC, USA",
-        "marr_sdn": 2433073,
-        "marr_year": "1949",
-        "media": [],
-        "name": "Family of Warner, Richard Kenneth and \u041c\u0435\u043b\u044c\u043d\u0438\u043a\u043e\u0432, Marylou",
-        "note": "",
-        "spou": [
-            1776,
-            2029
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1740,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [],
-        "gid": "F0739",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "",
-        "media": [],
-        "name": "Family of Warner, Robert",
-        "note": "",
-        "spou": [
-            1777
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1690,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1797,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1983-12-17",
-                "date_sdn": 2445686,
-                "descr": "Marriage of Warner, Robert Douglas and Norton, Christina",
-                "gid": "E2971",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0310",
-        "marr_place": "",
-        "marr_sdn": 2445686,
-        "marr_year": "1983",
-        "media": [],
-        "name": "Family of Warner, Robert Douglas and Norton, Christina",
-        "note": "",
-        "spou": [
-            1778,
-            1242
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1752,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1768,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1782,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1758,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1948-07-18",
-                "date_sdn": 2432751,
-                "descr": "Marriage of Warner, Robert Eugene and Barber, Mary Elizabeth",
-                "gid": "E2903",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 629,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0025",
-        "marr_place": "Porterville, Tulare, CA, USA",
-        "marr_sdn": 2432751,
-        "marr_year": "1948",
-        "media": [],
-        "name": "Family of Warner, Robert Eugene and Barber, Mary Elizabeth",
-        "note": "",
-        "spou": [
-            1779,
-            108
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1977-06-04",
-                "date_sdn": 2443299,
-                "descr": "Marriage of Warner, Stephen Paul and \u0425\u0443\u0434\u043e\u043d\u043e\u0433\u043e\u0432, Patricia",
-                "gid": "E2973",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 742,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0312",
-        "marr_place": "Statesboro, Bulloch, GA, USA",
-        "marr_sdn": 2443299,
-        "marr_year": "1977",
-        "media": [],
-        "name": "Family of Warner, Stephen Paul and \u0425\u0443\u0434\u043e\u043d\u043e\u0433\u043e\u0432, Patricia",
-        "note": "",
-        "spou": [
-            1790,
-            2077
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1754,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1704,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1770,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1772,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1983-04-09",
-                "date_sdn": 2445434,
-                "descr": "Marriage of Warner, Stuart Bogarte and Richards, Diana",
-                "gid": "E3080",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 469,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0041",
-        "marr_place": "Madison, WI, USA",
-        "marr_sdn": 2445434,
-        "marr_year": "1983",
-        "media": [],
-        "name": "Family of Warner, Stuart Bogarte and Richards, Diana",
-        "note": "",
-        "spou": [
-            1791,
-            1501
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1698,
+                "index": 932,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -27640,78 +16312,25 @@ F = [
         "name": "Family of Warner, Thomas and Black, Jane",
         "note": "",
         "spou": [
-            1793,
-            183
+            975,
+            121
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1734,
+                "index": 963,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1703,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Warner, Thomas Frederick and Carter, Debra J.",
-                "gid": "E2972",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0311",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Warner, Thomas Frederick and Carter, Debra J.",
-        "note": "",
-        "spou": [
-            1794,
-            356
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1755,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1747,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1759,
+                "index": 960,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -27728,7 +16347,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 735,
+                "place": 495,
                 "text": "",
                 "type": "Marriage"
             }
@@ -27741,13 +16360,14 @@ F = [
         "name": "Family of Warner, Warren W. and Ball, Abigail",
         "note": "",
         "spou": [
-            1796,
-            86
+            976,
+            52
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -27773,100 +16393,14 @@ F = [
         "name": "Family of Waters and Webb, Mary",
         "note": "",
         "spou": [
-            1801,
-            1853
+            978,
+            1005
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1803,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Waters, Cecil and \u0424\u043e\u043c\u0438\u043d, Grace",
-                "gid": "E3147",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0472",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Waters, Cecil and \u0424\u043e\u043c\u0438\u043d, Grace",
-        "note": "",
-        "spou": [
-            1802,
-            2076
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1810,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1804,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Waters, Cecil Glenn and Hubbard, Donna",
-                "gid": "E3148",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0473",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Waters, Cecil Glenn and Hubbard, Donna",
-        "note": "",
-        "spou": [
-            1803,
-            857
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -27892,57 +16426,15 @@ F = [
         "name": "Family of Waters, John and Webb, Mary",
         "note": "",
         "spou": [
-            1807,
-            1852
+            979,
+            1004
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1802,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1805,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1809,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1808,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1811,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1806,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
         "cita": [],
         "events": [
             {
@@ -27954,7 +16446,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 594,
+                "place": 397,
                 "text": "",
                 "type": "Marriage"
             }
@@ -27967,158 +16459,32 @@ F = [
         "name": "Family of Waters, William and Neal, Matilda",
         "note": "",
         "spou": [
-            1812,
-            1227
+            980,
+            692
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1814,
+                "index": 1003,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1060,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1975-05-24",
-                "date_sdn": 2442557,
-                "descr": "Marriage of Watkins, Bruce Edward and Warner, Mary Christine",
-                "gid": "E3177",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 294,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0050",
-        "marr_place": "Gaithersburg, MD, USA",
-        "marr_sdn": 2442557,
-        "marr_year": "1975",
-        "media": [],
-        "name": "Family of Watkins, Bruce Edward and Warner, Mary Christine",
-        "note": "",
-        "spou": [
-            1813,
-            1758
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1816,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Watson, Alvin E. and Warner, Beverly Ann",
-                "gid": "E3363",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0067",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Watson, Alvin E. and Warner, Beverly Ann",
-        "note": "",
-        "spou": [
-            1815,
-            1696
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1818,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1996-05-11",
-                "date_sdn": 2450215,
-                "descr": "Marriage of Weaver, Steven Matthew and Warner, JenniferMae(Ganoe)",
-                "gid": "E3019",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 291,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0354",
-        "marr_place": "Gainesville, Alachua, FL, USA",
-        "marr_sdn": 2450215,
-        "marr_year": "1996",
-        "media": [],
-        "name": "Family of Weaver, Steven Matthew and Warner, JenniferMae(Ganoe)",
-        "note": "",
-        "spou": [
-            1819,
-            1737
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1850,
+                "index": 1012,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1863,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1852,
+                "index": 1004,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -28128,14 +16494,14 @@ F = [
         "events": [
             {
                 "cita": [],
-                "date": "avant 1800",
+                "date": "before 1800",
                 "date_sdn": 2378497,
                 "descr": "Marriage of Webb, Alex and \u041c\u0430\u043a\u0430\u0440\u043e\u0432, Nancy",
                 "gid": "E3079",
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 125,
+                "place": 84,
                 "text": "",
                 "type": "Marriage"
             }
@@ -28143,153 +16509,140 @@ F = [
         "gid": "F0409",
         "marr_place": "Canton, Fulton, IL, USA",
         "marr_sdn": 2378497,
-        "marr_year": "1800",
+        "marr_year": "?",
         "media": [],
         "name": "Family of Webb, Alex and \u041c\u0430\u043a\u0430\u0440\u043e\u0432, Nancy",
         "note": "",
         "spou": [
-            1820,
-            2017
+            981,
+            1080
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1846,
+                "index": 1000,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1843,
+                "index": 997,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1847,
+                "index": 1001,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1833,
+                "index": 992,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             }
         ],
         "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1845-01-23",
-                "date_sdn": 2394955,
-                "descr": "Marriage of Webb, Alexander and Delgado, Mary Ann",
-                "gid": "E2979",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 140,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
+        "events": [],
         "gid": "F0318",
-        "marr_place": "Charleston, SC, USA",
-        "marr_sdn": 2394955,
-        "marr_year": "1845",
+        "marr_place": "",
+        "marr_sdn": 0,
+        "marr_year": "",
         "media": [],
-        "name": "Family of Webb, Alexander and Delgado, Mary Ann",
+        "name": "Family of Webb, Alexander",
         "note": "",
         "spou": [
-            1821,
-            449
+            982
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1821,
+                "index": 982,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1862,
+                "index": 1011,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1860,
+                "index": 1010,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1856,
+                "index": 1008,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1853,
+                "index": 1005,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1866,
+                "index": 1015,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1864,
+                "index": 1013,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1825,
+                "index": 985,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1841,
+                "index": 996,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1838,
+                "index": 995,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1858,
+                "index": 1009,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -28306,7 +16659,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 206,
+                "place": 135,
                 "text": "",
                 "type": "Marriage"
             }
@@ -28319,17 +16672,18 @@ F = [
         "name": "Family of Webb, Andrew and Webb, Margaret Margarite?",
         "note": "",
         "spou": [
-            1822,
-            1850
+            983,
+            1003
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1822,
+                "index": 983,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -28359,29 +16713,15 @@ F = [
         "name": "Family of Webb, Elias and Gibbs, Nancy",
         "note": "",
         "spou": [
-            1828,
-            711
+            988,
+            404
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1834,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1840,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
         "cita": [],
         "events": [],
         "gid": "F0728",
@@ -28392,37 +16732,24 @@ F = [
         "name": "Family of Webb, Ernest Arlington",
         "note": "",
         "spou": [
-            1829
+            989
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1849,
+                "index": 1002,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1848,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1842,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1845,
+                "index": 999,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -28439,7 +16766,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 477,
+                "place": 316,
                 "text": "",
                 "type": "Marriage"
             }
@@ -28452,80 +16779,67 @@ F = [
         "name": "Family of Webb, Francis Irvin and Todd, Louella Jane",
         "note": "",
         "spou": [
-            1831,
-            1659
+            990,
+            915
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1824,
+                "index": 1014,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1865,
+                "index": 989,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1829,
+                "index": 987,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1827,
+                "index": 993,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1836,
+                "index": 1007,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1855,
+                "index": 984,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1823,
+                "index": 1006,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1854,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1832,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1830,
+                "index": 991,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -28555,132 +16869,69 @@ F = [
         "name": "Family of Webb, James Marshall and Ballard, Judith Ellen",
         "note": "",
         "spou": [
-            1837,
-            107
+            994,
+            65
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1839,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1851,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
+        "change_time": "2016-06-30 05:45:53",
+        "chil": [],
         "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1940-09-25",
-                "date_sdn": 2429898,
-                "descr": "Marriage of Webb, John Raymond and Ford, Lorinda Catherine",
-                "gid": "E3386",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 576,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0084",
-        "marr_place": "Oklahoma City, OK, USA",
-        "marr_sdn": 2429898,
-        "marr_year": "1940",
+        "events": [],
+        "gid": "F0551",
+        "marr_place": "",
+        "marr_sdn": 0,
+        "marr_year": "",
         "media": [],
-        "name": "Family of Webb, John Raymond and Ford, Lorinda Catherine",
+        "name": "Family of Webb, Joseph LeRoy and Boucher, Bridget",
         "note": "",
         "spou": [
-            1842,
-            582
+            997,
+            153
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1857,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1835,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1861,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
         "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Webb, Lewis I. and \u0417\u0430\u0439\u0446\u0435\u0432, Ruth L.",
-                "gid": "E2890",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
+        "events": [],
         "gid": "F0238",
         "marr_place": "",
         "marr_sdn": 0,
-        "marr_year": "?",
+        "marr_year": "",
         "media": [],
-        "name": "Family of Webb, Lewis I. and \u0417\u0430\u0439\u0446\u0435\u0432, Ruth L.",
+        "name": "Family of Webb, Lewis I.",
         "note": "",
         "spou": [
-            1845,
-            1982
+            999
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1831,
+                "index": 990,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1826,
+                "index": 986,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1844,
+                "index": 998,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -28710,22 +16961,15 @@ F = [
         "name": "Family of Webb, Livingstone Martin and Blanco, Lucinda Catherine",
         "note": "",
         "spou": [
-            1846,
-            205
+            1000,
+            139
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1859,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
         "cita": [],
         "events": [],
         "gid": "F0724",
@@ -28736,16 +16980,17 @@ F = [
         "name": "Family of Webb, William Herman",
         "note": "",
         "spou": [
-            1865
+            1014
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1837,
+                "index": 994,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -28775,22 +17020,15 @@ F = [
         "name": "Family of Webb, William John and Wagner, Martha Ann",
         "note": "",
         "spou": [
-            1866,
-            1675
+            1015,
+            922
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1868,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
         "cita": [],
         "events": [
             {
@@ -28815,479 +17053,51 @@ F = [
         "name": "Family of Webster, Conrad and Castillo, Margaretha",
         "note": "",
         "spou": [
-            1867,
-            357
+            1016,
+            218
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 354,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 2006,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
         "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1703-11-06",
-                "date_sdn": 2343377,
-                "descr": "Marriage of Webster, Johanne(John) and Saunders, Ursula",
-                "gid": "E2877",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 616,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0226",
-        "marr_place": "Pittsfield, Berkshire, MA, USA",
-        "marr_sdn": 2343377,
-        "marr_year": "1703",
-        "media": [],
-        "name": "Family of Webster, Johanne(John) and Saunders, Ursula",
-        "note": "",
-        "spou": [
-            1868,
-            1574
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1874,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1989-08-05",
-                "date_sdn": 2447744,
-                "descr": "Marriage of Welch, Christopher Paul and Hayes, LeAnn",
-                "gid": "E3021",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 215,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0356",
-        "marr_place": "Dothan, Houston, AL, USA",
-        "marr_sdn": 2447744,
-        "marr_year": "1989",
-        "media": [],
-        "name": "Family of Welch, Christopher Paul and Hayes, LeAnn",
-        "note": "",
-        "spou": [
-            1870,
-            819
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1878,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1869,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1877,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1945-08-25",
-                "date_sdn": 2431693,
-                "descr": "Marriage of Welch, Irwin Arthur and Page, Eleanor Irene",
-                "gid": "E2911",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 3,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
+        "events": [],
         "gid": "F0257",
-        "marr_place": "Adjuntas, PR, USA",
-        "marr_sdn": 2431693,
-        "marr_year": "1945",
-        "media": [],
-        "name": "Family of Welch, Irwin Arthur and Page, Eleanor Irene",
-        "note": "",
-        "spou": [
-            1871,
-            1279
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1872,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1979-06-23",
-                "date_sdn": 2444048,
-                "descr": "Marriage of Welch, Michael and Osborne, Anita June",
-                "gid": "E3372",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 395,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0071",
-        "marr_place": "Kendallville, Noble, IN, USA",
-        "marr_sdn": 2444048,
-        "marr_year": "1979",
-        "media": [],
-        "name": "Family of Welch, Michael and Osborne, Anita June",
-        "note": "",
-        "spou": [
-            1875,
-            1258
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1873,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1870,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1962-01-20",
-                "date_sdn": 2437685,
-                "descr": "Marriage of Welch, Paul Allen and Cruz, Linda Helen",
-                "gid": "E3398",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0095",
         "marr_place": "",
-        "marr_sdn": 2437685,
-        "marr_year": "1962",
-        "media": [],
-        "name": "Family of Welch, Paul Allen and Cruz, Linda Helen",
-        "note": "",
-        "spou": [
-            1876,
-            420
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1970-08-15",
-                "date_sdn": 2440814,
-                "descr": "Marriage of Welch, Russell Eugene and Norton, Dorothy",
-                "gid": "E2913",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 67,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0259",
-        "marr_place": "Bedford, Lawrence, IN, USA",
-        "marr_sdn": 2440814,
-        "marr_year": "1970",
-        "media": [],
-        "name": "Family of Welch, Russell Eugene and Norton, Dorothy",
-        "note": "",
-        "spou": [
-            1878,
-            1243
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1982-05-16",
-                "date_sdn": 2445106,
-                "descr": "Marriage of Welch, Russell Eugene and Walsh, Penelope",
-                "gid": "E2915",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 479,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0260",
-        "marr_place": "Marion, Grant, IN, USA",
-        "marr_sdn": 2445106,
-        "marr_year": "1982",
-        "media": [],
-        "name": "Family of Welch, Russell Eugene and Walsh, Penelope",
-        "note": "",
-        "spou": [
-            1878,
-            1680
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1881,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1882,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1984-05-12",
-                "date_sdn": 2445833,
-                "descr": "Marriage of West, Ronald David and Cruz, Melinda Lou",
-                "gid": "E3401",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0098",
-        "marr_place": "",
-        "marr_sdn": 2445833,
-        "marr_year": "1984",
-        "media": [],
-        "name": "Family of West, Ronald David and Cruz, Melinda Lou",
-        "note": "",
-        "spou": [
-            1883,
-            422
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Wheeler, Don and \u041b\u043e\u043f\u0430\u0442\u0438\u043d, Carmen Diana",
-                "gid": "E3037",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 511,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0371",
-        "marr_place": "Midland, Midland, TX, USA",
         "marr_sdn": 0,
-        "marr_year": "?",
+        "marr_year": "",
         "media": [],
-        "name": "Family of Wheeler, Don and \u041b\u043e\u043f\u0430\u0442\u0438\u043d, Carmen Diana",
+        "name": "Family of Welch, Irwin Arthur",
         "note": "",
         "spou": [
-            1884,
-            2013
+            1017
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1888,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1887,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1886,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Wheeler, Jacob Earl and \u041b\u043e\u043f\u0430\u0442\u0438\u043d, Carmen Diana",
-                "gid": "E2885",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 82,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0233",
-        "marr_place": "Blackfoot, Bingham, ID, USA",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Wheeler, Jacob Earl and \u041b\u043e\u043f\u0430\u0442\u0438\u043d, Carmen Diana",
-        "note": "",
-        "spou": [
-            1885,
-            2013
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of White and Reed, Mary Ann",
-                "gid": "E3273",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
+        "events": [],
         "gid": "F0589",
         "marr_place": "",
         "marr_sdn": 0,
-        "marr_year": "?",
+        "marr_year": "",
         "media": [],
-        "name": "Family of White and Reed, Mary Ann",
+        "name": "Family of White",
         "note": "",
         "spou": [
-            1889,
-            1437
+            1019
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1890,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
         "cita": [],
         "events": [
             {
@@ -29312,103 +17122,18 @@ F = [
         "name": "Family of Williams, Thomas Jr. and Jim\u00e9nez, Elizabeth",
         "note": "",
         "spou": [
-            1891,
-            910
+            1020,
+            505
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1892,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1894,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1895,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1993",
-                "date_sdn": 2448989,
-                "descr": "Marriage of Willis, Corey and Poirier, Janelle Marie",
-                "gid": "E2969",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 588,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0309",
-        "marr_place": "Owensboro, Daviess, KY, USA",
-        "marr_sdn": 2448989,
-        "marr_year": "1993",
-        "media": [],
-        "name": "Family of Willis, Corey and Poirier, Janelle Marie",
-        "note": "",
-        "spou": [
-            1893,
-            1377
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1990",
-                "date_sdn": 2447893,
-                "descr": "Marriage of Wilson, Douglas and Cruz, Marsha Ann",
-                "gid": "E3024",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 825,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0359",
-        "marr_place": "Wheeling, WV-OH, USA",
-        "marr_sdn": 2447893,
-        "marr_year": "1990",
-        "media": [],
-        "name": "Family of Wilson, Douglas and Cruz, Marsha Ann",
-        "note": "",
-        "spou": [
-            1896,
-            421
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1025,
+                "index": 571,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -29425,7 +17150,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 117,
+                "place": 78,
                 "text": "",
                 "type": "Marriage"
             }
@@ -29438,126 +17163,54 @@ F = [
         "name": "Family of Wise, Thomas and Ramos, Mary",
         "note": "",
         "spou": [
-            1897,
-            1405
+            1021,
+            775
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1905,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1904,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1903,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1902,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1900,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1901,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1927-12-25",
-                "date_sdn": 2425240,
-                "descr": "Marriage of W\u00f3jcik, Arnold and Garner, Helen Bernice",
-                "gid": "E2829",
-                "media": [],
-                "part_family": [],
-                "part_person": [
-                    679
-                ],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0183",
-        "marr_place": "",
-        "marr_sdn": 2425240,
-        "marr_year": "1927",
-        "media": [],
-        "name": "Family of W\u00f3jcik, Arnold and Garner, Helen Bernice",
-        "note": "",
-        "spou": [
-            1899,
-            645
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Wong and Page, Mildred",
-                "gid": "E3139",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
+        "events": [],
+        "gid": "F0183",
+        "marr_place": "",
+        "marr_sdn": 0,
+        "marr_year": "",
+        "media": [],
+        "name": "Family of W\u00f3jcik, Arnold",
+        "note": "",
+        "spou": [
+            1023
         ],
+        "type": "Married"
+    },
+    {
+        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
+        "cita": [],
+        "events": [],
         "gid": "F0465",
         "marr_place": "",
         "marr_sdn": 0,
-        "marr_year": "?",
+        "marr_year": "",
         "media": [],
-        "name": "Family of Wong and Page, Mildred",
+        "name": "Family of Wong",
         "note": "",
         "spou": [
-            1906,
-            1299
+            1024
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1909,
+                "index": 1027,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -29587,24 +17240,25 @@ F = [
         "name": "Family of Wood, Peter and Gibbs, Lucy",
         "note": "",
         "spou": [
-            1908,
-            706
+            1026,
+            401
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1912,
+                "index": 1030,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1911,
+                "index": 1029,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -29634,77 +17288,32 @@ F = [
         "name": "Family of Woods, James and \u0417\u044b\u0440\u044f\u043d\u043e\u0432, Mary",
         "note": "",
         "spou": [
-            1910,
-            1991
+            1028,
+            1069
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Wo\u017aniak, Thomas and Page, Debra Dale",
-                "gid": "E2934",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0278",
+        "events": [],
+        "gid": "F0607",
         "marr_place": "",
         "marr_sdn": 0,
-        "marr_year": "?",
+        "marr_year": "",
         "media": [],
-        "name": "Family of Wo\u017aniak, Thomas and Page, Debra Dale",
+        "name": "Family of Woods, Nancy",
         "note": "",
         "spou": [
-            1913,
-            1275
+            1030
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of Young, Mr. and Waters, Edith",
-                "gid": "E3218",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0538",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of Young, Mr. and Waters, Edith",
-        "note": "",
-        "spou": [
-            1916,
-            1805
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -29730,13 +17339,14 @@ F = [
         "name": "Family of \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432, Johann Adam and Beaulieu, Anna Margaretha",
         "note": "",
         "spou": [
-            1921,
-            121
+            1034,
+            74
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -29762,13 +17372,14 @@ F = [
         "name": "Family of \u0410\u043b\u0435\u043a\u0441\u0435\u0435\u0432, Jacob and Benson, Mary",
         "note": "",
         "spou": [
-            1922,
-            167
+            1035,
+            109
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -29794,17 +17405,18 @@ F = [
         "name": "Family of \u0410\u043d\u0434\u0440\u0435\u0435\u0432, William and Douglas, Susan",
         "note": "",
         "spou": [
-            1923,
-            512
+            1036,
+            306
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1929,
+                "index": 1040,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -29834,17 +17446,18 @@ F = [
         "name": "Family of \u0411\u0435\u043b\u043e\u0443\u0441\u043e\u0432, Jacob and Su\u00e1rez, Marie",
         "note": "",
         "spou": [
-            1928,
-            1616
+            1039,
+            887
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1927,
+                "index": 1038,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -29874,255 +17487,14 @@ F = [
         "name": "Family of \u0411\u0435\u043b\u043e\u0443\u0441\u043e\u0432, Johannas Jacob and Reid, Anna Catherina",
         "note": "",
         "spou": [
-            1929,
-            1482
+            1040,
+            811
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of \u0411\u0435\u043b\u044f\u0435\u0432 and Reed, Peggy",
-                "gid": "E3266",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0582",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of \u0411\u0435\u043b\u044f\u0435\u0432 and Reed, Peggy",
-        "note": "",
-        "spou": [
-            1930,
-            1450
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1997-06-07",
-                "date_sdn": 2450607,
-                "descr": "Marriage of \u0411\u043e\u0433\u0434\u0430\u043d\u043e\u0432, Dr. Brent and Cruz, Ann Lynn",
-                "gid": "E3085",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 293,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0414",
-        "marr_place": "Gainesville, Llano, TX, USA",
-        "marr_sdn": 2450607,
-        "marr_year": "1997",
-        "media": [],
-        "name": "Family of \u0411\u043e\u0433\u0434\u0430\u043d\u043e\u0432, Dr. Brent and Cruz, Ann Lynn",
-        "note": "",
-        "spou": [
-            1931,
-            400
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of \u0411\u043e\u0440\u0438\u0441\u043e\u0432 and Boyd, Carmen Alberta",
-                "gid": "E3337",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0646",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of \u0411\u043e\u0440\u0438\u0441\u043e\u0432 and Boyd, Carmen Alberta",
-        "note": "",
-        "spou": [
-            1932,
-            300
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of \u0411\u044b\u043a\u043e\u0432, Charles and Girard, Margaret",
-                "gid": "E3183",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0506",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of \u0411\u044b\u043a\u043e\u0432, Charles and Girard, Margaret",
-        "note": "",
-        "spou": [
-            1936,
-            723
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1937,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1936,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1940,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1941,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1939,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1934,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1935,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of \u0411\u044b\u043a\u043e\u0432, Herod and Parent, Polly",
-                "gid": "E3181",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0504",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of \u0411\u044b\u043a\u043e\u0432, Herod and Parent, Polly",
-        "note": "",
-        "spou": [
-            1938,
-            1326
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of \u0411\u044b\u043a\u043e\u0432, Samuel and Larsen, Nelly",
-                "gid": "E3185",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0508",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of \u0411\u044b\u043a\u043e\u0432, Samuel and Larsen, Nelly",
-        "note": "",
-        "spou": [
-            1941,
-            1012
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -30135,7 +17507,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 191,
+                "place": 125,
                 "text": "",
                 "type": "Marriage"
             }
@@ -30148,17 +17520,18 @@ F = [
         "name": "Family of \u0412\u043b\u0430\u0441\u043e\u0432, John and Floyd, Martha Frances \"Fannie\"",
         "note": "",
         "spou": [
-            1943,
-            576
+            1042,
+            349
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1944,
+                "index": 1043,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -30174,48 +17547,17 @@ F = [
         "name": "Family of \u0412\u043e\u0440\u043e\u0431\u044c\u0435\u0432, Rev. Samuel",
         "note": "",
         "spou": [
-            1945
+            1044
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1988-10-01",
-                "date_sdn": 2447436,
-                "descr": "Marriage of \u0413\u0435\u0440\u0430\u0441\u0438\u043c\u043e\u0432, John and Garrett, Doris Mae",
-                "gid": "E2889",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 693,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0237",
-        "marr_place": "Santa Rosa-Petaluma, CA, USA",
-        "marr_sdn": 2447436,
-        "marr_year": "1988",
-        "media": [],
-        "name": "Family of \u0413\u0435\u0440\u0430\u0441\u0438\u043c\u043e\u0432, John and Garrett, Doris Mae",
-        "note": "",
-        "spou": [
-            1947,
-            688
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1948,
+                "index": 1046,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -30231,44 +17573,13 @@ F = [
         "name": "Family of \u0413\u043e\u043d\u0447\u0430\u0440\u043e\u0432, Thomas",
         "note": "",
         "spou": [
-            1949
+            1047
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of \u0413\u043e\u0440\u0431\u0443\u043d\u043e\u0432, Matt and Garner, Cecilia",
-                "gid": "E3307",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0619",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of \u0413\u043e\u0440\u0431\u0443\u043d\u043e\u0432, Matt and Garner, Cecilia",
-        "note": "",
-        "spou": [
-            1950,
-            633
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -30294,135 +17605,14 @@ F = [
         "name": "Family of \u0414\u0430\u0432\u044b\u0434\u043e\u0432 and Ball, Jane",
         "note": "",
         "spou": [
-            1952,
-            90
+            1049,
+            54
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1960,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 695,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1954,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1982-04-24",
-                "date_sdn": 2445084,
-                "descr": "Marriage of \u0414\u0430\u043d\u0438\u043b\u043e\u0432, Darrell Edwin and Ross, Evelyn Almazon",
-                "gid": "E3390",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 157,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0088",
-        "marr_place": "Cleveland, TN, USA",
-        "marr_sdn": 2445084,
-        "marr_year": "1982",
-        "media": [],
-        "name": "Family of \u0414\u0430\u043d\u0438\u043b\u043e\u0432, Darrell Edwin and Ross, Evelyn Almazon",
-        "note": "",
-        "spou": [
-            1955,
-            1543
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1958,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1957,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1955,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1953,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1959,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1948-09-07",
-                "date_sdn": 2432802,
-                "descr": "Marriage of \u0414\u0430\u043d\u0438\u043b\u043e\u0432, Earl William and Lessard, Dorothy Louise",
-                "gid": "E2936",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 662,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0028",
-        "marr_place": "Rockingham County, NH, USA",
-        "marr_sdn": 2432802,
-        "marr_year": "1948",
-        "media": [],
-        "name": "Family of \u0414\u0430\u043d\u0438\u043b\u043e\u0432, Earl William and Lessard, Dorothy Louise",
-        "note": "",
-        "spou": [
-            1956,
-            1031
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -30435,7 +17625,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 785,
+                "place": 532,
                 "text": "",
                 "type": "Marriage"
             }
@@ -30448,66 +17638,60 @@ F = [
         "name": "Family of \u0414\u043c\u0438\u0442\u0440\u0438\u0435\u0432, Alexander Carroll Sr. and Woods, Mary Polly",
         "note": "",
         "spou": [
-            1961,
-            1911
+            1050,
+            1029
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1971,
+                "index": 1060,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1975,
+                "index": 1051,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1962,
+                "index": 1057,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1970,
+                "index": 1056,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1968,
+                "index": 1053,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1965,
+                "index": 1055,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 1967,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1966,
+                "index": 1054,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -30537,141 +17721,14 @@ F = [
         "name": "Family of \u0414\u043c\u0438\u0442\u0440\u0438\u0435\u0432, Charles Sr. and Lapointe, Lucy aka Sarah",
         "note": "",
         "spou": [
-            1963,
-            1009
+            1052,
+            563
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 458,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1964,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 459,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1972,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1973,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1974,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1969,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1961,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 463,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1759",
-                "date_sdn": 2363522,
-                "descr": "Marriage of \u0414\u043c\u0438\u0442\u0440\u0438\u0435\u0432, Moses Aaron and Reynolds, Mary Jane",
-                "gid": "E2964",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 131,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0304",
-        "marr_place": "Carson City, NV, USA",
-        "marr_sdn": 2363522,
-        "marr_year": "1759",
-        "media": [],
-        "name": "Family of \u0414\u043c\u0438\u0442\u0440\u0438\u0435\u0432, Moses Aaron and Reynolds, Mary Jane",
-        "note": "",
-        "spou": [
-            1971,
-            1490
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of \u0414\u043c\u0438\u0442\u0440\u0438\u0435\u0432, Travis and Payne, Elizabeth",
-                "gid": "E3298",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0610",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of \u0414\u043c\u0438\u0442\u0440\u0438\u0435\u0432, Travis and Payne, Elizabeth",
-        "note": "",
-        "spou": [
-            1973,
-            1337
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -30684,7 +17741,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 163,
+                "place": 106,
                 "text": "",
                 "type": "Marriage"
             }
@@ -30697,13 +17754,14 @@ F = [
         "name": "Family of \u0414\u043c\u0438\u0442\u0440\u0438\u0435\u0432, William and Page, Sarah",
         "note": "",
         "spou": [
-            1975,
-            1307
+            1060,
+            721
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -30729,128 +17787,18 @@ F = [
         "name": "Family of \u0414\u043c\u0438\u0442\u0440\u0438\u0435\u0432, William and Wood, Polly",
         "note": "",
         "spou": [
-            1974,
-            1909
+            1059,
+            1027
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of \u0415\u0433\u043e\u0440\u043e\u0432, Dr. Charles J. and Page, Edith Mae",
-                "gid": "E3208",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 594,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0529",
-        "marr_place": "Palatka, Putnam, FL, USA",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of \u0415\u0433\u043e\u0440\u043e\u0432, Dr. Charles J. and Page, Edith Mae",
-        "note": "",
-        "spou": [
-            1976,
-            1278
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1993-11-27",
-                "date_sdn": 2449319,
-                "descr": "Marriage of \u0416\u0443\u043a\u043e\u0432, Curtis Dale and Gordon, Heather Kathleen",
-                "gid": "E2968",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 503,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0308",
-        "marr_place": "Merrill, WI, USA",
-        "marr_sdn": 2449319,
-        "marr_year": "1993",
-        "media": [],
-        "name": "Family of \u0416\u0443\u043a\u043e\u0432, Curtis Dale and Gordon, Heather Kathleen",
-        "note": "",
-        "spou": [
-            1978,
-            737
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1981,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1978,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of \u0416\u0443\u043a\u043e\u0432, David and Russell, Janet Gail",
-                "gid": "E2805",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0160",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of \u0416\u0443\u043a\u043e\u0432, David and Russell, Janet Gail",
-        "note": "",
-        "spou": [
-            1979,
-            1552
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1986,
+                "index": 1065,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -30867,7 +17815,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 850,
+                "place": 576,
                 "text": "",
                 "type": "Marriage"
             }
@@ -30880,42 +17828,18 @@ F = [
         "name": "Family of \u0417\u043b\u043e\u0431\u0438\u043d, Col. Joseph and Rice, Virginia Margaret",
         "note": "",
         "spou": [
-            1984,
-            1499
+            1064,
+            820
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1984,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [],
-        "gid": "F0693",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "",
-        "media": [],
-        "name": "Family of \u0417\u043b\u043e\u0431\u0438\u043d, John",
-        "note": "",
-        "spou": [
-            1985
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1987,
+                "index": 1066,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -30945,17 +17869,18 @@ F = [
         "name": "Family of \u0417\u043b\u043e\u0431\u0438\u043d, Joseph Jr. and Adkins, Martha",
         "note": "",
         "spou": [
-            1986,
-            14
+            1065,
+            11
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1989,
+                "index": 1067,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -30985,187 +17910,40 @@ F = [
         "name": "Family of \u0417\u044b\u043a\u043e\u0432, John and Hopkins, Mary Eve",
         "note": "",
         "spou": [
-            1990,
-            848
+            1068,
+            457
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1992,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 1994,
+                "index": 919,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             }
         ],
         "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of \u0418\u043b\u044c\u0438\u043d, Gary and Webb, Marilyn Jean",
-                "gid": "E3387",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 395,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0085",
-        "marr_place": "Kendallville, Noble, IN, USA",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of \u0418\u043b\u044c\u0438\u043d, Gary and Webb, Marilyn Jean",
-        "note": "",
-        "spou": [
-            1993,
-            1851
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 1998,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of \u041a\u0430\u0440\u043f\u043e\u0432, Damian and Hansen, Irene",
-                "gid": "E2907",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 314,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0253",
-        "marr_place": "Green Bay, WI, USA",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of \u041a\u0430\u0440\u043f\u043e\u0432, Damian and Hansen, Irene",
-        "note": "",
-        "spou": [
-            1997,
-            782
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 2002,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 2000,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1978-06-24",
-                "date_sdn": 2443684,
-                "descr": "Marriage of \u041a\u0438\u0441\u0435\u043b\u0435\u0432, Dennis John and Warner, Nancy Elizabeth",
-                "gid": "E3144",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 294,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0047",
-        "marr_place": "Gaithersburg, MD, USA",
-        "marr_sdn": 2443684,
-        "marr_year": "1978",
-        "media": [],
-        "name": "Family of \u041a\u0438\u0441\u0435\u043b\u0435\u0432, Dennis John and Warner, Nancy Elizabeth",
-        "note": "",
-        "spou": [
-            2001,
-            1768
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 2004,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of \u041a\u043e\u0437\u043b\u043e\u0432, Samuel C. and Pena, Julia",
-                "gid": "E2893",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0240",
+        "events": [],
+        "gid": "F0152",
         "marr_place": "",
         "marr_sdn": 0,
-        "marr_year": "?",
+        "marr_year": "",
         "media": [],
-        "name": "Family of \u041a\u043e\u0437\u043b\u043e\u0432, Samuel C. and Pena, Julia",
+        "name": "Family of \u041b\u0430\u043b\u0435\u0442\u0438\u043d, Elizabeth",
         "note": "",
         "spou": [
-            2005,
-            1354
+            1076
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -31191,13 +17969,14 @@ F = [
         "name": "Family of \u041b\u0435\u0431\u0435\u0434\u0435\u0432, Trustum and Warner, Johanna",
         "note": "",
         "spou": [
-            2011,
-            1738
+            1077,
+            954
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -31223,64 +18002,18 @@ F = [
         "name": "Family of \u041b\u043e\u0433\u0438\u043d\u043e\u0432, Guy and Kristensen, Margaret Agnes\"Maudy\"",
         "note": "",
         "spou": [
-            2012,
-            977
+            1078,
+            552
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 2013,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 2014,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1944-04-21",
-                "date_sdn": 2431202,
-                "descr": "Marriage of \u041b\u043e\u043f\u0430\u0442\u0438\u043d, Raymond A. and Garrett, Carmen Eloise",
-                "gid": "E3155",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 219,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0048",
-        "marr_place": "DuBois, PA, USA",
-        "marr_sdn": 2431202,
-        "marr_year": "1944",
-        "media": [],
-        "name": "Family of \u041b\u043e\u043f\u0430\u0442\u0438\u043d, Raymond A. and Garrett, Carmen Eloise",
-        "note": "",
-        "spou": [
-            2015,
-            687
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 2017,
+                "index": 1080,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -31297,7 +18030,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 125,
+                "place": 84,
                 "text": "",
                 "type": "Marriage"
             }
@@ -31310,12 +18043,13 @@ F = [
         "name": "Family of \u041c\u0430\u043a\u0430\u0440\u043e\u0432, Joseph",
         "note": "",
         "spou": [
-            2016
+            1079
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -31328,7 +18062,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 773,
+                "place": 522,
                 "text": "",
                 "type": "Marriage"
             }
@@ -31341,17 +18075,18 @@ F = [
         "name": "Family of \u041c\u0430\u043a\u0441\u0438\u043c\u043e\u0432 and Allen, Abigail",
         "note": "",
         "spou": [
-            2018,
-            20
+            1081,
+            17
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 2019,
+                "index": 1082,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -31381,96 +18116,18 @@ F = [
         "name": "Family of \u041c\u0430\u043a\u0441\u0438\u043c\u043e\u0432, George and \u0416\u0443\u043a\u043e\u0432, Annabell Gordon",
         "note": "",
         "spou": [
-            2020,
-            1977
+            1083,
+            1061
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 2021,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 2022,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1966-11-12",
-                "date_sdn": 2439442,
-                "descr": "Marriage of \u041c\u0430\u043a\u0441\u0438\u043c\u043e\u0432, Rodney Herman and Cruz, Janis Marlene",
-                "gid": "E3395",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0092",
-        "marr_place": "",
-        "marr_sdn": 2439442,
-        "marr_year": "1966",
-        "media": [],
-        "name": "Family of \u041c\u0430\u043a\u0441\u0438\u043c\u043e\u0432, Rodney Herman and Cruz, Janis Marlene",
-        "note": "",
-        "spou": [
-            2024,
-            410
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of \u041c\u0430\u0440\u0442\u044b\u043d\u043e\u0432 and Reed, Jane",
-                "gid": "E3275",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0590",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of \u041c\u0430\u0440\u0442\u044b\u043d\u043e\u0432 and Reed, Jane",
-        "note": "",
-        "spou": [
-            2026,
-            1428
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 2097,
+                "index": 1128,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -31486,25 +18143,26 @@ F = [
         "name": "Family of \u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432, Veltin",
         "note": "",
         "spou": [
-            2034
+            1091
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
             {
                 "cita": [],
-                "date": "vers 1715",
+                "date": "about 1715",
                 "date_sdn": 2347451,
                 "descr": "Marriage of \u041d\u043e\u0432\u0438\u043a\u043e\u0432, Thomas and Allen, Rachel",
                 "gid": "E3331",
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 773,
+                "place": 522,
                 "text": "",
                 "type": "Marriage"
             }
@@ -31517,29 +18175,15 @@ F = [
         "name": "Family of \u041d\u043e\u0432\u0438\u043a\u043e\u0432, Thomas and Allen, Rachel",
         "note": "",
         "spou": [
-            2036,
-            32
+            1093,
+            29
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 2040,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 2038,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
         "cita": [],
         "events": [
             {
@@ -31564,17 +18208,18 @@ F = [
         "name": "Family of \u041f\u0430\u0432\u043b\u043e\u0432, Reuben and Douglas, Lucinda J.",
         "note": "",
         "spou": [
-            2039,
-            507
+            1094,
+            301
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 788,
+                "index": 437,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -31604,45 +18249,14 @@ F = [
         "name": "Family of \u041f\u043e\u043d\u043e\u043c\u0430\u0440\u0435\u0432, Ralph and Rodr\u00edguez, Agatha",
         "note": "",
         "spou": [
-            2042,
-            1515
+            1095,
+            824
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of \u041f\u043e\u0442\u044b\u043b\u0438\u0446\u0438\u043d, Edward and B\u00e9langer, Linda Ellen",
-                "gid": "E2835",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0189",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of \u041f\u043e\u0442\u044b\u043b\u0438\u0446\u0438\u043d, Edward and B\u00e9langer, Linda Ellen",
-        "note": "",
-        "spou": [
-            2044,
-            143
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -31668,78 +18282,18 @@ F = [
         "name": "Family of \u0420\u043e\u043c\u0430\u043d\u043e\u0432, John and Moreno, Delilah",
         "note": "",
         "spou": [
-            2045,
-            1154
+            1097,
+            645
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 2050,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 2047,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 2049,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 2051,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "1975-02-08",
-                "date_sdn": 2442452,
-                "descr": "Marriage of \u0421\u0435\u0440\u0433\u0435\u0435\u0432, Dennis and Garner, Kathryn Mary",
-                "gid": "E2939",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 586,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0282",
-        "marr_place": "Ottawa, La Salle, IL, USA",
-        "marr_sdn": 2442452,
-        "marr_year": "1975",
-        "media": [],
-        "name": "Family of \u0421\u0435\u0440\u0433\u0435\u0435\u0432, Dennis and Garner, Kathryn Mary",
-        "note": "",
-        "spou": [
-            2048,
-            655
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 2053,
+                "index": 1100,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -31769,17 +18323,18 @@ F = [
         "name": "Family of \u0421\u043c\u0438\u0440\u043d\u043e\u0432, Eudo and Rios, Agnes",
         "note": "",
         "spou": [
-            2052,
-            1503
+            1099,
+            822
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 2042,
+                "index": 1095,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -31809,53 +18364,14 @@ F = [
         "name": "Family of \u0421\u043c\u0438\u0440\u043d\u043e\u0432, Ribald and Gray, Beatrix",
         "note": "",
         "spou": [
-            2053,
-            747
+            1100,
+            416
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 2056,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of \u0421\u043e\u0440\u043e\u043a\u0438\u043d, Robert and \u0421\u043e\u0440\u043e\u043a\u0438\u043d, Candy",
-                "gid": "E3077",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0407",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of \u0421\u043e\u0440\u043e\u043a\u0438\u043d, Robert and \u0421\u043e\u0440\u043e\u043a\u0438\u043d, Candy",
-        "note": "",
-        "spou": [
-            2057,
-            2055
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -31881,78 +18397,39 @@ F = [
         "name": "Family of \u0422\u0430\u0440\u0430\u0441\u043e\u0432, Simon and Todd, Flora Belle",
         "note": "",
         "spou": [
-            2058,
-            1648
+            1102,
+            907
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 2068,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of \u0422\u0438\u0445\u043e\u043d\u043e\u0432, Miles? and Smith, Anastasia?",
-                "gid": "E2868",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": 426,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0218",
-        "marr_place": "Lansing, MI, USA",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of \u0422\u0438\u0445\u043e\u043d\u043e\u0432, Miles? and Smith, Anastasia?",
-        "note": "",
-        "spou": [
-            2067,
-            1600
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 2064,
+                "index": 1108,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 2069,
+                "index": 1112,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 2065,
+                "index": 1109,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 2066,
+                "index": 1110,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -31969,7 +18446,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 586,
+                "place": 392,
                 "text": "",
                 "type": "Marriage"
             }
@@ -31982,71 +18459,36 @@ F = [
         "name": "Family of \u0422\u0438\u0445\u043e\u043d\u043e\u0432, Moses and Holt, Bridget",
         "note": "",
         "spou": [
-            2068,
-            846
+            1111,
+            456
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 2074,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
+        "change_time": "2007-07-26 10:34:25",
+        "chil": [],
         "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of \u0424\u0435\u0434\u043e\u0440\u043e\u0432 and Reed, Bridget",
-                "gid": "E3272",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
+        "events": [],
         "gid": "F0588",
         "marr_place": "",
         "marr_sdn": 0,
-        "marr_year": "?",
+        "marr_year": "",
         "media": [],
-        "name": "Family of \u0424\u0435\u0434\u043e\u0440\u043e\u0432 and Reed, Bridget",
+        "name": "Family of \u0424\u0435\u0434\u043e\u0440\u043e\u0432",
         "note": "",
         "spou": [
-            2070,
-            1411
+            1113
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 2071,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 2073,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 2072,
+                "index": 46,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -32054,31 +18496,32 @@ F = [
         ],
         "cita": [],
         "events": [],
-        "gid": "F0733",
+        "gid": "F0220",
         "marr_place": "",
         "marr_sdn": 0,
         "marr_year": "",
         "media": [],
-        "name": "Family of \u0424\u0435\u0434\u043e\u0440\u043e\u0432, Patrick",
+        "name": "Family of \u0424\u0438\u043b\u0438\u043f\u043f\u043e\u0432, Elizabeth",
         "note": "",
         "spou": [
-            2074
+            1114
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 2078,
+                "index": 1115,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 2079,
+                "index": 1116,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -32108,52 +18551,53 @@ F = [
         "name": "Family of \u0427\u0435\u0440\u043a\u0430\u0448\u0438\u043d, Thomas and Jankowski, Margaret Jane \"Maggie\"",
         "note": "",
         "spou": [
-            2080,
-            896
+            1117,
+            493
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 1917,
+                "index": 1031,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 2063,
+                "index": 1107,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 2061,
+                "index": 1105,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 2060,
+                "index": 1104,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 2062,
+                "index": 1106,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 2059,
+                "index": 1103,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -32183,67 +18627,14 @@ F = [
         "name": "Family of \u0428\u0435\u0441\u0442\u0430\u043a\u043e\u0432, George and Daniels, Phoebe",
         "note": "",
         "spou": [
-            2084,
-            437
+            1120,
+            249
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [
-            {
-                "cita": [],
-                "index": 2086,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 2085,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            },
-            {
-                "cita": [],
-                "index": 2088,
-                "note": "",
-                "to_father": "Birth",
-                "to_mother": "Birth"
-            }
-        ],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "avant 1911-07-06",
-                "date_sdn": 2419224,
-                "descr": "Marriage of \u042f\u043a\u043e\u0432\u043b\u0435\u0432, George and Garner, Jennie S.",
-                "gid": "E2824",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0179",
-        "marr_place": "",
-        "marr_sdn": 2419224,
-        "marr_year": "1911",
-        "media": [],
-        "name": "Family of \u042f\u043a\u043e\u0432\u043b\u0435\u0432, George and Garner, Jennie S.",
-        "note": "",
-        "spou": [
-            2087,
-            650
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -32269,91 +18660,60 @@ F = [
         "name": "Family of \u4e2d\u6751, Thomas and Jim\u00e9nez, Polly Mary",
         "note": "",
         "spou": [
-            2091,
-            926
+            1123,
+            521
         ],
         "type": "Married"
     },
     {
         "attr": [],
-        "chil": [],
-        "cita": [],
-        "events": [
-            {
-                "cita": [],
-                "date": "",
-                "date_sdn": 0,
-                "descr": "Marriage of \u5c0f\u6797, Mr. and Waters, Nellie",
-                "gid": "E3219",
-                "media": [],
-                "part_family": [],
-                "part_person": [],
-                "place": -1,
-                "text": "",
-                "type": "Marriage"
-            }
-        ],
-        "gid": "F0539",
-        "marr_place": "",
-        "marr_sdn": 0,
-        "marr_year": "?",
-        "media": [],
-        "name": "Family of \u5c0f\u6797, Mr. and Waters, Nellie",
-        "note": "",
-        "spou": [
-            2093,
-            1809
-        ],
-        "type": "Married"
-    },
-    {
-        "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 163,
+                "index": 105,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 157,
+                "index": 100,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 171,
+                "index": 112,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 164,
+                "index": 106,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 168,
+                "index": 110,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 154,
+                "index": 97,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
             },
             {
                 "cita": [],
-                "index": 2095,
+                "index": 1126,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -32383,17 +18743,18 @@ F = [
         "name": "Family of \u5c71\u672c, Antoine Desaure Perronett and \u0421\u043e\u043a\u043e\u043b\u043e\u0432, Louise",
         "note": "",
         "spou": [
-            2094,
-            2054
+            1125,
+            1101
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 2094,
+                "index": 1125,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -32409,16 +18770,17 @@ F = [
         "name": "Family of \u5c71\u672c, Gabriel Gustave",
         "note": "",
         "spou": [
-            2096
+            1127
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [
             {
                 "cita": [],
-                "index": 2033,
+                "index": 1090,
                 "note": "",
                 "to_father": "Birth",
                 "to_mother": "Birth"
@@ -32435,7 +18797,7 @@ F = [
                 "media": [],
                 "part_family": [],
                 "part_person": [],
-                "place": 359,
+                "place": 237,
                 "text": "",
                 "type": "Marriage"
             }
@@ -32448,13 +18810,14 @@ F = [
         "name": "Family of \u658e\u85e4, Zariakius Cyriacus and Bishop, Anna Barbara",
         "note": "",
         "spou": [
-            2097,
-            181
+            1128,
+            119
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -32480,13 +18843,14 @@ F = [
         "name": "Family of \u9234\u6728, Allen and Mar\u00edn, Alice",
         "note": "",
         "spou": [
-            2099,
-            1078
+            1130,
+            597
         ],
         "type": "Married"
     },
     {
         "attr": [],
+        "change_time": "2007-07-26 10:34:25",
         "chil": [],
         "cita": [],
         "events": [
@@ -32512,8 +18876,8 @@ F = [
         "name": "Family of \u9234\u6728, Robert B. and Blanco, Mary F.",
         "note": "",
         "spou": [
-            2101,
-            209
+            1131,
+            143
         ],
         "type": "Married"
     }
