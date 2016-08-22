@@ -37,6 +37,6 @@ It exports the database as web pages.
   The web pages could be browsed in a regular web site or on the local machine.  
 
 ## More...
-See:
+See:  
 - [Gramps project](https://gramps-project.org/)  
 - Source code in the [GRAMPS addon repository](https://github.com/gramps-project/addons-source)  
