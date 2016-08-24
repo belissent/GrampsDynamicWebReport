@@ -7,6 +7,12 @@ layout: index
 This add-on for [Gramps](https://gramps-project.org/) is an alternative to the [Narrative Web Report](https://gramps-project.org/wiki/index.php?title=Gramps_4.0_Wiki_Manual_-_Reports_-_part_7).  
 It exports the database as web pages.
 
+| Warning |
+| --- |
+| *Some users expereience performance issues with databases over 5000 people, and some experience bugs over 10000 people.*  
+*The issue is in progress (see [#0009647](0009647))* |
+
+
 ## Features
 - **Browsable** and zoomable bi-directional family tree view [[demo]](reports/report_000/tree_svg.html?igid=I0044).  
 - **Search** by individual.  
