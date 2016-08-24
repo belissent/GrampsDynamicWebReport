@@ -5,7 +5,7 @@ layout: index
 
 | Warning |
 | --- |
-| *Some users experience performance issues with databases over 5000 people, and some experience bugs over 10000 people. The issue is in progress (see [#0009647](0009647))* |
+| *Some users experience performance issues with databases over 5000 people, and some experience bugs over 10000 people. The issue is in progress (see [#0009647](https://gramps-project.org/bugs/view.php?id=9647))* |
 
 ## Description
 This add-on for [Gramps](https://gramps-project.org/) is an alternative to the [Narrative Web Report](https://gramps-project.org/wiki/index.php?title=Gramps_4.0_Wiki_Manual_-_Reports_-_part_7).  
