@@ -5,3 +5,4 @@ R_xgid = {
 "R0002": 1,
 "R0003": 0
 }
+Dwr.ScriptLoaded('dwr_db_R_xgid.js');

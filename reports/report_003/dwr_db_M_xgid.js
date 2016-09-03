@@ -9,3 +9,4 @@ M_xgid = {
 "O0010": 1,
 "O0011": 4
 }
+Dwr.ScriptLoaded('dwr_db_M_xgid.js');

@@ -6,3 +6,4 @@ S_xgid = {
 "S0002": 2,
 "S0003": 1
 }
+Dwr.ScriptLoaded('dwr_db_S_xgid.js');

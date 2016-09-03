@@ -1135,3 +1135,4 @@ I_xgid = {
 "I2115": 3,
 "I2116": 1123
 }
+Dwr.ScriptLoaded('dwr_db_I_xgid.js');

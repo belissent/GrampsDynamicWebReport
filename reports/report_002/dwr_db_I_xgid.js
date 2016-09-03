@@ -2130,3 +2130,4 @@ I_xgid = {
 "I2126": 1945,
 "I2127": 1937
 }
+Dwr.ScriptLoaded('dwr_db_I_xgid.js');

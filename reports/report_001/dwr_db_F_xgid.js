@@ -752,3 +752,4 @@ F_xgid = {
 "F0748": 679,
 "F0749": 680
 }
+Dwr.ScriptLoaded('dwr_db_F_xgid.js');

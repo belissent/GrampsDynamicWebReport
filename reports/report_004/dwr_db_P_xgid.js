@@ -580,3 +580,4 @@ P_xgid = {
 "P1700": 561,
 "P1704": 431
 }
+Dwr.ScriptLoaded('dwr_db_P_xgid.js');
