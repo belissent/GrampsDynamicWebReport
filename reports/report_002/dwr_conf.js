@@ -5,7 +5,17 @@ DWR_VERSION_412 = true;
 DWR_VERSION_420 = true;
 DWR_VERSION_500 = true;
 TITLE = "Example using template \'Default\' French translation and OpenStreetMap";
-NB_GENERATIONS_MAX = 10;
+SPLIT = 5000;
+DB_SIZES = {
+    "C": 2854,
+    "F": 750,
+    "I": 2128,
+    "M": 7,
+    "N": 607,
+    "P": 1294,
+    "R": 3,
+    "S": 4
+};NB_GENERATIONS_MAX = 10;
 PAGES_FILE = ["index.html", "", "tree_svg.html", "custom_1.html"];
 PAGES_TITLE = ["Accueil", "Indexes", "Tree", "Custom page 1"];
 PAGES_FILE_INDEX = ["surnames.html", "persons.html", "families.html", "sources.html", "medias.html", "places.html", "repositories.html", "address.html"];
@@ -39,6 +49,7 @@ CHART_BACKGROUND_SINGLE = 0;
 CHART_BACKGROUND_WHITE = 5;
 CHART_BACKGROUND_SCHEME1 = 3;
 CHART_BACKGROUND_SCHEME2 = 4;
+STATISTICS_CHART_OPACITY = 70;
 GRAMPS_PREFERENCES = [];
 GRAMPS_PREFERENCES['bordercolor-gender-female-alive'] = "#861f69";
 GRAMPS_PREFERENCES['bordercolor-gender-female-death'] = "#000000";
@@ -55,16 +66,22 @@ GRAMPS_PREFERENCES['color-gender-unknown-death'] = "#f3dbb6";
 SVG_TREE_COLOR_SCHEME0 = ["#ffffff", "#ffffff"];
 SVG_TREE_COLOR_SCHEME1 = ["#ff3f00", "#ffaf0f", "#ffdf57", "#ffff6f", "#9fff9f", "#6fd7ff", "#4f97ff", "#e717ff", "#e71779", "#d2aa7c", "#bd9970"];
 SVG_TREE_COLOR_SCHEME2 = ["#e5bffc", "#bfbffc", "#bfdefc", "#b7dbc5", "#cef6d1"];
-FOOTER="<div class=\"grampsstylednote\">\n<p>\nFooter: exported by  <a href=\'http://gramps-project.org/\' class=\'gramps_homepage\'>Gramps</a> on 2016-08-22\n</p>\n</div>";
+FOOTER="<div class=\"grampsstylednote\">\n<p>\nFooter: exported by  <a href=\'http://gramps-project.org/\' class=\'gramps_homepage\'>Gramps</a> on 2016-09-03\n</p>\n</div>";
 HEADER="<div class=\"grampsstylednote\">\n<p>\n<span style=\"color:#ef2929;\"></span><span style=\"text-decoration:underline;\"><span style=\"color:#ef2929;\"></span></span><span style=\"font-family:\'Serif\';\"><span style=\"text-decoration:underline;\"><span style=\"color:#ef2929;\"></span></span></span><strong><span style=\"font-family:\'Serif\';\"><span style=\"text-decoration:underline;\"><span style=\"color:#ef2929;\"></span></span></span></strong><span style=\"font-size:8px;\"><strong><span style=\"font-family:\'Serif\';\"><span style=\"text-decoration:underline;\"><span style=\"color:#ef2929;\">Title for the example pages</span></span></span></strong></span><strong><span style=\"font-family:\'Serif\';\"><span style=\"text-decoration:underline;\"><span style=\"color:#ef2929;\"></span></span></span></strong><span style=\"font-family:\'Serif\';\"><span style=\"text-decoration:underline;\"><span style=\"color:#ef2929;\"></span></span></span><span style=\"text-decoration:underline;\"><span style=\"color:#ef2929;\"></span></span><span style=\"color:#ef2929;\"></span>\n</p>\n</div>";
 BRAND_TITLE="";
 COPYRIGHT="";
-INDEX_SHOW_BIRTH=true;
-INDEX_SHOW_DEATH=true;
-INDEX_SHOW_MARRIAGE=true;
+INDEX_SURNAMES_TYPE=false;
+INDEX_PERSONS_TYPE=true;
+INDEX_FAMILIES_TYPE=true;
+INDEX_SOURCES_TYPE=true;
+INDEX_PLACES_TYPE=true;
+INDEX_SHOW_DATES=true;
 INDEX_SHOW_PARTNER=true;
 INDEX_SHOW_PARENTS=true;
+INDEX_SHOW_PATH=true;
 INDEX_SHOW_BKREF_TYPE=true;
+INDEX_DEFAULT_SIZE = 1;
+INDEXES_SIZES = [[10, 50, 100, 500, 1000, 5000], ['10', '50', '100', '500', '1000', '5000']];
 SHOW_ALL_SIBLINGS=true;
 INC_EVENTS=false;
 INC_FAMILIES=true;
@@ -77,14 +94,17 @@ INC_ADDRESSES=true;
 MAP_PLACE=true;
 MAP_FAMILY=true;
 MAP_SERVICE="OpenStreetMap";
-GOOGLE_MAP_KEY="";
-SOURCE_AUTHOR_IN_TITLE=false;
+SOURCE_AUTHOR_IN_TITLE=true;
 TABBED_PANELS=true;
-INC_CHANGE_TIME=false;
-HIDE_GID=true;
+INC_CHANGE_TIME=true;
+HIDE_GID=false;
 INC_PAGECONF = true;
 __ = {
+"(b. %(birthdate)s, d. %(deathdate)s)": "(n. %(birthdate)s, d. %(deathdate)s)",
+"(b. %s)": "(n. %s)",
+"(d. %s)": "(d. %s)",
 "(filtered from _MAX_ total entries)": "(filtered from _MAX_ total entries)",
+"(m. %s)": "(m. %s)",
 "(sort by name)": "(sort by name)",
 "(sort by quantity)": "(sort by quantity)",
 ": activate to sort column ascending": ": activate to sort column ascending",
@@ -135,11 +155,12 @@ __ = {
 "Female": "Féminin",
 "File ready": "File ready",
 "Gender": "Genre",
+"Help": "Help",
+"ID": "ID",
 "Include Place map on Place Pages": "Inclure une carte dans les pages du lieu",
-"Include a column for birth dates on the index pages": "Inclure une colonne pour les dates de naissance dans les pages index",
-"Include a column for death dates on the index pages": "Inclure une colonne pour les dates de décès dans les pages index",
-"Include a column for marriage dates on the index pages": "Include a column for marriage dates on the index pages",
+"Include dates columns on the index pages": "Include dates columns on the index pages",
 "Include a column for parents on the index pages": "Inclure une colonne pour les parents dans les pages index",
+"Include a column for media path on the index pages": "Include a column for media path on the index pages",
 "Include a column for partners on the index pages": "Inclure une colonne pour les conjoints dans les pages index",
 "Include a map in the individuals and family pages": "Include a map in the individuals and family pages",
 "Include half and/ or step-siblings on the individual pages": "Inclure les demi-frères et demi-sœurs sur la page de l\'individu",
@@ -170,7 +191,6 @@ __ = {
 "No matching surname.": "No matching surname.",
 "None": "Aucun",
 "Notes": "Notes",
-"Number of entries in the tables": "Number of entries in the tables",
 "OK": "OK",
 "Other participants": "Other participants",
 "Parents": "Parents ",
@@ -193,6 +213,7 @@ __ = {
 "Repositories": "Dépôts",
 "Repository": "Dépôt ",
 "Restore": "Restore",
+"Restore default settings": "Restore default settings",
 "Show last modification time": "Show last modification time",
 "SVG tree children distribution": "SVG tree children distribution",
 "SVG tree graph shape": "SVG tree graph shape",
@@ -236,7 +257,9 @@ __ = {
 "Web Link": "Web Link",
 "Web Links": "Liens internet",
 "Whether to use a special color for the persons that appear several times in the SVG tree": "Whether to use a special color for the persons that appear several times in the SVG tree",
+"Without name": "Without name",
 "Without surname": "Without surname",
+"Without title": "Without title",
 "Zoom in": "Zoom in",
 "Zoom out": "Zoom out",
 "all": "all",

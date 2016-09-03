@@ -24,14 +24,11 @@ You should have received a copy of the GNU General Public License along with thi
 .dwr-centered {
   text-align: center;
 }
-.dwr-nowrap {
-  white-space: nowrap;
-}
 li p {
   margin: 0px;
 }
 .panel-title > .label {
-  color: #ffffff;
+  color: #fff;
 }
 /*===================================================== Main divs */
 @media (max-width: 767px) {
@@ -176,7 +173,7 @@ li p {
 .dwr-imgmap {
   display: none;
   position: absolute;
-  background: #ffffff;
+  background: #fff;
   opacity: 0.5;
   filter: alpha(opacity=50);
   border-radius: 4px;
@@ -202,6 +199,9 @@ li p {
 }
 #dwr-img-div #media-buttons {
   display: none;
+}
+.note_media {
+  max-width: 100%;
 }
 /*===================================================== Page contents */
 .dwr-attr-title {
@@ -243,6 +243,13 @@ li p {
 .thumbnail > img {
   max-width: initial;
 }
+.dwr-empty {
+  font-style: italic;
+  font-size: smaller;
+}
+.dwr-fallback {
+  font-style: italic;
+}
 /*===================================================== Map */
 #gmap_canvas {
   height: 330px;
@@ -274,16 +281,18 @@ li p {
 }
 /*===================================================== Tree page */
 .svg-drawing {
-  background: #ffffff;
+  background: #fff;
   position: relative;
   overflow: hidden;
+  text-rendering: geometricPrecision;
 }
 .svg-drawing-expand {
-  background: #ffffff;
+  background: #fff;
   position: relative;
   overflow: hidden;
   margin: 0px;
   width: auto;
+  text-rendering: geometricPrecision;
 }
 .svg-drawing svg {
   display: block;
@@ -299,15 +308,15 @@ li p {
 }
 .svg-popup {
   max-width: initial;
+  z-index: 111;
   opacity: 0.9;
   filter: alpha(opacity=90);
 }
 .svg-popup div {
   font-size: 12px;
 }
-.totosvg-popup p {
-  margin: 0px;
-  /* text-align: center; */
+.dropdown-menu {
+  z-index: 222;
 }
 /*===================================================== Tree configuration page */
 #svg-type {
@@ -326,7 +335,6 @@ li p {
   position: absolute;
   top: 0;
   left: 0;
-  z-index: 100;
   width: 100vw;
   height: 100vh;
   background-color: #FFFFFF;
