@@ -90,6 +90,7 @@ var SVG_SEPARATOR_SIZE = 0.3 // Separator size compared to person box size
 
 var SVG_GENDER_K = 0.9;
 
+var DRAGGING_THRESHOLD = 10;
 
 //==============================================================================
 //==============================================================================
@@ -321,7 +322,11 @@ function SvgInit()
 		.on('selectstart', false)
 		.mousedown(SvgMouseDown)
 		.mousemove(SvgMouseMoveHover)
-		.mouseout(SvgMouseOut);
+		.mouseout(SvgMouseOut)
+		.on({'touchend': SvgTouchEnd})
+		.on({'touchstart': SvgTouchStart})
+		.on({'touchmove': SvgTouchMove})
+		.on({'touchmove': SvgTouchCancel});
 	$(document)
 		.keydown(SvgKeyDown)
 		.keyup(SvgKeyUp);
@@ -356,6 +361,7 @@ DwrSvgClass.prototype.ConfPage = function()
 {
 	var html = '';
 	// Graph type selector floating div
+	html += '<h1>' + _('SVG tree configuration') + '</h1>';
 	html += '<div id="svg-drawing-type" class="panel panel-default svg-drawing-type">';
 	html += '<div class="panel-body">';
 	html += '<form role="form">';
@@ -930,7 +936,7 @@ function SvgMouseMoveWindow(event)
 	{
 		var p = getEventPoint(event);
 		var d = Math.sqrt((p.x - clickOrigin.x) * (p.x - clickOrigin.x) + (p.y - clickOrigin.y) * (p.y - clickOrigin.y));
-		if (d > 10 || svgMoving)
+		if (d > DRAGGING_THRESHOLD || svgMoving)
 		{
 			svgMoving = true;
 			var p2 = p.matrixTransform(tfMoveZoom);
@@ -1153,6 +1159,107 @@ function SvgSetGraphCtm(matrix)
 	// Set transform
 	var s = 'matrix(' + matrix.a + ',' + matrix.b + ',' + matrix.c + ',' + matrix.d + ',' + matrix.e + ',' + matrix.f + ')';
 	g.setAttribute('transform', s);
+}
+
+
+//==============================================================================
+//=========================================== Touch events
+//==============================================================================
+
+var touchState = {
+	dragging: false,
+	moving: false,
+	zooming: false,
+	x1: 0,
+	y1: 0,
+	x2: 0,
+	y2: 0
+};
+
+function getTouchPoint(e)
+{
+	var p = svgRoot.createSVGPoint();
+	var posX = $(svgRoot).offset().left;
+	var posY = $(svgRoot).offset().top;
+	p.x = e.touches[0].clientX - posX;
+	p.y = e.touches[0].clientY - posY;
+	return p;
+}
+
+function SvgTouchStart(event)
+{
+	var e = event.originalEvent;
+	if (e.touches.length == 1)
+	{
+		clickOrigin = getTouchPoint(e);
+		var g = svgRoot.getElementById('viewport');
+		tfMoveZoom = g.getCTM().inverse();
+		touchState.dragging = true;
+		touchState.moving = false;
+		touchState.zooming = false;
+	}
+	if (e.touches.length == 2)
+	{
+		touchState.x1 = e.touches[0].clientX;
+		touchState.y1 = e.touches[0].clientY;
+		touchState.x2 = e.touches[1].clientX;
+		touchState.y2 = e.touches[1].clientY;
+		touchState.dragging = false;
+		touchState.zooming = true;
+	}
+	touchState.dragging = false;
+	touchState.zooming = false;
+	return(true);
+}
+
+function SvgTouchEnd(event)
+{
+	touchState.dragging = false;
+	touchState.zooming = false;
+	return(true);
+}
+
+function SvgTouchMove(event)
+{
+	if (touchState.dragging && e.touches.length == 1)
+	{
+		var x = e.touches[0].clientX;
+		var y = e.touches[0].clientY;
+		var d = Math.sqrt((x - clickOrigin.x) * (x - clickOrigin.x) + (y - clickOrigin.y) * (y - clickOrigin.y));
+		if (d > DRAGGING_THRESHOLD || touchState.moving)
+		{
+			touchState.moving = true;
+			var p2 = p.matrixTransform(tfMoveZoom);
+			var o2 = clickOrigin.matrixTransform(tfMoveZoom);
+			// console.log(p.x, clickOrigin.x, p2.x, o2.x);
+			SvgSetGraphCtm(tfMoveZoom.inverse().translate(p2.x - o2.x, p2.y - o2.y));
+			return(false);
+		}
+	}
+	if (touchState.zooming && e.touches.length == 2)
+	{
+		var x1 = e.touches[0].clientX;
+		var y1 = e.touches[0].clientY;
+		var x2 = e.touches[1].clientX;
+		var y2 = e.touches[1].clientY;
+		var p = svgRoot.createSVGPoint();
+		p.x = (touchState.x1 + touchState.x2) / 2.0;
+		p.y = (touchState.y1 + touchState.y2) / 2.0;
+		var d0 = Math.sqrt((touchState.x1 - touchState.x2) * (touchState.x1 - touchState.x2) + (touchState.y1 - touchState.y2) * (touchState.y1 - touchState.y2));
+		var d = Math.sqrt((x1 - x2) * (x1 - x2) + (y1 - y2) * (y1 - y2));
+		var z = d / d0; // Zoom factor
+		if (z >= 1) deltaY = Math.log(z) / Math.log(1.1);
+		else deltaY = Math.log(z) / Math.log(0.9);
+		SvgZoom(deltaY, p);
+	}
+	return(true);
+}
+
+function SvgTouchCancel(event)
+{
+	touchState.dragging = false;
+	touchState.zooming = false;
+	return(true);
 }
 
 
